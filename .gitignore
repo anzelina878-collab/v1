@@ -1,0 +1,13 @@
+
+# Local production media; final delivery is attached to a draft GitHub release.
+Производство/episodes/*/inputs/*.mp3
+Производство/episodes/*/alignment/*.wav
+Производство/episodes/*/render/
+Производство/episodes/*/assets/downloaded/
+Производство/episodes/*/assets/generated/
+Производство/episodes/*/assets/pages/
+Производство/episodes/*/assets/thumbs/
+Производство/episodes/*/assets/*.jpg
+Результаты/**/*.mp4
+Результаты/**/*.zip
+**/__pycache__/

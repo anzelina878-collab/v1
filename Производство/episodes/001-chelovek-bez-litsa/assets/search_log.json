@@ -1,38 +1,451 @@
 [
   {
-    "purpose": "google",
-    "url": "https://www.google.com/search?q=Lumiere+Place+2014+casino+Russian+slot+machine+Wired",
-    "result": "HTTP CONNECT proxy returned 403 Forbidden",
-    "content_inspected": false,
-    "rights_verified": false,
-    "selected": false,
-    "next_action": "Apply saved network draft and retry"
+    "stage": "historical_pre_publication",
+    "observation": {
+      "purpose": "google",
+      "url": "https://www.google.com/search?q=Lumiere+Place+2014+casino+Russian+slot+machine+Wired",
+      "result": "HTTP CONNECT proxy returned 403 Forbidden",
+      "content_inspected": false,
+      "rights_verified": false,
+      "selected": false,
+      "next_action": "Apply saved network draft and retry"
+    }
   },
   {
-    "purpose": "wired",
-    "url": "https://www.wired.com/story/meet-alex-the-russian-casino-hacker-who-makes-millions-targeting-slot-machines/",
-    "result": "HTTP CONNECT proxy returned 403 Forbidden",
-    "content_inspected": false,
-    "rights_verified": false,
-    "selected": false,
-    "next_action": "Apply saved network draft and retry"
+    "stage": "historical_pre_publication",
+    "observation": {
+      "purpose": "wired",
+      "url": "https://www.wired.com/story/meet-alex-the-russian-casino-hacker-who-makes-millions-targeting-slot-machines/",
+      "result": "HTTP CONNECT proxy returned 403 Forbidden",
+      "content_inspected": false,
+      "rights_verified": false,
+      "selected": false,
+      "next_action": "Apply saved network draft and retry"
+    }
   },
   {
-    "purpose": "wikimedia",
-    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=Main_Page",
-    "result": "HTTP CONNECT proxy returned 403 Forbidden",
-    "content_inspected": false,
-    "rights_verified": false,
-    "selected": false,
-    "next_action": "Apply saved network draft and retry"
+    "stage": "historical_pre_publication",
+    "observation": {
+      "purpose": "wikimedia",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=Main_Page",
+      "result": "HTTP CONNECT proxy returned 403 Forbidden",
+      "content_inspected": false,
+      "rights_verified": false,
+      "selected": false,
+      "next_action": "Apply saved network draft and retry"
+    }
   },
   {
-    "purpose": "asr_model",
-    "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/main/config.json",
-    "result": "HTTP CONNECT proxy returned 403 Forbidden",
-    "content_inspected": false,
-    "rights_verified": false,
-    "selected": false,
-    "next_action": "Apply saved network draft and retry"
+    "stage": "historical_pre_publication",
+    "observation": {
+      "purpose": "asr_model",
+      "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/main/config.json",
+      "result": "HTTP CONNECT proxy returned 403 Forbidden",
+      "content_inspected": false,
+      "rights_verified": false,
+      "selected": false,
+      "next_action": "Apply saved network draft and retry"
+    }
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "casino",
+    "inspected_search_url": "https://www.pexels.com/search/videos/slot%20machine/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 15,
+    "selected_asset_ids": [
+      "pexels_9807879",
+      "pexels_9807884",
+      "pexels_9807885",
+      "pexels_35728851",
+      "pexels_34495727"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "code",
+    "inspected_search_url": "https://www.pexels.com/search/videos/coding%20hands%20dark/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 20,
+    "selected_asset_ids": [
+      "pexels_18382358",
+      "pexels_6346228",
+      "pexels_5495781",
+      "pexels_6346224",
+      "pexels_5495845",
+      "pexels_13522186",
+      "pexels_13522169",
+      "pexels_7534244",
+      "pexels_6330774",
+      "pexels_6330779",
+      "pexels_5495784",
+      "pexels_33187889",
+      "pexels_5240933",
+      "pexels_7534239",
+      "pexels_40271529",
+      "pexels_33841807",
+      "pexels_36392564"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "phone",
+    "inspected_search_url": "https://www.pexels.com/search/videos/smartphone%20hands%20dark/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 19,
+    "selected_asset_ids": [
+      "pexels_6611941",
+      "pexels_13358555",
+      "pexels_5617952",
+      "pexels_28828935",
+      "pexels_33942937",
+      "pexels_6611938",
+      "pexels_7534331",
+      "pexels_6414098",
+      "pexels_7534329",
+      "pexels_5925287",
+      "pexels_6611939"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "server",
+    "inspected_search_url": "https://www.pexels.com/search/videos/server%20room/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 18,
+    "selected_asset_ids": [
+      "pexels_1085656",
+      "pexels_7140928",
+      "pexels_7140937",
+      "pexels_7140931",
+      "pexels_6804117",
+      "pexels_38496192",
+      "pexels_5028622",
+      "pexels_38496312",
+      "pexels_38081600"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "electronics",
+    "inspected_search_url": "https://www.pexels.com/search/videos/circuit%20board%20repair/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 16,
+    "selected_asset_ids": [
+      "pexels_3865559",
+      "pexels_7057342",
+      "pexels_5736195",
+      "pexels_9431253",
+      "pexels_4304754",
+      "pexels_3866849",
+      "pexels_7030718",
+      "pexels_2376866",
+      "pexels_6754822",
+      "pexels_6754826",
+      "pexels_7314033",
+      "pexels_9373207",
+      "pexels_7609195",
+      "pexels_7423954"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "surveillance",
+    "inspected_search_url": "https://www.pexels.com/search/videos/security%20camera/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 13,
+    "selected_asset_ids": [
+      "pexels_40538289",
+      "pexels_38779098",
+      "pexels_2845945",
+      "pexels_29292758"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "money",
+    "inspected_search_url": "https://www.pexels.com/search/videos/counting%20money%20hands/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 16,
+    "selected_asset_ids": [
+      "pexels_6326929",
+      "pexels_5466769",
+      "pexels_4524511",
+      "pexels_6326928",
+      "pexels_31750574",
+      "pexels_8479050",
+      "pexels_5466780"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "travel",
+    "inspected_search_url": "https://www.pexels.com/search/videos/airplane%20airport/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 18,
+    "selected_asset_ids": [
+      "pexels_15838744",
+      "pexels_15556159",
+      "pexels_33330994",
+      "pexels_4396425",
+      "pexels_3723453",
+      "pexels_9512146"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "police",
+    "inspected_search_url": "https://www.pexels.com/search/videos/police%20lights%20night/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 22,
+    "selected_asset_ids": [
+      "pexels_3350820",
+      "pexels_7714378",
+      "pexels_27974750",
+      "pexels_6581005",
+      "pexels_32538553",
+      "pexels_27974835",
+      "pexels_27974747",
+      "pexels_10029631",
+      "pexels_7714379",
+      "pexels_16657020"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "documents",
+    "inspected_search_url": "https://www.pexels.com/search/videos/documents%20hands/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 18,
+    "selected_asset_ids": [
+      "pexels_6538597",
+      "pexels_8257210",
+      "pexels_8814711",
+      "pexels_9364259",
+      "pexels_8731513",
+      "pexels_8135727",
+      "pexels_6597520",
+      "pexels_7981961",
+      "pexels_7841618",
+      "pexels_7710454",
+      "pexels_8124296",
+      "pexels_7732805",
+      "pexels_6781564",
+      "pexels_6814546"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "email",
+    "inspected_search_url": "https://www.pexels.com/search/videos/typing%20laptop%20close%20up/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 18,
+    "selected_asset_ids": [
+      "pexels_1395943",
+      "pexels_4318552",
+      "pexels_4352275",
+      "pexels_5385839",
+      "pexels_5977139",
+      "pexels_3196637",
+      "pexels_18838444",
+      "pexels_12892438",
+      "pexels_9218144",
+      "pexels_31183719",
+      "pexels_946146",
+      "pexels_2369564",
+      "pexels_34124549",
+      "pexels_5970673",
+      "pexels_3202364"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "night",
+    "inspected_search_url": "https://www.pexels.com/search/videos/city%20night%20rain/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 9,
+    "selected_asset_ids": [
+      "pexels_9253241",
+      "pexels_9968431",
+      "pexels_34977302",
+      "pexels_3588018",
+      "pexels_9968429",
+      "pexels_5688546"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "petersburg",
+    "inspected_search_url": "https://www.pexels.com/search/videos/saint%20petersburg/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 22,
+    "selected_asset_ids": [
+      "pexels_5860953",
+      "pexels_8301737",
+      "pexels_4899548",
+      "pexels_33130485",
+      "pexels_5860698",
+      "pexels_11899674",
+      "pexels_5861178",
+      "pexels_5105175",
+      "pexels_2709908",
+      "pexels_4787511"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "warsaw",
+    "inspected_search_url": "https://www.pexels.com/search/videos/warsaw/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 18,
+    "selected_asset_ids": [
+      "pexels_30285951",
+      "pexels_30284587",
+      "pexels_7317776",
+      "pexels_7317038",
+      "pexels_33810506"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "chicago",
+    "inspected_search_url": "https://www.pexels.com/search/videos/chicago%20skyline/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 18,
+    "selected_asset_ids": [
+      "pexels_27050263",
+      "pexels_1826652"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "anonymous",
+    "inspected_search_url": "https://www.pexels.com/search/videos/man%20silhouette%20computer/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 15,
+    "selected_asset_ids": [
+      "pexels_20563164",
+      "pexels_6330778",
+      "pexels_34492301",
+      "pexels_8212373",
+      "pexels_6964235",
+      "pexels_5378133"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "coding",
+    "inspected_search_url": "https://www.pexels.com/search/videos/typing%20computer%20keyboard/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 17,
+    "selected_asset_ids": [
+      "pexels_7581246",
+      "pexels_5119235",
+      "pexels_5119237",
+      "pexels_4426025",
+      "pexels_8888977",
+      "pexels_1326864",
+      "pexels_5119239",
+      "pexels_2058803",
+      "pexels_8865886",
+      "pexels_4684802",
+      "pexels_4450059",
+      "pexels_4973401",
+      "pexels_6964016",
+      "pexels_5119217",
+      "pexels_5647327",
+      "pexels_6963750",
+      "pexels_11916849"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "casino2",
+    "inspected_search_url": "https://www.pexels.com/search/videos/casino%20slots/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 9,
+    "selected_asset_ids": [],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "coffee",
+    "inspected_search_url": "https://www.pexels.com/search/videos/hands%20cafe%20coffee/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 6,
+    "selected_asset_ids": [
+      "pexels_5168878"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "research",
+    "inspected_search_url": "https://www.pexels.com/search/videos/reading%20documents%20hands/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 19,
+    "selected_asset_ids": [
+      "pexels_7685212",
+      "pexels_8134769",
+      "pexels_8731324",
+      "pexels_8141649",
+      "pexels_7643333",
+      "pexels_8382393",
+      "pexels_9869820",
+      "pexels_7841874",
+      "pexels_8545740",
+      "pexels_30117908",
+      "pexels_7710493"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
+  },
+  {
+    "stage": "current_after_user_publication",
+    "category": "city",
+    "inspected_search_url": "https://www.pexels.com/search/videos/city%20street%20night%20aerial/",
+    "result": "page_fetched_and_embedded_asset_metadata_parsed",
+    "candidates": 17,
+    "selected_asset_ids": [
+      "pexels_37179130"
+    ],
+    "review_basis": "Contact sheets and selected timeline frames; identifiable faces or unrelated details rejected. Full human playback not performed.",
+    "rights": "Selected records labeled Pexels on official source; site license read and retained."
   }
 ]

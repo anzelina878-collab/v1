@@ -8,7 +8,9 @@
     "new_narration": false,
     "music": false,
     "sfx": false,
-    "render": true
+    "render": true,
+    "render_version": "first_illustrative_cut",
+    "publish": false
   },
   "inputs": {
     "script.txt": {
@@ -31,16 +33,21 @@
     "original_modified": false,
     "content_listened": false,
     "transcript_match_verified": false,
-    "remote_storage": "Original narration.mp3 is retained locally only and is not uploaded to GitHub."
+    "remote_storage": "Original narration.mp3 is retained locally only and is not uploaded to GitHub.",
+    "discrepancies": "alignment/discrepancy_checks.json",
+    "final_integrated_lufs": -14.5,
+    "final_true_peak_dbtp": -2.0
   },
   "stages": {
     "input_integrity": "passed",
     "full_audio_decode": "passed",
     "text_chronology": "draft_complete",
-    "audio_alignment": "blocked_model_download",
+    "audio_alignment": "completed_machine_alignment_with_documented_discrepancies",
     "visual_style": "confirmed_mixed_documentary_and_faceless_reconstruction",
-    "asset_search": "blocked_network_proxy_403",
-    "render": "pending_verified_alignment_and_assets"
+    "asset_search": "completed_for_illustrative_cut",
+    "render": "completed",
+    "technical_verification": "passed",
+    "editorial_review": "pending_user_review"
   },
   "limitations": [
     "No SRT supplied; no speech recognition tool installed or available. Exact chapter and shot timings are unverified.",
@@ -53,17 +60,42 @@
     "scene_blocks.csv",
     "chapters.json",
     "audio_probe.json",
-    "quality_report.md"
+    "quality_report.md",
+    "timeline.json",
+    "pre_render_audit.json",
+    "alignment/recognition.json",
+    "alignment/comparison.json",
+    "../../../Результаты/001-chelovek-bez-litsa/chelovek-bez-litsa-1080p.mp4",
+    "../../../Результаты/001-chelovek-bez-litsa/verification.json"
   ],
-  "blockers": [
-    "Network proxy blocks Google, WIRED, Wikimedia, and Hugging Face; saved network draft requires user review, saving and publication."
-  ],
+  "blockers": [],
   "tooling": {
     "python": "/workspace/media-tools-venv/bin/python",
     "asr": "faster-whisper 1.2.1",
     "asr_import": "passed",
     "audio_decode_smoke": "passed_100_frames",
-    "model_download": "blocked",
-    "transcription": "not_run"
+    "model_download": "completed",
+    "transcription": "completed"
+  },
+  "settings_overrides": {
+    "languages": {
+      "source": "ru",
+      "primary": "ru",
+      "targets": [],
+      "delivery": [
+        "ru"
+      ]
+    },
+    "visual_style": "mixed_stock_and_faceless_artistic_reconstruction",
+    "historical_template_constraints": "superseded by user supplied story and selected mixed style"
+  },
+  "status": "review_ready",
+  "final_video": {
+    "path": "Результаты/001-chelovek-bez-litsa/chelovek-bez-litsa-1080p.mp4",
+    "sha256": "33ad0ea43b23a898ee7e0412d49ae1cc0c9d1e7bc64c08504387d8ea1bbace8e",
+    "duration_seconds": 1563.0,
+    "bytes": 486869068,
+    "technical_verification": "passed",
+    "publicly_published": false
   }
 }

@@ -1,0 +1,930 @@
+{
+  "matched_token_fraction": 0.8883522727272727,
+  "note": "Machine comparison, not human listening or fact verification",
+  "differences": [
+    {
+      "kind": "replace",
+      "script": "как он обманул казино на миллионы и его даже не знали в лицо эпизод 1 вступление июнь",
+      "recognition": "юнь",
+      "near_seconds": 0.0
+    },
+    {
+      "kind": "replace",
+      "script": "казино lumiere place",
+      "recognition": "казинолью мейер плэйс",
+      "near_seconds": 2.14
+    },
+    {
+      "kind": "replace",
+      "script": "миссури половина шестого",
+      "recognition": "мезуре повоина 6",
+      "near_seconds": 4.48
+    },
+    {
+      "kind": "replace",
+      "script": "тридцати пяти славянская",
+      "recognition": "35 словянская",
+      "near_seconds": 23.4
+    },
+    {
+      "kind": "replace",
+      "script": "оправе на вид",
+      "recognition": "опрали навид",
+      "near_seconds": 26.8
+    },
+    {
+      "kind": "replace",
+      "script": "три",
+      "recognition": "3",
+      "near_seconds": 35.52
+    },
+    {
+      "kind": "replace",
+      "script": "две",
+      "recognition": "2",
+      "near_seconds": 37.1
+    },
+    {
+      "kind": "replace",
+      "script": "барабаны крутятся останавливаются",
+      "recognition": "барабана крутится останавливается",
+      "near_seconds": 42.2
+    },
+    {
+      "kind": "replace",
+      "script": "двух",
+      "recognition": "2",
+      "near_seconds": 63.22
+    },
+    {
+      "kind": "replace",
+      "script": "удостоверение",
+      "recognition": "удостоверения",
+      "near_seconds": 72.66
+    },
+    {
+      "kind": "replace",
+      "script": "два",
+      "recognition": "2",
+      "near_seconds": 81.82
+    },
+    {
+      "kind": "delete",
+      "script": "номер",
+      "recognition": "",
+      "near_seconds": 94.94
+    },
+    {
+      "kind": "insert",
+      "script": "",
+      "recognition": "к",
+      "near_seconds": 103.84
+    },
+    {
+      "kind": "replace",
+      "script": "23 47",
+      "recognition": "2347",
+      "near_seconds": 111.87
+    },
+    {
+      "kind": "delete",
+      "script": "долларов",
+      "recognition": "",
+      "near_seconds": 115.85
+    },
+    {
+      "kind": "delete",
+      "script": "доллара",
+      "recognition": "",
+      "near_seconds": 120.11
+    },
+    {
+      "kind": "replace",
+      "script": "доллар пятиминутные",
+      "recognition": "5 минутные",
+      "near_seconds": 124.59
+    },
+    {
+      "kind": "replace",
+      "script": "шесть",
+      "recognition": "6",
+      "near_seconds": 126.55
+    },
+    {
+      "kind": "replace",
+      "script": "полтора",
+      "recognition": "1 5",
+      "near_seconds": 128.37
+    },
+    {
+      "kind": "replace",
+      "script": "девятнадцать",
+      "recognition": "19",
+      "near_seconds": 129.61
+    },
+    {
+      "kind": "delete",
+      "script": "эпизод 2 кто такой алекс",
+      "recognition": "",
+      "near_seconds": 150.65
+    },
+    {
+      "kind": "replace",
+      "script": "будут",
+      "recognition": "буду",
+      "near_seconds": 151.95
+    },
+    {
+      "kind": "replace",
+      "script": "алекса",
+      "recognition": "алекс",
+      "near_seconds": 152.97
+    },
+    {
+      "kind": "replace",
+      "script": "программистом",
+      "recognition": "программистам",
+      "near_seconds": 159.07
+    },
+    {
+      "kind": "replace",
+      "script": "компаний",
+      "recognition": "компании",
+      "near_seconds": 160.67
+    },
+    {
+      "kind": "replace",
+      "script": "базы",
+      "recognition": "база",
+      "near_seconds": 166.01
+    },
+    {
+      "kind": "replace",
+      "script": "обновления",
+      "recognition": "обновление",
+      "near_seconds": 168.13
+    },
+    {
+      "kind": "replace",
+      "script": "склад ума",
+      "recognition": "склотума",
+      "near_seconds": 185.09
+    },
+    {
+      "kind": "replace",
+      "script": "хозяину",
+      "recognition": "хозяина",
+      "near_seconds": 192.89
+    },
+    {
+      "kind": "replace",
+      "script": "неважно",
+      "recognition": "не важно",
+      "near_seconds": 194.19
+    },
+    {
+      "kind": "replace",
+      "script": "хорош в математике",
+      "recognition": "хороша математики",
+      "near_seconds": 195.41
+    },
+    {
+      "kind": "replace",
+      "script": "было",
+      "recognition": "был",
+      "near_seconds": 197.83
+    },
+    {
+      "kind": "replace",
+      "script": "представлялось",
+      "recognition": "представлялась",
+      "near_seconds": 201.23
+    },
+    {
+      "kind": "replace",
+      "script": "способен на большее",
+      "recognition": "способенно больше",
+      "near_seconds": 206.05
+    },
+    {
+      "kind": "replace",
+      "script": "тысячи",
+      "recognition": "тысяча",
+      "near_seconds": 219.69
+    },
+    {
+      "kind": "replace",
+      "script": "novomatic",
+      "recognition": "новоматик",
+      "near_seconds": 238.29
+    },
+    {
+      "kind": "delete",
+      "script": "примерно так хирург осматривает пациента перед первой операцией",
+      "recognition": "",
+      "near_seconds": 265.05
+    },
+    {
+      "kind": "delete",
+      "script": "эпизод 3 как на самом деле работают игровые автоматы",
+      "recognition": "",
+      "near_seconds": 272.87
+    },
+    {
+      "kind": "replace",
+      "script": "использует новое значение",
+      "recognition": "используют новые значения",
+      "near_seconds": 305.81
+    },
+    {
+      "kind": "replace",
+      "script": "алгоритм и",
+      "recognition": "алгоритмы",
+      "near_seconds": 323.35
+    },
+    {
+      "kind": "replace",
+      "script": "текущее внутреннее состояние",
+      "recognition": "текущие внутренние состояния",
+      "near_seconds": 324.15
+    },
+    {
+      "kind": "replace",
+      "script": "следующие значения",
+      "recognition": "следующее значение",
+      "near_seconds": 327.07
+    },
+    {
+      "kind": "replace",
+      "script": "удача",
+      "recognition": "удачи",
+      "near_seconds": 359.35
+    },
+    {
+      "kind": "replace",
+      "script": "novomatic",
+      "recognition": "новоматик",
+      "near_seconds": 367.23
+    },
+    {
+      "kind": "replace",
+      "script": "патенты",
+      "recognition": "потенты",
+      "near_seconds": 392.45
+    },
+    {
+      "kind": "replace",
+      "script": "огромная индустрия которая зарабатывает",
+      "recognition": "огромные индустрии которые зарабатывают",
+      "near_seconds": 402.11
+    },
+    {
+      "kind": "replace",
+      "script": "зависит",
+      "recognition": "зависят",
+      "near_seconds": 404.95
+    },
+    {
+      "kind": "delete",
+      "script": "эпизод 4 как он предсказывал выигрыши",
+      "recognition": "",
+      "near_seconds": 422.95
+    },
+    {
+      "kind": "replace",
+      "script": "автомат novomatic",
+      "recognition": "автоматного матик",
+      "near_seconds": 432.15
+    },
+    {
+      "kind": "replace",
+      "script": "двадцать",
+      "recognition": "20",
+      "near_seconds": 437.03
+    },
+    {
+      "kind": "replace",
+      "script": "тридцать",
+      "recognition": "30",
+      "near_seconds": 438.39
+    },
+    {
+      "kind": "replace",
+      "script": "таймер",
+      "recognition": "тайнер",
+      "near_seconds": 517.95
+    },
+    {
+      "kind": "replace",
+      "script": "десять",
+      "recognition": "10",
+      "near_seconds": 530.83
+    },
+    {
+      "kind": "replace",
+      "script": "пять три две одна",
+      "recognition": "5 3 2 1",
+      "near_seconds": 532.11
+    },
+    {
+      "kind": "replace",
+      "script": "расчеты",
+      "recognition": "расчета",
+      "near_seconds": 549.73
+    },
+    {
+      "kind": "delete",
+      "script": "эпизод 5 как он масштабировал операцию",
+      "recognition": "",
+      "near_seconds": 582.01
+    },
+    {
+      "kind": "replace",
+      "script": "сорока",
+      "recognition": "40",
+      "near_seconds": 588.25
+    },
+    {
+      "kind": "replace",
+      "script": "автомата к",
+      "recognition": "автоматок",
+      "near_seconds": 600.79
+    },
+    {
+      "kind": "replace",
+      "script": "сообщения",
+      "recognition": "сообщение",
+      "near_seconds": 644.55
+    },
+    {
+      "kind": "replace",
+      "script": "двадцать",
+      "recognition": "20",
+      "near_seconds": 648.95
+    },
+    {
+      "kind": "delete",
+      "script": "выигрыш забрать деньги перейти к следующему автомату и все по новой",
+      "recognition": "",
+      "near_seconds": 660.45
+    },
+    {
+      "kind": "replace",
+      "script": "ставками",
+      "recognition": "вставками",
+      "near_seconds": 666.19
+    },
+    {
+      "kind": "replace",
+      "script": "полно",
+      "recognition": "полмол",
+      "near_seconds": 667.95
+    },
+    {
+      "kind": "delete",
+      "script": "эпизод 6 первый участник мурат блиев",
+      "recognition": "",
+      "near_seconds": 698.91
+    },
+    {
+      "kind": "replace",
+      "script": "санкт петербурге",
+      "recognition": "сампетербурге",
+      "near_seconds": 701.21
+    },
+    {
+      "kind": "replace",
+      "script": "генераторе",
+      "recognition": "динаторе",
+      "near_seconds": 724.63
+    },
+    {
+      "kind": "replace",
+      "script": "за весь этот",
+      "recognition": "зависит от",
+      "near_seconds": 743.27
+    },
+    {
+      "kind": "replace",
+      "script": "спорит",
+      "recognition": "сполит",
+      "near_seconds": 745.45
+    },
+    {
+      "kind": "replace",
+      "script": "тысячу",
+      "recognition": "1000",
+      "near_seconds": 751.19
+    },
+    {
+      "kind": "replace",
+      "script": "кладет",
+      "recognition": "складет",
+      "near_seconds": 758.19
+    },
+    {
+      "kind": "replace",
+      "script": "варшаву",
+      "recognition": "аршалу",
+      "near_seconds": 764.23
+    },
+    {
+      "kind": "replace",
+      "script": "в",
+      "recognition": "к",
+      "near_seconds": 773.09
+    },
+    {
+      "kind": "replace",
+      "script": "которая",
+      "recognition": "который",
+      "near_seconds": 775.45
+    },
+    {
+      "kind": "replace",
+      "script": "берет",
+      "recognition": "билет",
+      "near_seconds": 780.61
+    },
+    {
+      "kind": "replace",
+      "script": "четыре",
+      "recognition": "4",
+      "near_seconds": 796.11
+    },
+    {
+      "kind": "replace",
+      "script": "математике",
+      "recognition": "математики",
+      "near_seconds": 826.47
+    },
+    {
+      "kind": "delete",
+      "script": "эпизод 7 сеть в 25 странах в период с",
+      "recognition": "",
+      "near_seconds": 830.45
+    },
+    {
+      "kind": "delete",
+      "script": "по",
+      "recognition": "",
+      "near_seconds": 831.01
+    },
+    {
+      "kind": "delete",
+      "script": "год",
+      "recognition": "",
+      "near_seconds": 832.17
+    },
+    {
+      "kind": "replace",
+      "script": "двадцать",
+      "recognition": "20",
+      "near_seconds": 860.25
+    },
+    {
+      "kind": "replace",
+      "script": "сша",
+      "recognition": "соединенные штаты америки",
+      "near_seconds": 877.65
+    },
+    {
+      "kind": "replace",
+      "script": "чехия",
+      "recognition": "чехи",
+      "near_seconds": 881.47
+    },
+    {
+      "kind": "replace",
+      "script": "макао",
+      "recognition": "макал",
+      "near_seconds": 884.25
+    },
+    {
+      "kind": "replace",
+      "script": "сша",
+      "recognition": "америке",
+      "near_seconds": 906.01
+    },
+    {
+      "kind": "replace",
+      "script": "описанию",
+      "recognition": "описания",
+      "near_seconds": 906.85
+    },
+    {
+      "kind": "delete",
+      "script": "к",
+      "recognition": "",
+      "near_seconds": 921.53
+    },
+    {
+      "kind": "replace",
+      "script": "статистика",
+      "recognition": "статистик",
+      "near_seconds": 948.29
+    },
+    {
+      "kind": "delete",
+      "script": "году",
+      "recognition": "",
+      "near_seconds": 951.95
+    },
+    {
+      "kind": "replace",
+      "script": "миссури эпизод 8 расследование фбр",
+      "recognition": "мезури",
+      "near_seconds": 968.07
+    },
+    {
+      "kind": "replace",
+      "script": "lumiere",
+      "recognition": "lumier",
+      "near_seconds": 969.25
+    },
+    {
+      "kind": "replace",
+      "script": "миссури",
+      "recognition": "мессури",
+      "near_seconds": 973.43
+    },
+    {
+      "kind": "replace",
+      "script": "рассылает предупреждение",
+      "recognition": "рассылают предупреждения",
+      "near_seconds": 974.87
+    },
+    {
+      "kind": "replace",
+      "script": "мурата блиева",
+      "recognition": "мурат аблиева",
+      "near_seconds": 997.27
+    },
+    {
+      "kind": "replace",
+      "script": "миссури",
+      "recognition": "мессури",
+      "near_seconds": 999.55
+    },
+    {
+      "kind": "insert",
+      "script": "",
+      "recognition": "и",
+      "near_seconds": 1009.35
+    },
+    {
+      "kind": "replace",
+      "script": "сша",
+      "recognition": "америке",
+      "near_seconds": 1013.47
+    },
+    {
+      "kind": "replace",
+      "script": "четыре",
+      "recognition": "4",
+      "near_seconds": 1018.29
+    },
+    {
+      "kind": "replace",
+      "script": "подан",
+      "recognition": "подом",
+      "near_seconds": 1019.65
+    },
+    {
+      "kind": "replace",
+      "script": "органам",
+      "recognition": "органом",
+      "near_seconds": 1026.95
+    },
+    {
+      "kind": "replace",
+      "script": "о хара",
+      "recognition": "охара",
+      "near_seconds": 1049.69
+    },
+    {
+      "kind": "replace",
+      "script": "сент",
+      "recognition": "санкт",
+      "near_seconds": 1052.77
+    },
+    {
+      "kind": "replace",
+      "script": "гдалавом",
+      "recognition": "гдаловым",
+      "near_seconds": 1058.93
+    },
+    {
+      "kind": "replace",
+      "script": "явани",
+      "recognition": "иване",
+      "near_seconds": 1061.31
+    },
+    {
+      "kind": "replace",
+      "script": "hollywood casino",
+      "recognition": "холливуд казина",
+      "near_seconds": 1074.85
+    },
+    {
+      "kind": "replace",
+      "script": "записях",
+      "recognition": "записих",
+      "near_seconds": 1078.25
+    },
+    {
+      "kind": "replace",
+      "script": "зависший",
+      "recognition": "завиший",
+      "near_seconds": 1083.45
+    },
+    {
+      "kind": "delete",
+      "script": "спереди черный внедорожник сзади еще один автомобиль",
+      "recognition": "",
+      "near_seconds": 1090.13
+    },
+    {
+      "kind": "replace",
+      "script": "открывают",
+      "recognition": "открывает",
+      "near_seconds": 1104.47
+    },
+    {
+      "kind": "replace",
+      "script": "россию",
+      "recognition": "россии",
+      "near_seconds": 1127.07
+    },
+    {
+      "kind": "replace",
+      "script": "гражданин",
+      "recognition": "гражданим",
+      "near_seconds": 1128.71
+    },
+    {
+      "kind": "replace",
+      "script": "флориде",
+      "recognition": "фловиде",
+      "near_seconds": 1130.57
+    },
+    {
+      "kind": "replace",
+      "script": "телефоны",
+      "recognition": "телефон и",
+      "near_seconds": 1140.87
+    },
+    {
+      "kind": "replace",
+      "script": "десятке",
+      "recognition": "десятки",
+      "near_seconds": 1146.07
+    },
+    {
+      "kind": "replace",
+      "script": "но человек который все это создал остается недосягаемым алекс находится в россии у следствия нет подтвержденной истории его поездок за пределы страны нет очевидного финансового следа и нет ни одной записи с камер казино на которой можно было бы уверенно узнать его участники знали его только как алекса они никогда не видели его лица фбр не может доказать кто именно разработал систему алекс наблюдает как телефоны участников перестают выходить на связь он не удивлен похоже он предусмотрел такой вариант заранее но дальше происходит кое что неожиданное эпизод 9 требование на 30 миллионов долларов 3",
+      "recognition": "третья",
+      "near_seconds": 1147.45
+    },
+    {
+      "kind": "replace",
+      "script": "комплаенса",
+      "recognition": "комплайнса",
+      "near_seconds": 1155.03
+    },
+    {
+      "kind": "replace",
+      "script": "mark 6 которые",
+      "recognition": "mk6 который",
+      "near_seconds": 1160.51
+    },
+    {
+      "kind": "replace",
+      "script": "скомпрометированных",
+      "recognition": "с компрометированных",
+      "near_seconds": 1196.13
+    },
+    {
+      "kind": "replace",
+      "script": "согласно его данным за четыре месяца было получено 487 тысяч долларов с автоматов aristocrat",
+      "recognition": "сначала журналист относится к этому скептически алекс отправляет дополнительные материалы в итоге они проводят четырехчасовое время",
+      "near_seconds": 1200.95
+    },
+    {
+      "kind": "replace",
+      "script": "тридцать",
+      "recognition": "30",
+      "near_seconds": 1212.03
+    },
+    {
+      "kind": "replace",
+      "script": "aristocrat",
+      "recognition": "арестократ",
+      "near_seconds": 1232.23
+    },
+    {
+      "kind": "replace",
+      "script": "вне досягаемости",
+      "recognition": "в недосягаемости",
+      "near_seconds": 1270.43
+    },
+    {
+      "kind": "delete",
+      "script": "эпизод 10 он выходит на связь с wired",
+      "recognition": "",
+      "near_seconds": 1277.23
+    },
+    {
+      "kind": "replace",
+      "script": "брендан кернер",
+      "recognition": "брендон кернор",
+      "near_seconds": 1280.25
+    },
+    {
+      "kind": "replace",
+      "script": "wired",
+      "recognition": "вайард",
+      "near_seconds": 1282.21
+    },
+    {
+      "kind": "replace",
+      "script": "которая обманывала",
+      "recognition": "который обманывал",
+      "near_seconds": 1284.39
+    },
+    {
+      "kind": "replace",
+      "script": "статью",
+      "recognition": "статьи",
+      "near_seconds": 1287.31
+    },
+    {
+      "kind": "replace",
+      "script": "ни",
+      "recognition": "не",
+      "near_seconds": 1303.37
+    },
+    {
+      "kind": "replace",
+      "script": "была найдена",
+      "recognition": "было найдено",
+      "near_seconds": 1304.39
+    },
+    {
+      "kind": "replace",
+      "script": "ни",
+      "recognition": "не",
+      "near_seconds": 1306.17
+    },
+    {
+      "kind": "replace",
+      "script": "ни",
+      "recognition": "не",
+      "near_seconds": 1308.59
+    },
+    {
+      "kind": "replace",
+      "script": "кернера",
+      "recognition": "кернора",
+      "near_seconds": 1320.55
+    },
+    {
+      "kind": "replace",
+      "script": "сообщение",
+      "recognition": "сообщения",
+      "near_seconds": 1322.19
+    },
+    {
+      "kind": "replace",
+      "script": "доказательства которые",
+      "recognition": "доказательство которое",
+      "near_seconds": 1324.11
+    },
+    {
+      "kind": "replace",
+      "script": "материалы с",
+      "recognition": "материал",
+      "near_seconds": 1329.85
+    },
+    {
+      "kind": "replace",
+      "script": "aristocrat",
+      "recognition": "аристократ",
+      "near_seconds": 1331.89
+    },
+    {
+      "kind": "replace",
+      "script": "уязвимостей",
+      "recognition": "уязвимости",
+      "near_seconds": 1333.57
+    },
+    {
+      "kind": "replace",
+      "script": "кернер",
+      "recognition": "кернор",
+      "near_seconds": 1346.67
+    },
+    {
+      "kind": "replace",
+      "script": "aristocrat",
+      "recognition": "аристократ",
+      "near_seconds": 1357.31
+    },
+    {
+      "kind": "replace",
+      "script": "кернер",
+      "recognition": "кернор",
+      "near_seconds": 1367.09
+    },
+    {
+      "kind": "replace",
+      "script": "провернул",
+      "recognition": "прогернул",
+      "near_seconds": 1378.65
+    },
+    {
+      "kind": "replace",
+      "script": "мурат",
+      "recognition": "мурад",
+      "near_seconds": 1409.79
+    },
+    {
+      "kind": "delete",
+      "script": "эпизод 11",
+      "recognition": "",
+      "near_seconds": 1424.57
+    },
+    {
+      "kind": "replace",
+      "script": "aristocrat mark",
+      "recognition": "аристократ марк",
+      "near_seconds": 1430.09
+    },
+    {
+      "kind": "replace",
+      "script": "мурат",
+      "recognition": "мурад",
+      "near_seconds": 1431.89
+    },
+    {
+      "kind": "replace",
+      "script": "сша",
+      "recognition": "соединенных штатах америки",
+      "near_seconds": 1434.63
+    },
+    {
+      "kind": "replace",
+      "script": "мурат",
+      "recognition": "мурад",
+      "near_seconds": 1446.73
+    },
+    {
+      "kind": "replace",
+      "script": "мурат",
+      "recognition": "мурад",
+      "near_seconds": 1463.03
+    },
+    {
+      "kind": "delete",
+      "script": "в",
+      "recognition": "",
+      "near_seconds": 1470.95
+    },
+    {
+      "kind": "replace",
+      "script": "автоматы aristocrat mark",
+      "recognition": "автомат аристократ марк",
+      "near_seconds": 1476.31
+    },
+    {
+      "kind": "replace",
+      "script": "которые",
+      "recognition": "который",
+      "near_seconds": 1478.27
+    },
+    {
+      "kind": "replace",
+      "script": "новой",
+      "recognition": "новый",
+      "near_seconds": 1488.07
+    },
+    {
+      "kind": "replace",
+      "script": "кажущаяся",
+      "recognition": "кажущая",
+      "near_seconds": 1525.21
+    },
+    {
+      "kind": "replace",
+      "script": "во",
+      "recognition": "в",
+      "near_seconds": 1544.61
+    },
+    {
+      "kind": "replace",
+      "script": "нева",
+      "recognition": "не ва",
+      "near_seconds": 1550.25
+    }
+  ]
+}

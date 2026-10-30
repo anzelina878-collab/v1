@@ -1,0 +1,1854 @@
+{
+  "status": "passed_for_illustrative_cut",
+  "scope": "Review copy of an illustrative film, not verified archival reconstruction",
+  "hashes": {
+    "script": "c3620020dbe348f3b0300e40e80ee799b260d5823aff4c2c607fd84a9a9a783a",
+    "timeline": "f6db151dcf37a585350fd180d107d5e52d1bd0d51691785c84b675fa82d98384",
+    "manifest": "ccb42dbfed6fc05a62eb3aa2a7588a961d990f7589f3a59f770cb5175955a20f"
+  },
+  "checks": {
+    "all_274_representative_frames_visually_reviewed": true,
+    "source_license_metadata_checked": true,
+    "nonoverlapping_source_ranges": true,
+    "all_used_files_exist": true,
+    "generated_stills_unique": true,
+    "full_human_playback": false,
+    "independent_fact_verification": false,
+    "end_aligned_to_actual_encoded_audio_duration": true,
+    "final_intentional_fade_seconds": 0.8
+  },
+  "shots": [
+    {
+      "shot_id": "shot_0001",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0001.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0002",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0002.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0003",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0003.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0004",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0004.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0005",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0005.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0006",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0006.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0007",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0007.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0008",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0008.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0009",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0009.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0010",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0010.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0011",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0011.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0012",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0012.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0013",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0013.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0014",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0014.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0015",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0015.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0016",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0016.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0017",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0017.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0018",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0018.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0019",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0019.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0020",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0020.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0021",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0021.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0022",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0022.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0023",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0023.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0024",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0024.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0025",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0025.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0026",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0026.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0027",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0027.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0028",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0028.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0029",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0029.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0030",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0030.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0031",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0031.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0032",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0032.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0033",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0033.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0034",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0034.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0035",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0035.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0036",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0036.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0037",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0037.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0038",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0038.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0039",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0039.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0040",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0040.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0041",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0041.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0042",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0042.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0043",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0043.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0044",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0044.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0045",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0045.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0046",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0046.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0047",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0047.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0048",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0048.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0049",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0049.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0050",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0050.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0051",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0051.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0052",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0052.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0053",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0053.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0054",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0054.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0055",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0055.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0056",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0056.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0057",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0057.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0058",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0058.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0059",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0059.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0060",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0060.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0061",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0061.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0062",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0062.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0063",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0063.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0064",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0064.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0065",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0065.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0066",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0066.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0067",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0067.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0068",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0068.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0069",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0069.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0070",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0070.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0071",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0071.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0072",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0072.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0073",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0073.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0074",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0074.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0075",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0075.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0076",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0076.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0077",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0077.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0078",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0078.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0079",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0079.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0080",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0080.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0081",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0081.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0082",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0082.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0083",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0083.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0084",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0084.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0085",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0085.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0086",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0086.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0087",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0087.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0088",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0088.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0089",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0089.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0090",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0090.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0091",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0091.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0092",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0092.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0093",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0093.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0094",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0094.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0095",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0095.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0096",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0096.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0097",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0097.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0098",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0098.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0099",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0099.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0100",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0100.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0101",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0101.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0102",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0102.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0103",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0103.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0104",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0104.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0105",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0105.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0106",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0106.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0107",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0107.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0108",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0108.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0109",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0109.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0110",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0110.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0111",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0111.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0112",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0112.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0113",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0113.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0114",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0114.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0115",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0115.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0116",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0116.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0117",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0117.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0118",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0118.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0119",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0119.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0120",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0120.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0121",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0121.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0122",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0122.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0123",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0123.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0124",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0124.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0125",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0125.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0126",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0126.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0127",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0127.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0128",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0128.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0129",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0129.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0130",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0130.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0131",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0131.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0132",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0132.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0133",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0133.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0134",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0134.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0135",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0135.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0136",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0136.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0137",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0137.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0138",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0138.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0139",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0139.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0140",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0140.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0141",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0141.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0142",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0142.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0143",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0143.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0144",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0144.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0145",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0145.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0146",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0146.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0147",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0147.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0148",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0148.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0149",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0149.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0150",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0150.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0151",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0151.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0152",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0152.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0153",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0153.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0154",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0154.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0155",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0155.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0156",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0156.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0157",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0157.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0158",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0158.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0159",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0159.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0160",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0160.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0161",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0161.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0162",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0162.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0163",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0163.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0164",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0164.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0165",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0165.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0166",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0166.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0167",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0167.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0168",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0168.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0169",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0169.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0170",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0170.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0171",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0171.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0172",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0172.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0173",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0173.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0174",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0174.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0175",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0175.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0176",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0176.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0177",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0177.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0178",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0178.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0179",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0179.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0180",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0180.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0181",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0181.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0182",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0182.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0183",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0183.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0184",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0184.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0185",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0185.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0186",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0186.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0187",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0187.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0188",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0188.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0189",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0189.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0190",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0190.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0191",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0191.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0192",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0192.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0193",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0193.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0194",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0194.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0195",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0195.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0196",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0196.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0197",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0197.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0198",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0198.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0199",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0199.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0200",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0200.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0201",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0201.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0202",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0202.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0203",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0203.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0204",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0204.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0205",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0205.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0206",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0206.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0207",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0207.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0208",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0208.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0209",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0209.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0210",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0210.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0211",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0211.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0212",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0212.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0213",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0213.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0214",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0214.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0215",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0215.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0216",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0216.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0217",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0217.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0218",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0218.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0219",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0219.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0220",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0220.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0221",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0221.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0222",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0222.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0223",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0223.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0224",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0224.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0225",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0225.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0226",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0226.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0227",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0227.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0228",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0228.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0229",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0229.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0230",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0230.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0231",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0231.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0232",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0232.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0233",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0233.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0234",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0234.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0235",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0235.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0236",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0236.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0237",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0237.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0238",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0238.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0239",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0239.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0240",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0240.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0241",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0241.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0242",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0242.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0243",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0243.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0244",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0244.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0245",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0245.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0246",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0246.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0247",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0247.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0248",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0248.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0249",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0249.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0250",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0250.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0251",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0251.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0252",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0252.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0253",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0253.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0254",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0254.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0255",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0255.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0256",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0256.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0257",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0257.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0258",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0258.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0259",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0259.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0260",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0260.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0261",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0261.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0262",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0262.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0263",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0263.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0264",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0264.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0265",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0265.jpg",
+      "role": "artistic_reconstruction"
+    },
+    {
+      "shot_id": "shot_0266",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0266.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0267",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0267.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0268",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0268.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0269",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0269.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0270",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0270.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0271",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0271.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0272",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0272.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0273",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0273.jpg",
+      "role": "illustrative_stock_not_event_recording"
+    },
+    {
+      "shot_id": "shot_0274",
+      "status": "passed_representative_frame_review",
+      "review_frame": "render/audit/shot_0274.jpg",
+      "role": "artistic_reconstruction"
+    }
+  ],
+  "source_hashes": {
+    "downloaded/pexels_9807879.mp4": "0df8b7dc6d17228dda70d6969fc39a63210896eecc0decbee3562bf6c316176c",
+    "downloaded/pexels_9807884.mp4": "7670f95b7ff5be1e4af5d14857882da6aa106cf6614f2062966a7b4b0f1ccfac",
+    "downloaded/pexels_9807885.mp4": "926ae4d2f3570b577493d28ebade542342f9f90c8ffd2c451324bd86633c86f5",
+    "downloaded/pexels_35728851.mp4": "bae17d2f356fefd49ce7ef9a320cbaac4ca04262b0945378be16ff4517cd64af",
+    "downloaded/pexels_34495727.mp4": "56023fe936dd63eb413cf6b0567d274d843a5051a6e1a6c4bc731245c90df8ee",
+    "downloaded/pexels_18382358.mp4": "a3a0243e37901b8332308ffb84920974ec73229ed5d373f4c34f5ea40dc15ebd",
+    "downloaded/pexels_6346228.mp4": "95a6a06a43261cd0867d68c7492273057b8479dc9c4890066b718805d75ff608",
+    "downloaded/pexels_5495781.mp4": "c7f87d1e346f8055bf48ce94124e52db38328cca91662417594c2c8091faa581",
+    "downloaded/pexels_6346224.mp4": "b67613f3b1f38f95dcfedd7ade58ac9eb8129de6c2ba1758349f24c579600ad4",
+    "downloaded/pexels_5495845.mp4": "e6d26f1e067e6e5c56f30c3caff8bf546a69f99d0d6f93c2c558329f8d272413",
+    "downloaded/pexels_13522186.mp4": "aece5b847f2a1ff01a20a09f42da25d7a7eb2a0ade83cb6a6751df157e071630",
+    "downloaded/pexels_13522169.mp4": "e3f8f89bf0cf56de6880c3d2faef06bf67c62452cea5562e3c71d9c730161a3b",
+    "downloaded/pexels_7534244.mp4": "e72f92d20b2f8ef074dd2485850986563d3ef28bd530265c1ce643a7a21ab34a",
+    "downloaded/pexels_6330774.mp4": "2f5c6dee51bb86cc6f1bb11222407fbe10263d756f0f9893e237994eebebd54c",
+    "downloaded/pexels_6330779.mp4": "01f1c4816d5c8d3e1c870b70cc59574f24738fe3749cb7569746310d9379d693",
+    "downloaded/pexels_5495784.mp4": "cc881186ff0279f6b8915b3a0f219f07d7cab7ac031336ec399052b3d60a919f",
+    "downloaded/pexels_33187889.mp4": "0c59af32af692da3f8eee0ae8b99d5dd3e8cba876b6a623c1dbd85f4c5ae3575",
+    "downloaded/pexels_5240933.mp4": "883d00031891e3fc28f9f44e5bede3db11921d2f4f60038ce63bdf624d9536c8",
+    "downloaded/pexels_7534239.mp4": "a5c41195e10aed497056ad245bdd9f261adc423dabc858208cf2282bda140e68",
+    "downloaded/pexels_40271529.mp4": "271c6d7110b2b9310dab94b638368924dbf1f36012051e567bb12887810bd73e",
+    "downloaded/pexels_33841807.mp4": "a6e6c091491cc2e91ffb00d45597fdff74ef9ede4c258a310333267f396ccc10",
+    "downloaded/pexels_36392564.mp4": "c4a040c7b5c2ed9d64e473c1a0bcc9aa11d6d0299851d5cf7fb9d0fc015220d0",
+    "downloaded/pexels_6611941.mp4": "f24b44fc0898b936b5326436cfd81381232174f3c8cb3c0d6148802c9f7466a1",
+    "downloaded/pexels_13358555.mp4": "f4ada5538eae859e33f0fed631f855b68a4ed1742bb246acffe427bcf084d83e",
+    "downloaded/pexels_5617952.mp4": "6083db5c99d02e609300dccf16378d0c02191b3cea545f6fd7a43360aaa970b7",
+    "downloaded/pexels_28828935.mp4": "d2b310ed1008ad2b4f05948ba377d44a6ee519dd808cefab5217c8b2fda2792f",
+    "downloaded/pexels_33942937.mp4": "bf21a36465a3abfe5e1041cfff97f41f30ec890c8a8dc20214e162aa77313e59",
+    "downloaded/pexels_6611938.mp4": "d8dc1c87d54a518dcde9603b5e60dde282482632c54e74e63c40164cb650632e",
+    "downloaded/pexels_7534331.mp4": "03830a46313abd99d004f76dc432a8c6769846fa63c7eafff63c16712e2a35f4",
+    "downloaded/pexels_6414098.mp4": "0933d5582d355990d3289e7f5964e502d74311dcb5c7c789763cf304c1b68fd0",
+    "downloaded/pexels_7534329.mp4": "ccc3730e51bb852f8db6162497888136b81a4846c4965e5baf2f5ed77a88e136",
+    "downloaded/pexels_5925287.mp4": "cd406f294ef3323bfd244382812f5237b2ee34af50347834aea4b2fccd342b83",
+    "downloaded/pexels_6611939.mp4": "0b400429c6bb1695904a9b599ceb5860191830bf4e267de9c12b468c7fc754b1",
+    "downloaded/pexels_1085656.mp4": "5a5040d37c438c2af2db31f6dc8f19bff4a48de70c331af77cc0a2f638911a80",
+    "downloaded/pexels_7140928.mp4": "a1bc37a6255afa0f23c33c077cd6c36abf7289252c20a43365da6b080b8f6db6",
+    "downloaded/pexels_7140937.mp4": "ead948602508f786d31eb9c45ce4e02842358517df012748097e5c03510970f4",
+    "downloaded/pexels_7140931.mp4": "43006755a797222e140f114dfba8ab09f4be33dc339c3e497a2d4ef5c1e82a83",
+    "downloaded/pexels_6804117.mp4": "48e8044d32ad9232a402ded2e7ba32e5649f7533f52377d479be9bfa51cdd364",
+    "downloaded/pexels_38496192.mp4": "3da9dda2bb676610ce256c783f576a51f5f049ec5c288534a8621f09139dbada",
+    "downloaded/pexels_5028622.mp4": "6c7896c65708e3e7b804179ad04677c5a8607b4f0b07429512d2e27c9d442c55",
+    "downloaded/pexels_38496312.mp4": "a82e361b101f59bcc8cb68073b79f1b197ae7613e78acf70bce821e2fae18d2b",
+    "downloaded/pexels_38081600.mp4": "fd00ccb5eaba5cdc5185c54a2a2f63f4bb9574823bce7617dbc52c189c17fd28",
+    "downloaded/pexels_3865559.mp4": "a5b06186a3664b3af6d621a6fd73e3fc4836a89aedf5c8552bd927bb1becd9fb",
+    "downloaded/pexels_7057342.mp4": "942c015fae2891d61a83bc4972065f021414369f6bfead618f5f4fbd910f6e6a",
+    "downloaded/pexels_5736195.mp4": "fa500f3d8ba34cc58a2aafec6cfe0225e26294338c0d2ec13a2ff98e2f8ddda2",
+    "downloaded/pexels_9431253.mp4": "6388d485e547f122a91c4635c064e61a670bf5a2a65212cd409c8dbb20f37286",
+    "downloaded/pexels_4304754.mp4": "f3e5c571d6f753375479073932013f816e7d9f31095f39c5a74231fe37fe3a3d",
+    "downloaded/pexels_3866849.mp4": "4d0beb0a416c0823c67bfcf3f52ba3e8d8ddc1e2a01a305c0bfe350087b98800",
+    "downloaded/pexels_7030718.mp4": "21da9bb3fb926be79262e9a0f581e5ba6479f7b1288cbbbb9907b852a2b5fccf",
+    "downloaded/pexels_2376866.mp4": "c24cb385f7bafbe17a6a84c73e050350cd45e4acda150e783d9a9681ca70da68",
+    "downloaded/pexels_6754822.mp4": "63674f40de43825a857f5bad082f78da420ac139088da58d2c29a2c771a0a9cf",
+    "downloaded/pexels_6754826.mp4": "3fb014bbc895b79f27015d1d1ebb5602a8fd98f6c52dfa5a6c52dc257adc863b",
+    "downloaded/pexels_7314033.mp4": "db411a78ddaecaaa981a805eb81cb59a32b2665b324cb527c6c226e9dacbead7",
+    "downloaded/pexels_9373207.mp4": "dc6274ec84aa80971c8ce9726320a1943754cb377251fc544e999d6568f52c5b",
+    "downloaded/pexels_7609195.mp4": "31cef50cb9cb6eb8cb0f75722e9d6e92a319cd92938f0ffaf25936bd6caa0936",
+    "downloaded/pexels_7423954.mp4": "f2ce0ed0bd3f158bc62236f29f60337f93064a11d744d4ab3a2bb6db4be5e643",
+    "downloaded/pexels_40538289.mp4": "2daef9ad92edd40a4a924f710af7654dc099c78dc3cec4849cc6631f494020db",
+    "downloaded/pexels_38779098.mp4": "95904331081409b9ad75c687c7ffa13be336c0622568017001ce54e0731a4a27",
+    "downloaded/pexels_2845945.mp4": "265964d4788ca54c895e4e16cd86fc6c00ec3e6a0649f20888f635674711f8b7",
+    "downloaded/pexels_29292758.mp4": "1e42ec32882a07c2592cfe3344a2f033e41e661456afd0eb9b1ec03be36135cb",
+    "downloaded/pexels_6326929.mp4": "f04825d9fbb95ea131220d9ccc0a6629ededbdefc22d8f7a5598869d6d44dd1c",
+    "downloaded/pexels_5466769.mp4": "f60839b3decaf2e09fa7e743fa71d8588c0e36a461b51403b4f5ec75d8b8e9e7",
+    "downloaded/pexels_4524511.mp4": "d68012f0d6d80d1451e19c2d9bdbc496a031696ce7488a129da3589d12cb259f",
+    "downloaded/pexels_6326928.mp4": "f8014f3ea32383761e14637563e7a7c4047c4c47c2e2f12eb79603267012a1f5",
+    "downloaded/pexels_31750574.mp4": "bfc578d639f555879ba0f42ad97f75b93f83e948d14ab73a74b0cf9ecc2ab6b3",
+    "downloaded/pexels_8479050.mp4": "19d7ab9dac8cda8b97b9b143e71a951dc41bdd03ca325e298c9855f879b7281b",
+    "downloaded/pexels_5466780.mp4": "a5a49f36e167f60ba8743545f0417d2ecd5f5a267c66229b79b9ecb35f5e3f7b",
+    "downloaded/pexels_15838744.mp4": "4de2afb79df2a5948e13d232ed69d858297454d95a04a33561679f1ae65a9bb3",
+    "downloaded/pexels_15556159.mp4": "7651435caa409ed67023863ea7e762474b908a60ccd92c4652b1385adb840619",
+    "downloaded/pexels_33330994.mp4": "06ca2ef1599d5594cf99694e27186ea3d4c12f92b5b96dec293f22081a487415",
+    "downloaded/pexels_4396425.mp4": "079f56f1f5cd0fc97026ae0b877aa51f8ad5cfe3e0ffde600f26836207a999bf",
+    "downloaded/pexels_3723453.mp4": "034333d07f937f93f4aa11ea867363c4c679b97ed96d36f13bc82b2b8add4e17",
+    "downloaded/pexels_9512146.mp4": "da3233dcb285252e9f2735073125fd58fb9bace71f3617298a55c0e33d43dc05",
+    "downloaded/pexels_3350820.mp4": "d684936c284a620749cb772094a92d029c034ac376b2a4be5f2cd3f0d19acaf7",
+    "downloaded/pexels_7714378.mp4": "7eccfdf0ce9c71be9fe163fb6744489029a3917f8bbd184f64038a58c029884e",
+    "downloaded/pexels_27974750.mp4": "e6f8361310168ee6ca6daa2317b2989bc87f7739cb13a580313e5b7423a01dcf",
+    "downloaded/pexels_6581005.mp4": "3a7f73140c0dc1c5754dd86cba470d5fca16be588abd783f3b4fd9bcd92be27c",
+    "downloaded/pexels_32538553.mp4": "5b0b3a81d618a5ab2d1a1dab8486c8737ba8a96a569ce6ffe0f1ca500798ded0",
+    "downloaded/pexels_27974835.mp4": "e677785f840f33092c824d1ff51e26829fddfa19136705f2ad4c74b39ec560e2",
+    "downloaded/pexels_27974747.mp4": "202622ff6ac002c246ab13042e6e719660a886de1362bbe4e9dec339fd5b1fdd",
+    "downloaded/pexels_10029631.mp4": "60c58f43bf86c26c082afd2d885aa8fe0ad838df6aedbc7dc1c92765465a2060",
+    "downloaded/pexels_7714379.mp4": "697e0b7370716d38007171c2b371010f733fe67b75d9398c1885ca92480851f2",
+    "downloaded/pexels_16657020.mp4": "8f096615dc949943b13f680ef0cffb562d0abe0d20fa40395e23b4b72f4fe881",
+    "downloaded/pexels_6538597.mp4": "b35196f0f505077bef2a59b89a89fe68b61b16c84825902bb0c2d32dab43abe2",
+    "downloaded/pexels_8257210.mp4": "dfbe40dd65945b71d0f5bf7408bd11407134818c099f9120d18fe8f17dfad8ea",
+    "downloaded/pexels_8814711.mp4": "56502ecb4032f622ee1df3313b6d4e1418930ce8a75f3c927770530aeebbc2b0",
+    "downloaded/pexels_9364259.mp4": "c3c7aac04872dbba3135684562f42bab4f5ae0756da19805beb22d06cf3faa73",
+    "downloaded/pexels_8731513.mp4": "aafdfa2278d4646b4318fd9ad1f1c719f532d120e42e9a486b245ce7945a9450",
+    "downloaded/pexels_8135727.mp4": "ab20d6137d9532244bad98cea732a29ab1efea305971a555a0cf9e67a728659a",
+    "downloaded/pexels_6597520.mp4": "7b490fac2e7e154391b73325fe1907dc654cc42737738b9da0252d9726124a14",
+    "downloaded/pexels_7981961.mp4": "5600ff9ea624131647e66f2ea13e7ec379bff5c4e11e8b0258e3555a58da51c7",
+    "downloaded/pexels_7841618.mp4": "66194c17538bb231ddc2a363b0639d803ada23163b5c9a2467f1fa5e5d033d6c",
+    "downloaded/pexels_7710454.mp4": "faf9e4cf784697009ced1ed2003eaae677b6aec1959d79913f7c6efdf049816f",
+    "downloaded/pexels_8124296.mp4": "323cabc6bb4564b10c604e1d0c111273c9aabc4ae89450cebb98ff0a797988ce",
+    "downloaded/pexels_7732805.mp4": "25f8c2e507af1415ea997d2901090db549a686a70f75a3f7e23dc252af3e774b",
+    "downloaded/pexels_6781564.mp4": "1adf8c34f7d635182177e98241576ed91326dcd8224064b1abd59c8813d66cb6",
+    "downloaded/pexels_6814546.mp4": "bdaf34b6430888b0ca0acc7708d48bed1d6e0fe6b9bec79d65911abfd3cff950",
+    "downloaded/pexels_1395943.mp4": "e4816f7bed8af0138f43e3ae403b73c330e3c5adeafe745c076c2500f30e8773",
+    "downloaded/pexels_4318552.mp4": "7bbb4a6a25e9dee32da13ccbf89b9f5be8f88170d89d5f83b87408ddd1690dc5",
+    "downloaded/pexels_4352275.mp4": "e5e4b83f9bbe2ef4a1ffee812f8cf6477d94ec5ef2adea4b83e197b6d7088bf1",
+    "downloaded/pexels_5385839.mp4": "f88646a8cd158fc4092dcef5f1fcd4ea8550f318928d56294a58f14f0902f5a4",
+    "downloaded/pexels_5977139.mp4": "5a2fedfce925ed604fb9ac6c953e51b126bdabb7a112088e157d1941ce51b61d",
+    "downloaded/pexels_3196637.mp4": "5dd213c87ea82702dc6f130aa445df76f237b83c87f06801b55244a2af5458d2",
+    "downloaded/pexels_18838444.mp4": "c1632388e125390eda6a24d63996b9d037845685a790044bd0156edd24b2428c",
+    "downloaded/pexels_12892438.mp4": "cde83e75c068f7348047501063b5ee01dcc9e7960638e79ca46d436f4c942aa1",
+    "downloaded/pexels_9218144.mp4": "4ec3820babe0363fdacf57eb4b336ae3acd7f10e952f96f979f6dbb9857dcc69",
+    "downloaded/pexels_31183719.mp4": "84bbbe785c66d27239f86492e9b33e9f185e6819b651e57769e8e14dd3afe81f",
+    "downloaded/pexels_946146.mp4": "c2d47303705aa12cb85539aafe72aec1ec94ecf78dc61904ef233993bb5dbea9",
+    "downloaded/pexels_2369564.mp4": "fa2d183cc6a841804aff014f9b512890a8161f8a77715252c49b935d93eca56a",
+    "downloaded/pexels_34124549.mp4": "12051f131336dbfe5d3358d1adc703487bf958571273061e79f281737195202d",
+    "downloaded/pexels_5970673.mp4": "0458d1e4d9aa353f29dd9462ca6a2cdbfa8fc81e6f3f2983a7f14f373d861c9a",
+    "downloaded/pexels_3202364.mp4": "edc39c3cb93897968de6c8f9f04c84b303e31efda42b52f26fe5baa3fcdd0d3f",
+    "downloaded/pexels_9253241.mp4": "09c9b508d39f8d15753804b62bc01291efa24e39b63704de0e8163e275ee0a3a",
+    "downloaded/pexels_9968431.mp4": "a3490cd21ebe5c43849b46ee35342d384b8d33d1bd22436044a8f429f5511cbc",
+    "downloaded/pexels_34977302.mp4": "6e2bda59cd5d18062333073076ca003992eb5d1ce122e834b68f7251d7cdd6c9",
+    "downloaded/pexels_3588018.mp4": "2bda89743dac551f963e5f69396071ffd4b6dafa8d176917724265d8ebb127c6",
+    "downloaded/pexels_9968429.mp4": "4b04457fe8dfa706ab99ca27e20768c30b60420a99821290c7ed3a58c8cba6ef",
+    "downloaded/pexels_5688546.mp4": "00b9e4f2242611801b31076173f3fa1df4452091a99c0ac2c2f8dea58c5abd76",
+    "downloaded/pexels_5860953.mp4": "09e860517a8164a6cd76fe61e93677ad3648ac04637cb355c2e5b2cfaef4041f",
+    "downloaded/pexels_8301737.mp4": "2a0ec826ab8f467693248cd245504f146a1c28314230c9ea88bd180245ddedaf",
+    "downloaded/pexels_4899548.mp4": "18240a194734a26d473c29a22f7435961b2480cdf2e407bb56562d0d24bc0896",
+    "downloaded/pexels_33130485.mp4": "94631467f68ca82377cc92dd914c3c806501605968c539fbb971797d660634f8",
+    "downloaded/pexels_5860698.mp4": "ae3462750321cd7b23439c282a64167f6fb82fdf4d742cfdcd4c5e1279f5d85c",
+    "downloaded/pexels_11899674.mp4": "e8d5d1786d823b90c70d1f73c35caf9cc0a7b301908fc39597f21fa2dd77a25d",
+    "downloaded/pexels_5861178.mp4": "ff9de14c6a13d194f9cb6fe103112de40e2c52b55e65e0b2aabd733e3c68b8a2",
+    "downloaded/pexels_5105175.mp4": "6b3f88848fc67bcddde2de8f1d3f3e9ce240164cdc5903ac7dae3ae159a4f899",
+    "downloaded/pexels_2709908.mp4": "b3d8041d27dfcc8875c549b977f36dff7282b2de33b01ced725a9ebd678d2590",
+    "downloaded/pexels_4787511.mp4": "c2f28caed0a10c50c9a01f642f646bf44593ba6f78ee8dddb53104d131f083d2",
+    "downloaded/pexels_30285951.mp4": "91783fec3dc4fc5a3d62a61f79f3f13bd7d30ee76160533cbd29749a7712635a",
+    "downloaded/pexels_30284587.mp4": "3af02fa7ebece41cc4196ec92296cd04fd92121d2ed6435c9e39dffa7d5c312e",
+    "downloaded/pexels_7317776.mp4": "4f1f067eee4bb4cce11c06678c753498992aba8383f55b916df7420a45d0c13a",
+    "downloaded/pexels_7317038.mp4": "9cb5562562f1323d4b5506d5193e65f0e928db4d1c757303703523f958422729",
+    "downloaded/pexels_33810506.mp4": "ecb523c1935debff276b912ea6d6a6facd29508aec3b4d8dc8367bf518d12a72",
+    "downloaded/pexels_27050263.mp4": "14113f95c3101032e393ac0366419974888d45a74488856aba88c88c7ced062f",
+    "downloaded/pexels_1826652.mp4": "7e98c8aa4515240afabd2acfa0c0375ed7d38d1811b0cdc49e2fc17f9033e519",
+    "downloaded/pexels_20563164.mp4": "56d0165e39812f4210e4e186d2e940718d93def83563a7586ed3f4ef290e0eb9",
+    "downloaded/pexels_6330778.mp4": "0ee5b56b51a7554e34651c585a10b11fbd61264720a31147e96aab395b8a8077",
+    "downloaded/pexels_34492301.mp4": "dfff089ac7b828953bf449761803464a76820c64a6733c6d3f6dc2313c04cceb",
+    "downloaded/pexels_8212373.mp4": "9ea837156c29998b37f33edb5ff8b56db5619e026e2e1955c3a7460cf56dbe98",
+    "downloaded/pexels_6964235.mp4": "705edba0c0cf45229d34c0f399ba841837bde31b5c97e90a1b2eb3102713b9c0",
+    "downloaded/pexels_5378133.mp4": "56541a220327d5efb1ed0873f46b9f5ce22edf58f6851723db46993cb481d992",
+    "downloaded/pexels_7581246.mp4": "3d50aa3c6e18c7500c9d5a5cd186cc6dda2895991d835e030f4a4365a82f22df",
+    "downloaded/pexels_5119235.mp4": "a3aaaebab2e38af3d24bc428312b38c27202863c396fa3768c9e510fa12e898d",
+    "downloaded/pexels_5119237.mp4": "98e3eb3f358b37565ce9545d8961eb67fa58e44d6630ca4fa9e889e5e328b8a0",
+    "downloaded/pexels_4426025.mp4": "a1b9fe7a7e0d5af90cd9a7f65c6f989b2866f83acc3d4b84f064ecdde10c63d3",
+    "downloaded/pexels_8888977.mp4": "12f9337e9ffbf57e31c4a550a9559f41edcfdfd92211ea5fa5be6987b27e2d55",
+    "downloaded/pexels_1326864.mp4": "fc8238675e9d58dcfa03c0d4bc94a103d5186aaa194757f2700ea0cb467a0b13",
+    "downloaded/pexels_5119239.mp4": "63ace7dfc47899ac62e4c6dd89addc3458c711218192cfd7194311c6c1b2c98a",
+    "downloaded/pexels_2058803.mp4": "6e0268d38d80c510d38b9006a76df49502d905cabc92f95e7328850f6ed80f34",
+    "downloaded/pexels_8865886.mp4": "2e71e1cf5be7255f1813b1450275e480a03888d1c91322f71bc2e8808fdf6935",
+    "downloaded/pexels_4684802.mp4": "8bd3eff3d426cdb0e1cea0d73786fbbac88be078ab47291593913fde58ad3550",
+    "downloaded/pexels_4450059.mp4": "b9131d8aa65929ef52d2263f52172735cc25bedc897b75ec9fe0c2225590bcdf",
+    "downloaded/pexels_4973401.mp4": "2aaeb4f38f92e2ec063b3ef46b7c8c89822d4cd2f6a28d4a99cc0d839d9aa6f4",
+    "downloaded/pexels_6964016.mp4": "2613fd0132da406dad917b43f419d618ef20be2c24eead88cf32b789c05834b8",
+    "downloaded/pexels_5119217.mp4": "1d8451b83be9502750a7ee0ef447c8ebe7700476865fe128ff64962b52e0e708",
+    "downloaded/pexels_5647327.mp4": "34f4b1540922d82b5093159722e4e5eb70015bf72cf35662a3a1a77ccc51a203",
+    "downloaded/pexels_6963750.mp4": "d647aaa24b9db5fa3ee31d1bfbcce2e2e5938aecd69d70f21a13489fbe9ff103",
+    "downloaded/pexels_11916849.mp4": "59fa034c2c3dc72e6c9f05187773602f5854883e77b85f28f1fe049ff7b41dd2",
+    "downloaded/pexels_5168878.mp4": "6d4243a0335cf967dbcc60acc0633cec73cc99d6a3636e956f8704f1cc253d7a",
+    "downloaded/pexels_7685212.mp4": "ed51a6dd1542a140bcc6a21dbc173299e3bf9b24fba2c272fb541bde6ac3163c",
+    "downloaded/pexels_8134769.mp4": "6492f770df5e9400ab0bdf5a6a70e7c42e0eb11c243951cd152982606f754438",
+    "downloaded/pexels_8731324.mp4": "ad260593a0c130b1d55a6bf9e76d0f1fff47900fee7ebabb4d9f16ce24ede6fb",
+    "downloaded/pexels_8141649.mp4": "8e85c447a17af9c6f15466c0e2db05a714505dd1673b25efaa09d790c26c5f0c",
+    "downloaded/pexels_7643333.mp4": "0b398c9b23785ab5e1e87a4dff2227262afef95b5d2d686e7a8108adf0adc153",
+    "downloaded/pexels_8382393.mp4": "8f4d1493a75e871518ab7ac3510913ab62786a25718cd52547121a18668d1931",
+    "downloaded/pexels_9869820.mp4": "18cd280cf7f780a1d079ee1200a697a7b2c1c1397f4f9d22045223e729c49a5b",
+    "downloaded/pexels_7841874.mp4": "f26d980588f7877e0f0d879ab9ee1ebb21ac54a38b5efe07ffeec31978d13315",
+    "downloaded/pexels_8545740.mp4": "901e542b797924160b4f6a6a1ba88888140cb41be70ba999ae09eaa3445f1210",
+    "downloaded/pexels_30117908.mp4": "4a2e59faa17c07eef782fa37db3bd9942906905e92ef4bc38f08dfba9a8b524c",
+    "downloaded/pexels_7710493.mp4": "d3838829132797abf58e57b1f0ee7925432c581dc008983e45dabe38ad75c03b",
+    "downloaded/pexels_37179130.mp4": "2d0f26f1902b25795287819aa5810a3fb1c52f32e4cf93a38071deddbe2d4466",
+    "downloaded/pexels_9807887.mp4": "aabfa33c8c53694f0120e3ed928503a92e3ae8eeed0e5892126334095abc5749",
+    "downloaded/pexels_9807886.mp4": "30f66576d407b647f62ebcb130a6209c42b9715b61dd40f0544fbff73e7e48ff",
+    "downloaded/pexels_9807882.mp4": "6af00d0cbd9c3bfb40f7c30ab15b7654bfdba93e1591fdc7cf27fab657885cf1",
+    "downloaded/mixkit_4163.mp4": "7bb0690c1c2537421aafade2dcce462f48b10dadbd023178e15129411e246e8f",
+    "generated/opening-sheet.png": "870e5b0faf5efaf2c01a721a8503279cfe7936ac69d98f68c8c0266dbedc1c42",
+    "generated/sheet-2.png": "2cbd6e38b5d0635662b38dc8336053b73ab39fbecd384a44ac57918d5c46c549",
+    "generated/sheet-3.png": "d65d3b8a74c1ca4ff59bcf8cfd3d7499b719648f703e30a6ffa4456c23a1dfe9",
+    "generated/sheet-4.png": "74666f3128de6281c016717adbbb36b0cb15c7e5f86b22d5cab58cb09dcb1816",
+    "generated/sheet-5.png": "b5b7438e3fa0e5a599c767270fda515da0fd827427afd0f398d75c53d452173c",
+    "generated/sheet-6.png": "bf4a5336a4610c62ef6f4f818dadc08aeba4c558b359c2daf540324d9732ea33"
+  },
+  "limitations": [
+    "Footage illustrates the supplied narration; it is not authentic footage of the described operation.",
+    "Audio/text discrepancies retained from original audio and documented separately.",
+    "Full human listening and playback have not been performed."
+  ]
+}

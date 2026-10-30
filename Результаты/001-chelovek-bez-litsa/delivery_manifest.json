@@ -1,0 +1,31 @@
+{
+  "status": "locally_verified_pending_upload",
+  "publication": "draft_only",
+  "files": [
+    {
+      "name": "chelovek-bez-litsa-1080p.mp4",
+      "bytes": 486869068,
+      "sha256": "33ad0ea43b23a898ee7e0412d49ae1cc0c9d1e7bc64c08504387d8ea1bbace8e"
+    },
+    {
+      "name": "sources-and-notes.txt",
+      "bytes": 33718,
+      "sha256": "f074abeb51f461219367c11c20471ff12ab5919bffd07705d197e1400bef53b4"
+    },
+    {
+      "name": "quality_report.md",
+      "bytes": 4789,
+      "sha256": "6b74e3141e343a8d2aeaa72aeb6ed9287ead72ed0076fa1ac6168e7f71c97163"
+    },
+    {
+      "name": "verification.json",
+      "bytes": 4699,
+      "sha256": "805c5863ea52ff6e70999a6b048a4b1625647b939d628d261bbbca1c60cb5f9a"
+    },
+    {
+      "name": "reconstruction-stills.zip",
+      "bytes": 11787918,
+      "sha256": "a6c19f8bee83eb90161a409319845063097a2e702af8621c6e9f93a631b9422b"
+    }
+  ]
+}

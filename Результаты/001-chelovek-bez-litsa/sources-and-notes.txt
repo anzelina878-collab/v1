@@ -1,0 +1,722 @@
+ЧЕЛОВЕК БЕЗ ЛИЦА — первая монтажная версия
+
+Видеоряд: лицензированные современные стоковые материалы и художественные реконструкции. Это иллюстрация предоставленного рассказа, а не архивная съёмка реальных событий. WIRED, Wikimedia и архивные фото не использованы. Реальное лицо Алекса не устанавливалось.
+
+Озвучка предоставлена пользователем. Содержание и темп сохранены; выполнена отдельная обработка громкости и пиков. Музыка и SFX не добавлялись.
+
+Важные отличия озвучки от текста:
+1. Около 19:07 запись переходит от описания материалов ФБР к ноябрю 2016 года; следующий абзац главы 8 в текстовом файле в записи отсутствует.
+2. Около 20:01–20:10 в записи вместо фразы о 487 тысячах долларов звучит фрагмент о журналисте, дополнительных материалах и четырёхчасовом разговоре. Расхождение воспроизводится в двух машинных проходах распознавания. Сохранено из исходного аудио без исправления.
+3. Заголовки глав и название из текстового файла в озвучке не читаются как отдельные заголовки.
+
+Сборка привязана к реальной записи, а не к отсутствующим фразам текста. Полное человеческое прослушивание и фактологическая редактура рассказа не выполнялись. Это версия для просмотра и правок, не утверждение документальной точности каждого события.
+
+План: 274 монтажных плана, 175 уникальных видеоклипов и 24 постановочных изображения. Повторяющиеся интервалы одного исходного видео не использованы. Изображения постановочных сцен использованы по одному разу.
+
+ИСТОЧНИКИ И ПРАВА
+
+Pexels: https://www.pexels.com/license/
+Mixkit: https://mixkit.co/license/#videoFree
+Права допускают использование в смонтированном фильме; исходные стоковые файлы отдельно не распространяются.
+
+pexels_9807879 — Close up on Casino Machines / Petkevich Evgeniy
+https://www.pexels.com/video/close-up-on-casino-machines-9807879/
+Лицензия: Pexels
+
+pexels_9807884 — Close up on Gambling Machines Screens / Petkevich Evgeniy
+https://www.pexels.com/video/close-up-on-gambling-machines-screens-9807884/
+Лицензия: Pexels
+
+pexels_9807885 — Close up on Gambling Machines Screen / Petkevich Evgeniy
+https://www.pexels.com/video/close-up-on-gambling-machines-screen-9807885/
+Лицензия: Pexels
+
+pexels_35728851 — Close-up of Hand Pressing Slot Machine Buttons / Evgenij Mikhailov
+https://www.pexels.com/video/close-up-of-hand-pressing-slot-machine-buttons-35728851/
+Лицензия: Pexels
+
+pexels_34495727 — Vibrant Casino Floor in Popular Destination / Jason  James
+https://www.pexels.com/video/vibrant-casino-floor-in-popular-destination-34495727/
+Лицензия: Pexels
+
+pexels_18382358 — Software developer / Milos Jevtic
+https://www.pexels.com/video/software-developer-18382358/
+Лицензия: Pexels
+
+pexels_6346228 — Woman Typing Codes / https://kaboompics.com/
+https://www.pexels.com/video/woman-typing-codes-6346228/
+Лицензия: Pexels
+
+pexels_5495781 — A Person Working Hard On A Computer Laptop / Pavel Danilyuk
+https://www.pexels.com/video/a-person-working-hard-on-a-computer-laptop-5495781/
+Лицензия: Pexels
+
+pexels_6346224 — Woman Typing In Low Light Room / https://kaboompics.com/
+https://www.pexels.com/video/woman-typing-in-low-light-room-6346224/
+Лицензия: Pexels
+
+pexels_5495845 — A Person Using His Laptop For Programming / Pavel Danilyuk
+https://www.pexels.com/video/a-person-using-his-laptop-for-programming-5495845/
+Лицензия: Pexels
+
+pexels_13522186 — A Programmer Working on a Laptop Computer / Raddy
+https://www.pexels.com/video/a-programmer-working-on-a-laptop-computer-13522186/
+Лицензия: Pexels
+
+pexels_13522169 — Close up of Programming / Raddy
+https://www.pexels.com/video/close-up-of-programming-13522169/
+Лицензия: Pexels
+
+pexels_7534244 — Person is Typing Using Computer Keyboard / Mikhail Nilov
+https://www.pexels.com/video/person-is-typing-using-computer-keyboard-7534244/
+Лицензия: Pexels
+
+pexels_6330774 — Person using Laptop / Matias Mango
+https://www.pexels.com/video/person-using-laptop-6330774/
+Лицензия: Pexels
+
+pexels_6330779 — Close Up View of a Man Doing Computer Programming / Matias Mango
+https://www.pexels.com/video/close-up-view-of-a-man-doing-computer-programming-6330779/
+Лицензия: Pexels
+
+pexels_5495784 — Person's Hands Using a Laptop for Typing / Pavel Danilyuk
+https://www.pexels.com/video/person-s-hands-using-a-laptop-for-typing-5495784/
+Лицензия: Pexels
+
+pexels_33187889 — Close-up of Hand Pointing at Code on Monitor / Jakub Zerdzicki
+https://www.pexels.com/video/close-up-of-hand-pointing-at-code-on-monitor-33187889/
+Лицензия: Pexels
+
+pexels_5240933 — Person Wearing Hoodie While Using Computer / Anete Lusina
+https://www.pexels.com/video/person-wearing-hoodie-while-using-computer-5240933/
+Лицензия: Pexels
+
+pexels_7534239 — Person using Keyboard while Typing / Mikhail Nilov
+https://www.pexels.com/video/person-using-keyboard-while-typing-7534239/
+Лицензия: Pexels
+
+pexels_40271529 — Close-Up of Hands Typing on Keyboard in Dark Room / Dawid Tkocz
+https://www.pexels.com/video/close-up-of-hands-typing-on-keyboard-in-dark-room-40271529/
+Лицензия: Pexels
+
+pexels_33841807 — Typing Code on Laptop in Modern Workspace / Emanuel Pedro
+https://www.pexels.com/video/typing-code-on-laptop-in-modern-workspace-33841807/
+Лицензия: Pexels
+
+pexels_36392564 — Typing on Keyboard in Dimly Lit Room / Mihman Duğanlı
+https://www.pexels.com/video/typing-on-keyboard-in-dimly-lit-room-36392564/
+Лицензия: Pexels
+
+pexels_6611941 — Person Holding a Smartphone / Tima Miroshnichenko
+https://www.pexels.com/video/person-holding-a-smartphone-6611941/
+Лицензия: Pexels
+
+pexels_13358555 — Hands Scrolling on Cellphone / Edwin Lopez
+https://www.pexels.com/video/hands-scrolling-on-cellphone-13358555/
+Лицензия: Pexels
+
+pexels_5617952 — Person Sending a Text Message to a Loved One / RDNE Stock project
+https://www.pexels.com/video/person-sending-a-text-message-to-a-loved-one-5617952/
+Лицензия: Pexels
+
+pexels_28828935 — Nighttime Smartphone Messaging Outdoors / Bofforss
+https://www.pexels.com/video/nighttime-smartphone-messaging-outdoors-28828935/
+Лицензия: Pexels
+
+pexels_33942937 — Close-Up of Hands Using Smartphone in Dark / Özgür Sürmeli
+https://www.pexels.com/video/close-up-of-hands-using-smartphone-in-dark-33942937/
+Лицензия: Pexels
+
+pexels_6611938 — Man Tapping Blank Screen on Smartphone / Tima Miroshnichenko
+https://www.pexels.com/video/man-tapping-blank-screen-on-smartphone-6611938/
+Лицензия: Pexels
+
+pexels_7534331 — Person using Smartphone / Mikhail Nilov
+https://www.pexels.com/video/person-using-smartphone-7534331/
+Лицензия: Pexels
+
+pexels_6414098 — A Person Texting Using Mobile Phone / RDNE Stock project
+https://www.pexels.com/video/a-person-texting-using-mobile-phone-6414098/
+Лицензия: Pexels
+
+pexels_7534329 — A Person Using a Cellphone While Holding a Card / Mikhail Nilov
+https://www.pexels.com/video/a-person-using-a-cellphone-while-holding-a-card-7534329/
+Лицензия: Pexels
+
+pexels_5925287 — A Person Typing on a Laptop while Holding a Phone / Sora Shimazaki
+https://www.pexels.com/video/a-person-typing-on-a-laptop-while-holding-a-phone-5925287/
+Лицензия: Pexels
+
+pexels_6611939 — Man Scrolling On Mobile Phone Screen / Tima Miroshnichenko
+https://www.pexels.com/video/man-scrolling-on-mobile-phone-screen-6611939/
+Лицензия: Pexels
+
+pexels_1085656 — Blue Colored Cables / Dima Krivoy
+https://www.pexels.com/video/blue-colored-cables-1085656/
+Лицензия: Pexels
+
+pexels_7140928 — Close Up of a CPU / MrColo
+https://www.pexels.com/video/close-up-of-a-cpu-7140928/
+Лицензия: Pexels
+
+pexels_7140937 — A Close-Up Video of Cable Wires Connected on a Motherboard / MrColo
+https://www.pexels.com/video/a-close-up-video-of-cable-wires-connected-on-a-motherboard-7140937/
+Лицензия: Pexels
+
+pexels_7140931 — Close Up Shot of a Electronic Device / MrColo
+https://www.pexels.com/video/close-up-shot-of-a-electronic-device-7140931/
+Лицензия: Pexels
+
+pexels_6804117 — A Computer Code Running on Screen / cottonbro studio
+https://www.pexels.com/video/a-computer-code-running-on-screen-6804117/
+Лицензия: Pexels
+
+pexels_38496192 — Inserting Hard Drive into Storage Device / Media Hopper Studio
+https://www.pexels.com/video/inserting-hard-drive-into-storage-device-38496192/
+Лицензия: Pexels
+
+pexels_5028622 — Database Storage of a Server / ALL IZ Well
+https://www.pexels.com/video/database-storage-of-a-server-5028622/
+Лицензия: Pexels
+
+pexels_38496312 — Hands Operating Dual Disk Drives in Low Light / Media Hopper Studio
+https://www.pexels.com/video/hands-operating-dual-disk-drives-in-low-light-38496312/
+Лицензия: Pexels
+
+pexels_38081600 — Modern Data Center in Urban Business District / Jakub Zerdzicki
+https://www.pexels.com/video/modern-data-center-in-urban-business-district-38081600/
+Лицензия: Pexels
+
+pexels_3865559 — A Person Soldering a Circuit Board / Steve B
+https://www.pexels.com/video/a-person-soldering-a-circuit-board-3865559/
+Лицензия: Pexels
+
+pexels_7057342 — Person Fixing Electronics / M 511
+https://www.pexels.com/video/person-fixing-electronics-7057342/
+Лицензия: Pexels
+
+pexels_5736195 — A Close Up Shot of a Person Soldering / Wojciech
+https://www.pexels.com/video/a-close-up-shot-of-a-person-soldering-5736195/
+Лицензия: Pexels
+
+pexels_9431253 — A Person Fixing Electronic / Mikhail Nilov
+https://www.pexels.com/video/a-person-fixing-electronic-9431253/
+Лицензия: Pexels
+
+pexels_4304754 — Close-Up Shot of a Burning Electronic Component / Nithin PA
+https://www.pexels.com/video/close-up-shot-of-a-burning-electronic-component-4304754/
+Лицензия: Pexels
+
+pexels_3866849 — Close-up Footage Of An Electronic Circuit Board / Steve B
+https://www.pexels.com/video/close-up-footage-of-an-electronic-circuit-board-3866849/
+Лицензия: Pexels
+
+pexels_7030718 — A Person Repairing Electronics / M 511
+https://www.pexels.com/video/a-person-repairing-electronics-7030718/
+Лицензия: Pexels
+
+pexels_2376866 — Circuit Board Undder Magnifying Lens / Video Kickstarter
+https://www.pexels.com/video/circuit-board-undder-magnifying-lens-2376866/
+Лицензия: Pexels
+
+pexels_6754822 — Close up Shot of a Printed Circuit Board / Tima Miroshnichenko
+https://www.pexels.com/video/close-up-shot-of-a-printed-circuit-board-6754822/
+Лицензия: Pexels
+
+pexels_6754826 — Gadget Repair Using a Soldering Iron / Tima Miroshnichenko
+https://www.pexels.com/video/gadget-repair-using-a-soldering-iron-6754826/
+Лицензия: Pexels
+
+pexels_7314033 — Person using Soldering Iron while Repairing Circuit Board / https://kaboompics.com/
+https://www.pexels.com/video/person-using-soldering-iron-while-repairing-circuit-board-7314033/
+Лицензия: Pexels
+
+pexels_9373207 — Hands Removing the Wires of Circuit Board   / Mikhail Nilov
+https://www.pexels.com/video/hands-removing-the-wires-of-circuit-board-9373207/
+Лицензия: Pexels
+
+pexels_7609195 — Close-Up Video of a Circuit Board / Steve B
+https://www.pexels.com/video/close-up-video-of-a-circuit-board-7609195/
+Лицензия: Pexels
+
+pexels_7423954 — Person Using a Soldering Iron / Gustavo Fring
+https://www.pexels.com/video/person-using-a-soldering-iron-7423954/
+Лицензия: Pexels
+
+pexels_40538289 — Modern Cityscape with Security Cameras at Sunset / H.Espinosa Films
+https://www.pexels.com/video/modern-cityscape-with-security-cameras-at-sunset-40538289/
+Лицензия: Pexels
+
+pexels_38779098 — High-Tech Control Room for Traffic Monitoring / Kiwi and Camera
+https://www.pexels.com/video/high-tech-control-room-for-traffic-monitoring-38779098/
+Лицензия: Pexels
+
+pexels_2845945 — A Detention Cell Converted Into A Museum / Andrey Kirievskiy
+https://www.pexels.com/video/a-detention-cell-converted-into-a-museum-2845945/
+Лицензия: Pexels
+
+pexels_29292758 — CCTV Surveillance Warning Sign in Russian / AV
+https://www.pexels.com/video/cctv-surveillance-warning-sign-in-russian-29292758/
+Лицензия: Pexels
+
+pexels_6326929 — Person Couting Money  / https://kaboompics.com/
+https://www.pexels.com/video/person-couting-money-6326929/
+Лицензия: Pexels
+
+pexels_5466769 — A Person Counting Money / olia danilevich
+https://www.pexels.com/video/a-person-counting-money-5466769/
+Лицензия: Pexels
+
+pexels_4524511 — Counting Money / https://kaboompics.com/
+https://www.pexels.com/video/counting-money-4524511/
+Лицензия: Pexels
+
+pexels_6326928 — Person Counting Money  / https://kaboompics.com/
+https://www.pexels.com/video/person-counting-money-6326928/
+Лицензия: Pexels
+
+pexels_31750574 — Close-up of Hands Handling Stacks of Currency / Dominik Zítka
+https://www.pexels.com/video/close-up-of-hands-handling-stacks-of-currency-31750574/
+Лицензия: Pexels
+
+pexels_8479050 — Counting Money / ArtHouse Studio
+https://www.pexels.com/video/counting-money-8479050/
+Лицензия: Pexels
+
+pexels_5466780 — A Person Holding Hundred Dollar Bills on Both Hands / olia danilevich
+https://www.pexels.com/video/a-person-holding-hundred-dollar-bills-on-both-hands-5466780/
+Лицензия: Pexels
+
+pexels_15838744 — Vidéographie 0221 / Dimitri Baret
+https://www.pexels.com/video/videographie-0221-15838744/
+Лицензия: Pexels
+
+pexels_15556159 — A Plane Taxiing on the Airport Apron / African  Creator
+https://www.pexels.com/video/a-plane-taxiing-on-the-airport-apron-15556159/
+Лицензия: Pexels
+
+pexels_33330994 — Commercial Airplane Taxiing on Runway at Airport / Tuan Vy  Spotter
+https://www.pexels.com/video/commercial-airplane-taxiing-on-runway-at-airport-33330994/
+Лицензия: Pexels
+
+pexels_4396425 — Footage of the Airplane Taking Off the Runway / Asko
+https://www.pexels.com/video/footage-of-the-airplane-taking-off-the-runway-4396425/
+Лицензия: Pexels
+
+pexels_3723453 — Footage Of The Plane Taking Off / K
+https://www.pexels.com/video/footage-of-the-plane-taking-off-3723453/
+Лицензия: Pexels
+
+pexels_9512146 — Airplane Being Towed on Airport Taxiway / Alexandr Shorban
+https://www.pexels.com/video/airplane-being-towed-on-airport-taxiway-9512146/
+Лицензия: Pexels
+
+pexels_3350820 — An Out Of Focus Footage Of Emergency Lights / Daniel Absi
+https://www.pexels.com/video/an-out-of-focus-footage-of-emergency-lights-3350820/
+Лицензия: Pexels
+
+pexels_7714378 — Close-Up Video of Police Car Lights / Kindel Media
+https://www.pexels.com/video/close-up-video-of-police-car-lights-7714378/
+Лицензия: Pexels
+
+pexels_27974750 — Police / Bubble Media
+https://www.pexels.com/video/police-27974750/
+Лицензия: Pexels
+
+pexels_6581005 — Police Vehicles at Night  / K
+https://www.pexels.com/video/police-vehicles-at-night-6581005/
+Лицензия: Pexels
+
+pexels_32538553 — Aerial Nighttime Traffic Stop with Police Lights / K
+https://www.pexels.com/video/aerial-nighttime-traffic-stop-with-police-lights-32538553/
+Лицензия: Pexels
+
+pexels_27974835 — police / Bubble Media
+https://www.pexels.com/video/police-27974835/
+Лицензия: Pexels
+
+pexels_27974747 — Police / Bubble Media
+https://www.pexels.com/video/police-27974747/
+Лицензия: Pexels
+
+pexels_10029631 — Police Car Lights at Night / Connor kane
+https://www.pexels.com/video/police-car-lights-at-night-10029631/
+Лицензия: Pexels
+
+pexels_7714379 — Video of a Police Car / Kindel Media
+https://www.pexels.com/video/video-of-a-police-car-7714379/
+Лицензия: Pexels
+
+pexels_16657020 — A police car is parked in front of a building at night / Erik Mclean
+https://www.pexels.com/video/a-police-car-is-parked-in-front-of-a-building-at-night-16657020/
+Лицензия: Pexels
+
+pexels_6538597 — A Woman Getting a File / cottonbro studio
+https://www.pexels.com/video/a-woman-getting-a-file-6538597/
+Лицензия: Pexels
+
+pexels_8257210 — Person Sign the Paper / ArtHouse Studio
+https://www.pexels.com/video/person-sign-the-paper-8257210/
+Лицензия: Pexels
+
+pexels_8814711 — A Person Handing Over the Document to the Client / Kampus Production
+https://www.pexels.com/video/a-person-handing-over-the-document-to-the-client-8814711/
+Лицензия: Pexels
+
+pexels_9364259 — A Person Holding the Documents / Mikhail Nilov
+https://www.pexels.com/video/a-person-holding-the-documents-9364259/
+Лицензия: Pexels
+
+pexels_8731513 — A Man Signing an Agreement / Mikhail Nilov
+https://www.pexels.com/video/a-man-signing-an-agreement-8731513/
+Лицензия: Pexels
+
+pexels_8135727 — Woman Placing Papers Into A Folder / https://kaboompics.com/
+https://www.pexels.com/video/woman-placing-papers-into-a-folder-8135727/
+Лицензия: Pexels
+
+pexels_6597520 — Person Looking the Papers / Luis Moraleda
+https://www.pexels.com/video/person-looking-the-papers-6597520/
+Лицензия: Pexels
+
+pexels_7981961 — Person Handing Documents / Kindel Media
+https://www.pexels.com/video/person-handing-documents-7981961/
+Лицензия: Pexels
+
+pexels_7841618 — Person holding Documents / RDNE Stock project
+https://www.pexels.com/video/person-holding-documents-7841618/
+Лицензия: Pexels
+
+pexels_7710454 — Close-Up View of a Person Looking at Documents / https://kaboompics.com/
+https://www.pexels.com/video/close-up-view-of-a-person-looking-at-documents-7710454/
+Лицензия: Pexels
+
+pexels_8124296 — Close up of a Businessperson Holding Documents / RDNE Stock project
+https://www.pexels.com/video/close-up-of-a-businessperson-holding-documents-8124296/
+Лицензия: Pexels
+
+pexels_7732805 — Close-up Footage of a Person Flipping Pages of Documents on a Folder / Mikhail Nilov
+https://www.pexels.com/video/close-up-footage-of-a-person-flipping-pages-of-documents-on-a-folder-7732805/
+Лицензия: Pexels
+
+pexels_6781564 — A Person Holding a Business Summary / Artem Podrez
+https://www.pexels.com/video/a-person-holding-a-business-summary-6781564/
+Лицензия: Pexels
+
+pexels_6814546 — Over the Shoulder Shot of People Looking at Business Documents / cottonbro studio
+https://www.pexels.com/video/over-the-shoulder-shot-of-people-looking-at-business-documents-6814546/
+Лицензия: Pexels
+
+pexels_1395943 — Person Typing / Drew Rae
+https://www.pexels.com/video/person-typing-1395943/
+Лицензия: Pexels
+
+pexels_4318552 — Close-Up Shot of a Person Typing on his Laptop / Pavel Danilyuk
+https://www.pexels.com/video/close-up-shot-of-a-person-typing-on-his-laptop-4318552/
+Лицензия: Pexels
+
+pexels_4352275 — A Person Typing n A Wireless Keyboard / olia danilevich
+https://www.pexels.com/video/home-office-remote-work-work-from-home-staying-in-4352275/
+Лицензия: Pexels
+
+pexels_5385839 — Woman Typing on the Laptop / Monstera Production
+https://www.pexels.com/video/woman-typing-on-the-laptop-5385839/
+Лицензия: Pexels
+
+pexels_5977139 — A Person Busy Typing and Using His Laptop / Jack Sparrow
+https://www.pexels.com/video/a-person-busy-typing-and-using-his-laptop-5977139/
+Лицензия: Pexels
+
+pexels_3196637 — Person Typing Slowly On A Laptop / Pressmaster
+https://www.pexels.com/video/person-typing-slowly-on-a-laptop-3196637/
+Лицензия: Pexels
+
+pexels_18838444 — Man typing in a desk / indra projects
+https://www.pexels.com/video/man-typing-in-a-desk-18838444/
+Лицензия: Pexels
+
+pexels_12892438 — Hand on Laptop Keyboard / Max Medyk
+https://www.pexels.com/video/hand-on-laptop-keyboard-12892438/
+Лицензия: Pexels
+
+pexels_9218144 — Close Up of Hands Typing on a Laptop / PNW Production
+https://www.pexels.com/video/close-up-of-hands-typing-on-a-laptop-9218144/
+Лицензия: Pexels
+
+pexels_31183719 — Close-up of Hands Typing on Laptop Keyboard / Tech Box Hindi
+https://www.pexels.com/video/close-up-of-hands-typing-on-laptop-keyboard-31183719/
+Лицензия: Pexels
+
+pexels_946146 — Person Typing / Carlos Arribas
+https://www.pexels.com/video/person-typing-946146/
+Лицензия: Pexels
+
+pexels_2369564 — Person Typing Using A White Keyboard / Grappen Studio
+https://www.pexels.com/video/person-typing-using-a-white-keyboard-2369564/
+Лицензия: Pexels
+
+pexels_34124549 — Close-Up of Hands Typing on Laptop Keyboard / MELQUIZEDEQUE ALMEIDA
+https://www.pexels.com/video/close-up-of-hands-typing-on-laptop-keyboard-34124549/
+Лицензия: Pexels
+
+pexels_5970673 — A Close Up View of a Person Typing on the Keyboard of a Laptop / https://kaboompics.com/
+https://www.pexels.com/video/a-close-up-view-of-a-person-typing-on-the-keyboard-of-a-laptop-5970673/
+Лицензия: Pexels
+
+pexels_3202364 — People Working On Their Laptops In An Office / cottonbro studio
+https://www.pexels.com/video/people-working-on-their-laptops-in-an-office-3202364/
+Лицензия: Pexels
+
+pexels_9253241 — Raindrops On the Road / Shamnad Abdulsalam
+https://www.pexels.com/video/raindrops-on-the-road-9253241/
+Лицензия: Pexels
+
+pexels_9968431 — Pedestrians Crossing Street at Night / Evgenij Mikhailov
+https://www.pexels.com/video/pedestrians-crossing-street-at-night-9968431/
+Лицензия: Pexels
+
+pexels_34977302 — Moody Rainy Night Urban Building Scene / tokyo phoulike
+https://www.pexels.com/video/moody-rainy-night-urban-building-scene-34977302/
+Лицензия: Pexels
+
+pexels_3588018 — Cars Passing Through Flood Water On The Side Street Caused By Excessive Rainfall / Athena Sandrini
+https://www.pexels.com/video/cars-passing-through-flood-water-on-the-side-street-caused-by-excessive-rainfall-3588018/
+Лицензия: Pexels
+
+pexels_9968429 — Waterdrops on the Windshield / Evgenij Mikhailov
+https://www.pexels.com/video/waterdrops-on-the-windshield-9968429/
+Лицензия: Pexels
+
+pexels_5688546 — Rainy Night in a City  / George Morina
+https://www.pexels.com/video/rainy-night-in-a-city-5688546/
+Лицензия: Pexels
+
+pexels_5860953 — Aerial Shot of a River / Evgenia Kirpichnikova
+https://www.pexels.com/video/aerial-shot-of-a-river-5860953/
+Лицензия: Pexels
+
+pexels_8301737 — A View of a Bridge and Canal / AdLib Mishiko
+https://www.pexels.com/video/a-view-of-a-bridge-and-canal-8301737/
+Лицензия: Pexels
+
+pexels_4899548 — People Outside the St. Isaac's Cathedral / Maman Nurbek
+https://www.pexels.com/video/people-outside-the-st-isaac-s-cathedral-4899548/
+Лицензия: Pexels
+
+pexels_33130485 — Scenic Riverfront with Historic Architecture / Алан Албегов
+https://www.pexels.com/video/scenic-riverfront-with-historic-architecture-33130485/
+Лицензия: Pexels
+
+pexels_5860698 — European buildings in Front of a River Bank / Evgenia Kirpichnikova
+https://www.pexels.com/video/european-buildings-in-front-of-a-river-bank-5860698/
+Лицензия: Pexels
+
+pexels_11899674 — Colorful Buildings Near the River During Winter / Mger Akopian
+https://www.pexels.com/video/colorful-buildings-near-the-river-during-winter-11899674/
+Лицензия: Pexels
+
+pexels_5861178 — Wide River Within a Big City / Evgenia Kirpichnikova
+https://www.pexels.com/video/wide-river-within-a-big-city-5861178/
+Лицензия: Pexels
+
+pexels_5105175 — Drone Footage of a Cityscape / ArtHouse Studio
+https://www.pexels.com/video/drone-footage-of-a-cityscape-5105175/
+Лицензия: Pexels
+
+pexels_2709908 — The Wall Of Saint Petersburg / Andrey Kirievskiy
+https://www.pexels.com/video/the-wall-of-saint-petersburg-2709908/
+Лицензия: Pexels
+
+pexels_4787511 — The Cathedral Of Our Lady Of Kazan In Saint Petersburg Russia / Maman Nurbek
+https://www.pexels.com/video/the-cathedral-of-our-lady-of-kazan-in-saint-petersburg-russia-4787511/
+Лицензия: Pexels
+
+pexels_30285951 — Aerial View of Warsaw Cityscape in Winter / Siarhei Dalivelia
+https://www.pexels.com/video/aerial-view-of-warsaw-cityscape-in-winter-30285951/
+Лицензия: Pexels
+
+pexels_30284587 — Aerial View of Palace of Culture in Foggy Warsaw / Siarhei Dalivelia
+https://www.pexels.com/video/aerial-view-of-palace-of-culture-in-foggy-warsaw-30284587/
+Лицензия: Pexels
+
+pexels_7317776 — The Palace Of Science And Culture In Warsaw Poland / MART  PRODUCTION
+https://www.pexels.com/video/the-palace-of-science-and-culture-in-warsaw-poland-7317776/
+Лицензия: Pexels
+
+pexels_7317038 — Building Towers In Warsaw Central Square / MART  PRODUCTION
+https://www.pexels.com/video/building-towers-in-warsaw-central-square-7317038/
+Лицензия: Pexels
+
+pexels_33810506 — Urban Traffic Scene with Residential Buildings / SHOX ART
+https://www.pexels.com/video/urban-traffic-scene-with-residential-buildings-33810506/
+Лицензия: Pexels
+
+pexels_27050263 — The skyline of chicago is shown in this photo / K
+https://www.pexels.com/video/the-skyline-of-chicago-is-shown-in-this-photo-27050263/
+Лицензия: Pexels
+
+pexels_1826652 — Panoramic View Of A City / Ricky Esquivel
+https://www.pexels.com/video/panoramic-view-of-a-city-1826652/
+Лицензия: Pexels
+
+pexels_20563164 — Guy sitting in dark room working on his laptop / Onkar Mehta
+https://www.pexels.com/video/guy-sitting-in-dark-room-working-on-his-laptop-20563164/
+Лицензия: Pexels
+
+pexels_6330778 — A Man Programming His Laptop / Matias Mango
+https://www.pexels.com/video/a-man-programming-his-laptop-6330778/
+Лицензия: Pexels
+
+pexels_34492301 — Man Working Late on Computer Editing Video Content / Tom Shutkin
+https://www.pexels.com/video/man-working-late-on-computer-editing-video-content-34492301/
+Лицензия: Pexels
+
+pexels_8212373 — Back View of a Man Working with Computers / ArtHouse Studio
+https://www.pexels.com/video/back-view-of-a-man-working-with-computers-8212373/
+Лицензия: Pexels
+
+pexels_6964235 — Man Programming  / Mikhail Nilov
+https://www.pexels.com/video/man-programming-6964235/
+Лицензия: Pexels
+
+pexels_5378133 — A Man Sitting at the Table / Tima Miroshnichenko
+https://www.pexels.com/video/a-man-sitting-at-the-table-5378133/
+Лицензия: Pexels
+
+pexels_7581246 — Woman Typing On Keyboard / RDNE Stock project
+https://www.pexels.com/video/woman-typing-on-keyboard-7581246/
+Лицензия: Pexels
+
+pexels_5119235 — Aerial View of a Person Typing on Computer Keyboard / Nothing Ahead
+https://www.pexels.com/video/aerial-view-of-a-person-typing-on-computer-keyboard-5119235/
+Лицензия: Pexels
+
+pexels_5119237 — Side View of a Person Typing on Computer / Nothing Ahead
+https://www.pexels.com/video/side-view-of-a-person-typing-on-computer-5119237/
+Лицензия: Pexels
+
+pexels_4426025 — Close-Up Shot of a Person Typing on a Computer Keyboard / 112 Uttar Pradesh
+https://www.pexels.com/video/close-up-shot-of-a-person-typing-on-a-computer-keyboard-4426025/
+Лицензия: Pexels
+
+pexels_8888977 — Person Typing on a Keyboard / MART  PRODUCTION
+https://www.pexels.com/video/person-typing-on-a-keyboard-8888977/
+Лицензия: Pexels
+
+pexels_1326864 — Person Using A Keyboard / UJJAL KHAN PHOTOGRAPHY
+https://www.pexels.com/video/person-using-a-keyboard-1326864/
+Лицензия: Pexels
+
+pexels_5119239 — Top View Clip of Person Typing on a Computer Keyboard / Nothing Ahead
+https://www.pexels.com/video/top-view-clip-of-person-typing-on-a-computer-keyboard-5119239/
+Лицензия: Pexels
+
+pexels_2058803 — Person Using A Keyboard  / Gerardo Ahumada Olivares
+https://www.pexels.com/video/person-using-a-keyboard-2058803/
+Лицензия: Pexels
+
+pexels_8865886 — People Typing on a Computer Keyboard / Yan Krukau
+https://www.pexels.com/video/people-typing-on-a-computer-keyboard-8865886/
+Лицензия: Pexels
+
+pexels_4684802 — Person Typing on the Keyboard / Atul Saini
+https://www.pexels.com/video/person-typing-on-the-keyboard-4684802/
+Лицензия: Pexels
+
+pexels_4450059 — Close-Up Shot of a Person Typing on the Computer Keyboard / Ufuk  Avcuoğlu
+https://www.pexels.com/video/close-up-shot-of-a-person-typing-on-the-computer-keyboard-4450059/
+Лицензия: Pexels
+
+pexels_4973401 — Close-Up View of a Person Typing Using a Keyboard / Harvey Tan Villarino
+https://www.pexels.com/video/close-up-view-of-a-person-typing-using-a-keyboard-4973401/
+Лицензия: Pexels
+
+pexels_6964016 — A Person Typing on Keyboard / Mikhail Nilov
+https://www.pexels.com/video/a-person-typing-on-keyboard-6964016/
+Лицензия: Pexels
+
+pexels_5119217 — Person Pressing Enter Key of a keyboard / Nothing Ahead
+https://www.pexels.com/video/person-pressing-enter-key-of-a-keyboard-5119217/
+Лицензия: Pexels
+
+pexels_5647327 — Fingers Typing on Laptop Keyboard Extreme Close up  / Tima Miroshnichenko
+https://www.pexels.com/video/fingers-typing-on-laptop-keyboard-extreme-close-up-5647327/
+Лицензия: Pexels
+
+pexels_6963750 — A Person Typing on the Keyboard / Mikhail Nilov
+https://www.pexels.com/video/a-person-typing-on-the-keyboard-6963750/
+Лицензия: Pexels
+
+pexels_11916849 — Hands Typing on Keyboard / Andreas
+https://www.pexels.com/video/hands-typing-on-keyboard-11916849/
+Лицензия: Pexels
+
+pexels_5168878 — Close-Up View of Ceramic Cups and Digital Camera / Bethany Ferr
+https://www.pexels.com/video/close-up-view-of-ceramic-cups-and-digital-camera-5168878/
+Лицензия: Pexels
+
+pexels_7685212 — Person Signing on the Documents / ArtHouse Studio
+https://www.pexels.com/video/person-signing-on-the-documents-7685212/
+Лицензия: Pexels
+
+pexels_8134769 — Person Looking at Documents / https://kaboompics.com/
+https://www.pexels.com/video/person-looking-at-documents-8134769/
+Лицензия: Pexels
+
+pexels_8731324 — Person Holding Documents / Mikhail Nilov
+https://www.pexels.com/video/person-holding-documents-8731324/
+Лицензия: Pexels
+
+pexels_8141649 — Workmates Analyzing Some Papers / Alena Darmel
+https://www.pexels.com/video/workmates-analyzing-some-papers-8141649/
+Лицензия: Pexels
+
+pexels_7643333 — Man Reading and Signing the Papers / MART  PRODUCTION
+https://www.pexels.com/video/man-reading-and-signing-the-papers-7643333/
+Лицензия: Pexels
+
+pexels_8382393 — A Person Tapping Fingers  / cottonbro studio
+https://www.pexels.com/video/a-person-tapping-fingers-8382393/
+Лицензия: Pexels
+
+pexels_9869820 — Close up on Mans Hands holding Documents on Table / Ron Lach
+https://www.pexels.com/video/close-up-on-mans-hands-holding-documents-on-table-9869820/
+Лицензия: Pexels
+
+pexels_7841874 — Person Reading a Contact / RDNE Stock project
+https://www.pexels.com/video/person-reading-a-contact-7841874/
+Лицензия: Pexels
+
+pexels_8545740 — A Person Reading Documents / https://kaboompics.com/
+https://www.pexels.com/video/a-person-reading-documents-8545740/
+Лицензия: Pexels
+
+pexels_30117908 — Close-Up of Hands Flipping Through Old Documents / utopia 36
+https://www.pexels.com/video/close-up-of-hands-flipping-through-old-documents-30117908/
+Лицензия: Pexels
+
+pexels_7710493 — Faceless Person Organizing Paperwork / https://kaboompics.com/
+https://www.pexels.com/video/faceless-person-organizing-paperwork-7710493/
+Лицензия: Pexels
+
+pexels_37179130 — Aerial Night View of City Streets and Buildings / K
+https://www.pexels.com/video/aerial-night-view-of-city-streets-and-buildings-37179130/
+Лицензия: Pexels
+
+pexels_9807887 — View of Slot Machines in Casino / Petkevich Evgeniy
+https://www.pexels.com/video/view-of-slot-machines-in-casino-9807887/
+Лицензия: Pexels
+
+pexels_9807886 — Gambling Machines Screen in Casino / Petkevich Evgeniy
+https://www.pexels.com/video/gambling-machines-screen-in-casino-9807886/
+Лицензия: Pexels
+
+pexels_9807882 — Gambling Machines in Casino / Petkevich Evgeniy
+https://www.pexels.com/video/gambling-machines-in-casino-9807882/
+Лицензия: Pexels
+
+mixkit_4163 — A gambling fruit machines / Mixkit contributor (attribution not required)
+https://mixkit.co/free-stock-video/a-gambling-fruit-machines-4163/
+Лицензия: Mixkit Stock Video Free License
+
+Постановочные изображения: OpenAI image generation, созданы для проекта по описанию. Происхождение каждого изображения и точные интервалы кадров сохранены в монтажном реестре.
