@@ -1,0 +1,58 @@
+{
+  "project": "Человек без лица",
+  "episode": "001",
+  "requested_stage": "input_analysis_and_visual_chronology",
+  "scope": {
+    "video_language": "ru",
+    "rewrite_script": false,
+    "new_narration": false,
+    "music": false,
+    "sfx": false,
+    "render": false
+  },
+  "inputs": {
+    "script.txt": {
+      "path": "inputs/script.txt",
+      "sha256": "c3620020dbe348f3b0300e40e80ee799b260d5823aff4c2c607fd84a9a9a783a",
+      "bytes": 44377
+    },
+    "narration.mp3": {
+      "path": "inputs/narration.mp3",
+      "sha256": "bcba36b3077dac1663730d450f627cf608a056ef80d3b05f957681eb6afbb909",
+      "bytes": 25006965
+    }
+  },
+  "audio": {
+    "duration_seconds": 1562.932188,
+    "duration_source": "ffprobe bitrate estimate; full decode completed",
+    "integrated_lufs": -13.3,
+    "true_peak_dbtp": 0.2,
+    "lra_lu": 2.6,
+    "original_modified": false,
+    "content_listened": false,
+    "transcript_match_verified": false,
+    "remote_storage": "Original narration.mp3 is retained locally only and is not uploaded to GitHub."
+  },
+  "stages": {
+    "input_integrity": "passed",
+    "full_audio_decode": "passed",
+    "text_chronology": "draft_complete",
+    "audio_alignment": "pending",
+    "visual_style": "confirmed_mixed_documentary_and_faceless_reconstruction",
+    "asset_search": "not_started",
+    "render": "not_started"
+  },
+  "limitations": [
+    "No SRT supplied; no speech recognition tool installed or available. Exact chapter and shot timings are unverified.",
+    "Reference production rules and original pipeline tools are absent; no render or export claimed.",
+    "Documentary claims require source checks before selecting evidence."
+  ],
+  "outputs": [
+    "plan.md",
+    "scene_blocks.json",
+    "scene_blocks.csv",
+    "chapters.json",
+    "audio_probe.json",
+    "quality_report.md"
+  ]
+}

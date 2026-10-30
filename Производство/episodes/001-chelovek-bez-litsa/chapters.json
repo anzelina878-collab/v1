@@ -1,0 +1,68 @@
+[
+  {
+    "chapter": 1,
+    "title": "Эпизод 1. Вступление",
+    "words": 287,
+    "status": "text_only_not_audio_aligned"
+  },
+  {
+    "chapter": 2,
+    "title": "Эпизод 2. Кто такой Алекс",
+    "words": 292,
+    "status": "text_only_not_audio_aligned"
+  },
+  {
+    "chapter": 3,
+    "title": "Эпизод 3. Как на самом деле работают игровые автоматы",
+    "words": 320,
+    "status": "text_only_not_audio_aligned"
+  },
+  {
+    "chapter": 4,
+    "title": "Эпизод 4. Как он предсказывал выигрыши",
+    "words": 331,
+    "status": "text_only_not_audio_aligned"
+  },
+  {
+    "chapter": 5,
+    "title": "Эпизод 5. Как он масштабировал операцию",
+    "words": 256,
+    "status": "text_only_not_audio_aligned"
+  },
+  {
+    "chapter": 6,
+    "title": "Эпизод 6. Первый участник — Мурат Блиев",
+    "words": 306,
+    "status": "text_only_not_audio_aligned"
+  },
+  {
+    "chapter": 7,
+    "title": "Эпизод 7. Сеть в 25 странах",
+    "words": 283,
+    "status": "text_only_not_audio_aligned"
+  },
+  {
+    "chapter": 8,
+    "title": "Эпизод 8. Расследование ФБР",
+    "words": 478,
+    "status": "text_only_not_audio_aligned"
+  },
+  {
+    "chapter": 9,
+    "title": "Эпизод 9. Требование на 30 миллионов долларов",
+    "words": 256,
+    "status": "text_only_not_audio_aligned"
+  },
+  {
+    "chapter": 10,
+    "title": "Эпизод 10. Он выходит на связь с Wired",
+    "words": 327,
+    "status": "text_only_not_audio_aligned"
+  },
+  {
+    "chapter": 11,
+    "title": "Эпизод 11. Чем всё закончилось",
+    "words": 306,
+    "status": "text_only_not_audio_aligned"
+  }
+]

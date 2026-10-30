@@ -1,0 +1,482 @@
+[
+  {
+    "id": "01.01",
+    "chapter": 1,
+    "anchor_text": "Июнь 2014 года. Казино Lumiere Place, Сент-Луис, штат Миссури. Половина шестого вечера.",
+    "visual_brief": "Казино в Сент-Луисе: общий план, зал, автомат; место и эпоху проверять по источникам.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "01.02",
+    "chapter": 1,
+    "anchor_text": "Он держит палец над кнопкой запуска.",
+    "visual_brief": "Рука над кнопкой, неподвижное ожидание, телефон. Лицо героя вне кадра.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "01.03",
+    "chapter": 1,
+    "anchor_text": "Выигрыш — 847 долларов.",
+    "visual_brief": "Реакция автомата и спокойные руки игрока. Точную сумму не выдавать за подлинный архивный кадр.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "01.04",
+    "chapter": 1,
+    "anchor_text": "Через два часа в аналитическом кабинете за стеклянной стеной сотрудница казино изучает отчёты о выплатах. Самая обычная работа: цифры, таблицы, однообразные проверки.",
+    "visual_brief": "Переход к службе контроля: отчёт, строки выплат, звонок. Персональные данные на документах не выдумывать.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "02.01",
+    "chapter": 2,
+    "anchor_text": "Человека, которого позже будут знать только как Алекса, в то время никто не знал вообще.",
+    "visual_brief": "Анонимный программист: спина, стол, тесная квартира; визуальная реконструкция, не установленный портрет.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "02.02",
+    "chapter": 2,
+    "anchor_text": "Базы данных, исправление ошибок, обновления безопасности. Работа скучная, оплачивалась не всегда вовремя, а благодарности за неё никто особо не раздавал.",
+    "visual_brief": "Работа за компьютером, счета за квартиру, детали быта без выдуманных биографических документов.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "02.03",
+    "chapter": 2,
+    "anchor_text": "В 2009 году российские власти запрещают азартные игры в казино по всей стране.",
+    "visual_brief": "Архивные материалы о регулировании казино; проверить дату и исключения для игорных зон.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "02.04",
+    "chapter": 2,
+    "anchor_text": "Он открывает корпус автомата, достаёт инструменты и начинает изучать платы. Примерно так хирург осматривает пациента перед первой операцией.",
+    "visual_brief": "Подлинная модель Novomatic либо согласованная реконструкция обслуживания; не подменять её Aristocrat.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "03.01",
+    "chapter": 3,
+    "anchor_text": "Чтобы понять, что именно Алекс обнаружил внутри автомата, нужно разобраться в одной вещи.",
+    "visual_brief": "От игрового зала к внутренней электронике и процессору.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "03.02",
+    "chapter": 3,
+    "anchor_text": "Это математическая формула, которая создаёт последовательность чисел. Машина берёт начальное значение, которое называют начальным состоянием, пропускает его через алгоритм и получает результат.",
+    "visual_brief": "Образ вычисляемой последовательности: компьютер, числовой поток; не демонстрировать работающую схему взлома.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "03.03",
+    "chapter": 3,
+    "anchor_text": "Конечно, это не означает, что любой игровой автомат можно просто взять и предсказать. Современные системы могут использовать защищённые генераторы, а результаты зависят от конкретной реализации, её настроек и состояния. Но если в конкретной системе есть уязвимость, математика может превратить кажущуюся случайность в предсказуемую последовательность.",
+    "visual_brief": "Разные поколения оборудования; визуально подчеркнуть ограниченность уязвимости конкретной реализации.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "03.04",
+    "chapter": 3,
+    "anchor_text": "Следующие несколько месяцев Алекс изучает всё, что может найти о генераторах псевдослучайных чисел в игровых автоматах: патенты, технические руководства, научные статьи и документы, связанные с сертификацией оборудования.",
+    "visual_brief": "Патенты и техническая литература: использовать найденные документы с подтверждённой связью, не фальшивые страницы.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "04.01",
+    "chapter": 4,
+    "anchor_text": "Дымный зал, никаких вывесок, никаких лишних вопросов.",
+    "visual_brief": "Подпольный игровой зал как постановочная сцена без утверждения, что это подлинная запись.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "04.02",
+    "chapter": 4,
+    "anchor_text": "Его телефон записывает каждое вращение. Каждую комбинацию. Каждый результат.",
+    "visual_brief": "Крупно телефон и барабаны, затем выход из зала; совпадение эпохи телефона и интерфейса проверить.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "04.03",
+    "chapter": 4,
+    "anchor_text": "Программа анализирует запись кадр за кадром, восстанавливает последовательность результатов и пытается определить текущее состояние генератора псевдослучайных чисел.",
+    "visual_brief": "В машине: ноутбук и видеозапись. Интерфейс условный, не подлинная программа Алекса.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "04.04",
+    "chapter": 4,
+    "anchor_text": "Алекс возвращается внутрь и садится за тот же автомат.",
+    "visual_brief": "Возвращение, ожидание и нажатие; выигрыш показывать только в связи с соответствующей фразой.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "05.01",
+    "chapter": 5,
+    "anchor_text": "На один автомат уходит около сорока минут. Нужно записать игру, обработать видео, дождаться результатов анализа, вернуться и не ошибиться со временем.",
+    "visual_brief": "Повторение маршрута зал → машина → зал разными кадрами, камера наблюдения и заметность поведения.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "05.02",
+    "chapter": 5,
+    "anchor_text": "Он несколько месяцев переделывает систему: улучшает алгоритмы анализа, перерабатывает программу и адаптирует её для работы на смартфоне.",
+    "visual_brief": "Разработка приложения: руки, смартфон, работа поздно вечером; никаких неподтверждённых экранов реального сервиса.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "05.03",
+    "chapter": 5,
+    "anchor_text": "Весь процесс занимает около двух минут.",
+    "visual_brief": "Ускорение процесса через сокращение последовательности кадров, сохраняя исходный темп речи.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "05.04",
+    "chapter": 5,
+    "anchor_text": "сам Алекс может находиться только в одном месте одновременно.",
+    "visual_brief": "Один исполнитель и несколько разных мест как переход к расширению операции.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "06.01",
+    "chapter": 6,
+    "anchor_text": "Алекс встречается с Муратом Блиевым — своим университетским знакомым и другом.",
+    "visual_brief": "Кафе, два собеседника без идентифицируемых лиц; не выдавать актёра за Мурата.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "06.02",
+    "chapter": 6,
+    "anchor_text": "Десять процентов.",
+    "visual_brief": "Детали разговора: пауза, телефон на столе, руки. Диалог является содержанием сценария, пока не подтверждён источником.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "06.03",
+    "chapter": 6,
+    "anchor_text": "На следующий день Мурат должен лететь в Варшаву. Билеты уже куплены.",
+    "visual_brief": "Перелёт и Варшава нужного периода; никаких вымышленных именных билетов.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "06.04",
+    "chapter": 6,
+    "anchor_text": "А в Санкт-Петербурге Алекс наблюдает за поступающими данными на своём сервере.",
+    "visual_brief": "Контраст гостиницы и удалённого рабочего места; передача данных показана условно.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "07.01",
+    "chapter": 7,
+    "anchor_text": "В период с 2011 по 2014 год операция постепенно превращается в международную сеть.",
+    "visual_brief": "Масштабирование: новые участники, разные города, разные автоматы соответствующих моделей.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "07.02",
+    "chapter": 7,
+    "anchor_text": "США, Германия, Австрия, Чехия, Польша, Румыния, Турция, Макао, Сингапур, Перу, Парагвай.",
+    "visual_brief": "Географические перебивки; список стран и заголовок «25 стран» требуют независимой проверки.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "07.03",
+    "chapter": 7,
+    "anchor_text": "В США, согласно описанию операции, отдельные команды из четырёх человек зарабатывают до 250 тысяч долларов в неделю.",
+    "visual_brief": "Команда в казино, выплаты; 250 тысяч в неделю не иллюстрировать неподтверждённой банковской выпиской.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "07.04",
+    "chapter": 7,
+    "anchor_text": "В его квартире с видом на Неву теперь стоят три монитора.",
+    "visual_brief": "Три экрана и силуэт у окна как мотив контроля; криптовалюта и вид из квартиры пока детали рассказа, не подтверждённые факты.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "08.01",
+    "chapter": 8,
+    "anchor_text": "Казино Lumiere Place передаёт результаты проверки Комиссии по азартным играм штата Миссури.",
+    "visual_brief": "Документальный блок: регулятор, материалы дела, предупреждения — только после поиска подлинных источников.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "08.02",
+    "chapter": 8,
+    "anchor_text": "документы на арендованные автомобили. Он въезжал на парковки на машинах, оформленных на собственное имя.",
+    "visual_brief": "Парковка, автомобиль, след документов. Не показывать реальный номер постороннего человека как улику.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "08.03",
+    "chapter": 8,
+    "anchor_text": "3 декабря 2014 года Мурат прилетает в аэропорт О'Хара в Чикаго, после чего направляется в Сент-Чарльз, штат Миссури.",
+    "visual_brief": "Аэропорт Чикаго, дорога, маршрут в Миссури; проверить даты и имена.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "08.04",
+    "chapter": 8,
+    "anchor_text": "10 декабря сотрудники службы безопасности Hollywood Casino в Сент-Луисе замечают его на записях камер.",
+    "visual_brief": "Наблюдение, задержание и изъятие телефона. Подлинность архивных кадров проверять; реконструкцию не выдавать за запись операции.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "08.05",
+    "chapter": 8,
+    "anchor_text": "Блиев, Гдалав и Лоренов признают себя виновными в сговоре с целью совершения мошенничества. Каждый получает два года в федеральной тюрьме с последующей депортацией в Россию.",
+    "visual_brief": "Суд и итог для участников: решение, сроки и депортация требуют судебного источника.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "08.06",
+    "chapter": 8,
+    "anchor_text": "Но человек, который всё это создал, остаётся недосягаемым.",
+    "visual_brief": "Контраст задержанных и анонимного руководителя; не использовать случайный портрет Алекса.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "09.01",
+    "chapter": 9,
+    "anchor_text": "3 ноября 2016 года. Прошло два года после арестов.",
+    "visual_brief": "Письмо производителю: ноутбук, черновик; подлинный текст письма показывать только при наличии источника.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "09.02",
+    "chapter": 9,
+    "anchor_text": "Тридцать миллионов долларов.",
+    "visual_brief": "Крупность и пауза на требовании суммы; без выдуманной банковской операции.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "09.03",
+    "chapter": 9,
+    "anchor_text": "17 ноября 2016 года приходит ответ.",
+    "visual_brief": "Ответ компании: документ или условная постановка, не фальшивая цитата на бланке.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "09.04",
+    "chapter": 9,
+    "anchor_text": "Он сам выходит на связь.",
+    "visual_brief": "Возврат к теме цифрового следа и риска раскрытия личности.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "10.01",
+    "chapter": 10,
+    "anchor_text": "Журналист Брендан Кёрнер публикует в журнале Wired материал о российской группе, которая обманывала игровые автоматы.",
+    "visual_brief": "Подлинная публикация WIRED и автор: проверить название, дату и права на использование изображения страницы.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "10.02",
+    "chapter": 10,
+    "anchor_text": "Алекс считает, что главного в этой истории никто так и не понял.",
+    "visual_brief": "Анонимный герой читает статью; эмоциональное состояние — трактовка сценария.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "10.03",
+    "chapter": 10,
+    "anchor_text": "четырёхчасовой зашифрованный видеозвонок.",
+    "visual_brief": "Условный экран защищённого разговора без раскрытого лица; не имитировать подлинную запись интервью.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "10.04",
+    "chapter": 10,
+    "anchor_text": "Никто не знает, как он выглядит.",
+    "visual_brief": "Силуэт и пустое место вместо портрета; отделить неизвестность публике от личного знакомства участников.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "10.05",
+    "chapter": 10,
+    "anchor_text": "«Оно того стоило?»",
+    "visual_brief": "Мотив сообщения, руки над клавиатурой, отсутствие ответа; подлинность переписки пока не установлена.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "11.01",
+    "chapter": 11,
+    "anchor_text": "Мурат Блиев провёл два года в федеральной тюрьме США. После этого его депортировали в Россию.",
+    "visual_brief": "Последствия для Мурата: суд, выход из тюрьмы/возвращение только как подтверждённый архив или условная иллюстрация.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "11.02",
+    "chapter": 11,
+    "anchor_text": "Алекс же получил вирусную статью в Wired и миллионы незнакомцев, называющих его гением в интернете.",
+    "visual_brief": "Контраст публичной славы и последствий для других; реальные страницы вместо выдуманных комментариев.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "11.03",
+    "chapter": 11,
+    "anchor_text": "Он изучил систему. Нашёл уязвимость. Построил вокруг неё международную операцию, которая принесла миллионы.",
+    "visual_brief": "Короткое возвращение к ключевым мотивам через новые кадры, без повторного использования тех же фрагментов.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "11.04",
+    "chapter": 11,
+    "anchor_text": "Сообщение Мурата всё ещё лежит у него во входящих.",
+    "visual_brief": "Финал: сообщение без ответа, пустой стол, три монитора, окно. Не утверждать документальность сцены.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  },
+  {
+    "id": "11.05",
+    "chapter": 11,
+    "anchor_text": "Поставьте лайк, напишите в комментариях, что думаете об этой истории, и подписывайтесь на канал.",
+    "visual_brief": "Сохранить финальный призыв в исходной речи; визуально завершить историю без нового голосового текста.",
+    "start_seconds": null,
+    "end_seconds": null,
+    "timing_status": "not_aligned",
+    "asset_status": "not_sourced"
+  }
+]
