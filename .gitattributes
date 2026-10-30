@@ -1,1 +1,2 @@
 Результаты/001-chelovek-bez-litsa/*.mp4 filter=lfs diff=lfs merge=lfs -text
+Результаты/001-chelovek-bez-litsa-v2/*.mp4 filter=lfs diff=lfs merge=lfs -text
