@@ -29,4 +29,26 @@ class EditorialRegressionTests(unittest.TestCase):
  def test_timeline_must_not_have_a_gap(self):
   self.plan['shots'][0]['start']=1;self.assertTrue(any('timeline_gap_or_overlap' in e for e in self.errors()))
 
+class PhotoPolicyTests(unittest.TestCase):
+ def make(self,ai_seconds=1):
+  plan={'schema_version':1,'channel_id':'chelovek-bez-litsa','duration_seconds':10,'shots':[
+   {'id':'s1','start':0,'end':ai_seconds,'asset_id':'ai','narration_quote':'Он пришёл домой','visual_purpose':'Постановочная обстановка'},
+   {'id':'s2','start':ai_seconds,'end':10,'asset_id':'stock','narration_quote':'Он открыл дверь','visual_purpose':'Действие'}]}
+  manifest={'assets':[{'id':'ai','kind':'generated_image','generation_medium':'image','tags':[]},{'id':'stock','kind':'stock_video','source_url':'https://example.org/fixture','usage_basis':'test fixture','tags':[]}]}
+  return plan,manifest
+ def test_exact_ten_percent_is_allowed(self):
+  p,m=self.make();r=validate_plan(p,m);self.assertEqual(r['errors'],[]);self.assertAlmostEqual(r['ai_photo_screen_fraction'],.1)
+ def test_more_than_ten_percent_is_rejected(self):
+  p,m=self.make(1.1);self.assertTrue(any('exceeds_10_percent' in e for e in validate_plan(p,m)['errors']))
+ def test_pan_does_not_remove_photo_from_limit(self):
+  p,m=self.make(2);p['shots'][0]['motion']={'type':'pan','direction':'top_to_bottom','safe_crop_reviewed':True};self.assertTrue(any('exceeds_10_percent' in e for e in validate_plan(p,m)['errors']))
+ def test_overlay_intervals_are_counted_once(self):
+  p,m=self.make();p['shots']=[dict(p['shots'][1],id='s1',start=0,end=10,overlays=[{'asset_id':'ai','start':0,'end':.8},{'asset_id':'ai','start':.2,'end':1}])];r=validate_plan(p,m);self.assertEqual(r['errors'],[]);self.assertAlmostEqual(r['ai_photo_screen_seconds'],1)
+ def test_ai_video_is_not_allowed(self):
+  p,m=self.make();m['assets'][0].update(kind='ai_video',generation_medium='video',generator='fixture',path='clip.mp4');self.assertTrue(any('ai_video_disabled' in e for e in validate_plan(p,m)['errors']))
+ def test_ready_ai_photo_needs_reviewed_motion(self):
+  p,m=self.make();self.assertTrue(any('ai_photo_motion_required' in e for e in validate_plan(p,m,ready=True)['errors']))
+ def test_nonfinite_time_cannot_bypass_limit(self):
+  p,m=self.make();p['shots'][0]['end']=float('nan');self.assertTrue(any('nonfinite_time' in e for e in validate_plan(p,m)['errors']))
+
 if __name__=='__main__':unittest.main()

@@ -10,7 +10,7 @@
     "Человек без лица",
     "faceless"
   ],
-  "profile_version": "1.0",
+  "profile_version": "1.1",
   "topic": "Документальные истории о даркнете, мошенничестве, цифровых преступлениях, деньгах и реальных людях",
   "languages": {
     "source": "ru",
@@ -96,25 +96,24 @@
     "style_profile": "faceless_documentary_thriller",
     "media_priority": [
       "stock_video",
-      "ai_video",
       "motion_graphics",
       "verified_person_photo",
-      "document"
+      "document",
+      "generated_image"
     ],
     "screen_time_targets_percent": {
-      "stock_video": 45,
-      "ai_video": 25,
-      "motion_graphics": 20,
-      "photo_document": 10
+      "stock_video": 60,
+      "motion_graphics": 25,
+      "photo_document": 10,
+      "generated_image": 5
     },
     "mix_is_soft_target": true,
-    "moving_media_target_fraction": 0.9,
+    "moving_media_target_fraction": 0.85,
     "unanimated_still_max_fraction": 0.05,
-    "mix_counting": "Считать секунды основного материала один раз; наложения графики учитывать отдельно. Движение фотографии не превращает её в AI-видео.",
-    "ai_video_allowed": true,
+    "mix_counting": "Основной материал считать по секундам один раз; AI-фото в наложениях также входят в общий максимум 10%, пересекающиеся интервалы не дублировать.",
+    "ai_video_allowed": false,
     "ai_image_allowed": true,
-    "ai_video_is_not_photo_pan": true,
-    "ai_generation_policy": "Полноценный инструмент постановочных сцен, а не только крайняя замена стока",
+    "ai_generation_policy": "Только редкие постановочные AI-фотографии, цель около 5%, жёсткий максимум 10% экранного времени каждого ролика. AI-видео не используется.",
     "external_paid_generation_requires_budget": true,
     "graphics_allowed": true,
     "captions_and_diagrams_allowed": true,
@@ -130,7 +129,9 @@
     "photo_reuse": "Допустим мотивированный возврат к проверенному портрету при новом этапе истории; повтор честно учитывать, смену crop не считать новым источником.",
     "portrait_identity_verification_required": true,
     "source_and_usage_basis_required": true,
-    "style_guide": "Данные проекта/visual-language.md"
+    "style_guide": "Данные проекта/visual-language.md",
+    "generated_image_max_screen_time_fraction": 0.1,
+    "generated_image_limit_basis": "Объединённое время присутствия AI-картинок в кадре, включая повторы и наложения, делённое на полную длительность ролика; движение камеры не отменяет лимит."
   },
   "people": {
     "known_people": "Подтверждённые фото и реальные видеозаписи; имя и роль при первом значимом появлении",
@@ -191,12 +192,14 @@
   },
   "photo_animation": {
     "preferred": [
+      "pan_top_to_bottom",
+      "pan_bottom_to_top",
+      "pan_left_to_right",
+      "pan_right_to_left",
       "layered_parallax",
       "depth_separation",
-      "masked_background_motion",
-      "tracked_callout",
-      "document_reveal",
-      "camera_move"
+      "push_in_to_detail",
+      "document_reveal"
     ],
     "avoid": [
       "endless_uniform_zoom",
@@ -205,7 +208,18 @@
       "distorted_document_text"
     ],
     "purpose": "Создать выразительное движение без приписывания реальному человеку вымышленных действий",
-    "still_remains_photo": true
+    "still_remains_photo": true,
+    "camera_movement": "Заметный направленный проезд по композиции, например сверху вниз; плавные начало/остановка и безопасное кадрирование. Не ограничиваться едва заметным zoom.",
+    "pan_travel_frame_fraction": [
+      0.1,
+      0.25
+    ],
+    "zoom_change_fraction": [
+      0.05,
+      0.12
+    ],
+    "safe_crop_review_required": true,
+    "generated_images_require_motion": true
   },
   "research": {
     "claim_register_required": true,
@@ -296,11 +310,10 @@
     "channel_guide": "Данные проекта/channel-guide.md"
   },
   "runtime": {
-    "ai_video_provider": "check_available_tools_per_task",
-    "ai_video_capability": "not_assumed",
     "motion_graphics_renderer": "verify_before_use",
     "template_validator": "Производство/scripts/validate_template.py",
-    "plan_validator": "Производство/scripts/validate_visual_plan.py"
+    "plan_validator": "Производство/scripts/validate_visual_plan.py",
+    "video_generator_required": false
   },
   "skills": {
     "produce": ".agents/skills/faceless-produce/SKILL.md",

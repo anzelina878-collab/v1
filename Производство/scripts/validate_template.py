@@ -8,7 +8,9 @@ def main():
  if s.get('schema_version')!=3 or s.get('channel_id')!='chelovek-bez-litsa':errors.append('Wrong channel/schema')
  if s['languages']['primary']!='ru':errors.append('Default language must be ru')
  if sum(s['assets']['screen_time_targets_percent'].values())!=100:errors.append('Media duration targets must sum to 100')
- if not s['assets']['graphics_allowed'] or not s['assets']['ai_video_allowed']:errors.append('Missing requested visual types')
+ if not s['assets']['graphics_allowed']:errors.append('Motion graphics must stay enabled')
+ if s['assets']['ai_video_allowed'] or s['runtime']['video_generator_required']:errors.append('AI video must not be required or enabled')
+ if s['assets'].get('generated_image_max_screen_time_fraction')!=.10:errors.append('AI photos must be capped at 10% of screen time')
  if s['narration_input']['generation_enabled']:errors.append('Narration generation must stay disabled')
  if s['cleanup']['automatic_deletion']:errors.append('Inputs must not be deleted automatically')
  active=[R/'AGENTS.md',R/'README.md']+list((R/'Данные проекта').glob('*.md'))
@@ -24,6 +26,6 @@ def main():
    link=link.strip('<>').split('#',1)[0]
    if not link or '://' in link:continue
    if not (p.parent/link).exists():errors.append(f'Broken link {p.relative_to(R)}: {link}')
- print(json.dumps({'status':'failed' if errors else 'passed','active_skills':len(s['skills']),'checked_documents':len(active),'errors':errors,'scope':'template consistency; no film rendered, AI-video provider not tested'},ensure_ascii=False,indent=2))
+ print(json.dumps({'status':'failed' if errors else 'passed','active_skills':len(s['skills']),'checked_documents':len(active),'errors':errors,'scope':'template consistency; no film rendered; AI-video generator not required'},ensure_ascii=False,indent=2))
  return bool(errors)
 if __name__=='__main__':raise SystemExit(main())
