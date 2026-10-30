@@ -1,0 +1,38 @@
+[
+  {
+    "purpose": "google",
+    "url": "https://www.google.com/search?q=Lumiere+Place+2014+casino+Russian+slot+machine+Wired",
+    "result": "HTTP CONNECT proxy returned 403 Forbidden",
+    "content_inspected": false,
+    "rights_verified": false,
+    "selected": false,
+    "next_action": "Apply saved network draft and retry"
+  },
+  {
+    "purpose": "wired",
+    "url": "https://www.wired.com/story/meet-alex-the-russian-casino-hacker-who-makes-millions-targeting-slot-machines/",
+    "result": "HTTP CONNECT proxy returned 403 Forbidden",
+    "content_inspected": false,
+    "rights_verified": false,
+    "selected": false,
+    "next_action": "Apply saved network draft and retry"
+  },
+  {
+    "purpose": "wikimedia",
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=Main_Page",
+    "result": "HTTP CONNECT proxy returned 403 Forbidden",
+    "content_inspected": false,
+    "rights_verified": false,
+    "selected": false,
+    "next_action": "Apply saved network draft and retry"
+  },
+  {
+    "purpose": "asr_model",
+    "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/main/config.json",
+    "result": "HTTP CONNECT proxy returned 403 Forbidden",
+    "content_inspected": false,
+    "rights_verified": false,
+    "selected": false,
+    "next_action": "Apply saved network draft and retry"
+  }
+]

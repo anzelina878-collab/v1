@@ -1,14 +1,14 @@
 {
   "project": "Человек без лица",
   "episode": "001",
-  "requested_stage": "input_analysis_and_visual_chronology",
+  "requested_stage": "asset_selection_then_full_video",
   "scope": {
     "video_language": "ru",
     "rewrite_script": false,
     "new_narration": false,
     "music": false,
     "sfx": false,
-    "render": false
+    "render": true
   },
   "inputs": {
     "script.txt": {
@@ -37,10 +37,10 @@
     "input_integrity": "passed",
     "full_audio_decode": "passed",
     "text_chronology": "draft_complete",
-    "audio_alignment": "pending",
+    "audio_alignment": "blocked_model_download",
     "visual_style": "confirmed_mixed_documentary_and_faceless_reconstruction",
-    "asset_search": "not_started",
-    "render": "not_started"
+    "asset_search": "blocked_network_proxy_403",
+    "render": "pending_verified_alignment_and_assets"
   },
   "limitations": [
     "No SRT supplied; no speech recognition tool installed or available. Exact chapter and shot timings are unverified.",
@@ -54,5 +54,16 @@
     "chapters.json",
     "audio_probe.json",
     "quality_report.md"
-  ]
+  ],
+  "blockers": [
+    "Network proxy blocks Google, WIRED, Wikimedia, and Hugging Face; saved network draft requires user review, saving and publication."
+  ],
+  "tooling": {
+    "python": "/workspace/media-tools-venv/bin/python",
+    "asr": "faster-whisper 1.2.1",
+    "asr_import": "passed",
+    "audio_decode_smoke": "passed_100_frames",
+    "model_download": "blocked",
+    "transcription": "not_run"
+  }
 }
