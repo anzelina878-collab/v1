@@ -1,0 +1,401 @@
+{
+  "schema_version": 2,
+  "languages": {
+    "source": "uk",
+    "targets": [],
+    "primary": "uk",
+    "delivery": [
+      "uk"
+    ]
+  },
+  "script": {
+    "target_minutes": 25,
+    "duration_range_minutes": [
+      20,
+      30
+    ],
+    "estimated_words_per_minute": 121.2,
+    "estimated_characters_per_minute": 878.818,
+    "target_characters_with_spaces": 21970,
+    "source_language": "uk",
+    "duration_policy": "20–30 минут, цель 25 при достаточном проверенном материале. Не добирать длину повторениями; содержательное отклонение обосновать в plan.md. Явная длительность заказа важнее."
+  },
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio_codec": "aac",
+    "audio_bitrate": "192k",
+    "default_photo_motion_amount": 0.04,
+    "sync_tolerance_seconds": 0.12,
+    "final_file": "video.mp4",
+    "photo_motion_easing": "smoothstep",
+    "photo_motion_method": "subpixel_affine",
+    "color_space": "bt709",
+    "color_range": "tv",
+    "color_treatment": {
+      "preset": "retro_archive",
+      "saturation": 0.55,
+      "warmth": 0.025
+    },
+    "opening_real_motion_seconds": 3,
+    "pre_render_audit": {
+      "required": true,
+      "coverage_fraction": 1.0,
+      "required_status": "passed",
+      "every_shot_required": true,
+      "required_hashes": [
+        "script",
+        "timeline",
+        "manifest",
+        "source_files"
+      ],
+      "review_rule": "Проверить каждый план по точной речи, исходнику и crop до финального рендера; после изменения плана обновить проверку и хеши. Автоматические проверки не заменяют визуальную оценку."
+    }
+  },
+  "metadata": {
+    "title_variants_per_language": 3,
+    "title_max_characters": 100,
+    "tags_target_max_characters": 400,
+    "regional_locales": {}
+  },
+  "thumbnails": {
+    "variants_per_language": 3,
+    "width": 1280,
+    "height": 720,
+    "generator": "found_photo_collage",
+    "style_guide_file": ".agents/skills/retro-engineering-thumbnails/references/styles.md",
+    "styles": [
+      {
+        "variant": 1,
+        "id": "cinematic_engineering_no_text",
+        "name": "Кинематографическая инженерная сцена",
+        "reference_image": "Данные проекта/research/thumbnail_style_reference_20261009/reference.png",
+        "text_enabled": false,
+        "localize_text": false,
+        "composition_rule": "Самостоятельный смысловой угол темы; не копия другого варианта с новым кропом или цветом."
+      },
+      {
+        "variant": 2,
+        "id": "cinematic_engineering_no_text",
+        "name": "Кинематографическая инженерная сцена",
+        "reference_image": "Данные проекта/research/thumbnail_style_reference_20261009/reference.png",
+        "text_enabled": false,
+        "localize_text": false,
+        "composition_rule": "Самостоятельный смысловой угол темы; не копия другого варианта с новым кропом или цветом."
+      },
+      {
+        "variant": 3,
+        "id": "cinematic_engineering_no_text",
+        "name": "Кинематографическая инженерная сцена",
+        "reference_image": "Данные проекта/research/thumbnail_style_reference_20261009/reference.png",
+        "text_enabled": false,
+        "localize_text": false,
+        "composition_rule": "Самостоятельный смысловой угол темы; не копия другого варианта с новым кропом или цветом."
+      }
+    ],
+    "headline_rule": "Надписей в изображении нет. Визуальная загадка, название и хук обещают одно проверенное объяснение.",
+    "generation_policy": "last_resort_only",
+    "style_id": "cinematic_engineering_no_text",
+    "style_name": "Кинематографическая инженерная сцена без текста",
+    "reference_image": "Данные проекта/research/thumbnail_style_reference_20261009/reference.png",
+    "text_enabled": false,
+    "localize_text": false,
+    "reuse_composition_across_locales": true,
+    "composition_rule": "Три разные композиции в едином стиле: крупный узнаваемый объект, объёмное окружение, выразительный направленный свет, достоверные детали. Углы выбирать по теме: масштаб, внутренний механизм, действие или результат.",
+    "purpose_readable_without_text": true,
+    "purpose_rule": "В телефонном размере понятно назначение устройства: объект вместе с узнаваемым результатом, средой работы или связанным предметом. Для кардиостимулятора — сердце/анатомическая модель или достоверное положение прибора и электрода.",
+    "additional_variants_rule": "По умолчанию 3; прямой заказ дополнительных вариантов меняет количество только конкретного выпуска. В №4 заказано 5, общий default остаётся 3.",
+    "application_examples_file": "Результаты/Видео 004/uk/тамбнейлс-1.jpg"
+  },
+  "paths": {
+    "skills_dir": ".agents/skills",
+    "results_dir": "Результаты",
+    "story_prefix": "istoriya_",
+    "story_number_digits": 3,
+    "production_dir": "Производство/episodes",
+    "shared_assets_dir": "Данные проекта",
+    "channel_dir": ".",
+    "channel_skills_dir": ".agents/skills",
+    "research_dir": "Данные проекта/research",
+    "topics_file": "Данные проекта/topics/topics.txt"
+  },
+  "assets": {
+    "search_engine": "google",
+    "search_scope": "unrestricted_web_images_and_video",
+    "start_with_domain_restrictions": false,
+    "prefer_found_material": true,
+    "max_exact_shot_repeats": 0,
+    "unique_shot_target_fraction": 0.9,
+    "same_source_min_interval_seconds": 90,
+    "default_shot_duration_seconds": [
+      3,
+      7
+    ],
+    "style_profile": "retro_engineering_documentary",
+    "style_reference_file": "Данные проекта/research/editorial_reference.md",
+    "media_priority": [
+      "video",
+      "image",
+      "generated_image"
+    ],
+    "search_query_detail": [
+      "device_or_model",
+      "component",
+      "action",
+      "shot_or_angle",
+      "era_or_context"
+    ],
+    "draw_infographics": false,
+    "baked_in_language_text": false,
+    "primary_discovery_source": "Google (general search, videos, images)",
+    "generation_policy": "last_resort_only",
+    "generation_rule": "Генерация на канале — только в крайних случаях после полноценного поиска Google, реальных видео и фото, архивов и проверки условий. Не генерировать ради заполнения хронометража, скорости или дополнительных ракурсов. Для каждого исключения записать конкретный незакрытый кадр и отклонённые найденные источники. Правило относится также к новым превью: сначала найденные материалы и обычный фотоколлаж.",
+    "bulk_generation_allowed": false,
+    "generation_requires_documented_search": true,
+    "shot_selection_rule": "Каждый ключевой кадр объясняет конкретную фразу через видимый узел, действие или результат; тематического сходства недостаточно.",
+    "same_source_interval_policy": "90 секунд между отдельными сценами; внутри одной объясняющей последовательности допустимы соседние неперекрывающиеся фрагменты одного источника с обоснованием в плане/timeline. Длинный выпуск: план 3–7 секунд; Shorts: диапазон shorts.shot_duration_range_seconds. Без петель движения и точных повторов внутри файла; стык конца Shorts с началом при повторном запуске разрешён.",
+    "original_photo_max_uses_per_video": 1,
+    "reused_video_intervals_allowed": false,
+    "overlapping_video_intervals_allowed": false,
+    "visual_repetition_review_required": true,
+    "named_people_visual_required": true,
+    "video_share_rule": "Большая часть экранного времени выпуска о работающем/вскрываемом устройстве — реальное видео; считать по секундам, не по количеству файлов. Фото и документы для конкретного факта.",
+    "human_context_rule": "Показывать специалистов и людей с технологией по смыслу фразы. Стоковый актёр не подтверждает наличие устройства; на имени — проверенное изображение именно этого человека.",
+    "unavailable_source_policy": "После ограниченной диагностики искать доступный альтернативный источник нужного действия; проверять модель и права, фиксировать результат; продолжать независимые этапы без перекладывания поиска на пользователя.",
+    "key_visual_search_before_audio_alignment": true
+  },
+  "cleanup": {
+    "after_successful_verification": true,
+    "remove_render_intermediates": true,
+    "remove_partial_downloads": true,
+    "remove_qa_frames": true,
+    "remove_voice_catalog_and_preflight_dumps": true,
+    "remove_unused_assets": true,
+    "keep_used_source_assets": false,
+    "keep_scripts_timings_manifests_and_job_ids": false,
+    "preserve_work_in_progress": true,
+    "retention_mode": "references_and_final_delivery",
+    "keep_previous_versions": false,
+    "remove_completed_episode_work": true,
+    "keep_final_results": true,
+    "keep_curated_references": true,
+    "keep_compact_delivery_receipts": true
+  },
+  "audio_postprocess": {
+    "enabled": true,
+    "method": "ffmpeg_loudnorm_two_pass",
+    "target_lufs": -14,
+    "target_true_peak_db": -1,
+    "target_lra": 7,
+    "preserve_raw_audio": true
+  },
+  "channel_id": "chelovek-bez-litsa",
+  "display_name": "Человек без лица",
+  "topic": "Инженерные детективы: как люди решали задачи в инфраструктуре, связи, вычислениях, производстве, энергетике, транспорте, быту и приборах",
+  "reference_urls": [],
+  "editorial_status": "template_requires_story_adaptation",
+  "editorial": {
+    "concept": "Инженерный детектив: один вопрос на выпуск",
+    "reference_file": "Данные проекта/research/editorial_reference.md",
+    "writing_guide_file": ".agents/skills/retro-engineering-script/references/storytelling.md",
+    "structure": [
+      "странность",
+      "вопрос",
+      "проблема",
+      "инженерное решение",
+      "новая проблема",
+      "развязка",
+      "неожиданный подтверждённый факт"
+    ],
+    "hook_seconds": 20,
+    "microintrigue_interval_seconds": [
+      60,
+      120
+    ],
+    "tone": "Спокойный документальный рассказчик с любопытством, понятный неспециалисту",
+    "title_focus": "Вопрос или противоречие; объект понятен, имя модели не обязано идти первым",
+    "topic_selection": "Чередовать отрасли, масштабы и механизмы; избегать однотипных соседних выпусков, кроме прямо заказанной тематической серии",
+    "topic_catalog_count": 61,
+    "production_rules_file": "Данные проекта/research/current_production_rules.md",
+    "first_minute_goal": "Визуальная загадка, первый понятный ответ или наблюдаемое доказательство, затем новое реальное ограничение.",
+    "named_person_rule": "На каждом прямом упоминании конкретного человека синхронно показывать именно его; при повторном имени использовать другой уникальный кадр."
+  },
+  "public_brand": {
+    "name": "Человек без лица"
+  },
+  "shorts": {
+    "default_count": 2,
+    "include_in_full_by_default": false,
+    "skill_file": ".agents/skills/retro-engineering-shorts/SKILL.md",
+    "style_name": "Живая механика",
+    "duration_range_seconds": [
+      20,
+      30
+    ],
+    "target_seconds": 25,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "visual_hook_within_seconds": 1,
+    "shot_duration_range_seconds": [
+      2,
+      3
+    ],
+    "baked_in_text": false,
+    "baked_in_subtitles": false,
+    "subtitles": {
+      "required": true,
+      "format": "srt",
+      "delivery": "sidecar",
+      "timing_source": "User-supplied final narration with verified subtitles or manual alignment",
+      "language_source": "languages.delivery"
+    },
+    "covers": {
+      "count_per_short": 1,
+      "width": 1080,
+      "height": 1920,
+      "text_enabled": false,
+      "lettered_logo_enabled": false,
+      "format": "jpg",
+      "style": "Крупный реальный механизм, выразительный свет и визуальная загадка; без надписей",
+      "generation_policy": "last_resort_only",
+      "purpose_readable_without_text": true
+    },
+    "pair_rule": "Два самостоятельных визуальных вопроса с ответами; разные хуки и развитие, без частей одной оборванной истории.",
+    "audio_policy": "Использовать только предоставленную готовую речь; музыку и SFX согласовывать отдельно.",
+    "repetition_rule": "Внутри каждого Shorts одна исходная фотография — максимум один план; повторные или пересекающиеся интервалы одного оригинального видео запрещены, в том числе после crop, цвета или смены скорости.",
+    "hook_rule": "Конфликт, контраст или неожиданный вопрос видны и слышны с первого кадра и первой фразы; без вступления и затянутых пауз.",
+    "pacing_rule": "Каждые 2–3 секунды новый ракурс, крупность, узел или результат; особенно проверить участок 5–15 секунд. Без текста/инфографики и ускорения речи или механизма.",
+    "loop_rule": "После полного ответа финальная фраза, изображение и звук переходят в начало при повторном запуске; без финальной паузы, затемнения и CTA. Не дублировать исходные диапазоны внутри файла. Проверить двумя воспроизведениями подряд."
+  },
+  "sound": {
+    "enabled": true,
+    "authorization": "Настройки исходного шаблона не являются разрешением нового пользователя; звуковое оформление согласовывается при заказе видео.",
+    "background_gain_adjustment_db": 0.0,
+    "gain_is_relative_to_fixed_base": true,
+    "speech_priority": true,
+    "sources": "Existing free licensed library or other verified free source; no purchase",
+    "background_base_lufs": -35.0,
+    "background_target_lufs": -35.0,
+    "background_reference_episode": null,
+    "mix_rule": "Прежний фиксированный фон −33 LUFS и прибавка +2 dB заменены относительным балансом. −35 LUFS — стартовый уровень до автоматизации; итог определяется голосом и сценой. Во время речи музыка на 15–20 dB ниже голоса, обычная цель 18 dB; вне речи ориентир 12–18 dB ниже опорного голоса. Не повышать музыку ради LUFS всего микса. Чистая речь сохраняется отдельно; финальный мастер нормализуется один раз.",
+    "narration": {
+      "priority": "intelligibility",
+      "premaster_target_lufs": -19,
+      "premaster_range_lufs": [
+        -20,
+        -18
+      ],
+      "measurement_stage": "isolated clean narration before final mix mastering",
+      "rule": "После общего мастеринга абсолютная громкость голоса меняется вместе с миксом; диапазон −20…−18 LUFS не является независимым требованием к голосу внутри финального мастера. Для отдельной готовой речевой дорожки использовать цели audio_postprocess; premaster −19 LUFS нужен как вход сведения, а не как финальный мастер."
+    },
+    "ducking": {
+      "enabled": true,
+      "method": "sidechain_compression",
+      "sidechain_source": "clean_narration",
+      "music_below_voice_db_range": [
+        15,
+        20
+      ],
+      "target_gap_db": 18,
+      "attack_ms": 20,
+      "release_ms": 300,
+      "rule": "Подстроить порог и ratio под реальную речь; измерять разницу на одинаковых активных речевых окнах до общего мастеринга, проверять отсутствие pumping и маскировки согласных."
+    },
+    "music_narrative": {
+      "enabled": true,
+      "general_gap_below_reference_voice_db_range": [
+        12,
+        18
+      ],
+      "opening": "Энергия и темп под реальный монтаж и инженерную интригу",
+      "key_idea": "Ослабить музыку или сделать паузу",
+      "climax": "Выразительный звуковой акцент без перекрытия речи",
+      "rule": "Менять интенсивность по смыслу; избегать непрерывного плотного звука."
+    },
+    "foley": {
+      "enabled": true,
+      "sync_to_visible_action": true,
+      "prefer_real_source_audio": true,
+      "rule": "Подчёркивать реальные действия и работу механизма достоверным синхронным звуком. Исходный звук извлекать отдельно, проверять права и отсутствие чужой речи/музыки; не включать весь исходный саундтрек автоматически."
+    },
+    "sfx": {
+      "enabled": true,
+      "transition_palette": [
+        "light whoosh",
+        "swoosh",
+        "pop",
+        "click"
+      ],
+      "each_visual_transition_has_sound_cue": true,
+      "rule": "Вне запланированной полной тишины: Каждую смену кадра связать звуком: непрерывный фон/Foley или J/L-переход тоже считается; отдельный эффект нужен при смысловом акценте. Каждое разрешённое появление текста, плашки или стрелки синхронизировать с лёгким эффектом. Это не разрешает добавлять запрещённые текст и инфографику. Не перекрывать голос и не озвучивать каждую склейку громким whoosh.",
+      "silence_overrides_transition_cue": true
+    },
+    "silence": {
+      "enabled": true,
+      "duration_seconds_range": [
+        0.5,
+        1.0
+      ],
+      "placement": "Перед или после выбранной ключевой фразы",
+      "all_layers_muted": true,
+      "rule": "Планировать в естественной паузе без обрезания слов; при добавлении времени синхронно обновить монтаж и таймкоды. Не ставить на каждом акценте и на петлевом стыке Shorts."
+    },
+    "transitions": {
+      "j_cut": true,
+      "l_cut": true,
+      "riser": true,
+      "reverb_tail": true,
+      "rule": "Звук следующей сцены может предварять изображение, звук предыдущей — продолжаться после склейки. Riser и хвост реверберации использовать по смыслу; не переносить их через запланированную полную тишину."
+    },
+    "mastering": {
+      "target_lufs": -14,
+      "accepted_lufs_range": [
+        -14,
+        -13
+      ],
+      "max_true_peak_dbtp": -1,
+      "measurement_stage": "final encoded AAC/MP3 including video audio stream",
+      "rule": "Цели проекта для YouTube, не гарантия платформенной нормализации. После кодирования повторно измерить LUFS и true peak; при превышении −1 dBTP снизить потолок лимитера и повторить экспорт из исходного микса.",
+      "settings_source": "audio_postprocess sets processing targets; duplicated target_lufs and max_true_peak_dbtp must agree after episode overrides; otherwise resolve before production"
+    },
+    "verification": {
+      "cue_sheet_required": true,
+      "measure_final_encoded_audio": true,
+      "check_speech_windows": true,
+      "listen_on": [
+        "headphones",
+        "phone or small speaker",
+        "TV or comparable speakers"
+      ],
+      "rule": "Записывать фактически выполненное прослушивание, уровни, синхронизацию, тишину, переходы и ограничения; недоступные проверки оставлять непроверенными."
+    },
+    "enabled_for_shorts": true,
+    "enabled_for_video": true
+  },
+  "project_name": "Человек без лица",
+  "aliases": [
+    "Человек без лица"
+  ],
+  "skills": {
+    "script": ".agents/skills/retro-engineering-script/SKILL.md",
+    "thumbnails": ".agents/skills/retro-engineering-thumbnails/SKILL.md",
+    "metadata": ".agents/skills/retro-engineering-metadata/SKILL.md",
+    "assets": ".agents/skills/retro-engineering-assets/SKILL.md",
+    "shorts": ".agents/skills/retro-engineering-shorts/SKILL.md",
+    "edit": ".agents/skills/retro-engineering-edit/SKILL.md",
+    "check": ".agents/skills/retro-engineering-check/SKILL.md",
+    "produce": ".agents/skills/retro-engineering-produce/SKILL.md",
+    "sound": ".agents/skills/retro-engineering-sound/SKILL.md"
+  },
+  "narration_input": {
+    "mode": "user_supplied",
+    "preserve_original": true,
+    "script_is_final": true,
+    "timing_policy": "Использовать предоставленные SRT/таймкоды после проверки; при их отсутствии согласовать ручную разметку или распознавание готовой записи. Не изменять текст, темп и голос без запроса.",
+    "duration_source": "actual_audio_file"
+  }
+}

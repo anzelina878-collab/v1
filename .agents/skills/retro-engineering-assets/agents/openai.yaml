@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retro Engineering: Visuals"
+  short_description: "Mechanism footage, precise search, and archival grading"
+  default_prompt: "Use $retro-engineering-assets to find expressive footage of working components through detailed searches, then photos and generation as permitted; prepare visuals without text infographics and with light archival grading."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retro Engineering: Metadata"
+  short_description: "Titles, descriptions, and tags for engineering mysteries"
+  default_prompt: "Use $retro-engineering-metadata to prepare episode metadata in the requested languages, aligning its question with the hook and thumbnails."
