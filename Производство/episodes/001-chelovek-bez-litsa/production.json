@@ -48,7 +48,7 @@
     "render": "completed",
     "technical_verification": "passed",
     "editorial_review": "pending_user_review",
-    "delivery": "awaiting_explicit_public_mp4_permission"
+    "delivery": "public_download_verified"
   },
   "limitations": [
     "No SRT supplied; no speech recognition tool installed or available. Exact chapter and shot timings are unverified.",
@@ -69,16 +69,7 @@
     "../../../Результаты/001-chelovek-bez-litsa/chelovek-bez-litsa-1080p.mp4",
     "../../../Результаты/001-chelovek-bez-litsa/verification.json"
   ],
-  "blockers": [
-    {
-      "method": "GitHub draft release asset",
-      "result": "uploads.github.com returned HTTP 401; no assets uploaded"
-    },
-    {
-      "method": "Git LFS to public repository",
-      "result": "Automatic approval review rejected sensitive egress: explicit authorization for this MP4 to public destination required; upload command did not execute"
-    }
-  ],
+  "blockers": [],
   "tooling": {
     "python": "/workspace/media-tools-venv/bin/python",
     "asr": "faster-whisper 1.2.1",
@@ -99,14 +90,16 @@
     "visual_style": "mixed_stock_and_faceless_artistic_reconstruction",
     "historical_template_constraints": "superseded by user supplied story and selected mixed style"
   },
-  "status": "video_created_delivery_blocked",
+  "status": "video_delivered_for_review",
   "final_video": {
     "path": "Результаты/001-chelovek-bez-litsa/chelovek-bez-litsa-1080p.mp4",
     "sha256": "33ad0ea43b23a898ee7e0412d49ae1cc0c9d1e7bc64c08504387d8ea1bbace8e",
     "duration_seconds": 1563.0,
     "bytes": 486869068,
     "technical_verification": "passed",
-    "publicly_published": false
+    "publicly_published": true,
+    "download_url": "https://media.githubusercontent.com/media/anzelina878-collab/v1/main/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B/001-chelovek-bez-litsa/chelovek-bez-litsa-1080p.mp4",
+    "public_upload_authorization": "User explicitly approved publication of this exact MP4 in the public repository"
   },
   "delivery_manifest": "Результаты/001-chelovek-bez-litsa/delivery_manifest.json"
 }

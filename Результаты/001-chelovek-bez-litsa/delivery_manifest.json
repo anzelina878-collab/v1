@@ -1,43 +1,44 @@
 {
-  "status": "blocked_external_delivery",
-  "publication": "draft_only",
+  "status": "video_delivery_verified",
+  "publication": "public_GitHub_repository_explicitly_approved",
   "files": [
     {
       "name": "chelovek-bez-litsa-1080p.mp4",
       "bytes": 486869068,
-      "sha256": "33ad0ea43b23a898ee7e0412d49ae1cc0c9d1e7bc64c08504387d8ea1bbace8e"
+      "sha256": "33ad0ea43b23a898ee7e0412d49ae1cc0c9d1e7bc64c08504387d8ea1bbace8e",
+      "delivery": "public_git_lfs"
     },
     {
       "name": "sources-and-notes.txt",
       "bytes": 33718,
-      "sha256": "f074abeb51f461219367c11c20471ff12ab5919bffd07705d197e1400bef53b4"
+      "sha256": "f074abeb51f461219367c11c20471ff12ab5919bffd07705d197e1400bef53b4",
+      "delivery": "repository_document"
     },
     {
       "name": "quality_report.md",
-      "bytes": 4789,
-      "sha256": "6b74e3141e343a8d2aeaa72aeb6ed9287ead72ed0076fa1ac6168e7f71c97163"
+      "bytes": 5735,
+      "sha256": "2cce0b2271e49fa8821994e3548ec2a66d78e394cc8a8cd7d6fe58826083ee5d",
+      "delivery": "repository_document"
     },
     {
       "name": "verification.json",
       "bytes": 4699,
-      "sha256": "805c5863ea52ff6e70999a6b048a4b1625647b939d628d261bbbca1c60cb5f9a"
+      "sha256": "805c5863ea52ff6e70999a6b048a4b1625647b939d628d261bbbca1c60cb5f9a",
+      "delivery": "repository_document"
     },
     {
       "name": "reconstruction-stills.zip",
       "bytes": 11787918,
-      "sha256": "a6c19f8bee83eb90161a409319845063097a2e702af8621c6e9f93a631b9422b"
+      "sha256": "a6c19f8bee83eb90161a409319845063097a2e702af8621c6e9f93a631b9422b",
+      "delivery": "local_only"
     }
   ],
-  "blockers": [
-    {
-      "method": "GitHub draft release asset",
-      "result": "uploads.github.com returned HTTP 401; no assets uploaded"
-    },
-    {
-      "method": "Git LFS to public repository",
-      "result": "Automatic approval review rejected sensitive egress: explicit authorization for this MP4 to public destination required; upload command did not execute"
-    }
-  ],
-  "requires_user_action": "Explicit permission to upload this exact MP4 to public repository anzelina878-collab/v1, or a supported private delivery path.",
-  "local_video_preserved": true
+  "blockers": [],
+  "local_video_preserved": true,
+  "download_verification": {
+    "url": "https://media.githubusercontent.com/media/anzelina878-collab/v1/main/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B/001-chelovek-bez-litsa/chelovek-bez-litsa-1080p.mp4",
+    "bytes": 486869068,
+    "sha256": "33ad0ea43b23a898ee7e0412d49ae1cc0c9d1e7bc64c08504387d8ea1bbace8e",
+    "status": "download_verified"
+  }
 }
