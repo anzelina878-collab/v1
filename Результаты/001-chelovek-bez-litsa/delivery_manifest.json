@@ -1,5 +1,5 @@
 {
-  "status": "locally_verified_pending_upload",
+  "status": "blocked_external_delivery",
   "publication": "draft_only",
   "files": [
     {
@@ -27,5 +27,17 @@
       "bytes": 11787918,
       "sha256": "a6c19f8bee83eb90161a409319845063097a2e702af8621c6e9f93a631b9422b"
     }
-  ]
+  ],
+  "blockers": [
+    {
+      "method": "GitHub draft release asset",
+      "result": "uploads.github.com returned HTTP 401; no assets uploaded"
+    },
+    {
+      "method": "Git LFS to public repository",
+      "result": "Automatic approval review rejected sensitive egress: explicit authorization for this MP4 to public destination required; upload command did not execute"
+    }
+  ],
+  "requires_user_action": "Explicit permission to upload this exact MP4 to public repository anzelina878-collab/v1, or a supported private delivery path.",
+  "local_video_preserved": true
 }

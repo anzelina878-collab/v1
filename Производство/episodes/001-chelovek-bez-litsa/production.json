@@ -47,7 +47,8 @@
     "asset_search": "completed_for_illustrative_cut",
     "render": "completed",
     "technical_verification": "passed",
-    "editorial_review": "pending_user_review"
+    "editorial_review": "pending_user_review",
+    "delivery": "awaiting_explicit_public_mp4_permission"
   },
   "limitations": [
     "No SRT supplied; no speech recognition tool installed or available. Exact chapter and shot timings are unverified.",
@@ -68,7 +69,16 @@
     "../../../Результаты/001-chelovek-bez-litsa/chelovek-bez-litsa-1080p.mp4",
     "../../../Результаты/001-chelovek-bez-litsa/verification.json"
   ],
-  "blockers": [],
+  "blockers": [
+    {
+      "method": "GitHub draft release asset",
+      "result": "uploads.github.com returned HTTP 401; no assets uploaded"
+    },
+    {
+      "method": "Git LFS to public repository",
+      "result": "Automatic approval review rejected sensitive egress: explicit authorization for this MP4 to public destination required; upload command did not execute"
+    }
+  ],
   "tooling": {
     "python": "/workspace/media-tools-venv/bin/python",
     "asr": "faster-whisper 1.2.1",
@@ -89,7 +99,7 @@
     "visual_style": "mixed_stock_and_faceless_artistic_reconstruction",
     "historical_template_constraints": "superseded by user supplied story and selected mixed style"
   },
-  "status": "review_ready",
+  "status": "video_created_delivery_blocked",
   "final_video": {
     "path": "Результаты/001-chelovek-bez-litsa/chelovek-bez-litsa-1080p.mp4",
     "sha256": "33ad0ea43b23a898ee7e0412d49ae1cc0c9d1e7bc64c08504387d8ea1bbace8e",
@@ -97,5 +107,6 @@
     "bytes": 486869068,
     "technical_verification": "passed",
     "publicly_published": false
-  }
+  },
+  "delivery_manifest": "Результаты/001-chelovek-bez-litsa/delivery_manifest.json"
 }
