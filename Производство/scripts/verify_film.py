@@ -2,6 +2,11 @@
 """Decode the finished MP4 and measure its actual encoded audio."""
 import json,re,subprocess,hashlib
 from pathlib import Path
+import argparse
+parser=argparse.ArgumentParser(description='Historical episode 001 verifier; do not use to certify another episode')
+parser.add_argument('--verify-legacy-episode-001',action='store_true')
+args=parser.parse_args()
+if not args.verify_legacy_episode_001:parser.error('Choose an explicit export verifier for a new episode. This script only verifies historical episode 001.')
 ROOT=Path(__file__).resolve().parents[2];E=ROOT/'Производство/episodes/001-chelovek-bez-litsa';R=ROOT/'Результаты/001-chelovek-bez-litsa';p=R/'chelovek-bez-litsa-1080p.mp4'
 t=json.loads((E/'timeline.json').read_text())
 probe=json.loads(subprocess.check_output(['ffprobe','-v','error','-show_format','-show_streams','-of','json',str(p)],text=True));v=next(s for s in probe['streams'] if s['codec_type']=='video');a=next(s for s in probe['streams'] if s['codec_type']=='audio')

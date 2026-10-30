@@ -1,45 +1,44 @@
 # Человек без лица
 
-Проект «Человек без лица» основан на шаблоне RETRO. История и озвучка уже подготовлены пользователем. Использовать готовые материалы; не переписывать историю и не менять голос без запроса. Старые отраслевые, языковые и стилистические требования шаблона требуют адаптации и не определяют новый проект. Настройка проекта сама по себе не запускает производство.
+Это самостоятельный шаблон документального канала о даркнете, мошенничестве, цифровых преступлениях, деньгах и реальных людях. Руководство канала — [channel-guide.md](<Данные проекта/channel-guide.md>); визуальный язык — [visual-language.md](<Данные проекта/visual-language.md>); параметры — [settings.json](settings.json).
 
-Основной процесс: готовый текст + готовая запись → проверка соответствия и таймкоды → план сцен → материалы → согласованное звуковое оформление → монтаж → проверка. Язык и длительность определяются предоставленными материалами.
+Приоритет: последний запрос пользователя → ограничения конкретного выпуска → текущий шаблон. Настройка шаблона не запускает производство. Изменение профиля не меняет уже созданные видео и планы старых выпусков. Текущий выпуск 001 сохранять до явного заказа его правок.
 
-## Required skills
+## Рабочий процесс
 
-Before performing a requested stage, identify and read its local SKILL.md and the materials it requires for that stage. Follow its requirements during production and verification. Do not skip an applicable skill, substitute a recollection of it, or replace it with a simplified personal process. The user's latest explicit instruction takes precedence. If a required skill or resource is unavailable, report the blocker and continue independent parts of the request; do not declare the dependent stage complete.
+Запрос и материалы → сверка текста/озвучки → проверка фактов и личностей → смысловой план → сток / AI-видео / графика / портреты → внутренний пилот → монтаж → визуальная и техническая проверка → передача. Использовать существующую папку проекта; не создавать Git worktree без запроса.
 
-A full episode requires the skills for every requested stage. A targeted edit requires the affected stage's skill and corresponding verification; reading every skill for every task is unnecessary.
+Читайте навыки реально запрошенных этапов:
 
-| Stage | Skill |
+| Этап | Навык |
 |---|---|
-| Full episode / continuation | [retro-engineering-produce](.agents/skills/retro-engineering-produce/SKILL.md) |
-| Script | [retro-engineering-script](.agents/skills/retro-engineering-script/SKILL.md) |
-| Assets | [retro-engineering-assets](.agents/skills/retro-engineering-assets/SKILL.md) |
-| Sound | [retro-engineering-sound](.agents/skills/retro-engineering-sound/SKILL.md) |
-| Editing | [retro-engineering-edit](.agents/skills/retro-engineering-edit/SKILL.md) |
-| Metadata | [retro-engineering-metadata](.agents/skills/retro-engineering-metadata/SKILL.md) |
-| Thumbnails | [retro-engineering-thumbnails](.agents/skills/retro-engineering-thumbnails/SKILL.md) |
-| Shorts | [retro-engineering-shorts](.agents/skills/retro-engineering-shorts/SKILL.md) |
-| Verification and cleanup | [retro-engineering-check](.agents/skills/retro-engineering-check/SKILL.md) |
+| Координация | [faceless-produce](.agents/skills/faceless-produce/SKILL.md) |
+| Факты, источники, личности | [faceless-research](.agents/skills/faceless-research/SKILL.md) |
+| Текст по отдельному заказу | [faceless-script](.agents/skills/faceless-script/SKILL.md) |
+| Подбор и постановочные материалы | [faceless-assets](.agents/skills/faceless-assets/SKILL.md) |
+| Цифры, схемы, инфографика | [faceless-graphics](.agents/skills/faceless-graphics/SKILL.md) |
+| Монтаж и анимация фото | [faceless-edit](.agents/skills/faceless-edit/SKILL.md) |
+| Звук | [faceless-sound](.agents/skills/faceless-sound/SKILL.md) |
+| Названия и описание | [faceless-metadata](.agents/skills/faceless-metadata/SKILL.md) |
+| Превью | [faceless-thumbnails](.agents/skills/faceless-thumbnails/SKILL.md) |
+| Shorts по отдельному заказу | [faceless-shorts](.agents/skills/faceless-shorts/SKILL.md) |
+| Проверка и передача | [faceless-check](.agents/skills/faceless-check/SKILL.md) |
 
-## Settings and working boundaries
+## Обязательные правила
 
-Precedence: latest user instruction → episode scope and settings_overrides → [settings.json](settings.json). Replace language arrays in full. For an existing episode, `inspect` returns effective_settings; `resolve` without inspect does not apply episode restrictions.
+- Каждый кадр связан с конкретной звучащей фразой и добавляет понятную зрителю информацию. Тематическая похожесть не доказывает соответствие.
+- Не выбирать пайку, ремонт плат, случайные мониторы и клавиатуры по словам «алгоритм», «система» или «программа». Электроника нужна только для буквально показанного в речи предмета/действия. Нет подходящего кадра — сделать осмысленную схему, карту, графику данных или постановочную сцену.
+- Движущийся сток, AI-видео и анимированная графика — основа. Фотографии используются адресно: реальные герои, документы, конкретные события; движение выразительное и осмысленное.
+- Название канала не требует скрывать лица известных героев. Для известного человека использовать проверенное изображение именно его. Если личность не установлена, не изобретать подлинный портрет. Подробнее — [real-people.md](<Данные проекта/real-people.md>).
+- Цифры, даты и связи в графике имеют источники. Постановочные изображения/интерфейсы не выдавать за реальные доказательства. Статус обвинения отличать от установленного приговора.
+- Готовый пользовательский текст и оригинальная озвучка сохраняются. Не создавать новый голос, не дописывать речь и не менять темп без запроса. Распознавание для таймкодов разрешено в рамках монтажа.
+- Проверить доступные инструменты AI-видео до обещания результата. Анимация фотографии не является AI-видео. Если средства нет, сообщить конкретное ограничение и продолжать независимые этапы; не заполнять незакрытые сцены случайным стоком.
+- В рамках заказанного этапа выполнять рутинные решения самостоятельно. Шаблон не разрешает покупки, новые платные подписки, публикацию или отправку материалов другим людям. Не переспрашивать уже данное разрешение в его установленном объёме.
 
-Working files belong in `Производство/episodes/`; only finished deliverables belong in `Результаты/`. Reusable assets, sources, and usage terms belong in `Данные проекта/`; tools belong in `Производство/`.
+## Файлы и проверка
 
-Музыка и SFX не включены в текущий запрос. При отдельном заказе видео согласовать звуковое оформление; исходная речь сохраняется отдельно. Установки и исторические разрешения старого шаблона не являются разрешением нового пользователя.
+Рабочие материалы — Производство/episodes/<выпуск>/. Источники, библиотека и правила — Данные проекта/. Готовые выдаваемые файлы — Результаты/<выпуск>/. Сохранять оригиналы, происхождение, промпты, таймкоды и предыдущие переданные версии до завершения правок. Не запускать старую автоматическую очистку.
 
-Perform only the requested scope. Project configuration does not start an episode or paid requests; Shorts require a separate request or scope.shorts. Publishing, sending materials to people, and subagents require user authorization. Make routine decisions within the request independently.
+Контракт выпуска — [production-contract.md](<Данные проекта/production-contract.md>). Запустить `python Производство/scripts/validate_template.py` после изменения шаблона. Визуальный план проверяется `validate_visual_plan.py`; автоматический валидатор не заменяет просмотр.
 
-“Continue” refers to the latest request in this conversation. Check state, actual files, and the script hash; preserve the supplied narration and checked timing data. Script changes make dependent results stale. Do not change frozen parts; new thumbnails and instruction updates do not unfreeze video.
-
-## Delivery and retention
-
-Verify requested results using the verification skill. Export only final files through the local delivery.py with SHA-256 verification; user-facing deliverable links must point to Результаты. Export does not establish editorial readiness, and unavailable checks must not be reported as passed.
-
-Keep inputs and recovery data until completion. After verifying finals, retain finished deliverables, assets selected for future production, and compact production.json, delivery_manifest.json, source records, and quality_report.md. Remove unnecessary episode inputs, old versions, and duplicates; do not clean the shared library along with the episode. Do not automatically restore deliverables deleted by the user. After deleting inputs, explicitly record that reproduction is unavailable; preserve verification status and limitations.
-
-## Комплектность шаблона
-
-В архиве отсутствуют Производство/scripts/, медиаматериалы и Данные проекта/research/. Не считать команды и проверки из старых навыков выполненными или доступными. Перед производством проверить зависимости. Подробности — ANALYSIS.md.
+Существующие build_visual_timeline.py, render_film.py и verify_film.py относятся к выпуску 001. Старый автоматический подборщик требует явного флага и не является подборщиком нового канала. Не пересобирать старый выпуск при проверке шаблона. Новые графические и AI-видеосцены требуют подходящего проверенного рендера; не заявлять поддержку на основании текста настроек.

@@ -1,4 +1,0 @@
-interface:
-  display_name: "Retro Engineering: Scripts"
-  short_description: "Engineering mysteries and varied technical topics"
-  default_prompt: "Use $retro-engineering-script to write a 20–30-minute engineering mystery in Ukrainian on the selected channel topic."

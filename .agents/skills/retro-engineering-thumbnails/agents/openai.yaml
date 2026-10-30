@@ -1,4 +1,0 @@
-interface:
-  display_name: "Retro Engineering: Thumbnails"
-  short_description: "Cinematic engineering thumbnails without added text"
-  default_prompt: "Use $retro-engineering-thumbnails to create the requested PASTWORKS thumbnails following the approved reference: three distinct cinematic scenes without text, with a prominent object, depth, and expressive lighting, respecting real-source search and generation restrictions."

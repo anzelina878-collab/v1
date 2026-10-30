@@ -6,7 +6,10 @@ ROOT=Path(__file__).resolve().parents[2]
 E=ROOT/'Производство/episodes/001-chelovek-bez-litsa'
 
 def main():
- ap=argparse.ArgumentParser(description=__doc__);ap.add_argument('--limit',type=int);ap.add_argument('--workers',type=int,default=3);args=ap.parse_args()
+ ap=argparse.ArgumentParser(description='Historical episode 001 renderer; not the current channel engine')
+ ap.add_argument('--render-legacy-episode-001',action='store_true',help='Explicitly opt in to rendering the historical episode')
+ ap.add_argument('--limit',type=int);ap.add_argument('--workers',type=int,default=3);args=ap.parse_args()
+ if not args.render_legacy_episode_001:ap.error('Historical episode renderer is disabled by default; editing the template must not rebuild delivered video.')
  timeline=json.loads((E/'timeline.json').read_text());manifest=json.loads((E/'assets/manifest.json').read_text());assets={a['id']:a for a in manifest['assets']};shots=timeline['shots'][:args.limit] if args.limit else timeline['shots']
  if not args.limit:
   audit=json.loads((E/'pre_render_audit.json').read_text())

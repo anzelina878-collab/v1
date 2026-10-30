@@ -138,4 +138,11 @@ def main():
  assert all(shots[i]['end_frame']==shots[i+1]['start_frame'] for i in range(len(shots)-1))
  assert shots[-1]['end_frame']==total
 
-if __name__=='__main__':main()
+if __name__=='__main__':
+ import argparse
+ parser=argparse.ArgumentParser(description='Historical episode 001 builder; not the current channel template')
+ parser.add_argument('--rebuild-legacy-episode-001',action='store_true',help='Explicitly opt in to rebuilding the historical first-episode plan')
+ args=parser.parse_args()
+ if not args.rebuild_legacy_episode_001:
+  parser.error('Legacy episode 001 selector is disabled by default. Use the new channel contract; do not rebuild an existing episode while editing the template.')
+ main()
