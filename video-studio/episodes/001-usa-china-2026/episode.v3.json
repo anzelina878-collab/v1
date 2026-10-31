@@ -322,11 +322,12 @@
     },
     {
       "type": "studio",
+      "image": "assets/prepared/M4A1.png",
       "country": "US",
       "title": "M4A1",
-      "motion_kind": "true_3d",
+      "motion_kind": "verified_static",
       "asset_id": "M4A1",
-      "source": "https://opengameart.org/content/m4a1-assault-rifle",
+      "source": "https://commons.wikimedia.org/wiki/File:PEO_M4_Carbine_RAS_M68_CCO.png",
       "id": "shot-015",
       "start": 68.16666666666667,
       "duration": 4.133333333333334,
@@ -334,12 +335,7 @@
       "narration_quote_asr": "та можливість встановлювати різноманітні приціли і додаткове обладнання.",
       "alignment_basis": "actual supplied audio word/segment timestamps",
       "callouts": [],
-      "animate_title": false,
-      "video": "assets/v2/m4a1-turntable.mp4",
-      "loop": true,
-      "fit": "contain",
-      "object_id": "M4A1",
-      "in": 11.9
+      "animate_title": false
     },
     {
       "type": "studio",
@@ -349,7 +345,7 @@
       "motion_kind": "true_3d",
       "asset_id": "M4A1_3D",
       "source": "https://opengameart.org/content/m4a1-assault-rifle",
-      "in": 4.033333333333335,
+      "in": 0,
       "fit": "contain",
       "id": "shot-016",
       "start": 72.3,
@@ -381,7 +377,7 @@
       "loop": true,
       "fit": "contain",
       "object_id": "M4A1",
-      "in": 11.866666666666667
+      "in": 7.833333333333333
     },
     {
       "type": "studio",
@@ -786,11 +782,12 @@
     },
     {
       "type": "studio",
+      "image": "assets/prepared/M4A1.png",
       "country": "US",
       "title": "ОПТИКА",
-      "motion_kind": "true_3d",
+      "motion_kind": "verified_static",
       "asset_id": "M4A1",
-      "source": "https://opengameart.org/content/m4a1-assault-rifle",
+      "source": "https://commons.wikimedia.org/wiki/File:PEO_M4_Carbine_RAS_M68_CCO.png",
       "id": "shot-036",
       "start": 181.76666666666668,
       "duration": 6.1,
@@ -798,12 +795,7 @@
       "narration_quote_asr": "Для американських військових оптичні приціли давно стали звичним елементом спорядження. А нова система",
       "alignment_basis": "actual supplied audio word/segment timestamps",
       "callouts": [],
-      "animate_title": true,
-      "video": "assets/v2/m4a1-turntable.mp4",
-      "loop": true,
-      "fit": "contain",
-      "object_id": "M4A1",
-      "in": 0
+      "animate_title": true
     },
     {
       "type": "studio",

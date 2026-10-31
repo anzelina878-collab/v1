@@ -1,0 +1,12 @@
+{
+  "archive": "project_source_v3.zip",
+  "bytes": 100870819,
+  "sha256": "4d791622c55a6708657b9d7e59bd0f430f22c402750bd44967794e295550adb2",
+  "config_matches_delivered_revision": true,
+  "scene_count": 180,
+  "referenced_media_checked": 149,
+  "all_referenced_media_present": true,
+  "original_voice_sha256": "583abbe78d50e6f755793cf02e67213ddb7672eae81e9c8c4f9b3a81cb11a185",
+  "source_voice_matches": true,
+  "zip_crc_passed": true
+}

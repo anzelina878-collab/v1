@@ -1,0 +1,11 @@
+{
+  "renderer": "FFmpeg scene compiler + existing Pillow templates",
+  "config_sha256": "6c8e365ec7a16307",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 31893,
+  "duration": 1063.1,
+  "audio_included": true,
+  "scenes": 180
+}
