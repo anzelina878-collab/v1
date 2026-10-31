@@ -4,7 +4,7 @@ work/*
 output/*
 !output/.gitkeep
 
-# Large episode media are delivered in the release source archive.
+# Large episode media are delivered in the source archive.
 episodes/*/audio/*
 episodes/*/alignment/*.wav
 episodes/*/assets/originals/
