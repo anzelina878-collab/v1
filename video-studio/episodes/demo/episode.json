@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "brand": "ПРЕДМЕТНО / ВІЗУАЛЬНА СТУДІЯ",
+  "title": "Демонстрація шаблонів",
+  "width": 960,
+  "height": 540,
+  "fps": 24,
+  "audio": null,
+  "audio_policy": "pad_video",
+  "footer": "ДЕМОНСТРАЦІЯ · умовні ілюстрації та дані, не характеристики реального спорядження",
+  "scenes": [
+    {
+      "id": "opening", "type": "intro", "duration": 4,
+      "eyebrow": "СЕРІЙНИЙ ВІЗУАЛЬНИЙ ФОРМАТ",
+      "title": "Речі. Функції. Система.",
+      "subtitle": "Новий випуск — нові матеріали. Єдина мова графіки."
+    },
+    {
+      "id": "chapter", "type": "section", "duration": 2,
+      "eyebrow": "01 / ШАБЛОНИ СЦЕН",
+      "title": "Спорядження",
+      "subtitle": "Заголовок розділу"
+    },
+    {
+      "id": "object", "type": "item", "duration": 6,
+      "category": "КАРТКА ПРЕДМЕТА",
+      "title": "Наплічник",
+      "subtitle": "Умовна ілюстрація для демонстрації стилю",
+      "image": "assets/bag.png",
+      "facts": ["Змінне зображення", "Послідовна поява тез", "Текст окремо від картинки"],
+      "note": "У новому випуску тут будуть ваші перевірені матеріали."
+    },
+    {
+      "id": "comparison", "type": "compare", "duration": 5,
+      "eyebrow": "02 / ПОРІВНЯННЯ",
+      "title": "Два варіанти в одному кадрі",
+      "sides": [
+        {"label": "ВАРІАНТ А", "title": "Базовий комплект", "image": "assets/bag.png", "detail": "Приклад першої сторони порівняння"},
+        {"label": "ВАРІАНТ Б", "title": "Інша конфігурація", "image": "assets/bag_light.png", "detail": "Однаковий масштаб та композиція"}
+      ]
+    },
+    {
+      "id": "chart", "type": "bars", "duration": 5,
+      "eyebrow": "03 / ДАНІ",
+      "title": "Пояснення через діаграму",
+      "unit": "Умовні одиниці · синтетичні дані",
+      "maximum": 10,
+      "values": [
+        {"label": "Категорія А", "value": 8, "display": "8"},
+        {"label": "Категорія Б", "value": 5, "display": "5", "color": "olive"},
+        {"label": "Категорія В", "value": 3, "display": "3", "color": "yellow"}
+      ],
+      "note": "Значення показують роботу шаблону, а не реальні вимірювання."
+    },
+    {
+      "id": "inventory", "type": "kit", "duration": 5,
+      "eyebrow": "04 / РОЗКЛАДКА",
+      "title": "Від окремих речей до комплекту",
+      "items": [
+        {"label": "Захист", "image": "assets/helmet.png"},
+        {"label": "Зв’язок", "image": "assets/radio.png"},
+        {"label": "Аптечка", "image": "assets/pouch.png"},
+        {"label": "Вода", "image": "assets/bottle.png"},
+        {"label": "Живлення", "image": "assets/battery.png"},
+        {"label": "Перенесення", "image": "assets/bag.png"}
+      ]
+    },
+    {
+      "id": "explanation", "type": "diagram", "duration": 5,
+      "eyebrow": "05 / ПОЯСНЕННЯ",
+      "title": "Кожній думці — свій візуальний крок",
+      "nodes": [
+        {"title": "Предмет", "detail": "Що бачить глядач"},
+        {"title": "Функція", "detail": "Що саме пояснюємо"},
+        {"title": "Висновок", "detail": "Що варто запам’ятати"}
+      ],
+      "note": "Вузли з’являються послідовно. Назви та кількість змінюються у конфігурації."
+    },
+    {
+      "id": "clip", "type": "footage", "duration": 4,
+      "video": "assets/abstract.mp4", "in": 0, "loop": true, "fit": "cover",
+      "title": "Ваше відео всередині випуску",
+      "subtitle": "Кадрування, тривалість і підписи керуються окремо",
+      "source": "ДЕМОВСТАВКА · власна абстрактна анімація, не документальні кадри"
+    },
+    {
+      "id": "closing", "type": "outro", "duration": 4,
+      "eyebrow": "ГОТОВО ДО НОВИХ ВИПУСКІВ",
+      "title": "Матеріали змінюються.\nСтиль зберігається.",
+      "subtitle": "Текст і озвучка — ваші. Тут створюємо відеоряд."
+    }
+  ]
+}
