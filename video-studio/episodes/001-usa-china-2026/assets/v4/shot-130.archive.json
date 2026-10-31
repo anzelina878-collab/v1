@@ -1,0 +1,16 @@
+{
+  "kind": "actual_archive_video",
+  "source": "cn-medical",
+  "source_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10191444.html",
+  "source_in": 26,
+  "duration": 5.2,
+  "frames": 156,
+  "fps": 30,
+  "source_width": 1920,
+  "source_height": 1080,
+  "archive_audio_removed": true,
+  "credits_burned_in": true,
+  "preparation_sha256": "9a7e6501a564f157899cf9a417a15bdea266c302e110a6639c294ec1c219d740",
+  "sha256": "3fafd0d9a7d931184ce23db9c1b4a9b272406027881f747b3eef3746461897e7",
+  "rights_basis": "Short contextual editorial quotations of field medical support for accompanying analysis. Does not identify this hospital equipment as an individual IFAK; no unrestricted stock license asserted."
+}

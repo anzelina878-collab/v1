@@ -1,0 +1,992 @@
+{
+  "config": "episode.v4.json",
+  "base_config": "episode.v3.json",
+  "scenes": [
+    {
+      "scene": "shot-001",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/opening-1.mp4",
+      "frames": 138
+    },
+    {
+      "scene": "shot-002",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/opening-2.mp4",
+      "frames": 137
+    },
+    {
+      "scene": "shot-003",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-003.mp4",
+      "frames": 221
+    },
+    {
+      "scene": "shot-004",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-004.mp4",
+      "frames": 234
+    },
+    {
+      "scene": "shot-005",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 163
+    },
+    {
+      "scene": "shot-006",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 153
+    },
+    {
+      "scene": "shot-007",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 171
+    },
+    {
+      "scene": "shot-008",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-008.mp4",
+      "frames": 48
+    },
+    {
+      "scene": "shot-009",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-009.mp4",
+      "frames": 50
+    },
+    {
+      "scene": "shot-010",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-010.mp4",
+      "frames": 31
+    },
+    {
+      "scene": "shot-011",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 185
+    },
+    {
+      "scene": "shot-012",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 157
+    },
+    {
+      "scene": "shot-013",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 147
+    },
+    {
+      "scene": "shot-014",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 210
+    },
+    {
+      "scene": "shot-015",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 124
+    },
+    {
+      "scene": "shot-016",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 235
+    },
+    {
+      "scene": "shot-017",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 197
+    },
+    {
+      "scene": "shot-018",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-018.mp4",
+      "frames": 197
+    },
+    {
+      "scene": "shot-019",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-019.mp4",
+      "frames": 191
+    },
+    {
+      "scene": "shot-020-archive",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-020-archive.mp4",
+      "frames": 120
+    },
+    {
+      "scene": "shot-020",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-020.mp4",
+      "frames": 66
+    },
+    {
+      "scene": "shot-021",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 44
+    },
+    {
+      "scene": "shot-022",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 82
+    },
+    {
+      "scene": "shot-023",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-023.mp4",
+      "frames": 221
+    },
+    {
+      "scene": "shot-024",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 44
+    },
+    {
+      "scene": "shot-025",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-025.mp4",
+      "frames": 141
+    },
+    {
+      "scene": "shot-026",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 145
+    },
+    {
+      "scene": "shot-027",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 174
+    },
+    {
+      "scene": "shot-028",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 161
+    },
+    {
+      "scene": "shot-029",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-029.mp4",
+      "frames": 189
+    },
+    {
+      "scene": "shot-030",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 265
+    },
+    {
+      "scene": "shot-031",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 167
+    },
+    {
+      "scene": "shot-032",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 191
+    },
+    {
+      "scene": "shot-033",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 177
+    },
+    {
+      "scene": "shot-034",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 144
+    },
+    {
+      "scene": "shot-035",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 133
+    },
+    {
+      "scene": "shot-036",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 183
+    },
+    {
+      "scene": "shot-037",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 91
+    },
+    {
+      "scene": "shot-038",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 212
+    },
+    {
+      "scene": "shot-039",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 169
+    },
+    {
+      "scene": "shot-040",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 222
+    },
+    {
+      "scene": "shot-041",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-041.mp4",
+      "frames": 200
+    },
+    {
+      "scene": "shot-042",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-042.mp4",
+      "frames": 206
+    },
+    {
+      "scene": "shot-043",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 224
+    },
+    {
+      "scene": "shot-044",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 199
+    },
+    {
+      "scene": "shot-045",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 286
+    },
+    {
+      "scene": "shot-046",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 257
+    },
+    {
+      "scene": "shot-047",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 224
+    },
+    {
+      "scene": "shot-048",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 152
+    },
+    {
+      "scene": "shot-049",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 200
+    },
+    {
+      "scene": "shot-050",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 135
+    },
+    {
+      "scene": "shot-051",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 197
+    },
+    {
+      "scene": "shot-052",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 234
+    },
+    {
+      "scene": "shot-053",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 76
+    },
+    {
+      "scene": "shot-054",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 198
+    },
+    {
+      "scene": "shot-055",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 110
+    },
+    {
+      "scene": "shot-056-archive",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-056-archive.mp4",
+      "frames": 120
+    },
+    {
+      "scene": "shot-056",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-056.mp4",
+      "frames": 153
+    },
+    {
+      "scene": "shot-057",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 208
+    },
+    {
+      "scene": "shot-058",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 137
+    },
+    {
+      "scene": "shot-059",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 254
+    },
+    {
+      "scene": "shot-060",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 148
+    },
+    {
+      "scene": "shot-061",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 113
+    },
+    {
+      "scene": "shot-062",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 187
+    },
+    {
+      "scene": "shot-063",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 178
+    },
+    {
+      "scene": "shot-064",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-064.mp4",
+      "frames": 215
+    },
+    {
+      "scene": "shot-065",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-065.mp4",
+      "frames": 139
+    },
+    {
+      "scene": "shot-066",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-066.mp4",
+      "frames": 125
+    },
+    {
+      "scene": "shot-067",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-067.mp4",
+      "frames": 213
+    },
+    {
+      "scene": "shot-068",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 60
+    },
+    {
+      "scene": "shot-069",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 94
+    },
+    {
+      "scene": "shot-070",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 179
+    },
+    {
+      "scene": "shot-071",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 88
+    },
+    {
+      "scene": "shot-072",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 236
+    },
+    {
+      "scene": "shot-073",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 101
+    },
+    {
+      "scene": "shot-074",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-074.mp4",
+      "frames": 142
+    },
+    {
+      "scene": "shot-075",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-075.mp4",
+      "frames": 163
+    },
+    {
+      "scene": "shot-076",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-076.mp4",
+      "frames": 97
+    },
+    {
+      "scene": "shot-077",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-077.mp4",
+      "frames": 211
+    },
+    {
+      "scene": "shot-078",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 88
+    },
+    {
+      "scene": "shot-079",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 197
+    },
+    {
+      "scene": "shot-080",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 80
+    },
+    {
+      "scene": "shot-081",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 210
+    },
+    {
+      "scene": "shot-082",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 264
+    },
+    {
+      "scene": "shot-083",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 136
+    },
+    {
+      "scene": "shot-084",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 184
+    },
+    {
+      "scene": "shot-085",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 204
+    },
+    {
+      "scene": "shot-086",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 167
+    },
+    {
+      "scene": "shot-087",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 120
+    },
+    {
+      "scene": "shot-088",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 201
+    },
+    {
+      "scene": "shot-089",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 193
+    },
+    {
+      "scene": "shot-090",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 287
+    },
+    {
+      "scene": "shot-091",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 267
+    },
+    {
+      "scene": "shot-092",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 197
+    },
+    {
+      "scene": "shot-093",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-093.mp4",
+      "frames": 154
+    },
+    {
+      "scene": "shot-094",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-094.mp4",
+      "frames": 188
+    },
+    {
+      "scene": "shot-095",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-095.mp4",
+      "frames": 282
+    },
+    {
+      "scene": "shot-096",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-096.mp4",
+      "frames": 258
+    },
+    {
+      "scene": "shot-097",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-097.mp4",
+      "frames": 214
+    },
+    {
+      "scene": "shot-098",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-098.mp4",
+      "frames": 228
+    },
+    {
+      "scene": "shot-099",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-099.mp4",
+      "frames": 160
+    },
+    {
+      "scene": "shot-100",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 126
+    },
+    {
+      "scene": "shot-101",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-101.mp4",
+      "frames": 119
+    },
+    {
+      "scene": "shot-102",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-102.mp4",
+      "frames": 240
+    },
+    {
+      "scene": "shot-103",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-103.mp4",
+      "frames": 159
+    },
+    {
+      "scene": "shot-104",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-104.mp4",
+      "frames": 184
+    },
+    {
+      "scene": "shot-105",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-105.mp4",
+      "frames": 158
+    },
+    {
+      "scene": "shot-106",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-106.mp4",
+      "frames": 160
+    },
+    {
+      "scene": "shot-107",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 233
+    },
+    {
+      "scene": "shot-108",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-108.mp4",
+      "frames": 257
+    },
+    {
+      "scene": "shot-109",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-109.mp4",
+      "frames": 162
+    },
+    {
+      "scene": "shot-110",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-110.mp4",
+      "frames": 187
+    },
+    {
+      "scene": "shot-111",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-111.mp4",
+      "frames": 178
+    },
+    {
+      "scene": "shot-112",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-112.mp4",
+      "frames": 152
+    },
+    {
+      "scene": "shot-113",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-113.mp4",
+      "frames": 207
+    },
+    {
+      "scene": "shot-114",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 137
+    },
+    {
+      "scene": "shot-115",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-115.mp4",
+      "frames": 129
+    },
+    {
+      "scene": "shot-116",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-116.mp4",
+      "frames": 172
+    },
+    {
+      "scene": "shot-117",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-117.mp4",
+      "frames": 210
+    },
+    {
+      "scene": "shot-118",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-118.mp4",
+      "frames": 148
+    },
+    {
+      "scene": "shot-119",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-119.mp4",
+      "frames": 248
+    },
+    {
+      "scene": "shot-120",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-120.mp4",
+      "frames": 150
+    },
+    {
+      "scene": "shot-121",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-121.mp4",
+      "frames": 164
+    },
+    {
+      "scene": "shot-122",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 133
+    },
+    {
+      "scene": "shot-123",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 213
+    },
+    {
+      "scene": "shot-124",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 131
+    },
+    {
+      "scene": "shot-125",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-125.mp4",
+      "frames": 215
+    },
+    {
+      "scene": "shot-126",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 234
+    },
+    {
+      "scene": "shot-127",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 216
+    },
+    {
+      "scene": "shot-128",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 218
+    },
+    {
+      "scene": "shot-129",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-129.mp4",
+      "frames": 200
+    },
+    {
+      "scene": "shot-130",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-130.mp4",
+      "frames": 156
+    },
+    {
+      "scene": "shot-131",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-131.mp4",
+      "frames": 196
+    },
+    {
+      "scene": "shot-132",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 139
+    },
+    {
+      "scene": "shot-133",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 143
+    },
+    {
+      "scene": "shot-134",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-134.mp4",
+      "frames": 175
+    },
+    {
+      "scene": "shot-135",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-135.mp4",
+      "frames": 264
+    },
+    {
+      "scene": "shot-136",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-136.mp4",
+      "frames": 104
+    },
+    {
+      "scene": "shot-137",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 79
+    },
+    {
+      "scene": "shot-138",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 145
+    },
+    {
+      "scene": "shot-139",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 109
+    },
+    {
+      "scene": "shot-140",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 223
+    },
+    {
+      "scene": "shot-141",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-141.mp4",
+      "frames": 222
+    },
+    {
+      "scene": "shot-142",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 238
+    },
+    {
+      "scene": "shot-143",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-143.mp4",
+      "frames": 181
+    },
+    {
+      "scene": "shot-144",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-144.mp4",
+      "frames": 93
+    },
+    {
+      "scene": "shot-145",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-145.mp4",
+      "frames": 92
+    },
+    {
+      "scene": "shot-146",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 207
+    },
+    {
+      "scene": "shot-147",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 106
+    },
+    {
+      "scene": "shot-148",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 235
+    },
+    {
+      "scene": "shot-149",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 220
+    },
+    {
+      "scene": "shot-150",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-150.mp4",
+      "frames": 225
+    },
+    {
+      "scene": "shot-151",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-151.mp4",
+      "frames": 188
+    },
+    {
+      "scene": "shot-152",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-152.mp4",
+      "frames": 208
+    },
+    {
+      "scene": "shot-153",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-153.mp4",
+      "frames": 249
+    },
+    {
+      "scene": "shot-154",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-154.mp4",
+      "frames": 288
+    },
+    {
+      "scene": "shot-155",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 262
+    },
+    {
+      "scene": "shot-156",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-156.mp4",
+      "frames": 159
+    },
+    {
+      "scene": "shot-157",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-157.mp4",
+      "frames": 166
+    },
+    {
+      "scene": "shot-158",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-158.mp4",
+      "frames": 157
+    },
+    {
+      "scene": "shot-159",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-159.mp4",
+      "frames": 256
+    },
+    {
+      "scene": "shot-160",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-160.mp4",
+      "frames": 180
+    },
+    {
+      "scene": "shot-161",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-161.mp4",
+      "frames": 235
+    },
+    {
+      "scene": "shot-162",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-162.mp4",
+      "frames": 221
+    },
+    {
+      "scene": "shot-163",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-163.mp4",
+      "frames": 215
+    },
+    {
+      "scene": "shot-164",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 286
+    },
+    {
+      "scene": "shot-165",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-165.mp4",
+      "frames": 256
+    },
+    {
+      "scene": "shot-166",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 201
+    },
+    {
+      "scene": "shot-167",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 225
+    },
+    {
+      "scene": "shot-168",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 108
+    },
+    {
+      "scene": "shot-169",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-169.mp4",
+      "frames": 234
+    },
+    {
+      "scene": "shot-170",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-170.mp4",
+      "frames": 233
+    },
+    {
+      "scene": "shot-171",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 246
+    },
+    {
+      "scene": "shot-172",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 152
+    },
+    {
+      "scene": "shot-173",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 124
+    },
+    {
+      "scene": "shot-174",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-174.mp4",
+      "frames": 170
+    },
+    {
+      "scene": "shot-175",
+      "origin": "prepared_actual_archive",
+      "path": "assets/v4/shot-175.mp4",
+      "frames": 260
+    },
+    {
+      "scene": "shot-176",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 242
+    },
+    {
+      "scene": "shot-177",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 174
+    },
+    {
+      "scene": "shot-178",
+      "origin": "validated_unchanged_base_scene",
+      "frames": 138
+    }
+  ],
+  "frames": 31893,
+  "duration": 1063.1,
+  "original_audio_preserved": true,
+  "video_encoding": "prepared H264 excerpts and unchanged cached shots copied without another lossy encode",
+  "sha256": "f529faf612c7c18bfb6188d3de4082c05c135fc2b3a426a3cbc6e5176dbe3dcc"
+}

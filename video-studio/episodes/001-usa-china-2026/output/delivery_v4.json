@@ -1,0 +1,17 @@
+{
+  "video": {
+    "file": "final_video_v4.mp4",
+    "bytes": 292112139,
+    "sha256": "f529faf612c7c18bfb6188d3de4082c05c135fc2b3a426a3cbc6e5176dbe3dcc"
+  },
+  "project": {
+    "file": "project_source_v4.zip",
+    "bytes": 100965293,
+    "sha256": "c2335890c1839688382357f9bfd8be03f05571ead3150d88cb6044ac08530f07",
+    "archive_video_download_required": true
+  },
+  "real_archive_seconds": 487.8,
+  "circular_3d_seconds": 59.46666666666667,
+  "all_automated_checks_passed": true,
+  "tests_passed": 19
+}

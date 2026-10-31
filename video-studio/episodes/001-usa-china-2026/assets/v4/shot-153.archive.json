@@ -1,0 +1,16 @@
+{
+  "kind": "actual_archive_video",
+  "source": "us-drone",
+  "source_url": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+  "source_in": 125,
+  "duration": 8.3,
+  "frames": 249,
+  "fps": 30,
+  "source_width": 1024,
+  "source_height": 576,
+  "archive_audio_removed": true,
+  "credits_burned_in": true,
+  "preparation_sha256": "2c1abaa516cfc1b6af4f0ecb2a96d0ce47d9e8e8c49728c1b7bdb3bf568e7cdb",
+  "sha256": "774f60ca5b1bee425f4d259b060ead0cbdd6a465545cc88a726ed95e04ada2e7",
+  "rights_basis": "U.S. government public domain footage; no endorsement implied"
+}

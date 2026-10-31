@@ -24,6 +24,12 @@ class TitleMotionTests(unittest.TestCase):
         self.assertIsNone(ImageChops.difference(late,settled).getbbox())
         self.assertIsNotNone(ImageChops.difference(late,Image.new('RGB',late.size,'white')).getbbox())
 
+    def test_prepared_archive_preview_does_not_add_a_second_title(self):
+        p=self.painter(True);original=Image.new('RGB',(1920,1080),'#809080')
+        scene={'type':'footage','title':'ALREADY CAPTIONED','baked_captions':True}
+        result=p.render(scene,2,0,2,original)
+        self.assertIsNone(ImageChops.difference(result,original).getbbox())
+
     def test_disabled_motion_preserves_existing_titles(self):
         p=self.painter(False);a=Image.new('RGB',(1920,1080),'white');b=a.copy()
         p.motion_text(a,'M249',(90,100,1500,150),0,78,bold=True)

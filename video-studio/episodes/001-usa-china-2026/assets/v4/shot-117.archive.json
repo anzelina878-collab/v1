@@ -1,0 +1,16 @@
+{
+  "kind": "actual_archive_video",
+  "source": "us-envg",
+  "source_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+  "source_in": 34,
+  "duration": 7.0,
+  "frames": 210,
+  "fps": 30,
+  "source_width": 1024,
+  "source_height": 576,
+  "archive_audio_removed": true,
+  "credits_burned_in": true,
+  "preparation_sha256": "ea8c3118e224d6dd30fd0407b355f24f817e0ffe8664a1148f6061e1bd5980a0",
+  "sha256": "c373c1cf5be6d24f90b7e5dae17f19afc0adc4c2c646c5f30536663fa72c533e",
+  "rights_basis": "U.S. government public domain footage; no endorsement implied"
+}

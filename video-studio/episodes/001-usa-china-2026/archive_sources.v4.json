@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "sources": {
+    "us-m17-m4": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "us-envg": {
+      "local_file": "us-envg.mp4",
+      "page_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "creator": "Angelo Mejia, U.S. Army",
+      "date": "2020-11-05",
+      "credit": "DVIDS · Angelo Mejia · 2020",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "4c7d3661038bab22e3f3c49f56be0fc341f127539e417e1ef9725579e1f9a373",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108059264/DOD_108059264-1024x576-1769k.mp4"
+    },
+    "us-drone": {
+      "local_file": "us-drone.mp4",
+      "page_url": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "creator": "SSG Margaret Gabriel",
+      "date": "2021",
+      "credit": "DVIDS · Margaret Gabriel · 2021",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "6b97c051d3cda2bb846e529f458f70a1dc367a7c046a94498c251e641be14a45",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108383616/DOD_108383616-1024x576-1769k.mp4"
+    },
+    "us-ihps-msv": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "us-mre": {
+      "local_file": "us-mre.mp4",
+      "page_url": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "creator": "Christopher Coyer, U.S. Army Training Support Center",
+      "date": "2023-05-17",
+      "credit": "DVIDS · Christopher Coyer · 2023",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "8ad0273eb1cf78a7a1a02e0a9beaa284bf0cd0e6576aed5ba78a0852abed821d",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109722820/DOD_109722820.mp4"
+    },
+    "us-m110": {
+      "local_file": "us-m110.mp4",
+      "page_url": "https://www.dvidshub.net/video/929446/m110a1-squad-designated-marksmanship-rifle-range-day-b-roll",
+      "creator": "Delanie Brown, 48th Fighter Wing",
+      "date": "2024-06-28",
+      "credit": "DVIDS · Delanie Brown / USAF · 2024",
+      "rights_basis": "U.S. government public domain footage; illustrates the named M110A1, not the branch affiliation of the personnel",
+      "sha256": "55ae5980310dece951b4f5fa33d88685378cd8999db178cd9851cf24ba3db1ae",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2407/DOD_110419343/DOD_110419343.mp4"
+    },
+    "ngsw": {
+      "local_file": "ngsw-archive.mp4",
+      "page_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "creator": "Joshua Joyner, 101st Airborne Division",
+      "date": "2024-04-15",
+      "credit": "DVIDS · Joshua Joyner · 2024",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "3704a18a354166559a101fd84bb1b3de6375f3fcb8bbe5ef9741df976a996d66",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110242923/DOD_110242923.mp4"
+    },
+    "cn-equipment": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "cn-medical": {
+      "local_file": "cn-medical.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10191444.html",
+      "creator": "PLA / China Military",
+      "date": "2022-10-12",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Short contextual editorial quotations of field medical support for accompanying analysis. Does not identify this hospital equipment as an individual IFAK; no unrestricted stock license asserted.",
+      "sha256": "831b457720eba9b8eb95668c2e70f2f2c893b745d96c2cc94b7020314ca2f20e",
+      "download_url": "http://yspvv.81.cn/video/2022/10/12/9622980388EA4806BDE821FAAD233549.mp4"
+    },
+    "cn-plateau": {
+      "local_file": "cn-plateau.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/16204813.html",
+      "creator": "CGTN / China Military",
+      "date": "2023-03-01",
+      "credit": "Архів · CGTN / China Military · 2023",
+      "rights_basis": "Short contextual editorial quotation illustrating the plateau conditions explicitly discussed. Original source marks retained; no unrestricted stock license asserted.",
+      "sha256": "1c38fc4ea6f54dd03479271aa3b833a7983e612cdb67d397b211e53cb85dc19b",
+      "download_url": "https://eng.chinamil.com.cn/MEDIA/Videos/_attachment/2023/03/01/16204813_9b53d5325069476357a2a5c1f5608d3f.mp4"
+    }
+  }
+}

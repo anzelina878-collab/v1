@@ -1,0 +1,16 @@
+{
+  "kind": "actual_archive_video",
+  "source": "us-m110",
+  "source_url": "https://www.dvidshub.net/video/929446/m110a1-squad-designated-marksmanship-rifle-range-day-b-roll",
+  "source_in": 45,
+  "duration": 5.433333333333334,
+  "frames": 163,
+  "fps": 30,
+  "source_width": 3840,
+  "source_height": 2160,
+  "archive_audio_removed": true,
+  "credits_burned_in": true,
+  "preparation_sha256": "0efdb4248b3be8af7b3fff8380aa33a16ea1c931ac144f37abfdb4b18c7abaa8",
+  "sha256": "dd7e254ec306d40cfbfb0239324a7c4da93a952e29f2603ec96e8e7aaad25288",
+  "rights_basis": "U.S. government public domain footage; illustrates the named M110A1, not the branch affiliation of the personnel"
+}

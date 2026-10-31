@@ -1,0 +1,63 @@
+{
+  "archive_sources": "archive_sources.v4.json",
+  "theme": {
+    "font": "fonts/DejaVuSansCondensed.ttf",
+    "font_bold": "fonts/DejaVuSansCondensed-Bold.ttf",
+    "background": "#F2F3F0"
+  },
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "opening-us-1",
+      "type": "footage",
+      "duration": 2.3,
+      "title": "США",
+      "video": "assets/v4/opening-us-1.mp4",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 871.5,
+        "country": "US"
+      },
+      "callouts": []
+    },
+    {
+      "id": "opening-cn-1",
+      "type": "footage",
+      "duration": 2.3,
+      "title": "КИТАЙ",
+      "video": "assets/v4/opening-cn-1.mp4",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 22,
+        "country": "CN"
+      },
+      "callouts": []
+    },
+    {
+      "id": "opening-us-2",
+      "type": "footage",
+      "duration": 2.2666666666666666,
+      "title": "США",
+      "video": "assets/v4/opening-us-2.mp4",
+      "archive_edit": {
+        "source": "us-envg",
+        "in": 110,
+        "country": "US"
+      },
+      "callouts": []
+    },
+    {
+      "id": "opening-cn-2",
+      "type": "footage",
+      "duration": 2.3,
+      "title": "КИТАЙ",
+      "video": "assets/v4/opening-cn-2.mp4",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 27,
+        "country": "CN"
+      },
+      "callouts": []
+    }
+  ]
+}

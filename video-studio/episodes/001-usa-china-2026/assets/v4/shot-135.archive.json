@@ -1,0 +1,16 @@
+{
+  "kind": "actual_archive_video",
+  "source": "cn-plateau",
+  "source_url": "https://eng.chinamil.com.cn/MEDIA/Videos/16204813.html",
+  "source_in": 13,
+  "duration": 8.8,
+  "frames": 264,
+  "fps": 30,
+  "source_width": 1280,
+  "source_height": 720,
+  "archive_audio_removed": true,
+  "credits_burned_in": true,
+  "preparation_sha256": "669709c8dd29f36d992f11b83765f42b247a48e5b4c41d58407d8cc8d9ce92e7",
+  "sha256": "ffccefe9674adb9aa6ff5d4510482e498a9eec9f11be6aa9a65b986214165a0a",
+  "rights_basis": "Short contextual editorial quotation illustrating the plateau conditions explicitly discussed. Original source marks retained; no unrestricted stock license asserted."
+}

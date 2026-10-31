@@ -324,9 +324,10 @@ class Painter:
         elif kind == "footage":
             if footage is None:
                 d.rectangle((0, 0, W, H), fill=self.color("dark"))
-            self.panel(im, (80, 745, 1370, 940), "dark", radius=5)
-            self.text(im, scene.get("title", ""), (110, 770, 1220, 95), 52, "panel", True)
-            self.text(im, scene.get("subtitle", ""), (110, 874, 1220, 55), 28, "panel")
+            if not scene.get("baked_captions", False):
+                self.panel(im, (80, 745, 1370, 940), "dark", radius=5)
+                self.text(im, scene.get("title", ""), (110, 770, 1220, 95), 52, "panel", True)
+                self.text(im, scene.get("subtitle", ""), (110, 874, 1220, 55), 28, "panel")
         self.common(im, scene, index, absolute)
         # A short clean fade from the editorial background, not a generated transition.
         if kind != "footage" and local < .18:

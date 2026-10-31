@@ -1,0 +1,16 @@
+{
+  "kind": "actual_archive_video",
+  "source": "us-ihps-msv",
+  "source_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+  "source_in": 98,
+  "duration": 6.133333333333334,
+  "frames": 184,
+  "fps": 30,
+  "source_width": 1920,
+  "source_height": 1080,
+  "archive_audio_removed": true,
+  "credits_burned_in": true,
+  "preparation_sha256": "68059bb111e4f277bd79c8f4071fe9b1ec01f7e612f7f379afc3a9d49dabf180",
+  "sha256": "b81c026298408750a62abcfec31842955e3936359a25d66699c4e80ad4fdb309",
+  "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier"
+}

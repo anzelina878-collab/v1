@@ -95,3 +95,15 @@ contain. При loop после конца файл повторяется с н
 ```json
 {"id":"clip","type":"footage","duration":5,"video":"assets/clip.mp4","in":2,"loop":false,"fit":"cover","title":"Пояснення до кадрів","subtitle":"Короткий контекст","source":"Джерело відео: ..."}
 ```
+
+### Готовые архивные подписи
+
+Для `footage` поле `"baked_captions": true` означает, что флаг, название и источник
+уже вмонтированы в исходный видеоклип. Предпросмотр и обычный рендер не добавляют
+повторную большую плашку. `render-fast` сохраняет подготовленные подписи.
+
+`tools/prepare_archive.py EPISODE --library DIRECTORY` готовит фрагменты по
+`archive_edit: {source, in, country}`; источники описываются в JSON, указанном в
+`archive_sources`. Это рецепт монтажного проекта, а не восстановление видео по
+фотографии. `external_media_manifest` задаёт манифест готовых вставок для
+`tools/fetch_episode_media.py`; размер и SHA-256 каждого файла проверяются.

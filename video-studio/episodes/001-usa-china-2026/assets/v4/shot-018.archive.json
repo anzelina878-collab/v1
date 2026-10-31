@@ -1,0 +1,16 @@
+{
+  "kind": "actual_archive_video",
+  "source": "ngsw",
+  "source_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+  "source_in": 2,
+  "duration": 6.566666666666666,
+  "frames": 197,
+  "fps": 30,
+  "source_width": 1920,
+  "source_height": 1080,
+  "archive_audio_removed": true,
+  "credits_burned_in": true,
+  "preparation_sha256": "baf4b3af3a97dd81c53329935b34f7a000db9a4df9e88ba87b8b371860677c9b",
+  "sha256": "6454c633932a323c11f45c0cb5c8f55f93c9d11098487a3f7f51bba112b047b4",
+  "rights_basis": "U.S. government public domain footage; no endorsement implied"
+}

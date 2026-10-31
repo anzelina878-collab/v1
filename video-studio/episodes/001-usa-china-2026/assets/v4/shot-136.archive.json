@@ -1,0 +1,16 @@
+{
+  "kind": "actual_archive_video",
+  "source": "us-m17-m4",
+  "source_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+  "source_in": 620,
+  "duration": 3.466666666666667,
+  "frames": 104,
+  "fps": 30,
+  "source_width": 1920,
+  "source_height": 1080,
+  "archive_audio_removed": true,
+  "credits_burned_in": true,
+  "preparation_sha256": "5139719b54890fc8f03c29adaa185fdc767147989b0c7287b26aacc6bdd92753",
+  "sha256": "82f3a3d9c203e4ecf46ab27dbef2c2f61118d72d554f140db3cf31f563f3da4e",
+  "rights_basis": "U.S. government public domain footage; no endorsement implied"
+}

@@ -1,0 +1,16 @@
+{
+  "kind": "actual_archive_video",
+  "source": "cn-equipment",
+  "source_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+  "source_in": 21,
+  "duration": 7.4,
+  "frames": 222,
+  "fps": 30,
+  "source_width": 1920,
+  "source_height": 1080,
+  "archive_audio_removed": true,
+  "credits_burned_in": true,
+  "preparation_sha256": "a21228fc85e2e3da6a17f9347daf3ef29d92d50cb552bde4df9dd4a48bb4a196",
+  "sha256": "f9f0f6d6664744e916eed893e6848d6b5dcd54637f90af06c0a203a59c9e40b2",
+  "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution."
+}

@@ -1,0 +1,492 @@
+{
+  "version": 1,
+  "description": "Prepared annotated actual-video excerpts for the complete v4 film. Fetch automatically before render.",
+  "files": [
+    {
+      "path": "assets/v4/opening-1.mp4",
+      "sha256": "044dacaedc298d9ceb9a895b573e7ab9e081a8ea7f1cd82c09175fb27b1ab86c",
+      "bytes": 3508125,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/opening-1.mp4"
+    },
+    {
+      "path": "assets/v4/opening-2.mp4",
+      "sha256": "fb2033ad65d6a5afcdd74cfd7116af6c335e3a2be4d50122968c1d38f35abae9",
+      "bytes": 1837682,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/opening-2.mp4"
+    },
+    {
+      "path": "assets/v4/shot-003.mp4",
+      "sha256": "9ccad8b1ae244a2ea3255b0aa02117b56828ee84725f38894492baed004df959",
+      "bytes": 5798865,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-003.mp4"
+    },
+    {
+      "path": "assets/v4/shot-004.mp4",
+      "sha256": "5a14dee01e995aee7b003126263feed6d4020a1f395bd39a15a77fab7bb14489",
+      "bytes": 2837457,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-004.mp4"
+    },
+    {
+      "path": "assets/v4/shot-008.mp4",
+      "sha256": "81ee8bdf339ec8ba7491c5f20ae774b24b91e191ff94c65037155070c6fa45ac",
+      "bytes": 474238,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-008.mp4"
+    },
+    {
+      "path": "assets/v4/shot-009.mp4",
+      "sha256": "0c205a2a98aa3c7e35b3235cbaee2ffb704f43da0f64e3e2f8e097c58463b9a5",
+      "bytes": 373864,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-009.mp4"
+    },
+    {
+      "path": "assets/v4/shot-010.mp4",
+      "sha256": "3cde02aa8a64c39c2fd0180e917b088f0e27776787d67e0a12dfb720d2b14c3e",
+      "bytes": 549328,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-010.mp4"
+    },
+    {
+      "path": "assets/v4/shot-018.mp4",
+      "sha256": "6454c633932a323c11f45c0cb5c8f55f93c9d11098487a3f7f51bba112b047b4",
+      "bytes": 2169724,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-018.mp4"
+    },
+    {
+      "path": "assets/v4/shot-019.mp4",
+      "sha256": "a64c812fd57b6cfefa2419302d9b4148855db91ffd3aaf17a2efc0d62b13c9a7",
+      "bytes": 1712262,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-019.mp4"
+    },
+    {
+      "path": "assets/v4/shot-020-archive.mp4",
+      "sha256": "e1a1248b345c4ab58aa806bb642f58596a00bf1664e65270816aa7860d0b1d2c",
+      "bytes": 1068605,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-020-archive.mp4"
+    },
+    {
+      "path": "assets/v4/shot-020.mp4",
+      "sha256": "da28cbc391c8090da2ef206e485879fa57fe8962fbb34dfe8ef0f09cc998f025",
+      "bytes": 611001,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-020.mp4"
+    },
+    {
+      "path": "assets/v4/shot-023.mp4",
+      "sha256": "bdc75c0ac1120b3fb499fb3b79ab941e76de342c3a0037949de92fc9b1a5f63a",
+      "bytes": 1874555,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-023.mp4"
+    },
+    {
+      "path": "assets/v4/shot-025.mp4",
+      "sha256": "9d2e571b79dbbc9ffae7775c22d02750c68f07fd92597d97a4d6ad39119d38d4",
+      "bytes": 1798255,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-025.mp4"
+    },
+    {
+      "path": "assets/v4/shot-029.mp4",
+      "sha256": "2ba12c12017dbc9d4ad0d47a7d7039f5dfd4d61aea5f3562598dd4183cf74c91",
+      "bytes": 2152528,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-029.mp4"
+    },
+    {
+      "path": "assets/v4/shot-041.mp4",
+      "sha256": "d096fed823c01c5bf7bf5e1c3d8daf7bdbc3b10d0b6c7caaa7b5a7b5e7c1fc93",
+      "bytes": 1736349,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-041.mp4"
+    },
+    {
+      "path": "assets/v4/shot-042.mp4",
+      "sha256": "0c14f2479c81ba01fdee9df16df81d48fdecee50edffea1443155fe4dd91c00d",
+      "bytes": 1172724,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-042.mp4"
+    },
+    {
+      "path": "assets/v4/shot-056-archive.mp4",
+      "sha256": "f0182d4fe347429a43c887e47ae174e693d63fd11b0219e5cd2fcd4f3da548e4",
+      "bytes": 1502092,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-056-archive.mp4"
+    },
+    {
+      "path": "assets/v4/shot-056.mp4",
+      "sha256": "4bef93fe8856ea9592eaa51c8c5279e1421b66ba9c5f0b0060aaff9acfa8586d",
+      "bytes": 1943369,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-056.mp4"
+    },
+    {
+      "path": "assets/v4/shot-064.mp4",
+      "sha256": "896905e9fb3291abfd5dc7be1ea8250d5d4eb5789c54fe3b97c909e76716d709",
+      "bytes": 4785635,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-064.mp4"
+    },
+    {
+      "path": "assets/v4/shot-065.mp4",
+      "sha256": "ca14531147dfe86926e5536a33fe223ce4e6b0ffc7a29a9f03336405e45147b2",
+      "bytes": 3184888,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-065.mp4"
+    },
+    {
+      "path": "assets/v4/shot-066.mp4",
+      "sha256": "6f10c4b048e52f5d82e153afacdffb7798cfbe98d80b7d76328cd5aa2849c403",
+      "bytes": 2590565,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-066.mp4"
+    },
+    {
+      "path": "assets/v4/shot-067.mp4",
+      "sha256": "be762dcfd0b783e241876c2100cc4b44ae12d594508b6a9abe70476961e75434",
+      "bytes": 6587947,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-067.mp4"
+    },
+    {
+      "path": "assets/v4/shot-074.mp4",
+      "sha256": "5b44b4400e8a64051b8dd38187f88d820ef92d7779cd5fedf8de3a53c6d89cd6",
+      "bytes": 6882069,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-074.mp4"
+    },
+    {
+      "path": "assets/v4/shot-075.mp4",
+      "sha256": "dd7e254ec306d40cfbfb0239324a7c4da93a952e29f2603ec96e8e7aaad25288",
+      "bytes": 7429018,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-075.mp4"
+    },
+    {
+      "path": "assets/v4/shot-076.mp4",
+      "sha256": "02729f940872b16fc9528d4f9a48fd25b4f73729a524f7f9d154b51d46f351ba",
+      "bytes": 1986909,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-076.mp4"
+    },
+    {
+      "path": "assets/v4/shot-077.mp4",
+      "sha256": "18b7e491ae602b19dbb9eea0a42c57d65a09e6523eaf523d707bf2ff22e05492",
+      "bytes": 9267806,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-077.mp4"
+    },
+    {
+      "path": "assets/v4/shot-093.mp4",
+      "sha256": "cd7bc7e9ab05999529f4361ec6f58177595bb8d22b1a953d126f2ab834091f89",
+      "bytes": 2521294,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-093.mp4"
+    },
+    {
+      "path": "assets/v4/shot-094.mp4",
+      "sha256": "886ffbacacbf2662a505ebadc9c44dfe67fe38518c1671a528eee50569e9c6f3",
+      "bytes": 2570011,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-094.mp4"
+    },
+    {
+      "path": "assets/v4/shot-095.mp4",
+      "sha256": "8a421b3033777a529ad665b86419f08ebc66d372e34ac0656727dc831696cc58",
+      "bytes": 3509320,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-095.mp4"
+    },
+    {
+      "path": "assets/v4/shot-096.mp4",
+      "sha256": "b7cd5e6adcdfd35ed8e75624bbf7415d4b328bfa625dc10320492426b470feab",
+      "bytes": 2443520,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-096.mp4"
+    },
+    {
+      "path": "assets/v4/shot-097.mp4",
+      "sha256": "50521378757a11c75e7ff5968bc5fcb0ed7a2231631be5a5aca02e7b56320791",
+      "bytes": 7308047,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-097.mp4"
+    },
+    {
+      "path": "assets/v4/shot-098.mp4",
+      "sha256": "39bbddfdffeb8a81400fe147468d0233727a8d5570e96767bc43b91c4222b86c",
+      "bytes": 6604083,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-098.mp4"
+    },
+    {
+      "path": "assets/v4/shot-099.mp4",
+      "sha256": "eae70e949ce931bd723f099c87f2feb83b914264e8ea603ada3803606efa0759",
+      "bytes": 1813240,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-099.mp4"
+    },
+    {
+      "path": "assets/v4/shot-101.mp4",
+      "sha256": "19fbbe275d1f63d822c6cf292736565e58436bd9f75a7faa93a7e626ff45b9dc",
+      "bytes": 2284519,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-101.mp4"
+    },
+    {
+      "path": "assets/v4/shot-102.mp4",
+      "sha256": "d49ebd4a29e6805c0ff0cde8bc62b0d745ab07d2d7b9b09e1b59af38bab2dce7",
+      "bytes": 3488091,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-102.mp4"
+    },
+    {
+      "path": "assets/v4/shot-103.mp4",
+      "sha256": "e6b6497e73741bde48dca1473799c978f115e014e949673f526f2912a65fecee",
+      "bytes": 3973663,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-103.mp4"
+    },
+    {
+      "path": "assets/v4/shot-104.mp4",
+      "sha256": "b81c026298408750a62abcfec31842955e3936359a25d66699c4e80ad4fdb309",
+      "bytes": 5753235,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-104.mp4"
+    },
+    {
+      "path": "assets/v4/shot-105.mp4",
+      "sha256": "a5f711eb151b8e728df244a929f4465934e383a2c87a7a20c61167c6b0f44582",
+      "bytes": 3248864,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-105.mp4"
+    },
+    {
+      "path": "assets/v4/shot-106.mp4",
+      "sha256": "c58c504037b9c5ebbf54044d773ce0e43c6b4d1c9fdb401233861fc565db791e",
+      "bytes": 3739453,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-106.mp4"
+    },
+    {
+      "path": "assets/v4/shot-108.mp4",
+      "sha256": "311290b0e03325ff2a0c46177d109bb197058aed2b0768352707eb48e8c1ccf5",
+      "bytes": 6973579,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-108.mp4"
+    },
+    {
+      "path": "assets/v4/shot-109.mp4",
+      "sha256": "e474f12251e89d3d59fc7c2961ddd26dad554a7b13d76a165fe0f8b4e825f9b3",
+      "bytes": 4579403,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-109.mp4"
+    },
+    {
+      "path": "assets/v4/shot-110.mp4",
+      "sha256": "b471eea863276174287865bd722e68f8e401e370c7466972fd466d9eda0c9fad",
+      "bytes": 1561209,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-110.mp4"
+    },
+    {
+      "path": "assets/v4/shot-111.mp4",
+      "sha256": "380ceb34011744c4733a559da065404be0f8ab3241080fb0d2c1dc4435d394d8",
+      "bytes": 3837840,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-111.mp4"
+    },
+    {
+      "path": "assets/v4/shot-112.mp4",
+      "sha256": "45476c860019f7be6863ecda40d23cb1a49602b9747900bdf21dc8f532d81a0d",
+      "bytes": 3601406,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-112.mp4"
+    },
+    {
+      "path": "assets/v4/shot-113.mp4",
+      "sha256": "93b910a514af3a2d6c059fe9fbb3f7bc3201c10ea72ba4231bbf729508fe883c",
+      "bytes": 5740286,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-113.mp4"
+    },
+    {
+      "path": "assets/v4/shot-115.mp4",
+      "sha256": "257746f948b9d57ef64dedbf48f8ad367db13592c508b0d8c7e78de64bad1904",
+      "bytes": 611056,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-115.mp4"
+    },
+    {
+      "path": "assets/v4/shot-116.mp4",
+      "sha256": "f39bb155ffbc18b1d2e9707a8393361b9195928e8dbdf0b6a1e4d8bdaafe96fa",
+      "bytes": 1601702,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-116.mp4"
+    },
+    {
+      "path": "assets/v4/shot-117.mp4",
+      "sha256": "c373c1cf5be6d24f90b7e5dae17f19afc0adc4c2c646c5f30536663fa72c533e",
+      "bytes": 1472525,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-117.mp4"
+    },
+    {
+      "path": "assets/v4/shot-118.mp4",
+      "sha256": "6e7fd5e8181044bf61c27cceef6616bb4ecc9f5e4a5505c98e8de5c356448cf4",
+      "bytes": 875848,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-118.mp4"
+    },
+    {
+      "path": "assets/v4/shot-119.mp4",
+      "sha256": "6135346c51b2222f092f5b81a7a61909895aedff3bb4f49c7cca6d24466a10d3",
+      "bytes": 1387319,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-119.mp4"
+    },
+    {
+      "path": "assets/v4/shot-120.mp4",
+      "sha256": "d96d7dbc36f5e530c5000fa1fb36467500262d138b8377f8286cf06952f6e4e6",
+      "bytes": 928083,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-120.mp4"
+    },
+    {
+      "path": "assets/v4/shot-121.mp4",
+      "sha256": "25288f52d1fb277839cd1286364b8d4dd7ab7a6c4dc7c66d276a495fb225f1a4",
+      "bytes": 1619857,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-121.mp4"
+    },
+    {
+      "path": "assets/v4/shot-125.mp4",
+      "sha256": "77a9cfcb628e1dcf76873785c708dc269966107ba17b27b2c4c65d8af02e4931",
+      "bytes": 1514780,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-125.mp4"
+    },
+    {
+      "path": "assets/v4/shot-129.mp4",
+      "sha256": "bee268093652b50fb0700abfc297716379032da4ffc12e4cc7977938871830bd",
+      "bytes": 1785694,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-129.mp4"
+    },
+    {
+      "path": "assets/v4/shot-130.mp4",
+      "sha256": "3fafd0d9a7d931184ce23db9c1b4a9b272406027881f747b3eef3746461897e7",
+      "bytes": 767981,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-130.mp4"
+    },
+    {
+      "path": "assets/v4/shot-131.mp4",
+      "sha256": "c438d79d5fa9bb9cdf621095452d98d27444cda4e80eb0099b1de8ab4daaef8e",
+      "bytes": 1019121,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-131.mp4"
+    },
+    {
+      "path": "assets/v4/shot-134.mp4",
+      "sha256": "b0d03ab97ca5f4597cb7fd25cd0a5a13966162f17744afe89713eaa866a0f32b",
+      "bytes": 1397873,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-134.mp4"
+    },
+    {
+      "path": "assets/v4/shot-135.mp4",
+      "sha256": "ffccefe9674adb9aa6ff5d4510482e498a9eec9f11be6aa9a65b986214165a0a",
+      "bytes": 3710103,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-135.mp4"
+    },
+    {
+      "path": "assets/v4/shot-136.mp4",
+      "sha256": "82f3a3d9c203e4ecf46ab27dbef2c2f61118d72d554f140db3cf31f563f3da4e",
+      "bytes": 1859374,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-136.mp4"
+    },
+    {
+      "path": "assets/v4/shot-141.mp4",
+      "sha256": "f9f0f6d6664744e916eed893e6848d6b5dcd54637f90af06c0a203a59c9e40b2",
+      "bytes": 2970701,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-141.mp4"
+    },
+    {
+      "path": "assets/v4/shot-143.mp4",
+      "sha256": "650fbb6c2364c5ca81bd529dc2eb58273dec24d14f7cd6ee533370e8d84b04d4",
+      "bytes": 2843302,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-143.mp4"
+    },
+    {
+      "path": "assets/v4/shot-144.mp4",
+      "sha256": "955e6ffe559278ec001e477216fc2efab8e3c9889be8c3f810ea22cb1294208e",
+      "bytes": 1662853,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-144.mp4"
+    },
+    {
+      "path": "assets/v4/shot-145.mp4",
+      "sha256": "7fb2d0fb25a612c81320ece2026a4c0c7ae9abe682e832681aed9ee7e4899349",
+      "bytes": 1534813,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-145.mp4"
+    },
+    {
+      "path": "assets/v4/shot-150.mp4",
+      "sha256": "e6de3adf0e8ccb967433eec66894f3d515311de7f416eb1be7f55e873fd2180d",
+      "bytes": 3523321,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-150.mp4"
+    },
+    {
+      "path": "assets/v4/shot-151.mp4",
+      "sha256": "60f4d8d5a83c477768fbd0636ead6aaeaaa9c1328bb87e8b3b45840942f97117",
+      "bytes": 3447317,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-151.mp4"
+    },
+    {
+      "path": "assets/v4/shot-152.mp4",
+      "sha256": "eb2d8534a42094ea8a3292efbcb26da6187d9044e92b04929e10f0c531a777cc",
+      "bytes": 1681767,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-152.mp4"
+    },
+    {
+      "path": "assets/v4/shot-153.mp4",
+      "sha256": "774f60ca5b1bee425f4d259b060ead0cbdd6a465545cc88a726ed95e04ada2e7",
+      "bytes": 2228626,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-153.mp4"
+    },
+    {
+      "path": "assets/v4/shot-154.mp4",
+      "sha256": "b16e1c804d7878dbfb01b939ec556a0a1c33450d1f4bbb2dbf8120a21fa0a674",
+      "bytes": 1836973,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-154.mp4"
+    },
+    {
+      "path": "assets/v4/shot-156.mp4",
+      "sha256": "aae7afba8d05248c81b1a5b5c3cea46ce5500f6dc367147e69189aa259be5060",
+      "bytes": 2009231,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-156.mp4"
+    },
+    {
+      "path": "assets/v4/shot-157.mp4",
+      "sha256": "797fd3b4142ff80a11158c330ea87bb39e75f83d9b9f2400aa9ea9500d971bf6",
+      "bytes": 1474427,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-157.mp4"
+    },
+    {
+      "path": "assets/v4/shot-158.mp4",
+      "sha256": "a9171c914eda2422f5be775acfaf89ac269f5f7bcfee7f0ab77e16c1d0a0ee94",
+      "bytes": 1476893,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-158.mp4"
+    },
+    {
+      "path": "assets/v4/shot-159.mp4",
+      "sha256": "41d04c33dd76fe0f5ff2328546ae7b851cb3b4ea625e80bd5c2129eab99f592e",
+      "bytes": 2119791,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-159.mp4"
+    },
+    {
+      "path": "assets/v4/shot-160.mp4",
+      "sha256": "229c21e2b275c51aa359295dc9f24045201fe46e87a8d6c7732f0013ec4f6277",
+      "bytes": 4252242,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-160.mp4"
+    },
+    {
+      "path": "assets/v4/shot-161.mp4",
+      "sha256": "9e30fe20435f2f372c98a4ee3c06ab05d463b5cf5e4d4da4dc302779241d6a95",
+      "bytes": 9066556,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-161.mp4"
+    },
+    {
+      "path": "assets/v4/shot-162.mp4",
+      "sha256": "a1a56fd8d44a9d9dc4906b9eb257cf63758f6e18ea87e1d1356648631e3d6d4d",
+      "bytes": 4925584,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-162.mp4"
+    },
+    {
+      "path": "assets/v4/shot-163.mp4",
+      "sha256": "1d3cf2f4ee13c08cde551d8090f5b5c695c2d091bb71456d0e8eef951c9de2e4",
+      "bytes": 2923149,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-163.mp4"
+    },
+    {
+      "path": "assets/v4/shot-165.mp4",
+      "sha256": "80908852a57bf9effd0f918cec3065cc8494d0cea501aa7363b239773d482337",
+      "bytes": 5900806,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-165.mp4"
+    },
+    {
+      "path": "assets/v4/shot-169.mp4",
+      "sha256": "5c937a818323745eff9737eec8348b06212da0e70d3de248dfd049b6751cd9ed",
+      "bytes": 2258910,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-169.mp4"
+    },
+    {
+      "path": "assets/v4/shot-170.mp4",
+      "sha256": "e0d99b08f0a81adb8d6ba6608832b889fabef38091c655f9bb0e958076f6801a",
+      "bytes": 2337257,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-170.mp4"
+    },
+    {
+      "path": "assets/v4/shot-174.mp4",
+      "sha256": "0c146407a0a3ae5b088ab1612d646988e4374b5bc4720b5edb7e2d1d24752216",
+      "bytes": 6405719,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-174.mp4"
+    },
+    {
+      "path": "assets/v4/shot-175.mp4",
+      "sha256": "08341caa131ee082c4b52abd5ce45a2e8356fd19f6ec968b6b7871449a6d73b0",
+      "bytes": 6253480,
+      "url": "https://github.com/anzelina878-collab/v1/raw/refs/heads/main/video-studio/episodes/001-usa-china-2026/assets/v4/shot-175.mp4"
+    }
+  ]
+}

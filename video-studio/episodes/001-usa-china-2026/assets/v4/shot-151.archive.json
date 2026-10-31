@@ -1,0 +1,16 @@
+{
+  "kind": "actual_archive_video",
+  "source": "us-mre",
+  "source_url": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+  "source_in": 33,
+  "duration": 6.266666666666667,
+  "frames": 188,
+  "fps": 30,
+  "source_width": 3840,
+  "source_height": 2160,
+  "archive_audio_removed": true,
+  "credits_burned_in": true,
+  "preparation_sha256": "d65136f301c5f96193e215923c55f6cf43da5f738a56bd3c96ef3bf43b55b0fc",
+  "sha256": "60f4d8d5a83c477768fbd0636ead6aaeaaa9c1328bb87e8b3b45840942f97117",
+  "rights_basis": "U.S. government public domain footage; no endorsement implied"
+}
