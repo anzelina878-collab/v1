@@ -1,3 +1,4 @@
 Результаты/001-chelovek-bez-litsa/*.mp4 filter=lfs diff=lfs merge=lfs -text
 Результаты/001-chelovek-bez-litsa-v2/*.mp4 filter=lfs diff=lfs merge=lfs -text
 Результаты/001-chelovek-bez-litsa-v3/*.mp4 filter=lfs diff=lfs merge=lfs -text
+video-studio/episodes/001-usa-china-2026/output/opening_v4.mp4 filter=lfs diff=lfs merge=lfs -text
