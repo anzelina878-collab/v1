@@ -12,6 +12,39 @@ def ease(value):
     return 1 - (1-x)**3
 
 
+def star(draw, x, y, radius, fill, rotation=-math.pi/2):
+    points = []
+    for i in range(10):
+        r = radius if i % 2 == 0 else radius*.382
+        a = rotation+i*math.pi/5
+        points.append((x+math.cos(a)*r, y+math.sin(a)*r))
+    draw.polygon(points, fill=fill)
+
+
+def country_flag(image, country, x, y, width=90, height=60):
+    """Vector flags: independent of emoji support and platform fonts."""
+    d = ImageDraw.Draw(image)
+    if country == "US":
+        d.rectangle((x, y, x+width, y+height), fill="white")
+        for row in range(13):
+            if row % 2 == 0:
+                d.rectangle((x, y+row*height/13, x+width, y+(row+1)*height/13), fill="#B22234")
+        cw, ch = width*.4, height*7/13
+        d.rectangle((x, y, x+cw, y+ch), fill="#3C3B6E")
+        for row in range(9):
+            n = 6 if row % 2 == 0 else 5
+            for column in range(n):
+                sx = x+cw*(column+(0.5 if n == 6 else 1))/6
+                star(d, sx, y+ch*(row+.5)/9, height*.025, "white")
+    else:
+        d.rectangle((x, y, x+width, y+height), fill="#DE2910")
+        bx, by = x+width/6, y+height/4
+        star(d, bx, by, height*.15, "#FFDE00")
+        for sx, sy in ((10, 2), (12, 4), (12, 7), (10, 9)):
+            px, py = x+width*sx/30, y+height*sy/20
+            star(d, px, py, height*.05, "#FFDE00", math.atan2(by-py, bx-px))
+
+
 @lru_cache(maxsize=96)
 def font(path, size):
     return ImageFont.truetype(path, size)
@@ -36,6 +69,8 @@ class Painter:
 
     def background(self):
         im = Image.new("RGB", (W, H), self.c["background"])
+        if self.p.get("style") == "minimal":
+            return im
         d = ImageDraw.Draw(im)
         for x in range(0, W, 80):
             d.line((x, 0, x, 760), fill=self.c["grid"], width=1)
@@ -124,6 +159,8 @@ class Painter:
             self.text(im, "ДОДАЙТЕ\nЗОБРАЖЕННЯ", (x+60, y+height/2-60, width-120, 150), 38, "muted", align="center")
 
     def common(self, im, scene, index, time):
+        if self.p.get("style") == "minimal":
+            return
         d = ImageDraw.Draw(im)
         dark = scene["type"] == "footage"
         if dark:
@@ -152,6 +189,29 @@ class Painter:
         im = footage.copy().convert("RGB") if footage is not None else self.bg.copy()
         kind = scene["type"]
         d = ImageDraw.Draw(im)
+        if kind == "studio":
+            # Dedicated minimalist scene. No old brand bar, grid, tables or permanent facts.
+            if footage is None:
+                im = Image.new("RGB", (W, H), self.c["background"])
+                if scene.get("full_bleed") and scene.get("_image"):
+                    im = ImageOps.fit(asset(scene["_image"]).convert("RGB"), (W,H), Image.Resampling.LANCZOS)
+                else:
+                    self.picture(im, scene, (140, 90, 1640, 720), local)
+            if scene.get("_subject_only"):
+                return im
+            if local < scene.get("label_start", 0):
+                return im
+            if scene.get("full_bleed"):
+                panel=Image.new('RGBA',(W,250),(242,243,240,235))
+                im.paste(panel,(0,830),panel)
+            country_flag(im, scene["country"], 90, 855)
+            self.text(im, scene.get("title", ""), (90, 930, 1720, 115), 78, bold=True)
+            for callout in scene.get("callouts", []):
+                if callout["start"] <= local < callout["end"]:
+                    self.tag(im, callout["text"], 1230, 100, 600)
+            if scene.get("show_source"):
+                self.text(im, scene.get("source", ""), (850, 1034, 980, 30), 18, "muted", align="right")
+            return im
         if kind in {"intro", "outro", "section"}:
             self.text(im, scene.get("eyebrow", "ВІЗУАЛЬНИЙ РОЗБІР"), (180, 260, 1560, 60), 28, "blue", True, "center")
             self.text(im, scene.get("title", ""), (180, 370+int(30*(1-ease(local/.6))), 1560, 270), 112 if kind == "section" else 98, bold=True, align="center")
@@ -211,6 +271,18 @@ class Painter:
             nodes = scene["nodes"]
             n = len(nodes)
             step = 1740/n
+            if self.p.get('style') == 'minimal':
+                for j,node in enumerate(nodes):
+                    x=100+j*step
+                    if local >= j*.45:
+                        d.ellipse((x+25,470,x+45,490),fill=self.color('blue'))
+                        self.text(im,node['title'],(x+25,545,step-95,160),46,bold=True)
+                        self.text(im,node.get('detail',''),(x+25,730,step-95,100),28,'muted')
+                    if j<n-1 and local >= (j+1)*.45:
+                        ax=x+step-35
+                        d.line((ax-50,620,ax+5,620),fill=self.color('muted'),width=3)
+                        d.polygon([(ax+10,620),(ax-2,612),(ax-2,628)],fill=self.color('muted'))
+                return im
             for j, node in enumerate(nodes):
                 x = 100+j*step
                 if j < n-1:

@@ -1,0 +1,4 @@
+# Optional CPU mesh turntable backend; Blender is installed separately.
+Pillow>=10.0,<13
+numpy>=1.26,<3
+numba>=0.60,<1

@@ -1,0 +1,2128 @@
+{
+  "version": 1,
+  "episode": "США проти Китаю: що носить солдат у 2026 році?",
+  "status": "production_assets_selected",
+  "assets": [
+    {
+      "id": "M4A1",
+      "kind": "real_photo",
+      "path": "assets/originals/M4A1.png",
+      "source_url": "https://commons.wikimedia.org/wiki/File:PEO_M4_Carbine_RAS_M68_CCO.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/PEO_M4_Carbine_RAS_M68_CCO.png",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "Photo Courtesy of PEO Soldier",
+      "credit": "https://web.archive.org/web/20160530193324/http://www.flickr.com/photos/peosoldier/4639044647/\n\nThis file was derived from:  PEO M4 Carbine RAS M68 CCO.jpg",
+      "description": "M4 carbine with M68 CCO.",
+      "sha256": "773199fb282e825b31c62a8048f80a16eb67899487db8951b3a09fd749cab507",
+      "derivatives": [
+        {
+          "path": "assets/prepared/M4A1.png",
+          "modification": "original_alpha",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-002",
+          "start": 4.6,
+          "end": 9.166667,
+          "narration_quote_asr": "два різні підходи до того, яким має бути спорядження піхотинця.",
+          "visual_purpose": "Two approaches, no claim about specific models"
+        },
+        {
+          "scene": "shot-005",
+          "start": 24.333333333333332,
+          "end": 29.766667,
+          "narration_quote_asr": "На перший погляд вони схожі – автомат, бронежилет, шолом, рюкзак.",
+          "visual_purpose": "Examples of the named equipment categories, not an exhaustive standard kit"
+        },
+        {
+          "scene": "shot-015",
+          "start": 68.16666666666667,
+          "end": 72.3,
+          "narration_quote_asr": "та можливість встановлювати різноманітні приціли і додаткове обладнання.",
+          "visual_purpose": "The optic and accessories on the official M4 photograph"
+        },
+        {
+          "scene": "shot-017",
+          "start": 80.13333333333334,
+          "end": 86.7,
+          "narration_quote_asr": "одну з найбільших програм оновлення стрелецької зброї за останні десятиліття. Так з'явилася гвинтівка",
+          "visual_purpose": "The end of the old-generation context before M7 is named"
+        },
+        {
+          "scene": "shot-022",
+          "start": 107.3,
+          "end": 110.033333,
+          "narration_quote_asr": "30 у М4А1.",
+          "visual_purpose": "M4 capacity at the corresponding spoken number"
+        },
+        {
+          "scene": "shot-036",
+          "start": 181.76666666666668,
+          "end": 187.866667,
+          "narration_quote_asr": "Для американських військових оптичні приціли давно стали звичним елементом спорядження. А нова система",
+          "visual_purpose": "Optic on the established American platform"
+        },
+        {
+          "scene": "shot-105",
+          "start": 596.5333333333333,
+          "end": 601.8,
+          "narration_quote_asr": "Уявімо, що солдат уже отримав автомат, бронежилет, шолом, бойеприпаси,",
+          "visual_purpose": "The named equipment accumulates"
+        },
+        {
+          "scene": "shot-106",
+          "start": 601.8,
+          "end": 607.133333,
+          "narration_quote_asr": "воду, аптечку та засоби зв'язку. Тепер усе це потрібно нести.",
+          "visual_purpose": "The named equipment accumulates"
+        }
+      ]
+    },
+    {
+      "id": "QBZ191",
+      "kind": "real_photo",
+      "path": "assets/originals/QBZ191.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:QBZ191Zhuhai_(cropped).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/QBZ191Zhuhai_%28cropped%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Dan3031949",
+      "credit": "Own work",
+      "description": "​珠海航展的QBZ-191",
+      "sha256": "2bd318da967b64fe23308eeaa15a90c9e4cd4f1cf2011563680cbcf1767e5e6f",
+      "derivatives": [
+        {
+          "path": "assets/prepared/QBZ191.png",
+          "modification": "foreground_segmentation_review_required",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-002",
+          "start": 4.6,
+          "end": 9.166667,
+          "narration_quote_asr": "два різні підходи до того, яким має бути спорядження піхотинця.",
+          "visual_purpose": "Two approaches, no claim about specific models"
+        },
+        {
+          "scene": "shot-006",
+          "start": 29.766666666666666,
+          "end": 34.866667,
+          "narration_quote_asr": "Але варто придивитися до деталей, і різниця стає набагато цікавішою.",
+          "visual_purpose": "Visual comparison of details without announcing future model names"
+        },
+        {
+          "scene": "shot-030",
+          "start": 145.86666666666667,
+          "end": 154.7,
+          "narration_quote_asr": "QBZ-191, гвинтівку з її звичнішим компонуванням, сучасними крепленями та поліпшиною ергономікою.",
+          "visual_purpose": "Actual QBZ-191 photo"
+        },
+        {
+          "scene": "shot-031",
+          "start": 154.7,
+          "end": 160.266667,
+          "narration_quote_asr": "При цьому китай зберіг власний набій калібру 5,8 мм.",
+          "visual_purpose": "China retains its 5.8 mm cartridge"
+        },
+        {
+          "scene": "shot-032",
+          "start": 160.26666666666668,
+          "end": 166.633333,
+          "narration_quote_asr": "І ось перша цікава відмінність. Сполучені штати змінюють не лише зброю, а й сам набій.",
+          "visual_purpose": "The two approaches compared; no scaled size claim"
+        },
+        {
+          "scene": "shot-033",
+          "start": 166.63333333333333,
+          "end": 172.533333,
+          "narration_quote_asr": "Китай на сам перед модернізує платформу, зберігаючи вже наявний стандарт боєприпасів.",
+          "visual_purpose": "The two approaches compared; no scaled size claim"
+        },
+        {
+          "scene": "shot-034",
+          "start": 172.53333333333333,
+          "end": 177.333333,
+          "narration_quote_asr": "Обидві країни оновлюють піхоту, але роблять це по-різному.",
+          "visual_purpose": "The two approaches compared; no scaled size claim"
+        },
+        {
+          "scene": "shot-045",
+          "start": 238.63333333333333,
+          "end": 248.166667,
+          "narration_quote_asr": "Тому в цій категорії ми можемо впевнено порівнювати технології, але не можемо чесно порахувати, скільки таких прицілів припадає на кожну армію.",
+          "visual_purpose": "Technical comparison without fabricated availability figures"
+        },
+        {
+          "scene": "shot-081",
+          "start": 438.46666666666664,
+          "end": 445.466667,
+          "narration_quote_asr": "І тут знову помітна спільна тенденція. Зброя різних спеціалізацій, де далі частіше використовує споріднені",
+          "visual_purpose": "Family resemblance shown with the correctly identified two Chinese platforms"
+        },
+        {
+          "scene": "shot-082",
+          "start": 445.46666666666664,
+          "end": 454.266667,
+          "narration_quote_asr": "конструктивні рішення, сучасну оптику та уніфіковані елементи. Це спрощує частину питань, обслуговування і підготовки.",
+          "visual_purpose": "Family resemblance shown with the correctly identified two Chinese platforms"
+        },
+        {
+          "scene": "shot-166",
+          "start": 979.5333333333333,
+          "end": 986.233333,
+          "narration_quote_asr": "Отже, що ми побачили? На перший повряд, американські і китайські піхотинці мають дуже схоже спорядження.",
+          "visual_purpose": "Return to the initial comparison, no new claims"
+        },
+        {
+          "scene": "shot-167",
+          "start": 986.2333333333333,
+          "end": 993.733333,
+          "narration_quote_asr": "Сучасні автомати, оптичні приціли, брони захист, засоби зв'язку та доступ до безпілотних технологій.",
+          "visual_purpose": "Return to the initial comparison, no new claims"
+        },
+        {
+          "scene": "shot-170",
+          "start": 1005.1333333333333,
+          "end": 1012.9,
+          "narration_quote_asr": "Китай поступово модернізує величезні збройні сили, поєдноючи власні розробки з уже наявними стандартами озброєння.",
+          "visual_purpose": "Chinese generation transition"
+        }
+      ]
+    },
+    {
+      "id": "US_TRAINING",
+      "kind": "real_photo",
+      "path": "assets/originals/US_TRAINING.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:USAMU_Trains_Soldiers_on_M7_Rifle_01.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/USAMU_Trains_Soldiers_on_M7_Rifle_01.jpg/1920px-USAMU_Trains_Soldiers_on_M7_Rifle_01.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "Lt. Col. Michelle Lunato",
+      "description": "Sgt. 1st Class Justin Bainbridge, an instructor with the U.S. Army Marksmanship Unit, provides familiarization training on the M7 Rifle to Capt. Mary Taylor, commander for Headquarters and Headquarters Detachment of the U.S. Army Marksmanship Unit. Bainbridge is the team chief for the USAMU’s Instructor Training Group, which provides customizable marksmanship training to units across the force as mobile training teams.The USAMU ITG plays a critical role in ensuring Soldiers are ready to employ the NGSW with confidence and precision when they provide detailed training to fielding units.",
+      "sha256": "842907d30f6b75f73ad3f3a212ed6adc762214fae7bf2124452d709b01d4fb0a",
+      "derivatives": [
+        {
+          "path": "assets/prepared/US_TRAINING.png",
+          "modification": "resize_only",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-003",
+          "start": 9.166666666666666,
+          "end": 16.533333,
+          "narration_quote_asr": "Один служить в армії з получених штатів, яка десятиліттями вдосконалювала своє оснащення під час операції за кордоном.",
+          "visual_purpose": "Contemporary US training context, not presented as Iraq/Afghanistan footage"
+        },
+        {
+          "scene": "shot-019",
+          "start": 93.26666666666667,
+          "end": 99.633333,
+          "narration_quote_asr": "Він створений для підвищення ефективності стрелецької зброї, зокрема проти сучасних засобів захисту.",
+          "visual_purpose": "M7 in a real US training photograph, not a penetration test"
+        },
+        {
+          "scene": "shot-160",
+          "start": 933.1,
+          "end": 939.1,
+          "narration_quote_asr": "Ми порівняли автомати, приціли, бронежилети, аптечки та беспілотники.",
+          "visual_purpose": "People matter more than a list of hardware"
+        },
+        {
+          "scene": "shot-161",
+          "start": 939.1,
+          "end": 946.933333,
+          "narration_quote_asr": "Але все це має одну спільну рису. Спорядження саме по собі невиконує завдання. Його використовує людина.",
+          "visual_purpose": "People matter more than a list of hardware"
+        },
+        {
+          "scene": "shot-162",
+          "start": 946.9333333333333,
+          "end": 954.3,
+          "narration_quote_asr": "Американська армія комплектується на добровільній основі та має систему базової і спеціалізованої підготовки.",
+          "visual_purpose": "US training, actual US training photograph"
+        }
+      ]
+    },
+    {
+      "id": "CHINA_TRAINING",
+      "kind": "real_photo",
+      "path": "assets/originals/CHINA_TRAINING.png",
+      "source_url": "https://commons.wikimedia.org/wiki/File:PLA-TACSHOOTER2021.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/PLA-TACSHOOTER2021.png/1280px-PLA-TACSHOOTER2021.png",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "creator": "mil.ru",
+      "description": "PLA serviceman attending Tactical Shooter contest of 2021 International Army Games. (Cropped from the video published by mil.ru)",
+      "sha256": "0db16ff1d3f8836e37cafc982299b65c0c8333207057c98ec6ce7ea9696749d4",
+      "derivatives": [
+        {
+          "path": "assets/prepared/CHINA_TRAINING.png",
+          "modification": "resized",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-004",
+          "start": 16.533333333333335,
+          "end": 24.333333,
+          "narration_quote_asr": "Інший – у народно-визвольній армії Китаю, яка поступово замінює старі зразки озброєння власними сучасними розробками.",
+          "visual_purpose": "Chinese infantry training context; archival year shown"
+        },
+        {
+          "scene": "shot-096",
+          "start": 540.2666666666667,
+          "end": 548.866667,
+          "narration_quote_asr": "Китайські військові також використовують сучасні композитні шоломи, а новіші моделі мають креплення для додаткового оснащення.",
+          "visual_purpose": "Chinese helmet actually visible in the training photograph"
+        },
+        {
+          "scene": "shot-099",
+          "start": 563.6,
+          "end": 568.933333,
+          "narration_quote_asr": "У Китаї також розвиваються модуні комплекти індивідуального захисту.",
+          "visual_purpose": "Chinese protection photographed in the field, no exact vest model invented"
+        },
+        {
+          "scene": "shot-110",
+          "start": 628.8666666666667,
+          "end": 635.1,
+          "narration_quote_asr": "Китай також використовує модульні системи розміщення обладнання та рюб заки різного призначення.",
+          "visual_purpose": "Chinese vest and pouches actually visible in the training image"
+        },
+        {
+          "scene": "shot-163",
+          "start": 954.3,
+          "end": 961.466667,
+          "narration_quote_asr": "Китай поєднує різні механізми комплектування, зокрема строкову службу та професійний військовий персонал.",
+          "visual_purpose": "Chinese training, actual Chinese training photograph"
+        }
+      ]
+    },
+    {
+      "id": "MSV",
+      "kind": "real_photo",
+      "path": "assets/originals/MSV.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MSV_Kit.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MSV_Kit.jpg/1280px-MSV_Kit.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Lawrence1215",
+      "description": "A typical soldiers combat load on the MSV gen II vest.",
+      "sha256": "2730c2099f30e18a523c30c282724de8b18af6e2b6bd041a3d2af83e89b2e31e",
+      "derivatives": [
+        {
+          "path": "assets/prepared/MSV.png",
+          "modification": "resized",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "path": "assets/prepared/MSV_CUT.png",
+          "modification": "Foreground segmentation; geometry not regenerated",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-005",
+          "start": 24.333333333333332,
+          "end": 29.766667,
+          "narration_quote_asr": "На перший погляд вони схожі – автомат, бронежилет, шолом, рюкзак.",
+          "visual_purpose": "Examples of the named equipment categories, not an exhaustive standard kit"
+        },
+        {
+          "scene": "shot-097",
+          "start": 548.8666666666667,
+          "end": 556.0,
+          "narration_quote_asr": "Схоже ситуація з бронежилетами. У сполучених Штатах Америки використовують модульні системи захисту.",
+          "visual_purpose": "An actual modular US vest with plates/pouches"
+        },
+        {
+          "scene": "shot-098",
+          "start": 556.0,
+          "end": 563.6,
+          "narration_quote_asr": "Залежно від конфігурації вони можуть поєднувати балістичні плити, які захисні елементи та різноманітні підсумки.",
+          "visual_purpose": "An actual modular US vest with plates/pouches"
+        },
+        {
+          "scene": "shot-103",
+          "start": 585.1,
+          "end": 590.4,
+          "narration_quote_asr": "Але рівень захисту залежить від конкретних матеріалів і плит, а не від зовнішнього вигляду.",
+          "visual_purpose": "The script explicitly rejects judging protection by appearance"
+        },
+        {
+          "scene": "shot-104",
+          "start": 590.4,
+          "end": 596.533333,
+          "narration_quote_asr": "Тому визначити, чий бронежилет кращий, лише за фотографію неможливо.",
+          "visual_purpose": "The script explicitly rejects judging protection by appearance"
+        },
+        {
+          "scene": "shot-105",
+          "start": 596.5333333333333,
+          "end": 601.8,
+          "narration_quote_asr": "Уявімо, що солдат уже отримав автомат, бронежилет, шолом, бойеприпаси,",
+          "visual_purpose": "The named equipment accumulates"
+        },
+        {
+          "scene": "shot-106",
+          "start": 601.8,
+          "end": 607.133333,
+          "narration_quote_asr": "воду, аптечку та засоби зв'язку. Тепер усе це потрібно нести.",
+          "visual_purpose": "The named equipment accumulates"
+        },
+        {
+          "scene": "shot-109",
+          "start": 623.4666666666667,
+          "end": 628.866667,
+          "narration_quote_asr": "Американська армія протягом багатьох років шукає способи зменшити цю вагу.",
+          "visual_purpose": "US modular carriage"
+        }
+      ]
+    },
+    {
+      "id": "IHPS",
+      "kind": "real_photo",
+      "path": "assets/originals/IHPS.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IHPS_helmet.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/IHPS_helmet.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "US Army",
+      "credit": "https://www.dla.mil/Portals/104/Documents/TroopSupport/CloTex/2021%20JAPBI/Ballistic%20Helmets.pdf?ver=fiwt_05tLaTfojmK4ZhiDQ%3D%3D",
+      "description": "IHPS (Integrated Head Protection System)",
+      "sha256": "cb812115bc679b2499074af3acf308084646c628b2721989746e4747c699286f",
+      "derivatives": [
+        {
+          "path": "assets/prepared/IHPS.png",
+          "modification": "foreground_segmentation_review_required",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-005",
+          "start": 24.333333333333332,
+          "end": 29.766667,
+          "narration_quote_asr": "На перший погляд вони схожі – автомат, бронежилет, шолом, рюкзак.",
+          "visual_purpose": "Examples of the named equipment categories, not an exhaustive standard kit"
+        },
+        {
+          "scene": "shot-093",
+          "start": 519.4666666666667,
+          "end": 524.6,
+          "narration_quote_asr": "Американська армія використовує сучасні балістичні шоломи, зокрема –",
+          "visual_purpose": "Ballistic helmet context"
+        },
+        {
+          "scene": "shot-094",
+          "start": 524.6,
+          "end": 530.866667,
+          "narration_quote_asr": "Integrated Head Protection System. Його завдання – не тільки забезпечувати захист голови,",
+          "visual_purpose": "Verified IHPS photo, then an attachment concept rather than invented numerical protection"
+        },
+        {
+          "scene": "shot-095",
+          "start": 530.8666666666667,
+          "end": 540.266667,
+          "narration_quote_asr": "шолом також слугує основою для встановлення додаткового обладнання. Приледівнічного бачення, засобів зв'язку та інших компонентів.",
+          "visual_purpose": "Verified IHPS photo, then an attachment concept rather than invented numerical protection"
+        }
+      ]
+    },
+    {
+      "id": "M7",
+      "kind": "real_photo",
+      "path": "assets/originals/M7.png",
+      "source_url": "https://commons.wikimedia.org/wiki/File:M7_Rifle.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/M7_Rifle.png",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "Todd Mozes",
+      "credit": "https://www.army.mil/article/285678/project_manager_soldier_lethality_announces_type_classification_approval_for_next_generation_squad_weapons_ngsw",
+      "description": "The M7 rifle for the U.S. Army",
+      "sha256": "4768dfd19db4e32319aec63c84f9c319d192cc03dc5249e56c6e8a1335770011",
+      "derivatives": [
+        {
+          "path": "assets/prepared/M7.png",
+          "modification": "original_alpha",
+          "license": "Public domain"
+        },
+        {
+          "path": "assets/prepared/M157_DETAIL.png",
+          "modification": "Detail crop of the M157 on the official M7 photograph; no independent different optic substituted",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-006",
+          "start": 29.766666666666666,
+          "end": 34.866667,
+          "narration_quote_asr": "Але варто придивитися до деталей, і різниця стає набагато цікавішою.",
+          "visual_purpose": "Visual comparison of details without announcing future model names"
+        },
+        {
+          "scene": "shot-018",
+          "start": 86.7,
+          "end": 93.266667,
+          "narration_quote_asr": "М7, її головна особливість – новий набій калібру 6,8 мм.",
+          "visual_purpose": "M7 and its spoken new caliber"
+        },
+        {
+          "scene": "shot-020",
+          "start": 99.63333333333334,
+          "end": 105.833333,
+          "narration_quote_asr": "Але є компроміс. Нові набої важчі, а стандартний магазин М7 вміщує",
+          "visual_purpose": "M7 weight and capacity trade-off"
+        },
+        {
+          "scene": "shot-021",
+          "start": 105.83333333333333,
+          "end": 107.3,
+          "narration_quote_asr": "20 патронів замість",
+          "visual_purpose": "M7 magazine capacity at the spoken number"
+        },
+        {
+          "scene": "shot-023",
+          "start": 110.03333333333333,
+          "end": 117.4,
+          "narration_quote_asr": "І це лише частина змін. У 2026 році американці також витують коротший варіант нової зброї",
+          "visual_purpose": "Shorter variant context; do not announce M8 before it is spoken"
+        },
+        {
+          "scene": "shot-032",
+          "start": 160.26666666666668,
+          "end": 166.633333,
+          "narration_quote_asr": "І ось перша цікава відмінність. Сполучені штати змінюють не лише зброю, а й сам набій.",
+          "visual_purpose": "The two approaches compared; no scaled size claim"
+        },
+        {
+          "scene": "shot-033",
+          "start": 166.63333333333333,
+          "end": 172.533333,
+          "narration_quote_asr": "Китай на сам перед модернізує платформу, зберігаючи вже наявний стандарт боєприпасів.",
+          "visual_purpose": "The two approaches compared; no scaled size claim"
+        },
+        {
+          "scene": "shot-034",
+          "start": 172.53333333333333,
+          "end": 177.333333,
+          "narration_quote_asr": "Обидві країни оновлюють піхоту, але роблять це по-різному.",
+          "visual_purpose": "The two approaches compared; no scaled size claim"
+        },
+        {
+          "scene": "shot-037",
+          "start": 187.86666666666667,
+          "end": 190.9,
+          "narration_quote_asr": "М-157 пішла ще далі.",
+          "visual_purpose": "M157 detail cropped from the official M7 photograph"
+        },
+        {
+          "scene": "shot-038",
+          "start": 190.9,
+          "end": 197.966667,
+          "narration_quote_asr": "Вона поєднує оптику зі змінним збільшенням, лазерний деликомір, датчики та електронні засоби розрахунку.",
+          "visual_purpose": "M157 detail cropped from the official M7 photograph"
+        },
+        {
+          "scene": "shot-039",
+          "start": 197.96666666666667,
+          "end": 203.6,
+          "narration_quote_asr": "Фактично, це маленька система керування вогнем встановлена безпосередньо на гвинтівці.",
+          "visual_purpose": "M157 detail cropped from the official M7 photograph"
+        },
+        {
+          "scene": "shot-045",
+          "start": 238.63333333333333,
+          "end": 248.166667,
+          "narration_quote_asr": "Тому в цій категорії ми можемо впевнено порівнювати технології, але не можемо чесно порахувати, скільки таких прицілів припадає на кожну армію.",
+          "visual_purpose": "Technical comparison without fabricated availability figures"
+        },
+        {
+          "scene": "shot-057",
+          "start": 316.7,
+          "end": 323.633333,
+          "narration_quote_asr": "Тобто американська програма модернізації охоплює одразу дві основні системи піхотного зброєння.",
+          "visual_purpose": "The shared US modernization program"
+        },
+        {
+          "scene": "shot-166",
+          "start": 979.5333333333333,
+          "end": 986.233333,
+          "narration_quote_asr": "Отже, що ми побачили? На перший повряд, американські і китайські піхотинці мають дуже схоже спорядження.",
+          "visual_purpose": "Return to the initial comparison, no new claims"
+        },
+        {
+          "scene": "shot-167",
+          "start": 986.2333333333333,
+          "end": 993.733333,
+          "narration_quote_asr": "Сучасні автомати, оптичні приціли, брони захист, засоби зв'язку та доступ до безпілотних технологій.",
+          "visual_purpose": "Return to the initial comparison, no new claims"
+        },
+        {
+          "scene": "shot-168",
+          "start": 993.7333333333333,
+          "end": 997.333333,
+          "narration_quote_asr": "Але за цією схожестю стоять різні підходи.",
+          "visual_purpose": "The US modernization approach"
+        },
+        {
+          "scene": "shot-169",
+          "start": 997.3333333333334,
+          "end": 1005.133333,
+          "narration_quote_asr": "Сполучені штати розвивають нове покоління стрелецької зброї, складну електроніку та інтегровані системи оснащення.",
+          "visual_purpose": "The US modernization approach"
+        },
+        {
+          "scene": "shot-172",
+          "start": 1021.1,
+          "end": 1026.166667,
+          "narration_quote_asr": "Сучасний приціл на виставці ще не означає, що він є у кожного піхотинця,",
+          "visual_purpose": "A real optic photo does not establish universal issue"
+        }
+      ]
+    },
+    {
+      "id": "M4A1_3D",
+      "kind": "real_3d_model",
+      "creator": "nisu",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_url": "https://opengameart.org/content/m4a1-assault-rifle",
+      "path": "assets/models/m4a1/M4A1/M4A1.fbx",
+      "source_archive_sha256": "ed5779ec82718861964227e2aad2a900978ea087081154365d6d86246be62f0d",
+      "derivatives": [
+        {
+          "path": "assets/m4a1-turntable.mp4",
+          "modification": "real geometry yaw, UV texture, studio lighting approximation",
+          "motion_kind": "true_3d"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-007",
+          "start": 34.86666666666667,
+          "end": 40.566667,
+          "narration_quote_asr": "Сьогодні ми порівняємо їхні спорядження предмет за предметом – від основної зброї до",
+          "visual_purpose": "The breadth of the forthcoming equipment comparison"
+        },
+        {
+          "scene": "shot-013",
+          "start": 56.266666666666666,
+          "end": 61.166667,
+          "narration_quote_asr": "Протягом десятиліть одними символів американської армії залишався карабін",
+          "visual_purpose": "Rifle context before the first model-name word"
+        },
+        {
+          "scene": "shot-014",
+          "start": 61.166666666666664,
+          "end": 68.166667,
+          "narration_quote_asr": "М4А1. Компактна конструкція набій калібру 5,56 мм,",
+          "visual_purpose": "Verified M4A1 geometry and spoken 5.56 caliber"
+        },
+        {
+          "scene": "shot-016",
+          "start": 72.3,
+          "end": 80.133333,
+          "narration_quote_asr": "М4А1 пройшов тривалий шлях служби, але у 2020 роках американська армія розпочала",
+          "visual_purpose": "M4A1 history; real geometric turntable"
+        },
+        {
+          "scene": "shot-173",
+          "start": 1026.1666666666667,
+          "end": 1030.3,
+          "narration_quote_asr": "а нова гвинтівка не робить старі моделі непотрібними за один день.",
+          "visual_purpose": "Old models do not disappear immediately"
+        }
+      ]
+    },
+    {
+      "id": "ENVGB",
+      "kind": "real_photo",
+      "path": "assets/originals/ENVGB.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ENVG-B_outfitted_Image_1_of_5.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/ENVG-B_outfitted_Image_1_of_5.jpg/1280px-ENVG-B_outfitted_Image_1_of_5.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "Spc. Pierre Osias",
+      "description": "A Soldier from the 2nd Brigade Combat Team, 10th Mountain Division, is fully outfitted in the L3Harris ENVG-B in preparation to test it out  on Range 22 at Fort Drum, N.Y., Mar. 10, 2022. The ENVG-B is an enhanced night vision  binocular mounted on the advanced combat helmet of a Soldier and provides them with multiple variations of night vision optics. (U.S. Army photo by Spc. Pierre Osias)",
+      "sha256": "12afbb77ed563a766eea99044623f3fefbec26af7e4cdfb261a75b6d941a655a",
+      "derivatives": [
+        {
+          "path": "assets/prepared/ENVGB.png",
+          "modification": "Head-and-shoulders crop so ENVG-B stays visible above the caption; original US Army photo",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-008",
+          "start": 40.56666666666667,
+          "end": 42.166667,
+          "narration_quote_asr": "приладівнічного бачення,",
+          "visual_purpose": "Night vision mentioned in the introduction"
+        },
+        {
+          "scene": "shot-115",
+          "start": 657.5666666666667,
+          "end": 661.866667,
+          "narration_quote_asr": "Одна з найцікавіших категорій – обладнання для роботи в темреві.",
+          "visual_purpose": "Night-vision context before naming ENVG-B"
+        },
+        {
+          "scene": "shot-116",
+          "start": 661.8666666666667,
+          "end": 667.6,
+          "narration_quote_asr": "Американська армія вже давно інвестує в приладинічного бачення. Серед сучасних систем –",
+          "visual_purpose": "Night-vision context before naming ENVG-B"
+        },
+        {
+          "scene": "shot-117",
+          "start": 667.6,
+          "end": 674.6,
+          "narration_quote_asr": "і НВДБ. Це бінокулярний пристрій, який поєднує підсилення зображення та тепловізійні можливості.",
+          "visual_purpose": "Actual soldier with ENVG-B; no substituted civilian device"
+        },
+        {
+          "scene": "shot-118",
+          "start": 674.6,
+          "end": 679.533333,
+          "narration_quote_asr": "Він також може працювати разом з іншими електронними системами солдата.",
+          "visual_purpose": "Actual soldier with ENVG-B; no substituted civilian device"
+        },
+        {
+          "scene": "shot-125",
+          "start": 714.1666666666666,
+          "end": 721.333333,
+          "narration_quote_asr": "Тому ми можемо порівнювати самі технології, але точний масштаб оснащення залишається невідомим.",
+          "visual_purpose": "What the public evidence can and cannot tell us"
+        }
+      ]
+    },
+    {
+      "id": "BLACKHORNET",
+      "kind": "real_photo",
+      "path": "assets/originals/BLACKHORNET.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Black_Hornet_Nano_Helicopter_UAV.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Black_Hornet_Nano_Helicopter_UAV.jpg/1920px-Black_Hornet_Nano_Helicopter_UAV.jpg",
+      "license": "OGL v1.0",
+      "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+      "creator": "Richard Watt",
+      "description": "A Black Hornet nano helicopter unmanned aerial vehicle (UAV).\nThe Black Hornet Nano Unmanned Air Vehicle measures around 4 inches by 1 inch (10cm x 2.5cm) and provides troops on the ground with vital situational awareness.\nThe Black Hornet is equipped with a tiny camera which gives troops reliable full-motion video and still images. Soldiers are using it to peer around corners or over walls and other obstacles to identify any hidden dangers and the images are displayed on a handheld terminal.\n\nObject Name: Army HQ 2013-022-013 1 Mech X media day\nOrganization: ARMY\nSupplemental Categories: Equipment, Aircraft, Remotely Piloted, Black Hornet\nKeywords: Army, Equipment, Aircraft, Unmanned, Unmanned Aerial Vehicle, UAV, RPAS, Remotely, Piloted, Air, System, Nano, Black Hornet, Black, Hornet\nCountry: UK",
+      "sha256": "e665d9a9d69d3f44e4929a4adfd2e1a6e51d4b18dfcde6fb037e8f99637bf74b",
+      "derivatives": [
+        {
+          "path": "assets/prepared/BLACKHORNET.png",
+          "modification": "resize_only",
+          "license": "OGL v1.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-009",
+          "start": 42.166666666666664,
+          "end": 43.833333,
+          "narration_quote_asr": "безпілотників і навіть",
+          "visual_purpose": "Small drone mentioned in the introduction"
+        },
+        {
+          "scene": "shot-153",
+          "start": 881.8666666666667,
+          "end": 890.166667,
+          "narration_quote_asr": "Невеликий беспілотник. Сполучені штати використовують різні розвідувані системи, зокрема надзвичайно компактні апарати сімейства",
+          "visual_purpose": "A small drone before its family name is spoken"
+        },
+        {
+          "scene": "shot-154",
+          "start": 890.1666666666666,
+          "end": 899.766667,
+          "narration_quote_asr": "Black Hornet. Їхня ідея проста – отримувати зображені місцевості без необхідності особисто наближатися до кожної точки спостереження.",
+          "visual_purpose": "The verified Black Hornet image; no invented size/performance"
+        },
+        {
+          "scene": "shot-158",
+          "start": 919.3333333333334,
+          "end": 924.566667,
+          "narration_quote_asr": "Тому порівняння тільки за розміром або тривалістю полету не дає повної картини.",
+          "visual_purpose": "Performance figures alone are insufficient"
+        },
+        {
+          "scene": "shot-159",
+          "start": 924.5666666666667,
+          "end": 933.1,
+          "narration_quote_asr": "Саме ця категорія змінюється настільки швидко, що навіть дані кілька річної дамності можуть вже не відображати поточну ситуацію.",
+          "visual_purpose": "Performance figures alone are insufficient"
+        }
+      ]
+    },
+    {
+      "id": "MRE",
+      "kind": "real_photo",
+      "path": "assets/originals/MRE.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MRE_7862.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/MRE_7862.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Ashley Pomeroy",
+      "credit": "Own work",
+      "description": "A pair of MREs.",
+      "sha256": "6e80a5257c38437376659f27ff4ca2454597566a184221315fb7ccfb5337f1f8",
+      "derivatives": [
+        {
+          "path": "assets/prepared/MRE.png",
+          "modification": "resize_only",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-010",
+          "start": 43.833333333333336,
+          "end": 44.866667,
+          "narration_quote_asr": "їжі.",
+          "visual_purpose": "Field food mentioned in the introduction"
+        },
+        {
+          "scene": "shot-144",
+          "start": 829.4,
+          "end": 832.5,
+          "narration_quote_asr": "Американські військові використовують індивідуальні раціони",
+          "visual_purpose": "Ration before its family name is spoken"
+        },
+        {
+          "scene": "shot-145",
+          "start": 832.5,
+          "end": 835.566667,
+          "narration_quote_asr": "MRI – MIL Ready To Eat.",
+          "visual_purpose": "Actual MRE packages"
+        },
+        {
+          "scene": "shot-150",
+          "start": 861.1666666666666,
+          "end": 868.666667,
+          "narration_quote_asr": "Головне – забезпечити солдата достатньою кількістю енергії та їжію, яку можна споживати в полювих умовах.",
+          "visual_purpose": "The practical purpose of food and taste differences"
+        },
+        {
+          "scene": "shot-151",
+          "start": 868.6666666666666,
+          "end": 874.933333,
+          "narration_quote_asr": "І, звичайно, навіть найсучасніший сухпайок не гарантує, що він усім сподобається.",
+          "visual_purpose": "The practical purpose of food and taste differences"
+        }
+      ]
+    },
+    {
+      "id": "ORIGINAL_DIAGRAM",
+      "kind": "original_motion_graphics",
+      "creator": "Video Studio",
+      "license": "MIT project code",
+      "source_url": null,
+      "path": "../../studio/visuals.py",
+      "note": "Qualitative concepts from the supplied narration; no invented numerical measurements",
+      "usage": [
+        {
+          "scene": "shot-011",
+          "start": 44.86666666666667,
+          "end": 51.033333,
+          "narration_quote_asr": "І головне – спробуємо зрозуміти, що насправді відрізняє цих двох солдатів.",
+          "visual_purpose": "The film asks about systems rather than declaring a winner"
+        },
+        {
+          "scene": "shot-040",
+          "start": 203.6,
+          "end": 211.0,
+          "narration_quote_asr": "Звучить вражаюче, але складніше електроніка також означає додаткову вагу, живлення та потребу в навчанні.",
+          "visual_purpose": "Electronic capabilities have practical support needs"
+        },
+        {
+          "scene": "shot-043",
+          "start": 224.53333333333333,
+          "end": 232.0,
+          "narration_quote_asr": "Проте тут є важлива деталь – наявність сучасного прицілу на фотографії не означає, що ним оснащений кожен солдат.",
+          "visual_purpose": "A photographed system is not proof of distribution"
+        },
+        {
+          "scene": "shot-044",
+          "start": 232.0,
+          "end": 238.633333,
+          "narration_quote_asr": "Точний масштаб поширення нових систем у китайській армії з відкритих джерел визначити складно.",
+          "visual_purpose": "A photographed system is not proof of distribution"
+        },
+        {
+          "scene": "shot-048",
+          "start": 264.2,
+          "end": 269.266667,
+          "narration_quote_asr": "Китай має власні розробки, зокрема, 35-мм гранатомети.",
+          "visual_purpose": "Chinese category shown as a caliber comparison, not a mislabeled M320"
+        },
+        {
+          "scene": "shot-049",
+          "start": 269.26666666666665,
+          "end": 275.933333,
+          "narration_quote_asr": "Цікаво, що обидві країни експериментували зі складнішими системами, які поєднують стрілетську зброю та",
+          "visual_purpose": "Program complexity is not the same as mass adoption"
+        },
+        {
+          "scene": "shot-050",
+          "start": 275.93333333333334,
+          "end": 280.433333,
+          "narration_quote_asr": "електроніку, проте не кожен перспективний проект стає масовим.",
+          "visual_purpose": "Program complexity is not the same as mass adoption"
+        },
+        {
+          "scene": "shot-051",
+          "start": 280.43333333333334,
+          "end": 287.0,
+          "narration_quote_asr": "Історія сучасного зброєння показує – найскладніша конструкція не завжди виявляється найпрактичнішою.",
+          "visual_purpose": "Program complexity is not the same as mass adoption"
+        },
+        {
+          "scene": "shot-060",
+          "start": 336.6666666666667,
+          "end": 341.6,
+          "narration_quote_asr": "QJS-161 зі стрічковим живленням.",
+          "visual_purpose": "No licensed verified QJS-161 picture found: a clearly typographic feed concept, not a fake weapon"
+        },
+        {
+          "scene": "shot-061",
+          "start": 341.6,
+          "end": 345.366667,
+          "narration_quote_asr": "Це показує, як змінюються вимоги до піхотного підрозділу.",
+          "visual_purpose": "Effectiveness depends on a system, not isolated headline figures"
+        },
+        {
+          "scene": "shot-062",
+          "start": 345.3666666666667,
+          "end": 351.6,
+          "narration_quote_asr": "Але сам по собі калібр або маса кулемета ще не визначають його реальної ефективності.",
+          "visual_purpose": "Effectiveness depends on a system, not isolated headline figures"
+        },
+        {
+          "scene": "shot-063",
+          "start": 351.6,
+          "end": 357.533333,
+          "narration_quote_asr": "Важливі надійність, боеприпаси, підготовка стрільця та взаємодія всього підрозділу.",
+          "visual_purpose": "Effectiveness depends on a system, not isolated headline figures"
+        },
+        {
+          "scene": "shot-089",
+          "start": 488.0,
+          "end": 494.433333,
+          "narration_quote_asr": "Але порівнювати такі системи лише за рекламованою дальністю або заявленими можливостями неправильно.",
+          "visual_purpose": "No unsupported range or penetration numbers"
+        },
+        {
+          "scene": "shot-090",
+          "start": 494.43333333333334,
+          "end": 504.0,
+          "narration_quote_asr": "Реальні результати залежать від багатьох умов, а значна частина характеристик сучасних комплексів непідверджена незалежними відкритими випробованями.",
+          "visual_purpose": "No unsupported range or penetration numbers"
+        },
+        {
+          "scene": "shot-100",
+          "start": 568.9333333333333,
+          "end": 573.133333,
+          "narration_quote_asr": "І тут цікаво те, наскільки схожими стали загані принципи.",
+          "visual_purpose": "Protection must work with the rest of the equipment"
+        },
+        {
+          "scene": "shot-101",
+          "start": 573.1333333333333,
+          "end": 577.1,
+          "narration_quote_asr": "Сучасний бронежилет – це не просто важка захисна конструкція.",
+          "visual_purpose": "Protection must work with the rest of the equipment"
+        },
+        {
+          "scene": "shot-102",
+          "start": 577.1,
+          "end": 585.1,
+          "narration_quote_asr": "Це система, яку потрібно поєднати зі зброю, засобами зв'язку, бойеприпасами та іншими предметами спорядження.",
+          "visual_purpose": "Protection must work with the rest of the equipment"
+        },
+        {
+          "scene": "shot-107",
+          "start": 607.1333333333333,
+          "end": 614.9,
+          "narration_quote_asr": "І саме тут виникає проблема, спільна для багатьох сучасних армій. Кожне нове обладнання може бути корисним окремо,",
+          "visual_purpose": "The total load is qualitative; no invented kilograms"
+        },
+        {
+          "scene": "shot-108",
+          "start": 614.9,
+          "end": 623.466667,
+          "narration_quote_asr": "але разом воно створює значне навантаження. Залежно від завдання, повний комплекс спорядження може важити десятки кілограмів.",
+          "visual_purpose": "The total load is qualitative; no invented kilograms"
+        },
+        {
+          "scene": "shot-111",
+          "start": 635.1,
+          "end": 641.033333,
+          "narration_quote_asr": "Однак універсального рішення немає. Лекший комплект означає більшу рухливість,",
+          "visual_purpose": "Mobility trade-off"
+        },
+        {
+          "scene": "shot-112",
+          "start": 641.0333333333333,
+          "end": 646.1,
+          "narration_quote_asr": "але іноді потребує відмови від частини захисту або додаткових запасів.",
+          "visual_purpose": "Mobility trade-off"
+        },
+        {
+          "scene": "shot-113",
+          "start": 646.1,
+          "end": 653.0,
+          "narration_quote_asr": "А ваший комплект може забезпечувати більше можливостей ціною фізичного навантаження.",
+          "visual_purpose": "Capability versus physical load"
+        },
+        {
+          "scene": "shot-114",
+          "start": 653.0,
+          "end": 657.566667,
+          "narration_quote_asr": "Це компроміс, із яким стикаються обидві армії.",
+          "visual_purpose": "Capability versus physical load"
+        },
+        {
+          "scene": "shot-120",
+          "start": 687.8,
+          "end": 692.8,
+          "narration_quote_asr": "Китай також виробляє власні приладинічного бачення та тепловізійні системи.",
+          "visual_purpose": "Chinese technology category; no unsupported depiction of a specific NV model"
+        },
+        {
+          "scene": "shot-121",
+          "start": 692.8,
+          "end": 698.266667,
+          "narration_quote_asr": "На офіційних кадрах китайських навчань можна побачити військових із таким обладнанням.",
+          "visual_purpose": "Chinese technology category; no unsupported depiction of a specific NV model"
+        },
+        {
+          "scene": "shot-122",
+          "start": 698.2666666666667,
+          "end": 702.7,
+          "narration_quote_asr": "Але наскільки масово воно використовується, це питання залишається відкритим.",
+          "visual_purpose": "Availability is unknown: never invent a distribution percentage"
+        },
+        {
+          "scene": "shot-123",
+          "start": 702.7,
+          "end": 709.8,
+          "narration_quote_asr": "У випадку з получених штатів є досить докладна інформація про окремі програми закупівель і постачання.",
+          "visual_purpose": "Availability is unknown: never invent a distribution percentage"
+        },
+        {
+          "scene": "shot-124",
+          "start": 709.8,
+          "end": 714.166667,
+          "narration_quote_asr": "Щодо Китаю, подібні відомості часто значно менш доступні.",
+          "visual_purpose": "Availability is unknown: never invent a distribution percentage"
+        },
+        {
+          "scene": "shot-129",
+          "start": 743.6,
+          "end": 750.266667,
+          "narration_quote_asr": "Китайська армія також проділяє увагу індивідуальним медичним комплектам і підготовці військовослужбовців.",
+          "visual_purpose": "Chinese medical support discussed as a system, not a mislabeled US kit"
+        },
+        {
+          "scene": "shot-130",
+          "start": 750.2666666666667,
+          "end": 755.466667,
+          "narration_quote_asr": "Але сам факт на явності аптечки ще не означає однакового рівня медичного забезпечення.",
+          "visual_purpose": "Medical outcomes depend on more than a pouch"
+        },
+        {
+          "scene": "shot-131",
+          "start": 755.4666666666667,
+          "end": 762.0,
+          "narration_quote_asr": "Важливі якість матеріалів, підготовка людей і вся система подальшої медичної допомоги.",
+          "visual_purpose": "Medical outcomes depend on more than a pouch"
+        },
+        {
+          "scene": "shot-132",
+          "start": 762.0,
+          "end": 766.633333,
+          "narration_quote_asr": "І це одна з категорій, де зовнішні вивлят спорядження говорить найменше.",
+          "visual_purpose": "Medical outcomes depend on more than a pouch"
+        },
+        {
+          "scene": "shot-133",
+          "start": 766.6333333333333,
+          "end": 771.4,
+          "narration_quote_asr": "Сполучені штати та Китай мають дуже різні географічні умови.",
+          "visual_purpose": "Climates mentioned in the narration, no made-up temperatures"
+        },
+        {
+          "scene": "shot-134",
+          "start": 771.4,
+          "end": 777.233333,
+          "narration_quote_asr": "Американські військові можуть проходити службу в пустелях, горах, лісах і холодних регіонах.",
+          "visual_purpose": "Climates mentioned in the narration, no made-up temperatures"
+        },
+        {
+          "scene": "shot-135",
+          "start": 777.2333333333333,
+          "end": 786.033333,
+          "narration_quote_asr": "Китайська армія також готується до широкого діапазону кліматичних умов. Від вологих південих районів до Високогір'я та Суворих Зим.",
+          "visual_purpose": "Climates mentioned in the narration, no made-up temperatures"
+        },
+        {
+          "scene": "shot-141",
+          "start": 808.0333333333333,
+          "end": 815.433333,
+          "narration_quote_asr": "Неменш важливі захист від холоду, вологи, перегрівання та можливість носити форму разом із бронезахистом.",
+          "visual_purpose": "Clothing must match environment, no universal winner"
+        },
+        {
+          "scene": "shot-142",
+          "start": 815.4333333333333,
+          "end": 823.366667,
+          "narration_quote_asr": "У цій категорії неможливо назвати універсального перемушця. Спорядження має відповідати конкретному середовищу.",
+          "visual_purpose": "Clothing must match environment, no universal winner"
+        },
+        {
+          "scene": "shot-155",
+          "start": 899.7666666666667,
+          "end": 908.5,
+          "narration_quote_asr": "Китай – один із найбільших світових центрів робництва беспілотних технологій. Його військові також використовують різні малі розвідувальні апарати.",
+          "visual_purpose": "Chinese small-drone ecosystem rather than showing a US drone as Chinese"
+        },
+        {
+          "scene": "shot-156",
+          "start": 908.5,
+          "end": 913.8,
+          "narration_quote_asr": "Але тут є важлива особливість. Беспілотник – це не лише літальний апарат.",
+          "visual_purpose": "The complete system around the airframe"
+        },
+        {
+          "scene": "shot-157",
+          "start": 913.8,
+          "end": 919.333333,
+          "narration_quote_asr": "Це ще й система зв'язку, живлення, підготовки операторів та обробки інформації.",
+          "visual_purpose": "The complete system around the airframe"
+        },
+        {
+          "scene": "shot-164",
+          "start": 961.4666666666667,
+          "end": 971.0,
+          "narration_quote_asr": "Тривалість із місць навчання залежить від спеціальності та підрозділу. Тому порівнювати якість підготовки лише за кількістю тижню було помилкою.",
+          "visual_purpose": "No misleading week-count chart"
+        },
+        {
+          "scene": "shot-165",
+          "start": 971.0,
+          "end": 979.533333,
+          "narration_quote_asr": "Важливі – досвід інструкторів, регулярність навчань, складність завдань і здатність підрозділу дійти, які єдина система.",
+          "visual_purpose": "The factors actually named by the narrator"
+        },
+        {
+          "scene": "shot-171",
+          "start": 1012.9,
+          "end": 1021.1,
+          "narration_quote_asr": "І найважливіше – не варто плутати можливості найновіше озраска з реальним оснащенням усієї армії.",
+          "visual_purpose": "New model capabilities are not universal availability"
+        },
+        {
+          "scene": "shot-174",
+          "start": 1030.3,
+          "end": 1035.966667,
+          "narration_quote_asr": "Тому справжня різниця між арміями полягає не лише в характеристиках окремих предметів.",
+          "visual_purpose": "Production, logistics and training are the concluding thesis"
+        },
+        {
+          "scene": "shot-175",
+          "start": 1035.9666666666667,
+          "end": 1044.633333,
+          "narration_quote_asr": "Вона також у масштабах виробництва, логістиці, підготовці та здатності забезпечувати військових необхідним спорядженням.",
+          "visual_purpose": "Production, logistics and training are the concluding thesis"
+        },
+        {
+          "scene": "shot-176",
+          "start": 1044.6333333333334,
+          "end": 1052.7,
+          "narration_quote_asr": "А як ви вважаєте, що сьогодні важливіше для сучасного солдата? Потужніша зброя, кращий захист чи електроніка?",
+          "visual_purpose": "The actual audience question"
+        }
+      ]
+    },
+    {
+      "id": "M8",
+      "kind": "real_photo",
+      "path": "assets/originals/M8.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:M8_carbine_with_suppressor.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/M8_carbine_with_suppressor.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "US Army",
+      "credit": "Photo: https://paemaneuverground.army.mil/News/Article-Display/Article/4451814/us-army-announces-xm8-carbine-delivery-order/ Info: https://www.army.mil/article/291602/us_army_accepts_first_delivery_of_xm8_carbine",
+      "description": "The U.S. Army announced on April 3 of 2026 it has accepted the first delivery from Sig Sauer of the XM8 Carbine, a new, lightweight variant of the M7 Rifle.",
+      "sha256": "261620803027c43e00bc6ba6e226f7d64b85017c7aa0c8716a9a1b66f79e30ed",
+      "derivatives": [
+        {
+          "path": "assets/prepared/M8.png",
+          "modification": "connected_neutral_background_removal",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-024",
+          "start": 117.4,
+          "end": 118.866667,
+          "narration_quote_asr": "М8.",
+          "visual_purpose": "Actual new M8 image; not the unrelated HK XM8"
+        }
+      ]
+    },
+    {
+      "id": "CHINA_QBZ",
+      "kind": "real_photo",
+      "path": "assets/originals/CHINA_QBZ.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:PLASHOOTER2021%CC%A0closeup02.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/PLASHOOTER2021%CC%A0closeup02.jpg/1920px-PLASHOOTER2021%CC%A0closeup02.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "creator": "mil.ru",
+      "description": "​正在参加国际军事比赛2021战术射击项目的中国人民解放军陆军军人（截取自俄罗斯国防部所发布的比赛视频）",
+      "sha256": "be955f86f4d47eeec5a8b0d5ea3219c6e2ff09a854b54f3432adefcda3129df7",
+      "derivatives": [
+        {
+          "path": "assets/prepared/CHINA_QBZ.png",
+          "modification": "resize_only",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-025",
+          "start": 118.86666666666666,
+          "end": 123.566667,
+          "narration_quote_asr": "Тепер Китай. Довгий час характерною зброю китайського солдата був",
+          "visual_purpose": "Chinese rifle introduction before the name"
+        },
+        {
+          "scene": "shot-041",
+          "start": 211.0,
+          "end": 217.666667,
+          "narration_quote_asr": "Китайська QBZ-191 також створена з урахуванням використання сучасної оптики.",
+          "visual_purpose": "A verified Chinese training photo with an optic; no universal issue claim"
+        },
+        {
+          "scene": "shot-042",
+          "start": 217.66666666666666,
+          "end": 224.533333,
+          "narration_quote_asr": "На ній можна побачити компактні оптичні приціли, а також обладнання для роботи в умовах обмеженої видимості.",
+          "visual_purpose": "A verified Chinese training photo with an optic; no universal issue claim"
+        }
+      ]
+    },
+    {
+      "id": "QBZ95",
+      "kind": "real_photo",
+      "path": "assets/originals/QBZ95.png",
+      "source_url": "https://commons.wikimedia.org/wiki/File:QBZ95_automatic_rifle_mod_noBG.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/QBZ95_automatic_rifle_mod_noBG.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "https://commons.wikimedia.org/wiki/User:Tyg728",
+      "credit": "https://commons.wikimedia.org/wiki/File:QBZ95_automatic_rifle_20170902.jpg",
+      "description": "QBZ95 automatic rifle (\"Type 95\")",
+      "sha256": "c0cbbd80f4a9eeef7c91a8211c3170cb54e1401e0b579204657e0495c499a3fe",
+      "derivatives": [
+        {
+          "path": "assets/prepared/QBZ95.png",
+          "modification": "original_alpha",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-026",
+          "start": 123.56666666666666,
+          "end": 128.4,
+          "narration_quote_asr": "QBZ-95. Його легко впізнати за незвичною формою.",
+          "visual_purpose": "QBZ-95 identity and form"
+        },
+        {
+          "scene": "shot-027",
+          "start": 128.4,
+          "end": 134.2,
+          "narration_quote_asr": "Магазин, розташований позад руків'я, а не перед ним. Так у схему називають «бул-пап».",
+          "visual_purpose": "The magazine behind the grip visible in the real photo"
+        },
+        {
+          "scene": "shot-028",
+          "start": 134.2,
+          "end": 139.566667,
+          "narration_quote_asr": "Вона дозволяє зберегти відносну довгий ствол за компактною загальною довжини зброї.",
+          "visual_purpose": "Bullpup packaging, no invented dimensions"
+        },
+        {
+          "scene": "shot-029",
+          "start": 139.56666666666666,
+          "end": 145.866667,
+          "narration_quote_asr": "Але китайська армія вирішила змінити підхід. У 2019 році вона представила",
+          "visual_purpose": "Change of platform, without prematurely naming its successor"
+        },
+        {
+          "scene": "shot-170",
+          "start": 1005.1333333333333,
+          "end": 1012.9,
+          "narration_quote_asr": "Китай поступово модернізує величезні збройні сили, поєдноючи власні розробки з уже наявними стандартами озброєння.",
+          "visual_purpose": "Chinese generation transition"
+        }
+      ]
+    },
+    {
+      "id": "M320",
+      "kind": "real_photo",
+      "path": "assets/originals/M320.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:PEO_M320_Grenade_Launcher.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/PEO_M320_Grenade_Launcher.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "Photo Courtesy of PEO Soldier",
+      "credit": "https://www.flickr.com/photos/peosoldier/3758687841/in/set-72157621946887368/",
+      "description": "M320 40mm Grenade Launcher Module\nThe M320, a 40mm grenade launcher, is the replacement to all M203 series of\ngrenade launchers on M16 Rifles and M4 Carbines. An interoperable system, it\nattaches under the barrel of the rifle or carbine and can convert to a stand-alone\nweapon.\nThe integral day/night sighting system, unrestricted breech mechanism, and double-action firing trigger deliver superior overmatch capabilities. Located on the side of the launcher, the new sighting system design lessens interference with rifle and carbine sights, reduces attaching operations to one action, and eliminates the need to re-zero after reattaching to a weapon.\nThe M320 barrel opens to the side, allows for an unrestricted breech enabling the\nfiring of all standard U.S. 40mm low-velocity ammunition as well as longer-than standard ammunition. The new pistol grip design eliminates the need to use the magazine as a hand grip. If the weapon misfires, the operator can pull the trigger again, compared with the M203, which requires cycling of the breech to re-cock the firing pin and pulling the trigger again. With the advancement of composite materials, the latest in lightweight material.\n\ncomposites are used to improve durability.",
+      "sha256": "281d327c9765b8cf74004d9be712d38698453b79a0fa70006208f1ea72373033",
+      "derivatives": [
+        {
+          "path": "assets/prepared/M320.png",
+          "modification": "connected_neutral_background_removal",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-046",
+          "start": 248.16666666666666,
+          "end": 256.733333,
+          "narration_quote_asr": "Наступна категорія – гранатомети. Американські підрозділи використовують 40-мм системи, зокрема, підствольні гранатомети сімейства",
+          "visual_purpose": "Grenade launcher chapter; model name held until the spoken onset"
+        },
+        {
+          "scene": "shot-047",
+          "start": 256.73333333333335,
+          "end": 264.2,
+          "narration_quote_asr": "М320. Вони дозволяють допомнити стрілетського зброєння окремими типами гранатометних боеприпасів.",
+          "visual_purpose": "M320 and the already mentioned caliber"
+        }
+      ]
+    },
+    {
+      "id": "M249",
+      "kind": "real_photo",
+      "path": "assets/originals/M249.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:PEO_M249_Para_ACOG.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/PEO_M249_Para_ACOG.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "Photo Courtesy of PEO Soldier",
+      "credit": "https://www.flickr.com/photos/peosoldier/4639655696/",
+      "description": "The M249 Squad Automatic Weapon (SAW) fills the automatic rifle role in infantry squads and provides light machine gun capabilities in combat service and combat service support units.",
+      "sha256": "51b1682daf3d959cdfb9a28a4b9950a0382dcd0759c201a3399e40df81e477ca",
+      "derivatives": [
+        {
+          "path": "assets/prepared/M249.png",
+          "modification": "connected_neutral_background_removal",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-052",
+          "start": 287.0,
+          "end": 294.8,
+          "narration_quote_asr": "Один піхотинець має автомат, але підрозділу потрібна зброя здатна забезпечувати триваліший автоматичний вогонь.",
+          "visual_purpose": "Squad automatic-fire role before M249 is named"
+        },
+        {
+          "scene": "shot-053",
+          "start": 294.8,
+          "end": 297.333333,
+          "narration_quote_asr": "У американців цю роль багато років виконував",
+          "visual_purpose": "Squad automatic-fire role before M249 is named"
+        },
+        {
+          "scene": "shot-054",
+          "start": 297.3333333333333,
+          "end": 303.933333,
+          "narration_quote_asr": "М249. Він використовує набій калібру 5,56 мм та",
+          "visual_purpose": "The actual M249 and its feed/caliber"
+        },
+        {
+          "scene": "shot-055",
+          "start": 303.93333333333334,
+          "end": 307.6,
+          "narration_quote_asr": "стрічкове живлення. Тепер американці поступово переходять до",
+          "visual_purpose": "The actual M249 and its feed/caliber"
+        }
+      ]
+    },
+    {
+      "id": "M250",
+      "kind": "real_photo",
+      "path": "assets/originals/M250.png",
+      "source_url": "https://commons.wikimedia.org/wiki/File:M250_Automatic_Rifle.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/M250_Automatic_Rifle.png",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "Todd Mozes",
+      "credit": "https://www.army.mil/article/285678/project_manager_soldier_lethality_announces_type_classification_approval_for_next_generation_squad_weapons_ngsw",
+      "description": "The M250 automatic rifle for the U.S. Army",
+      "sha256": "38e8da4eaf4226e28f9436209332ac5c32e1d005edf15031b0ed41440f4b8fff",
+      "derivatives": [
+        {
+          "path": "assets/prepared/M250.png",
+          "modification": "original_alpha",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-056",
+          "start": 307.6,
+          "end": 316.7,
+          "narration_quote_asr": "М250. Цей кулемет використовує той самый новий набій калібру 6,8 мм, щой винтівка М7.",
+          "visual_purpose": "M250 is not substituted with M249"
+        },
+        {
+          "scene": "shot-057",
+          "start": 316.7,
+          "end": 323.633333,
+          "narration_quote_asr": "Тобто американська програма модернізації охоплює одразу дві основні системи піхотного зброєння.",
+          "visual_purpose": "The shared US modernization program"
+        },
+        {
+          "scene": "shot-168",
+          "start": 993.7333333333333,
+          "end": 997.333333,
+          "narration_quote_asr": "Але за цією схожестю стоять різні підходи.",
+          "visual_purpose": "The US modernization approach"
+        },
+        {
+          "scene": "shot-169",
+          "start": 997.3333333333334,
+          "end": 1005.133333,
+          "narration_quote_asr": "Сполучені штати розвивають нове покоління стрелецької зброї, складну електроніку та інтегровані системи оснащення.",
+          "visual_purpose": "The US modernization approach"
+        }
+      ]
+    },
+    {
+      "id": "QBB95",
+      "kind": "real_photo",
+      "path": "assets/originals/QBB95.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Machine_gun_Type95.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Machine_gun_Type95.jpg",
+      "license": "Attribution-only: redistribution, derivative work and commercial use permitted",
+      "license_url": "",
+      "creator": "National War College clip-art collection (NDU)",
+      "credit": "National War College / National Defense University; courtesy credit per source collection",
+      "description": "",
+      "sha256": "02f5a56c34144c0e2b81c2e3bfb276f43197c8cc757a95054fc2486a5b77215a",
+      "derivatives": [
+        {
+          "path": "assets/prepared/QBB95.png",
+          "modification": "connected_neutral_background_removal",
+          "license": "Attribution"
+        }
+      ],
+      "license_evidence": "https://commons.wikimedia.org/wiki/File:Machine_gun_Type95.jpg",
+      "usage": [
+        {
+          "scene": "shot-058",
+          "start": 323.6333333333333,
+          "end": 328.2,
+          "narration_quote_asr": "У Китаї також відбувається перехід між поколіннями. Раніше поширеним був",
+          "visual_purpose": "Chinese automatic-fire platform context"
+        },
+        {
+          "scene": "shot-059",
+          "start": 328.2,
+          "end": 336.666667,
+          "narration_quote_asr": "QBB-9105, кулеметна версія зброї сімейства QBZ-9105. Серед новіших китайських розробок",
+          "visual_purpose": "Correct QBB-95 photo with drum magazine"
+        }
+      ]
+    },
+    {
+      "id": "M17",
+      "kind": "real_photo",
+      "path": "assets/originals/M17.gif",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sig_Sauer_M17_transparent.gif",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sig_Sauer_M17_transparent.gif",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "Abovfold",
+      "credit": "Own work, derived from a United States Army photograph which is in the public domain, edited with Adobe Photoshop.",
+      "description": "Standard issue United States Army M17 Handgun",
+      "sha256": "08669ab60b18cd1accea802338280c602864cebeec867056486ade6339bb7605",
+      "derivatives": [
+        {
+          "path": "assets/prepared/M17.png",
+          "modification": "original_alpha",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-064",
+          "start": 357.53333333333336,
+          "end": 364.7,
+          "narration_quote_asr": "Пістолет далеко не головна зброє звичайного піхотинця. Найчастіше його можна побачити у військовослужбовців,",
+          "visual_purpose": "The limited role of the sidearm"
+        },
+        {
+          "scene": "shot-065",
+          "start": 364.7,
+          "end": 369.333333,
+          "narration_quote_asr": "для яких короткоствольна зброє передбачена посадою або конкретним завданням.",
+          "visual_purpose": "The limited role of the sidearm"
+        },
+        {
+          "scene": "shot-066",
+          "start": 369.3333333333333,
+          "end": 373.5,
+          "narration_quote_asr": "У сполучених Штатах Америки сучасним штатним пістолетом став",
+          "visual_purpose": "US sidearm context before the spoken model name"
+        },
+        {
+          "scene": "shot-067",
+          "start": 373.5,
+          "end": 380.6,
+          "narration_quote_asr": "М17, створений на основі платформи ZX-AOR P320. Він прийшов на зміну старіші",
+          "visual_purpose": "Actual M17, not the shorter M18"
+        },
+        {
+          "scene": "shot-072",
+          "start": 394.6333333333333,
+          "end": 402.5,
+          "narration_quote_asr": "Обидві країни оновлюють короткоствольну зброю, але для загального снащення піхоти це значно менш важлива категорія,",
+          "visual_purpose": "Sidearm comparison without changing its importance"
+        },
+        {
+          "scene": "shot-073",
+          "start": 402.5,
+          "end": 405.866667,
+          "narration_quote_asr": "ніж автомат, захист або засоби спостереження.",
+          "visual_purpose": "Sidearm comparison without changing its importance"
+        }
+      ]
+    },
+    {
+      "id": "M9",
+      "kind": "real_photo",
+      "path": "assets/originals/M9.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:M9-pistolet.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/M9-pistolet.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "",
+      "credit": "",
+      "description": "",
+      "sha256": "65ae7bd4e91a02e91455037f2c4d4a175977a062d29dbb16c3f494d1118ffacb",
+      "derivatives": [
+        {
+          "path": "assets/prepared/M9.png",
+          "modification": "connected_neutral_background_removal",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-068",
+          "start": 380.6,
+          "end": 382.6,
+          "narration_quote_asr": "Берета М9.",
+          "visual_purpose": "Beretta M9 at its spoken mention"
+        }
+      ]
+    },
+    {
+      "id": "QSZ92",
+      "kind": "real_photo",
+      "path": "assets/originals/QSZ92.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:QSZ92_-_5.8mm_Pistol_20170919.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/QSZ92_-_5.8mm_Pistol_20170919.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Tyg728",
+      "credit": "Own work",
+      "description": "​QSZ92-5.8mm手枪",
+      "sha256": "da00ee2fd4aa325ffca2bfe1ae30ff23c8ee0df2fff0fc5f257787e927d071d2",
+      "derivatives": [
+        {
+          "path": "assets/prepared/QSZ92.png",
+          "modification": "foreground_segmentation_review_required",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-069",
+          "start": 382.6,
+          "end": 385.733333,
+          "narration_quote_asr": "Китай тривали час використовував пістолети сімейства",
+          "visual_purpose": "Chinese sidearm context"
+        },
+        {
+          "scene": "shot-070",
+          "start": 385.73333333333335,
+          "end": 391.7,
+          "narration_quote_asr": "QSZ-92, а у 2019 році представив новішу модель",
+          "visual_purpose": "QSZ-92"
+        }
+      ]
+    },
+    {
+      "id": "QSZ193",
+      "kind": "real_photo",
+      "path": "assets/originals/QSZ193.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:QSZ-193.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/QSZ-193.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "creator": "u/Key-Needleworker-702 on reddit",
+      "credit": "https://www.reddit.com/r/PeopleLiberationArmy/comments/1ucf927/rpeopleliberationarmy_originals_hk_garrison_ngong/",
+      "description": "QSZ-193 pistol, HK garrison",
+      "sha256": "d48d852da1f45d054ce8efa16960842f92c0155def63a8d9e94c3ec15ce4e528",
+      "derivatives": [
+        {
+          "path": "assets/prepared/QSZ193.png",
+          "modification": "foreground_segmentation_review_required",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-071",
+          "start": 391.7,
+          "end": 394.633333,
+          "narration_quote_asr": "QSZ-193.",
+          "visual_purpose": "QSZ-193"
+        },
+        {
+          "scene": "shot-072",
+          "start": 394.6333333333333,
+          "end": 402.5,
+          "narration_quote_asr": "Обидві країни оновлюють короткоствольну зброю, але для загального снащення піхоти це значно менш важлива категорія,",
+          "visual_purpose": "Sidearm comparison without changing its importance"
+        },
+        {
+          "scene": "shot-073",
+          "start": 402.5,
+          "end": 405.866667,
+          "narration_quote_asr": "ніж автомат, захист або засоби спостереження.",
+          "visual_purpose": "Sidearm comparison without changing its importance"
+        }
+      ]
+    },
+    {
+      "id": "M110A1",
+      "kind": "real_photo",
+      "path": "assets/originals/M110A1.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:211028-Z-IB607-1011_-_44th_IBCT_M110A1_Range_(Image_10_of_30).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/211028-Z-IB607-1011_-_44th_IBCT_M110A1_Range_%28Image_10_of_30%29.jpg/1280px-211028-Z-IB607-1011_-_44th_IBCT_M110A1_Range_%28Image_10_of_30%29.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "Spc. Michael Schwenk",
+      "description": "U.S. Army Sgt. Divante Scott, 1-114th Infantry Regiment, 44th Infantry Brigade Combat Team, New Jersey Army National Guard, fires the M110A1 Squad Designated Marksman Rifle (SDMR) at Joint Base McGuire-Dix-Lakehurst, N.J., Oct. 28, 2021. The 44th IBCT are the first New Jersey National Guard Soldiers to train and field the new M110A1 SDMR weapon. The M110A1 is a 7.62 mm rifle, which gives Soldiers greater range and accuracy than the standard M4 rifle. (U.S. Army National Guard photo by Spc. Michael Schwenk)",
+      "sha256": "d25b971a54a7b051e87194c9a36d896cfc5e97034bfde2d97097b822fb6d2f62",
+      "derivatives": [
+        {
+          "path": "assets/prepared/M110A1.png",
+          "modification": "resize_only",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-074",
+          "start": 405.8666666666667,
+          "end": 410.6,
+          "narration_quote_asr": "Некожна ціль перебуває на відстані, для якої найкращі підходить звичайний автомат.",
+          "visual_purpose": "The marksman role, not a tactical firing tutorial"
+        },
+        {
+          "scene": "shot-075",
+          "start": 410.6,
+          "end": 416.033333,
+          "narration_quote_asr": "Тому в сучасних підрозділах існує роль спеціальну підготовленого стрільця Марк Смана.",
+          "visual_purpose": "The marksman role, not a tactical firing tutorial"
+        },
+        {
+          "scene": "shot-076",
+          "start": 416.03333333333336,
+          "end": 419.266667,
+          "narration_quote_asr": "В американській армії одним із відповідних зразків є",
+          "visual_purpose": "The US marksman before the model-name word"
+        },
+        {
+          "scene": "shot-077",
+          "start": 419.26666666666665,
+          "end": 426.3,
+          "narration_quote_asr": "М110А1. Це самозарядна гвинтівка, створена для точнішої стрільби на більших дистанціях.",
+          "visual_purpose": "Real M110A1 photograph, no HK417 substitution"
+        }
+      ]
+    },
+    {
+      "id": "QBU88",
+      "kind": "real_photo",
+      "path": "assets/originals/QBU88.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Qbu-88-0.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Qbu-88-0.jpg/1920px-Qbu-88-0.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "creator": "afaik it's the IMFDB user Kin93",
+      "description": "Chinese bullpup designated marksman rifle",
+      "sha256": "9d1c0d15a56e82700c055d896b8a16da3a426cee87aa0e6130d4733fdec41f92",
+      "derivatives": [
+        {
+          "path": "assets/prepared/QBU88.png",
+          "modification": "connected_neutral_background_removal",
+          "license": "CC BY 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-078",
+          "start": 426.3,
+          "end": 429.233333,
+          "narration_quote_asr": "Китай має власне сімейство зброї для цієї ролі.",
+          "visual_purpose": "Chinese marksman context"
+        },
+        {
+          "scene": "shot-079",
+          "start": 429.23333333333335,
+          "end": 435.8,
+          "narration_quote_asr": "Старішу QBU-88 поступово доповнюють або замінюють новішими системами, зокрема",
+          "visual_purpose": "QBU-88"
+        }
+      ]
+    },
+    {
+      "id": "QBU191",
+      "kind": "real_photo",
+      "path": "assets/originals/QBU191.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:QBU191_20250921.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/QBU191_20250921.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "颐园居",
+      "credit": "Own work",
+      "description": "​191型精确步枪（QBU191）",
+      "sha256": "f5149620fed2c123db6bc60f894f5b9f353ab5a924b5345b6b4a23d45a36db9c",
+      "derivatives": [
+        {
+          "path": "assets/prepared/QBU191.png",
+          "modification": "foreground_segmentation_review_required",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-080",
+          "start": 435.8,
+          "end": 438.466667,
+          "narration_quote_asr": "QBU-191.",
+          "visual_purpose": "QBU-191 begins at the spoken QBU syllable"
+        },
+        {
+          "scene": "shot-081",
+          "start": 438.46666666666664,
+          "end": 445.466667,
+          "narration_quote_asr": "І тут знову помітна спільна тенденція. Зброя різних спеціалізацій, де далі частіше використовує споріднені",
+          "visual_purpose": "Family resemblance shown with the correctly identified two Chinese platforms"
+        },
+        {
+          "scene": "shot-082",
+          "start": 445.46666666666664,
+          "end": 454.266667,
+          "narration_quote_asr": "конструктивні рішення, сучасну оптику та уніфіковані елементи. Це спрощує частину питань, обслуговування і підготовки.",
+          "visual_purpose": "Family resemblance shown with the correctly identified two Chinese platforms"
+        }
+      ]
+    },
+    {
+      "id": "JAVELIN",
+      "kind": "real_photo",
+      "path": "assets/originals/JAVELIN.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Javelin_with_checkout_equipment.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Javelin_with_checkout_equipment.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "U.S. Army Missile Command, Redstone Arsenal",
+      "credit": "The Official Web-site of the United States Army",
+      "description": "Javelin with checkout equipment",
+      "sha256": "aa9974e933653253f8ade648fe618eef1d645606284eb624225076060ed74717",
+      "derivatives": [
+        {
+          "path": "assets/prepared/JAVELIN.png",
+          "modification": "foreground_segmentation_review_required",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-085",
+          "start": 464.93333333333334,
+          "end": 471.733333,
+          "narration_quote_asr": "джевелін. Це керований ракетний комплекс, який став широковідомим далеко за межами Америки. Ще одна система –",
+          "visual_purpose": "Javelin object photo"
+        },
+        {
+          "scene": "shot-091",
+          "start": 504.0,
+          "end": 512.9,
+          "narration_quote_asr": "Тому тут важливіше інше. Обидві армії розглядають переносне протитанкове озброєння як невідільну частину сучасної піхоти.",
+          "visual_purpose": "Both armies include this class of system"
+        }
+      ]
+    },
+    {
+      "id": "CARLGUSTAF",
+      "kind": "real_photo",
+      "path": "assets/originals/CARLGUSTAF.png",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Carl_Gustav_M4_(1)_(brightened,_no_background)_(leveled).png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Carl_Gustav_M4_%281%29_%28brightened%2C_no_background%29_%28leveled%29.png/1920px-Carl_Gustav_M4_%281%29_%28brightened%2C_no_background%29_%28leveled%29.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "User:Reise Reise",
+      "description": "Carl Gustav M4, IDET/PYROS/ISET 2019, Brno. Background removed, slightly brightened from the original by User:Reise Reise.",
+      "sha256": "a459442cf63980db5be3c842e61f7a28bae45eafd302105cae03479db29ce658",
+      "derivatives": [
+        {
+          "path": "assets/prepared/CARLGUSTAF.png",
+          "modification": "original_alpha",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-086",
+          "start": 471.73333333333335,
+          "end": 477.3,
+          "narration_quote_asr": "Карл Густав – багатуразова безвідкотна зброя, для якої існують різні типи боєприпасів.",
+          "visual_purpose": "Carl Gustaf object photo"
+        }
+      ]
+    },
+    {
+      "id": "HJ12",
+      "kind": "real_photo",
+      "path": "assets/originals/HJ12.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:HJ-12_20250921.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HJ-12_20250921.jpg/1920px-HJ-12_20250921.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "颐园居",
+      "description": "​“红箭”12反坦克导弹",
+      "sha256": "4e793738ef265388da13a4a584ffca59a8129cb1698287a321e5e9f9d8fb0ab3",
+      "derivatives": [
+        {
+          "path": "assets/prepared/HJ12.png",
+          "modification": "foreground_segmentation_review_required",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-087",
+          "start": 477.3,
+          "end": 481.3,
+          "narration_quote_asr": "Китай також розробляє власні протитанкові комплекси, серед них",
+          "visual_purpose": "Chinese systems context, no name early"
+        },
+        {
+          "scene": "shot-088",
+          "start": 481.3,
+          "end": 488.0,
+          "narration_quote_asr": "HJ-12, який часто порівнюють з американським джевелін через подібне загальне призначення.",
+          "visual_purpose": "HJ-12 and its shared general role"
+        },
+        {
+          "scene": "shot-091",
+          "start": 504.0,
+          "end": 512.9,
+          "narration_quote_asr": "Тому тут важливіше інше. Обидві армії розглядають переносне протитанкове озброєння як невідільну частину сучасної піхоти.",
+          "visual_purpose": "Both armies include this class of system"
+        }
+      ]
+    },
+    {
+      "id": "IFAK",
+      "kind": "real_photo",
+      "path": "assets/originals/IFAK.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IFAK_II.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/IFAK_II.jpg/1280px-IFAK_II.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Vslv",
+      "description": "аптечка IFAK II. 1. Вид спереди, подсумки с турникетами отстёгнуты. 2. Вид сзади, подсумки с турникетами пристёгнуты. 3. Аптечка распакована",
+      "sha256": "ef23e3007063c17499801ed42587a63c747a2503fb2b67d63c29d915c6195fca",
+      "derivatives": [
+        {
+          "path": "assets/prepared/IFAK.png",
+          "modification": "resized",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "path": "assets/prepared/IFAK_CUT.png",
+          "modification": "Foreground segmentation; illustrative photographed IFAK, no universal issue claim",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-105",
+          "start": 596.5333333333333,
+          "end": 601.8,
+          "narration_quote_asr": "Уявімо, що солдат уже отримав автомат, бронежилет, шолом, бойеприпаси,",
+          "visual_purpose": "The named equipment accumulates"
+        },
+        {
+          "scene": "shot-106",
+          "start": 601.8,
+          "end": 607.133333,
+          "narration_quote_asr": "воду, аптечку та засоби зв'язку. Тепер усе це потрібно нести.",
+          "visual_purpose": "The named equipment accumulates"
+        },
+        {
+          "scene": "shot-126",
+          "start": 721.3333333333334,
+          "end": 729.133333,
+          "narration_quote_asr": "Є один предмет, який майже ніколи не потрапляє на рекламні фотографії зброї, але його значення величезне – індивідуальна аптечка.",
+          "visual_purpose": "The individual kit is named in the voice"
+        },
+        {
+          "scene": "shot-127",
+          "start": 729.1333333333333,
+          "end": 736.333333,
+          "narration_quote_asr": "В американських військових медичне спорядження та навчання надання допомоги є важливою частиною підготовки.",
+          "visual_purpose": "Actual photographed IFAK contents, no universal kit promise"
+        },
+        {
+          "scene": "shot-128",
+          "start": 736.3333333333334,
+          "end": 743.6,
+          "narration_quote_asr": "Типовий набір може містити турнікет, прив'язувальні матеріали та інші засоби, залишено від стандарту комплектації.",
+          "visual_purpose": "Actual photographed IFAK contents, no universal kit promise"
+        }
+      ]
+    },
+    {
+      "id": "NV",
+      "kind": "real_photo",
+      "path": "assets/originals/ENVGB.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ENVG-B_outfitted_Image_1_of_5.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/ENVG-B_outfitted_Image_1_of_5.jpg/1280px-ENVG-B_outfitted_Image_1_of_5.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "creator": "Spc. Pierre Osias",
+      "description": "A Soldier from the 2nd Brigade Combat Team, 10th Mountain Division, is fully outfitted in the L3Harris ENVG-B in preparation to test it out  on Range 22 at Fort Drum, N.Y., Mar. 10, 2022. The ENVG-B is an enhanced night vision  binocular mounted on the advanced combat helmet of a Soldier and provides them with multiple variations of night vision optics. (U.S. Army photo by Spc. Pierre Osias)",
+      "sha256": "12afbb77ed563a766eea99044623f3fefbec26af7e4cdfb261a75b6d941a655a",
+      "derivatives": [
+        {
+          "path": "assets/prepared/NV.png",
+          "modification": "Close crop of the verified ENVG-B on the same US Army soldier; not the older unverified demonstration optic",
+          "license": "Public domain"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-119",
+          "start": 679.5333333333333,
+          "end": 687.8,
+          "narration_quote_asr": "Фактично сучасне військовий отримує непросто можливість бачити за слабкого освітлення, а додатковий інструмент – для орієнтування.",
+          "visual_purpose": "Real product detail photographed at the military display"
+        }
+      ]
+    },
+    {
+      "id": "OCP",
+      "kind": "real_photo",
+      "path": "assets/originals/OCP.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:OCP_Swatch.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/OCP_Swatch.jpg/1920px-OCP_Swatch.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Nvllola",
+      "description": "A swatch of OCP",
+      "sha256": "c9f7653ddc8e3355a51b54fc1450db170ba00c1b0f3fb82cb508c587b98edbcf",
+      "derivatives": [
+        {
+          "path": "assets/prepared/OCP.png",
+          "modification": "resize_only",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-136",
+          "start": 786.0333333333333,
+          "end": 789.5,
+          "narration_quote_asr": "Для американської армії характерне використання камуфляжу",
+          "visual_purpose": "US clothing context before the pattern name"
+        },
+        {
+          "scene": "shot-137",
+          "start": 789.5,
+          "end": 792.133333,
+          "narration_quote_asr": "Operational Camouflage Pattern.",
+          "visual_purpose": "Actual OCP swatch"
+        }
+      ]
+    },
+    {
+      "id": "XINGKONG",
+      "kind": "real_photo",
+      "path": "assets/originals/XINGKONG.png",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png/1280px-Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "creator": "Tahazu",
+      "description": "A comparison of the Type 21 (left) and Type 19 (right) field blouse in the Jungle variant of the Xingkong (Starry Sky) camouflage pattern.",
+      "sha256": "358ba655d8cd4048933ef451093c36d95755fb14aaac9ef0e78b70a5472e254f",
+      "derivatives": [
+        {
+          "path": "assets/prepared/XINGKONG.png",
+          "modification": "cropped to right-hand Type 19 blouse, per source caption",
+          "license": "CC0"
+        },
+        {
+          "path": "assets/prepared/XINGKONG_CUT.png",
+          "modification": "Right-hand Type 19 blouse extracted from original Type 19/21 comparison; foreground segmentation",
+          "license": "CC0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-138",
+          "start": 792.1333333333333,
+          "end": 796.966667,
+          "narration_quote_asr": "Китай у 2019 році продемонстрував нове покоління камуфляжу",
+          "visual_purpose": "The verified Type 19 blouse crop"
+        },
+        {
+          "scene": "shot-139",
+          "start": 796.9666666666667,
+          "end": 800.6,
+          "narration_quote_asr": "Synconge, що перекладається як зоряне небо.",
+          "visual_purpose": "Xingkong at the spoken pattern-name onset"
+        },
+        {
+          "scene": "shot-140",
+          "start": 800.6,
+          "end": 808.033333,
+          "narration_quote_asr": "Воно має кілька варіантів забарвлення для різних умов, але кольор тканини лише одна частина питання.",
+          "visual_purpose": "Xingkong at the spoken pattern-name onset"
+        }
+      ]
+    },
+    {
+      "id": "MRE2",
+      "kind": "real_photo",
+      "path": "assets/originals/MRE2.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MRE_Menu_2_P8152664.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MRE_Menu_2_P8152664.jpg/1920px-MRE_Menu_2_P8152664.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Ashley Pomeroy",
+      "description": "The contents of MRE Menu 2, Beef Shredded",
+      "sha256": "0ddaf0b531a8a8aef3c783aa79935591dc0175c789b159896a3883265c6f6afe",
+      "derivatives": [
+        {
+          "path": "assets/prepared/MRE2.png",
+          "modification": "resize_only",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-146",
+          "start": 835.5666666666667,
+          "end": 842.466667,
+          "narration_quote_asr": "У середині можуть бути основна страва, додаткові продукти, напої та засоби для підігрівання їжі.",
+          "visual_purpose": "Photographed MRE contents"
+        }
+      ]
+    },
+    {
+      "id": "CHINA_RATION",
+      "kind": "real_photo",
+      "path": "assets/originals/CHINA_RATION.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:PLA_Field_Ration.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/PLA_Field_Ration.jpg/1280px-PLA_Field_Ration.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "TurnOnTheNight",
+      "description": "Long-Range Flight Ration(PLAAF, Top)\nType 13 Instant Ration(Down-Left)\n\nSelf-Heating Ration(PLARF, Down-Right)",
+      "sha256": "e5347ed82f43e605e8ba3ebf55a25e89743a6fa4fa41b28b3c0262d5b687b533",
+      "derivatives": [
+        {
+          "path": "assets/prepared/CHINA_RATION.png",
+          "modification": "resized; generic PLA ration overview, variant not asserted",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "usage": [
+        {
+          "scene": "shot-147",
+          "start": 842.4666666666667,
+          "end": 846.0,
+          "narration_quote_asr": "Китай також має власні індивідуальні полюві раціони.",
+          "visual_purpose": "PLA ration overview; no single variant falsely asserted"
+        },
+        {
+          "scene": "shot-148",
+          "start": 846.0,
+          "end": 853.833333,
+          "narration_quote_asr": "У них часто використовуються страви на основі рису, локшини, м'яса та інших продуктів звичних для китайської кухні.",
+          "visual_purpose": "PLA ration overview; no single variant falsely asserted"
+        },
+        {
+          "scene": "shot-149",
+          "start": 853.8333333333334,
+          "end": 861.166667,
+          "narration_quote_asr": "Частина комплектів також передбачає автономне підігрівання. Цікаво, що тут технологічне змагання відходить на другий план.",
+          "visual_purpose": "Heating is discussed without unsupported temperature numbers"
+        },
+        {
+          "scene": "shot-150",
+          "start": 861.1666666666666,
+          "end": 868.666667,
+          "narration_quote_asr": "Головне – забезпечити солдата достатньою кількістю енергії та їжію, яку можна споживати в полювих умовах.",
+          "visual_purpose": "The practical purpose of food and taste differences"
+        },
+        {
+          "scene": "shot-151",
+          "start": 868.6666666666666,
+          "end": 874.933333,
+          "narration_quote_asr": "І, звичайно, навіть найсучасніший сухпайок не гарантує, що він усім сподобається.",
+          "visual_purpose": "The practical purpose of food and taste differences"
+        }
+      ]
+    }
+  ],
+  "no_competitor_video_used": true,
+  "no_generated_voice": true,
+  "no_photograph_claimed_as_3d": true,
+  "limitations": [
+    "Only M4A1 has a verified licensed 3D mesh in this edit. Other objects use the explicitly permitted static-photo fallback.",
+    "QJS-161 uses a clearly typographic conceptual diagram; no verified licensed image was found.",
+    "No claim of real scale is made for comparisons.",
+    "Generic photographed equipment is not asserted to be universal 2026 issue."
+  ]
+}

@@ -5,7 +5,7 @@ import shutil
 import subprocess
 from pathlib import Path
 
-KINDS = {"intro", "section", "item", "compare", "bars", "kit", "diagram", "footage", "outro"}
+KINDS = {"intro", "section", "item", "compare", "bars", "kit", "diagram", "footage", "outro", "studio"}
 THEME = {
     "background": "#F2F3F0", "ink": "#202923", "muted": "#68736C",
     "blue": "#28608C", "yellow": "#D6AD43", "olive": "#6A7952",
@@ -94,9 +94,25 @@ def load_project(filename, require_assets=True):
             raise ValueError(f"{sid}: kit потребує від 1 до 6 предметів")
         if kind == "diagram" and not 2 <= len(scene.get("nodes", [])) <= 4:
             raise ValueError(f"{sid}: diagram потребує від 2 до 4 вузлів")
+        if kind == "studio":
+            if bool(scene.get("image")) == bool(scene.get("video")):
+                raise ValueError(f"{sid}: studio потребує рівно одне поле image або video")
+            if scene.get("country") not in {"US", "CN"}:
+                raise ValueError(f"{sid}: studio.country має бути US або CN")
+            if scene.get("motion_kind") not in {"true_3d", "verified_static", "verified_video"}:
+                raise ValueError(f"{sid}: вкажіть чесний motion_kind")
+            if scene.get("image") and scene.get("motion_kind") != "verified_static":
+                raise ValueError(f"{sid}: статичне фото не може позначатися як 3D або відео")
+            previous_end = 0
+            for callout in scene.get("callouts", []):
+                a = finite(callout.get("start"), f"{sid}.callout.start")
+                b = finite(callout.get("end"), f"{sid}.callout.end")
+                if a < previous_end or b <= a or b > duration:
+                    raise ValueError(f"{sid}: підказки повинні йти послідовно всередині сцени")
+                previous_end = b
         if kind == "footage" and not scene.get("video"):
             raise ValueError(f"{sid}: потрібне поле video")
-        if kind == "footage":
+        if kind in {"footage", "studio"} and scene.get("video"):
             finite(scene.get("in", 0), f"{sid}.in")
             if scene.get("fit", "cover") not in {"cover", "contain"}:
                 raise ValueError(f"{sid}: fit має бути cover або contain")
@@ -108,7 +124,7 @@ def load_project(filename, require_assets=True):
                     obj["_"+key] = str(asset)
                     if require_assets and not asset.is_file():
                         raise ValueError(f"{sid}: не знайдено {key}: {asset}")
-        if kind == "footage" and require_assets:
+        if kind in {"footage", "studio"} and scene.get("video") and require_assets:
             media = probe(scene["_video"])
             if not any(s.get("codec_type") == "video" for s in media.get("streams", [])):
                 raise ValueError(f"{sid}: файл не має відеопотоку")

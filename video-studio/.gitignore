@@ -3,3 +3,11 @@ __pycache__/
 work/*
 output/*
 !output/.gitkeep
+
+# Large episode media are delivered in the release source archive.
+episodes/*/audio/*
+episodes/*/alignment/*.wav
+episodes/*/assets/originals/
+episodes/*/assets/prepared/
+episodes/*/assets/models/
+episodes/*/assets/*.mp4

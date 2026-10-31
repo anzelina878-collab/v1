@@ -16,7 +16,7 @@ from .visuals import Painter, output_size, W, H
 def check_art(project, allow_placeholders):
     missing = []
     for scene in project["scenes"]:
-        objects = [scene] if scene["type"] == "item" else scene.get("sides", []) + scene.get("items", [])
+        objects = [scene] if scene["type"] == "item" or (scene["type"] == "studio" and not scene.get("_video")) else scene.get("sides", []) + scene.get("items", [])
         for obj in objects:
             if not obj.get("_image"):
                 missing.append(scene["id"])
@@ -111,7 +111,7 @@ def preview(project, target, at=None):
         if not math.isfinite(finite_at) or not 0 <= finite_at < project["_frames"]/project["fps"]:
             raise ValueError("Час прев'ю поза межами відео")
         index, scene, local = scene_at(project, round(finite_at*project["fps"]))
-        clip = clip_still(scene, local) if scene["type"] == "footage" else None
+        clip = clip_still(scene, local) if scene.get("_video") else None
         im = painter.render(scene, local, index, finite_at, clip)
         output_size(im, project["width"], project["height"]).save(target)
     else:
@@ -121,7 +121,7 @@ def preview(project, target, at=None):
         draw = ImageDraw.Draw(sheet)
         for index, scene in enumerate(project["scenes"]):
             local = min(max(2, scene["duration"]*.55), scene["duration"]-1/project["fps"])
-            clip = clip_still(scene, local) if scene["type"] == "footage" else None
+            clip = clip_still(scene, local) if scene.get("_video") else None
             im = painter.render(scene, local, index, scene["start"]+local, clip)
             im = im.resize((640, 360), Image.Resampling.LANCZOS)
             x, y = index%cols*cell_w, index//cols*cell_h
@@ -157,7 +157,7 @@ def render(project, target, crf=20, preset="fast"):
                             reader = None
                         current, clip = index, None
                         print(f"[{index+1}/{len(project['scenes'])}] {scene['id']} ({scene['type']})", flush=True)
-                        if scene["type"] == "footage":
+                        if scene.get("_video"):
                             reader = ClipReader(scene, fps)
                     if reader and frame < scene["_end_frame"]:
                         clip = reader.next()
@@ -242,15 +242,15 @@ def main():
     sub = parser.add_subparsers(dest="command", required=True)
     new = sub.add_parser("new", help="Створити папку нового випуску")
     new.add_argument("directory")
-    for name in ("validate", "preview", "render", "timeline"):
+    for name in ("validate", "preview", "render", "render-fast", "timeline"):
         p = sub.add_parser(name)
         p.add_argument("project")
         p.add_argument("--allow-placeholders", action="store_true")
-        if name in {"preview", "render"}:
+        if name in {"preview", "render", "render-fast"}:
             p.add_argument("--output", required=True)
         if name == "preview":
             p.add_argument("--at", type=float, help="Один кадр на вказаній секунді; без параметра — контактний аркуш")
-        if name == "render":
+        if name in {"render", "render-fast"}:
             p.add_argument("--crf", type=int, default=20, choices=range(0, 52))
             p.add_argument("--preset", choices=["ultrafast", "veryfast", "fast", "medium", "slow"], default="fast")
     args = parser.parse_args()
@@ -263,7 +263,7 @@ def main():
         check_art(project, args.allow_placeholders)
         if args.command == "validate":
             print(f"OK · {len(project['scenes'])} сцен · {project['_frames']/project['fps']:.2f} с · {project['width']}×{project['height']} · {project['fps']} fps")
-            if project.get("_audio_duration", 0) > project["_duration"]:
+            if project["_frames"] > round(project["_duration"]*project["fps"]):
                 print("Увага: фінальний кадр буде продовжено під довжину озвучки")
         elif args.command == "timeline":
             for scene in project["scenes"]:
@@ -272,6 +272,9 @@ def main():
             preview(project, args.output, args.at)
         elif args.command == "render":
             render(project, args.output, args.crf, args.preset)
+        elif args.command == "render-fast":
+            from .fast import render_fast
+            render_fast(project,args.output,args.preset,args.crf)
     except (ValueError, OSError, KeyError, TypeError) as error:
         print(f"ПОМИЛКА: {error}", file=sys.stderr)
         raise SystemExit(2)
