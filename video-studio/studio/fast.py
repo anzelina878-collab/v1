@@ -53,7 +53,7 @@ def render_fast(project,target,preset='fast',crf=22):
         dependencies=[Path(__file__),Path(__file__).with_name('visuals.py'),Path(project['theme']['font']),Path(project['theme']['font_bold'])]
         for obj in [scene]+scene.get('sides',[])+scene.get('items',[]):
             dependencies += [Path(obj[k]) for k in ('_image','_video') if obj.get(k)]
-        fingerprint=hashlib.sha256(json.dumps({'scene':scene,'theme':project['theme'],'style':project.get('style'),'resolution':[width,height,fps],'encoding':[crf,preset],'files':[(str(p),p.stat().st_size,p.stat().st_mtime_ns) for p in dependencies]},sort_keys=True).encode()).hexdigest()
+        fingerprint=hashlib.sha256(json.dumps({'scene':scene,'theme':project['theme'],'style':project.get('style'),'title_motion':project.get('title_motion',False),'resolution':[width,height,fps],'encoding':[crf,preset],'files':[(str(p),p.stat().st_size,p.stat().st_mtime_ns) for p in dependencies]},sort_keys=True).encode()).hexdigest()
         stamp=directory/'cache.txt'
         clips.append(out)
         if out.exists() and stamp.exists() and stamp.read_text()==fingerprint:
@@ -77,9 +77,16 @@ def render_fast(project,target,preset='fast',crf=22):
                 else:filters.append('[0:v]setsar=1[base]')
             labels=directory/'labels.png';caption(painter,scene,labels)
             cmd += ['-loop','1','-framerate',str(fps),'-i',str(labels)]
-            filters.append(f'[1:v]scale={width}:{height}[caption]')
             start=float(scene.get('label_start',0))
-            filters.append(f"[base][caption]overlay=0:0:enable='gte(t,{start})'[p0]")
+            animated=project.get('title_motion') and scene.get('animate_title',True)
+            if animated:
+                filters.append(f'[1:v]scale={width}:{height},format=rgba,fade=t=in:st={start}:d=0.45:alpha=1[caption]')
+                dy=24*height/1080
+                expression=f"{dy}*pow(1-min(1,max(0,(t-{start})/0.55)),3)"
+                filters.append(f"[base][caption]overlay=x=0:y='{expression}':enable='gte(t,{start})'[p0]")
+            else:
+                filters.append(f'[1:v]scale={width}:{height}[caption]')
+                filters.append(f"[base][caption]overlay=0:0:enable='gte(t,{start})'[p0]")
             last='p0'
             for j,c in enumerate(scene.get('callouts',[])):
                 overlay=Image.new('RGBA',(1920,1080))
@@ -95,8 +102,8 @@ def render_fast(project,target,preset='fast',crf=22):
             if scene.get('loop'):cmd += ['-stream_loop','-1']
             cmd += ['-ss',str(scene.get('in',0)),'-i',scene['_video'],'-vf',f'fps={fps},'+video_filter(width,height,scene.get('fit','cover'))+',setsar=1']
         else:
-            if scene['type'] in {'diagram','bars','intro','section','outro'}:
-                animation_frames=min(frames,max(1,round((1.8 if scene['type'] in {'diagram','bars'} else .8)*fps)))
+            if scene['type'] in {'diagram','bars','intro','section','outro'} or project.get('title_motion'):
+                animation_frames=min(frames,max(1,round((1.8 if scene['type'] in {'diagram','bars'} else 1.2 if project.get('title_motion') else .8)*fps)))
                 for f in range(animation_frames):
                     im=painter.render(scene,f/fps,index,scene['start']+f/fps)
                     output_size(im,width,height).save(directory/f'anim-{f:04d}.png')

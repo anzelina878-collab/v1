@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "policy": "Real geometry only; full 360-degree turntable. Incomplete library blocks final status.",
+  "objects": {
+    "BLACKHORNET": {
+      "status": "needs_verified_model",
+      "label": "BLACKHORNET"
+    },
+    "CARLGUSTAF": {
+      "status": "needs_verified_model",
+      "label": "CARLGUSTAF"
+    },
+    "CHINA_QBZ": {
+      "status": "archive_context_not_product_turntable",
+      "label": "CHINA_QBZ"
+    },
+    "CHINA_RATION": {
+      "status": "needs_verified_model",
+      "label": "CHINA_RATION"
+    },
+    "CHINA_TRAINING": {
+      "status": "archive_context_not_product_turntable",
+      "label": "CHINA_TRAINING"
+    },
+    "ENVGB": {
+      "status": "needs_verified_model",
+      "label": "ENVGB"
+    },
+    "HJ12": {
+      "status": "needs_verified_model",
+      "label": "HJ12"
+    },
+    "IFAK_CUT": {
+      "status": "needs_verified_model",
+      "label": "IFAK_CUT"
+    },
+    "IHPS": {
+      "status": "needs_verified_model",
+      "label": "IHPS"
+    },
+    "JAVELIN": {
+      "status": "needs_verified_model",
+      "label": "JAVELIN"
+    },
+    "M110A1": {
+      "status": "needs_verified_model",
+      "label": "M110A1"
+    },
+    "M157_DETAIL": {
+      "status": "needs_verified_model",
+      "label": "M157_DETAIL"
+    },
+    "M17": {
+      "status": "needs_verified_model",
+      "label": "M17"
+    },
+    "M249": {
+      "status": "ready",
+      "video": "assets/v2/m249-turntable.mp4",
+      "source_url": "https://www.blendkit.com/asset-gallery-detail/6b3ab3d4-e6f7-4623-a808-0d84eccfda69/",
+      "license": "Blendkit Royalty Free; distribute rendered video only, not raw model",
+      "creator": "NoBE Aubé"
+    },
+    "M250": {
+      "status": "needs_verified_model",
+      "label": "M250"
+    },
+    "M320": {
+      "status": "needs_verified_model",
+      "label": "M320"
+    },
+    "M4A1": {
+      "status": "ready",
+      "video": "assets/v2/m4a1-turntable.mp4",
+      "source_url": "https://opengameart.org/content/m4a1-assault-rifle",
+      "license": "CC0",
+      "creator": "nisu"
+    },
+    "M7": {
+      "status": "needs_verified_model",
+      "label": "M7"
+    },
+    "M8": {
+      "status": "needs_verified_model",
+      "label": "M8"
+    },
+    "M9": {
+      "status": "needs_verified_model",
+      "label": "M9"
+    },
+    "MRE": {
+      "status": "needs_verified_model",
+      "label": "MRE"
+    },
+    "MRE2": {
+      "status": "needs_verified_model",
+      "label": "MRE2"
+    },
+    "MSV_CUT": {
+      "status": "needs_verified_model",
+      "label": "MSV_CUT"
+    },
+    "NV": {
+      "status": "needs_verified_model",
+      "label": "NV"
+    },
+    "OCP": {
+      "status": "needs_verified_model",
+      "label": "OCP"
+    },
+    "QBB95": {
+      "status": "needs_verified_model",
+      "label": "QBB95"
+    },
+    "QBU191": {
+      "status": "needs_verified_model",
+      "label": "QBU191"
+    },
+    "QBU88": {
+      "status": "needs_verified_model",
+      "label": "QBU88"
+    },
+    "QBZ191": {
+      "status": "needs_verified_model",
+      "label": "QBZ191"
+    },
+    "QBZ95": {
+      "status": "needs_verified_model",
+      "label": "QBZ95"
+    },
+    "QSZ193": {
+      "status": "needs_verified_model",
+      "label": "QSZ193"
+    },
+    "QSZ92": {
+      "status": "needs_verified_model",
+      "label": "QSZ92"
+    },
+    "US_TRAINING": {
+      "status": "archive_context_not_product_turntable",
+      "label": "US_TRAINING"
+    },
+    "XINGKONG_CUT": {
+      "status": "needs_verified_model",
+      "label": "XINGKONG_CUT"
+    },
+    "QJS161": {
+      "status": "needs_verified_model",
+      "label": "QJS-161",
+      "required_scenes": [
+        "shot-060"
+      ]
+    }
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "bound_scenes": [
+    "shot-007",
+    "shot-013",
+    "shot-014",
+    "shot-015",
+    "shot-016",
+    "shot-017",
+    "shot-022",
+    "shot-036",
+    "shot-052",
+    "shot-053",
+    "shot-054",
+    "shot-055",
+    "shot-173"
+  ],
+  "unresolved": [
+    {
+      "scene": "shot-008",
+      "object_id": "ENVGB"
+    },
+    {
+      "scene": "shot-009",
+      "object_id": "BLACKHORNET"
+    },
+    {
+      "scene": "shot-010",
+      "object_id": "MRE"
+    },
+    {
+      "scene": "shot-018",
+      "object_id": "M7"
+    },
+    {
+      "scene": "shot-020",
+      "object_id": "M7"
+    },
+    {
+      "scene": "shot-021",
+      "object_id": "M7"
+    },
+    {
+      "scene": "shot-023",
+      "object_id": "M7"
+    },
+    {
+      "scene": "shot-024",
+      "object_id": "M8"
+    },
+    {
+      "scene": "shot-026",
+      "object_id": "QBZ95"
+    },
+    {
+      "scene": "shot-027",
+      "object_id": "QBZ95"
+    },
+    {
+      "scene": "shot-028",
+      "object_id": "QBZ95"
+    },
+    {
+      "scene": "shot-029",
+      "object_id": "QBZ95"
+    },
+    {
+      "scene": "shot-030",
+      "object_id": "QBZ191"
+    },
+    {
+      "scene": "shot-031",
+      "object_id": "QBZ191"
+    },
+    {
+      "scene": "shot-037",
+      "object_id": "M157_DETAIL"
+    },
+    {
+      "scene": "shot-038",
+      "object_id": "M157_DETAIL"
+    },
+    {
+      "scene": "shot-039",
+      "object_id": "M157_DETAIL"
+    },
+    {
+      "scene": "shot-046",
+      "object_id": "M320"
+    },
+    {
+      "scene": "shot-047",
+      "object_id": "M320"
+    },
+    {
+      "scene": "shot-056",
+      "object_id": "M250"
+    },
+    {
+      "scene": "shot-058",
+      "object_id": "QBB95"
+    },
+    {
+      "scene": "shot-059",
+      "object_id": "QBB95"
+    },
+    {
+      "scene": "shot-064",
+      "object_id": "M17"
+    },
+    {
+      "scene": "shot-065",
+      "object_id": "M17"
+    },
+    {
+      "scene": "shot-066",
+      "object_id": "M17"
+    },
+    {
+      "scene": "shot-067",
+      "object_id": "M17"
+    },
+    {
+      "scene": "shot-068",
+      "object_id": "M9"
+    },
+    {
+      "scene": "shot-069",
+      "object_id": "QSZ92"
+    },
+    {
+      "scene": "shot-070",
+      "object_id": "QSZ92"
+    },
+    {
+      "scene": "shot-071",
+      "object_id": "QSZ193"
+    },
+    {
+      "scene": "shot-074",
+      "object_id": "M110A1"
+    },
+    {
+      "scene": "shot-075",
+      "object_id": "M110A1"
+    },
+    {
+      "scene": "shot-076",
+      "object_id": "M110A1"
+    },
+    {
+      "scene": "shot-077",
+      "object_id": "M110A1"
+    },
+    {
+      "scene": "shot-078",
+      "object_id": "QBU88"
+    },
+    {
+      "scene": "shot-079",
+      "object_id": "QBU88"
+    },
+    {
+      "scene": "shot-080",
+      "object_id": "QBU191"
+    },
+    {
+      "scene": "shot-085",
+      "object_id": "JAVELIN"
+    },
+    {
+      "scene": "shot-086",
+      "object_id": "CARLGUSTAF"
+    },
+    {
+      "scene": "shot-087",
+      "object_id": "HJ12"
+    },
+    {
+      "scene": "shot-088",
+      "object_id": "HJ12"
+    },
+    {
+      "scene": "shot-093",
+      "object_id": "IHPS"
+    },
+    {
+      "scene": "shot-094",
+      "object_id": "IHPS"
+    },
+    {
+      "scene": "shot-095",
+      "object_id": "IHPS"
+    },
+    {
+      "scene": "shot-097",
+      "object_id": "MSV_CUT"
+    },
+    {
+      "scene": "shot-098",
+      "object_id": "MSV_CUT"
+    },
+    {
+      "scene": "shot-103",
+      "object_id": "MSV_CUT"
+    },
+    {
+      "scene": "shot-104",
+      "object_id": "MSV_CUT"
+    },
+    {
+      "scene": "shot-109",
+      "object_id": "MSV_CUT"
+    },
+    {
+      "scene": "shot-115",
+      "object_id": "ENVGB"
+    },
+    {
+      "scene": "shot-116",
+      "object_id": "ENVGB"
+    },
+    {
+      "scene": "shot-117",
+      "object_id": "ENVGB"
+    },
+    {
+      "scene": "shot-118",
+      "object_id": "ENVGB"
+    },
+    {
+      "scene": "shot-119",
+      "object_id": "NV"
+    },
+    {
+      "scene": "shot-125",
+      "object_id": "ENVGB"
+    },
+    {
+      "scene": "shot-126",
+      "object_id": "IFAK_CUT"
+    },
+    {
+      "scene": "shot-127",
+      "object_id": "IFAK_CUT"
+    },
+    {
+      "scene": "shot-128",
+      "object_id": "IFAK_CUT"
+    },
+    {
+      "scene": "shot-136",
+      "object_id": "OCP"
+    },
+    {
+      "scene": "shot-137",
+      "object_id": "OCP"
+    },
+    {
+      "scene": "shot-138",
+      "object_id": "XINGKONG_CUT"
+    },
+    {
+      "scene": "shot-139",
+      "object_id": "XINGKONG_CUT"
+    },
+    {
+      "scene": "shot-140",
+      "object_id": "XINGKONG_CUT"
+    },
+    {
+      "scene": "shot-144",
+      "object_id": "MRE"
+    },
+    {
+      "scene": "shot-145",
+      "object_id": "MRE"
+    },
+    {
+      "scene": "shot-146",
+      "object_id": "MRE2"
+    },
+    {
+      "scene": "shot-147",
+      "object_id": "CHINA_RATION"
+    },
+    {
+      "scene": "shot-148",
+      "object_id": "CHINA_RATION"
+    },
+    {
+      "scene": "shot-149",
+      "object_id": "CHINA_RATION"
+    },
+    {
+      "scene": "shot-153",
+      "object_id": "BLACKHORNET"
+    },
+    {
+      "scene": "shot-154",
+      "object_id": "BLACKHORNET"
+    },
+    {
+      "scene": "shot-158",
+      "object_id": "BLACKHORNET"
+    },
+    {
+      "scene": "shot-159",
+      "object_id": "BLACKHORNET"
+    },
+    {
+      "scene": "shot-172",
+      "object_id": "M157_DETAIL"
+    },
+    {
+      "scene": "shot-002",
+      "object_id": "M4A1",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-002",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-005",
+      "object_id": "M4A1",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-005",
+      "object_id": "MSV_CUT",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-005",
+      "object_id": "IHPS",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-006",
+      "object_id": "M7",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-006",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-032",
+      "object_id": "M7",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-032",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-033",
+      "object_id": "M7",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-033",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-034",
+      "object_id": "M7",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-034",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-045",
+      "object_id": "M7",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-045",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-057",
+      "object_id": "M7",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-057",
+      "object_id": "M250",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-072",
+      "object_id": "M17",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-072",
+      "object_id": "QSZ193",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-073",
+      "object_id": "M17",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-073",
+      "object_id": "QSZ193",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-081",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-081",
+      "object_id": "QBU191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-082",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-082",
+      "object_id": "QBU191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-091",
+      "object_id": "JAVELIN",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-091",
+      "object_id": "HJ12",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-105",
+      "object_id": "M4A1",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-105",
+      "object_id": "MSV_CUT",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-105",
+      "object_id": "IFAK_CUT",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-106",
+      "object_id": "M4A1",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-106",
+      "object_id": "MSV_CUT",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-106",
+      "object_id": "IFAK_CUT",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-150",
+      "object_id": "MRE",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-150",
+      "object_id": "CHINA_RATION",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-151",
+      "object_id": "MRE",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-151",
+      "object_id": "CHINA_RATION",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-166",
+      "object_id": "M7",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-166",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-167",
+      "object_id": "M7",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-167",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-168",
+      "object_id": "M7",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-168",
+      "object_id": "M250",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-169",
+      "object_id": "M7",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-169",
+      "object_id": "M250",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-170",
+      "object_id": "QBZ95",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-170",
+      "object_id": "QBZ191",
+      "context": "comparison/kit panel"
+    },
+    {
+      "scene": "shot-060",
+      "object_id": "QJS161",
+      "context": "required model, currently typographic"
+    }
+  ],
+  "all_objects_animated": false
+}

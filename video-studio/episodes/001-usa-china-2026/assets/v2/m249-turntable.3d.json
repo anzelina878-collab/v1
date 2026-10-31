@@ -1,0 +1,13 @@
+{
+  "motion_kind": "true_3d",
+  "renderer": "CPU UV-textured mesh rasterizer",
+  "lighting": "studio approximation",
+  "mesh_sha256": "962c3621b77f28555158df8e13aa90ce24fdee54de0d50fbc1d1ae75eafec22b",
+  "frames": 360,
+  "fps": 30,
+  "yaw_start": -45.0,
+  "yaw_end": 315.0,
+  "width": 1920,
+  "height": 1080,
+  "identity_verified_by_renderer": false
+}

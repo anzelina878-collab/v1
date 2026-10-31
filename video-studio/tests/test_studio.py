@@ -33,6 +33,7 @@ class StudioSceneTests(unittest.TestCase):
             load_project(self.config())
 
     def test_fast_compiler_encodes_timed_overlay_and_supplied_video(self):
+        self.data['title_motion']=True
         self.data['scenes'][0]['duration']=1
         self.data['scenes'].append({'id':'video','type':'studio','duration':1,'video':str(ROOT/'episodes/demo/assets/abstract.mp4'),'country':'CN','motion_kind':'verified_video','title':'ТЕСТ ВІДЕО'})
         p=load_project(self.config());check_art(p,False)

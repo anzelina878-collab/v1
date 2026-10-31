@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "brand": "",
+  "title": "США проти Китаю: що носить солдат у 2026 році?",
+  "style": "minimal",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": "alignment/review-v2.wav",
+  "audio_policy": "strict",
+  "footer": "",
+  "theme": {
+    "font": "fonts/DejaVuSansCondensed.ttf",
+    "font_bold": "fonts/DejaVuSansCondensed-Bold.ttf",
+    "background": "#F2F3F0"
+  },
+  "scenes": [
+    {
+      "type": "intro",
+      "eyebrow": "",
+      "title": "США ПРОТИ КИТАЮ",
+      "subtitle": "Що носить солдат у 2026 році?",
+      "id": "review-shot-001",
+      "start": 0,
+      "duration": 4,
+      "visual_purpose": "Title and the comparison question",
+      "narration_quote_asr": "Два солдати. Дві найбільші військові сили сучасного світу, і",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "original_audio_range": [
+        0,
+        4
+      ],
+      "animate_title": true
+    },
+    {
+      "type": "studio",
+      "video": "assets/v2/m4a1-turntable.mp4",
+      "country": "US",
+      "title": "M4A1",
+      "motion_kind": "true_3d",
+      "asset_id": "M4A1_3D",
+      "source": "https://opengameart.org/content/m4a1-assault-rifle",
+      "in": 0.0,
+      "fit": "contain",
+      "id": "review-shot-013",
+      "start": 4,
+      "duration": 12,
+      "visual_purpose": "Rifle context before the first model-name word",
+      "narration_quote_asr": "Протягом десятиліть одними символів американської армії залишався карабін",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "original_audio_range": [
+        56.2666666667,
+        68.26666666669999
+      ],
+      "animate_title": true,
+      "loop": false,
+      "label_start": 0
+    },
+    {
+      "type": "studio",
+      "country": "US",
+      "title": "M7",
+      "motion_kind": "verified_video",
+      "asset_id": "M7",
+      "source": "DVIDS · 15.04.2024 · U.S. Army",
+      "id": "review-shot-020",
+      "start": 16,
+      "duration": 4,
+      "visual_purpose": "M7 weight and capacity trade-off",
+      "narration_quote_asr": "Але є компроміс. Нові набої важчі, а стандартний магазин М7 вміщує",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "original_audio_range": [
+        99.6333333333,
+        103.6333333333
+      ],
+      "animate_title": true,
+      "video": "assets/v2/archive-m7.mp4",
+      "full_bleed": true,
+      "fit": "cover",
+      "show_source": true,
+      "label_start": 0
+    },
+    {
+      "type": "studio",
+      "country": "US",
+      "title": "M249",
+      "motion_kind": "true_3d",
+      "asset_id": "M249",
+      "source": "https://commons.wikimedia.org/wiki/File:PEO_M249_Para_ACOG.jpg",
+      "id": "review-shot-054",
+      "start": 20,
+      "duration": 12,
+      "visual_purpose": "The actual M249 and its feed/caliber",
+      "narration_quote_asr": "М249. Він використовує набій калібру 5,56 мм та",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "original_audio_range": [
+        294.8,
+        306.8
+      ],
+      "animate_title": true,
+      "video": "assets/v2/m249-turntable.mp4",
+      "fit": "contain",
+      "loop": false,
+      "label_start": 0
+    },
+    {
+      "type": "studio",
+      "country": "US",
+      "title": "M250",
+      "motion_kind": "verified_video",
+      "asset_id": "M250",
+      "source": "DVIDS · 15.04.2024 · U.S. Army",
+      "id": "review-shot-056",
+      "start": 32,
+      "duration": 4,
+      "visual_purpose": "M250 is not substituted with M249",
+      "narration_quote_asr": "М250. Цей кулемет використовує той самый новий набій калібру 6,8 мм, щой винтівка М7.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "original_audio_range": [
+        307.6,
+        311.6
+      ],
+      "animate_title": true,
+      "video": "assets/v2/archive-m250.mp4",
+      "full_bleed": true,
+      "fit": "cover",
+      "show_source": true,
+      "label_start": 0
+    }
+  ],
+  "title_motion": true,
+  "production_status": "36-second_revision_review_not_full_film"
+}

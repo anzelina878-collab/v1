@@ -17,10 +17,11 @@ from PIL import Image,ImageFilter
 
 
 @njit(cache=True)
-def raster(projected, normals, uv, texture, width, height):
+def raster(projected, normals, uv, textures, material_ids, width, height):
     output=np.zeros((height,width,4),np.uint8)
     depth=np.full((height,width),-1e20,np.float32)
     for k in range(len(projected)):
+        texture=textures[material_ids[k]]
         p=projected[k]
         x0,y0,z0=p[0];x1,y1,z1=p[1];x2,y2,z2=p[2]
         den=(y1-y2)*(x0-x2)+(x2-x1)*(y0-y2)
@@ -38,6 +39,7 @@ def raster(projected, normals, uv, texture, width, height):
                 depth[y,x]=z
                 u=a*uv[k,0,0]+b*uv[k,1,0]+c*uv[k,2,0]
                 v=a*uv[k,0,1]+b*uv[k,1,1]+c*uv[k,2,1]
+                u=u%1.0;v=v%1.0
                 tx=min(texture.shape[1]-1,max(0,int(u*(texture.shape[1]-1))))
                 ty=min(texture.shape[0]-1,max(0,int((1-v)*(texture.shape[0]-1))))
                 nx=a*normals[k,0,0]+b*normals[k,1,0]+c*normals[k,2,0]
@@ -76,8 +78,11 @@ def main():
     p.add_argument('--yaw-start',type=float,default=-25);p.add_argument('--yaw-end',type=float,default=25)
     a=p.parse_args()
     if a.duration<=0 or not math.isfinite(a.duration):raise ValueError('Invalid duration')
-    data=np.load(a.mesh,allow_pickle=False)
-    texture=np.asarray(Image.open(a.texture).convert('RGB'))
+    with np.load(a.mesh,allow_pickle=False) as archive:
+        data={key:archive[key] for key in archive.files}
+    if Path(a.texture).suffix=='.npz':textures=np.load(a.texture,allow_pickle=False)['textures']
+    else:textures=np.asarray(Image.open(a.texture).convert('RGB'))[None]
+    material_ids=data['material_ids'] if 'material_ids' in data else np.zeros(len(data['positions']),np.int32)
     output=Path(a.output).resolve();output.parent.mkdir(parents=True,exist_ok=True)
     forward=unit(np.array([4,-8,2.5],np.float32))
     right=unit(np.cross(np.array([0,0,1],np.float32),forward))
@@ -97,7 +102,7 @@ def main():
         world,q,n=geometry(data,yaw,basis)
         q[:,:,0]=(q[:,:,0]-center[0])*scale+a.width/2
         q[:,:,1]=-(q[:,:,1]-center[1])*scale+a.height*.42
-        rgba=raster(q,n,data['uv'],texture,a.width,a.height)
+        rgba=raster(q,n,data['uv'],textures,material_ids,a.width,a.height)
         im=Image.new('RGB',(a.width,a.height),'#F2F3F0')
         # Soft floor contact silhouette, computed from the rotated geometry.
         floor=world.copy();floor[:,:,2]=0
@@ -106,8 +111,20 @@ def main():
         projected[:,:,1]=-(projected[:,:,1]-center[1])*scale+a.height*.42
         from PIL import ImageDraw
         mask=Image.new('L',(a.width,a.height));draw=ImageDraw.Draw(mask)
-        for triangle in projected:
-            draw.polygon([tuple(x[:2]) for x in triangle],fill=48)
+        # A soft studio ground shadow; avoid a Python polygon per mesh triangle.
+        # Convex silhouette is deliberately approximate, as is the studio lighting.
+        sample=projected.reshape(-1,3)[::max(1,len(projected)*3//4000),:2]
+        points=sorted(set(map(tuple,sample)))
+        def cross(o,a,b):return (a[0]-o[0])*(b[1]-o[1])-(a[1]-o[1])*(b[0]-o[0])
+        lower=[];upper=[]
+        for point in points:
+            while len(lower)>=2 and cross(lower[-2],lower[-1],point)<=0:lower.pop()
+            lower.append(point)
+        for point in reversed(points):
+            while len(upper)>=2 and cross(upper[-2],upper[-1],point)<=0:upper.pop()
+            upper.append(point)
+        hull=lower[:-1]+upper[:-1]
+        if len(hull)>=3:draw.polygon(hull,fill=40)
         mask=mask.filter(ImageFilter.GaussianBlur(a.width/100))
         im.paste(Image.new('RGB',im.size,'#4E554B'),(0,0),mask)
         object_image=Image.fromarray(rgba,'RGBA')

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "path": "assets/v2/archive-m250.mp4",
+      "sha256": "86e0c2de015b378c1d358d9f98999b471515fcc4e3ccf528fc9ae4a10872b531",
+      "bytes": 2597126,
+      "kind": "documentary_archive",
+      "source_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "license": "Public domain U.S. Army video",
+      "archive_audio_removed": true
+    },
+    {
+      "path": "assets/v2/archive-m7.mp4",
+      "sha256": "84d3c9241aa5cee48a7d7ebc343ed9f555953a503300c22ab1d717d201221f35",
+      "bytes": 2212602,
+      "kind": "documentary_archive",
+      "source_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "license": "Public domain U.S. Army video",
+      "archive_audio_removed": true
+    },
+    {
+      "path": "assets/v2/m249-turntable.mp4",
+      "sha256": "9010e1c8b6ce7d1ff29c5e8f5dce466c83563dcc90a62a8579c8828356cab3a0",
+      "bytes": 4877472,
+      "kind": "true_3d_turntable",
+      "render": {
+        "motion_kind": "true_3d",
+        "renderer": "CPU UV-textured mesh rasterizer",
+        "lighting": "studio approximation",
+        "mesh_sha256": "962c3621b77f28555158df8e13aa90ce24fdee54de0d50fbc1d1ae75eafec22b",
+        "frames": 360,
+        "fps": 30,
+        "yaw_start": -45.0,
+        "yaw_end": 315.0,
+        "width": 1920,
+        "height": 1080,
+        "identity_verified_by_renderer": false
+      }
+    },
+    {
+      "path": "assets/v2/m4a1-turntable.mp4",
+      "sha256": "e1eea8313c9fef49d672013940a158f84db6a23fbfaf2ade261d6b1b6b874fb0",
+      "bytes": 2129331,
+      "kind": "true_3d_turntable",
+      "render": {
+        "motion_kind": "true_3d",
+        "renderer": "CPU UV-textured mesh rasterizer",
+        "lighting": "studio approximation",
+        "mesh_sha256": "2afcb47d874479f9a75e40fde8c6316b4e9dae6de75188a0b11eec3b02484d4c",
+        "frames": 360,
+        "fps": 30,
+        "yaw_start": -45.0,
+        "yaw_end": 315.0,
+        "width": 1920,
+        "height": 1080,
+        "identity_verified_by_renderer": false
+      }
+    }
+  ],
+  "source_details": "SOURCES_V2.md",
+  "status": "partial_3d_library_not_all_items"
+}

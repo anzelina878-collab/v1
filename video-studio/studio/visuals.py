@@ -127,6 +127,27 @@ class Painter:
     def panel(self, im, box, color="panel", radius=20):
         ImageDraw.Draw(im).rounded_rectangle(box, radius=radius, fill=self.color(color))
 
+    def motion_text(self, im, value, box, local, size=42, color='ink', bold=False, align='left', delay=0):
+        """Masked, eased title entrance. Enabled only by the revised project's flag."""
+        if not self.p.get('title_motion'):
+            self.text(im,value,box,size,color,bold,align)
+            return
+        elapsed=local-delay
+        if elapsed<=0:return
+        progress=ease(elapsed/.65)
+        if progress>=1:
+            self.text(im,value,box,size,color,bold,align)
+            return
+        layer=Image.new('RGBA',(W,H))
+        x,y,w,h=box
+        self.text(layer,value,(x,y+26*(1-progress),w,h),size,color,bold,align)
+        mask=Image.new('L',(W,H))
+        # A clean horizontal reveal rather than letter substitution or a distorted font.
+        ImageDraw.Draw(mask).rectangle((x,y,x+w*ease(elapsed/.6),y+h+30),fill=round(255*progress))
+        from PIL import ImageChops
+        layer.putalpha(ImageChops.multiply(layer.getchannel('A'),mask))
+        im.paste(layer,(0,0),layer)
+
     def tag(self, im, label, x, y, width=310, accent="blue"):
         self.panel(im, (x, y, x+width, y+54), "dark", radius=3)
         ImageDraw.Draw(im).rectangle((x, y, x+7, y+54), fill=self.color(accent))
@@ -181,9 +202,9 @@ class Painter:
         progress = max(0, min(1, time/total))
         d.rectangle((0, 1072, int(W*progress), H), fill=self.color("blue"))
 
-    def heading(self, im, scene):
+    def heading(self, im, scene, local=2):
         self.text(im, scene.get("eyebrow", "РОЗБІР СПОРЯДЖЕННЯ"), (90, 148, 1700, 44), 24, "blue", True)
-        self.text(im, scene.get("title", ""), (90, 202, 1730, 148), 66, bold=True)
+        self.motion_text(im, scene.get("title", ""), (90, 202, 1730, 148), local if scene.get('animate_title',True) else 2, 66, bold=True)
 
     def render(self, scene, local, index, absolute, footage=None):
         im = footage.copy().convert("RGB") if footage is not None else self.bg.copy()
@@ -205,7 +226,7 @@ class Painter:
                 panel=Image.new('RGBA',(W,250),(242,243,240,235))
                 im.paste(panel,(0,830),panel)
             country_flag(im, scene["country"], 90, 855)
-            self.text(im, scene.get("title", ""), (90, 930, 1720, 115), 78, bold=True)
+            self.motion_text(im, scene.get("title", ""), (90, 930, 1720, 115), local-scene.get('label_start',0) if scene.get('animate_title',True) else 2, 78, bold=True)
             for callout in scene.get("callouts", []):
                 if callout["start"] <= local < callout["end"]:
                     self.tag(im, callout["text"], 1230, 100, 600)
@@ -214,10 +235,14 @@ class Painter:
             return im
         if kind in {"intro", "outro", "section"}:
             self.text(im, scene.get("eyebrow", "ВІЗУАЛЬНИЙ РОЗБІР"), (180, 260, 1560, 60), 28, "blue", True, "center")
-            self.text(im, scene.get("title", ""), (180, 370+int(30*(1-ease(local/.6))), 1560, 270), 112 if kind == "section" else 98, bold=True, align="center")
-            d.rectangle((860, 695, 1060, 702), fill=self.color("yellow"))
+            if self.p.get('title_motion'):
+                self.motion_text(im,scene.get('title',''),(180,370,1560,270),local if scene.get('animate_title',True) else 2,112 if kind=='section' else 98,bold=True,align='center')
+            else:
+                self.text(im, scene.get("title", ""), (180, 370+int(30*(1-ease(local/.6))), 1560, 270), 112 if kind == "section" else 98, bold=True, align="center")
+            line_progress=ease(local/.8) if self.p.get('title_motion') else 1
+            d.rectangle((960-100*line_progress, 695, 960+100*line_progress, 702), fill=self.color("yellow"))
             if local > .3:
-                self.text(im, scene.get("subtitle", ""), (320, 754, 1280, 150), 36, "muted", align="center")
+                self.motion_text(im, scene.get("subtitle", ""), (320, 754, 1280, 150), local, 36, "muted", align="center",delay=.3)
         elif kind == "item":
             self.tag(im, scene.get("category", "СПОРЯДЖЕННЯ"), 90, 155, 510)
             self.picture(im, scene, (100, 265, 1050, 590), local)
@@ -229,7 +254,7 @@ class Painter:
             if scene.get("note"):
                 self.text(im, scene["note"], (110, 902, 1690, 65), 25, "muted")
         elif kind == "compare":
-            self.heading(im, scene)
+            self.heading(im, scene, local)
             for j, side in enumerate(scene["sides"]):
                 x = 90+j*900
                 self.panel(im, (x, 370, x+840, 940))
@@ -239,7 +264,7 @@ class Painter:
                 self.text(im, side.get("title", ""), (x+35, 785, 770, 70), 39, bold=True, align="center")
                 self.text(im, side.get("detail", ""), (x+50, 866, 740, 65), 26, "muted", align="center")
         elif kind == "bars":
-            self.heading(im, scene)
+            self.heading(im, scene, local)
             rows = scene["values"]
             row_h = min(100, 520/len(rows))
             self.text(im, scene.get("unit", ""), (650, 350, 1100, 50), 24, "muted")
@@ -254,7 +279,7 @@ class Painter:
                 self.text(im, row.get("display", str(row["value"])), (1660, y-3, 160, 58), 34, bold=True)
             self.text(im, scene.get("note", ""), (95, 918, 1710, 65), 25, "muted")
         elif kind == "kit":
-            self.heading(im, scene)
+            self.heading(im, scene, local)
             items = scene["items"]
             cols = 3 if len(items) > 4 else 2
             cell_w = 1760/cols
@@ -267,7 +292,7 @@ class Painter:
                 self.picture(im, obj, (x+40, y+22, cell_w-80, cell_h-105), local-j*.12)
                 self.text(im, obj.get("label", ""), (x+30, y+cell_h-80, cell_w-60, 60), 29, bold=True, align="center")
         elif kind == "diagram":
-            self.heading(im, scene)
+            self.heading(im, scene, local)
             nodes = scene["nodes"]
             n = len(nodes)
             step = 1740/n

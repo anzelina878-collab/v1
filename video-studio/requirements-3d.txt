@@ -2,3 +2,6 @@
 Pillow>=10.0,<13
 numpy>=1.26,<3
 numba>=0.60,<1
+
+# Static GLB import, including Draco-compressed meshes.
+DracoPy>=2.2,<3
