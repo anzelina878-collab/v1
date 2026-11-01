@@ -1,0 +1,27 @@
+{
+  "revision": "v2",
+  "video": "output/final_video_v2.mp4",
+  "editable_archive": "output/project_source_v2.zip",
+  "changes": [
+    "35 shots in first 90 seconds",
+    "12 kinds of true rotating geometry, including 3 explicitly schematic original exterior models",
+    "Real photos retained, combined with 35 archive plans",
+    "Only 7 dedicated information cards",
+    "Archive lower thirds restored to 110px tall, 72x48 flags and model names",
+    "Ghadir source-site footer removed by editorial crop; attribution retained separately",
+    "Cards freeze after their first entrance",
+    "Archive reuse interval measured from prior use end exceeds 60 seconds"
+  ],
+  "voice_changes": "none",
+  "review_scope": "Source imagery, storyboard, selected encoded frames and automatic full decode/audio correlation; no claim of uninterrupted human playback",
+  "asset_count": 136,
+  "scene_count": 163,
+  "status": "technically_verified",
+  "verification_report": "output/revision_v2/verification.json",
+  "video_sha256": "94ccc2d2fb71aed61f24abe5f7aafca84bb13e1d3c096feba1d1177ebf49a58c",
+  "original_audio_sha256": "4df352eb83ffaef0d787d9922b201b44b6984dda7239284118b9224ad6374430",
+  "tests": {
+    "episode": 7,
+    "studio": 19
+  }
+}

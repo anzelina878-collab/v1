@@ -1,0 +1,12 @@
+test_card_never_restarts_after_settling (test_edit_rules.EditRulesTest.test_card_never_restarts_after_settling) ... ok
+test_return_after_more_than_a_minute (test_edit_rules.EditRulesTest.test_return_after_more_than_a_minute) ... ok
+test_source_continuation_cannot_evade_cooldown (test_edit_rules.EditRulesTest.test_source_continuation_cannot_evade_cooldown) ... ok
+test_hook_has_continuous_fast_speech_bound_coverage (test_revision_v2.RevisionV2Tests.test_hook_has_continuous_fast_speech_bound_coverage) ... ok
+test_reuse_policy_survives_hook_and_new_cc_sources (test_revision_v2.RevisionV2Tests.test_reuse_policy_survives_hook_and_new_cc_sources) ... ok
+test_same_voice_timeline_and_real_geometry_not_warped_photos (test_revision_v2.RevisionV2Tests.test_same_voice_timeline_and_real_geometry_not_warped_photos) ... ok
+test_video_names_are_present_and_first_ship_is_identified (test_revision_v2.RevisionV2Tests.test_video_names_are_present_and_first_ship_is_identified) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.005s
+
+OK

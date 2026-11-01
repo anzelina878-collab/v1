@@ -1,0 +1,35 @@
+{
+  "scenes": 163,
+  "kinds": {
+    "archive": 35,
+    "turntable": 26,
+    "photo": 74,
+    "compare": 19,
+    "ident": 2,
+    "graphic": 7
+  },
+  "seconds_by_kind": {
+    "archive": 336.833,
+    "compare": 202.233,
+    "graphic": 77.033,
+    "photo": 561.067,
+    "ident": 9.667,
+    "turntable": 210.633
+  },
+  "rotating_asset_ids": [
+    "model-abrams",
+    "model-apache",
+    "model-b2",
+    "model-blackhawk",
+    "model-chinook",
+    "model-f14",
+    "model-f22",
+    "model-ford-illustrative",
+    "model-ghadir-illustrative",
+    "model-m4",
+    "model-mig29",
+    "model-shahed136-illustrative"
+  ],
+  "hook_shots": 35,
+  "voice_unchanged": true
+}
