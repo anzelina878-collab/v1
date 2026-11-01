@@ -1,0 +1,15 @@
+{
+  "title": "АРСЕНАЛ 360°",
+  "duration": 6,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "seed": 360,
+  "columns": 24,
+  "rows": 24,
+  "font": "fonts/Title.ttf",
+  "assets": "assets",
+  "reveal_start": 0.65,
+  "reveal_end": 2.7,
+  "output": "output/arsenal_360_intro_v1.mp4"
+}

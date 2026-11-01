@@ -1,0 +1,15 @@
+{
+  "resolution": "1920x1080",
+  "duration_seconds": 6,
+  "frames": 180,
+  "fps": 30,
+  "video_codec": "h264",
+  "audio_tracks": 0,
+  "full_decode": "passed",
+  "black_frames": "none detected (0.05s minimum)",
+  "layout": "387 windows, full coverage, no overlap, deterministic",
+  "source_videos": 13,
+  "existing_project_tests": "19 passed",
+  "review": "source contact sheet and storyboard inspected; encoded still inspected separately; no continuous human playback claimed",
+  "sha256": "8a8b69969479662962ae94acdb624f990988e9d11bc4a84e6013a149bb4badc2"
+}
