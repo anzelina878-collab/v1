@@ -4,3 +4,6 @@
 video-studio/episodes/001-usa-china-2026/output/opening_v4.mp4 filter=lfs diff=lfs merge=lfs -text
 video-studio/episodes/001-usa-china-2026/assets/v4/*.mp4 filter=lfs diff=lfs merge=lfs -text
 video-studio/episodes/001-usa-china-2026/output/final_video_v4.mp4 filter=lfs diff=lfs merge=lfs -text
+
+video-studio/episodes/002-usa-iran/output/final_video_v1.mp4 filter=lfs diff=lfs merge=lfs -text
+video-studio/episodes/002-usa-iran/output/project_source_v1.zip filter=lfs diff=lfs merge=lfs -text

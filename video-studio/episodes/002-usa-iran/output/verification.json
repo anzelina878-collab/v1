@@ -1,0 +1,261 @@
+{
+  "status": "technically_verified",
+  "video": "/tmp/arsenal-002/render/final_video_v1.mp4",
+  "sha256": "b63d3b52c4525b21bc2d40a0100edb7e8c2773b33e96dbd2de622aa255f88ee2",
+  "duration": 1397.466667,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 41924,
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "audio_sample_rate": "48000",
+  "original_audio_sha256": "4df352eb83ffaef0d787d9922b201b44b6984dda7239284118b9224ad6374430",
+  "audio_waveform_correlation_zero_lag": 0.9998010352182873,
+  "full_video_and_audio_decode": "passed",
+  "archive_spacing": "passed >60 seconds from previous use end",
+  "encoded_information_card_freeze_checks": [
+    {
+      "id": "shot-003",
+      "mean_pixel_difference": 3.4722223062999547e-05
+    },
+    {
+      "id": "shot-006",
+      "mean_pixel_difference": 0.30759838223457336
+    },
+    {
+      "id": "shot-007",
+      "mean_pixel_difference": 0.0007812500116415322
+    },
+    {
+      "id": "shot-008",
+      "mean_pixel_difference": 0.06784143298864365
+    },
+    {
+      "id": "shot-009",
+      "mean_pixel_difference": 0.06652198731899261
+    },
+    {
+      "id": "shot-010",
+      "mean_pixel_difference": 0.06403934955596924
+    },
+    {
+      "id": "shot-012",
+      "mean_pixel_difference": 0.07861689478158951
+    },
+    {
+      "id": "shot-021",
+      "mean_pixel_difference": 0.3564004600048065
+    },
+    {
+      "id": "shot-022",
+      "mean_pixel_difference": 0.00035300926538184285
+    },
+    {
+      "id": "shot-024",
+      "mean_pixel_difference": 0.0503472238779068
+    },
+    {
+      "id": "shot-025",
+      "mean_pixel_difference": 0.005688657518476248
+    },
+    {
+      "id": "shot-027",
+      "mean_pixel_difference": 0.3306886553764343
+    },
+    {
+      "id": "shot-028",
+      "mean_pixel_difference": 0.0001909722195705399
+    },
+    {
+      "id": "shot-031",
+      "mean_pixel_difference": 0.06489583104848862
+    },
+    {
+      "id": "shot-033",
+      "mean_pixel_difference": 0.08226852118968964
+    },
+    {
+      "id": "shot-037",
+      "mean_pixel_difference": 0.0003124999930150807
+    },
+    {
+      "id": "shot-039",
+      "mean_pixel_difference": 0.05226851999759674
+    },
+    {
+      "id": "shot-041",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-044",
+      "mean_pixel_difference": 0.3487268388271332
+    },
+    {
+      "id": "shot-045",
+      "mean_pixel_difference": 0.21986690163612366
+    },
+    {
+      "id": "shot-046",
+      "mean_pixel_difference": 0.04913773015141487
+    },
+    {
+      "id": "shot-047",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-048",
+      "mean_pixel_difference": 0.0676504597067833
+    },
+    {
+      "id": "shot-049",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-054",
+      "mean_pixel_difference": 0.0690104141831398
+    },
+    {
+      "id": "shot-056",
+      "mean_pixel_difference": 0.07418981194496155
+    },
+    {
+      "id": "shot-057",
+      "mean_pixel_difference": 0.06554976850748062
+    },
+    {
+      "id": "shot-060",
+      "mean_pixel_difference": 0.007650462910532951
+    },
+    {
+      "id": "shot-061",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-064",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-066",
+      "mean_pixel_difference": 0.08266782760620117
+    },
+    {
+      "id": "shot-070",
+      "mean_pixel_difference": 0.04072337970137596
+    },
+    {
+      "id": "shot-073",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-074",
+      "mean_pixel_difference": 0.07368055731058121
+    },
+    {
+      "id": "shot-079",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-083",
+      "mean_pixel_difference": 0.3542245328426361
+    },
+    {
+      "id": "shot-085",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-086",
+      "mean_pixel_difference": 0.06928819417953491
+    },
+    {
+      "id": "shot-088",
+      "mean_pixel_difference": 0.0651041641831398
+    },
+    {
+      "id": "shot-091",
+      "mean_pixel_difference": 0.047534722834825516
+    },
+    {
+      "id": "shot-092",
+      "mean_pixel_difference": 0.07770833373069763
+    },
+    {
+      "id": "shot-093",
+      "mean_pixel_difference": 0.061238426715135574
+    },
+    {
+      "id": "shot-095",
+      "mean_pixel_difference": 0.00021990740788169205
+    },
+    {
+      "id": "shot-097",
+      "mean_pixel_difference": 0.07597801089286804
+    },
+    {
+      "id": "shot-098",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-102",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-103",
+      "mean_pixel_difference": 0.3232928216457367
+    },
+    {
+      "id": "shot-105",
+      "mean_pixel_difference": 0.0001851851848186925
+    },
+    {
+      "id": "shot-109",
+      "mean_pixel_difference": 0.058813657611608505
+    },
+    {
+      "id": "shot-112",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-119",
+      "mean_pixel_difference": 0.0698263868689537
+    },
+    {
+      "id": "shot-120",
+      "mean_pixel_difference": 0.07282407581806183
+    },
+    {
+      "id": "shot-126",
+      "mean_pixel_difference": 0.3715277910232544
+    },
+    {
+      "id": "shot-127",
+      "mean_pixel_difference": 0.00039930554339662194
+    },
+    {
+      "id": "shot-128",
+      "mean_pixel_difference": 0.0590277761220932
+    },
+    {
+      "id": "shot-129",
+      "mean_pixel_difference": 0.07406828552484512
+    },
+    {
+      "id": "shot-130",
+      "mean_pixel_difference": 0.3832407295703888
+    },
+    {
+      "id": "shot-131",
+      "mean_pixel_difference": 0.06552661955356598
+    },
+    {
+      "id": "shot-132",
+      "mean_pixel_difference": 0.08633680641651154
+    },
+    {
+      "id": "shot-133",
+      "mean_pixel_difference": 0.0
+    }
+  ],
+  "control_frames": 136,
+  "continuous_human_watch_and_listen": "not performed; source sheets, storyboard and encoded controls are separately reviewed"
+}

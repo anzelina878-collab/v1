@@ -1,0 +1,54 @@
+{
+  "scenes": 133,
+  "count": {
+    "archive": 27,
+    "photo": 43,
+    "compare": 13,
+    "graphic": 48,
+    "turntable": 2
+  },
+  "seconds": {
+    "archive": 328.4000000000001,
+    "photo": 399.0333333333338,
+    "compare": 145.96666666666636,
+    "graphic": 507.5666666666664,
+    "turntable": 16.5
+  },
+  "percent": {
+    "archive": 23.5,
+    "photo": 28.55,
+    "compare": 10.45,
+    "graphic": 36.32,
+    "turntable": 1.18
+  },
+  "archive_returns": [
+    {
+      "source": "f35",
+      "gap_seconds": 74.0
+    },
+    {
+      "source": "tomahawk",
+      "gap_seconds": 136.90000000000003
+    },
+    {
+      "source": "ford",
+      "gap_seconds": 1101.0333333333333
+    },
+    {
+      "source": "f22",
+      "gap_seconds": 1098.6
+    },
+    {
+      "source": "abrams",
+      "gap_seconds": 934.5999999999999
+    },
+    {
+      "source": "ford",
+      "gap_seconds": 151.0666666666666
+    }
+  ],
+  "minimum_archive_gap": 74.0,
+  "looping_archive": false,
+  "AI_images": 0,
+  "AI_video": 0
+}

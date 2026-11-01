@@ -1,0 +1,1665 @@
+[
+  {
+    "id": "f35",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/f35.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:F-35A_flight_(cropped).jpg",
+    "photo_credit": "U.S. Air Force photo by Master Sgt. Donald R. Allen · Public domain",
+    "photo_metadata": {
+      "id": "Lockheed_Martin_F-35_Lightning_II",
+      "path": "/tmp/arsenal-002/assets/Lockheed_Martin_F-35_Lightning_II.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:F-35A_flight_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/F-35A_flight_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II",
+      "file": "File:F-35A_flight_(cropped).jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "U.S. Air Force photo by Master Sgt. Donald R. Allen",
+      "credit": "http://www.dvidshub.net/image/935698/aerial-refueling-f-35-lightning-ii-joint-strike-fighters-eglin-afb-fla#.UZyEMrVU8QY"
+    },
+    "display_name": "F35",
+    "video": "assets/video/f35.mp4",
+    "video_source": "https://www.dvidshub.net/video/600258",
+    "video_credit": "DVIDS / 600258 · Public Domain",
+    "video_metadata": {
+      "id": "f35",
+      "path": "/tmp/arsenal-002/video/f35.mp4",
+      "page": "https://www.dvidshub.net/video/600258",
+      "title": "DVIDS - Video - F-35 Lightning II take off 5",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/1805/DOD_105621834/DOD_105621834-1024x576-1769k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 600258",
+      "country": "US"
+    },
+    "duration": 20.566667,
+    "fallback_photo": "f35",
+    "preferred_in": 0
+  },
+  {
+    "id": "f22",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/f22.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:F-22_Raptor_edit1_(cropped).jpg",
+    "photo_credit": "F-22_Raptor.JPG: Master Sgt. Andy Dunaway · Public domain",
+    "photo_metadata": {
+      "id": "Lockheed_Martin_F-22_Raptor",
+      "path": "/tmp/arsenal-002/assets/Lockheed_Martin_F-22_Raptor.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:F-22_Raptor_edit1_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor",
+      "file": "File:F-22_Raptor_edit1_(cropped).jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "F-22_Raptor.JPG: Master Sgt. Andy Dunaway",
+      "credit": "F-22_Raptor.JPG"
+    },
+    "display_name": "F22",
+    "video": "assets/video/f22.mp4",
+    "video_source": "https://www.dvidshub.net/video/529648",
+    "video_credit": "DVIDS / 529648 · Public Domain",
+    "video_metadata": {
+      "id": "f22",
+      "path": "/tmp/arsenal-002/video/f22.mp4",
+      "page": "https://www.dvidshub.net/video/529648",
+      "title": "DVIDS - Video - F-22 Raptor Takeoff B-Roll (60FPS)",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/1706/DOD_104452003/DOD_104452003-1024x576-1769k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 529648",
+      "country": "US"
+    },
+    "duration": 45.0,
+    "fallback_photo": "f22",
+    "preferred_in": 8
+  },
+  {
+    "id": "f15ex",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/f15ex.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:F-15EX_Eagle_II.jpg",
+    "photo_credit": "Ethan Wagner · Public domain",
+    "photo_metadata": {
+      "id": "Boeing_F-15EX_Eagle_II",
+      "path": "/tmp/arsenal-002/assets/Boeing_F-15EX_Eagle_II.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:F-15EX_Eagle_II.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/F-15EX_Eagle_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Boeing_F-15EX_Eagle_II",
+      "file": "File:F-15EX_Eagle_II.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Ethan Wagner",
+      "credit": "https://www.edwards.af.mil/News/Photos/igphoto/2002660458/https://www.dvidshub.net/image/6650896/370th-flight-test-squadron-conducts-air-refueling-operations-with-f-15ex-eagle-iis"
+    },
+    "display_name": "F15EX",
+    "video": "assets/video/f15ex-flight.mp4",
+    "video_source": "https://www.dvidshub.net/video/1009873",
+    "video_credit": "DVIDS / 1009873 · Public Domain",
+    "video_metadata": {
+      "id": "f15ex-flight",
+      "path": "/tmp/arsenal-002/video/f15ex-flight.mp4",
+      "page": "https://www.dvidshub.net/video/1009873",
+      "title": "DVIDS - Video - F-15EXs train with air-to-ground munitions",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111757884/DOD_111757884.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 1009873",
+      "country": "US"
+    },
+    "duration": 40.0,
+    "fallback_photo": "f15ex",
+    "preferred_in": 0
+  },
+  {
+    "id": "b2",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/b2.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:B2_bomber_initial_rollout_ceremony_1988.jpg",
+    "photo_credit": "Goretexguy · CC BY-SA 3.0",
+    "photo_metadata": {
+      "id": "Northrop_B-2_Spirit",
+      "path": "/tmp/arsenal-002/assets/Northrop_B-2_Spirit.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:B2_bomber_initial_rollout_ceremony_1988.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/B2_bomber_initial_rollout_ceremony_1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Northrop_B-2_Spirit",
+      "file": "File:B2_bomber_initial_rollout_ceremony_1988.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Goretexguy",
+      "credit": "Own work"
+    },
+    "display_name": "B2",
+    "video": "assets/video/b2.mp4",
+    "video_source": "https://www.dvidshub.net/video/505698",
+    "video_credit": "DVIDS / 505698 · Public Domain",
+    "video_metadata": {
+      "id": "b2",
+      "path": "/tmp/arsenal-002/video/b2.mp4",
+      "page": "https://www.dvidshub.net/video/505698",
+      "title": "DVIDS - Video - B-2 in flight B-Roll",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/1701/DOD_104005287/DOD_104005287-1024x576-1769k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 505698",
+      "country": "US"
+    },
+    "duration": 17.833333,
+    "fallback_photo": "b2",
+    "preferred_in": 0
+  },
+  {
+    "id": "b21",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/b21.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:B-21-in-flight.jpg",
+    "photo_credit": "USAF · Public domain",
+    "photo_metadata": {
+      "id": "Northrop_Grumman_B-21_Raider",
+      "path": "/tmp/arsenal-002/assets/Northrop_Grumman_B-21_Raider.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:B-21-in-flight.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/B-21-in-flight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider",
+      "file": "File:B-21-in-flight.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "USAF",
+      "credit": "https://www.dvidshub.net/image/8423170/b-21-raider-continues-flight-test-production"
+    },
+    "display_name": "B21",
+    "video": "assets/video/b21.mp4",
+    "video_source": "https://www.dvidshub.net/video/937050",
+    "video_credit": "DVIDS / 937050 · Public Domain",
+    "video_metadata": {
+      "id": "b21",
+      "path": "/tmp/arsenal-002/video/b21.mp4",
+      "page": "https://www.dvidshub.net/video/937050",
+      "title": "DVIDS - Video - B-21 Takeoff and Landing (B-roll)",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2409/DOD_110570189/DOD_110570189.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 937050",
+      "country": "US"
+    },
+    "duration": 25.0,
+    "fallback_photo": "b21",
+    "preferred_in": 0
+  },
+  {
+    "id": "kc46",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/kc46.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:KC-46_Pegasus_prepares_to_refuel_C-17_(cropped).jpg",
+    "photo_credit": "USAF Christopher Okula · Public domain",
+    "photo_metadata": {
+      "id": "Boeing_KC-46_Pegasus",
+      "path": "/tmp/arsenal-002/assets/Boeing_KC-46_Pegasus.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:KC-46_Pegasus_prepares_to_refuel_C-17_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/KC-46_Pegasus_prepares_to_refuel_C-17_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus",
+      "file": "File:KC-46_Pegasus_prepares_to_refuel_C-17_(cropped).jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "USAF Christopher Okula",
+      "credit": "usaf.mil"
+    },
+    "display_name": "KC46",
+    "video": "assets/video/kc46-refuel.mp4",
+    "video_source": "https://www.dvidshub.net/video/971654",
+    "video_credit": "DVIDS / 971654 · Public Domain",
+    "video_metadata": {
+      "id": "kc46-refuel",
+      "path": "/tmp/arsenal-002/video/kc46-refuel.mp4",
+      "page": "https://www.dvidshub.net/video/971654",
+      "title": "DVIDS - Video - KC-46 aerial refueling broll",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2507/DOD_111174918/DOD_111174918.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 971654",
+      "country": "US"
+    },
+    "duration": 40.0,
+    "fallback_photo": "kc46",
+    "preferred_in": 25
+  },
+  {
+    "id": "f14",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/f14.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Irani_F-14_Tomcats_carrying_AIM-54_Phoenixs.jpg",
+    "photo_credit": "IRIAF · Public domain",
+    "photo_metadata": {
+      "id": "Grumman_F-14_Tomcat",
+      "path": "/tmp/arsenal-002/assets/Grumman_F-14_Tomcat.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Irani_F-14_Tomcats_carrying_AIM-54_Phoenixs.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Irani_F-14_Tomcats_carrying_AIM-54_Phoenixs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat",
+      "file": "File:Irani F-14 Tomcats carrying AIM-54 Phoenixs.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "IRIAF",
+      "credit": "http://www.iiaf.net/archive/aircraft/images/f_14__caring_hawk_missle.jpg"
+    },
+    "display_name": "F14"
+  },
+  {
+    "id": "f4",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/f4.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Irani_F-4_Phantom_II_refueling_through_a_boom.jpg",
+    "photo_credit": "IRIAF · Public domain",
+    "photo_metadata": {
+      "id": "McDonnell_Douglas_F-4_Phantom_II",
+      "path": "/tmp/arsenal-002/assets/McDonnell_Douglas_F-4_Phantom_II.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Irani_F-4_Phantom_II_refueling_through_a_boom.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Irani_F-4_Phantom_II_refueling_through_a_boom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II",
+      "file": "File:Irani F-4 Phantom II refueling through a boom.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "IRIAF",
+      "credit": "www.sajed.ir"
+    },
+    "display_name": "F4"
+  },
+  {
+    "id": "mig29",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/mig29.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:VVS_100th_IMG_0691_(7727464290)_(cropped).jpg",
+    "photo_credit": "Artem Katranzhi from Bakashikha, Russia · CC BY-SA 2.0",
+    "photo_metadata": {
+      "id": "Mikoyan_MiG-29",
+      "path": "/tmp/arsenal-002/assets/Mikoyan_MiG-29.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:VVS_100th_IMG_0691_(7727464290)_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/VVS_100th_IMG_0691_%287727464290%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29",
+      "file": "File:VVS_100th_IMG_0691_(7727464290)_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Artem Katranzhi from Bakashikha, Russia",
+      "credit": "IMG_0691"
+    },
+    "display_name": "MIG29"
+  },
+  {
+    "id": "su24",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/su24.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Sukhoi_Su-24_inflight_Mishin-2.jpg",
+    "photo_credit": "Alexander Mishin · CC BY-SA 3.0",
+    "photo_metadata": {
+      "id": "Sukhoi_Su-24",
+      "path": "/tmp/arsenal-002/assets/Sukhoi_Su-24.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sukhoi_Su-24_inflight_Mishin-2.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sukhoi_Su-24_inflight_Mishin-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Sukhoi_Su-24",
+      "file": "File:Sukhoi_Su-24_inflight_Mishin-2.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Alexander Mishin",
+      "credit": "http://www.airliners.net/photo/Russia---Air/Sukhoi-Su-24M/1536990/L/"
+    },
+    "display_name": "SU24"
+  },
+  {
+    "id": "kowsar",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/kowsar.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HESA_Kowsar4.jpg",
+    "photo_credit": "Tasnim News Agency · CC BY 4.0",
+    "photo_metadata": {
+      "id": "HESA_Kowsar",
+      "path": "/tmp/arsenal-002/assets/HESA_Kowsar.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:HESA_Kowsar4.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/HESA_Kowsar4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/HESA_Kowsar",
+      "file": "File:HESA_Kowsar4.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Tasnim News Agency\n",
+      "credit": "https://www.tasnimnews.ir/fa/media/1397/08/12/1867753/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%AE%D8%B7-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%AC%D8%AA-%D8%AC%D9%86%DA%AF%D9%86%D8%AF%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%DA%A9%D9%88%D8%AB%D8%B1/photo/12"
+    },
+    "display_name": "KOWSAR"
+  },
+  {
+    "id": "abrams",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/abrams.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:M1A2_SEP_v3.jpg",
+    "photo_credit": "Spc. Kali Ecton · Public domain",
+    "photo_metadata": {
+      "id": "M1_Abrams",
+      "path": "/tmp/arsenal-002/assets/M1_Abrams.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:M1A2_SEP_v3.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/M1A2_SEP_v3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/M1_Abrams",
+      "file": "File:M1A2_SEP_v3.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Spc. Kali Ecton",
+      "credit": "https://www.dvidshub.net/image/8533414/2-12-cav-regts-alpha-and-bravo-companies-complete-tank-gunnery-table-v-poland"
+    },
+    "display_name": "ABRAMS",
+    "video": "assets/video/abrams.mp4",
+    "video_source": "https://www.dvidshub.net/video/941338",
+    "video_credit": "DVIDS / 941338 · Public Domain",
+    "video_metadata": {
+      "id": "abrams",
+      "path": "/tmp/arsenal-002/video/abrams.mp4",
+      "page": "https://www.dvidshub.net/video/941338",
+      "title": "DVIDS - Video - Tanks in action",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2410/DOD_110644446/DOD_110644446.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 941338",
+      "country": "US"
+    },
+    "duration": 50.0,
+    "fallback_photo": "abrams",
+    "preferred_in": 15
+  },
+  {
+    "id": "karrar",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/karrar.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:18-Karar_tank_-%D8%AA%D8%A7%D9%86%DA%A9_%DA%A9%D8%B1%D8%A7%D8%B1.jpg",
+    "photo_credit": "Amin Ahouei · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Karrar_(tank)",
+      "path": "/tmp/arsenal-002/assets/Karrar_(tank).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:18-Karar_tank_-%D8%AA%D8%A7%D9%86%DA%A9_%DA%A9%D8%B1%D8%A7%D8%B1.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/18-Karar_tank_-%D8%AA%D8%A7%D9%86%DA%A9_%DA%A9%D8%B1%D8%A7%D8%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Karrar_(tank)",
+      "file": "File:18-Karar_tank_-تانک_کرار.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Amin Ahouei",
+      "credit": "https://www.tasnimnews.ir/fa/news/1400/10/01/2629075/%D8%AA%D8%A7%D9%86%DA%A9-%DA%A9%D8%B1%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-%D8%B3%D9%BE%D8%A7%D9%87-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D8%B4%D8%AF-%D8%AF%D8%B3%D8%AA-%D9%BE%D8%B1-%D8%B2%D8%B1%D9%87%DB%8C-%D9%86%D8%B2%D8%B3%D8%A7-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D8%AA%D8%A7%D9%86%DA%A9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C"
+    },
+    "display_name": "KARRAR"
+  },
+  {
+    "id": "t72",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/t72.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Alabino05042017-40.jpg",
+    "photo_credit": "Vitaly V. Kuzmin · CC BY-SA 4.0",
+    "photo_metadata": {
+      "id": "T-72",
+      "path": "/tmp/arsenal-002/assets/T-72.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Alabino05042017-40.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Alabino05042017-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/T-72",
+      "file": "File:Alabino05042017-40.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Vitaly V. Kuzmin",
+      "credit": "http://www.vitalykuzmin.net/Military/Rehearsal-in-Alabino-05April2017"
+    },
+    "display_name": "T72"
+  },
+  {
+    "id": "bradley",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/bradley.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:US_M2A1_Bradley_deployed_to_Saudi_Arabia_during_Operation_Desert_Shield.jpg",
+    "photo_credit": "SGT. Brian Cumper · Public domain",
+    "photo_metadata": {
+      "id": "M2_Bradley",
+      "path": "/tmp/arsenal-002/assets/M2_Bradley.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:US_M2A1_Bradley_deployed_to_Saudi_Arabia_during_Operation_Desert_Shield.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/US_M2A1_Bradley_deployed_to_Saudi_Arabia_during_Operation_Desert_Shield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/M2_Bradley",
+      "file": "File:US_M2A1_Bradley_deployed_to_Saudi_Arabia_during_Operation_Desert_Shield.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "SGT. Brian Cumper",
+      "credit": "https://catalog.archives.gov/id/6459235"
+    },
+    "display_name": "BRADLEY"
+  },
+  {
+    "id": "bmp2",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/bmp2.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Army2016demo-007.jpg",
+    "photo_credit": "Vitaly V. Kuzmin · CC BY-SA 4.0",
+    "photo_metadata": {
+      "id": "BMP-2",
+      "path": "/tmp/arsenal-002/assets/BMP-2.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Army2016demo-007.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Army2016demo-007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/BMP-2",
+      "file": "File:Army2016demo-007.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Vitaly V. Kuzmin",
+      "credit": "http://www.vitalykuzmin.net/Military/ARMY-2016-Demonstration/"
+    },
+    "display_name": "BMP2"
+  },
+  {
+    "id": "stryker",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/stryker.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Stryker_ICV_front_q.jpg",
+    "photo_credit": "U.S. Army · Public domain",
+    "photo_metadata": {
+      "id": "Stryker",
+      "path": "/tmp/arsenal-002/assets/Stryker.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Stryker_ICV_front_q.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Stryker_ICV_front_q.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Stryker",
+      "file": "File:Stryker_ICV_front_q.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "U.S. Army",
+      "credit": "http://www.sbct.army.mil/\n\nhttp://web.archive.org/web/20041015122832im_/http://www.sbct.army.mil/images/main/icv.jpg"
+    },
+    "display_name": "STRYKER"
+  },
+  {
+    "id": "jltv",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/jltv.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:L-ATV_4.jpg",
+    "photo_credit": "https://oshkoshdefense.com/photo-gallery/?category=Vehicles · CC BY-SA 4.0",
+    "photo_metadata": {
+      "id": "Joint_Light_Tactical_Vehicle",
+      "path": "/tmp/arsenal-002/assets/Joint_Light_Tactical_Vehicle.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:L-ATV_4.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/L-ATV_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Joint_Light_Tactical_Vehicle",
+      "file": "File:L-ATV_4.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "https://oshkoshdefense.com/photo-gallery/?category=Vehicles",
+      "credit": "https://oshkoshdefense.com/photo-gallery/?category=Vehicles"
+    },
+    "display_name": "JLTV"
+  },
+  {
+    "id": "safir",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/safir.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Islamic_Republic_of_Iran_Army_Day,_2023,_Bandar_Abbas_(013).jpg",
+    "photo_credit": "Rahbar Emamdadi · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Safir_(vehicle)",
+      "path": "/tmp/arsenal-002/assets/Safir_(vehicle).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Islamic_Republic_of_Iran_Army_Day,_2023,_Bandar_Abbas_(013).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Islamic_Republic_of_Iran_Army_Day%2C_2023%2C_Bandar_Abbas_%28013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Safir_(vehicle)",
+      "file": "File:Islamic_Republic_of_Iran_Army_Day,_2023,_Bandar_Abbas_(013).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Rahbar Emamdadi",
+      "credit": "https://www.farsnews.ir/photo/14020129000330/رژه-روز-ارتش-در-بندرعباس"
+    },
+    "display_name": "SAFIR"
+  },
+  {
+    "id": "tomahawk",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/tomahawk.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Tomahawk_Block_IV_cruise_missile_-crop.jpg",
+    "photo_credit": "U.S. Navy · Public domain",
+    "photo_metadata": {
+      "id": "Tomahawk_(missile)",
+      "path": "/tmp/arsenal-002/assets/Tomahawk_(missile).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tomahawk_Block_IV_cruise_missile_-crop.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tomahawk_Block_IV_cruise_missile_-crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Tomahawk_(missile)",
+      "file": "File:Tomahawk_Block_IV_cruise_missile_-crop.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "U.S. Navy\nderivative work: The High Fin Sperm Whale",
+      "credit": "Tomahawk_Block_IV_cruise_missile.jpg"
+    },
+    "display_name": "TOMAHAWK",
+    "video": "assets/video/tomahawk.mp4",
+    "video_source": "https://www.dvidshub.net/video/362338",
+    "video_credit": "DVIDS / 362338 · Public Domain",
+    "video_metadata": {
+      "id": "tomahawk",
+      "path": "/tmp/arsenal-002/video/tomahawk.mp4",
+      "page": "https://www.dvidshub.net/video/362338",
+      "title": "DVIDS - Video - Tomahawk Launch",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/1409/DOD_101963098/DOD_101963098-1024x576-1769k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 362338",
+      "country": "US"
+    },
+    "duration": 35.0,
+    "fallback_photo": "tomahawk",
+    "preferred_in": 8
+  },
+  {
+    "id": "himars",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/himars.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HIMARS_-_missile_launched.jpg",
+    "photo_credit": "U.S. Army photo · Public domain",
+    "photo_metadata": {
+      "id": "M142_HIMARS",
+      "path": "/tmp/arsenal-002/assets/M142_HIMARS.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:HIMARS_-_missile_launched.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/HIMARS_-_missile_launched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/M142_HIMARS",
+      "file": "File:HIMARS_-_missile_launched.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "U.S. Army photo",
+      "credit": "http://www.pentagon.mil/news/newsarticle.aspx?id=24398; exact image source"
+    },
+    "display_name": "HIMARS",
+    "video": "assets/video/himars.mp4",
+    "video_source": "https://www.dvidshub.net/video/778560",
+    "video_credit": "DVIDS / 778560 · Public Domain",
+    "video_metadata": {
+      "id": "himars",
+      "path": "/tmp/arsenal-002/video/himars.mp4",
+      "page": "https://www.dvidshub.net/video/778560",
+      "title": "DVIDS - Video - HIMARS B-roll",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2012/DOD_108118931/DOD_108118931-1024x576-1769k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 778560",
+      "country": "US"
+    },
+    "duration": 50.0,
+    "fallback_photo": "himars",
+    "preferred_in": 0
+  },
+  {
+    "id": "m270",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/m270.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:M270A1_Multiple_Launch_Rocket_System_South_Dakota_ANG.jpg",
+    "photo_credit": "Wikimedia Commons · Public domain",
+    "photo_metadata": {
+      "id": "M270_Multiple_Launch_Rocket_System",
+      "path": "/tmp/arsenal-002/assets/M270_Multiple_Launch_Rocket_System.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:M270A1_Multiple_Launch_Rocket_System_South_Dakota_ANG.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/M270A1_Multiple_Launch_Rocket_System_South_Dakota_ANG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/M270_Multiple_Launch_Rocket_System",
+      "file": "File:M270A1_Multiple_Launch_Rocket_System_South_Dakota_ANG.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "",
+      "credit": "https://www.dvidshub.net/image/1861949/cross-boundary"
+    },
+    "display_name": "M270"
+  },
+  {
+    "id": "atacms",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/atacms.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:M57A1_Army_Tactical_Missile_System_missile.jpg",
+    "photo_credit": "U.S. Army Acquisition Support Center · Public domain",
+    "photo_metadata": {
+      "id": "MGM-140_ATACMS",
+      "path": "/tmp/arsenal-002/assets/MGM-140_ATACMS.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:M57A1_Army_Tactical_Missile_System_missile.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/M57A1_Army_Tactical_Missile_System_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/MGM-140_ATACMS",
+      "file": "File:M57A1_Army_Tactical_Missile_System_missile.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "U.S. Army Acquisition Support Center",
+      "credit": "https://www.dvidshub.net/image/4357876/pointing-new-direction"
+    },
+    "display_name": "ATACMS"
+  },
+  {
+    "id": "prsm",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/prsm.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Precision_Strike_Missile_(PrSM)_Increment_1_Limited_User_Test.jpg",
+    "photo_credit": "Darrell Ames · Public domain",
+    "photo_metadata": {
+      "id": "Precision_Strike_Missile",
+      "path": "/tmp/arsenal-002/assets/Precision_Strike_Missile.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Precision_Strike_Missile_(PrSM)_Increment_1_Limited_User_Test.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Precision_Strike_Missile_%28PrSM%29_Increment_1_Limited_User_Test.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Precision_Strike_Missile",
+      "file": "File:Precision_Strike_Missile_(PrSM)_Increment_1_Limited_User_Test.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Darrell Ames",
+      "credit": "https://www.dvidshub.net/image/8797103/successful-precision-strike-missile-increment-1-limited-user-test"
+    },
+    "display_name": "PRSM"
+  },
+  {
+    "id": "fateh",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/fateh.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Fateh-110_Missile_by_YPA.IR_02.jpg",
+    "photo_credit": "Hossein Velayati · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Fateh-110",
+      "path": "/tmp/arsenal-002/assets/Fateh-110.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fateh-110_Missile_by_YPA.IR_02.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fateh-110_Missile_by_YPA.IR_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Fateh-110",
+      "file": "File:Fateh-110_Missile_by_YPA.IR_02.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hossein Velayati",
+      "credit": "http://www.ypa.ir/2013-01-23-13-24-55/item/487-رزمايش-موشكي-پيامبر-اعظم(ص)-7.html"
+    },
+    "display_name": "FATEH"
+  },
+  {
+    "id": "zolfaghar",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/zolfaghar.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Zolfaghar_missile.jpg",
+    "photo_credit": "Tasnim News Agency · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Zolfaghar_(missile)",
+      "path": "/tmp/arsenal-002/assets/Zolfaghar_(missile).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Zolfaghar_missile.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Zolfaghar_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Zolfaghar_(missile)",
+      "file": "File:Zolfaghar_missile.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Tasnim News Agency\n",
+      "credit": "https://newsmedia.tasnimnews.ir/Tasnim/Uploaded/Image/1396/04/02/1396040215262389711221244.jpg"
+    },
+    "display_name": "ZOLFAGHAR"
+  },
+  {
+    "id": "shahab",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/shahab.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Great_Prophet_II_(30).jpg",
+    "photo_credit": "Majid Asgaripour · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Shahab-3",
+      "path": "/tmp/arsenal-002/assets/Shahab-3.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Great_Prophet_II_(30).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Great_Prophet_II_%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Shahab-3",
+      "file": "File:Great_Prophet_II_(30).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Majid Asgaripour",
+      "credit": "https://www.mehrnews.com/x5r9x"
+    },
+    "display_name": "SHAHAB"
+  },
+  {
+    "id": "sejjil",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/sejjil.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Sejjil_missile_launch_-_November_2008_(21).jpg",
+    "photo_credit": "Esmaeil Davari · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Sejjil",
+      "path": "/tmp/arsenal-002/assets/Sejjil.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sejjil_missile_launch_-_November_2008_(21).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sejjil_missile_launch_-_November_2008_%2821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Sejjil",
+      "file": "File:Sejjil_missile_launch_-_November_2008_(21).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Esmaeil Davari",
+      "credit": "https://web.archive.org/web/20180915015540/https://media.farsnews.com/Media/8708/ImageReports/8708220765/23_8708220765_L600.jpg"
+    },
+    "display_name": "SEJJIL"
+  },
+  {
+    "id": "soumar",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/soumar.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Unveiling_ceremony_of_Soumar_cruise_missile_and_other_missiles_(13).jpg",
+    "photo_credit": "Mohammad Agah · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Soumar_(missile)",
+      "path": "/tmp/arsenal-002/assets/Soumar_(missile).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Unveiling_ceremony_of_Soumar_cruise_missile_and_other_missiles_(13).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Unveiling_ceremony_of_Soumar_cruise_missile_and_other_missiles_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Soumar_(missile)",
+      "file": "File:Unveiling_ceremony_of_Soumar_cruise_missile_and_other_missiles_(13).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Mohammad Agah",
+      "credit": "https://www.mehrnews.com/photo/2514009/رونمایی-از-موشک-کروز-زمینی-سومار"
+    },
+    "display_name": "SOUMAR"
+  },
+  {
+    "id": "g3",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/g3.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Heckler_%26_Koch_G3_Kunststoffschaft_Display_noBG.png",
+    "photo_credit": "https://commons.wikimedia.org/wiki/User:Harald_Hansen · CC BY-SA 4.0",
+    "photo_metadata": {
+      "id": "Heckler_%26_Koch_G3",
+      "path": "/tmp/arsenal-002/assets/Heckler_%26_Koch_G3.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Heckler_%26_Koch_G3_Kunststoffschaft_Display_noBG.png",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Heckler_%26_Koch_G3_Kunststoffschaft_Display_noBG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_G3",
+      "file": "File:Heckler & Koch G3 Kunststoffschaft Display noBG.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "https://commons.wikimedia.org/wiki/User:Harald_Hansen",
+      "credit": "https://commons.wikimedia.org/wiki/File:Automatic_rifle_AG-3_right.jpg\n\nhttps://commons.wikimedia.org/wiki/File:Automatic_rifle_AG-3_left.jpg"
+    },
+    "display_name": "G3"
+  },
+  {
+    "id": "paladin",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/paladin.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Kings_of_battle_keep_the_fire;_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg",
+    "photo_credit": "Staff Sgt. Richard Wrigley · Public domain",
+    "photo_metadata": {
+      "id": "M109_howitzer",
+      "path": "/tmp/arsenal-002/assets/M109_howitzer.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kings_of_battle_keep_the_fire;_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kings_of_battle_keep_the_fire%3B_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/M109_howitzer",
+      "file": "File:Kings_of_battle_keep_the_fire;_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Staff Sgt. Richard Wrigley",
+      "credit": "https://www.dvidshub.net/image/1694738"
+    },
+    "display_name": "PALADIN",
+    "video": "assets/video/paladin.mp4",
+    "video_source": "https://www.dvidshub.net/video/825964",
+    "video_credit": "DVIDS / 825964 · Public Domain",
+    "video_metadata": {
+      "id": "paladin",
+      "path": "/tmp/arsenal-002/video/paladin.mp4",
+      "page": "https://www.dvidshub.net/video/825964",
+      "title": "DVIDS - Video - B-roll: BattleKings Battalion fire modernized M109A7 Paladin howitzers B-roll",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2112/DOD_108733447/DOD_108733447.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 825964",
+      "country": "US"
+    },
+    "duration": 50.0,
+    "fallback_photo": "paladin",
+    "preferred_in": 0
+  },
+  {
+    "id": "m777",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/m777.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:M777_howitzer_rear.jpg",
+    "photo_credit": "Sgt. Jose E. Guillen · Public domain",
+    "photo_metadata": {
+      "id": "M777_howitzer",
+      "path": "/tmp/arsenal-002/assets/M777_howitzer.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:M777_howitzer_rear.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/M777_howitzer_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/M777_howitzer",
+      "file": "File:M777_howitzer_rear.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Sgt. Jose E. Guillen",
+      "credit": "USMC website (direct link)"
+    },
+    "display_name": "M777",
+    "video": "assets/video/m777.mp4",
+    "video_source": "https://www.dvidshub.net/video/837766",
+    "video_credit": "DVIDS / 837766 · Public Domain",
+    "video_metadata": {
+      "id": "m777",
+      "path": "/tmp/arsenal-002/video/m777.mp4",
+      "page": "https://www.dvidshub.net/video/837766",
+      "title": "DVIDS - Video - 2-17 FA BN Fires M777 Howitzer at JBLM B-Roll (60 fps)",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2204/DOD_108899353/DOD_108899353.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 837766",
+      "country": "US"
+    },
+    "duration": 45.0,
+    "fallback_photo": "m777",
+    "preferred_in": 20
+  },
+  {
+    "id": "raad2",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/raad2.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:2018_Sacred_Defence_Week_parade_(185).jpg",
+    "photo_credit": "Vahid Abdi · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Raad-2",
+      "path": "/tmp/arsenal-002/assets/Raad-2.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2018_Sacred_Defence_Week_parade_(185).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/2018_Sacred_Defence_Week_parade_%28185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Raad-2",
+      "file": "File:2018_Sacred_Defence_Week_parade_(185).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Vahid Abdi",
+      "credit": "http://mehrnews.com/xMvh7"
+    },
+    "display_name": "RAAD2"
+  },
+  {
+    "id": "fajr5",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/fajr5.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Iranian_Fajr-5_Rocket_by_tasnimnews.jpg",
+    "photo_credit": "Tasnim News Agency · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Fajr-5",
+      "path": "/tmp/arsenal-002/assets/Fajr-5.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Iranian_Fajr-5_Rocket_by_tasnimnews.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Iranian_Fajr-5_Rocket_by_tasnimnews.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Fajr-5",
+      "file": "File:Iranian_Fajr-5_Rocket_by_tasnimnews.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Tasnim News Agency\n",
+      "credit": "https://www.tasnimnews.ir/fa/media/1395/11/18/1319764/رونمایی-از-پنج-دستاورد-رزمی-دفاعی-با-حضور-وزیر-دفاع"
+    },
+    "display_name": "FAJR5"
+  },
+  {
+    "id": "mq9",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/mq9.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:MQ-9_Reaper_UAV_(cropped).jpg",
+    "photo_credit": "Lt. Col. Leslie Pratt · Public domain",
+    "photo_metadata": {
+      "id": "General_Atomics_MQ-9_Reaper",
+      "path": "/tmp/arsenal-002/assets/General_Atomics_MQ-9_Reaper.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MQ-9_Reaper_UAV_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/MQ-9_Reaper_UAV_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper",
+      "file": "File:MQ-9_Reaper_UAV_(cropped).jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Lt. Col. Leslie Pratt",
+      "credit": "MQ-9 Reaper UAV.jpg"
+    },
+    "display_name": "MQ9",
+    "video": "assets/video/mq9.mp4",
+    "video_source": "https://www.dvidshub.net/video/759190",
+    "video_credit": "DVIDS / 759190 · Public Domain",
+    "video_metadata": {
+      "id": "mq9",
+      "path": "/tmp/arsenal-002/video/mq9.mp4",
+      "page": "https://www.dvidshub.net/video/759190",
+      "title": "DVIDS - Video - MQ-9 Reaper Aerial",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2007/DOD_107891331/DOD_107891331-1024x576-1769k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 759190",
+      "country": "US"
+    },
+    "duration": 45.0,
+    "fallback_photo": "mq9",
+    "preferred_in": 0
+  },
+  {
+    "id": "rq4",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/rq4.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Global_Hawk_1.jpg",
+    "photo_credit": "U.S. Air Force photo by Bobbi Zapka · Public domain",
+    "photo_metadata": {
+      "id": "Northrop_Grumman_RQ-4_Global_Hawk",
+      "path": "/tmp/arsenal-002/assets/Northrop_Grumman_RQ-4_Global_Hawk.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Global_Hawk_1.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Global_Hawk_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk",
+      "file": "File:Global_Hawk_1.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "U.S. Air Force photo by Bobbi Zapka",
+      "credit": "http://www.af.mil/shared/media/photodb/photos/070301-F-9126Z-229.jpg"
+    },
+    "display_name": "RQ4",
+    "video": "assets/video/rq4.mp4",
+    "video_source": "https://www.dvidshub.net/video/691381",
+    "video_credit": "DVIDS / 691381 · Public Domain",
+    "video_metadata": {
+      "id": "rq4",
+      "path": "/tmp/arsenal-002/video/rq4.mp4",
+      "page": "https://www.dvidshub.net/video/691381",
+      "title": "DVIDS - Video - RQ-4 Global Hawk B-roll",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/1906/DOD_106930627/DOD_106930627-1024x576-1769k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 691381",
+      "country": "US"
+    },
+    "duration": 26.566667,
+    "fallback_photo": "rq4",
+    "preferred_in": 0
+  },
+  {
+    "id": "switchblade",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/switchblade.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Switchblade_300_launch.jpg",
+    "photo_credit": "U.S. Army AMRDEC Public Affairs · Public domain",
+    "photo_metadata": {
+      "id": "AeroVironment_Switchblade",
+      "path": "/tmp/arsenal-002/assets/AeroVironment_Switchblade.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Switchblade_300_launch.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Switchblade_300_launch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/AeroVironment_Switchblade",
+      "file": "File:Switchblade_300_launch.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "U.S. Army AMRDEC Public Affairs",
+      "credit": "https://madsciblog.tradoc.army.mil/wp-content/uploads/2021/06/Switchblade.jpg"
+    },
+    "display_name": "SWITCHBLADE"
+  },
+  {
+    "id": "shahed129",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/shahed129.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Shahed_129_(4).jpg",
+    "photo_credit": "Mehdi Bakhtiari · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Shahed_129",
+      "path": "/tmp/arsenal-002/assets/Shahed_129.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Shahed_129_(4).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Shahed_129_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Shahed_129",
+      "file": "File:Shahed_129_(4).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Mehdi Bakhtiari",
+      "credit": "Fars News"
+    },
+    "display_name": "SHAHED129"
+  },
+  {
+    "id": "mohajer6",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/mohajer6.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IRGC_Ground_New_Equipment_2021_(09).jpg",
+    "photo_credit": "Hadi Hirbodvash · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Qods_Mohajer-6",
+      "path": "/tmp/arsenal-002/assets/Qods_Mohajer-6.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IRGC_Ground_New_Equipment_2021_(09).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/IRGC_Ground_New_Equipment_2021_%2809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Qods_Mohajer-6",
+      "file": "File:IRGC_Ground_New_Equipment_2021_(09).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hadi Hirbodvash",
+      "credit": "https://www.farsnews.ir/photo/14000416000466/آیین-الحاق-تجهیزات-جدید-به-نیروی-زمینی-سپاه"
+    },
+    "display_name": "MOHAJER6"
+  },
+  {
+    "id": "shahed136",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/shahed136.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_(33).jpg",
+    "photo_credit": "Mohammadreza Jabbari · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Shahed_136",
+      "path": "/tmp/arsenal-002/assets/Shahed_136.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_(33).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Shahed_136",
+      "file": "File:2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_(33).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Mohammadreza Jabbari",
+      "credit": "tasnimnews.ir (Direct URL: https://newsmedia.tasnimnews.ir/Tasnim/Uploaded/Image/1402/02/26/1402022609510427827584284.jpg)"
+    },
+    "display_name": "SHAHED136"
+  },
+  {
+    "id": "patriot",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/patriot.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+    "photo_credit": "DoD Photo By Glenn Fawcett · Public domain",
+    "photo_metadata": {
+      "id": "MIM-104_Patriot",
+      "path": "/tmp/arsenal-002/assets/MIM-104_Patriot.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/MIM-104_Patriot",
+      "file": "File:U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "DoD Photo By Glenn Fawcett",
+      "credit": "http://www.eucom.mil/photo/24623/u-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey"
+    },
+    "display_name": "PATRIOT",
+    "video": "assets/video/patriot.mp4",
+    "video_source": "https://www.dvidshub.net/video/902897",
+    "video_credit": "DVIDS / 902897 · Public Domain",
+    "video_metadata": {
+      "id": "patriot",
+      "path": "/tmp/arsenal-002/video/patriot.mp4",
+      "page": "https://www.dvidshub.net/video/902897",
+      "title": "DVIDS - Video - Patriot Live Fire B-roll",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2311/DOD_109977467/DOD_109977467.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 902897",
+      "country": "US"
+    },
+    "duration": 45.0,
+    "fallback_photo": "patriot",
+    "preferred_in": 20
+  },
+  {
+    "id": "thaad",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/thaad.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:The_first_of_two_Terminal_High_Altitude_Area_Defense_(THAAD)_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg",
+    "photo_credit": "The U.S. Army · Public domain",
+    "photo_metadata": {
+      "id": "Terminal_High_Altitude_Area_Defense",
+      "path": "/tmp/arsenal-002/assets/Terminal_High_Altitude_Area_Defense.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_first_of_two_Terminal_High_Altitude_Area_Defense_(THAAD)_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Terminal_High_Altitude_Area_Defense",
+      "file": "File:The_first_of_two_Terminal_High_Altitude_Area_Defense_(THAAD)_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "The U.S. Army\n\nRalph Scott/Missile Defense Agency/U.S. Department of Defense",
+      "credit": "Successful Mission"
+    },
+    "display_name": "THAAD",
+    "video": "assets/video/thaad-launch-clean.mp4",
+    "video_source": "https://www.dvidshub.net/video/40683",
+    "video_credit": "DVIDS / 40683 · Public Domain",
+    "video_metadata": {
+      "id": "thaad-launch",
+      "path": "/tmp/arsenal-002/video/thaad-launch-clean.mp4",
+      "page": "https://www.dvidshub.net/video/40683",
+      "title": "DVIDS - Video - Terminal High Altitude Area Defense (THAAD) Test",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/0806/DOD_100021103/DOD_100021103-1024x576-2000k.mp4",
+      "source_in": 20,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 40683",
+      "country": "US",
+      "selected_duration": 5
+    },
+    "duration": 5.0,
+    "fallback_photo": "thaad",
+    "preferred_in": 0
+  },
+  {
+    "id": "s300",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/s300.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:S-300PMU2_complex.jpg",
+    "photo_credit": "No machine-readable author provided. .:Ajvol:. assumed (based on  · Public domain",
+    "photo_metadata": {
+      "id": "S-300_missile_system",
+      "path": "/tmp/arsenal-002/assets/S-300_missile_system.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:S-300PMU2_complex.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/S-300PMU2_complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/S-300_missile_system",
+      "file": "File:S-300PMU2 complex.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "No machine-readable author provided. .:Ajvol:. assumed (based on copyright claims).",
+      "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+    },
+    "display_name": "S300"
+  },
+  {
+    "id": "bavar",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/bavar.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:2019_Sacred_Defence_Week_parade_(148).jpg",
+    "photo_credit": "Hossein Mersadi · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Bavar-373",
+      "path": "/tmp/arsenal-002/assets/Bavar-373.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2019_Sacred_Defence_Week_parade_(148).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/2019_Sacred_Defence_Week_parade_%28148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Bavar-373",
+      "file": "File:2019_Sacred_Defence_Week_parade_(148).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hossein Mersadi",
+      "credit": "http://fna.ir/dc1tot"
+    },
+    "display_name": "BAVAR"
+  },
+  {
+    "id": "apache",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/apache.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:AH-64D_Apache_Longbow.jpg",
+    "photo_credit": "\"Photo Courtesy of U.S. Army\" - by Tech. Sgt. Andy Dunaway · Public domain",
+    "photo_metadata": {
+      "id": "Boeing_AH-64_Apache",
+      "path": "/tmp/arsenal-002/assets/Boeing_AH-64_Apache.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:AH-64D_Apache_Longbow.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/AH-64D_Apache_Longbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Boeing_AH-64_Apache",
+      "file": "File:AH-64D_Apache_Longbow.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "\"Photo Courtesy of U.S. Army\" - by Tech. Sgt. Andy Dunaway",
+      "credit": "www.army.mil (via internet archive)"
+    },
+    "display_name": "APACHE",
+    "video": "assets/video/apache.mp4",
+    "video_source": "https://www.dvidshub.net/video/834686",
+    "video_credit": "DVIDS / 834686 · Public Domain",
+    "video_metadata": {
+      "id": "apache",
+      "path": "/tmp/arsenal-002/video/apache.mp4",
+      "page": "https://www.dvidshub.net/video/834686",
+      "title": "DVIDS - Video - AH-64 Apache",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2203/DOD_108859517/DOD_108859517.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 834686",
+      "country": "US"
+    },
+    "duration": 40.0,
+    "fallback_photo": "apache",
+    "preferred_in": 0
+  },
+  {
+    "id": "blackhawk",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/blackhawk.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:National-Guard-UH-60-Black-Hawk-operations-at-Fort-McCoy.jpg",
+    "photo_credit": "147th Aviation Regiment · Public domain",
+    "photo_metadata": {
+      "id": "Sikorsky_UH-60_Black_Hawk",
+      "path": "/tmp/arsenal-002/assets/Sikorsky_UH-60_Black_Hawk.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:National-Guard-UH-60-Black-Hawk-operations-at-Fort-McCoy.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/National-Guard-UH-60-Black-Hawk-operations-at-Fort-McCoy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk",
+      "file": "File:National-Guard-UH-60-Black-Hawk-operations-at-Fort-McCoy.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "147th Aviation Regiment",
+      "credit": "dvidshub.net"
+    },
+    "display_name": "BLACKHAWK",
+    "video": "assets/video/blackhawk.mp4",
+    "video_source": "https://www.dvidshub.net/video/544361",
+    "video_credit": "DVIDS / 544361 · Public Domain",
+    "video_metadata": {
+      "id": "blackhawk",
+      "path": "/tmp/arsenal-002/video/blackhawk.mp4",
+      "page": "https://www.dvidshub.net/video/544361",
+      "title": "DVIDS - Video - UH-60 Blackhawk B-Roll",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104731565/DOD_104731565-1024x576-1769k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 544361",
+      "country": "US"
+    },
+    "duration": 25.266667,
+    "fallback_photo": "blackhawk",
+    "preferred_in": 0
+  },
+  {
+    "id": "chinook",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/chinook.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:CH-47_assigned_to_3rd_General_Support_Aviation_Battalion,_82nd_Combat_Aviation_Brigade.jpg",
+    "photo_credit": "Sgt. Steven Galimore · CC0",
+    "photo_metadata": {
+      "id": "Boeing_CH-47_Chinook",
+      "path": "/tmp/arsenal-002/assets/Boeing_CH-47_Chinook.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:CH-47_assigned_to_3rd_General_Support_Aviation_Battalion,_82nd_Combat_Aviation_Brigade.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook",
+      "file": "File:CH-47_assigned_to_3rd_General_Support_Aviation_Battalion,_82nd_Combat_Aviation_Brigade.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Sgt. Steven Galimore",
+      "credit": "US Army"
+    },
+    "display_name": "CHINOOK",
+    "video": "assets/video/chinook.mp4",
+    "video_source": "https://www.dvidshub.net/video/620982",
+    "video_credit": "DVIDS / 620982 · Public Domain",
+    "video_metadata": {
+      "id": "chinook",
+      "path": "/tmp/arsenal-002/video/chinook.mp4",
+      "page": "https://www.dvidshub.net/video/620982",
+      "title": "DVIDS - Video - CH-47 Chinook B-roll",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/1808/DOD_105954111/DOD_105954111-1024x576-1769k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 620982",
+      "country": "US"
+    },
+    "duration": 35.0,
+    "fallback_photo": "chinook",
+    "preferred_in": 8
+  },
+  {
+    "id": "cobra",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/cobra.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:US_Army_AH-1G_archived.jpg",
+    "photo_credit": "US Army · Public domain",
+    "photo_metadata": {
+      "id": "Bell_AH-1_Cobra",
+      "path": "/tmp/arsenal-002/assets/Bell_AH-1_Cobra.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:US_Army_AH-1G_archived.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/US_Army_AH-1G_archived.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Bell_AH-1_Cobra",
+      "file": "File:US_Army_AH-1G_archived.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "US Army",
+      "credit": ".archives.gov"
+    },
+    "display_name": "COBRA"
+  },
+  {
+    "id": "bell214",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/bell214.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:A_Bell_214_of_IRIAA.jpg",
+    "photo_credit": "Shahram Sharifi · CC BY-SA 4.0",
+    "photo_metadata": {
+      "id": "Bell_214",
+      "path": "/tmp/arsenal-002/assets/Bell_214.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_Bell_214_of_IRIAA.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/A_Bell_214_of_IRIAA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Bell_214",
+      "file": "File:A Bell 214 of IRIAA.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Shahram Sharifi",
+      "credit": "Own work"
+    },
+    "display_name": "BELL214"
+  },
+  {
+    "id": "ford",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/ford.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:USS_Gerald_R._Ford_(CVN-78)_underway_in_the_Atlantic_Ocean_on_9_October_2022_(221009-N-TL968-1248).JPG",
+    "photo_credit": "U.S. Navy photo by Mass Communication Specialist 2nd Class Jackso · Public domain",
+    "photo_metadata": {
+      "id": "USS_Gerald_R._Ford",
+      "path": "/tmp/arsenal-002/assets/USS_Gerald_R._Ford.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:USS_Gerald_R._Ford_(CVN-78)_underway_in_the_Atlantic_Ocean_on_9_October_2022_(221009-N-TL968-1248).JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/USS_Gerald_R._Ford_%28CVN-78%29_underway_in_the_Atlantic_Ocean_on_9_October_2022_%28221009-N-TL968-1248%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/USS_Gerald_R._Ford",
+      "file": "File:USS_Gerald_R._Ford_(CVN-78)_underway_in_the_Atlantic_Ocean_on_9_October_2022_(221009-N-TL968-1248).JPG",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "U.S. Navy photo by Mass Communication Specialist 2nd Class Jackson Adkins",
+      "credit": "\n\n\n\n\n\n \nThis image was released by the United States Navy with the ID 221009-N-TL968-1248 (next).\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.\n\n\nالعربية ∙ বাংলা ∙ \nBahasa Indonesia ∙ \nBahaso Jambi ∙ \nDeutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−\n\n\n\n"
+    },
+    "display_name": "FORD",
+    "video": "assets/video/ford-turns.mp4",
+    "video_source": "https://www.dvidshub.net/video/718912",
+    "video_credit": "DVIDS / 718912 · Public Domain",
+    "video_metadata": {
+      "id": "ford-turns",
+      "path": "/tmp/arsenal-002/video/ford-turns.mp4",
+      "page": "https://www.dvidshub.net/video/718912",
+      "title": "DVIDS - Video - CVN 78 High Speed Turns",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/1910/DOD_107392231/DOD_107392231-1024x576-1769k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 718912",
+      "country": "US"
+    },
+    "duration": 40.4,
+    "fallback_photo": "ford",
+    "preferred_in": 0
+  },
+  {
+    "id": "destroyer",
+    "kind": [
+      "real_photo",
+      "stock_video"
+    ],
+    "photo": "assets/photos/destroyer.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:US_Navy_080906-N-1082Z-067_The_guided-missile_destroyer_USS_Roosevelt_(DDG_80)_transits_the_Atlantic_Ocean.jpg",
+    "photo_credit": "U.S. Navy photo by Mass Communication Specialist 2nd Class Jason  · Public domain",
+    "photo_metadata": {
+      "id": "Arleigh_Burke-class_destroyer",
+      "path": "/tmp/arsenal-002/assets/Arleigh_Burke-class_destroyer.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:US_Navy_080906-N-1082Z-067_The_guided-missile_destroyer_USS_Roosevelt_(DDG_80)_transits_the_Atlantic_Ocean.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/US_Navy_080906-N-1082Z-067_The_guided-missile_destroyer_USS_Roosevelt_%28DDG_80%29_transits_the_Atlantic_Ocean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Arleigh_Burke-class_destroyer",
+      "file": "File:US_Navy_080906-N-1082Z-067_The_guided-missile_destroyer_USS_Roosevelt_(DDG_80)_transits_the_Atlantic_Ocean.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "U.S. Navy photo by Mass Communication Specialist 2nd Class Jason R. Zalasky",
+      "credit": "\n\n\n\n\n\n \nThis image was released by the United States Navy with the ID 080906-N-1082Z-067 (next).\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.\n\n\nالعربية ∙ বাংলা ∙ \nBahasa Indonesia ∙ \nBahaso Jambi ∙ \nDeutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−\n\n\n\n"
+    },
+    "display_name": "DESTROYER",
+    "video": "assets/video/destroyer.mp4",
+    "video_source": "https://www.dvidshub.net/video/1002452",
+    "video_credit": "DVIDS / 1002452 · Public Domain",
+    "video_metadata": {
+      "id": "destroyer",
+      "path": "/tmp/arsenal-002/video/destroyer.mp4",
+      "page": "https://www.dvidshub.net/video/1002452",
+      "title": "DVIDS - Video - Exterior Footage of the Arleigh Burke-Class Destroyer USS Harvey C. Barnum Jr. (DDG 124)",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2604/DOD_111625127/DOD_111625127.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 1002452",
+      "country": "US"
+    },
+    "duration": 35.0,
+    "fallback_photo": "destroyer",
+    "preferred_in": 0
+  },
+  {
+    "id": "virginia",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/virginia.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg",
+    "photo_credit": "U.S. Navy photo by General Dynamics Electric Boat · Public domain",
+    "photo_metadata": {
+      "id": "Virginia-class_submarine",
+      "path": "/tmp/arsenal-002/assets/Virginia-class_submarine.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/US_Navy_040730-N-1234E-002_PCU_Virginia_%28SSN_774%29_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Virginia-class_submarine",
+      "file": "File:US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "U.S. Navy photo by General Dynamics Electric Boat",
+      "credit": "\n\n\n\n\n\n \nThis image was released by the United States Navy with the ID 040730-N-1234E-002 (next).\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.\n\n\nالعربية ∙ বাংলা ∙ \nBahasa Indonesia ∙ \nBahaso Jambi ∙ \nDeutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−\n\n\n\n"
+    },
+    "display_name": "VIRGINIA"
+  },
+  {
+    "id": "jamaran",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/jamaran.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D9%85%D9%88%D9%81%D9%82_%D9%82%D8%A8%D8%B6%D9%87_%D9%87%D8%A7%DB%8C_%DB%8C%DA%AF%D8%A7%D9%86_%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C_%D9%86%D8%A7%D9%88%D8%B4%DA%A9%D9%86_%D8%AC%D9%85%D8%A7%D8%B1%D8%A7%D9%86_(7).jpg",
+    "photo_credit": "Abdolhossein Rezvani · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Iranian_frigate_Jamaran",
+      "path": "/tmp/arsenal-002/assets/Iranian_frigate_Jamaran.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D9%85%D9%88%D9%81%D9%82_%D9%82%D8%A8%D8%B6%D9%87_%D9%87%D8%A7%DB%8C_%DB%8C%DA%AF%D8%A7%D9%86_%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C_%D9%86%D8%A7%D9%88%D8%B4%DA%A9%D9%86_%D8%AC%D9%85%D8%A7%D8%B1%D8%A7%D9%86_(7).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D9%85%D9%88%D9%81%D9%82_%D9%82%D8%A8%D8%B6%D9%87_%D9%87%D8%A7%DB%8C_%DB%8C%DA%AF%D8%A7%D9%86_%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C_%D9%86%D8%A7%D9%88%D8%B4%DA%A9%D9%86_%D8%AC%D9%85%D8%A7%D8%B1%D8%A7%D9%86_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Iranian_frigate_Jamaran",
+      "file": "File:تیراندازی_موفق_قبضه_های_یگان_عملیاتی_ناوشکن_جماران_(7).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Abdolhossein Rezvani",
+      "credit": "https://www.mehrnews.com/news/1038620/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C-%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%85%D9%88%D9%81%D9%82-%D9%82%D8%A8%D8%B6%D9%87-%D9%87%D8%A7%DB%8C-%DB%8C%DA%AF%D8%A7%D9%86-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D9%86%D8%A7%D9%88%D8%B4%DA%A9%D9%86-%D8%AC%D9%85%D8%A7%D8%B1%D8%A7%D9%86"
+    },
+    "display_name": "JAMARAN"
+  },
+  {
+    "id": "kilo",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/kilo.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Kilo_Submarine_DN-SC-96-00528.jpg",
+    "photo_credit": "ID: DN-SC-96-00528 Service Depicted: Other Service · Public domain",
+    "photo_metadata": {
+      "id": "Kilo-class_submarine",
+      "path": "/tmp/arsenal-002/assets/Kilo-class_submarine.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kilo_Submarine_DN-SC-96-00528.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kilo_Submarine_DN-SC-96-00528.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Kilo-class_submarine",
+      "file": "File:Kilo Submarine DN-SC-96-00528.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "ID: DN-SC-96-00528 Service Depicted: Other Service",
+      "credit": "http://www.defenseimagery.mil/imagery.html#a=search&amp;s=DN-SC-96-00528&amp;guid=ea834caf648c7047e377f7f1f3fb7929b9536b96"
+    },
+    "display_name": "KILO"
+  },
+  {
+    "id": "ghadir",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/ghadir.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Velayat_90_-_Naval_review_(27).jpg",
+    "photo_credit": "Hamed Jafarnejad · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Ghadir-class_submarine",
+      "path": "/tmp/arsenal-002/assets/Ghadir-class_submarine.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Velayat_90_-_Naval_review_(27).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Velayat_90_-_Naval_review_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Ghadir-class_submarine",
+      "file": "File:Velayat_90_-_Naval_review_(27).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hamed Jafarnejad",
+      "credit": "https://www.farsnews.ir/photo/13901013001480/%D8%B1%DA%98%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%DB%8C%DA%AF%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AD%D8%A7%D8%B6%D8%B1-%D8%AF%D8%B1-%D8%B1%D8%B2%D9%85%D8%A7%DB%8C%D8%B4-%D9%88%D9%84%D8%A7%DB%8C%D8%AA-90"
+    },
+    "display_name": "GHADIR"
+  },
+  {
+    "id": "hormuz",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/hormuz.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_and_Musandam_Peninsula_(MODIS_2018-12-10).jpg",
+    "photo_credit": "MODIS Land Rapid Response Team, NASA GSFC · Public domain",
+    "photo_metadata": {
+      "id": "Strait_of_Hormuz",
+      "path": "/tmp/arsenal-002/assets/Strait_of_Hormuz.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_and_Musandam_Peninsula_(MODIS_2018-12-10).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Strait_of_Hormuz_and_Musandam_Peninsula_%28MODIS_2018-12-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Strait_of_Hormuz",
+      "file": "File:Strait_of_Hormuz_and_Musandam_Peninsula_(MODIS_2018-12-10).jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "MODIS Land Rapid Response Team, NASA GSFC",
+      "credit": "This image or video was catalogued by Goddard Space Flight Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: 2018-12-10."
+    },
+    "display_name": "HORMUZ"
+  },
+  {
+    "id": "m4",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/M4A1.png",
+    "photo_credit": "U.S. Army · Public Domain",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:PEO_M4_Carbine_RAS_M68_CCO.png",
+    "display_name": "M4"
+  },
+  {
+    "id": "m7",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/M7.png",
+    "photo_credit": "U.S. Army · Public Domain",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:M7_Rifle.png",
+    "display_name": "M7"
+  },
+  {
+    "id": "iran-boats",
+    "kind": [
+      "stock_video"
+    ],
+    "photo": "assets/photos/iran-boats.jpg",
+    "photo_source": "https://www.dvidshub.net/video/747672",
+    "photo_credit": "U.S. Navy / DVIDS 747672 · Public Domain · кадр відео",
+    "display_name": "ІРАНСЬКІ ПРИБЕРЕЖНІ СИЛИ",
+    "video": "assets/video/iran-boats.mp4",
+    "video_source": "https://www.dvidshub.net/video/747672",
+    "video_credit": "DVIDS / 747672 · Public Domain",
+    "video_metadata": {
+      "id": "iran-boats",
+      "path": "/tmp/arsenal-002/video/iran-boats.mp4",
+      "page": "https://www.dvidshub.net/video/747672",
+      "title": "DVIDS - Video - IRGCN Vessels Conduct Unsafe, Unprofessional Interaction with U.S. Naval Forces in Arabian Gulf",
+      "url": "https://d34w7g4gy10iej.cloudfront.net/video/2004/DOD_107771383/DOD_107771383-256x144-111k.mp4",
+      "source_in": 0,
+      "license": "Public Domain (U.S. Government)",
+      "credit": "DVIDS / 747672",
+      "country": "IR"
+    },
+    "duration": 50.0,
+    "fallback_photo": "iran-boats",
+    "preferred_in": 0
+  },
+  {
+    "id": "abrams-360",
+    "kind": [
+      "true_3d"
+    ],
+    "video": "assets/video/abrams-360-fixed.mp4",
+    "duration": 10,
+    "video_credit": "yd / OpenGameArt · CC0 · 3D-візуалізація",
+    "model_source": "https://opengameart.org/content/abrams-tank",
+    "model_license": "CC0",
+    "model_note": "Display helper Cube.003 excluded; neutral studio colors; illustrative model, not version-specific technical CAD"
+  },
+  {
+    "id": "m4-360",
+    "kind": [
+      "true_3d"
+    ],
+    "video": "assets/video/m4-360.mp4",
+    "duration": 12,
+    "video_credit": "OpenGameArt · 3D-візуалізація",
+    "model_source": "https://opengameart.org/content/m4a1-assault-rifle",
+    "model_license": "CC0 (nisu / OpenGameArt)"
+  }
+]

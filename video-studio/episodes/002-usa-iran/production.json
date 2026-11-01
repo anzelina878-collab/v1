@@ -1,0 +1,41 @@
+{
+  "episode": "002-usa-iran",
+  "title": "США проти ІРАНУ: Повне порівняння військового арсеналу",
+  "channel": "АРСЕНАЛ 360°",
+  "status": "technically_verified",
+  "audio_duration": 1397.448,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "scope": "Visual production using supplied unmodified script and voiceover; preserve episode 001",
+  "revision_rules": {
+    "archive_captions": "Only flags and source by default; short relevant thesis only when it adds information",
+    "information_cards": "One entrance animation then hold still; never restart within a continuing card",
+    "archive_reuse": "Same source or continuation separated by more than 60 seconds from previous use end",
+    "turntables": "Real geometry only; full 360 degrees where a verified licensed model exists"
+  },
+  "working_media_location": "/tmp/arsenal-002",
+  "storage_note": "Separate temporary volume used to preserve all prior episode files. Delivery bundle must contain its own assets and relative paths.",
+  "checks": {
+    "original_audio_sha256": "4df352eb83ffaef0d787d9922b201b44b6984dda7239284118b9224ad6374430",
+    "original_script_sha256": "389af2bd4b7a53edc67ce4b1d5914860ea0f1313edbf84296d3fd5b714c52a57",
+    "settled_information_cards": 61,
+    "asr_token_agreement": 0.9008330027766759,
+    "tests": "19 existing + 3 new passed",
+    "storyboard_review": "source photos and video contacts; all six initial storyboard sheets; corrected assets reviewed separately",
+    "pilot_review": "encoded contact sheet inspected; not continuous human playback",
+    "encoded_frozen_information_cards": 60,
+    "encoded_worst_mean_pixel_difference": 0.3832407295703888,
+    "video_sha256": "b63d3b52c4525b21bc2d40a0100edb7e8c2773b33e96dbd2de622aa255f88ee2",
+    "audio_waveform_correlation": 0.9998010352182873,
+    "cache_source_replacement_invalidation": "passed"
+  },
+  "editorial_review": {
+    "source_contact_sheets": "reviewed",
+    "storyboards": "reviewed",
+    "encoded_controls": "136 frames reviewed across every scene",
+    "continuous_human_playback": "not performed"
+  }
+}
