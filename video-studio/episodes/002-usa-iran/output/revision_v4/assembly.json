@@ -1,0 +1,1389 @@
+{
+  "scenes": [
+    {
+      "id": "v2-shot-001",
+      "kind": "archive",
+      "frames": 75,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-001/scene.mp4",
+      "sha256": "b40fc8e2a5bb0e6a09d40474fe496996481ea454925e3e861adda724b51bec6e",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-002",
+      "kind": "turntable",
+      "frames": 87,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-002/scene.mp4",
+      "sha256": "6902fa0b723b5fc20156f4b6e0eea9bb13236f88eb7571f224d683334c0682b6",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-003",
+      "kind": "photo",
+      "frames": 84,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-003/scene.mp4",
+      "sha256": "7ea9ac62b124661c9b2d8922359a5cbb98032a5b344cebf3c7ae7482bd073f48",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-004",
+      "kind": "archive",
+      "frames": 99,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-004/scene.mp4",
+      "sha256": "e09ab46f36989dfd5c52a61399d72798d238dd126b35ff81e12031eaf69df299",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-005",
+      "kind": "archive",
+      "frames": 97,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-005/scene.mp4",
+      "sha256": "7a9ef3ae19210352082718ff5b1f0f088c43f231c75c975519c489decfca08ee",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-006",
+      "kind": "turntable",
+      "frames": 80,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-006/scene.mp4",
+      "sha256": "1375120f1b7cf161db9bf186956f3dd2621a39b758b4a7bd58a5572dc1d15599",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-007",
+      "kind": "photo",
+      "frames": 78,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-007/scene.mp4",
+      "sha256": "75c99cef64d31878c9028b3f1ba1bff8c7de88a0c3fcfd69b10079531eaa3d90",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-008",
+      "kind": "photo",
+      "frames": 53,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-008/scene.mp4",
+      "sha256": "b623b8a74e8e88c82406b96f33e506f43fbad89c82acab1b6ae22e93fc4045e4",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-009",
+      "kind": "compare",
+      "frames": 91,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-009/scene.mp4",
+      "sha256": "9224aa1397816f4394345ae40209b3c3e4c296f6c7866977b18211e4e1f5e1fe",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-010",
+      "kind": "photo",
+      "frames": 94,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-010/scene.mp4",
+      "sha256": "0e1d125409558ec069d184d26b569e01e8f2c94a9add7ec437864d43b21e2258",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-011",
+      "kind": "archive",
+      "frames": 92,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-011/scene.mp4",
+      "sha256": "0906a410d3afa0bbb939f3effd771034d69f66f0e4c5cd47ed48de682112dffd",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-012",
+      "kind": "photo",
+      "frames": 96,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-012/scene.mp4",
+      "sha256": "d4a4b577f0fc4e1be5f3d0d3700a179446e69a8fdd39300227cea43fea6bf44f",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-013",
+      "kind": "photo",
+      "frames": 99,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-013/scene.mp4",
+      "sha256": "0b8958ab27b109926bf25e20564bef3114aa494c42764af23a7dff289797920e",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-014",
+      "kind": "photo",
+      "frames": 115,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-014/scene.mp4",
+      "sha256": "b2459385533a396abb301e61cee582835ae14f5a0e168b81d3fdea711389e878",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-015",
+      "kind": "turntable",
+      "frames": 92,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-015/scene.mp4",
+      "sha256": "26940159728ec974c1ea2aea0113f36299276146af4ad5c8d37846456f24aa9f",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-016",
+      "kind": "photo",
+      "frames": 84,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-016/scene.mp4",
+      "sha256": "5961cacefb0ddccb2bf07fb68593b6f5d570b01190ebc2bbaec69d127e439b21",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-017",
+      "kind": "photo",
+      "frames": 59,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-017/scene.mp4",
+      "sha256": "4e20ec54d3c619b3df121b8e861180d842a2285743c173ee48ae0ea51822355e",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-018",
+      "kind": "turntable",
+      "frames": 79,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-018/scene.mp4",
+      "sha256": "ee5603f4294df2c5c259730669fb81883fa4ddc2dbfdc821f8053510eea39001",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-019",
+      "kind": "photo",
+      "frames": 52,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-019/scene.mp4",
+      "sha256": "d0b707c928fca9752ab00ae2f8fb18082847fbd4c8625821849051176a7a46ec",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-020",
+      "kind": "archive",
+      "frames": 108,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-020/scene.mp4",
+      "sha256": "215170ac96e77898ba1c401a7ac5e3c54e2c5a265f51837c23297d5e97d84191",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-021",
+      "kind": "turntable",
+      "frames": 44,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-021/scene.mp4",
+      "sha256": "70c93224ebff36827f2a2973f31e2eedc1728e11f826ac01a243b6667d6eb4eb",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-022",
+      "kind": "archive",
+      "frames": 50,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-022/scene.mp4",
+      "sha256": "1109358606b70fa1c147df2ddaec29e19f4ef714c9ced5e71b87400a37ef65ed",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-023",
+      "kind": "turntable",
+      "frames": 117,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-023/scene.mp4",
+      "sha256": "7a47dd6921237928be142b5740346df7db2d6a1e0051d4ba9e1c9672604434f8",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-024",
+      "kind": "photo",
+      "frames": 80,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-024/scene.mp4",
+      "sha256": "4c1351474fd62e41e0869b9e3c4096280c4b227e2c6874c8c41a1953825e4b4d",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-025",
+      "kind": "ident",
+      "frames": 118,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-025/scene.mp4",
+      "sha256": "51a418f8d23c51fabda761e7fd93a9758bb113a4ac9d09248eecfa98727a553a",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-026",
+      "kind": "compare",
+      "frames": 114,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-026/scene.mp4",
+      "sha256": "5891c550ef7b50ec4581fe0e3c85bcc5d28e3ebdd01db82b2c3334ce76fcacf1",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-027",
+      "kind": "photo",
+      "frames": 46,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-027/scene.mp4",
+      "sha256": "ebdf7b9cd483d20dacc61060c1ad0e0815e60c0c82d04e90f1ee8caff1fb027b",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-028",
+      "kind": "photo",
+      "frames": 39,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-028/scene.mp4",
+      "sha256": "82b641add07f857cdbbcbc7d9f2bc591945f0a30ff2672e98f980cc3660736b7",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-029",
+      "kind": "photo",
+      "frames": 37,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-029/scene.mp4",
+      "sha256": "ff3d61394bb55f93ba65b08c6f6e269420d75f0ae185684c56ec501fee74ea2c",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-030",
+      "kind": "photo",
+      "frames": 41,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-030/scene.mp4",
+      "sha256": "f74161218f73407bab070572a4e01cf6d0664035ad6f9df5366c4d7ec2ec9f06",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-031",
+      "kind": "photo",
+      "frames": 41,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-031/scene.mp4",
+      "sha256": "47082128a0d119d48bfa4397a1a3a15f7f1db6f3834454c25101689fe569da53",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-032",
+      "kind": "photo",
+      "frames": 34,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-032/scene.mp4",
+      "sha256": "4e25453233c64d8037d10f55315290d6a4673df92b876792e05cad4f70847bb3",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-033",
+      "kind": "photo",
+      "frames": 51,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-033/scene.mp4",
+      "sha256": "cb00eda71afcdb80d65f3a8a516641e14d6a0ec781547e53e9d5e3ad2b42d197",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-034",
+      "kind": "turntable",
+      "frames": 90,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-034/scene.mp4",
+      "sha256": "9a7f17b089d7ddd3c6c9cd6eb3c4a4c1e7b3e98d86daee0fb7a516e412d05901",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-035",
+      "kind": "photo",
+      "frames": 103,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-035/scene.mp4",
+      "sha256": "d782faa3fbe2743f683a26af9e2db7f6c61ea8e547bf344db2ce8816dd53d74d",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-036-v4-2719",
+      "kind": "turntable",
+      "frames": 233,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-036-v4-2719/scene.mp4",
+      "sha256": "944f6aec8671d208fcb9d08555adefdaf73fc14991c7e4f23e17d48a9a6dcf96",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v4-section-aviation",
+      "kind": "section",
+      "frames": 179,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-section-aviation/scene.mp4",
+      "sha256": "bfdf0e8ba2d563c956211f7e9a8f2a1a1b42d7c8b25f8e3708235c5b1fe6f224",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-036-v4-3131",
+      "kind": "turntable",
+      "frames": 329,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-036-v4-3131/scene.mp4",
+      "sha256": "50bb7de6dd9c45da39005ac7ff72edadd13ec1f1b6dc6d143be0906182725dec",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v2-shot-037",
+      "kind": "archive",
+      "frames": 404,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-037/scene.mp4",
+      "sha256": "1c06a1d6dd4f4f18ed65e9a41f475420cb228025db8e8c57bc06f57f9989c36e",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-038",
+      "kind": "photo",
+      "frames": 335,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-038/scene.mp4",
+      "sha256": "959eb20ee5069af9457086857b95c794e590f775cb1f2c5cffa9610598f030c5",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-039",
+      "kind": "archive",
+      "frames": 599,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-039/scene.mp4",
+      "sha256": "806c9a03e393d27541061c0b17bcd90f00b7e195dbc84affa463bd760552c5fb",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-040",
+      "kind": "photo",
+      "frames": 130,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-040/scene.mp4",
+      "sha256": "681fe9c7415dce13dfb4127714c48af2848035afb51dfd3cc5063f866859346d",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-041",
+      "kind": "archive",
+      "frames": 439,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-041/scene.mp4",
+      "sha256": "995ad8b99fdf736f9cd4d56fefa240d3ec57eb479ab93b27d7d0dd32df8ae00d",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-042-a",
+      "kind": "archive",
+      "frames": 175,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-042-a/scene.mp4",
+      "sha256": "8b999e4646ffe541f575cad3afedc10e65942608be3780729a3863d70bffa108",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-042-b",
+      "kind": "turntable",
+      "frames": 176,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-042-b/scene.mp4",
+      "sha256": "481bb0b578cec4994dc0cb4cead4369d238acaf7161897b8a0a09849976f8b1b",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-043",
+      "kind": "archive",
+      "frames": 218,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-043/scene.mp4",
+      "sha256": "76358adac8c16d2d1c0c7875e20fc20f672f124fcf20ab547dffa9b80a36d5ac",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-044",
+      "kind": "photo",
+      "frames": 253,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-044/scene.mp4",
+      "sha256": "12b864760d964a08bffe6841bd467291e2ba6ac8428cecf1d6d7aa3c84a4f8ca",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-045",
+      "kind": "archive",
+      "frames": 385,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-045/scene.mp4",
+      "sha256": "bb91e84b90bca4ea22ddc707223be7fbd3f5439d15887bd8ffa15fc1f7f47c4c",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-046",
+      "kind": "photo",
+      "frames": 166,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-046/scene.mp4",
+      "sha256": "9a4ffb0c662a178ab47dbd5dbb4e1b2c2afc630868d76e1ebdebb85880d1619e",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-047",
+      "kind": "compare",
+      "frames": 433,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-047/scene.mp4",
+      "sha256": "6e970a58efd2302c46dcc9726413192fa01ff3f9ac6ce7a3d12c90e1b1399968",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-048",
+      "kind": "turntable",
+      "frames": 968,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-048/scene.mp4",
+      "sha256": "784831221022c54627358f2952d091b4307baf516048c0826f4fe69c51940116",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-049",
+      "kind": "photo",
+      "frames": 354,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-049/scene.mp4",
+      "sha256": "4895e8102d67ecd585433e8b492247dc157f672efa7d050c8c1ff3e2e5e869d1",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-050-a",
+      "kind": "turntable",
+      "frames": 99,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-050-a/scene.mp4",
+      "sha256": "1c5c4f10a5cd6f7674d56a81df813e71f2b7f9f98224a2da48e5c4c2fa25ba60",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-050-b",
+      "kind": "photo",
+      "frames": 100,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-050-b/scene.mp4",
+      "sha256": "843fdc4a2cf9a2a265babe5cb4aece69d782eace9f29b059ebc06cadf30d6707",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-051",
+      "kind": "photo",
+      "frames": 461,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-051/scene.mp4",
+      "sha256": "2147625ff75aeb5a472ff51ccd76a1eb32614300cb42b7348eff8f7cb5609052",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-052",
+      "kind": "compare",
+      "frames": 401,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-052/scene.mp4",
+      "sha256": "77d021404b991eeee8b5a1430fe956f7bd927b8ded7718e0f27f9276edce4ac0",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-053-v4-9556",
+      "kind": "turntable",
+      "frames": 61,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-053-v4-9556/scene.mp4",
+      "sha256": "83552c5c8eeaaa695623803f77a5c11f3853995d26f217711a726bdad1d34ee9",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v4-section-armor",
+      "kind": "section",
+      "frames": 168,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-section-armor/scene.mp4",
+      "sha256": "f339d73164fc92f2365bce6c53639f34362779633e602eff0bd28083e1e463fa",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-054",
+      "kind": "archive",
+      "frames": 414,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-054/scene.mp4",
+      "sha256": "323ecc97df7f5021526fcabcedae8daffd61e61864d4738ccd6ea0df22f4b031",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-055",
+      "kind": "turntable",
+      "frames": 834,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-055/scene.mp4",
+      "sha256": "ded3fb14507ceab5fdf3a337ba165bc0fd48a0cffc4ad982fa9cae17cc0179b1",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-056",
+      "kind": "photo",
+      "frames": 521,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-056/scene.mp4",
+      "sha256": "94a927180a01e247f63a70e23e01712307bb9824b53d877e9bec86707706f1d2",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-057",
+      "kind": "graphic",
+      "frames": 371,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-057/scene.mp4",
+      "sha256": "979d366189927c4875273ff385e5b79597a23d8a49b0e1f876b531c365f24b15",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-058",
+      "kind": "photo",
+      "frames": 313,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-058/scene.mp4",
+      "sha256": "8d12e130ce2621eab91c0209d3e61e4009ece2985ac321b2e13a66958ff49a7b",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-059",
+      "kind": "photo",
+      "frames": 453,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-059/scene.mp4",
+      "sha256": "663ae1964638bb2698b5b3b949f6836f16f827d3091b7635b201680ce348270d",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-060",
+      "kind": "photo",
+      "frames": 222,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-060/scene.mp4",
+      "sha256": "4fd23603457f983561e4597b19b09efc6f64d28da9978562143f9d49ed689957",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-061",
+      "kind": "compare",
+      "frames": 235,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-061/scene.mp4",
+      "sha256": "37c1b4a5344455b45620cf262fff6fc5ee9881df701af473ef7e9cf4a2c84152",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-062",
+      "kind": "photo",
+      "frames": 221,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-062/scene.mp4",
+      "sha256": "060498e0854e3300c50966ab6709be056cef251c1bb723258ee590b574e920fc",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-063",
+      "kind": "compare",
+      "frames": 498,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-063/scene.mp4",
+      "sha256": "01798d3430e7a49c04b35935eca421d31c9b6b1868e040a9fc9c76eed6c4bddb",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-064-v4-13867",
+      "kind": "photo",
+      "frames": 208,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-064-v4-13867/scene.mp4",
+      "sha256": "28f57200459206a44c7a808a6abd39ab724f3fc1aaa4abb91c9749e43cd5b98f",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v4-section-missiles",
+      "kind": "section",
+      "frames": 188,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-section-missiles/scene.mp4",
+      "sha256": "8218b66cee294ea1386360b66c4c5c829967f026e49cffa896fea117ae155258",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-065",
+      "kind": "photo",
+      "frames": 255,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-065/scene.mp4",
+      "sha256": "b75e0458ba88458655551773142d1e4c7621aa2aa75224d7b529f6c7388670a3",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-066",
+      "kind": "archive",
+      "frames": 187,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-066/scene.mp4",
+      "sha256": "ba8d468bd9e54a1a282ae8d942d2757b22721d23775386efb97d69b6fa72e3ad",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-067",
+      "kind": "photo",
+      "frames": 360,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-067/scene.mp4",
+      "sha256": "f3ee6fb316ad6863a36d1f2d24c29ba8bb81472a2a674bf5a00b0c39f9cd6248",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-068",
+      "kind": "compare",
+      "frames": 279,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-068/scene.mp4",
+      "sha256": "d82f36ce7ee79b3a923bffc8feca4c6dc1b27cae6b8c84df5b32768aac0e0f45",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-069",
+      "kind": "compare",
+      "frames": 332,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-069/scene.mp4",
+      "sha256": "e0f52682d1d9c33aea86ba4727ae7e3bbd9071a90b3b1fef560329e839d961aa",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-070",
+      "kind": "graphic",
+      "frames": 479,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-070/scene.mp4",
+      "sha256": "4e0163084ecb1ce708d1cd3b9ea9f1e8b364155b1a3902281f5fe55021e69a23",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-071",
+      "kind": "graphic",
+      "frames": 189,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-071/scene.mp4",
+      "sha256": "51cd495962327b2b5df8207926830ecfff0ed097ecab5f89af44125f22e74be5",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-072",
+      "kind": "graphic",
+      "frames": 306,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-072/scene.mp4",
+      "sha256": "7956d658c4174ef7399edd2e93362e25fb07d136cf1c3a485d7e9e00302cb6f1",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-073",
+      "kind": "archive",
+      "frames": 238,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-073/scene.mp4",
+      "sha256": "4fe3e2521ccf325a84e3d894ef21b1d473f9c16ca0cf3f71396941221c2cd517",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-074",
+      "kind": "photo",
+      "frames": 171,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-074/scene.mp4",
+      "sha256": "8c51e70cbd0bf475ac123faa274ecc74598d8e5a611bbda8355d5380dea0817e",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-075",
+      "kind": "photo",
+      "frames": 121,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-075/scene.mp4",
+      "sha256": "d9de982e4ed02cb463e420c4bff8963147dd616f21a07e6d1bfeeccf3286b987",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-076",
+      "kind": "photo",
+      "frames": 182,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-076/scene.mp4",
+      "sha256": "660d29f1ee223b2d81cf3636b7a185d70a98bd6aa141fb66ec22cdbe06f6568d",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-077",
+      "kind": "photo",
+      "frames": 255,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-077/scene.mp4",
+      "sha256": "54901a56ea11032c27bd666a63df44194f9a5b5a0351bf6fdb68e92d6885906c",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-078",
+      "kind": "photo",
+      "frames": 308,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-078/scene.mp4",
+      "sha256": "b9930a83410004eb59cbe726cdca9a6c35a54dcb9a370aa3c160a881258a8951",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-079",
+      "kind": "photo",
+      "frames": 141,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-079/scene.mp4",
+      "sha256": "cd710533107f4938f1a0c27cf7778f119407740070ad2a0387f87934db3ff3dd",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-080",
+      "kind": "photo",
+      "frames": 370,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-080/scene.mp4",
+      "sha256": "00bb099831e3f6c4641cf2b2f13ad1b9229c847ac2104ea65a4c26ecbed150fe",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-081",
+      "kind": "photo",
+      "frames": 376,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-081/scene.mp4",
+      "sha256": "6e99c42389924e911284d2b1d57acde075bbd0a734ca37221bb6d21e3f413528",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-082",
+      "kind": "archive",
+      "frames": 203,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-082/scene.mp4",
+      "sha256": "3c85bc5a0cd25f71400218ff1a4f8a8ac71d831881897f60400114c1418710eb",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-083",
+      "kind": "photo",
+      "frames": 180,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-083/scene.mp4",
+      "sha256": "d14cf22ec92818ce21f0cf19fd3bc0544cda844a312f2128c69112987288089f",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-084",
+      "kind": "compare",
+      "frames": 246,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-084/scene.mp4",
+      "sha256": "a2ad936fc4df6e5f798be4150c4adeb8fa669ef1abe13c1ab2805c823885b91a",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-085-v4-19441",
+      "kind": "photo",
+      "frames": 130,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-085-v4-19441/scene.mp4",
+      "sha256": "8450777f8fbf5d43278115728c91d0f37d12ceb047e33fc1844dd53e44e494d2",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v4-section-infantry",
+      "kind": "section",
+      "frames": 120,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-section-infantry/scene.mp4",
+      "sha256": "a7435905d5b2b0663ed5a14489a76c6d994bdf6b5e246dbb1ecc8a68aa360581",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-086",
+      "kind": "turntable",
+      "frames": 189,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-086/scene.mp4",
+      "sha256": "f85c69cae2ffbbd382e1e618a1da28cfc0a94e17ae7f3e7c4edfface9694a2d9",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-087",
+      "kind": "photo",
+      "frames": 384,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-087/scene.mp4",
+      "sha256": "2e37a21e16dc6cc46c000820d87eff520e9efaa808340f2f381ca6b1559265e0",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-088",
+      "kind": "photo",
+      "frames": 229,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-088/scene.mp4",
+      "sha256": "e606247f4439563a977755439ff89881c4cf9d633075320a48ffb5674fe4d12d",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-089",
+      "kind": "photo",
+      "frames": 448,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-089/scene.mp4",
+      "sha256": "84f8f7bcfdad85dfb87eaa209ad05036caa815fbda1742643c7c2e5582cce9a7",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-090-v4-20941",
+      "kind": "archive",
+      "frames": 434,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-090-v4-20941/scene.mp4",
+      "sha256": "c1a1dd58d821eb4b27d8ac4bb4fea6f6a4054a7c60ac200b816c9400c0cd9a86",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v4-section-artillery",
+      "kind": "section",
+      "frames": 137,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-section-artillery/scene.mp4",
+      "sha256": "8a2915e96f6a4b95527ec9cfa6fdbad20dfd311619924559b267fc21f453f953",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-091",
+      "kind": "archive",
+      "frames": 535,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-091/scene.mp4",
+      "sha256": "9855beeaa6ce697c1fdf852c8fbe0d4892045a47c664613ca9757e71299401a3",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-092",
+      "kind": "archive",
+      "frames": 395,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-092/scene.mp4",
+      "sha256": "22b00d9f41f354799adc216ce8a9fdc04aad127059581628d16aa796e50fe5c0",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-093",
+      "kind": "archive",
+      "frames": 328,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-093/scene.mp4",
+      "sha256": "11c76b72b915a65b99093ebc0b6f3dc636abfbf7c39c803528fb253f6145c418",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-094",
+      "kind": "compare",
+      "frames": 378,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-094/scene.mp4",
+      "sha256": "ab85a649593e2ada0caf8b35a2762acd425c7a058ae527eef2af10ad6e1248e5",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-095",
+      "kind": "photo",
+      "frames": 164,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-095/scene.mp4",
+      "sha256": "59a15319624d18f7d948598e8bbaa4766de9d751938db32b48f50fbf8eb88249",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-096",
+      "kind": "photo",
+      "frames": 161,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-096/scene.mp4",
+      "sha256": "901cfabbed9d7872a1ddf62f353eb062bc4271c760dbff6f4c5ce46797af4c0a",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-097",
+      "kind": "photo",
+      "frames": 153,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-097/scene.mp4",
+      "sha256": "046b7e85bc656a5cb4e2a48700177c82388a6c1d0d938136c1a7b34d2119130c",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-098",
+      "kind": "photo",
+      "frames": 265,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-098/scene.mp4",
+      "sha256": "d1c61c15dedc30b8dc8ffd5781c7acd3d635bc49a69af9b0f8b672ea05ed3ca6",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-099-v4-23891",
+      "kind": "photo",
+      "frames": 60,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-099-v4-23891/scene.mp4",
+      "sha256": "05650f01b7ec14734eec930b51bebb820dfd9a7c9f201627fd24ad97a171bcfd",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v4-section-drones",
+      "kind": "section",
+      "frames": 150,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-section-drones/scene.mp4",
+      "sha256": "7242fdc174741d2c805f85f0edcc900adeed5e2d26eca8886729b750176ab9c2",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-100",
+      "kind": "archive",
+      "frames": 407,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-100/scene.mp4",
+      "sha256": "d97bfeba30dacc0a30c916668a0e2cfcf23c1fab219a1b4722acae18cacbef16",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-101",
+      "kind": "archive",
+      "frames": 368,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-101/scene.mp4",
+      "sha256": "745a36c4842a73073aacddf2f61a257a868c1746de0770e092564ff8a1009203",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-102",
+      "kind": "photo",
+      "frames": 417,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-102/scene.mp4",
+      "sha256": "93bdf5da6bb2fecc937db639cd42dc2d3b6e207775063cc6ce8b4751cbb399b2",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-103",
+      "kind": "turntable",
+      "frames": 191,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-103/scene.mp4",
+      "sha256": "fcc06fd7cddc3c900201fa6ed03028f6f9deb4457aa0427cea9ee2523dac8676",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-104",
+      "kind": "photo",
+      "frames": 156,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-104/scene.mp4",
+      "sha256": "9e7122cebd018b2ab8912b34dc9f056d871efcbd282c64cdaf0ea6eb695e3a6c",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-105",
+      "kind": "photo",
+      "frames": 179,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-105/scene.mp4",
+      "sha256": "ca64a9981d42a34f04fb057e84cc21206a0097b386ae1f8dbdb6ac38d2983238",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-106",
+      "kind": "photo",
+      "frames": 274,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-106/scene.mp4",
+      "sha256": "4bfafe7233bb338478dd4119ce7cfaa41b562bb8332003fee4e8958d2d4295fd",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-107",
+      "kind": "compare",
+      "frames": 432,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-107/scene.mp4",
+      "sha256": "8b9e3cfcaea3908e3238db9e03119e6982149842ceaf85e08ed70ccfc55717b6",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-108",
+      "kind": "photo",
+      "frames": 211,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-108/scene.mp4",
+      "sha256": "930f0a5307292c14612f2cf68c29f4e419fbc3751d67c2d05bdf7f7b290c623b",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-109",
+      "kind": "turntable",
+      "frames": 224,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-109/scene.mp4",
+      "sha256": "2550f12fab80ad58d3d0788416ef5e4224b3fd0b925cc00276259101641e7cb2",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-110-v4-26960",
+      "kind": "photo",
+      "frames": 413,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-110-v4-26960/scene.mp4",
+      "sha256": "85d96c7f645881c57e9ba503a1be53d73db17b93c2e5cdc99c8ed3dabf0838e5",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v4-section-air-defense",
+      "kind": "section",
+      "frames": 120,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-section-air-defense/scene.mp4",
+      "sha256": "2cff1d65e0754af9737e9666223794588a4d48aaac08a10778af28000179d0ef",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-111",
+      "kind": "archive",
+      "frames": 342,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-111/scene.mp4",
+      "sha256": "4449f85a27956198b208ca52bd7e5ce2c94756d15b789797cb569f737a062c9f",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-112",
+      "kind": "graphic",
+      "frames": 459,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-112/scene.mp4",
+      "sha256": "23809909a86a75d0aad6a660ac371c93d3d6a9eff57e6ca113a36c94258d2d6e",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-113",
+      "kind": "archive",
+      "frames": 120,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-113/scene.mp4",
+      "sha256": "a6de1b9e3d53e107304d4867d298f563a4804332df30758bfe7f8d8c82756a35",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-114",
+      "kind": "photo",
+      "frames": 94,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-114/scene.mp4",
+      "sha256": "013b4e6e56460cc355ed148d536c91f463f082dc8a17298b674953a592df9473",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-115",
+      "kind": "graphic",
+      "frames": 335,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-115/scene.mp4",
+      "sha256": "af147cbbfee95a66256dcbcaec5008c4e8f66ce3fbfe573bee716f59897803d8",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-116",
+      "kind": "photo",
+      "frames": 293,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-116/scene.mp4",
+      "sha256": "db354c2c345c162020a0692b487d920717e60ba73bea1fa53f39aa0c0c269044",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-117",
+      "kind": "archive",
+      "frames": 143,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-117/scene.mp4",
+      "sha256": "e0fe08e45c0f26860f5aa0386d3d48d832f6211548b979c7c95a83ab3a1614a3",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-118",
+      "kind": "compare",
+      "frames": 299,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-118/scene.mp4",
+      "sha256": "f19323d86eabb9af18be4eb85be1717dec0138a07e80201118d897d480b2cffa",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-119",
+      "kind": "photo",
+      "frames": 165,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-119/scene.mp4",
+      "sha256": "bbef167353fa6664bbdc8f6cd5a187c64b35c10ee7d7bbe0626b851c800d7864",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-120",
+      "kind": "graphic",
+      "frames": 172,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-120/scene.mp4",
+      "sha256": "5246fa53b3b0a00701e85858ea90a877bc98c56c8c4e4d9b5e082c078dc24584",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-121",
+      "kind": "photo",
+      "frames": 657,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-121/scene.mp4",
+      "sha256": "8b7f895ec50d21261278808b2a018e54e5c76c286d549ab601ae8d09f615a461",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-122",
+      "kind": "photo",
+      "frames": 215,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-122/scene.mp4",
+      "sha256": "819220272844af3f0434acbbfb7cedfa95f470199983c8080bab292c6a4ed80b",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v4-section-helicopters",
+      "kind": "section",
+      "frames": 90,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-section-helicopters/scene.mp4",
+      "sha256": "c833617fa249fcfcde9cf3eb9be91b3aeae0462bb88920b6a1e44796e59ca1dd",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-123-a-v4-30877",
+      "kind": "archive",
+      "frames": 170,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-123-a-v4-30877/scene.mp4",
+      "sha256": "612c6a0983f2b32d63774e92333bee4f6a0781bfeec4a4689a5c3961482a07f6",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v2-shot-123-b",
+      "kind": "turntable",
+      "frames": 260,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-123-b/scene.mp4",
+      "sha256": "53d54fec7b1c09472970fefcca1470f0a8815c3701393d68e6eb3aa3c420f1f8",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-124-a",
+      "kind": "archive",
+      "frames": 160,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-124-a/scene.mp4",
+      "sha256": "112afe77ec88246364a023863634353a7b5dec72300acb1f31760e2f127ae14b",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-124-b",
+      "kind": "turntable",
+      "frames": 161,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-124-b/scene.mp4",
+      "sha256": "8fb87e9d3b83000c6d3c76a283923dabb1dc68740644f3c5002d02ca48d60745",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-125-a",
+      "kind": "archive",
+      "frames": 157,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-125-a/scene.mp4",
+      "sha256": "97ce554b4f5b2b67311e335432612c1249a6a3c41f5f0a43d6693fa8daf5a300",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-125-b",
+      "kind": "turntable",
+      "frames": 157,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-125-b/scene.mp4",
+      "sha256": "2e3271cf42d0a8fa5c3e923fc29c9e7f46687ba7faa1edba73d650868aa835e2",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-126",
+      "kind": "photo",
+      "frames": 166,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-126/scene.mp4",
+      "sha256": "477030b5eea073618ed2d9e6e5aee4bc88db8c5aa88d56a010c2708939c47d2c",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-127",
+      "kind": "compare",
+      "frames": 309,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-127/scene.mp4",
+      "sha256": "2ca467568b2015047e50198381a4c6a4ffb00f357a0c4c9d1926bcfa99306da3",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-128",
+      "kind": "photo",
+      "frames": 658,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-128/scene.mp4",
+      "sha256": "f437ce29d76b7f5a7e6369ad631b7d4b5236df15829e61eafaac61ec32c6f885",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-129-v4-33075",
+      "kind": "photo",
+      "frames": 278,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-129-v4-33075/scene.mp4",
+      "sha256": "5efc035175e7c4ef6aca0736a47c18b9e4c41daa7519023adf21cc3effbc712a",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v4-section-navy",
+      "kind": "section",
+      "frames": 120,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-section-navy/scene.mp4",
+      "sha256": "8f46013c58dbb08b678d0c38fda40cc667cfd594461638a14ca6a0c452b58664",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-130",
+      "kind": "archive",
+      "frames": 466,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-130/scene.mp4",
+      "sha256": "2e284c15e59fa17bc38040e03d52ab6f4254bd3ccf7c53deef94e37399abe332",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-131",
+      "kind": "photo",
+      "frames": 158,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-131/scene.mp4",
+      "sha256": "a66fea8bdb197b3b428009ca425b3018eb3eb4d5607ed189d01b62a933936432",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-132",
+      "kind": "compare",
+      "frames": 264,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-132/scene.mp4",
+      "sha256": "2d89064639f319e73b4bf675dd1f575bf7c6dfd6349a2c121d6d289af2c7882f",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-133",
+      "kind": "archive",
+      "frames": 405,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-133/scene.mp4",
+      "sha256": "7172982af4685a107c2320654dd2f7d018f3ae25614eb308eb7cae0577347e6b",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-134",
+      "kind": "photo",
+      "frames": 312,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-134/scene.mp4",
+      "sha256": "221e8d24f14a01ad21c82d31fee8ae909874497a72db4dd4bd9ce296b5a15578",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-135",
+      "kind": "turntable",
+      "frames": 153,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-135/scene.mp4",
+      "sha256": "7c21c1cfffdd492826a19a8c7475db8004db6853e8e4d41251975b3f76510a5f",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-136",
+      "kind": "photo",
+      "frames": 381,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-136/scene.mp4",
+      "sha256": "a0316f2d07c256430beacecbbe82a6a45f97876e39c5f0e1c8bcadcf0ec4b2a7",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-137",
+      "kind": "archive",
+      "frames": 275,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-137/scene.mp4",
+      "sha256": "e93ff4e05ee9f3b43566e8fc24895dd5ff02adb4c5bbaa6e04623cd8e0f5dc95",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-138",
+      "kind": "photo",
+      "frames": 172,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-138/scene.mp4",
+      "sha256": "2f7d50310d69d1e8eb6b8af0a6fe5719ecb135c36237e3564223e55c33bb39dd",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-139",
+      "kind": "photo",
+      "frames": 246,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-139/scene.mp4",
+      "sha256": "37e0ef283be2718093df368f8ded79176eb47da0e2ef1ee0d11454d4c8d3d911",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-140",
+      "kind": "turntable",
+      "frames": 560,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-140/scene.mp4",
+      "sha256": "14a67f0201d6596fe6aa7065948b17a36ae5e92d8fec7bcdda6f5cbb456cf233",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-141",
+      "kind": "photo",
+      "frames": 190,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-141/scene.mp4",
+      "sha256": "bf5354c624b1b0ef01ea1053ba3d62cf82921f24f4c7e1703d1e244de8ea241b",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-142",
+      "kind": "turntable",
+      "frames": 293,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-142/scene.mp4",
+      "sha256": "5f31f150df07d2c86f828823c595bdc557900c173e4ea66a0d561c0d0f97f9d5",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-143-v4-37348",
+      "kind": "compare",
+      "frames": 241,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v2-shot-143-v4-37348/scene.mp4",
+      "sha256": "728fd99cff2a1be3228844e643133500ae9de8bd97c1556b52787181d95eb35e",
+      "origin": "approved_v3_frame_trim"
+    },
+    {
+      "id": "v4-section-summary",
+      "kind": "section",
+      "frames": 167,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-section-summary/scene.mp4",
+      "sha256": "a8a9008272f1c9b959c19845e0befe520d0d1c7523e225730429c8d53d2e7080",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-145",
+      "kind": "archive",
+      "frames": 481,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-145/scene.mp4",
+      "sha256": "a6f77be119ba536085d2f0a6239acd5c898e60a84448fb42c8c162e2983fee09",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-146",
+      "kind": "archive",
+      "frames": 234,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-146/scene.mp4",
+      "sha256": "566197299c659a3d49ba453936a12ec3978cfe2c07f4f88b26095def02e67d06",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-147",
+      "kind": "archive",
+      "frames": 297,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-147/scene.mp4",
+      "sha256": "f8f347ce20fa47693296d6c7e8d3c41f45786c7ce7d3f5c2daa4c4156c46035c",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-148",
+      "kind": "photo",
+      "frames": 222,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-148/scene.mp4",
+      "sha256": "29c1e5c549204afc4ab59ee5a34d255bed1ed183b80680b09e08a1e91223d88e",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-149",
+      "kind": "compare",
+      "frames": 351,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-149/scene.mp4",
+      "sha256": "cfdb5eb25bb4c77abe1c4ff2cf6227bfcc86ea99934e59e5a3ce15bd6f4ed6a1",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-150",
+      "kind": "compare",
+      "frames": 187,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-150/scene.mp4",
+      "sha256": "b0f6b7af4912a52d87534d7d0287253b8bb45096b8fa86c9d7c7abd533184797",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-151",
+      "kind": "compare",
+      "frames": 423,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-151/scene.mp4",
+      "sha256": "b02d0f1519231cc5c872e809cb8310e3aae0d677c70bc70735a9b354bdd42ba7",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-152",
+      "kind": "photo",
+      "frames": 541,
+      "source_file": "/tmp/arsenal-002-v3/compiled/v2-shot-152/scene.mp4",
+      "sha256": "4215201f9e75fe13aef9e1d7729b1975876f049a4116393dadae379f37c429a3",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-153",
+      "kind": "compare",
+      "frames": 447,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-153/scene.mp4",
+      "sha256": "535cedb603eae4006bfebe606c3d0b2586ab029236750665038a055d62560513",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v2-shot-154",
+      "kind": "archive",
+      "frames": 378,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-154/scene.mp4",
+      "sha256": "b1d98eab996e7c2824dd64e82fe1c7a37ef77f43eff67901d478c10b995c9b08",
+      "origin": "approved_v3_exact_clip"
+    },
+    {
+      "id": "v4-audience-question",
+      "kind": "question",
+      "frames": 234,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-audience-question/scene.mp4",
+      "sha256": "8857283eacc2dc2826974a681d934f37401719743d20eb50daed07cb21208629",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v4-audience-comment",
+      "kind": "outro",
+      "frames": 201,
+      "source_file": "/tmp/arsenal-002-v4/compiled/v4-audience-comment/scene.mp4",
+      "sha256": "785929f53f7323f51f517d170870296b14d8b61915f581fbdf0c37398a86ece0",
+      "origin": "episode_001_card_template"
+    },
+    {
+      "id": "v2-shot-158",
+      "kind": "ident",
+      "frames": 172,
+      "source_file": "/tmp/arsenal-002-v2/compiled/v2-shot-158/scene.mp4",
+      "sha256": "077796d479c1e8ebf6b0178efc9aa1e77cd8687575ec851cbbb54dc8c36fe58c",
+      "origin": "approved_v3_exact_clip"
+    }
+  ],
+  "total_frames": 41924,
+  "motion_policy": {
+    "photo_camera": "locked",
+    "rotation_seconds_per_revolution": 24,
+    "short_shots": "partial rotation at the same angular speed",
+    "long_shots": "one revolution then hold",
+    "intermediate_frames": "motion-compensated 30fps from rendered geometry"
+  },
+  "original_audio_unchanged": true
+}

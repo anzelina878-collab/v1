@@ -1,0 +1,175 @@
+{
+  "status": "technically_verified",
+  "video": "/tmp/arsenal-002-v4/render/final_video_v4.mp4",
+  "sha256": "bc26d109b91de77d967734e899a36ff33c4ecbc0c99b571b74acaa48dc77119c",
+  "duration": 1397.466667,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 41924,
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "audio_sample_rate": "48000",
+  "original_audio_sha256": "4df352eb83ffaef0d787d9922b201b44b6984dda7239284118b9224ad6374430",
+  "audio_waveform_correlation_zero_lag": 0.9998010352182873,
+  "full_video_and_audio_decode": "passed",
+  "archive_spacing": "passed >60 seconds from previous use end",
+  "encoded_information_card_freeze_checks": [
+    {
+      "id": "v2-shot-009",
+      "mean_pixel_difference": 0.0007291666697710752
+    },
+    {
+      "id": "v2-shot-026",
+      "mean_pixel_difference": 0.0004456018505152315
+    },
+    {
+      "id": "v4-section-aviation",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v2-shot-047",
+      "mean_pixel_difference": 0.21982638537883759
+    },
+    {
+      "id": "v2-shot-052",
+      "mean_pixel_difference": 0.22302083671092987
+    },
+    {
+      "id": "v4-section-armor",
+      "mean_pixel_difference": 0.0005555555690079927
+    },
+    {
+      "id": "v2-shot-057",
+      "mean_pixel_difference": 0.08226852118968964
+    },
+    {
+      "id": "v2-shot-061",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v2-shot-063",
+      "mean_pixel_difference": 0.294155091047287
+    },
+    {
+      "id": "v4-section-missiles",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v2-shot-068",
+      "mean_pixel_difference": 0.22630208730697632
+    },
+    {
+      "id": "v2-shot-069",
+      "mean_pixel_difference": 0.12681713700294495
+    },
+    {
+      "id": "v2-shot-070",
+      "mean_pixel_difference": 0.04913773015141487
+    },
+    {
+      "id": "v2-shot-071",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v2-shot-072",
+      "mean_pixel_difference": 0.0676504597067833
+    },
+    {
+      "id": "v2-shot-084",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v4-section-infantry",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v4-section-artillery",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v2-shot-094",
+      "mean_pixel_difference": 0.37958911061286926
+    },
+    {
+      "id": "v4-section-drones",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v2-shot-107",
+      "mean_pixel_difference": 0.1803935170173645
+    },
+    {
+      "id": "v4-section-air-defense",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v2-shot-112",
+      "mean_pixel_difference": 0.0651041641831398
+    },
+    {
+      "id": "v2-shot-115",
+      "mean_pixel_difference": 0.047534722834825516
+    },
+    {
+      "id": "v2-shot-118",
+      "mean_pixel_difference": 0.40204861760139465
+    },
+    {
+      "id": "v2-shot-120",
+      "mean_pixel_difference": 0.00021990740788169205
+    },
+    {
+      "id": "v4-section-helicopters",
+      "mean_pixel_difference": 0.00015046296175569296
+    },
+    {
+      "id": "v2-shot-127",
+      "mean_pixel_difference": 0.20669560134410858
+    },
+    {
+      "id": "v4-section-navy",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v2-shot-132",
+      "mean_pixel_difference": 0.3278067111968994
+    },
+    {
+      "id": "v2-shot-143-v4-37348",
+      "mean_pixel_difference": 8.101851562969387e-05
+    },
+    {
+      "id": "v4-section-summary",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v2-shot-149",
+      "mean_pixel_difference": 0.2057349532842636
+    },
+    {
+      "id": "v2-shot-150",
+      "mean_pixel_difference": 0.0003009259235113859
+    },
+    {
+      "id": "v2-shot-151",
+      "mean_pixel_difference": 0.19258680939674377
+    },
+    {
+      "id": "v2-shot-153",
+      "mean_pixel_difference": 0.23590277135372162
+    },
+    {
+      "id": "v4-audience-question",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "v4-audience-comment",
+      "mean_pixel_difference": 0.0
+    }
+  ],
+  "encoded_freeze_mae_limit_8bit": 1.0,
+  "freeze_tolerance_note": "H264 compression may vary subpixel rounding across static frames; entrance source is held with tpad clone",
+  "control_frames": 175,
+  "continuous_human_watch_and_listen": "not performed; source sheets, storyboard and encoded controls are separately reviewed"
+}

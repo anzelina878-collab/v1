@@ -1,0 +1,139 @@
+[
+  {
+    "id": "v4-section-aviation",
+    "kind": "section",
+    "title": "АВІАЦІЯ",
+    "subtitle": "",
+    "settle_after": 1.2,
+    "start": 98.4,
+    "end": 104.36666666666666,
+    "duration": 5.966666666666667,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-section-armor",
+    "kind": "section",
+    "title": "ТАНКИ ТА БРОНЕТЕХНІКА",
+    "subtitle": "",
+    "settle_after": 1.2,
+    "start": 320.56666666666666,
+    "end": 326.1666666666667,
+    "duration": 5.6,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-section-missiles",
+    "kind": "section",
+    "title": "РАКЕТНЕ ОЗБРОЄННЯ",
+    "subtitle": "",
+    "settle_after": 1.2,
+    "start": 469.1666666666667,
+    "end": 475.43333333333334,
+    "duration": 6.266666666666667,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-section-infantry",
+    "kind": "section",
+    "title": "ПІХОТНЕ ОЗБРОЄННЯ",
+    "subtitle": "",
+    "settle_after": 1.2,
+    "start": 652.3666666666667,
+    "end": 656.3666666666667,
+    "duration": 4.0,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-section-artillery",
+    "kind": "section",
+    "title": "АРТИЛЕРІЯ",
+    "subtitle": "",
+    "settle_after": 1.2,
+    "start": 712.5,
+    "end": 717.0666666666667,
+    "duration": 4.566666666666666,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-section-drones",
+    "kind": "section",
+    "title": "БЕЗПІЛОТНИКИ",
+    "subtitle": "",
+    "settle_after": 1.2,
+    "start": 798.3666666666667,
+    "end": 803.3666666666667,
+    "duration": 5.0,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-section-air-defense",
+    "kind": "section",
+    "title": "ПРОТИПОВІТРЯНА ОБОРОНА",
+    "subtitle": "",
+    "settle_after": 1.2,
+    "start": 912.4333333333333,
+    "end": 916.4333333333333,
+    "duration": 4.0,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-section-helicopters",
+    "kind": "section",
+    "title": "ВЕРТОЛЬОТИ",
+    "subtitle": "",
+    "settle_after": 1.2,
+    "start": 1026.2333333333333,
+    "end": 1029.2333333333333,
+    "duration": 3.0,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-section-navy",
+    "kind": "section",
+    "title": "ВІЙСЬКОВО-МОРСЬКИЙ ФЛОТ",
+    "subtitle": "",
+    "settle_after": 1.2,
+    "start": 1111.7666666666667,
+    "end": 1115.7666666666667,
+    "duration": 4.0,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-section-summary",
+    "kind": "section",
+    "title": "ПІДСУМОК",
+    "subtitle": "",
+    "settle_after": 1.2,
+    "start": 1252.9666666666667,
+    "end": 1258.5333333333333,
+    "duration": 5.566666666666666,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-audience-question",
+    "kind": "question",
+    "title": "ЯКА КАТЕГОРІЯ НАЙЦІКАВІША?",
+    "nodes": [
+      "АВІАЦІЯ",
+      "РАКЕТИ",
+      "БЕЗПІЛОТНИКИ",
+      "ФЛОТ"
+    ],
+    "settle_after": 1.6,
+    "start": 1377.2333333333333,
+    "end": 1385.0333333333333,
+    "duration": 7.8,
+    "entrance_once": true
+  },
+  {
+    "id": "v4-audience-comment",
+    "kind": "outro",
+    "title": "ВАША ДУМКА?",
+    "subtitle": "Арсенали яких країн порівняти далі?\nНапишіть у коментарях",
+    "settle_after": 1.2,
+    "start": 1385.0333333333333,
+    "end": 1391.7333333333333,
+    "duration": 6.7,
+    "entrance_once": true
+  }
+]

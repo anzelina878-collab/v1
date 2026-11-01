@@ -1,0 +1,110 @@
+{
+  "status": "passed",
+  "reference": "Episode 001 section / diagram / outro templates",
+  "cards": [
+    {
+      "id": "v4-section-aviation",
+      "title": "АВІАЦІЯ",
+      "start": 98.4,
+      "end": 104.36666666666666,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.0
+    },
+    {
+      "id": "v4-section-armor",
+      "title": "ТАНКИ ТА БРОНЕТЕХНІКА",
+      "start": 320.56666666666666,
+      "end": 326.1666666666667,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.00031828703703703706
+    },
+    {
+      "id": "v4-section-missiles",
+      "title": "РАКЕТНЕ ОЗБРОЄННЯ",
+      "start": 469.1666666666667,
+      "end": 475.43333333333334,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.0
+    },
+    {
+      "id": "v4-section-infantry",
+      "title": "ПІХОТНЕ ОЗБРОЄННЯ",
+      "start": 652.3666666666667,
+      "end": 656.3666666666667,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.0
+    },
+    {
+      "id": "v4-section-artillery",
+      "title": "АРТИЛЕРІЯ",
+      "start": 712.5,
+      "end": 717.0666666666667,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.0
+    },
+    {
+      "id": "v4-section-drones",
+      "title": "БЕЗПІЛОТНИКИ",
+      "start": 798.3666666666667,
+      "end": 803.3666666666667,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.0
+    },
+    {
+      "id": "v4-section-air-defense",
+      "title": "ПРОТИПОВІТРЯНА ОБОРОНА",
+      "start": 912.4333333333333,
+      "end": 916.4333333333333,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.0
+    },
+    {
+      "id": "v4-section-helicopters",
+      "title": "ВЕРТОЛЬОТИ",
+      "start": 1026.2333333333333,
+      "end": 1029.2333333333333,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.00015046296296296297
+    },
+    {
+      "id": "v4-section-navy",
+      "title": "ВІЙСЬКОВО-МОРСЬКИЙ ФЛОТ",
+      "start": 1111.7666666666667,
+      "end": 1115.7666666666667,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 5.787037037037037e-05
+    },
+    {
+      "id": "v4-section-summary",
+      "title": "ПІДСУМОК",
+      "start": 1252.9666666666667,
+      "end": 1258.5333333333333,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.0
+    },
+    {
+      "id": "v4-audience-question",
+      "title": "ЯКА КАТЕГОРІЯ НАЙЦІКАВІША?",
+      "start": 1377.2333333333333,
+      "end": 1385.0333333333333,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.0
+    },
+    {
+      "id": "v4-audience-comment",
+      "title": "ВАША ДУМКА?",
+      "start": 1385.0333333333333,
+      "end": 1391.7333333333333,
+      "source_pixels_identical_after_entrance": true,
+      "encoded_freeze_mae": 0.0
+    }
+  ],
+  "audio_policy": "Original voice and total duration unchanged",
+  "motion_policy": {
+    "photo_camera": "locked",
+    "rotation_seconds_per_revolution": 24,
+    "short_shots": "partial rotation at the same angular speed",
+    "long_shots": "one revolution then hold",
+    "intermediate_frames": "motion-compensated 30fps from rendered geometry"
+  }
+}

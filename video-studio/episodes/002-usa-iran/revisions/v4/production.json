@@ -1,0 +1,15 @@
+{
+  "revision": "v4-chapter-cards-and-audience-question",
+  "status": "technically_verified",
+  "duration": 1397.466667,
+  "frames": 41924,
+  "sha256": "bc26d109b91de77d967734e899a36ff33c4ecbc0c99b571b74acaa48dc77119c",
+  "original_audio_sha256": "4df352eb83ffaef0d787d9922b201b44b6984dda7239284118b9224ad6374430",
+  "chapter_cards": 10,
+  "closing_question_and_comment_cards": 2,
+  "reference": "Episode 001 Painter section, diagram and outro templates",
+  "approved_v3_motion_preserved": true,
+  "source_reuse_report": "output/revision_v4/assembly.json",
+  "card_freeze_checks": "output/revision_v4/card-verification.json",
+  "scope_of_review": "Source templates, all new card source/encoded controls, output frame sheets, full decode and audio correlation; uninterrupted manual playback not claimed"
+}
