@@ -1,0 +1,38 @@
+test_bad_chart_scale_rejected (test_pipeline.PipelineTests.test_bad_chart_scale_rejected) ... ok
+test_discontinuous_timeline_rejected (test_pipeline.PipelineTests.test_discontinuous_timeline_rejected) ... ok
+test_missing_art_rejected_for_final_but_allowed_in_draft (test_pipeline.PipelineTests.test_missing_art_rejected_for_final_but_allowed_in_draft) ... ok
+test_new_episode_never_replaces_existing_work (test_pipeline.PipelineTests.test_new_episode_never_replaces_existing_work) ... ok
+test_render_muxes_supplied_audio_and_holds_final_video_frame (test_pipeline.PipelineTests.test_render_muxes_supplied_audio_and_holds_final_video_frame) ... Новий випуск: /workspace/v1/video-studio/work/tmp_11lx1vh/new/episode.json
+[1/2] one (intro)
+[2/2] clip (footage)
+ok
+test_rounding_does_not_drop_or_duplicate_scene_frames (test_pipeline.PipelineTests.test_rounding_does_not_drop_or_duplicate_scene_frames) ... ok
+test_short_audio_padded_to_visual_duration (test_pipeline.PipelineTests.test_short_audio_padded_to_visual_duration) ... Готово: /workspace/v1/video-studio/work/tmpcc1434et/result.mp4
+[1/1] one (intro)
+ok
+test_strict_audio_mismatch_rejected (test_pipeline.PipelineTests.test_strict_audio_mismatch_rejected) ... ok
+test_ukrainian_text_previews_and_overflow_fails (test_pipeline.PipelineTests.test_ukrainian_text_previews_and_overflow_fails) ... ok
+test_reuses_verified_base_clip_preserves_voice_and_rejects_stale_assets (test_revision_assembly.RevisionAssemblyTests.test_reuses_verified_base_clip_preserves_voice_and_rejects_stale_assets) ... Готово: /workspace/v1/video-studio/work/tmp9q7lpsfe/padded.mp4
+Прев'ю: /workspace/v1/video-studio/work/tmpn2fbcckg/preview.png
+COMPILE 1/2 one 1.00s
+COMPILE 2/2 two 1.00s
+FINAL_READY /workspace/v1/video-studio/work/tmp1vqgdyru/base.mp4
+FULL_REVISION_READY /workspace/v1/video-studio/work/tmp1vqgdyru/result.mp4
+ok
+test_fast_compiler_encodes_timed_overlay_and_supplied_video (test_studio.StudioSceneTests.test_fast_compiler_encodes_timed_overlay_and_supplied_video) ... COMPILE 1/2 object 1.00s
+CACHE 2/2 video
+FINAL_READY /workspace/v1/video-studio/work/tmpbscmjrya/result.mp4
+ok
+test_flat_image_cannot_claim_true_3d (test_studio.StudioSceneTests.test_flat_image_cannot_claim_true_3d) ... ok
+test_timed_callouts_cannot_overlap (test_studio.StudioSceneTests.test_timed_callouts_cannot_overlap) ... ok
+test_disabled_motion_preserves_existing_titles (test_title_motion.TitleMotionTests.test_disabled_motion_preserves_existing_titles) ... ok
+test_gltf_transform_keeps_translation_rotation_and_scale (test_title_motion.TitleMotionTests.test_gltf_transform_keeps_translation_rotation_and_scale) ... ok
+test_prepared_archive_preview_does_not_add_a_second_title (test_title_motion.TitleMotionTests.test_prepared_archive_preview_does_not_add_a_second_title) ... ok
+test_reveal_finishes_and_retains_ukrainian_text (test_title_motion.TitleMotionTests.test_reveal_finishes_and_retains_ukrainian_text) ... ok
+test_binding_does_not_hide_unavailable_models_or_static_comparison (test_turntable_binding.TurntableBindingTests.test_binding_does_not_hide_unavailable_models_or_static_comparison) ... ok
+test_partial_spin_is_not_accepted_as_full_circle (test_turntable_binding.TurntableBindingTests.test_partial_spin_is_not_accepted_as_full_circle) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 11.356s
+
+OK

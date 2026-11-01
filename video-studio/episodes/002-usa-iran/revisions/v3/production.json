@@ -1,0 +1,23 @@
+{
+  "revision": "v3-calm-motion",
+  "status": "technically_verified",
+  "source_revision": "v2",
+  "full_video_sha256": "2a931993cf6211f3cf22ae95aaac1727144142fb484259e5b66a38b86ea37482",
+  "duration": 1397.466667,
+  "original_audio_sha256": "4df352eb83ffaef0d787d9922b201b44b6984dda7239284118b9224ad6374430",
+  "original_audio_preserved": true,
+  "motion_policy": {
+    "photo_camera": "locked",
+    "rotation_seconds_per_revolution": 24,
+    "short_shots": "partial rotation at the same angular speed",
+    "long_shots": "one revolution then hold",
+    "intermediate_frames": "motion-compensated 30fps from rendered geometry"
+  },
+  "encoded_motion_report": "output/revision_v3/motion-verification.json",
+  "technical_report": "output/revision_v3/verification.json",
+  "tests": {
+    "episode": 7,
+    "studio": 19
+  },
+  "review_scope": "Pilot encoded sequences, source poses, output frame controls and automated full-file decode/audio correlation. No uninterrupted human playback claimed."
+}

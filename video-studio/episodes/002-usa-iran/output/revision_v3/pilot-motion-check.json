@@ -1,0 +1,7 @@
+{
+  "locked_photo_encoded_mean_absolute_difference": 0.001048900462962963,
+  "short_model_expected_partial_angle_error_8bit": 1.2390025252525252,
+  "seconds_per_revolution": 24,
+  "short_model_degrees_shown": 43.50000000000001,
+  "pilot_review": "encoded frame sequences; not continuous human playback"
+}
