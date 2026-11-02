@@ -1,0 +1,579 @@
+{
+  "status": "technically_verified",
+  "video": "/tmp/arsenal-003/render/final_video_v1.mp4",
+  "sha256": "3ac6a95a00ffbbdd795469a48bc17938e09aea6f39386852760f26c0509e1f44",
+  "duration": 1288.133333,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 38644,
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "audio_sample_rate": "48000",
+  "original_audio_sha256": "d5044183fb3ce65f4a0cf1e91e415987081e58e1b31827907c60be0c7dfb6112",
+  "audio_waveform_correlation_zero_lag": 0.9998082085038704,
+  "full_video_and_audio_decode": "passed",
+  "archive_spacing": "passed >60 seconds from previous use end",
+  "encoded_static_photo_and_card_checks": [
+    {
+      "id": "shot-001",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-011",
+      "mean_pixel_difference": 0.0006539351888932288
+    },
+    {
+      "id": "shot-012",
+      "mean_pixel_difference": 0.002633101772516966
+    },
+    {
+      "id": "shot-015",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-017",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-018",
+      "mean_pixel_difference": 0.004305555485188961
+    },
+    {
+      "id": "shot-029",
+      "mean_pixel_difference": 0.00046874998952262104
+    },
+    {
+      "id": "shot-031",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-037",
+      "mean_pixel_difference": 0.2092592567205429
+    },
+    {
+      "id": "shot-038",
+      "mean_pixel_difference": 0.29712963104248047
+    },
+    {
+      "id": "shot-041",
+      "mean_pixel_difference": 0.00041666667675599456
+    },
+    {
+      "id": "shot-043",
+      "mean_pixel_difference": 0.0007696759421378374
+    },
+    {
+      "id": "shot-044",
+      "mean_pixel_difference": 0.007731481455266476
+    },
+    {
+      "id": "shot-045",
+      "mean_pixel_difference": 0.0016898148460313678
+    },
+    {
+      "id": "shot-046",
+      "mean_pixel_difference": 0.06513889133930206
+    },
+    {
+      "id": "shot-049",
+      "mean_pixel_difference": 0.3038136661052704
+    },
+    {
+      "id": "shot-050",
+      "mean_pixel_difference": 0.0005555555690079927
+    },
+    {
+      "id": "shot-052",
+      "mean_pixel_difference": 0.001880787080153823
+    },
+    {
+      "id": "shot-056",
+      "mean_pixel_difference": 0.0025405092164874077
+    },
+    {
+      "id": "shot-057",
+      "mean_pixel_difference": 0.0005324074300006032
+    },
+    {
+      "id": "shot-059",
+      "mean_pixel_difference": 0.4015972316265106
+    },
+    {
+      "id": "shot-060",
+      "mean_pixel_difference": 0.0012268518330529332
+    },
+    {
+      "id": "shot-061",
+      "mean_pixel_difference": 0.4625057876110077
+    },
+    {
+      "id": "shot-066",
+      "mean_pixel_difference": 0.31490740180015564
+    },
+    {
+      "id": "shot-068",
+      "mean_pixel_difference": 0.0013599536614492536
+    },
+    {
+      "id": "shot-069",
+      "mean_pixel_difference": 0.002418981399387121
+    },
+    {
+      "id": "shot-070",
+      "mean_pixel_difference": 0.3669270873069763
+    },
+    {
+      "id": "shot-071",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-072",
+      "mean_pixel_difference": 0.001834490685723722
+    },
+    {
+      "id": "shot-076",
+      "mean_pixel_difference": 0.37302082777023315
+    },
+    {
+      "id": "shot-077",
+      "mean_pixel_difference": 0.3369560241699219
+    },
+    {
+      "id": "shot-079",
+      "mean_pixel_difference": 0.2912905216217041
+    },
+    {
+      "id": "shot-080",
+      "mean_pixel_difference": 0.4174305498600006
+    },
+    {
+      "id": "shot-082",
+      "mean_pixel_difference": 0.28800925612449646
+    },
+    {
+      "id": "shot-083",
+      "mean_pixel_difference": 0.07006365805864334
+    },
+    {
+      "id": "shot-084",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-085",
+      "mean_pixel_difference": 0.1978124976158142
+    },
+    {
+      "id": "shot-088",
+      "mean_pixel_difference": 0.1251562535762787
+    },
+    {
+      "id": "shot-090",
+      "mean_pixel_difference": 8.101851562969387e-05
+    },
+    {
+      "id": "shot-091",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-093",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-096",
+      "mean_pixel_difference": 0.26765045523643494
+    },
+    {
+      "id": "shot-097",
+      "mean_pixel_difference": 0.0026446760166436434
+    },
+    {
+      "id": "shot-100",
+      "mean_pixel_difference": 0.3876388967037201
+    },
+    {
+      "id": "shot-101",
+      "mean_pixel_difference": 0.41186341643333435
+    },
+    {
+      "id": "shot-102",
+      "mean_pixel_difference": 0.32300347089767456
+    },
+    {
+      "id": "shot-103",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-104",
+      "mean_pixel_difference": 0.009924768470227718
+    },
+    {
+      "id": "shot-105",
+      "mean_pixel_difference": 0.006562499795109034
+    },
+    {
+      "id": "shot-107",
+      "mean_pixel_difference": 0.3792881965637207
+    },
+    {
+      "id": "shot-108",
+      "mean_pixel_difference": 0.0007696759421378374
+    },
+    {
+      "id": "shot-109",
+      "mean_pixel_difference": 0.2882349491119385
+    },
+    {
+      "id": "shot-111",
+      "mean_pixel_difference": 0.2833680510520935
+    },
+    {
+      "id": "shot-112",
+      "mean_pixel_difference": 0.0036400463432073593
+    },
+    {
+      "id": "shot-113",
+      "mean_pixel_difference": 0.30764466524124146
+    },
+    {
+      "id": "shot-116",
+      "mean_pixel_difference": 0.34258100390434265
+    },
+    {
+      "id": "shot-117",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-118",
+      "mean_pixel_difference": 0.0025983797386288643
+    },
+    {
+      "id": "shot-120",
+      "mean_pixel_difference": 0.0008333333535119891
+    },
+    {
+      "id": "shot-121",
+      "mean_pixel_difference": 0.0007812500116415322
+    },
+    {
+      "id": "shot-123",
+      "mean_pixel_difference": 0.2128877341747284
+    },
+    {
+      "id": "shot-124",
+      "mean_pixel_difference": 0.2241145819425583
+    },
+    {
+      "id": "shot-125",
+      "mean_pixel_difference": 0.2491898089647293
+    },
+    {
+      "id": "shot-127",
+      "mean_pixel_difference": 0.37269675731658936
+    },
+    {
+      "id": "shot-128",
+      "mean_pixel_difference": 0.000271990749752149
+    },
+    {
+      "id": "shot-130",
+      "mean_pixel_difference": 0.003315972164273262
+    },
+    {
+      "id": "shot-136",
+      "mean_pixel_difference": 0.005549768451601267
+    },
+    {
+      "id": "shot-139",
+      "mean_pixel_difference": 0.17278356850147247
+    },
+    {
+      "id": "shot-141",
+      "mean_pixel_difference": 0.2806423604488373
+    },
+    {
+      "id": "shot-142",
+      "mean_pixel_difference": 0.06816551089286804
+    },
+    {
+      "id": "shot-143",
+      "mean_pixel_difference": 5.7870369346346706e-05
+    },
+    {
+      "id": "shot-145",
+      "mean_pixel_difference": 0.00032986109727062285
+    },
+    {
+      "id": "shot-147",
+      "mean_pixel_difference": 0.000885416695382446
+    },
+    {
+      "id": "shot-150",
+      "mean_pixel_difference": 0.2855786979198456
+    },
+    {
+      "id": "shot-151",
+      "mean_pixel_difference": 0.0013541666558012366
+    },
+    {
+      "id": "shot-155",
+      "mean_pixel_difference": 0.00542824063450098
+    },
+    {
+      "id": "shot-156",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-157",
+      "mean_pixel_difference": 0.0003124999930150807
+    },
+    {
+      "id": "shot-158",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-163",
+      "mean_pixel_difference": 0.2821701467037201
+    },
+    {
+      "id": "shot-164",
+      "mean_pixel_difference": 0.4816145896911621
+    },
+    {
+      "id": "shot-165",
+      "mean_pixel_difference": 0.0006770833279006183
+    },
+    {
+      "id": "shot-167",
+      "mean_pixel_difference": 0.4651620388031006
+    },
+    {
+      "id": "shot-168",
+      "mean_pixel_difference": 0.005028935149312019
+    },
+    {
+      "id": "shot-169",
+      "mean_pixel_difference": 0.146371528506279
+    },
+    {
+      "id": "shot-170",
+      "mean_pixel_difference": 0.35976850986480713
+    },
+    {
+      "id": "shot-171",
+      "mean_pixel_difference": 0.09557870030403137
+    },
+    {
+      "id": "shot-172",
+      "mean_pixel_difference": 0.06395254284143448
+    },
+    {
+      "id": "shot-173",
+      "mean_pixel_difference": 0.0514872670173645
+    }
+  ],
+  "slow_native_3d_checks": [
+    {
+      "id": "shot-002",
+      "asset": "model-abrams",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 2.5
+    },
+    {
+      "id": "shot-006",
+      "asset": "model-himars-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 2.200000000000001
+    },
+    {
+      "id": "shot-008",
+      "asset": "model-leopard-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 5.766666666666666
+    },
+    {
+      "id": "shot-013",
+      "asset": "model-f16",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 3.5
+    },
+    {
+      "id": "shot-014",
+      "asset": "model-eurofighter",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 3.5333333333333385
+    },
+    {
+      "id": "shot-019",
+      "asset": "model-f16",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 1.0
+    },
+    {
+      "id": "shot-020",
+      "asset": "model-abrams",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 0.7999999999999972
+    },
+    {
+      "id": "shot-026",
+      "asset": "model-apache",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 0.9000000000000057
+    },
+    {
+      "id": "shot-028",
+      "asset": "model-leopard-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 3.5
+    },
+    {
+      "id": "shot-034",
+      "asset": "model-f16",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 6.366666666666674
+    },
+    {
+      "id": "shot-042",
+      "asset": "model-eurofighter",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 10.099999999999994
+    },
+    {
+      "id": "shot-047",
+      "asset": "model-eurofighter",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 4.833333333333343
+    },
+    {
+      "id": "shot-054",
+      "asset": "model-abrams",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 7.699999999999989
+    },
+    {
+      "id": "shot-058",
+      "asset": "model-k2-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 8.400000000000034
+    },
+    {
+      "id": "shot-064",
+      "asset": "model-leopard-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 8.699999999999989
+    },
+    {
+      "id": "shot-075",
+      "asset": "model-himars-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 8.800000000000011
+    },
+    {
+      "id": "shot-099",
+      "asset": "model-pzh-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 6.5
+    },
+    {
+      "id": "shot-106",
+      "asset": "model-tb2-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 4.166666666666629
+    },
+    {
+      "id": "shot-132",
+      "asset": "model-apache",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 4.7999999999999545
+    },
+    {
+      "id": "shot-134",
+      "asset": "model-blackhawk",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 6.666666666666629
+    },
+    {
+      "id": "shot-149",
+      "asset": "model-miecznik-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 10.333333333333258
+    },
+    {
+      "id": "shot-153",
+      "asset": "model-type212-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 12.13333333333344
+    },
+    {
+      "id": "shot-161",
+      "asset": "model-k2-illustrative",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 5.866666666666788
+    }
+  ],
+  "media_mix": {
+    "seconds_by_kind": {
+      "archive": 337.133,
+      "compare": 207.733,
+      "section": 42.967,
+      "map": 29.433,
+      "question": 17.033,
+      "turntable": 129.067,
+      "graphic": 37.133,
+      "photo": 460.133,
+      "ident": 9.8,
+      "outro": 17.7
+    },
+    "archive_share": 0.2617221302142635,
+    "previous_episode_archive_share": 0.23561683045510923,
+    "archive_relative_share_increase": 0.11079556459837847,
+    "scenes_by_kind": {
+      "map": 4,
+      "turntable": 23,
+      "archive": 37,
+      "photo": 71,
+      "compare": 19,
+      "graphic": 4,
+      "ident": 2,
+      "section": 10,
+      "question": 1,
+      "outro": 2
+    },
+    "source_decisions": [
+      {
+        "time": 684.4666666666667,
+        "asset": "de-pzh",
+        "reason": "Archive source cooldown >60s enforced; matching photograph used"
+      }
+    ],
+    "first_90_seconds_shots": 32
+  },
+  "encoded_freeze_mae_limit_8bit": 1.0,
+  "freeze_tolerance_note": "H264 compression may vary subpixel rounding across static frames; entrance source is held with tpad clone",
+  "control_frames": 176,
+  "continuous_human_watch_and_listen": "not performed; source sheets, storyboard and encoded controls are separately reviewed"
+}

@@ -1,0 +1,1946 @@
+[
+  {
+    "i": 1,
+    "text": "Дві країни в самому серці Європи. Дві армії НАТО. І два абсолютно різні підходи до створення сучасної військової сили.",
+    "heading": false,
+    "chapter": 0,
+    "start": 0,
+    "matched_words": 19,
+    "total_words": 19
+  },
+  {
+    "i": 2,
+    "text": "Польща стрімко переозброюється. Американські Abrams, південнокорейські K2, реактивна артилерія HIMARS та новітні винищувачі F-35.",
+    "heading": false,
+    "chapter": 0,
+    "start": 8.78,
+    "matched_words": 8,
+    "total_words": 15
+  },
+  {
+    "i": 3,
+    "text": "Німеччина має потужну оборонну промисловість. Саме тут створюють Leopard 2, бойові машини Puma, бронетранспортери Boxer та сучасні системи протиповітряної оборони.",
+    "heading": false,
+    "chapter": 0,
+    "start": 19.02,
+    "matched_words": 15,
+    "total_words": 20
+  },
+  {
+    "i": 4,
+    "text": "Але виникає цікаве питання.",
+    "heading": false,
+    "chapter": 0,
+    "start": 31.12,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 5,
+    "text": "Чи може Польща, яка активно закуповує озброєння по всьому світу, перевершити Німеччину, що десятиліттями розвиває власні військові технології?",
+    "heading": false,
+    "chapter": 0,
+    "start": 32.8,
+    "matched_words": 15,
+    "total_words": 18
+  },
+  {
+    "i": 6,
+    "text": "І що важливіше для сучасної армії: кількість бойових машин, їхня технологічність чи здатність швидко поповнювати втрати?",
+    "heading": false,
+    "chapter": 0,
+    "start": 42.82,
+    "matched_words": 16,
+    "total_words": 16
+  },
+  {
+    "i": 7,
+    "text": "Сьогодні ми порівняємо військові арсенали Польщі та Німеччини за десятьма ключовими категоріями.",
+    "heading": false,
+    "chapter": 0,
+    "start": 51.08,
+    "matched_words": 11,
+    "total_words": 12
+  },
+  {
+    "i": 8,
+    "text": "Винищувачі, танки, ракети, піхотне озброєння, артилерія, безпілотники, протиповітряна оборона, вертольоти та військово-морський флот.",
+    "heading": false,
+    "chapter": 0,
+    "start": 57.98,
+    "matched_words": 10,
+    "total_words": 14
+  },
+  {
+    "i": 9,
+    "text": "А наприкінці з'ясуємо, у яких сферах переважає кожна країна і чому однозначного переможця визначити складніше, ніж здається.",
+    "heading": false,
+    "chapter": 0,
+    "start": 68.2,
+    "matched_words": 17,
+    "total_words": 18
+  },
+  {
+    "i": 10,
+    "text": "Це АРСЕНАЛ 360°. Починаємо.",
+    "heading": false,
+    "chapter": 0,
+    "start": 77.1,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 12,
+    "text": "Почнемо з авіації.",
+    "heading": false,
+    "chapter": 1,
+    "start": 80.9,
+    "matched_words": 1,
+    "total_words": 3
+  },
+  {
+    "i": 13,
+    "text": "Польща протягом багатьох років спиралася на американські винищувачі F-16 Fighting Falcon.",
+    "heading": false,
+    "chapter": 1,
+    "start": 82.84,
+    "matched_words": 11,
+    "total_words": 12
+  },
+  {
+    "i": 14,
+    "text": "Це перевірена багатоцільова платформа, здатна виконувати завдання протиповітряної оборони, супроводжувати інші літаки та завдавати високоточних ударів по наземних цілях.",
+    "heading": false,
+    "chapter": 1,
+    "start": 89.82,
+    "matched_words": 18,
+    "total_words": 19
+  },
+  {
+    "i": 15,
+    "text": "Польські F-16 модернізуються, а їхнє озброєння включає сучасні керовані ракети.",
+    "heading": false,
+    "chapter": 1,
+    "start": 100.82,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 16,
+    "text": "Але головна зміна польської авіації — поява F-35 Lightning II.",
+    "heading": false,
+    "chapter": 1,
+    "start": 107.2,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 17,
+    "text": "Це винищувач п'ятого покоління, створений не лише для повітряного бою, а й для збору та передачі інформації іншим учасникам бойової операції.",
+    "heading": false,
+    "chapter": 1,
+    "start": 113.32,
+    "matched_words": 21,
+    "total_words": 22
+  },
+  {
+    "i": 18,
+    "text": "Його малопомітність, сенсори та система об'єднання даних дозволяють пілоту краще розуміти ситуацію навколо.",
+    "heading": false,
+    "chapter": 1,
+    "start": 122.82,
+    "matched_words": 13,
+    "total_words": 14
+  },
+  {
+    "i": 19,
+    "text": "У 2026 році Польща вже розпочала приймання F-35, хоча формування повноцінних можливостей нового авіаційного компонента потребує часу.",
+    "heading": false,
+    "chapter": 1,
+    "start": 130.26,
+    "matched_words": 17,
+    "total_words": 18
+  },
+  {
+    "i": 20,
+    "text": "Окрім них, польські Повітряні сили отримують легкі літаки FA-50 південнокорейського виробництва.",
+    "heading": false,
+    "chapter": 1,
+    "start": 141.28,
+    "matched_words": 10,
+    "total_words": 12
+  },
+  {
+    "i": 21,
+    "text": "Ці машини можуть виконувати навчальні та окремі бойові завдання, але не є прямою заміною важких багатоцільових винищувачів.",
+    "heading": false,
+    "chapter": 1,
+    "start": 148.44,
+    "matched_words": 15,
+    "total_words": 17
+  },
+  {
+    "i": 22,
+    "text": "Тепер Німеччина.",
+    "heading": false,
+    "chapter": 1,
+    "start": 156.2,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 23,
+    "text": "Основою її винищувальної авіації залишається Eurofighter Typhoon.",
+    "heading": false,
+    "chapter": 1,
+    "start": 157.7,
+    "matched_words": 4,
+    "total_words": 7
+  },
+  {
+    "i": 24,
+    "text": "Це один із найвідоміших європейських бойових літаків, створений для завоювання переваги в повітрі та виконання широкого спектра завдань.",
+    "heading": false,
+    "chapter": 1,
+    "start": 162.42,
+    "matched_words": 18,
+    "total_words": 18
+  },
+  {
+    "i": 25,
+    "text": "Два двигуни, потужна радіолокаційна система, висока маневреність і можливість застосування сучасних ракет роблять Eurofighter серйозним противником.",
+    "heading": false,
+    "chapter": 1,
+    "start": 171.62,
+    "matched_words": 15,
+    "total_words": 16
+  },
+  {
+    "i": 26,
+    "text": "Важливу роль відіграє ракета Meteor, розроблена для повітряного бою на великих дистанціях.",
+    "heading": false,
+    "chapter": 1,
+    "start": 181.72,
+    "matched_words": 11,
+    "total_words": 12
+  },
+  {
+    "i": 27,
+    "text": "Німеччина також продовжує експлуатувати Tornado, поступово готуючи їм заміну.",
+    "heading": false,
+    "chapter": 1,
+    "start": 187.82,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 28,
+    "text": "Для цього Берлін замовив американські F-35A.",
+    "heading": false,
+    "chapter": 1,
+    "start": 193.5,
+    "matched_words": 4,
+    "total_words": 7
+  },
+  {
+    "i": 29,
+    "text": "Однак замовлений літак і літак, який уже забезпечує повноцінне бойове чергування, — не одне й те саме.",
+    "heading": false,
+    "chapter": 1,
+    "start": 197.52,
+    "matched_words": 12,
+    "total_words": 16
+  },
+  {
+    "i": 30,
+    "text": "Тому оцінювати авіацію потрібно за реальною готовністю екіпажів, технічного персоналу та озброєння.",
+    "heading": false,
+    "chapter": 1,
+    "start": 204.08,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 31,
+    "text": "У підсумку Німеччина має потужний і зрілий парк Eurofighter.",
+    "heading": false,
+    "chapter": 1,
+    "start": 210.7,
+    "matched_words": 8,
+    "total_words": 9
+  },
+  {
+    "i": 32,
+    "text": "Польща ж швидко переходить до поєднання F-16 та F-35.",
+    "heading": false,
+    "chapter": 1,
+    "start": 215.54,
+    "matched_words": 8,
+    "total_words": 11
+  },
+  {
+    "i": 33,
+    "text": "За наявними можливостями перевага не є безумовною. Але в перспективі польська авіація може суттєво посилитися.",
+    "heading": false,
+    "chapter": 1,
+    "start": 220.18,
+    "matched_words": 15,
+    "total_words": 15
+  },
+  {
+    "i": 35,
+    "text": "Тепер переходимо до категорії, де різниця між двома країнами особливо помітна.",
+    "heading": false,
+    "chapter": 2,
+    "start": 229.78,
+    "matched_words": 10,
+    "total_words": 11
+  },
+  {
+    "i": 36,
+    "text": "Танки.",
+    "heading": false,
+    "chapter": 2,
+    "start": 235.06,
+    "matched_words": 1,
+    "total_words": 1
+  },
+  {
+    "i": 37,
+    "text": "Польща створює один із найбільш різноманітних сучасних танкових парків у Європі.",
+    "heading": false,
+    "chapter": 2,
+    "start": 235.74,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 38,
+    "text": "Перший важливий елемент — американський M1 Abrams.",
+    "heading": false,
+    "chapter": 2,
+    "start": 240.8,
+    "matched_words": 4,
+    "total_words": 6
+  },
+  {
+    "i": 39,
+    "text": "Його головні особливості: потужна броня, 120-міліметрова гармата, сучасні системи керування вогнем і висока захищеність екіпажу.",
+    "heading": false,
+    "chapter": 2,
+    "start": 245.16,
+    "matched_words": 12,
+    "total_words": 16
+  },
+  {
+    "i": 40,
+    "text": "Abrams створювався для інтенсивного загальновійськового бою, де танк взаємодіє з піхотою, артилерією та розвідкою.",
+    "heading": false,
+    "chapter": 2,
+    "start": 254.44,
+    "matched_words": 12,
+    "total_words": 14
+  },
+  {
+    "i": 41,
+    "text": "Але є й недоліки.",
+    "heading": false,
+    "chapter": 2,
+    "start": 262.14,
+    "matched_words": 1,
+    "total_words": 4
+  },
+  {
+    "i": 42,
+    "text": "Велика маса, значні потреби в обслуговуванні та складна логістика вимагають добре підготовленої системи забезпечення.",
+    "heading": false,
+    "chapter": 2,
+    "start": 264.1,
+    "matched_words": 8,
+    "total_words": 14
+  },
+  {
+    "i": 43,
+    "text": "Другий важливий польський танк — K2 Black Panther із Південної Кореї.",
+    "heading": false,
+    "chapter": 2,
+    "start": 271.9,
+    "matched_words": 8,
+    "total_words": 10
+  },
+  {
+    "i": 44,
+    "text": "Він оснащений 120-міліметровою гарматою з автоматом заряджання, сучасною електронікою та гідропневматичною підвіскою.",
+    "heading": false,
+    "chapter": 2,
+    "start": 276.9,
+    "matched_words": 10,
+    "total_words": 13
+  },
+  {
+    "i": 45,
+    "text": "K2 має іншу конструктивну філософію, ніж Abrams.",
+    "heading": false,
+    "chapter": 2,
+    "start": 285.3,
+    "matched_words": 5,
+    "total_words": 7
+  },
+  {
+    "i": 46,
+    "text": "Він легший, використовує екіпаж із трьох осіб і пропонує високу мобільність.",
+    "heading": false,
+    "chapter": 2,
+    "start": 289.86,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 47,
+    "text": "Польща також зберігає танки Leopard 2 різних модифікацій.",
+    "heading": false,
+    "chapter": 2,
+    "start": 295.24,
+    "matched_words": 6,
+    "total_words": 8
+  },
+  {
+    "i": 48,
+    "text": "Отже, польська армія одночасно використовує кілька танкових сімейств.",
+    "heading": false,
+    "chapter": 2,
+    "start": 299.18,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 49,
+    "text": "Це дає гнучкість, але створює складнощі: різні запасні частини, навчання, ремонт і технічне обслуговування.",
+    "heading": false,
+    "chapter": 2,
+    "start": 303.68,
+    "matched_words": 13,
+    "total_words": 14
+  },
+  {
+    "i": 50,
+    "text": "Тепер Німеччина.",
+    "heading": false,
+    "chapter": 2,
+    "start": 312.58,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 51,
+    "text": "Її головний бойовий танк — Leopard 2.",
+    "heading": false,
+    "chapter": 2,
+    "start": 314.44,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 52,
+    "text": "Особливу увагу привертають модернізовані версії Leopard 2A7V та програма Leopard 2A8.",
+    "heading": false,
+    "chapter": 2,
+    "start": 317.25,
+    "matched_words": 8,
+    "total_words": 11
+  },
+  {
+    "i": 53,
+    "text": "Ці машини поєднують потужну 120-міліметрову гармату, сучасні приціли, системи захисту та вдосконалену електроніку.",
+    "heading": false,
+    "chapter": 2,
+    "start": 325.26,
+    "matched_words": 13,
+    "total_words": 14
+  },
+  {
+    "i": 54,
+    "text": "Leopard 2 має широку міжнародну базу експлуатації.",
+    "heading": false,
+    "chapter": 2,
+    "start": 333.96,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 55,
+    "text": "Це означає, що його використовують багато країн, а отже існує значна мережа виробників, ремонтних підприємств і постачальників компонентів.",
+    "heading": false,
+    "chapter": 2,
+    "start": 337.88,
+    "matched_words": 16,
+    "total_words": 18
+  },
+  {
+    "i": 56,
+    "text": "Німецьку бронетехніку доповнює бойова машина піхоти Puma.",
+    "heading": false,
+    "chapter": 2,
+    "start": 347.52,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 57,
+    "text": "Вона створена для взаємодії з танковими підрозділами та має високий рівень захисту.",
+    "heading": false,
+    "chapter": 2,
+    "start": 351.8,
+    "matched_words": 11,
+    "total_words": 12
+  },
+  {
+    "i": 58,
+    "text": "Ще одна важлива платформа — колісна бронемашина Boxer.",
+    "heading": false,
+    "chapter": 2,
+    "start": 357.74,
+    "matched_words": 6,
+    "total_words": 7
+  },
+  {
+    "i": 59,
+    "text": "Її модульна конструкція дозволяє створювати різні варіанти для транспортування піхоти, командування, медичної евакуації та інших завдань.",
+    "heading": false,
+    "chapter": 2,
+    "start": 361.4,
+    "matched_words": 15,
+    "total_words": 16
+  },
+  {
+    "i": 60,
+    "text": "Польща у відповідь використовує бронемашини Rosomak та впроваджує нові бойові машини піхоти Borsuk.",
+    "heading": false,
+    "chapter": 2,
+    "start": 369.74,
+    "matched_words": 8,
+    "total_words": 13
+  },
+  {
+    "i": 61,
+    "text": "То хто сильніший?",
+    "heading": false,
+    "chapter": 2,
+    "start": 376.62,
+    "matched_words": 3,
+    "total_words": 3
+  },
+  {
+    "i": 62,
+    "text": "Польща робить ставку на швидке збільшення кількості сучасних танків.",
+    "heading": false,
+    "chapter": 2,
+    "start": 377.73,
+    "matched_words": 8,
+    "total_words": 9
+  },
+  {
+    "i": 63,
+    "text": "Німеччина — на власну технологічну базу, модернізацію та підтримку складної бронетехніки.",
+    "heading": false,
+    "chapter": 2,
+    "start": 382.06,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 64,
+    "text": "І саме тут виникає головна дилема: більше машин сьогодні чи більш інтегрована система їхнього виробництва та обслуговування?",
+    "heading": false,
+    "chapter": 2,
+    "start": 388.26,
+    "matched_words": 17,
+    "total_words": 17
+  },
+  {
+    "i": 66,
+    "text": "У сучасній війні важливе значення мають не лише танки.",
+    "heading": false,
+    "chapter": 3,
+    "start": 399.22,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 67,
+    "text": "Не менш важливою є здатність завдавати точних ударів на великій відстані.",
+    "heading": false,
+    "chapter": 3,
+    "start": 402.70666666666665,
+    "matched_words": 9,
+    "total_words": 11
+  },
+  {
+    "i": 68,
+    "text": "Польща активно розвиває цей напрямок.",
+    "heading": false,
+    "chapter": 3,
+    "start": 407.82,
+    "matched_words": 4,
+    "total_words": 5
+  },
+  {
+    "i": 69,
+    "text": "Один із ключових елементів — американська реактивна система HIMARS.",
+    "heading": false,
+    "chapter": 3,
+    "start": 410.6,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 70,
+    "text": "Вона використовує керовані ракети, здатні вражати цілі з високою точністю.",
+    "heading": false,
+    "chapter": 3,
+    "start": 414.9,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 71,
+    "text": "Її мобільність дозволяє швидко змінювати позицію після виконання бойового завдання.",
+    "heading": false,
+    "chapter": 3,
+    "start": 420.84,
+    "matched_words": 9,
+    "total_words": 10
+  },
+  {
+    "i": 72,
+    "text": "Але Польща не обмежується лише HIMARS.",
+    "heading": false,
+    "chapter": 3,
+    "start": 426.76,
+    "matched_words": 5,
+    "total_words": 6
+  },
+  {
+    "i": 73,
+    "text": "Вона також закуповує південнокорейські системи K239 Chunmoo, які в польській конфігурації пов'язані з програмою Homar-K.",
+    "heading": false,
+    "chapter": 3,
+    "start": 429.64,
+    "matched_words": 11,
+    "total_words": 17
+  },
+  {
+    "i": 74,
+    "text": "Ці системи розширюють можливості реактивної артилерії та дозволяють застосовувати різні типи ракетних боєприпасів.",
+    "heading": false,
+    "chapter": 3,
+    "start": 438.9,
+    "matched_words": 13,
+    "total_words": 13
+  },
+  {
+    "i": 75,
+    "text": "Для авіації Польща придбала крилаті ракети сімейства JASSM, призначені для високоточних ударів по наземних цілях.",
+    "heading": false,
+    "chapter": 3,
+    "start": 447.42,
+    "matched_words": 15,
+    "total_words": 15
+  },
+  {
+    "i": 76,
+    "text": "Тепер Німеччина.",
+    "heading": false,
+    "chapter": 3,
+    "start": 456.62,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 77,
+    "text": "Одним із найвідоміших зразків її високоточного озброєння є авіаційна крилата ракета Taurus KEPD 350.",
+    "heading": false,
+    "chapter": 3,
+    "start": 458.68,
+    "matched_words": 11,
+    "total_words": 14
+  },
+  {
+    "i": 78,
+    "text": "Вона розроблена для ураження важливих захищених об'єктів.",
+    "heading": false,
+    "chapter": 3,
+    "start": 467.54,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 79,
+    "text": "Її концепція передбачає складну систему навігації та можливість польоту на малій висоті.",
+    "heading": false,
+    "chapter": 3,
+    "start": 471.88,
+    "matched_words": 10,
+    "total_words": 12
+  },
+  {
+    "i": 80,
+    "text": "Німецькі сухопутні війська також використовують реактивну артилерію MARS II, яка належить до сімейства систем MLRS.",
+    "heading": false,
+    "chapter": 3,
+    "start": 478.0,
+    "matched_words": 12,
+    "total_words": 15
+  },
+  {
+    "i": 81,
+    "text": "Водночас Німеччина працює над оновленням далекобійних можливостей.",
+    "heading": false,
+    "chapter": 3,
+    "start": 488.02,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 82,
+    "text": "Різниця очевидна.",
+    "heading": false,
+    "chapter": 3,
+    "start": 492.22,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 83,
+    "text": "Польща інтенсивно розширює кількість ракетних пускових систем.",
+    "heading": false,
+    "chapter": 3,
+    "start": 494.04,
+    "matched_words": 6,
+    "total_words": 7
+  },
+  {
+    "i": 84,
+    "text": "Німеччина має власні високотехнологічні рішення, особливо в авіаційному озброєнні, але модернізація сухопутних ракетних сил залишається важливим завданням.",
+    "heading": false,
+    "chapter": 3,
+    "start": 499.14,
+    "matched_words": 16,
+    "total_words": 17
+  },
+  {
+    "i": 85,
+    "text": "Тут Польща демонструє особливо високий темп розвитку.",
+    "heading": false,
+    "chapter": 3,
+    "start": 509.98,
+    "matched_words": 6,
+    "total_words": 7
+  },
+  {
+    "i": 86,
+    "text": "Проте реальна ефективність ракетного озброєння залежить не тільки від пускових установок, а й від запасів ракет, розвідки та зв'язку.",
+    "heading": false,
+    "chapter": 3,
+    "start": 513.86,
+    "matched_words": 17,
+    "total_words": 20
+  },
+  {
+    "i": 88,
+    "text": "Тепер подивимося, чим озброєний звичайний солдат.",
+    "heading": false,
+    "chapter": 4,
+    "start": 524.84,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 89,
+    "text": "У польській армії важливе місце посідає штурмова гвинтівка Grot.",
+    "heading": false,
+    "chapter": 4,
+    "start": 528.04,
+    "matched_words": 8,
+    "total_words": 9
+  },
+  {
+    "i": 90,
+    "text": "Це сучасна польська модульна система стрілецької зброї під набій калібру 5,56 міліметра.",
+    "heading": false,
+    "chapter": 4,
+    "start": 532.42,
+    "matched_words": 12,
+    "total_words": 13
+  },
+  {
+    "i": 91,
+    "text": "Вона поступово замінює старіші зразки та дозволяє використовувати різне додаткове обладнання.",
+    "heading": false,
+    "chapter": 4,
+    "start": 539.02,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 92,
+    "text": "Польські військові також застосовують кулемети, гранатомети, протитанкові комплекси Javelin та інші системи.",
+    "heading": false,
+    "chapter": 4,
+    "start": 544.92,
+    "matched_words": 10,
+    "total_words": 12
+  },
+  {
+    "i": 93,
+    "text": "Німецький Бундесвер тривалий час використовував гвинтівку G36.",
+    "heading": false,
+    "chapter": 4,
+    "start": 552.3,
+    "matched_words": 4,
+    "total_words": 7
+  },
+  {
+    "i": 94,
+    "text": "Її поступово замінює нова HK416 A8, прийнята під німецьким позначенням G95A1.",
+    "heading": false,
+    "chapter": 4,
+    "start": 557.5,
+    "matched_words": 8,
+    "total_words": 11
+  },
+  {
+    "i": 95,
+    "text": "Німеччина також відома кулеметами MG4 та MG5.",
+    "heading": false,
+    "chapter": 4,
+    "start": 566.84,
+    "matched_words": 5,
+    "total_words": 7
+  },
+  {
+    "i": 96,
+    "text": "Для боротьби з бронетехнікою використовуються різні протитанкові засоби, зокрема сімейство Panzerfaust 3.",
+    "heading": false,
+    "chapter": 4,
+    "start": 571.96,
+    "matched_words": 10,
+    "total_words": 12
+  },
+  {
+    "i": 97,
+    "text": "Обидві країни мають сучасні зразки стрілецької зброї.",
+    "heading": false,
+    "chapter": 4,
+    "start": 579.02,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 98,
+    "text": "Але в цій категорії головне — не те, яка гвинтівка виглядає технологічніше.",
+    "heading": false,
+    "chapter": 4,
+    "start": 583.22,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 99,
+    "text": "Набагато важливіші підготовка солдата, якість оптики, надійність постачання боєприпасів і взаємодія всередині підрозділу.",
+    "heading": false,
+    "chapter": 4,
+    "start": 587.42,
+    "matched_words": 9,
+    "total_words": 13
+  },
+  {
+    "i": 100,
+    "text": "Тому однозначного лідера тут немає.",
+    "heading": false,
+    "chapter": 4,
+    "start": 596.68,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 102,
+    "text": "Артилерія залишається одним із найважливіших елементів сучасних сухопутних військ.",
+    "heading": false,
+    "chapter": 5,
+    "start": 600.8,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 103,
+    "text": "Польща використовує самохідну гаубицю Krab.",
+    "heading": false,
+    "chapter": 5,
+    "start": 605.76,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 104,
+    "text": "Це 155-міліметрова артилерійська система, створена з використанням компонентів різного походження та польських технологій.",
+    "heading": false,
+    "chapter": 5,
+    "start": 608.94,
+    "matched_words": 13,
+    "total_words": 14
+  },
+  {
+    "i": 105,
+    "text": "Krab здатна застосовувати стандартні для НАТО артилерійські боєприпаси.",
+    "heading": false,
+    "chapter": 5,
+    "start": 616.94,
+    "matched_words": 6,
+    "total_words": 8
+  },
+  {
+    "i": 106,
+    "text": "Але Польща пішла далі.",
+    "heading": false,
+    "chapter": 5,
+    "start": 621.6,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 107,
+    "text": "Вона почала масово закуповувати південнокорейські гаубиці K9 Thunder.",
+    "heading": false,
+    "chapter": 5,
+    "start": 623.18,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 108,
+    "text": "Це одна з найпоширеніших сучасних самохідних артилерійських систем у світі.",
+    "heading": false,
+    "chapter": 5,
+    "start": 628.16,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 109,
+    "text": "Вона поєднує мобільність, автоматизацію окремих процесів і можливість швидко виконувати вогневі завдання.",
+    "heading": false,
+    "chapter": 5,
+    "start": 632.58,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 110,
+    "text": "Німеччина відповідає системою PzH 2000.",
+    "heading": false,
+    "chapter": 5,
+    "start": 639.18,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 111,
+    "text": "Ця 155-міліметрова гаубиця давно відома високим рівнем автоматизації, потужною системою керування вогнем і здатністю вести інтенсивний вогонь.",
+    "heading": false,
+    "chapter": 5,
+    "start": 643.44,
+    "matched_words": 17,
+    "total_words": 18
+  },
+  {
+    "i": 112,
+    "text": "PzH 2000 вважається однією з найтехнологічніших артилерійських систем свого покоління.",
+    "heading": false,
+    "chapter": 5,
+    "start": 653.12,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 113,
+    "text": "Німеччина також розвиває колісну артилерійську платформу RCH 155 на базі Boxer.",
+    "heading": false,
+    "chapter": 5,
+    "start": 659.62,
+    "matched_words": 10,
+    "total_words": 11
+  },
+  {
+    "i": 114,
+    "text": "Її особливість — автоматизована артилерійська башта, встановлена на мобільному колісному шасі.",
+    "heading": false,
+    "chapter": 5,
+    "start": 667.36,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 115,
+    "text": "Отже, Польща активно нарощує кількість самохідних гаубиць.",
+    "heading": false,
+    "chapter": 5,
+    "start": 673.86,
+    "matched_words": 6,
+    "total_words": 7
+  },
+  {
+    "i": 116,
+    "text": "Німеччина має потужні технологічні розробки та розвиває нове покоління артилерійських систем.",
+    "heading": false,
+    "chapter": 5,
+    "start": 678.02,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 117,
+    "text": "Але справжня сила артилерії визначається не лише дальністю пострілу.",
+    "heading": false,
+    "chapter": 5,
+    "start": 684.48,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 118,
+    "text": "Важливі також запаси снарядів, швидкість отримання координат, захист від дронів і здатність змінювати позицію.",
+    "heading": false,
+    "chapter": 5,
+    "start": 689.0,
+    "matched_words": 14,
+    "total_words": 14
+  },
+  {
+    "i": 120,
+    "text": "Безпілотники стали невід'ємною частиною сучасної війни.",
+    "heading": false,
+    "chapter": 6,
+    "start": 697.32,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 121,
+    "text": "І Польща активно розвиває цей напрямок.",
+    "heading": false,
+    "chapter": 6,
+    "start": 702.42,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 122,
+    "text": "Один із найвідоміших її безпілотних комплексів — турецький Bayraktar TB2.",
+    "heading": false,
+    "chapter": 6,
+    "start": 705.64,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 123,
+    "text": "Він може вести розвідку та застосовувати керовані боєприпаси.",
+    "heading": false,
+    "chapter": 6,
+    "start": 711.64,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 124,
+    "text": "Але ефективність таких апаратів значною мірою залежить від насиченості повітряного простору засобами протиповітряної оборони.",
+    "heading": false,
+    "chapter": 6,
+    "start": 715.8,
+    "matched_words": 13,
+    "total_words": 14
+  },
+  {
+    "i": 125,
+    "text": "Польща також розвиває власні розвідувальні безпілотні системи, зокрема FlyEye.",
+    "heading": false,
+    "chapter": 6,
+    "start": 724.64,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 126,
+    "text": "Окрему роль відіграють баражувальні боєприпаси Warmate.",
+    "heading": false,
+    "chapter": 6,
+    "start": 730.86,
+    "matched_words": 5,
+    "total_words": 6
+  },
+  {
+    "i": 127,
+    "text": "Вони створені для пошуку та ураження визначених цілей.",
+    "heading": false,
+    "chapter": 6,
+    "start": 735.32,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 128,
+    "text": "Німеччина має інший досвід.",
+    "heading": false,
+    "chapter": 6,
+    "start": 739.66,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 129,
+    "text": "Бундесвер використовував ізраїльські розвідувальні безпілотники Heron 1, а для розширення можливостей переходить до Heron TP.",
+    "heading": false,
+    "chapter": 6,
+    "start": 741.48,
+    "matched_words": 13,
+    "total_words": 15
+  },
+  {
+    "i": 130,
+    "text": "Ця платформа здатна виконувати тривалі розвідувальні місії та має потенціал застосування озброєння.",
+    "heading": false,
+    "chapter": 6,
+    "start": 750.9,
+    "matched_words": 10,
+    "total_words": 12
+  },
+  {
+    "i": 131,
+    "text": "Німеччина також бере участь у розвитку європейських безпілотних програм.",
+    "heading": false,
+    "chapter": 6,
+    "start": 757.9,
+    "matched_words": 8,
+    "total_words": 9
+  },
+  {
+    "i": 132,
+    "text": "Але в цій категорії не варто порівнювати лише великі літаки без пілота.",
+    "heading": false,
+    "chapter": 6,
+    "start": 762.74,
+    "matched_words": 9,
+    "total_words": 12
+  },
+  {
+    "i": 133,
+    "text": "Сучасні війни показали величезну роль невеликих розвідувальних дронів, FPV-систем та засобів протидії безпілотникам.",
+    "heading": false,
+    "chapter": 6,
+    "start": 766.92,
+    "matched_words": 14,
+    "total_words": 14
+  },
+  {
+    "i": 134,
+    "text": "Тому Польща має помітні переваги в розвитку окремих тактичних безпілотних рішень.",
+    "heading": false,
+    "chapter": 6,
+    "start": 775.68,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 135,
+    "text": "Німеччина робить ставку на інтеграцію розвідувальних платформ у складні військові інформаційні системи.",
+    "heading": false,
+    "chapter": 6,
+    "start": 781.2,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 136,
+    "text": "І жоден із цих підходів не гарантує переваги без ефективного захисту від ворожих дронів.",
+    "heading": false,
+    "chapter": 6,
+    "start": 787.98,
+    "matched_words": 14,
+    "total_words": 14
+  },
+  {
+    "i": 138,
+    "text": "Тепер одна з найважливіших категорій.",
+    "heading": false,
+    "chapter": 7,
+    "start": 793.64,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 139,
+    "text": "Протиповітряна оборона.",
+    "heading": false,
+    "chapter": 7,
+    "start": 796.72,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 140,
+    "text": "Польща активно створює багаторівневу систему захисту повітряного простору.",
+    "heading": false,
+    "chapter": 7,
+    "start": 798.42,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 141,
+    "text": "Її основою на великій дальності є американські комплекси Patriot у межах програми Wisła.",
+    "heading": false,
+    "chapter": 7,
+    "start": 802.5999999999999,
+    "matched_words": 10,
+    "total_words": 14
+  },
+  {
+    "i": 142,
+    "text": "Вони призначені для боротьби з літаками, крилатими ракетами та окремими типами балістичних загроз.",
+    "heading": false,
+    "chapter": 7,
+    "start": 808.9,
+    "matched_words": 12,
+    "total_words": 13
+  },
+  {
+    "i": 143,
+    "text": "Для середньої дальності Польща розвиває програму Narew, що використовує ракети сімейства CAMM.",
+    "heading": false,
+    "chapter": 7,
+    "start": 815.2,
+    "matched_words": 7,
+    "total_words": 12
+  },
+  {
+    "i": 144,
+    "text": "Для ближнього захисту застосовуються інші зенітні комплекси, включно з переносними системами Piorun польського виробництва.",
+    "heading": false,
+    "chapter": 7,
+    "start": 822.76,
+    "matched_words": 12,
+    "total_words": 14
+  },
+  {
+    "i": 145,
+    "text": "Німеччина також використовує Patriot.",
+    "heading": false,
+    "chapter": 7,
+    "start": 830.8,
+    "matched_words": 2,
+    "total_words": 4
+  },
+  {
+    "i": 146,
+    "text": "Але її протиповітряна оборона має ще кілька важливих елементів.",
+    "heading": false,
+    "chapter": 7,
+    "start": 833.5,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 147,
+    "text": "Перший — IRIS-T SLM.",
+    "heading": false,
+    "chapter": 7,
+    "start": 837.6,
+    "matched_words": 1,
+    "total_words": 4
+  },
+  {
+    "i": 148,
+    "text": "Це сучасний зенітний ракетний комплекс, призначений для ураження різних повітряних цілей на середніх дистанціях.",
+    "heading": false,
+    "chapter": 7,
+    "start": 840.5,
+    "matched_words": 13,
+    "total_words": 14
+  },
+  {
+    "i": 149,
+    "text": "Другий — Arrow 3.",
+    "heading": false,
+    "chapter": 7,
+    "start": 847.4,
+    "matched_words": 2,
+    "total_words": 3
+  },
+  {
+    "i": 150,
+    "text": "Ця система створена для перехоплення балістичних ракет на великій висоті, зокрема за межами щільних шарів атмосфери.",
+    "heading": false,
+    "chapter": 7,
+    "start": 849.58,
+    "matched_words": 16,
+    "total_words": 16
+  },
+  {
+    "i": 151,
+    "text": "Вона доповнює традиційну протиповітряну оборону можливостями протиракетного захисту.",
+    "heading": false,
+    "chapter": 7,
+    "start": 856.82,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 152,
+    "text": "І саме тут Німеччина має важливу особливість: розвиток системи оборони, що охоплює різні висоти та типи загроз.",
+    "heading": false,
+    "chapter": 7,
+    "start": 862.52,
+    "matched_words": 17,
+    "total_words": 17
+  },
+  {
+    "i": 153,
+    "text": "Проте наявність окремого комплексу ще не означає, що вся територія країни повністю захищена.",
+    "heading": false,
+    "chapter": 7,
+    "start": 870.56,
+    "matched_words": 13,
+    "total_words": 13
+  },
+  {
+    "i": 154,
+    "text": "Для цього потрібні достатня кількість батарей, ракети-перехоплювачі, радари та єдина система управління.",
+    "heading": false,
+    "chapter": 7,
+    "start": 877.15,
+    "matched_words": 11,
+    "total_words": 13
+  },
+  {
+    "i": 155,
+    "text": "Польща активно розбудовує таку архітектуру.",
+    "heading": false,
+    "chapter": 7,
+    "start": 884.19,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 156,
+    "text": "Німеччина також інвестує в неї, включно з протиракетними можливостями.",
+    "heading": false,
+    "chapter": 7,
+    "start": 887.43,
+    "matched_words": 8,
+    "total_words": 9
+  },
+  {
+    "i": 157,
+    "text": "Тому в ППО обидві країни мають сильні сторони, але з різними акцентами.",
+    "heading": false,
+    "chapter": 7,
+    "start": 892.39,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 159,
+    "text": "Переходимо до армійської авіації.",
+    "heading": false,
+    "chapter": 8,
+    "start": 899.23,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 160,
+    "text": "Польща вирішила суттєво посилити свої ударні вертолітні можливості.",
+    "heading": false,
+    "chapter": 8,
+    "start": 901.47,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 161,
+    "text": "Її найамбітніший проєкт — закупівля американських AH-64E Apache Guardian.",
+    "heading": false,
+    "chapter": 8,
+    "start": 906.17,
+    "matched_words": 4,
+    "total_words": 9
+  },
+  {
+    "i": 162,
+    "text": "Apache — один із найвідоміших ударних вертольотів у світі.",
+    "heading": false,
+    "chapter": 8,
+    "start": 913.1899999999999,
+    "matched_words": 6,
+    "total_words": 8
+  },
+  {
+    "i": 163,
+    "text": "Він оснащений сучасними сенсорами, системами спостереження та керованим озброєнням.",
+    "heading": false,
+    "chapter": 8,
+    "start": 917.19,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 164,
+    "text": "Ця машина створена для підтримки сухопутних військ і боротьби з бронетехнікою.",
+    "heading": false,
+    "chapter": 8,
+    "start": 922.69,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 165,
+    "text": "Однак велике замовлення не означає миттєвого отримання всіх вертольотів.",
+    "heading": false,
+    "chapter": 8,
+    "start": 927.49,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 166,
+    "text": "Їхнє впровадження потребує підготовки екіпажів, інфраструктури та технічного персоналу.",
+    "heading": false,
+    "chapter": 8,
+    "start": 932.69,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 167,
+    "text": "Польща також використовує транспортні та багатоцільові вертольоти, серед яких Black Hawk, AW149 та AW101 у відповідних військових структурах.",
+    "heading": false,
+    "chapter": 8,
+    "start": 938.47,
+    "matched_words": 13,
+    "total_words": 18
+  },
+  {
+    "i": 168,
+    "text": "Тепер Німеччина.",
+    "heading": false,
+    "chapter": 8,
+    "start": 950.39,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 169,
+    "text": "Її ударним вертольотом залишається Eurocopter Tiger.",
+    "heading": false,
+    "chapter": 8,
+    "start": 951.75,
+    "matched_words": 3,
+    "total_words": 6
+  },
+  {
+    "i": 170,
+    "text": "Це спеціалізована бойова машина, створена європейськими виробниками.",
+    "heading": false,
+    "chapter": 8,
+    "start": 955.09,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 171,
+    "text": "Проте експлуатація Tiger супроводжувалася складнощами з технічним обслуговуванням та готовністю.",
+    "heading": false,
+    "chapter": 8,
+    "start": 959.93,
+    "matched_words": 8,
+    "total_words": 10
+  },
+  {
+    "i": 172,
+    "text": "Німеччина обрала курс на поступову зміну структури легких ударних і багатоцільових вертолітних можливостей.",
+    "heading": false,
+    "chapter": 8,
+    "start": 966.31,
+    "matched_words": 13,
+    "total_words": 13
+  },
+  {
+    "i": 173,
+    "text": "Важливу роль у цьому має H145M.",
+    "heading": false,
+    "chapter": 8,
+    "start": 973.33,
+    "matched_words": 5,
+    "total_words": 6
+  },
+  {
+    "i": 174,
+    "text": "Для транспортування військ та вантажів Бундесвер використовує NH90 і важкі CH-53, а також готує оновлення важкого транспортного компонента.",
+    "heading": false,
+    "chapter": 8,
+    "start": 977.59,
+    "matched_words": 16,
+    "total_words": 19
+  },
+  {
+    "i": 175,
+    "text": "Польща робить ставку на потужні спеціалізовані ударні вертольоти Apache.",
+    "heading": false,
+    "chapter": 8,
+    "start": 990.19,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 176,
+    "text": "Німеччина — на ширшу перебудову вертолітного парку.",
+    "heading": false,
+    "chapter": 8,
+    "start": 995.29,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 177,
+    "text": "І знову вирішальним стає питання: що вже може виконувати бойові завдання, а що поки існує у планах закупівель?",
+    "heading": false,
+    "chapter": 8,
+    "start": 998.79,
+    "matched_words": 18,
+    "total_words": 18
+  },
+  {
+    "i": 179,
+    "text": "На перший погляд може здатися, що для Польщі та Німеччини флот не є головним компонентом оборони.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1008.81,
+    "matched_words": 15,
+    "total_words": 16
+  },
+  {
+    "i": 180,
+    "text": "Але обидві країни мають вихід до Балтійського моря.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1015.37,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 181,
+    "text": "І це робить морські можливості надзвичайно важливими.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1018.75,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 182,
+    "text": "Польський військово-морський флот орієнтований насамперед на захист власного узбережжя, морських комунікацій та участь у союзницьких операціях.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1022.25,
+    "matched_words": 16,
+    "total_words": 17
+  },
+  {
+    "i": 183,
+    "text": "Серед його кораблів — фрегати Oliver Hazard Perry, корвет Ślązak та сучасні протимінні кораблі Kormoran II.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1031.59,
+    "matched_words": 8,
+    "total_words": 16
+  },
+  {
+    "i": 184,
+    "text": "Польща також розвиває програму Miecznik.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1039.73,
+    "matched_words": 4,
+    "total_words": 5
+  },
+  {
+    "i": 185,
+    "text": "Вона передбачає створення нових багатоцільових фрегатів, які повинні значно розширити можливості польського флоту.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1043.13,
+    "matched_words": 12,
+    "total_words": 13
+  },
+  {
+    "i": 186,
+    "text": "Важливий елемент польської берегової оборони — протикорабельні ракети Naval Strike Missile.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1050.05,
+    "matched_words": 6,
+    "total_words": 10
+  },
+  {
+    "i": 187,
+    "text": "Вони дозволяють загрожувати надводним цілям без необхідності мати великі кораблі в кожній точці моря.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1056.55,
+    "matched_words": 14,
+    "total_words": 14
+  },
+  {
+    "i": 188,
+    "text": "Німеччина має значно ширший спектр морських можливостей.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1062.83,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 189,
+    "text": "Її флот використовує фрегати різних класів, корвети K130 та сучасні підводні човни Type 212A.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1066.75,
+    "matched_words": 12,
+    "total_words": 14
+  },
+  {
+    "i": 190,
+    "text": "Особливість цих субмарин — повітронезалежна енергетична установка, яка дозволяє тривалий час перебувати під водою без необхідності регулярно підніматися для роботи звичайних дизельних двигунів.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1074.83,
+    "matched_words": 20,
+    "total_words": 22
+  },
+  {
+    "i": 191,
+    "text": "Німеччина також розвиває нові корабельні програми та має значний досвід морського суднобудування.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1086.97,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 192,
+    "text": "За різноманітністю бойових кораблів, підводними можливостями та досвідом експлуатації великих морських платформ перевага тут у Німеччини.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1093.33,
+    "matched_words": 16,
+    "total_words": 16
+  },
+  {
+    "i": 193,
+    "text": "Але для захисту Балтійського узбережжя польські берегові ракетні комплекси залишаються важливим елементом стримування.",
+    "heading": false,
+    "chapter": 9,
+    "start": 1102.09,
+    "matched_words": 12,
+    "total_words": 13
+  },
+  {
+    "i": 195,
+    "text": "Ми порівняли авіацію, танки, ракети, піхотне озброєння, артилерію, безпілотники, протиповітряну оборону, вертольоти та флот.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1109.69,
+    "matched_words": 11,
+    "total_words": 14
+  },
+  {
+    "i": 196,
+    "text": "І тепер головне питання.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1118.11,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 197,
+    "text": "Хто сильніший — Польща чи Німеччина?",
+    "heading": false,
+    "chapter": 10,
+    "start": 1120.37,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 198,
+    "text": "Якщо дивитися на темпи переозброєння сухопутних військ, Польща справляє надзвичайно сильне враження.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1123.11,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 199,
+    "text": "Вона закуповує сучасні танки Abrams і K2, збільшує артилерійські можливості та розвиває далекобійні ракетні системи.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1129.67,
+    "matched_words": 15,
+    "total_words": 15
+  },
+  {
+    "i": 200,
+    "text": "Її стратегія полягає у швидкому створенні великого й добре озброєного сухопутного компонента.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1138.05,
+    "matched_words": 8,
+    "total_words": 12
+  },
+  {
+    "i": 201,
+    "text": "Німеччина має інші переваги.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1143.95,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 202,
+    "text": "Потужну оборонну промисловість, розвинуте виробництво бронетехніки, складні авіаційні технології, сучасні підводні човни та широкі можливості військової логістики.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1146.27,
+    "matched_words": 15,
+    "total_words": 17
+  },
+  {
+    "i": 203,
+    "text": "Вона здатна не тільки купувати техніку, а й розробляти, виробляти та модернізувати багато ключових систем самостійно.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1157.03,
+    "matched_words": 16,
+    "total_words": 16
+  },
+  {
+    "i": 204,
+    "text": "Але є ще один важливий фактор.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1165.15,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 205,
+    "text": "Армія — це не виставка бойових машин.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1167.49,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 206,
+    "text": "Навіть найсучасніший танк не має великого значення без екіпажу, пального, ремонту та запасних частин.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1169.91,
+    "matched_words": 14,
+    "total_words": 14
+  },
+  {
+    "i": 207,
+    "text": "Найкращий винищувач не забезпечить переваги без підготовлених пілотів, справних аеродромів і достатньої кількості ракет.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1177.01,
+    "matched_words": 12,
+    "total_words": 14
+  },
+  {
+    "i": 208,
+    "text": "А найпотужніша артилерія не зможе довго воювати без стабільного виробництва боєприпасів.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1184.87,
+    "matched_words": 8,
+    "total_words": 11
+  },
+  {
+    "i": 209,
+    "text": "Тому оцінювати військову силу лише за кількістю закупленої техніки — помилка.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1190.39,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 210,
+    "text": "Польща сьогодні демонструє особливо швидке посилення сухопутних військ.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1195.19,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 211,
+    "text": "Німеччина зберігає значні переваги у військово-морських можливостях, оборонній промисловості та низці складних технологічних напрямків.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1199.75,
+    "matched_words": 12,
+    "total_words": 15
+  },
+  {
+    "i": 212,
+    "text": "В авіації й протиповітряній обороні обидві країни проходять масштабне оновлення.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1207.99,
+    "matched_words": 8,
+    "total_words": 10
+  },
+  {
+    "i": 213,
+    "text": "І найцікавіше те, що Польща та Німеччина не готуються воювати одна проти одної.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1213.81,
+    "matched_words": 11,
+    "total_words": 13
+  },
+  {
+    "i": 214,
+    "text": "Вони є союзниками по НАТО.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1219.57,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 215,
+    "text": "Тому в реальній системі європейської оборони їхні арсенали повинні не конкурувати, а доповнювати один одного.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1222.29,
+    "matched_words": 15,
+    "total_words": 15
+  },
+  {
+    "i": 216,
+    "text": "Польські сухопутні сили, німецька промисловість, авіація, флот і спільні системи протиповітряної оборони можуть створювати значно сильнішу оборонну структуру разом, ніж окремо.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1229.33,
+    "matched_words": 20,
+    "total_words": 21
+  },
+  {
+    "i": 217,
+    "text": "І, можливо, саме це — найважливіший результат нашого порівняння.",
+    "heading": false,
+    "chapter": 10,
+    "start": 1242.69,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 219,
+    "text": "А тепер ваша черга.",
+    "heading": false,
+    "chapter": 11,
+    "start": 1247.41,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 220,
+    "text": "Як ви вважаєте, чия стратегія розвитку армії перспективніша?",
+    "heading": false,
+    "chapter": 11,
+    "start": 1249.79,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 221,
+    "text": "Польська — з масштабними закупівлями сучасного озброєння?",
+    "heading": false,
+    "chapter": 11,
+    "start": 1254.73,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 222,
+    "text": "Чи німецька — з опорою на власну промисловість і складні військові технології?",
+    "heading": false,
+    "chapter": 11,
+    "start": 1258.65,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 223,
+    "text": "Напишіть свою думку в коментарях.",
+    "heading": false,
+    "chapter": 11,
+    "start": 1264.43,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 224,
+    "text": "А також запропонуйте дві країни, військові арсенали яких ви хотіли б побачити в наступному порівнянні.",
+    "heading": false,
+    "chapter": 11,
+    "start": 1266.65,
+    "matched_words": 14,
+    "total_words": 15
+  },
+  {
+    "i": 225,
+    "text": "Якщо вам цікаві танки, авіація, ракети та військові технології — підписуйтеся на АРСЕНАЛ 360°.",
+    "heading": false,
+    "chapter": 11,
+    "start": 1273.37,
+    "matched_words": 12,
+    "total_words": 13
+  },
+  {
+    "i": 226,
+    "text": "Тут ми порівнюємо не гучні заяви, а реальні можливості військової техніки.",
+    "heading": false,
+    "chapter": 11,
+    "start": 1280.89,
+    "matched_words": 8,
+    "total_words": 11
+  },
+  {
+    "i": 227,
+    "text": "До зустрічі в наступному випуску.",
+    "heading": false,
+    "chapter": 11,
+    "start": 1285.75,
+    "matched_words": 5,
+    "total_words": 5
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "stage": "completed: full decode, audio sync, archive intervals, static photo/card and native 3D checks passed",
+  "pilot": "90 seconds / 1920x1080 / 30fps",
+  "source_assets": 85,
+  "motion_pilot": "passed",
+  "portable_project": "passed",
+  "tests": "19 passed",
+  "source_review": "archive/photograph/3D source sheets reviewed",
+  "full_watch_and_listen": "not performed",
+  "archive_share": 0.2617221302142635,
+  "archive_relative_increase": 0.11079556459837847,
+  "compiled_scenes": 173,
+  "encoded_controls": "all scene controls reviewed; revised drone interval reviewed again",
+  "parallel_cache_lock": "two concurrent writers passed sample render and full decode"
+}

@@ -1,0 +1,501 @@
+{
+  "used_asset_count": 85,
+  "archive_sources": [
+    {
+      "id": "allies-infantry",
+      "source": "https://www.dvidshub.net/video/846269",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "a66120002a4797ed64cf0bc6820ecbf91896799662a7ad35fabf8a8dd7fb0d7a"
+    },
+    {
+      "id": "apache-type",
+      "source": "https://www.dvidshub.net/video/834686",
+      "explicit_source_page_status": "reused approved episode 002 source/rights metadata",
+      "sha256": "0701592347874a70212e7b85715b3657c21c711d849fb10e9c306cee9dc4cd05"
+    },
+    {
+      "id": "de-boxer-exact",
+      "source": "https://www.dvidshub.net/video/773500",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "c70c2f7985d64a39873676d5a4fae966dbe30effa1fe1ebf302160a40f63555c"
+    },
+    {
+      "id": "de-ef",
+      "source": "https://www.dvidshub.net/video/746323",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "98411502482201032e28b4f0149c441486f0e859a06d69e9f029e1b6a71f7cb3"
+    },
+    {
+      "id": "de-frigate",
+      "source": "https://www.dvidshub.net/video/1009799",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "f926d87334d5c1d90c065cbd6be9267789fd3d3c84e9d7c8bf4c70c5127b982f"
+    },
+    {
+      "id": "de-g36",
+      "source": "https://www.dvidshub.net/video/1007603",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "53962eb6adefd0b92da336f06eda518981cba15b53261e32c7fdf1f6f577e59f"
+    },
+    {
+      "id": "de-k130-exact",
+      "source": "https://www.dvidshub.net/video/1010929",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "7d69ebece4d51ee13dee3d08f5745c83500511419fe0824f687373f6ccab0c29"
+    },
+    {
+      "id": "de-leopard",
+      "source": "https://www.dvidshub.net/video/688131",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "7b97d31ce85971adb2e3b9b33c51a136f008ce12bbfca801bf3cc0148ede37fb"
+    },
+    {
+      "id": "de-mg5",
+      "source": "https://www.dvidshub.net/video/918590",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "732f54ba89377d99cb97de275a1332523c1792503190038a402a9913098d49fd"
+    },
+    {
+      "id": "de-nh90",
+      "source": "https://www.dvidshub.net/video/882828",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "f3eb3ca565c2f541d7e4d9adbcea85498eec024fd561e528d83c3c839051cee4"
+    },
+    {
+      "id": "de-patriot",
+      "source": "https://www.dvidshub.net/video/563866",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "c5ac74f7a5d41beb4691926745424c93524df26c1748613fa232206f12df3da7"
+    },
+    {
+      "id": "de-pzh",
+      "source": "https://www.dvidshub.net/video/944054",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "a9bb75c399adc62fc1e60b2e96c56fae8b034e26668f6f656f88d232b5c6ab65"
+    },
+    {
+      "id": "de-support",
+      "source": "https://www.dvidshub.net/video/882815",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "46df271bcd85ef5f882a07550fb107a7061450ea7c44ba095d0dc81d0f680dbb"
+    },
+    {
+      "id": "de-tiger-exact",
+      "source": "https://www.dvidshub.net/video/882944",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "3d880352427979e5c9e8b3d8094502b8fc389e205d0f78e6698b3656fd6e3a9c"
+    },
+    {
+      "id": "f35-type",
+      "source": "https://www.dvidshub.net/video/600258",
+      "explicit_source_page_status": "reused approved episode 002 source/rights metadata",
+      "sha256": "c3284cacbbb045ef61184177fe552e19220d9d99a5ace16fb2fab033447bfa02"
+    },
+    {
+      "id": "patriot-reload-type",
+      "source": "https://www.dvidshub.net/video/959198",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "1890968793dbcee01a476396162263e48cf84ffae0fe837b5dbc8a4de8240f5f"
+    },
+    {
+      "id": "pl-abrams-action",
+      "source": "https://www.dvidshub.net/video/993068",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "c592e9b8f314e6210c9b4be67f58c2cadcbcc55e57145c966e8a79c434c7486f"
+    },
+    {
+      "id": "pl-f16",
+      "source": "https://www.dvidshub.net/video/551030",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "635197dc4e5f4d4ef5d3b738e5a45798fb68592cde05931df73fcc1c34c60651"
+    },
+    {
+      "id": "pl-himars",
+      "source": "https://www.dvidshub.net/video/995554",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "dc64dd6be2f355786de17abd192fad51c164029d37f03045417cf098a93c08f4"
+    },
+    {
+      "id": "pl-infantry",
+      "source": "https://www.dvidshub.net/video/1022234",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "fe30bdec838f37fe1abd108be413dbdb9a72a2c9f6b9ba9b94023cb426992353"
+    },
+    {
+      "id": "pl-kormoran",
+      "source": "https://www.dvidshub.net/video/989227",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "41f83d60155cbb1412e26965c0cf83a06b7be809dd62602e2b567678280b7deb"
+    },
+    {
+      "id": "pl-krab-move",
+      "source": "https://www.dvidshub.net/video/877394",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "5e563aa1d489ba0bb83d416c2e596c76c4587b7c47ee3981929344c7d0d06b07"
+    },
+    {
+      "id": "pl-krab",
+      "source": "https://www.dvidshub.net/video/877466",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "2b1c8bc3bd228f59fa2cd7584ed4bf4ac3231cefde530860072a74d0019fb6a2"
+    },
+    {
+      "id": "pl-logistics",
+      "source": "https://www.dvidshub.net/video/923990",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "79c93de6879b8abb5ba3ccb2f356e83a10c1a3746196bdc6f758fafa289de376"
+    },
+    {
+      "id": "pl-nato",
+      "source": "https://www.dvidshub.net/video/1008798",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "fd47696616f24f268db439da1f06e1a1669861b12f7bbc0d286b07062dda5759"
+    },
+    {
+      "id": "pl-perry",
+      "source": "https://www.dvidshub.net/video/966151",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "bc01071af3b7403d21069f36c44d3d27e902b256799451565664f9f7a4f7d2e4"
+    },
+    {
+      "id": "uas-training",
+      "source": "https://www.dvidshub.net/video/1004975",
+      "explicit_source_page_status": "PUBLIC DOMAIN",
+      "sha256": "9fb65e0abe169baaadba4c921c106faa6e579c579ad4542d26387a06ec8007a7"
+    }
+  ],
+  "photo_sources": [
+    {
+      "id": "abrams",
+      "source": "https://commons.wikimedia.org/wiki/File:M1A2_SEP_v3.jpg",
+      "license": "Public domain",
+      "sha256": "9a974baedd69f2590cae71fa2e54c6db7e44aacd54a34f5a20c2e84df1587f7e"
+    },
+    {
+      "id": "apache",
+      "source": "https://commons.wikimedia.org/wiki/File:AH-64D_Apache_Longbow.jpg",
+      "license": "Public domain",
+      "sha256": "79b8d9960e5052b5ea08e60d3c57af113f0db70cd7bd9653990721a2459ea51e"
+    },
+    {
+      "id": "arrow",
+      "source": "https://commons.wikimedia.org/wiki/File:IAF-Arrow-3-%D7%97%D7%A5-sq1666.jpg",
+      "license": "CC BY-SA 4.0",
+      "sha256": "b9298fefe90c77458fc7c6d29de73761c75591f5c96f33d2da4a7c5ba5d562d3"
+    },
+    {
+      "id": "aw101",
+      "source": "https://commons.wikimedia.org/wiki/File:AgustaWestland_HH-101A_Caesar_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "sha256": "1aadcacb74a9574353421b3d9f8478a29cee7a5fabecfa880f6ad570c57ca818"
+    },
+    {
+      "id": "aw149",
+      "source": "https://commons.wikimedia.org/wiki/File:AW-149_(52229093839).jpg",
+      "license": "CC BY-SA 2.0",
+      "sha256": "3e873121bc43a918508ac2f4f1ccf99ff0bc1230a1996d3cf7d20948bff178fe"
+    },
+    {
+      "id": "bayraktar",
+      "source": "https://commons.wikimedia.org/wiki/File:Bayraktar_TB2_Runway.jpg",
+      "license": "CC BY-SA 4.0",
+      "sha256": "bb80057b545882df5b48e20e27e11010126dc3f34309a8144c7886e459bdb1fa"
+    },
+    {
+      "id": "borsuk",
+      "source": "https://commons.wikimedia.org/wiki/File:BWP_Borsuk_-_221114-Z-YU201-1007.jpg",
+      "license": "Public domain",
+      "sha256": "b02455d41a1394beb69233bcf7e535eae0f1ffe503db79dac16890a77c085aa5"
+    },
+    {
+      "id": "boxer",
+      "source": "https://commons.wikimedia.org/wiki/File:DSCN7330-crop_-_Copy.jpg",
+      "license": "CC0",
+      "sha256": "787f121128496193c73c39f13dea6e40083493f0ba904831d4fc57e5ea05b8e8"
+    },
+    {
+      "id": "camm",
+      "source": "https://commons.wikimedia.org/wiki/File:MalaNarew.jpg",
+      "license": "CC BY-SA 4.0",
+      "sha256": "d125f126e7fe747a0aab78fd6f15f84317fb906ed550253e0b2c4a41e3693baa"
+    },
+    {
+      "id": "chunmoo",
+      "source": "https://commons.wikimedia.org/wiki/File:K239_Chunmoo_Image7.jpg",
+      "license": "KOGL Type 1",
+      "sha256": "81108498300f41d53ca425340fbe9675f579dae7dd60be4587b222d6817f33f5"
+    },
+    {
+      "id": "eurofighter",
+      "source": "https://commons.wikimedia.org/wiki/File:German_Air_Force_Eurofighter_Typhoon_EF2000_31%2B06_Royal_International_Air_Tattoo_2024_01.jpg",
+      "license": "CC BY 4.0",
+      "sha256": "f3d8e09a98c5036fc5ff16b9c0364e7bf099e1bb0651bf8f0568e5d406cbdfbf"
+    },
+    {
+      "id": "f124",
+      "source": "https://commons.wikimedia.org/wiki/File:F221_FGS_Hessen_(8640310899).jpg",
+      "license": "CC BY 2.0",
+      "sha256": "f64d468815f8861b1bced16049f60dc31880dd1361a58d05e94256607c2fc56c"
+    },
+    {
+      "id": "f16",
+      "source": "https://commons.wikimedia.org/wiki/File:F-16_June_2008.jpg",
+      "license": "Public domain",
+      "sha256": "cc1ac82bb98c9d4ce32169b429d7972eb989d57b05a59c3360a35876c516c375"
+    },
+    {
+      "id": "f35",
+      "source": "https://commons.wikimedia.org/wiki/File:F-35A_flight_(cropped).jpg",
+      "license": "Public domain",
+      "sha256": "8b8b617b06d41ad9044892edcc1ea20347c3f94d478b011dded7b185db65f148"
+    },
+    {
+      "id": "fa50",
+      "source": "https://commons.wikimedia.org/wiki/File:FA-50_PAF_5001_at_NATO_Days_2023.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "sha256": "c418c88afab6178ead3b581c1adee49acd50e7b8d891cfe38215fe106bbc9048"
+    },
+    {
+      "id": "flyeye",
+      "source": "https://commons.wikimedia.org/wiki/File:WB_Electronics_FlyEye,_Kyiv_2021,_03.jpg",
+      "license": "CC BY-SA 4.0",
+      "sha256": "8ab758b1947c99ee3aec5d6c4f83cbeb28b3663d49ac2b4f92ed9141098acc3c"
+    },
+    {
+      "id": "g36",
+      "source": "https://commons.wikimedia.org/wiki/File:Gewehr_G36_noBG.png",
+      "license": "CC BY-SA 4.0",
+      "sha256": "028d1f7527f8a7398852d39b6489b139f443b91958f6936cc1d71b005960a7dd"
+    },
+    {
+      "id": "grot",
+      "source": "https://commons.wikimedia.org/wiki/File:MSB_(both).png",
+      "license": "CC BY-SA 4.0",
+      "sha256": "17e4c1c36dab0df09fb9d061d783cf5867c29da7e176eac3b3a4eb992754a02f"
+    },
+    {
+      "id": "h145",
+      "source": "https://commons.wikimedia.org/wiki/File:German_Heer_(Army)_H145M_(9199869).jpg",
+      "license": "Public domain",
+      "sha256": "438c5f2e39110677bf1972920f2188c62809c19b8188af8e2eb335a922d8c731"
+    },
+    {
+      "id": "herontp",
+      "source": "https://commons.wikimedia.org/wiki/File:IAI_Heron_TP_GAF_92%2B52_at_Schleswig_AB_2025.JPG",
+      "license": "CC BY-SA 3.0 de",
+      "sha256": "aace6caf0dc7d672a47435da915f7bd8962760c095598f69b1504f038ca74e43"
+    },
+    {
+      "id": "himars",
+      "source": "https://commons.wikimedia.org/wiki/File:HIMARS_-_missile_launched.jpg",
+      "license": "Public domain",
+      "sha256": "da489445e9a95d5e28aeea7f013bf9a4253173e6e956ebf127eae3296878c909"
+    },
+    {
+      "id": "hk416",
+      "source": "https://commons.wikimedia.org/wiki/File:HK416N.png",
+      "license": "CC BY-SA 2.0",
+      "sha256": "2d8903c1f4095c6e0eb02db04c3189817fd8b884d5fc58400ed43850563be4c5"
+    },
+    {
+      "id": "iris",
+      "source": "https://commons.wikimedia.org/wiki/File:Iris-T_SLM,_ILA_2024,_Schoenefeld_(ILA45484).jpg",
+      "license": "CC BY-SA 4.0",
+      "sha256": "7036c809b3172e652bb8edf18d44a01119f90c91f40813ef35af6658cd435ee6"
+    },
+    {
+      "id": "jassm",
+      "source": "https://commons.wikimedia.org/wiki/File:Agm-158_JASSM.jpg",
+      "license": "Public domain",
+      "sha256": "6529e854ef294a928a2bd2d729e78cf0ac151dde55cb5de70cdbc1c3330193ac"
+    },
+    {
+      "id": "k2",
+      "source": "https://commons.wikimedia.org/wiki/File:U.S.,_ROK_forces_forge_interoperability_with_combined_arms_exercise_-_8_of_8.jpg",
+      "license": "Public domain",
+      "sha256": "b3ef90e4a9ac197ddae2be7849840866cfcebd7090ff92597de58671aca5f237"
+    },
+    {
+      "id": "k9",
+      "source": "https://commons.wikimedia.org/wiki/File:Polish_army_k9_Thunder.webp",
+      "license": "Public domain",
+      "sha256": "0fbc0771dae6a5213867d8f6daacbb2ba38f9b3d44fc39e06f2259fed83ec35e"
+    },
+    {
+      "id": "kormoran",
+      "source": "https://commons.wikimedia.org/wiki/File:ORP_Kormoran.jpg",
+      "license": "CC BY-SA 4.0",
+      "sha256": "26546c23043d0941a7615c63c375087f36d53df226e4cfb622d6721d00720de1"
+    },
+    {
+      "id": "krab",
+      "source": "https://commons.wikimedia.org/wiki/File:AHS_Krab_SPH_Exercise_Dynamic_Front_22.jpg",
+      "license": "Public domain",
+      "sha256": "789cf9c85bbfba6f56f412431cd8f04d3a99c36ee55504c734ea1ad7ce589229"
+    },
+    {
+      "id": "leopard",
+      "source": "https://commons.wikimedia.org/wiki/File:Leopard_2_A7V_313_Bad_Frankenhausen_2024.JPG",
+      "license": "CC BY-SA 3.0 de",
+      "sha256": "abd4829aaa4599f5f9bccfcf0ead3217a44500437e086dba2f3b8c22d2cacb8a"
+    },
+    {
+      "id": "mars",
+      "source": "https://commons.wikimedia.org/wiki/File:M270A1_Multiple_Launch_Rocket_System_South_Dakota_ANG.jpg",
+      "license": "Public domain",
+      "sha256": "1b83a98aaecb99bb34a36bdecb158faf454fbcb52b8866ccc4f17ee7d3721b34"
+    },
+    {
+      "id": "meteor",
+      "source": "https://commons.wikimedia.org/wiki/File:MBDA_Meteor_missile_at_Schleswig_AB_2025.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "sha256": "d2ef19d40b695d3807ad2fab5b017483fcfa2410ac964ba3583e3fda0664895d"
+    },
+    {
+      "id": "nsm",
+      "source": "https://commons.wikimedia.org/wiki/File:Naval_Strike_Missile_launch.png",
+      "license": "Public domain",
+      "sha256": "3cfb81a45c393f571522905c9aac5adab2f89d2fc12edd1052ea99d9e82f28e3"
+    },
+    {
+      "id": "panzerfaust",
+      "source": "https://commons.wikimedia.org/wiki/File:Panzerfaust3_noBG.png",
+      "license": "CC BY-SA 3.0",
+      "sha256": "8f36959c30d23253bf6301dd2aef0502a6b550335222dd9c7eade44b1915b5bd"
+    },
+    {
+      "id": "patriot",
+      "source": "https://commons.wikimedia.org/wiki/File:U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+      "license": "Public domain",
+      "sha256": "9d578a375b5dd1f83f0cf96685a782857be2079a8ea140055ad1b951a20a0d4b"
+    },
+    {
+      "id": "piorun",
+      "source": "https://commons.wikimedia.org/wiki/File:Piorun_MSPO25.jpg",
+      "license": "CC BY-SA 4.0",
+      "sha256": "ee9f9e665de579b14ecb48bfaed34bb48329cd7b79a18e7aea2d441138c90dd9"
+    },
+    {
+      "id": "puma",
+      "source": "https://commons.wikimedia.org/wiki/File:Puma,_first_series.jpg",
+      "license": "CC BY-SA 4.0",
+      "sha256": "dd95d5554112a01dd2584a291afaf1c0172d1e2e38fe0c7e6e3f4f0236bcf4fd"
+    },
+    {
+      "id": "pzh",
+      "source": "https://www.dvidshub.net/video/944054",
+      "license": "Public Domain",
+      "sha256": "ab119fb709ebdebe291450098909b52deea76f4e1fa1e4d24822260c9894b876"
+    },
+    {
+      "id": "rch155",
+      "source": "https://commons.wikimedia.org/wiki/File:KMW-RCH155-01.jpg",
+      "license": "CC BY 4.0",
+      "sha256": "a3c9b75c9861e562eb8bc64412f7e7c49ed77be00c7b7e229ab764fbd3c31dfb"
+    },
+    {
+      "id": "rosomak",
+      "source": "https://commons.wikimedia.org/wiki/File:KTO_Rosomak_IFV_with_ZSSW-30_RCWS.jpg",
+      "license": "CC BY 3.0 pl",
+      "sha256": "039d029e1419e0b8cf263b771f245f0a177704a9caf86e835903b7191fb380de"
+    },
+    {
+      "id": "slazak",
+      "source": "https://commons.wikimedia.org/wiki/File:ORP_%C5%9Al%C4%85zak_patrol_corvette_2022.png",
+      "license": "CC BY-SA 4.0",
+      "sha256": "ffda5b46756ceace4d553696197338de1959455f0900125aee9e6d1cbe0888a4"
+    },
+    {
+      "id": "taurus",
+      "source": "https://commons.wikimedia.org/wiki/File:Taurus_ILA2006.JPG",
+      "license": "Public domain",
+      "sha256": "b6ce601d1bedd0524e596e2d8932bd3a8b09a1879280abcb917edcfbc0c408f0"
+    },
+    {
+      "id": "tiger",
+      "source": "https://commons.wikimedia.org/wiki/File:20170810034242!Eurocopter_EC-665_Tiger_UHT,_Germany_-_Army_AN1547188_(2).jpg",
+      "license": "CC BY-SA 4.0",
+      "sha256": "7a2d73df4f64c60cc4df780160cc1238f25d8cee04a045b7934415343700eb60"
+    },
+    {
+      "id": "tornado",
+      "source": "https://commons.wikimedia.org/wiki/File:RAF_Tornado_GR4_MOD_45155233.jpg",
+      "license": "OGL v1.0",
+      "sha256": "233130956d78ede208525d18e3f93c8b1c7fe9e8c75c4e9b2f5fc2519257028f"
+    },
+    {
+      "id": "type212",
+      "source": "https://commons.wikimedia.org/wiki/File:HSC-28,_German_Type_212A_Attack_Submarine_(U-34)_Conduct_Casualty_Evacuation_Training_(9755487).jpg",
+      "license": "Public domain",
+      "sha256": "e146b49b9f63b0181111a155b3e8c8c72c169d6f72be70cdff4a9e327342d0fe"
+    },
+    {
+      "id": "warmate",
+      "source": "https://commons.wikimedia.org/wiki/File:MSPO23_Warmate.jpg",
+      "license": "CC BY-SA 4.0",
+      "sha256": "f8cf39893dbf0b101a84923a2a06f921b9cab121799f65d5c7c07b0761a9e0e7"
+    }
+  ],
+  "model_sources": [
+    {
+      "id": "model-abrams",
+      "schematic": false,
+      "license": "CC0"
+    },
+    {
+      "id": "model-apache",
+      "schematic": false,
+      "license": "GPL-2.0-or-later"
+    },
+    {
+      "id": "model-blackhawk",
+      "schematic": false,
+      "license": "GPL-2.0-or-later"
+    },
+    {
+      "id": "model-eurofighter",
+      "schematic": false,
+      "license": "GPL-2.0"
+    },
+    {
+      "id": "model-f16",
+      "schematic": false,
+      "license": "GPL-2.0"
+    },
+    {
+      "id": "model-himars-illustrative",
+      "schematic": true,
+      "license": "CC0"
+    },
+    {
+      "id": "model-k2-illustrative",
+      "schematic": true,
+      "license": "CC0"
+    },
+    {
+      "id": "model-leopard-illustrative",
+      "schematic": true,
+      "license": "CC0"
+    },
+    {
+      "id": "model-miecznik-illustrative",
+      "schematic": true,
+      "license": "CC0"
+    },
+    {
+      "id": "model-pzh-illustrative",
+      "schematic": true,
+      "license": "CC0"
+    },
+    {
+      "id": "model-tb2-illustrative",
+      "schematic": true,
+      "license": "CC0"
+    },
+    {
+      "id": "model-type212-illustrative",
+      "schematic": true,
+      "license": "CC0"
+    }
+  ]
+}

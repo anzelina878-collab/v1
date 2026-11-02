@@ -1,0 +1,37 @@
+{
+  "seconds_by_kind": {
+    "archive": 337.133,
+    "compare": 207.733,
+    "section": 42.967,
+    "map": 29.433,
+    "question": 17.033,
+    "turntable": 129.067,
+    "graphic": 37.133,
+    "photo": 460.133,
+    "ident": 9.8,
+    "outro": 17.7
+  },
+  "archive_share": 0.2617221302142635,
+  "previous_episode_archive_share": 0.23561683045510923,
+  "archive_relative_share_increase": 0.11079556459837847,
+  "scenes_by_kind": {
+    "map": 4,
+    "turntable": 23,
+    "archive": 37,
+    "photo": 71,
+    "compare": 19,
+    "graphic": 4,
+    "ident": 2,
+    "section": 10,
+    "question": 1,
+    "outro": 2
+  },
+  "source_decisions": [
+    {
+      "time": 684.4666666666667,
+      "asset": "de-pzh",
+      "reason": "Archive source cooldown >60s enforced; matching photograph used"
+    }
+  ],
+  "first_90_seconds_shots": 32
+}

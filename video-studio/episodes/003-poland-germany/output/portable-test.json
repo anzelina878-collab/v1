@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "unpacked_without_symlinks": true,
+  "scene_kinds": [
+    "map",
+    "turntable",
+    "archive",
+    "photo",
+    "compare",
+    "graphic",
+    "ident",
+    "section",
+    "question",
+    "outro"
+  ],
+  "sample_render": "1920x1080 30 frames",
+  "all_manifest_media_in_zip": true
+}
