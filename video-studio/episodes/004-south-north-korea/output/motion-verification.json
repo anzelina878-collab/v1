@@ -1,0 +1,578 @@
+{
+  "status": "passed",
+  "locked_photos": [
+    {
+      "id": "shot-003",
+      "mae": 0.0004706790205091238,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-006",
+      "mae": 0.003263888880610466,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-007",
+      "mae": 0.0009645061800256371,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-008",
+      "mae": 0.004629629664123058,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-011",
+      "mae": 0.0037499999161809683,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-013",
+      "mae": 0.004166666883975267,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-015",
+      "mae": 0.00028549382113851607,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-022",
+      "mae": 0.005285494029521942,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-023",
+      "mae": 0.002569444477558136,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-029",
+      "mae": 0.0008333333535119891,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-032",
+      "mae": 0.006813271436840296,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-035",
+      "mae": 0.0007793210097588599,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-036",
+      "mae": 0.004591049160808325,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-037",
+      "mae": 0.005146604962646961,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-038",
+      "mae": 0.007422839291393757,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-043",
+      "mae": 0.0005092592327855527,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-045",
+      "mae": 0.0003780864062719047,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-048",
+      "mae": 0.0004475308523979038,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-049",
+      "mae": 0.2909182012081146,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-050",
+      "mae": 0.005956789944320917,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-051",
+      "mae": 0.30835649371147156,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-052",
+      "mae": 0.00516203697770834,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-054",
+      "mae": 0.0003780864062719047,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-058",
+      "mae": 0.004629629664123058,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-059",
+      "mae": 0.19421295821666718,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-062",
+      "mae": 0.004714506212621927,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-068",
+      "mae": 0.004629629664123058,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-069",
+      "mae": 0.43074074387550354,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-071",
+      "mae": 0.0006867283955216408,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-073",
+      "mae": 0.004706790205091238,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-074",
+      "mae": 0.009513888508081436,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-075",
+      "mae": 0.0037114196456968784,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-077",
+      "mae": 0.18042437732219696,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-084",
+      "mae": 0.0023302468471229076,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-085",
+      "mae": 0.007191358134150505,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-086",
+      "mae": 0.4301234483718872,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-090",
+      "mae": 0.32717591524124146,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-091",
+      "mae": 0.002746913582086563,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-093",
+      "mae": 0.008973765186965466,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-101",
+      "mae": 0.007623456884175539,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-106",
+      "mae": 0.3961033821105957,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-107",
+      "mae": 0.002700617304071784,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-110",
+      "mae": 0.40319445729255676,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-113",
+      "mae": 0.0025848764926195145,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-116",
+      "mae": 0.002654321026057005,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-119",
+      "mae": 0.01294753048568964,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-120",
+      "mae": 0.0052083334885537624,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-121",
+      "mae": 0.010285493917763233,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-128",
+      "mae": 0.4170987606048584,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-130",
+      "mae": 0.0036033950746059418,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-131",
+      "mae": 0.4664197564125061,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-132",
+      "mae": 0.0024614196736365557,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-135",
+      "mae": 0.0007098765345290303,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-138",
+      "mae": 0.0004089506110176444,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-141",
+      "mae": 0.0008333333535119891,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-142",
+      "mae": 0.00028549382113851607,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-143",
+      "mae": 0.00041666667675599456,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-144",
+      "mae": 0.001003086450509727,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-145",
+      "mae": 0.0023842593654990196,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-147",
+      "mae": 0.005956789944320917,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-148",
+      "mae": 0.006412037182599306,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-149",
+      "mae": 0.0027314815670251846,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-150",
+      "mae": 0.004043209832161665,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    }
+  ],
+  "native_30fps_slow_turntables": [
+    {
+      "id": "shot-010",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.12343364208936691
+        },
+        {
+          "time": 2.025000000000002,
+          "mae_vs_realtime_3d": 0.16236111521720886
+        }
+      ]
+    },
+    {
+      "id": "shot-017",
+      "checks": [
+        {
+          "time": 0.45333333333333314,
+          "mae_vs_realtime_3d": 0.1154475286602974
+        },
+        {
+          "time": 1.6999999999999993,
+          "mae_vs_realtime_3d": 0.15868055820465088
+        }
+      ]
+    },
+    {
+      "id": "shot-031",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.12343364208936691
+        },
+        {
+          "time": 2.5,
+          "mae_vs_realtime_3d": 0.17233024537563324
+        }
+      ]
+    },
+    {
+      "id": "shot-115",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.13976852595806122
+        },
+        {
+          "time": 2.5,
+          "mae_vs_realtime_3d": 0.17406636476516724
+        }
+      ]
+    },
+    {
+      "id": "shot-117",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.20885802805423737
+        },
+        {
+          "time": 2.5,
+          "mae_vs_realtime_3d": 0.22745370864868164
+        }
+      ]
+    }
+  ],
+  "rotation_seconds_per_360": 24,
+  "comparison_region": "upper 75% excludes editorial name/source overlays"
+}

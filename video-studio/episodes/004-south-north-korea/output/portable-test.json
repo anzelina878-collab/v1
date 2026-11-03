@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "unpacked_without_symlinks": true,
+  "scene_kinds": [
+    "map",
+    "archive",
+    "photo",
+    "graphic",
+    "turntable",
+    "compare",
+    "ident",
+    "section",
+    "question",
+    "outro"
+  ],
+  "US_reference_flags": "rendered",
+  "globe_and_regional_maps": "rendered",
+  "sample_render": "1920x1080, 30 frames, full decode passed",
+  "manifest_media_audit": "all files included in ZIP"
+}

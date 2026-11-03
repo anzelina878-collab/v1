@@ -1,0 +1,7 @@
+{
+  "exact_token_agreement": 0.8823851203501094,
+  "script_tokens": 1828,
+  "audio_words": 1858,
+  "method": "SequenceMatcher word anchors with monotonic interpolation; chapter hints are not timing authority",
+  "source_audio_duration": 1013.376
+}

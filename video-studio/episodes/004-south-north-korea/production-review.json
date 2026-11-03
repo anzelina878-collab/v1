@@ -1,0 +1,17 @@
+{
+  "stage": "complete; full encoding and technical QA passed",
+  "duration_seconds": 1013.4,
+  "frames": 30402,
+  "original_audio_seconds": 1013.376,
+  "asr_exact_token_match": 0.8823851203501094,
+  "pilot": "90 seconds rendered; encoded controls reviewed",
+  "editorial_review": "all seven encoded control sheets reviewed; source frames and cutout masks reviewed; US reference aircraft clearly labelled",
+  "excluded_3d": "all simplified green tank, artillery, truck and frigate meshes",
+  "photos": "locked camera",
+  "3d": "F16 / Apache / Blackhawk, native 30fps, 24s per revolution",
+  "maps": "orthographic shaded globe plus country/capital maps",
+  "tests": "19 passed",
+  "continuous_human_watch_and_listen": "not performed; technical decode and control-frame checks reported separately",
+  "technical_review": "full video/audio decode passed; 30402 frames; original voice correlation 0.9997888941338486; static photo and slow 3D checks passed",
+  "portable_project": "unpacked ZIP tested: all ten scene kinds and sample video render passed"
+}

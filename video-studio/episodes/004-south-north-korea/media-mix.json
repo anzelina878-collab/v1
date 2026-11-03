@@ -1,0 +1,41 @@
+{
+  "seconds_by_kind": {
+    "ident": 9.767,
+    "turntable": 21.467,
+    "photo": 339.333,
+    "section": 32.9,
+    "graphic": 132.1,
+    "outro": 17.333,
+    "compare": 130.967,
+    "archive": 245.033,
+    "map": 67.967,
+    "question": 16.533
+  },
+  "archive_share": 0.24179297414643772,
+  "scenes_by_kind": {
+    "map": 12,
+    "archive": 31,
+    "photo": 68,
+    "graphic": 13,
+    "turntable": 5,
+    "compare": 16,
+    "ident": 2,
+    "section": 10,
+    "question": 2,
+    "outro": 2
+  },
+  "source_decisions": [
+    {
+      "time": 242.33333333333334,
+      "source": "kr-k2-maneuver",
+      "decision": "matching photograph: >60s archive cooldown"
+    },
+    {
+      "time": 533.8,
+      "source": "kr-k9-archive",
+      "decision": "matching photograph: >60s archive cooldown"
+    }
+  ],
+  "first_90_seconds_shots": 30,
+  "3d_quality_policy": "Only approved detailed F16/Apache/Blackhawk meshes. All schematic green vehicle meshes excluded."
+}

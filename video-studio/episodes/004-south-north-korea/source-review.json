@@ -1,0 +1,790 @@
+{
+  "source_assets": 74,
+  "file_audit": [
+    {
+      "id": "apache",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/apache.jpg": {
+          "bytes": 211266,
+          "sha256": "f229561b412eb229e9324923a08ff803d84a363baae99823274bb3a5c8f9c482"
+        }
+      }
+    },
+    {
+      "id": "choehyon-detail",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/choehyon-detail.png": {
+          "bytes": 727478,
+          "sha256": "eaf8c2fa33293a008e5b981295de26d613e5ad2a95d928f43099e60edb913288"
+        }
+      }
+    },
+    {
+      "id": "choehyon",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/choehyon.png": {
+          "bytes": 637756,
+          "sha256": "8807eb3f65df2d60c2c553d6a5b80143367db1cb7d8fce3053fc10ced2d6a5b0"
+        }
+      }
+    },
+    {
+      "id": "chunmoo-extra",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/chunmoo-extra.jpg": {
+          "bytes": 67334,
+          "sha256": "d9458d46984dc9d40eb9f2b6e4b252efcbebd292addcc8e06465ca88a5fd9fc4"
+        }
+      }
+    },
+    {
+      "id": "chunmoo",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/chunmoo.png": {
+          "bytes": 731359,
+          "sha256": "98f9b7def3c0062a91f225d66d1b536ef07104a3bbf2b0dbb49e1dc3b3f7e39b"
+        },
+        "assets/photos/chunmoo.jpg": {
+          "bytes": 97460,
+          "sha256": "8f0703c266733c2e9d3897dc0941e19132ee522dc36cb9a09985560d0098b167"
+        }
+      }
+    },
+    {
+      "id": "dosan",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/dosan.jpg": {
+          "bytes": 126704,
+          "sha256": "ad4fd8d8fce1a0675dd7982e2d6b757186c1a6eb683c24d9f3c3f91d654f35e1"
+        }
+      }
+    },
+    {
+      "id": "f15k",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/f15k.png": {
+          "bytes": 336227,
+          "sha256": "57c9607bfc9999d8840fb03fb0adbc3d9ffc517b8ef99593adb1d83aa397eb2a"
+        },
+        "assets/photos/f15k.jpg": {
+          "bytes": 94498,
+          "sha256": "abecd41671e3b0537bd0d75d640fe58ba4d29aac2947d52cff2f26d0b9829aeb"
+        }
+      }
+    },
+    {
+      "id": "f16",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/f16.jpg": {
+          "bytes": 151851,
+          "sha256": "9cf80999f77e0575af0e0da6e5eb156f6bbec417d028a2821495b961eb4e6dba"
+        }
+      }
+    },
+    {
+      "id": "f35",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/f35.png": {
+          "bytes": 584801,
+          "sha256": "5168f62f400926d2e1734a4b1e818fc67313233b6a4b45e8d422dcffca426ec2"
+        },
+        "assets/photos/f35.jpg": {
+          "bytes": 84216,
+          "sha256": "06cb3ced9e9de3783cc0334a2e198917dd00864f31afb0d71496effe039820ce"
+        }
+      }
+    },
+    {
+      "id": "fa50",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/fa50.jpg": {
+          "bytes": 136014,
+          "sha256": "5916fda6817d1c3f2b0adf4f76f92250fdb8636bcd97679d0d5a7185bb60fba5"
+        }
+      }
+    },
+    {
+      "id": "hwasong17",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/hwasong17.png": {
+          "bytes": 733358,
+          "sha256": "04b2be7605f9ae8fa4ab45ad1474b07c4e8c27a5eefd260ed225495324823a93"
+        },
+        "assets/photos/hwasong17.jpg": {
+          "bytes": 100459,
+          "sha256": "3b69b74fe4dba42d17ef2af06f8c2fd0e62da065669531f054dc874d5fbb1cd1"
+        }
+      }
+    },
+    {
+      "id": "hyunmoo",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/hyunmoo.jpg": {
+          "bytes": 146814,
+          "sha256": "11f5ff7d37f20e2c85ebe12836224ae0e920436e9f64a4e8e238e0974167f56c"
+        }
+      }
+    },
+    {
+      "id": "k1",
+      "used_in_film": false,
+      "files": {
+        "assets/photos/k1.jpg": {
+          "bytes": 248366,
+          "sha256": "2bf5508fb3d8fd0dd7b0be55087a5061d054d0c2d6ba41046689fa998fd18f5d"
+        }
+      }
+    },
+    {
+      "id": "k12",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/k12.jpg": {
+          "bytes": 75063,
+          "sha256": "fa402080f96b9f7a6bc105ec190b43c01462ed042aa5e4cac925d5e74b2aa202"
+        }
+      }
+    },
+    {
+      "id": "k2",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/k2.png": {
+          "bytes": 883007,
+          "sha256": "be172f2f5ec6fc5fc2278566f1fd387ebea35c68d81b17a0c32d3a9b7f56feab"
+        }
+      }
+    },
+    {
+      "id": "k21",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/k21.png": {
+          "bytes": 601643,
+          "sha256": "334ace7081c061061c7058905bb8cf24b3a32ad28a60db2597e25681ca86471d"
+        },
+        "assets/photos/k21.jpg": {
+          "bytes": 195354,
+          "sha256": "15b4e2b710ba71cc48636b286094d6056839dffd6fbc1ab8e776f61f7d8fcf14"
+        }
+      }
+    },
+    {
+      "id": "k2rifle",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/k2rifle.png": {
+          "bytes": 189502,
+          "sha256": "4426b02ebc7039b5c5457883d5fcb1350f6ef6bc79bb80e67bf2fc186799aa28"
+        }
+      }
+    },
+    {
+      "id": "k3",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/k3.jpg": {
+          "bytes": 92770,
+          "sha256": "eff9762bf2ab2486d821813ff7d2a1c0e3d085e83720c3cb909e7a725170331a"
+        }
+      }
+    },
+    {
+      "id": "k9",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/k9.png": {
+          "bytes": 1242993,
+          "sha256": "1bd45e788b47e6b37dff4b9f9e38c10ba9c85c3102033026df15ef2922d8f7f6"
+        },
+        "assets/photos/k9.jpg": {
+          "bytes": 223435,
+          "sha256": "452ef3c86e691cde5aa4dc3d0abc62bd9d6f94f7bf32aed9eac1b7c3f5b33f33"
+        }
+      }
+    },
+    {
+      "id": "kf21",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/kf21.jpg": {
+          "bytes": 146116,
+          "sha256": "30ac889d92d69e421dc10f643c8ab9d559cfe9079cfa29c83b92674d00b20ad1"
+        }
+      }
+    },
+    {
+      "id": "kmsam",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/kmsam.jpg": {
+          "bytes": 169918,
+          "sha256": "25f88ab47eb895e9f16ca16d2197e4fae2ecbae9399e54863615f86a01d59de9"
+        }
+      }
+    },
+    {
+      "id": "kn06",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/kn06.jpg": {
+          "bytes": 236123,
+          "sha256": "ff4afb0b89889e05df255af5ed9b70aeb38e14082613511b9ae1ea1b9d83701f"
+        }
+      }
+    },
+    {
+      "id": "koksan",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/koksan.jpg": {
+          "bytes": 248690,
+          "sha256": "2082306c7df6d299d908e481f53535a3fa22b8a701afe17676f47e4001ebeeb9"
+        }
+      }
+    },
+    {
+      "id": "kp-flag",
+      "used_in_film": false,
+      "files": {
+        "assets/flags/kp-flag.png": {
+          "bytes": 8724,
+          "sha256": "d65db07a9d3e45925e43007abc31ec72fc01a2189c5ace2636b6187415541863"
+        }
+      }
+    },
+    {
+      "id": "kr-flag",
+      "used_in_film": false,
+      "files": {
+        "assets/flags/kr-flag.png": {
+          "bytes": 39719,
+          "sha256": "c84fc748206d910dc2c76783d1c9674cdc67af3c6411793dcee640f3f2437b51"
+        }
+      }
+    },
+    {
+      "id": "lah",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/lah.jpg": {
+          "bytes": 104718,
+          "sha256": "0f8bac2caa926376c84fdab13adb9d1343383000e50179eabfb297b4b6a675c5"
+        }
+      }
+    },
+    {
+      "id": "lsam",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/lsam.jpg": {
+          "bytes": 195615,
+          "sha256": "6a29d772c56979c2f8a0abad0a08e63ae4b5b7368a15ad9fc7822a526c0550a8"
+        }
+      }
+    },
+    {
+      "id": "m2020",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/m2020.png": {
+          "bytes": 912417,
+          "sha256": "f150803c2d8af0b416714e8cc6432b3ccd4da2c8baf74d739510467287095b39"
+        },
+        "assets/photos/m2020.jpg": {
+          "bytes": 221104,
+          "sha256": "df6c8d374f86f6c0f651c0a709bc615f03bbca9210fd9b4f3233dd6a8d0727c4"
+        }
+      }
+    },
+    {
+      "id": "md500",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/md500.jpg": {
+          "bytes": 134051,
+          "sha256": "a63a47bca0d1dbc142d4f3c9da0d36fa8c985458972bd240e5aba2affe828993"
+        }
+      }
+    },
+    {
+      "id": "mi2",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/mi2.jpg": {
+          "bytes": 101525,
+          "sha256": "103d449b46e772157e84f4e54d08ffee65ed8fea90d1d7cf8f6f820b2b713627"
+        }
+      }
+    },
+    {
+      "id": "mi24",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/mi24.jpg": {
+          "bytes": 101953,
+          "sha256": "6dd4f83503157ae336d63c92303176474047a72f7e541ea6e544108474c186c7"
+        }
+      }
+    },
+    {
+      "id": "mig21",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/mig21.jpg": {
+          "bytes": 57550,
+          "sha256": "399ff2bf4dcaf326a759e77e2c0fe7d5794772dad79cd119114b2b1bdf23339e"
+        }
+      }
+    },
+    {
+      "id": "mig23",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/mig23.jpg": {
+          "bytes": 235937,
+          "sha256": "93239a4269c5d30a081cae7ba21996507dcf37ee8af4afdf11f5839010b3fef0"
+        }
+      }
+    },
+    {
+      "id": "mig29",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/mig29.png": {
+          "bytes": 427513,
+          "sha256": "3676280bfe35f94f404f469d4ff0313b53fce40e3414f8468d9b03799122246d"
+        },
+        "assets/photos/mig29.jpg": {
+          "bytes": 177686,
+          "sha256": "152ddc4566dd28f0e707fc86c1e14398defc071c040759fadef62986ec0646a6"
+        }
+      }
+    },
+    {
+      "id": "mq9",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/mq9.jpg": {
+          "bytes": 120336,
+          "sha256": "d05cfcf38a1a6683aaabf3762396d0f31cc9d27373a65fae58f16100bcb7226a"
+        }
+      }
+    },
+    {
+      "id": "patriot",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/patriot.jpg": {
+          "bytes": 185155,
+          "sha256": "4e56c9d246c24a613cf1187e51c7b20f79c80df51a6f0b2068b01d5c9a439523"
+        }
+      }
+    },
+    {
+      "id": "pokpung",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/pokpung.jpg": {
+          "bytes": 242885,
+          "sha256": "e45a49bbc8b20c7ec014b1c945ba99c49bfec49b3e2fb71e2c717dbff231f57b"
+        }
+      }
+    },
+    {
+      "id": "pyongyang",
+      "used_in_film": false,
+      "files": {
+        "assets/photos/pyongyang.jpg": {
+          "bytes": 173107,
+          "sha256": "1e324ddd1b0ed190f02f0341ee73779f728dabd6afba834fd5ab7ced1c3c79e3"
+        }
+      }
+    },
+    {
+      "id": "raybolt",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/raybolt.jpg": {
+          "bytes": 96693,
+          "sha256": "306d0f1eaf4a6df8a7b915739d1194dcdc1b58230a6710c8858fbb84300bfb46"
+        }
+      }
+    },
+    {
+      "id": "rq101",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/rq101.jpg": {
+          "bytes": 59434,
+          "sha256": "12237d846bd45b0b8aa1936515debe93d414fe65193d179cde2fcbf08620ceaa"
+        }
+      }
+    },
+    {
+      "id": "rq4",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/rq4.jpg": {
+          "bytes": 183729,
+          "sha256": "63af9e50adff2ec1db0d7dc57f2b3fd59591dc0df72d73c67aaea5f0029544b7"
+        }
+      }
+    },
+    {
+      "id": "s200",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/s200.jpg": {
+          "bytes": 255341,
+          "sha256": "df8d9ec5d64b7e5869ab729f0e19742d29d381d2406be50241595ed2d0a4f9a2"
+        }
+      }
+    },
+    {
+      "id": "s75",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/s75.jpg": {
+          "bytes": 653176,
+          "sha256": "635f5a3a12db8ffbbad6bd4c8d7496bfa85a688ca922889718b4a0bdbbbf563a"
+        }
+      }
+    },
+    {
+      "id": "sango",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/sango.jpg": {
+          "bytes": 19422,
+          "sha256": "2071650ca7119f127f2451c050c01452fa6f9553fbb625de637b21060c2ef81f"
+        }
+      }
+    },
+    {
+      "id": "sejong",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/sejong.jpg": {
+          "bytes": 115242,
+          "sha256": "9c66e0ec8cfc24928e0840076fed8879cc20908dded178301381155b44920868"
+        }
+      }
+    },
+    {
+      "id": "su25",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/su25.jpg": {
+          "bytes": 82263,
+          "sha256": "ed0dc80d08961f0c127c76def6587b5b1ac84e2e5b5240e0d3853bfe4052cc71"
+        }
+      }
+    },
+    {
+      "id": "t62",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/t62.jpg": {
+          "bytes": 66191,
+          "sha256": "b55641e380d69b0ddcc927d95aa01433f877fa782f45229b6353294ad2ab62d8"
+        }
+      }
+    },
+    {
+      "id": "type58",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/type58.jpg": {
+          "bytes": 59799,
+          "sha256": "ad6557dd6c0f91527e5c101fdfc9e0955b1fbe81f7111934592e5638343433cd"
+        }
+      }
+    },
+    {
+      "id": "city-pyongyang-pan",
+      "used_in_film": true,
+      "files": {
+        "assets/video/city-pyongyang-pan.mp4": {
+          "bytes": 6131401,
+          "sha256": "9cfe54e896df6d2172c9c7b2478b1176c440b86607aa84c1dd9e22f2ef4d151a"
+        }
+      }
+    },
+    {
+      "id": "city-pyongyang",
+      "used_in_film": true,
+      "files": {
+        "assets/video/city-pyongyang.mp4": {
+          "bytes": 14183451,
+          "sha256": "c3ddaae5a9c60dfef0f11952e273a897d42dad63874a09fb03d3ff4f3dbf4b3b"
+        }
+      }
+    },
+    {
+      "id": "city-seoul",
+      "used_in_film": true,
+      "files": {
+        "assets/video/city-seoul.mp4": {
+          "bytes": 11939483,
+          "sha256": "3fa2ba81fbeab01e0f2934826b647972e4d8023ada60d4e43bbaf34bf33f5ae4"
+        }
+      }
+    },
+    {
+      "id": "kr-air",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-air.mp4": {
+          "bytes": 5874992,
+          "sha256": "d52aa57919e508abf0ff979530ce7c2c9ed0e7297f7d6ccccbbe9f069c6109d1"
+        }
+      }
+    },
+    {
+      "id": "kr-apache-rok",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-apache-rok.mp4": {
+          "bytes": 7497921,
+          "sha256": "590b2194baf06e3d6416ee51466c1067cdb8f40bf0ff332ea38b537d6f9f77d3"
+        }
+      }
+    },
+    {
+      "id": "kr-apache",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-apache.mp4": {
+          "bytes": 13339755,
+          "sha256": "2a81f87a4d8655610938489f6cad264c505636442fed701537507456fb8a2562"
+        }
+      }
+    },
+    {
+      "id": "kr-drone",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-drone.mp4": {
+          "bytes": 794685,
+          "sha256": "def7bfb5d02b31ac85c711870b506be1fd32fbcff22efe3a14b1acc761d99094"
+        }
+      }
+    },
+    {
+      "id": "kr-f15k",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-f15k.mp4": {
+          "bytes": 5696229,
+          "sha256": "a4d481aabf9622da946c65d132df4665352ca381536b532570478b976c9d655c"
+        }
+      }
+    },
+    {
+      "id": "kr-f35-flight",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-f35-flight.mp4": {
+          "bytes": 3627345,
+          "sha256": "8da6ca89ff3e5e0d53f46709833a50def96f784a955d97d84049373edff57664"
+        }
+      }
+    },
+    {
+      "id": "kr-infantry-field",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-infantry-field.mp4": {
+          "bytes": 13811183,
+          "sha256": "43f2f0a652fbb34baceb5335e47f9ad999aa0e734b10281e2fa961e6845cae80"
+        }
+      }
+    },
+    {
+      "id": "kr-infantry",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-infantry.mp4": {
+          "bytes": 8030806,
+          "sha256": "cff94c8f3a5975859357d863a3f9e4750d03aefd89dd9f2a74f33363757fc264"
+        }
+      }
+    },
+    {
+      "id": "kr-k1-fire",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-k1-fire.mp4": {
+          "bytes": 7357574,
+          "sha256": "604000c727c4867e207e60bea383126524262ddef81832f670ca1521985c4720"
+        }
+      }
+    },
+    {
+      "id": "kr-k1",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-k1.mp4": {
+          "bytes": 7662958,
+          "sha256": "2bba7226fa433094bbcdf1b98384c6ced2b2720418111d66a339b23ca94d4cf0"
+        }
+      }
+    },
+    {
+      "id": "kr-k2-archive",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-k2-archive.mp4": {
+          "bytes": 4437463,
+          "sha256": "0757c57f35bb4f0495850f829a17acdacc690ccb4e9cf971864bc77860c0d8d7"
+        }
+      }
+    },
+    {
+      "id": "kr-k2-maneuver",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-k2-maneuver.mp4": {
+          "bytes": 33520169,
+          "sha256": "b0702cfde9fb1e1640c74f1efe1ac70b6f7ee9fb810afea9959514c76f30e236"
+        }
+      }
+    },
+    {
+      "id": "kr-k9-archive",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-k9-archive.mp4": {
+          "bytes": 14505254,
+          "sha256": "d5a6f54fa2ded578955634ada05c5419f91dce51a1e2f29e6e009d1564e7a48a"
+        }
+      }
+    },
+    {
+      "id": "kr-kf21",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-kf21.mp4": {
+          "bytes": 5260738,
+          "sha256": "f58928d285c3a5abfca628ed6ec2fb21b8cca65b749cf38acd912b2fd1526599"
+        }
+      }
+    },
+    {
+      "id": "kr-navy-alt",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-navy-alt.mp4": {
+          "bytes": 5561875,
+          "sha256": "4e2c05f5cbd8cf36e4b215bbb55bafc6a0c40ac6f5e8ab4bb147ef4d3e8eff3f"
+        }
+      }
+    },
+    {
+      "id": "kr-navy",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-navy.mp4": {
+          "bytes": 6735174,
+          "sha256": "b8336671fced6419517d48e44358522e651cf875b00dd6e507fb24239c7139cd"
+        }
+      }
+    },
+    {
+      "id": "kr-patriot",
+      "used_in_film": true,
+      "files": {
+        "assets/video/kr-patriot.mp4": {
+          "bytes": 5620457,
+          "sha256": "df1b9f2ce52a5553d190d6ef7a806653cf3bf8494c87bace21c031bda1b7bc99"
+        }
+      }
+    },
+    {
+      "id": "nk-parade",
+      "used_in_film": true,
+      "files": {
+        "assets/video/nk-parade.mp4": {
+          "bytes": 4622835,
+          "sha256": "e3c646088949eff25dda13273fcd0b37b7d5c326358dbe5c2608832a9c15d4a7"
+        }
+      }
+    },
+    {
+      "id": "model-f16",
+      "used_in_film": true,
+      "files": {
+        "assets/models/f16/still-object.png": {
+          "bytes": 86423,
+          "sha256": "3d5f0a9b946ee47eaaf9bb8b81cc6a1e3b379139134b26a2768b1251bf9b9e48"
+        },
+        "assets/models/f16/spin.mp4": {
+          "bytes": 1793500,
+          "sha256": "b20e113d7ce35dc8eb7163ef8cf279e14af10a2da74cc468ef42a91647e0c08a"
+        }
+      }
+    },
+    {
+      "id": "model-apache",
+      "used_in_film": true,
+      "files": {
+        "assets/models/apache/still-object.png": {
+          "bytes": 88587,
+          "sha256": "0a1da5f4ab75a967919b3797a4a3449c6de81788370335a594872529229104b5"
+        },
+        "assets/models/apache/spin.mp4": {
+          "bytes": 2524788,
+          "sha256": "9c103d37cc2f567c07469ef9e330e92ff1cf077f6ab13fe1be45ef39f57ed4e1"
+        }
+      }
+    },
+    {
+      "id": "model-blackhawk",
+      "used_in_film": true,
+      "files": {
+        "assets/models/blackhawk/still-object.png": {
+          "bytes": 118491,
+          "sha256": "6e4e650a02954e58731ceb09e2673f3271a652d5bfdc5ee18d82e5898808c6ec"
+        },
+        "assets/models/blackhawk/spin.mp4": {
+          "bytes": 2590932,
+          "sha256": "e0bcf278be7865b17639fdfa30d4da32c309bc9c16f8684945a362b038404345"
+        }
+      }
+    },
+    {
+      "id": "channel-ident",
+      "used_in_film": true,
+      "files": {
+        "assets/video/channel-ident.mp4": {
+          "bytes": 11084839,
+          "sha256": "8a8b69969479662962ae94acdb624f990988e9d11bc4a84e6013a149bb4badc2"
+        }
+      }
+    },
+    {
+      "id": "seoul-photo",
+      "used_in_film": false,
+      "files": {
+        "assets/photos/seoul-photo.png": {
+          "bytes": 1425774,
+          "sha256": "70ce72b3af076153f8077620127bd1af557e092ffc20b1d5fa7ff3cf9a1474d1"
+        }
+      }
+    }
+  ],
+  "scope": "Source metadata, selected intervals, photographic masks and storyboards reviewed; continuous full human playback is not claimed"
+}
