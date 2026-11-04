@@ -26,3 +26,7 @@ video-studio/episodes/004-south-north-korea/output/final_video_v1.mp4 filter=lfs
 video-studio/episodes/004-south-north-korea/output/project_source_v1.zip filter=lfs diff=lfs merge=lfs -text
 
 
+
+video-studio/episodes/005-israel-iran/output/final_video_v1.mp4 filter=lfs diff=lfs merge=lfs -text
+
+video-studio/episodes/005-israel-iran/output/project_source_v1.zip filter=lfs diff=lfs merge=lfs -text

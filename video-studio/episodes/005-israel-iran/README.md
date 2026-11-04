@@ -34,4 +34,4 @@ python tools/map_banks.py --kind navy --duration 18
 
 ## Готові файли
 
-MP4 та повний ZIP з матеріалами: https://github.com/anzelina878-collab/v1/releases/tag/arsenal-005-v1 . Передача через GitHub Releases; наявність Git LFS для завантаження цих двох файлів не потрібна. Контрольні SHA-256 — output/delivery.json.
+Готові MP4 та повний ZIP: [output](output). Контрольні SHA-256 — output/delivery.json.

@@ -3,14 +3,14 @@
     "file": "final_video_v1.mp4",
     "sha256": "442ebcf6bfba4138ccc0e568af26ba0d788d239d739d2139b0f8f266daef6a94",
     "bytes": 158305363,
-    "delivery": "GitHub Release asset",
-    "download_url": "https://github.com/anzelina878-collab/v1/releases/download/arsenal-005-v1/final_video_v1.mp4"
+    "delivery": "Git LFS",
+    "download_url": "https://media.githubusercontent.com/media/anzelina878-collab/v1/main/video-studio/episodes/005-israel-iran/output/final_video_v1.mp4?download=1"
   },
   {
     "file": "project_source_v1.zip",
     "sha256": "9612e701ca138cfa16941206f779679abd0a78cf9a99300da88ca164fdd4813b",
     "bytes": 401432876,
-    "delivery": "GitHub Release asset",
-    "download_url": "https://github.com/anzelina878-collab/v1/releases/download/arsenal-005-v1/project_source_v1.zip"
+    "delivery": "Git LFS",
+    "download_url": "https://media.githubusercontent.com/media/anzelina878-collab/v1/main/video-studio/episodes/005-israel-iran/output/project_source_v1.zip?download=1"
   }
 ]
