@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "unpacked_without_symlinks": true,
+  "scene_kinds": [
+    "archive",
+    "compare",
+    "graphic",
+    "ident",
+    "map",
+    "outro",
+    "photo",
+    "question",
+    "section",
+    "turntable"
+  ],
+  "sample_renders": "Photo, continuously animated 3D map, turntable and section: 1920x1080 / 30frames / full decode passed",
+  "all_manifest_media_included": true,
+  "original_voice_checksum": "matched",
+  "portable_location": "/tmp/arsenal-005/portable-check/video-studio/episodes/005-israel-iran"
+}

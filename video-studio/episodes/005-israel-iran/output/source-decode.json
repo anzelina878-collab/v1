@@ -1,0 +1,97 @@
+[
+  {
+    "file": "f35i-arrival.mp4",
+    "passed": false,
+    "errors": "[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56304b5e2340] moov atom not found\n[in#0 @ 0x56304b5e2080] Error opening input: Invalid data found when processing input\nError opening input file /tmp/arsenal-005/assets/video/f35i-arrival.mp4.\nError opening input files: Invalid data found when processing input\n"
+  },
+  {
+    "file": "idf-field.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "arrow-test.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "idf-infantry.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "conflict2024b.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "conflict2024.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "iran-sam.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "iran-ghader.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "iran-ballistic.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "apache-demo.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "m109-action.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "david-test2.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "air-joint.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "f35i-action.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "david-test.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "iron-system.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "iron-intercepts2.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "iron-intercepts.mp4",
+    "passed": true,
+    "errors": ""
+  },
+  {
+    "file": "channel-ident.mp4",
+    "passed": true,
+    "errors": ""
+  }
+]

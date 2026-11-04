@@ -1,0 +1,13 @@
+usage: transcribe_audio.py [-h] [--input INPUT] [--output OUTPUT]
+                           [--model MODEL] [--language LANGUAGE]
+                           [--threads THREADS] [--prompt PROMPT]
+
+options:
+  -h, --help           show this help message and exit
+  --input INPUT
+  --output OUTPUT
+  --model MODEL        Model name or an existing local faster-whisper model
+                       directory
+  --language LANGUAGE
+  --threads THREADS
+  --prompt PROMPT

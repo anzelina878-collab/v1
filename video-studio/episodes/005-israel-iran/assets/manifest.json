@@ -1,0 +1,1825 @@
+[
+  {
+    "id": "f14",
+    "photo": "assets/photos/f14.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Irani_F-14_Tomcats_carrying_AIM-54_Phoenixs.jpg",
+    "photo_credit": "IRIAF · Public domain",
+    "photo_metadata": {
+      "id": "Grumman_F-14_Tomcat",
+      "path": "/tmp/arsenal-002/assets/Grumman_F-14_Tomcat.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Irani_F-14_Tomcats_carrying_AIM-54_Phoenixs.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Irani_F-14_Tomcats_carrying_AIM-54_Phoenixs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat",
+      "file": "File:Irani F-14 Tomcats carrying AIM-54 Phoenixs.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "IRIAF",
+      "credit": "http://www.iiaf.net/archive/aircraft/images/f_14__caring_hawk_missle.jpg"
+    },
+    "display_name": "F14",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "f4",
+    "photo": "assets/photos/f4.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Irani_F-4_Phantom_II_refueling_through_a_boom.jpg",
+    "photo_credit": "IRIAF · Public domain",
+    "photo_metadata": {
+      "id": "McDonnell_Douglas_F-4_Phantom_II",
+      "path": "/tmp/arsenal-002/assets/McDonnell_Douglas_F-4_Phantom_II.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Irani_F-4_Phantom_II_refueling_through_a_boom.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Irani_F-4_Phantom_II_refueling_through_a_boom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II",
+      "file": "File:Irani F-4 Phantom II refueling through a boom.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "IRIAF",
+      "credit": "www.sajed.ir"
+    },
+    "display_name": "F4",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "su24",
+    "photo": "assets/photos/su24.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Sukhoi_Su-24_inflight_Mishin-2.jpg",
+    "photo_credit": "Alexander Mishin · CC BY-SA 3.0",
+    "photo_metadata": {
+      "id": "Sukhoi_Su-24",
+      "path": "/tmp/arsenal-002/assets/Sukhoi_Su-24.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sukhoi_Su-24_inflight_Mishin-2.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sukhoi_Su-24_inflight_Mishin-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Sukhoi_Su-24",
+      "file": "File:Sukhoi_Su-24_inflight_Mishin-2.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Alexander Mishin",
+      "credit": "http://www.airliners.net/photo/Russia---Air/Sukhoi-Su-24M/1536990/L/"
+    },
+    "display_name": "SU24",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "karrar",
+    "photo": "assets/prepared/karrar.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:18-Karar_tank_-%D8%AA%D8%A7%D9%86%DA%A9_%DA%A9%D8%B1%D8%A7%D8%B1.jpg",
+    "photo_credit": "Amin Ahouei · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Karrar_(tank)",
+      "path": "/tmp/arsenal-002/assets/Karrar_(tank).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:18-Karar_tank_-%D8%AA%D8%A7%D9%86%DA%A9_%DA%A9%D8%B1%D8%A7%D8%B1.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/18-Karar_tank_-%D8%AA%D8%A7%D9%86%DA%A9_%DA%A9%D8%B1%D8%A7%D8%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Karrar_(tank)",
+      "file": "File:18-Karar_tank_-تانک_کرار.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Amin Ahouei",
+      "credit": "https://www.tasnimnews.ir/fa/news/1400/10/01/2629075/%D8%AA%D8%A7%D9%86%DA%A9-%DA%A9%D8%B1%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-%D8%B3%D9%BE%D8%A7%D9%87-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D8%B4%D8%AF-%D8%AF%D8%B3%D8%AA-%D9%BE%D8%B1-%D8%B2%D8%B1%D9%87%DB%8C-%D9%86%D8%B2%D8%B3%D8%A7-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D8%AA%D8%A7%D9%86%DA%A9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
+      "modifications": "Background segmentation only; original silhouette, no invented parts; mask visually reviewed"
+    },
+    "display_name": "KARRAR",
+    "kind": [
+      "real_photo"
+    ],
+    "original_photo": "assets/photos/karrar.jpg"
+  },
+  {
+    "id": "t72",
+    "photo": "assets/photos/t72.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Alabino05042017-40.jpg",
+    "photo_credit": "Vitaly V. Kuzmin · CC BY-SA 4.0",
+    "photo_metadata": {
+      "id": "T-72",
+      "path": "/tmp/arsenal-002/assets/T-72.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Alabino05042017-40.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Alabino05042017-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/T-72",
+      "file": "File:Alabino05042017-40.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Vitaly V. Kuzmin",
+      "credit": "http://www.vitalykuzmin.net/Military/Rehearsal-in-Alabino-05April2017"
+    },
+    "display_name": "T72",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "fateh",
+    "photo": "assets/photos/fateh.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Fateh-110_Missile_by_YPA.IR_02.jpg",
+    "photo_credit": "Hossein Velayati · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Fateh-110",
+      "path": "/tmp/arsenal-002/assets/Fateh-110.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fateh-110_Missile_by_YPA.IR_02.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fateh-110_Missile_by_YPA.IR_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Fateh-110",
+      "file": "File:Fateh-110_Missile_by_YPA.IR_02.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hossein Velayati",
+      "credit": "http://www.ypa.ir/2013-01-23-13-24-55/item/487-رزمايش-موشكي-پيامبر-اعظم(ص)-7.html"
+    },
+    "display_name": "FATEH",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "shahab",
+    "photo": "assets/photos/shahab.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Great_Prophet_II_(30).jpg",
+    "photo_credit": "Majid Asgaripour · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Shahab-3",
+      "path": "/tmp/arsenal-002/assets/Shahab-3.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Great_Prophet_II_(30).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Great_Prophet_II_%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Shahab-3",
+      "file": "File:Great_Prophet_II_(30).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Majid Asgaripour",
+      "credit": "https://www.mehrnews.com/x5r9x"
+    },
+    "display_name": "SHAHAB",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "sejjil",
+    "photo": "assets/photos/sejjil.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Sejjil_missile_launch_-_November_2008_(21).jpg",
+    "photo_credit": "Esmaeil Davari · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Sejjil",
+      "path": "/tmp/arsenal-002/assets/Sejjil.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sejjil_missile_launch_-_November_2008_(21).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sejjil_missile_launch_-_November_2008_%2821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Sejjil",
+      "file": "File:Sejjil_missile_launch_-_November_2008_(21).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Esmaeil Davari",
+      "credit": "https://web.archive.org/web/20180915015540/https://media.farsnews.com/Media/8708/ImageReports/8708220765/23_8708220765_L600.jpg"
+    },
+    "display_name": "SEJJIL",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "raad2",
+    "photo": "assets/photos/raad2.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:2018_Sacred_Defence_Week_parade_(185).jpg",
+    "photo_credit": "Vahid Abdi · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Raad-2",
+      "path": "/tmp/arsenal-002/assets/Raad-2.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2018_Sacred_Defence_Week_parade_(185).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/2018_Sacred_Defence_Week_parade_%28185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Raad-2",
+      "file": "File:2018_Sacred_Defence_Week_parade_(185).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Vahid Abdi",
+      "credit": "http://mehrnews.com/xMvh7"
+    },
+    "display_name": "RAAD2",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "fajr5",
+    "photo": "assets/photos/fajr5.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Iranian_Fajr-5_Rocket_by_tasnimnews.jpg",
+    "photo_credit": "Tasnim News Agency · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Fajr-5",
+      "path": "/tmp/arsenal-002/assets/Fajr-5.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Iranian_Fajr-5_Rocket_by_tasnimnews.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Iranian_Fajr-5_Rocket_by_tasnimnews.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Fajr-5",
+      "file": "File:Iranian_Fajr-5_Rocket_by_tasnimnews.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Tasnim News Agency\n",
+      "credit": "https://www.tasnimnews.ir/fa/media/1395/11/18/1319764/رونمایی-از-پنج-دستاورد-رزمی-دفاعی-با-حضور-وزیر-دفاع"
+    },
+    "display_name": "FAJR5",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "shahed129",
+    "photo": "assets/photos/shahed129.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Shahed_129_(4).jpg",
+    "photo_credit": "Mehdi Bakhtiari · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Shahed_129",
+      "path": "/tmp/arsenal-002/assets/Shahed_129.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Shahed_129_(4).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Shahed_129_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Shahed_129",
+      "file": "File:Shahed_129_(4).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Mehdi Bakhtiari",
+      "credit": "Fars News"
+    },
+    "display_name": "SHAHED129",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "mohajer6",
+    "photo": "assets/prepared/mohajer6.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IRGC_Ground_New_Equipment_2021_(09).jpg",
+    "photo_credit": "Hadi Hirbodvash · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Qods_Mohajer-6",
+      "path": "/tmp/arsenal-002/assets/Qods_Mohajer-6.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IRGC_Ground_New_Equipment_2021_(09).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/IRGC_Ground_New_Equipment_2021_%2809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Qods_Mohajer-6",
+      "file": "File:IRGC_Ground_New_Equipment_2021_(09).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hadi Hirbodvash",
+      "credit": "https://www.farsnews.ir/photo/14000416000466/آیین-الحاق-تجهیزات-جدید-به-نیروی-زمینی-سپاه",
+      "modifications": "Background segmentation only; original silhouette, no invented parts; mask visually reviewed"
+    },
+    "display_name": "MOHAJER6",
+    "kind": [
+      "real_photo"
+    ],
+    "original_photo": "assets/photos/mohajer6.jpg"
+  },
+  {
+    "id": "shahed136",
+    "photo": "assets/prepared/shahed136-manual.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_(33).jpg",
+    "photo_credit": "Mohammadreza Jabbari · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Shahed_136",
+      "path": "/tmp/arsenal-002/assets/Shahed_136.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_(33).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Shahed_136",
+      "file": "File:2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_(33).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Mohammadreza Jabbari",
+      "credit": "tasnimnews.ir (Direct URL: https://newsmedia.tasnimnews.ir/Tasnim/Uploaded/Image/1402/02/26/1402022609510427827584284.jpg)",
+      "modifications": "Manually traced photographic silhouette; physical geometry unchanged; display rack and exhibition background excluded; mask reviewed on studio background"
+    },
+    "display_name": "SHAHED136",
+    "kind": [
+      "real_photo"
+    ],
+    "original_photo": "assets/photos/shahed136.jpg"
+  },
+  {
+    "id": "s300",
+    "photo": "assets/photos/s300.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:S-300PMU2_complex.jpg",
+    "photo_credit": "No machine-readable author provided. .:Ajvol:. assumed (based on  · Public domain",
+    "photo_metadata": {
+      "id": "S-300_missile_system",
+      "path": "/tmp/arsenal-002/assets/S-300_missile_system.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:S-300PMU2_complex.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/S-300PMU2_complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/S-300_missile_system",
+      "file": "File:S-300PMU2 complex.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "No machine-readable author provided. .:Ajvol:. assumed (based on copyright claims).",
+      "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
+    },
+    "display_name": "S300",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "bavar",
+    "photo": "assets/photos/bavar.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:2019_Sacred_Defence_Week_parade_(148).jpg",
+    "photo_credit": "Hossein Mersadi · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Bavar-373",
+      "path": "/tmp/arsenal-002/assets/Bavar-373.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2019_Sacred_Defence_Week_parade_(148).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/2019_Sacred_Defence_Week_parade_%28148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Bavar-373",
+      "file": "File:2019_Sacred_Defence_Week_parade_(148).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hossein Mersadi",
+      "credit": "http://fna.ir/dc1tot"
+    },
+    "display_name": "BAVAR",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "jamaran",
+    "photo": "assets/photos/jamaran.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D9%85%D9%88%D9%81%D9%82_%D9%82%D8%A8%D8%B6%D9%87_%D9%87%D8%A7%DB%8C_%DB%8C%DA%AF%D8%A7%D9%86_%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C_%D9%86%D8%A7%D9%88%D8%B4%DA%A9%D9%86_%D8%AC%D9%85%D8%A7%D8%B1%D8%A7%D9%86_(7).jpg",
+    "photo_credit": "Abdolhossein Rezvani · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Iranian_frigate_Jamaran",
+      "path": "/tmp/arsenal-002/assets/Iranian_frigate_Jamaran.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D9%85%D9%88%D9%81%D9%82_%D9%82%D8%A8%D8%B6%D9%87_%D9%87%D8%A7%DB%8C_%DB%8C%DA%AF%D8%A7%D9%86_%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C_%D9%86%D8%A7%D9%88%D8%B4%DA%A9%D9%86_%D8%AC%D9%85%D8%A7%D8%B1%D8%A7%D9%86_(7).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D9%85%D9%88%D9%81%D9%82_%D9%82%D8%A8%D8%B6%D9%87_%D9%87%D8%A7%DB%8C_%DB%8C%DA%AF%D8%A7%D9%86_%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C_%D9%86%D8%A7%D9%88%D8%B4%DA%A9%D9%86_%D8%AC%D9%85%D8%A7%D8%B1%D8%A7%D9%86_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Iranian_frigate_Jamaran",
+      "file": "File:تیراندازی_موفق_قبضه_های_یگان_عملیاتی_ناوشکن_جماران_(7).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Abdolhossein Rezvani",
+      "credit": "https://www.mehrnews.com/news/1038620/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C-%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%85%D9%88%D9%81%D9%82-%D9%82%D8%A8%D8%B6%D9%87-%D9%87%D8%A7%DB%8C-%DB%8C%DA%AF%D8%A7%D9%86-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D9%86%D8%A7%D9%88%D8%B4%DA%A9%D9%86-%D8%AC%D9%85%D8%A7%D8%B1%D8%A7%D9%86"
+    },
+    "display_name": "JAMARAN",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "iran-boats",
+    "photo": "assets/photos/iran-boats.jpg",
+    "photo_source": "https://www.dvidshub.net/video/747672",
+    "photo_credit": "U.S. Navy / DVIDS 747672 · Public Domain · кадр відео",
+    "display_name": "ІРАНСЬКІ ПРИБЕРЕЖНІ СИЛИ",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "g3",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/g3.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:AME1.jpg",
+    "photo_credit": "Quickload at English Wikipedia · Public domain",
+    "photo_metadata": {
+      "file": "File:AME1.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:AME1.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/AME1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Heckler_&_Koch_G3",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Quickload at English Wikipedia",
+      "description": "The CEAM Modèle 1950, a French effort to put the StG 45(M) concept into mass production. Chambered in .30 Carbine. CEAM Modèle 1950, a French StG45 derivative in .30 US Carbine.",
+      "credit": "Transferred from en.wikipedia to Commons."
+    },
+    "display_name": "G3"
+  },
+  {
+    "id": "arrow",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/arrow.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IAF-Arrow-3-%D7%97%D7%A5-sq1666.jpg",
+    "photo_credit": "Administration for the Development of Weapons and Technological Infrastructure · CC BY-SA 4.0",
+    "photo_metadata": {
+      "file": "File:IAF-Arrow-3-חץ-sq1666.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IAF-Arrow-3-%D7%97%D7%A5-sq1666.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/IAF-Arrow-3-%D7%97%D7%A5-sq1666.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Arrow_3",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Administration for the Development of Weapons and Technological Infrastructure",
+      "description": "Arrow 3 anti-ballistic missile, exoatmospheric air defense system, made by the Israel Aerospace Industries Ltd, deployed in the Israeli Air Defense Command, under the Israeli Air Force",
+      "credit": "https://www.youtube.com/watch?v=hzyK3KhS0wE"
+    },
+    "display_name": "ARROW 3"
+  },
+  {
+    "id": "zulfiqar",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/zulfiqar.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Zolfaghar3Tank1.jpg",
+    "photo_credit": "M-ATF, from military.ir and iranmilitaryforum.net · CC BY-SA 3.0",
+    "photo_metadata": {
+      "file": "File:Zolfaghar3Tank1.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Zolfaghar3Tank1.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zolfaghar3Tank1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Zulfiqar_(tank)",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "M-ATF, from military.ir and iranmilitaryforum.net",
+      "description": "Iranian Zolfaghar 3 tank",
+      "credit": "http://gallery.military.ir/albums/userpics/10187/_DSC1332.jpg"
+    },
+    "display_name": "ZULFIQAR"
+  },
+  {
+    "id": "f35i",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/prepared/f35i.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IAF-F-35I-Adir.jpg",
+    "photo_credit": "IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "photo_metadata": {
+      "file": "File:IAF-F-35I-Adir.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IAF-F-35I-Adir.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/IAF-F-35I-Adir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_Israeli_procurement",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit photographer",
+      "description": "Israeli Air Force (IAF) F-35I Adir stealth multi-role fighter jet",
+      "credit": "This file contains IDF content and released by the Israeli Defence Forces Spokesperson's Unit.To view all images uploaded courtesy of IDF Spokesperson's Unit\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+      "modifications": "Background segmentation only; original silhouette, no invented parts; mask visually reviewed"
+    },
+    "display_name": "F-35I ADIR",
+    "original_photo": "assets/photos/f35i.jpg"
+  },
+  {
+    "id": "merkava",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/merkava.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Merkava-Mk4m-whiteback01.jpg",
+    "photo_credit": "Source: Israel Defense Forces Spokesperson UnitDerivative: User:MathKnight · CC BY-SA 4.0",
+    "photo_metadata": {
+      "file": "File:Merkava-Mk4m-whiteback01.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Merkava-Mk4m-whiteback01.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Merkava-Mk4m-whiteback01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Merkava",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Source: Israel Defense Forces Spokesperson UnitDerivative: User:MathKnight",
+      "description": "Merkava Mk IVm \"Windbreaker\" with Trophy APS during Operation Protective Edge",
+      "credit": "File:Armoured Corps operate near the Gaza Border-1.jpg"
+    },
+    "display_name": "MERKAVA MK.4"
+  },
+  {
+    "id": "namer",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/namer.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_13th_Battalion_of_the_Golani_Brigade_Holds_Drill_at_Golan_Heights_(8).jpg",
+    "photo_credit": "https://www.flickr.com/people/45644610@N03 · CC BY-SA 3.0",
+    "photo_metadata": {
+      "file": "File:Flickr_-_Israel_Defense_Forces_-_13th_Battalion_of_the_Golani_Brigade_Holds_Drill_at_Golan_Heights_(8).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_13th_Battalion_of_the_Golani_Brigade_Holds_Drill_at_Golan_Heights_(8).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flickr_-_Israel_Defense_Forces_-_13th_Battalion_of_the_Golani_Brigade_Holds_Drill_at_Golan_Heights_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Namer",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "https://www.flickr.com/people/45644610@N03",
+      "description": "August 21, 2012\nThe 13th Battalion of the Golani Brigade during a drill held in the Golan Heights, northern Israel. The NAMER (\"Tiger\"), a new vehicle combining  the artillery abilities of the Merkava tank and the APC's shielding capacities, was fully integrated in this drill for the first time, improving the battle tactics used by the IDF in the field.\nPhoto by Staff Sgt. (res.) Abir Sultan\n\nThe Israel Defense Forces Facebook • blog • Twitter",
+      "credit": "https://www.flickr.com/photos/idfonline/7871042498/"
+    },
+    "display_name": "NAMER"
+  },
+  {
+    "id": "trophy",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/trophy.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:ASPRO-A.jpg",
+    "photo_credit": "NatanFlayer · CC BY-SA 3.0",
+    "photo_metadata": {
+      "file": "File:ASPRO-A.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ASPRO-A.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/ASPRO-A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Trophy_(countermeasure)",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "NatanFlayer",
+      "description": "Rafael's ASPRO-A (a.k.a \"Trophy\") Active Protection System's radar (Elta EL/M-2133 WindGuard) and dummy launcher (blue) atop Merkava Mark 4 tank",
+      "credit": "Own work"
+    },
+    "display_name": "TROPHY"
+  },
+  {
+    "id": "f15i",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/prepared/f15i.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:F-15E_takes_on_fuel_from_KC-10.jpg",
+    "photo_credit": "Staff Sgt. Sean Carnes · Public domain",
+    "photo_metadata": {
+      "file": "File:F-15E_takes_on_fuel_from_KC-10.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:F-15E_takes_on_fuel_from_KC-10.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/F-15E_takes_on_fuel_from_KC-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Staff Sgt. Sean Carnes",
+      "description": "An F-15E Strike Eagle flies in the U.S. Central Command area of responsibility Jan. 27, 2021. The F-15E is a dual-role fighter designed to perform air-to-air and air-to-ground missions, demonstrating U.S. Air Force Central Command's posture to defend and deter against potential aggression. (U.S. Air Force photo by Staff Sgt. Sean Carnes)",
+      "credit": "US Air Force https://www.af.mil/News/Photos/igphoto/2002572646/",
+      "modifications": "Background segmentation only; original silhouette, no invented parts; mask visually reviewed"
+    },
+    "display_name": "F-15 · РОДИНА ЛІТАКІВ",
+    "original_photo": "assets/photos/f15i.jpg"
+  },
+  {
+    "id": "f16i",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/f16i.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:F-16_June_2008.jpg",
+    "photo_credit": "Master Sgt. Andy Dunaway · Public domain",
+    "photo_metadata": {
+      "file": "File:F-16_June_2008.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:F-16_June_2008.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/F-16_June_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon_variants",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Master Sgt. Andy Dunaway",
+      "description": "A U.S. Air Force F-16 Fighting Falcon Block 40 aircraft after receiving fuel from a KC-135 Stratotanker aircraft during a mission over Iraq on 10 June 2008.  This F-16 is assigned to the 34th EFS Balad Air Base, Iraq and is deployed from the 388th Fighter Wing at Hill Air Force Base, Utah. (U.S. Air Force photo by Master Sgt. Andy Dunaway/Released). Note: Original image was slightly cropped to yield this image.",
+      "credit": "This image was released by the United States Air Force with the ID 080610-F-BC606-048 (next).\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.\n\n\nالعربية ∙ বাংলা ∙ \nBahasa Indonesia ∙ \nBahaso Jambi ∙ \nDeutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−"
+    },
+    "display_name": "F-16 · РОДИНА ЛІТАКІВ"
+  },
+  {
+    "id": "tavor",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/tavor.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IWI-Tavor-TAR-21w1.jpg",
+    "photo_credit": "MathKnight · CC BY 3.0",
+    "photo_metadata": {
+      "file": "File:IWI-Tavor-TAR-21w1.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IWI-Tavor-TAR-21w1.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/IWI-Tavor-TAR-21w1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/IWI_Tavor",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "MathKnight",
+      "description": "IMI/IWI Tavor TAR-21 bullpup assault rifle",
+      "credit": "Own work"
+    },
+    "display_name": "TAVOR"
+  },
+  {
+    "id": "x95",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/x95.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:MicroTavorX95MARS-white.jpg",
+    "photo_credit": "Source: User:TheStrikerDerivative: User:MathKnight · CC BY 4.0",
+    "photo_metadata": {
+      "file": "File:MicroTavorX95MARS-white.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MicroTavorX95MARS-white.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/MicroTavorX95MARS-white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/IWI_X95",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Source: User:TheStrikerDerivative: User:MathKnight",
+      "description": "Israel Defense Forces Micro-Tavor X95",
+      "credit": "File:MicroTavorX95MARS.jpg by User:TheStriker"
+    },
+    "display_name": "X95"
+  },
+  {
+    "id": "negev",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/negev.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IWI-Negev-Zachi-Evenor-01-white.jpg",
+    "photo_credit": "Zachi Evenor · CC BY 2.0",
+    "photo_metadata": {
+      "file": "File:IWI-Negev-Zachi-Evenor-01-white.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IWI-Negev-Zachi-Evenor-01-white.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/IWI-Negev-Zachi-Evenor-01-white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/IWI_Negev",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Zachi Evenor",
+      "description": "IDF Negev light machine gun, 5.56x45 mm NATO. \nIsrael 68th Independence Day, Ground Army Exhibition, Yad LaShiryon, Israel",
+      "credit": "Flickr: https://www.flickr.com/photos/zachievenor/26957212125/ , https://www.flickr.com/photos/zachievenor/26957215345"
+    },
+    "display_name": "NEGEV"
+  },
+  {
+    "id": "spike",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/spike.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:SPIKE_ATGM.jpg",
+    "photo_credit": "Dave1185 (talk) · CC BY 3.0",
+    "photo_metadata": {
+      "file": "File:SPIKE_ATGM.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:SPIKE_ATGM.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/SPIKE_ATGM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Spike_(missile)",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Dave1185 (talk)",
+      "description": "Photo taken at Singapore Army Open House 2007, SPIKE ATGM complete with mock-up SPIKE LR missile",
+      "credit": ""
+    },
+    "display_name": "SPIKE"
+  },
+  {
+    "id": "pkm",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/pkm.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:SpB-Museum-artillery-114.jpg",
+    "photo_credit": "Vitaly V. Kuzmin · CC BY-SA 4.0",
+    "photo_metadata": {
+      "file": "File:SpB-Museum-artillery-114.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:SpB-Museum-artillery-114.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/SpB-Museum-artillery-114.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/PK_machine_gun",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Vitaly V. Kuzmin",
+      "description": "7.62mm machine gun PKS",
+      "credit": "http://www.vitalykuzmin.net/?q=node/598"
+    },
+    "display_name": "PKM · РОДИНА КУЛЕМЕТІВ"
+  },
+  {
+    "id": "toophan",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/toophan.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Toophan_Fars.jpg",
+    "photo_credit": "Armin Karami · CC BY 4.0",
+    "photo_metadata": {
+      "file": "File:Toophan_Fars.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Toophan_Fars.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Toophan_Fars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Toophan",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Armin Karami",
+      "description": "Iranian Toophan missile at presentation. This photo is from an unveiling ceremony of new military equipment for the Islamic Republic of Iran Army Ground Forces Army held at the the Ground Force’s Shahid Zarharan Center.",
+      "credit": "Fars News"
+    },
+    "display_name": "TOOPHAN"
+  },
+  {
+    "id": "m109",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/m109.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Kings_of_battle_keep_the_fire;_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg",
+    "photo_credit": "Staff Sgt. Richard Wrigley · Public domain",
+    "photo_metadata": {
+      "file": "File:Kings_of_battle_keep_the_fire;_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kings_of_battle_keep_the_fire;_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kings_of_battle_keep_the_fire%3B_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/M109_howitzer",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Staff Sgt. Richard Wrigley",
+      "description": "M109A6 Paladins from Battery B, 1st Battalion, 9th Field Artillery Regiment “Battlekings”, 2nd Armored Brigade Combat Team, 3rd Infantry Division, sit ready to fire their Gunnery Table VI here, Sept. 11. The Battlekings’ B Battery just completed Paladin GT VI crew qualifications. Unique to this gunnery is the fact that it this will be the last rounds fired by the Battlekings for the foreseeable future as they are slated to inactivate in the very near future. (U.S. Army Photo by Staff Sgt. Richard Wrigley 2nd ABCT, 3rd ID, Public Affairs NCO)",
+      "credit": "https://www.dvidshub.net/image/1694738"
+    },
+    "display_name": "M109 · РОДИНА САУ"
+  },
+  {
+    "id": "hermes450",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/prepared/hermes450.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Zik_Squadron_(Hermes_450),_(cropped).jpg",
+    "photo_credit": "Amit Agronov · CC BY-SA 3.0",
+    "photo_metadata": {
+      "file": "File:Zik_Squadron_(Hermes_450),_(cropped).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Zik_Squadron_(Hermes_450),_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Zik_Squadron_%28Hermes_450%29%2C_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Elbit_Hermes_450",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Amit Agronov",
+      "description": "Squadron 161 (\"The Black Snake\") marks its reopening as the only \"Zik\" Squadron (Hermes 450) in the UAV, absorbing all the \"Zik\" aircraft from Squadron 166 (\"Firebirds\").",
+      "credit": "This file contains IDF content and released by the Israeli Defence Forces Spokesperson's Unit.To view all images uploaded courtesy of IDF Spokesperson's Unit\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+      "modifications": "Background segmentation only; original silhouette, no invented parts; mask visually reviewed"
+    },
+    "display_name": "HERMES 450",
+    "original_photo": "assets/photos/hermes450.jpg"
+  },
+  {
+    "id": "hermes900",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/prepared/hermes900.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Elbit_Systems_900_take_off.jpg",
+    "photo_credit": "Ronite · CC BY-SA 4.0",
+    "photo_metadata": {
+      "file": "File:Elbit_Systems_900_take_off.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Elbit_Systems_900_take_off.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Elbit_Systems_900_take_off.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Elbit_Hermes_900",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Ronite",
+      "description": "Elbit Systems 900 take off (cropped & levels)",
+      "credit": "",
+      "modifications": "Background segmentation only; original silhouette, no invented parts; mask visually reviewed"
+    },
+    "display_name": "HERMES 900",
+    "original_photo": "assets/photos/hermes900.jpg"
+  },
+  {
+    "id": "heron",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/prepared/heron.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IAI_Heron(_framed).jpg",
+    "photo_credit": "SSGT REYNALDO RAMON · Public domain",
+    "photo_metadata": {
+      "file": "File:IAI_Heron(_framed).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IAI_Heron(_framed).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/IAI_Heron%28_framed%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/IAI_Heron",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "SSGT REYNALDO RAMON",
+      "description": "A Hunter Joint Tactical Unmanned Aerial Vehicle (UAV) in flight during a Combat Search and Rescue (CSAR) training exercise at Fallon Naval Air Station (NAS), Nevada (NV), during exercise DESERT RESCUE XI. The Hunter is an Israeli multi-role short-range UAV system in service with the US Army (USA). The exercise is a joint service Combat Search and Rescue (CSAR) training exercise hosted by the Naval Strike and Warfare Center, designed to simulate downed aircrews, enabling CSAR related missions to experiment with new techniques in realistic scenarios.",
+      "credit": "commons.wikimedia",
+      "modifications": "Background segmentation only; original silhouette, no invented parts; mask visually reviewed"
+    },
+    "display_name": "HERON",
+    "original_photo": "assets/photos/heron.jpg"
+  },
+  {
+    "id": "irondome",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/irondome.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IDF_Iron_Dome_2021.jpg",
+    "photo_credit": "IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "photo_metadata": {
+      "file": "File:IDF_Iron_Dome_2021.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IDF_Iron_Dome_2021.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/IDF_Iron_Dome_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Iron_Dome",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit photographer",
+      "description": "An Iron Dome launcher launching a missile.",
+      "credit": "This file contains IDF content and released by the Israeli Defence Forces Spokesperson's Unit.To view all images uploaded courtesy of IDF Spokesperson's Unit\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing."
+    },
+    "display_name": "IRON DOME"
+  },
+  {
+    "id": "davidsling",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/davidsling.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:David-Sling-0001.jpg",
+    "photo_credit": "United States Missile Defense Agency · Public domain",
+    "photo_metadata": {
+      "file": "File:David-Sling-0001.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:David-Sling-0001.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/David-Sling-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/David's_Sling",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "United States Missile Defense Agency",
+      "description": "\"David's Sling\" (Hebrew designation \"Sharvit Ksamim\") is an Israeli air defense system. In this photo: an interceptor missile is launched in the final December 2015, which ended successfully with the interceptor destroying its target. The Israeli Missile Defense Agency declared the system \"operational\" and the Israeli Air Defense Command started to assimilate \"Sharvit Ksamim\" (Magic Wand).",
+      "credit": "File:Dec., 2015 - David's Sling Weapons System Stunner Missile successfully completed a series of tests (1).jpg by United States Missile Defense Agency"
+    },
+    "display_name": "DAVID’S SLING"
+  },
+  {
+    "id": "khordad15",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/prepared/khordad15-detail.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Zolfaghar_1401_-_Surface-to-air_missile_exercise_(49).jpg",
+    "photo_credit": "Mahdi Marizad · CC BY 4.0",
+    "photo_metadata": {
+      "file": "File:Zolfaghar_1401_-_Surface-to-air_missile_exercise_(49).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Zolfaghar_1401_-_Surface-to-air_missile_exercise_(49).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zolfaghar_1401_-_Surface-to-air_missile_exercise_%2849%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Khordad_15_(air_defense_system)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Mahdi Marizad",
+      "description": "در دومین روز از رزمایش مشترک ذوالفقار ۱۴۰۱ ارتش جمهوری اسلامی ایران سامانه‌های موشکی پدافند هوایی ارتش ۱۵ خرداد، مجید و سامانه توپخانه ای خاتم اهداف هوایی خود را منهدم کردند.",
+      "credit": "https://www.farsnews.ir/photo/14011008000390/دومین-روز-رزمایش-ذوالفقار-40-ارتش-",
+      "modifications": "Faithful crop to launcher/truck detail; embedded corner agency mark outside selected crop, full credit retained separately"
+    },
+    "display_name": "KHORDAD-15 · ДЕТАЛЬ",
+    "original_photo": "assets/photos/khordad15.jpg"
+  },
+  {
+    "id": "saar6",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/saar6.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Sa%27ar-6-class-corvette-0026.jpg",
+    "photo_credit": "IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "photo_metadata": {
+      "file": "File:Sa'ar-6-class-corvette-0026.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sa%27ar-6-class-corvette-0026.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sa%27ar-6-class-corvette-0026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Sa'ar_6-class_corvette",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit photographer",
+      "description": "Sa'ar-6-class missile corvette and Atalef (Airbus Helicopters AS565 Panther) sea helicopter, Israel Defense Forces",
+      "credit": "This file contains IDF content and released by the Israeli Defence Forces Spokesperson's Unit.To view all images uploaded courtesy of IDF Spokesperson's Unit\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing."
+    },
+    "display_name": "SA’AR 6"
+  },
+  {
+    "id": "dolphin",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/dolphin.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:RAHAV_7213.JPG",
+    "photo_credit": "Ein Dahmer · CC BY-SA 4.0",
+    "photo_metadata": {
+      "file": "File:RAHAV_7213.JPG",
+      "source_url": "https://commons.wikimedia.org/wiki/File:RAHAV_7213.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/RAHAV_7213.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Dolphin-class_submarine",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Ein Dahmer",
+      "description": "Not yet commissioned Israeli submarine Rahav conducting sea trials in the ports of Wilhelmshaven",
+      "credit": "Own work"
+    },
+    "display_name": "DOLPHIN"
+  },
+  {
+    "id": "ghadir",
+    "photo": "assets/photos/ghadir-clean-photo.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Velayat_90_-_Naval_review_(27).jpg",
+    "photo_credit": "Hamed Jafarnejad · CC BY 4.0",
+    "photo_metadata": {
+      "id": "Ghadir-class_submarine",
+      "path": "/tmp/arsenal-002/assets/Ghadir-class_submarine.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Velayat_90_-_Naval_review_(27).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Velayat_90_-_Naval_review_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Ghadir-class_submarine",
+      "file": "File:Velayat_90_-_Naval_review_(27).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hamed Jafarnejad",
+      "credit": "https://www.farsnews.ir/photo/13901013001480/%D8%B1%DA%98%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%DB%8C%DA%AF%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AD%D8%A7%D8%B6%D8%B1-%D8%AF%D8%B1-%D8%B1%D8%B2%D9%85%D8%A7%DB%8C%D8%B4-%D9%88%D9%84%D8%A7%DB%8C%D8%AA-90"
+    },
+    "display_name": "GHADIR",
+    "kind": [
+      "real_photo"
+    ],
+    "original_photo": "assets/photos/ghadir.jpg"
+  },
+  {
+    "id": "il-flag",
+    "photo": "assets/flags/il-flag.png",
+    "kind": [
+      "motion_graphics"
+    ],
+    "display_name": "IL flag",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Flag_of_Israel.svg",
+    "photo_credit": "National flag · Public domain",
+    "photo_metadata": {
+      "license": "Public domain",
+      "modifications": "Original vector construction for IL; existing licensed flag raster for IR"
+    }
+  },
+  {
+    "id": "ir-flag",
+    "photo": "assets/flags/ir-flag.png",
+    "kind": [
+      "motion_graphics"
+    ],
+    "display_name": "IR flag",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Flag_of_Iran.svg",
+    "photo_credit": "National flag · Public domain",
+    "photo_metadata": {
+      "license": "Public domain",
+      "modifications": "Original vector construction for IL; existing licensed flag raster for IR"
+    }
+  },
+  {
+    "id": "model-f16",
+    "video": "assets/models/f16/spin.mp4",
+    "photo": "assets/models/f16/still-object.png",
+    "duration": 24,
+    "display_name": "F16",
+    "video_credit": "FlightGear F-16 contributors · GPL-2.0",
+    "photo_credit": "FlightGear F-16 contributors · GPL-2.0",
+    "model_metadata": {
+      "id": "f16",
+      "repository": "https://github.com/FGMEMBERS/f16",
+      "model_path": "Models/f16.ac",
+      "texture_mapping": {
+        "Effects/glass/canopy.png": "texture-0.png",
+        "f16.rgb": "texture-1.rgb",
+        "f16trans.rgb": "texture-2.rgb"
+      },
+      "documents": {},
+      "license_status": "Reviewed FlightGear FGAddon GPL distribution policy; no model-specific license notice located in the probed repository root; GPL-2.0 text included",
+      "modifications": "Exterior display geometry; simulator effects/light helper planes omitted; neutral grey display materials and studio lighting",
+      "license": "GPL-2.0",
+      "license_basis": "https://www.flightgear.org/about/policy/",
+      "creator": "FlightGear F-16 contributors"
+    },
+    "schematic": false,
+    "visual_origin": "true_3d_render"
+  },
+  {
+    "id": "model-apache",
+    "video": "assets/models/apache/spin.mp4",
+    "photo": "assets/models/apache/still-object.png",
+    "duration": 24,
+    "display_name": "APACHE",
+    "video_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "photo_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "model_metadata": {
+      "id": "apache",
+      "repository": "https://github.com/FGMEMBERS/AH-64_Apache",
+      "model_path": "Models/apache3.ac",
+      "texture_mapping": {},
+      "documents": {
+        "COPYING": "\t\t    GNU GENERAL PUBLIC LICENSE\n\t\t       Version 2, June 1991\n\n Copyright (C) 1989, 1991 Free Software Foundation, Inc.\n                       59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n\t\t\t    Preamble\n\n  The licenses for most software are designed to take away your\nfreedom to share and change it.  By contrast, the GNU General Public\nLicense is intended to guarantee your freedom to share and change free\nsoftware--to make sure the software is free for all its users.  This\nGeneral Public License applies to most of the Free Software\nFoundation's software and to any other program whose authors commit to\nusing it.  (Some other Free Software Foundation software is covered by\nthe GNU Library General Public License instead.)  You can apply it to\nyour programs, too.\n\n  When we speak of free software, we are referring to freedom, not\nprice.  Our General Public Licenses are designed to make sure that you\nhave the freedom to distribute copies of free software (and charge for\nthis service if you wish), that you receive source code or can get it\nif you want it, that you can change the software or use pieces of it\nin new free programs; and that you know you can do these things.\n\n  To protect your rights, we need to make restrictions that forbid\nanyone to deny you these rights or to ask you to surrender the rights.\nThese restrictions translate to certain responsibilities for you if you\ndistribute copies of the software, or if you modify it.\n\n  For example, if you distribute copies of such a program, whether\ngratis or for a fee, you must give the recipients all the rights that\nyou have.  You must make sure that they, too, receive or can get the\nsource code.  And you must show them these terms so they know their\nrights.\n\n  We protect your rights with two steps: (1) copyright the software, and\n(2) offer you this license which gives you legal permission to copy,\ndistribute and/or modify the software.\n\n  Also, for each author's protection and ours, we want to make certain\nthat everyone understands that there is no warranty for this free\nsoftware.  If the software is modified by someone else and passed on, we\nwant its recipients to know that what they have is not the original, so\nthat any problems introduced by others will not reflect on the original\nauthors' reputations.\n\n  Finally, any free program is threatened constantly by software\npatents.  We wish to avoid the danger that redistributors of a free\nprogram will individually obtain patent licenses, in effect making the\nprogram proprietary.  To prevent this, we have made it clear that any\npatent must be licensed for everyone's free use or not licensed at all.\n\n  The precise terms and conditions for copying, distribution and\nmodification follow.\n\f\n\t\t    GNU GENERAL PUBLIC LICENSE\n   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n  0. This License applies to any program or other work which contains\na notice placed by the copyright holder saying it may be distributed\nunder the terms of this General Public License.  The \"Program\", below,\nrefers to any such program or work, and a \"work based on the Program\"\nmeans either the Program or any derivative work under copyright law:\nthat is to say, a work containing the Program or a portion of it,\neither verbatim or with modifications and/or translated into another\nlanguage.  (Hereinafter, translation is included without limitation in\nthe term \"modification\".)  Each licensee is addressed as \"you\".\n\nActivities other than copying, distribution and modification are not\ncovered by this License; they are outside its scope.  The act of\nrunning the Program is not restricted, and the output from the Program\nis covered only if its contents constitute a work based on the\nProgram (independent of having been made by running the Program).\nWhether that is true depends on what the Program does.\n\n  1. You may copy and distribute verbatim copies of the Program's\nsource code as you receive it, in any medium, provided that you\nconspicuously and appropriately publish on each copy an appropriate\ncopyright notice and disclaimer of warranty; keep intact all the\nnotices that refer to this License and to the absence of any warranty;\nand give any other recipients of the Program a copy of this License\nalong with the Program.\n\nYou may charge a fee for the physical act of transferring a copy, and\nyou may at your option offer warranty protection in exchange for a fee.\n\n  2. You may modify your copy or copies of the Program or any portion\nof it, thus forming a work based on the Program, and copy and\ndistribute such modifications or work under the terms of Section 1\nabove, provided that you also meet all of these conditions:\n\n    a) You must cause the modified files to carry prominent notices\n    stating that you changed the files and the date of any change.\n\n    b) You must cause any work that you distribute or publish, that in\n    whole or in part contains or is derived from the Program or any\n    part thereof, to be licensed as a whole at no charge to all third\n    parties under the terms of this License.\n\n    c) If the modified program normally reads commands interactively\n    when run, you must cause it, when started running for such\n    interactive use in the most ordinary way, to print or display an\n    announcement including an appropriate copyright notice and a\n    notice that there is no warranty (or else, saying that you provide\n    a warranty) and that users may redistribute the program under\n    these conditions, and telling the user how to view a copy of this\n    License.  (Exception: if the Program itself is interactive but\n    does not normally print such an announcement, your work based on\n    the Program is not required to print an announcement.)\n\f\nThese requirements apply to the modified work as a whole.  If\nidentifiable sections of that work are not derived from the Program,\nand can be reasonably considered independent and separate works in\nthemselves, then this License, and its terms, do not apply to those\nsections when you distribute them as separate works.  But when you\ndistribute the same sections as part of a whole which is a work based\non the Program, the distribution of the whole must be on the terms of\nthis License, whose permissions for other licensees extend to the\nentire whole, and thus to each and every part regardless of who wrote it.\n\nThus, it is not the intent of this section to claim rights or contest\nyour rights to work written entirely by you; rather, the intent is to\nexercise the right to control the distribution of derivative or\ncollective works based on the Program.\n\nIn addition, mere aggregation of another work not based on the Program\nwith the Program (or with a work based on the Program) on a volume of\na storage or distribution medium does not bring the other work under\nthe scope of this License.\n\n  3. You may copy and distribute the Pr",
+        "README.txt": "English/Fran�ais\n\n[English]\n----------\n\nA little history\n================\n\nEurocopter EC 665 \"Tigre\"\n=========================\n\nManufacturer                  : \nType                          : \nYear                          : \nPowerplant                    : \nWingspan                      : \nLength                        : \nHeight                        : \nweight                        : \nCruise speed                  : \nCrew                          :  \n\nSome useful keys:\n=================\n\nThanks\n======\n\n===============\nBARANGER Emmanuel\nJune, 09, 2009.\n\nhttp://helijah.free.fr/flightgear/hangar.htm\nembaranger@free.fr\n\n\n[Fran�ais]\n----------\n\nUn peu d'histoire\n=================\n\nEurocopter EC 665 \"Tigre\"\n=========================\n\nConstructeur                  :\nType                          :\nAnn�e                         :\nMoteur                        :\nEnvergure                     :\nLongueur                      :\nHauteur                       :\nPoids � vide                  :\nVitesse de croisi�re          :\nEquipage                      :\n\n\nQuelques touches utiles :\n=========================\n\nRemerciements\n=============\n\n===============\nBARANGER Emmanuel\n09 Juin 2009.\n\nhttp://helijah.free.fr/flightgear/hangar.htm\nembaranger@free.fr\n"
+      },
+      "license_status": "reviewed: individual notices plus FlightGear FGAddon GPL distribution policy",
+      "license": "GPL-2.0-or-later",
+      "license_basis": "Individual COPYING/README where present; FlightGear FGAddon GPL policy: https://www.flightgear.org/about/policy/",
+      "modifications": "Studio lighting/materials; simulator FX omitted; neutral paint for F-14; display-pose rotor blades added to AH-64/UH-60",
+      "review_note": "GPL2 COPYING supplied; full upstream notices retained. No F-35 geometry used."
+    },
+    "schematic": false,
+    "visual_origin": "true_3d_render"
+  },
+  {
+    "id": "model-blackhawk",
+    "video": "assets/models/blackhawk/spin.mp4",
+    "photo": "assets/models/blackhawk/still-object.png",
+    "duration": 24,
+    "display_name": "BLACKHAWK",
+    "video_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "photo_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "model_metadata": {
+      "id": "blackhawk",
+      "repository": "https://github.com/FGMEMBERS/UH-60",
+      "model_path": "Models/uh60.ac",
+      "texture_mapping": {
+        "texture.png": "texture-0.png"
+      },
+      "documents": {
+        "COPYING": "\t\t    GNU GENERAL PUBLIC LICENSE\n\t\t       Version 2, June 1991\n\n Copyright (C) 1989, 1991 Free Software Foundation, Inc.\n                       59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n\t\t\t    Preamble\n\n  The licenses for most software are designed to take away your\nfreedom to share and change it.  By contrast, the GNU General Public\nLicense is intended to guarantee your freedom to share and change free\nsoftware--to make sure the software is free for all its users.  This\nGeneral Public License applies to most of the Free Software\nFoundation's software and to any other program whose authors commit to\nusing it.  (Some other Free Software Foundation software is covered by\nthe GNU Library General Public License instead.)  You can apply it to\nyour programs, too.\n\n  When we speak of free software, we are referring to freedom, not\nprice.  Our General Public Licenses are designed to make sure that you\nhave the freedom to distribute copies of free software (and charge for\nthis service if you wish), that you receive source code or can get it\nif you want it, that you can change the software or use pieces of it\nin new free programs; and that you know you can do these things.\n\n  To protect your rights, we need to make restrictions that forbid\nanyone to deny you these rights or to ask you to surrender the rights.\nThese restrictions translate to certain responsibilities for you if you\ndistribute copies of the software, or if you modify it.\n\n  For example, if you distribute copies of such a program, whether\ngratis or for a fee, you must give the recipients all the rights that\nyou have.  You must make sure that they, too, receive or can get the\nsource code.  And you must show them these terms so they know their\nrights.\n\n  We protect your rights with two steps: (1) copyright the software, and\n(2) offer you this license which gives you legal permission to copy,\ndistribute and/or modify the software.\n\n  Also, for each author's protection and ours, we want to make certain\nthat everyone understands that there is no warranty for this free\nsoftware.  If the software is modified by someone else and passed on, we\nwant its recipients to know that what they have is not the original, so\nthat any problems introduced by others will not reflect on the original\nauthors' reputations.\n\n  Finally, any free program is threatened constantly by software\npatents.  We wish to avoid the danger that redistributors of a free\nprogram will individually obtain patent licenses, in effect making the\nprogram proprietary.  To prevent this, we have made it clear that any\npatent must be licensed for everyone's free use or not licensed at all.\n\n  The precise terms and conditions for copying, distribution and\nmodification follow.\n\f\n\t\t    GNU GENERAL PUBLIC LICENSE\n   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n  0. This License applies to any program or other work which contains\na notice placed by the copyright holder saying it may be distributed\nunder the terms of this General Public License.  The \"Program\", below,\nrefers to any such program or work, and a \"work based on the Program\"\nmeans either the Program or any derivative work under copyright law:\nthat is to say, a work containing the Program or a portion of it,\neither verbatim or with modifications and/or translated into another\nlanguage.  (Hereinafter, translation is included without limitation in\nthe term \"modification\".)  Each licensee is addressed as \"you\".\n\nActivities other than copying, distribution and modification are not\ncovered by this License; they are outside its scope.  The act of\nrunning the Program is not restricted, and the output from the Program\nis covered only if its contents constitute a work based on the\nProgram (independent of having been made by running the Program).\nWhether that is true depends on what the Program does.\n\n  1. You may copy and distribute verbatim copies of the Program's\nsource code as you receive it, in any medium, provided that you\nconspicuously and appropriately publish on each copy an appropriate\ncopyright notice and disclaimer of warranty; keep intact all the\nnotices that refer to this License and to the absence of any warranty;\nand give any other recipients of the Program a copy of this License\nalong with the Program.\n\nYou may charge a fee for the physical act of transferring a copy, and\nyou may at your option offer warranty protection in exchange for a fee.\n\n  2. You may modify your copy or copies of the Program or any portion\nof it, thus forming a work based on the Program, and copy and\ndistribute such modifications or work under the terms of Section 1\nabove, provided that you also meet all of these conditions:\n\n    a) You must cause the modified files to carry prominent notices\n    stating that you changed the files and the date of any change.\n\n    b) You must cause any work that you distribute or publish, that in\n    whole or in part contains or is derived from the Program or any\n    part thereof, to be licensed as a whole at no charge to all third\n    parties under the terms of this License.\n\n    c) If the modified program normally reads commands interactively\n    when run, you must cause it, when started running for such\n    interactive use in the most ordinary way, to print or display an\n    announcement including an appropriate copyright notice and a\n    notice that there is no warranty (or else, saying that you provide\n    a warranty) and that users may redistribute the program under\n    these conditions, and telling the user how to view a copy of this\n    License.  (Exception: if the Program itself is interactive but\n    does not normally print such an announcement, your work based on\n    the Program is not required to print an announcement.)\n\f\nThese requirements apply to the modified work as a whole.  If\nidentifiable sections of that work are not derived from the Program,\nand can be reasonably considered independent and separate works in\nthemselves, then this License, and its terms, do not apply to those\nsections when you distribute them as separate works.  But when you\ndistribute the same sections as part of a whole which is a work based\non the Program, the distribution of the whole must be on the terms of\nthis License, whose permissions for other licensees extend to the\nentire whole, and thus to each and every part regardless of who wrote it.\n\nThus, it is not the intent of this section to claim rights or contest\nyour rights to work written entirely by you; rather, the intent is to\nexercise the right to control the distribution of derivative or\ncollective works based on the Program.\n\nIn addition, mere aggregation of another work not based on the Program\nwith the Program (or with a work based on the Program) on a volume of\na storage or distribution medium does not bring the other work under\nthe scope of this License.\n\n  3. You may copy and distribute the Pr"
+      },
+      "license_status": "reviewed: individual notices plus FlightGear FGAddon GPL distribution policy",
+      "license": "GPL-2.0-or-later",
+      "license_basis": "Individual COPYING/README where present; FlightGear FGAddon GPL policy: https://www.flightgear.org/about/policy/",
+      "modifications": "Studio lighting/materials; simulator FX omitted; neutral paint for F-14; display-pose rotor blades added to AH-64/UH-60",
+      "review_note": "GPL2 COPYING supplied; full upstream notices retained. No F-35 geometry used."
+    },
+    "schematic": false,
+    "visual_origin": "true_3d_render"
+  },
+  {
+    "id": "channel-ident",
+    "video": "assets/video/channel-ident.mp4",
+    "duration": 6,
+    "video_credit": "АРСЕНАЛ 360° · original channel ident"
+  },
+  {
+    "id": "model-f14",
+    "kind": [
+      "motion_graphics"
+    ],
+    "photo": "assets/models/f14/still-object.png",
+    "video": "assets/models/f14/spin.mp4",
+    "display_name": "F14 · РОДИНА ЛІТАКІВ",
+    "duration": 24.0,
+    "visual_origin": "true_3d_render",
+    "photo_credit": "FlightGear contributors · GPL-2.0 · 3D",
+    "video_credit": "FlightGear contributors · GPL-2.0 · 3D",
+    "model_source": "https://github.com/FGMEMBERS/f-14b",
+    "model_credit": "FlightGear contributors · GPL-2.0",
+    "model_metadata": {
+      "id": "f14",
+      "repository": "https://github.com/FGMEMBERS/f-14b",
+      "model_path": "Models/f-14b.ac",
+      "texture_mapping": {
+        "Liveries/side1.nasa.png": "texture-0.png",
+        "Liveries/side2.nasa.png": "texture-1.png",
+        "Liveries/topbottom1.nasa.png": "texture-2.png",
+        "Liveries/topbottom2.nasa.png": "texture-3.png",
+        "f-14b-all-atlas-0.jpg": "texture-4.jpg",
+        "f-14b-all-atlas-trans-0.png": "texture-5.png",
+        "fx.png": "texture-6.png",
+        "tranbg.png": "texture-7.png"
+      },
+      "documents": {
+        "README": "Realistic windtunnel based aerodynamic model of an F-14A and F-14B for FlightGear. See http://zaretto.com/f-14\r\n\r\nModels an F14 with GE-110 or TF-30 engines. TF-30 engines have compressor stall simulated, GE-110 do not.\r\n\r\nLow speed clean should be exactly as an F-14 \r\n\r\nThe aerodata used is from AFWAL-TR-80-3141, Part I and III. See http://zaretto.com/content/f-14-aerodynamic-data-sources\r\nThe windtunnel aerodyanmics are for sweep of 22degrees, positive alpha, clean, low speed \r\nso various data have been extrapolated estimated based on best  available data where \r\nI cannot find specific details for F14 other aero models that I can find (often using NASA\r\nCR-1756 as guidance for general trends) are guidance or starting point for each value.\r\n\r\nThe estimation of negative alpha values follows CR-1756 trends with values based on F14 data for positive values.\r\n\r\nEngine Thrust are based on NASA-TM-104326 tables 4-6 adjusted for altitude and with augmentation figures based on that of the mil thrust.\r\n\r\nThe flaps and auxiliary flaps coefficients are modelled based on tuning to meet F-14AAD-1 as no data\r\nis currently available. The proportions assigned are relative to their surface area (as measured roughly 64% main, 36% aux) \r\n- the values assigned are 0.7 and 0.3 based on this and applies to ClDFM, CdDFM and CMDFM\r\n\r\nrjh@zaretto.com\r\nOctober,2015\r\n"
+      },
+      "license_status": "reviewed: individual notices plus FlightGear FGAddon GPL distribution policy",
+      "license": "GPL-2.0-or-later",
+      "license_basis": "Individual COPYING/README where present; FlightGear FGAddon GPL policy: https://www.flightgear.org/about/policy/",
+      "modifications": "Studio lighting/materials; simulator FX omitted; neutral paint for F-14; display-pose rotor blades added to AH-64/UH-60",
+      "review_note": "GPL2 COPYING supplied; full upstream notices retained. No F-35 geometry used."
+    }
+  },
+  {
+    "id": "model-mig29",
+    "kind": [
+      "motion_graphics"
+    ],
+    "photo": "assets/models/mig29/still-object.png",
+    "video": "assets/models/mig29/spin.mp4",
+    "display_name": "MIG29 · РОДИНА ЛІТАКІВ",
+    "duration": 8.0,
+    "visual_origin": "true_3d_render",
+    "photo_credit": "FlightGear contributors · GPL-2.0 · 3D",
+    "video_credit": "FlightGear contributors · GPL-2.0 · 3D",
+    "model_source": "https://github.com/FGMEMBERS/MiG-29",
+    "model_credit": "FlightGear contributors · GPL-2.0",
+    "model_metadata": {
+      "id": "mig29",
+      "repository": "https://github.com/FGMEMBERS/MiG-29",
+      "model_path": "Models/Mig-29.ac",
+      "texture_mapping": {
+        "Mig-29.rgb": "texture-0.rgb"
+      },
+      "documents": {
+        "COPYING.txt": "\t\t    GNU GENERAL PUBLIC LICENSE\r\n\t\t       Version 2, June 1991\r\n\r\n Copyright (C) 1989, 1991 Free Software Foundation, Inc.\r\n                       59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\r\n Everyone is permitted to copy and distribute verbatim copies\r\n of this license document, but changing it is not allowed.\r\n\r\n\t\t\t    Preamble\r\n\r\n  The licenses for most software are designed to take away your\r\nfreedom to share and change it.  By contrast, the GNU General Public\r\nLicense is intended to guarantee your freedom to share and change free\r\nsoftware--to make sure the software is free for all its users.  This\r\nGeneral Public License applies to most of the Free Software\r\nFoundation's software and to any other program whose authors commit to\r\nusing it.  (Some other Free Software Foundation software is covered by\r\nthe GNU Library General Public License instead.)  You can apply it to\r\nyour programs, too.\r\n\r\n  When we speak of free software, we are referring to freedom, not\r\nprice.  Our General Public Licenses are designed to make sure that you\r\nhave the freedom to distribute copies of free software (and charge for\r\nthis service if you wish), that you receive source code or can get it\r\nif you want it, that you can change the software or use pieces of it\r\nin new free programs; and that you know you can do these things.\r\n\r\n  To protect your rights, we need to make restrictions that forbid\r\nanyone to deny you these rights or to ask you to surrender the rights.\r\nThese restrictions translate to certain responsibilities for you if you\r\ndistribute copies of the software, or if you modify it.\r\n\r\n  For example, if you distribute copies of such a program, whether\r\ngratis or for a fee, you must give the recipients all the rights that\r\nyou have.  You must make sure that they, too, receive or can get the\r\nsource code.  And you must show them these terms so they know their\r\nrights.\r\n\r\n  We protect your rights with two steps: (1) copyright the software, and\r\n(2) offer you this license which gives you legal permission to copy,\r\ndistribute and/or modify the software.\r\n\r\n  Also, for each author's protection and ours, we want to make certain\r\nthat everyone understands that there is no warranty for this free\r\nsoftware.  If the software is modified by someone else and passed on, we\r\nwant its recipients to know that what they have is not the original, so\r\nthat any problems introduced by others will not reflect on the original\r\nauthors' reputations.\r\n\r\n  Finally, any free program is threatened constantly by software\r\npatents.  We wish to avoid the danger that redistributors of a free\r\nprogram will individually obtain patent licenses, in effect making the\r\nprogram proprietary.  To prevent this, we have made it clear that any\r\npatent must be licensed for everyone's free use or not licensed at all.\r\n\r\n  The precise terms and conditions for copying, distribution and\r\nmodification follow.\r\n\f\r\n\t\t    GNU GENERAL PUBLIC LICENSE\r\n   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\r\n\r\n  0. This License applies to any program or other work which contains\r\na notice placed by the copyright holder saying it may be distributed\r\nunder the terms of this General Public License.  The \"Program\", below,\r\nrefers to any such program or work, and a \"work based on the Program\"\r\nmeans either the Program or any derivative work under copyright law:\r\nthat is to say, a work containing the Program or a portion of it,\r\neither verbatim or with modifications and/or translated into another\r\nlanguage.  (Hereinafter, translation is included without limitation in\r\nthe term \"modification\".)  Each licensee is addressed as \"you\".\r\n\r\nActivities other than copying, distribution and modification are not\r\ncovered by this License; they are outside its scope.  The act of\r\nrunning the Program is not restricted, and the output from the Program\r\nis covered only if its contents constitute a work based on the\r\nProgram (independent of having been made by running the Program).\r\nWhether that is true depends on what the Program does.\r\n\r\n  1. You may copy and distribute verbatim copies of the Program's\r\nsource code as you receive it, in any medium, provided that you\r\nconspicuously and appropriately publish on each copy an appropriate\r\ncopyright notice and disclaimer of warranty; keep intact all the\r\nnotices that refer to this License and to the absence of any warranty;\r\nand give any other recipients of the Program a copy of this License\r\nalong with the Program.\r\n\r\nYou may charge a fee for the physical act of transferring a copy, and\r\nyou may at your option offer warranty protection in exchange for a fee.\r\n\r\n  2. You may modify your copy or copies of the Program or any portion\r\nof it, thus forming a work based on the Program, and copy and\r\ndistribute such modifications or work under the terms of Section 1\r\nabove, provided that you also meet all of these conditions:\r\n\r\n    a) You must cause the modified files to carry prominent notices\r\n    stating that you changed the files and the date of any change.\r\n\r\n    b) You must cause any work that you distribute or publish, that in\r\n    whole or in part contains or is derived from the Program or any\r\n    part thereof, to be licensed as a whole at no charge to all third\r\n    parties under the terms of this License.\r\n\r\n    c) If the modified program normally reads commands interactively\r\n    when run, you must cause it, when started running for such\r\n    interactive use in the most ordinary way, to print or display an\r\n    announcement including an appropriate copyright notice and a\r\n    notice that there is no warranty (or else, saying that you provide\r\n    a warranty) and that users may redistribute the program under\r\n    these conditions, and telling the user how to view a copy of this\r\n    License.  (Exception: if the Program itself is interactive but\r\n    does not normally print such an announcement, your work based on\r\n    the Program is not required to print an announcement.)\r\n\f\r\nThese requirements apply to the modified work as a whole.  If\r\nidentifiable sections of that work are not derived from the Program,\r\nand can be reasonably considered independent and separate works in\r\nthemselves, then this License, and its terms, do not apply to those\r\nsections when you distribute them as separate works.  But when you\r\ndistribute the same sections as part of a whole which is a work based\r\non the Program, the distribution of the whole must be on the terms of\r\nthis License, whose permissions for other licensees extend to the\r\nentire whole, and thus to each and every part regardless of who wrote it.\r\n\r\nThus, it is not the intent of this section to claim rights or contest\r\nyour rights to work written entirely by you; rather, the intent is to\r\nexercise the right to control the distribution of derivative or\r\ncollective works based on the Program.\r\n\r\nIn addition, mere aggregation of another work not based on the Program\r\nwith the Program (or with a work based on the Program) on a volume of\r\na stor",
+        "README.txt": "MiG-29 9-12 Fulcrum-A Notes\r\n---------------------------\r\n\r\nFirst let me state up front that I am not a pilot, nor do I have any special knowledge of the MiG-29 other than intensively studying everything I could find under Google. I cannot model a real MiG-29, I simply lack the information and expertise. This simulation was created using publicly available information. It contains no proprietary or restricted data, is not endorsed by any manufacturer, and is meant for entertainment purposes only. This model is being distributed under the GNU GENERAL PUBLIC LICENSE Version 2. If you like something, grab it and use it.\r\n\r\nI had two goals: One was to take the underdeveloped Flightgear MiG-29 and make something fun to fly. That MiG had no cockpit and no flight surface animations. It was a very good start on a model, but not much fun to fly. It seemed to me that the MiG-29 of all planes should be fun to fly for someone with a little experience, so I started playing around with it. My second goal was to learn to build an FG plane from the ground up.\r\n\r\nThere are many variants of the MiG-29 and I had to pick one. I chose the original form, the one the MiG design bureau calls the '9-12' and NATO labeled the 'Fulcrum A'. I did so because it is the type from which the others are descended, and because it is the simplest, especially in cockpit details.\r\n\r\nThis plane is not meant to be hard to fly. In fact, in my readings I discovered that real pilots find it relatively easy to fly and generally well-behaved for a high-performance aircraft. In Flightgear it is not as twitchy as the Su-37, but is enjoyable, fast (for those who like fast), and responsive. It cannot yet do some of the high angle-of-attack flight which the real plane is noted for (or maybe it can for better virtual pilots), but as I refine the Flight Data Model, that should improve. My FDM is intended to be initially conservative.\r\n\r\nThe model has two noted quirks, one is real and one is based on the current FDM. First, the MiG-29 is notorious for short legs. It was meant as a front line air superiority fighter, and as such carries a modest fuel load. Launch, kill, and come home, like a short-winged falcon. Second, when taking off especially with the burners lit, the nose will want to come up hard. Be prepared with a little down-elevator.\r\n\r\nThe plane is still being physically modeled, and until I am totally happy with the external details it would be a waste of time to deal with texture mapping and liveries. So for a while you will find texture problems or even whole sections with no texture. When the modeling is finished, I'll texture map the plane to use the MP livery system.\r\n\r\nThe instruments and controls are marked in English rather than Russian. I feel the plane really should be done with cyrillic markings, but my Russian isn't up to it and I don't yet have enough clear illustrations to draw from. So I'm forced to default to English. If someone has an interest in helping me make a true Russian version, I'd like to pursue that. Also, given that I know so little about the flight characteristics, if someone has information that could help improve the flight model, I would be delighted to work with you.\r\n\r\nAnd now a few detailed notes...\r\n\r\n\r\nAfterburners\r\n------------\r\n\r\nReheat currently engages at 90% throttle. You'll see two green right-side annunciator lights come on when the afterburners cut in. Watch your fuel closely when the burners are lit. If you want to enjoy a long flight, stay off the afterburners. Reheat will blow through your fuel in a few minutes. \r\n\r\nI don't know when the real MiG's burner's cut in, but it's probably around 70-90% throttle. I went conservative because of the fuel issue, and at some later time I may allow this to be a configurable setting so pilots can make their own choice. Also I believe the real plane has switches that enable the burners, somewhere on the throttle, but I don't know which control does it. At some point I may build in such a switch or have it on a menu somewhere.\r\n\r\nCockpit\r\n-------\r\n\r\nThe model's cockpit is currently very crude but most instruments are there and are closely positioned to the real thing. There's no texturing or model refining at this point-- my main goal was to get flight instruments up first. I'll be upgrading the cockpit's appearance as time and interest allows.\r\n\r\nThe original MiG-29 cockpit is somewhat basic by western standards, but there is a wisdom in that. The cockpit is very similar in layout to earlier Russian aircraft, making it easy for experienced pilots to transition to the later plane. A pilot familiar with the MiG-23 would be almost at home in the MiG-29.\r\n\r\nFlight Surfaces\r\n---------------\r\n\r\nYou've got the usual suspects: ailerons, flaps, rudders, elevons, slats, air brake. I don't know how many flap positions there are, so the model has five at 0, 16, 32, 64, 100%. Similarly I lack information on slat positions, though they may be automated in the real aircraft. I've given them 4 positions. Deploy slats to reduce stalling at high angles of attack at the expense of added drag. The airbrake also has 4 positions. Based on accounts of the real aircraft I suspect the elevator does not give enough flight response and the ailerons may give too much, at least in terms of initial roll accelleration, so those are subject to later tweaking.\r\n\r\nYou may notice that the ailerons appear to be fixed in a slightly up position. This is not an error. The Mig-29 ailerons have a fixed 5 degree up neutral position, something related to better spin characteristics. You can see this if you look closely in some photographs of the plane at rest.\r\n\r\nInstruments\r\n-----------\r\n\r\nFuel Display:\r\n\r\nThe fuel display looks much like the real thing, but does not function like the real thing. I've studied many photos of the real instrument and to my annoyance I still don't understand exactly how the dang thing reports data. So I've compromised by building the instrument close to the real appearance and adopting my own temporary scheme for its function. The buttons select tanks 1-4, where 1 is the forward fuselage tank, 2 is the aft tank, 3 left wing, 4 right wing. The center tape display then reports the remaining fuel in that tank. The right side scale reports total fuel. It gets the job done. If someone knows exactly how the fuel gauge works, I would be happy to model it.\r\n\r\nIn the real machine, the 'buttons' are not buttons at all, but indicator lamps that light up when a tank goes empty. There are small orange triangular indicators that appear to lead from the indicator lamps to the primary fuel scale, and these might be animated, somehow indicating the tank's remaining fuel, but I've yet to make sense of it. The main scale shows total fuel, I think, and the right-hand scale...well, I'm not sure, possibly external fuel when present. There is also a right-side annunciator light that goes red when the aircraft is down to emergency fuel, however that is defined. "
+      },
+      "license_status": "reviewed: individual notices plus FlightGear FGAddon GPL distribution policy",
+      "license": "GPL-2.0-or-later",
+      "license_basis": "Individual COPYING/README where present; FlightGear FGAddon GPL policy: https://www.flightgear.org/about/policy/",
+      "modifications": "Studio lighting/materials; simulator FX omitted; neutral paint for F-14; display-pose rotor blades added to AH-64/UH-60",
+      "review_note": "GPL2 COPYING supplied; full upstream notices retained. No F-35 geometry used."
+    }
+  },
+  {
+    "id": "model-m4",
+    "kind": [
+      "motion_graphics"
+    ],
+    "photo": "assets/models/m4/still-object.png",
+    "video": "assets/models/m4/spin.mp4",
+    "duration": 24,
+    "display_name": "M4A1 · РОДИНА ГВИНТІВОК",
+    "visual_origin": "true_3d_render",
+    "model_source": "https://opengameart.org/content/m4a1-assault-rifle",
+    "model_metadata": {
+      "repository": "https://opengameart.org/content/m4a1-assault-rifle",
+      "creator": "nisu / 3dmodelscc0.com",
+      "license": "CC0",
+      "modifications": "Native 30fps neutral studio render of original exterior geometry"
+    },
+    "model_credit": "nisu / 3dmodelscc0.com · CC0",
+    "photo_credit": "nisu · CC0 · 3D",
+    "video_credit": "nisu · CC0 · 3D"
+  },
+  {
+    "id": "map-region",
+    "kind": [
+      "motion_graphics"
+    ],
+    "video": "assets/maps/map-region.mp4",
+    "duration": 24.0,
+    "display_name": "БЛИЗЬКИЙ СХІД",
+    "video_source": "https://registry.opendata.aws/terrain-tiles/",
+    "video_credit": "Natural Earth / Mapzen / USGS",
+    "video_metadata": {
+      "license": "Natural Earth Public domain; source-dependent elevation attribution retained in assets/maps/map-sources.json",
+      "source": "https://github.com/tilezen/joerd/blob/master/docs/attribution.md",
+      "modifications": "Real elevation mesh, camera animation, vertical exaggeration ×8, original geographic labels"
+    }
+  },
+  {
+    "id": "map-navy",
+    "kind": [
+      "motion_graphics"
+    ],
+    "video": "assets/maps/map-navy.mp4",
+    "duration": 18.0,
+    "display_name": "БЛИЗЬКИЙ СХІД",
+    "video_source": "https://registry.opendata.aws/terrain-tiles/",
+    "video_credit": "Natural Earth / Mapzen / USGS",
+    "video_metadata": {
+      "license": "Natural Earth Public domain; source-dependent elevation attribution retained in assets/maps/map-sources.json",
+      "source": "https://github.com/tilezen/joerd/blob/master/docs/attribution.md",
+      "modifications": "Real elevation mesh, camera animation, vertical exaggeration ×8, original geographic labels"
+    }
+  },
+  {
+    "id": "iron-intercepts",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/iron-intercepts.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:%D7%9E%D7%92%D7%9F_%D7%95%D7%97%D7%A5,_%D7%99%D7%99%D7%A8%D7%95%D7%98%D7%99_%D7%9B%D7%99%D7%A4%D7%AA_%D7%91%D7%A8%D7%96%D7%9C.webm",
+    "video_credit": "IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:מגן וחץ, יירוטי כיפת ברזל.webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit photographer",
+      "description": "יירוטי כיפת ברזל במהלך מבצע ＂מגן וחץ＂",
+      "source_date": "2023-05-13 00:00",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/%D7%9E%D7%92%D7%9F_%D7%95%D7%97%D7%A5%2C_%D7%99%D7%99%D7%A8%D7%95%D7%98%D7%99_%D7%9B%D7%99%D7%A4%D7%AA_%D7%91%D7%A8%D7%96%D7%9C.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_source_in": 0
+    },
+    "duration": 14.566667,
+    "display_name": "iron-intercepts"
+  },
+  {
+    "id": "iron-intercepts2",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/iron-intercepts2.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:%D7%9E%D7%92%D7%9F_%D7%95%D7%97%D7%A5,_%D7%AA%D7%99%D7%A2%D7%95%D7%93_%D7%99%D7%99%D7%A8%D7%95%D7%98%D7%99_%D7%A8%D7%A7%D7%98%D7%95%D7%AA_%D7%A9%D7%9C_%D7%90%D7%A8%D7%92%D7%95%D7%9F_%D7%94%D7%98%D7%A8%D7%95%D7%A8_%D7%92%D7%90%D7%A4_%D7%A2%D7%99_%D7%9B%D7%99%D7%A4%D7%AA_%D7%91%D7%A8%D7%96%D7%9C.webm",
+    "video_credit": "IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:מגן וחץ, תיעוד יירוטי רקטות של ארגון הטרור גאפ עי כיפת ברזל.webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit photographer",
+      "description": "מגן וחץ, תיעוד יירוטי רקטות של ארגון הטרור גאפ עי כיפת ברזל",
+      "source_date": "2023-05-10",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%D7%9E%D7%92%D7%9F_%D7%95%D7%97%D7%A5%2C_%D7%AA%D7%99%D7%A2%D7%95%D7%93_%D7%99%D7%99%D7%A8%D7%95%D7%98%D7%99_%D7%A8%D7%A7%D7%98%D7%95%D7%AA_%D7%A9%D7%9C_%D7%90%D7%A8%D7%92%D7%95%D7%9F_%D7%94%D7%98%D7%A8%D7%95%D7%A8_%D7%92%D7%90%D7%A4_%D7%A2%D7%99_%D7%9B%D7%99%D7%A4%D7%AA_%D7%91%D7%A8%D7%96%D7%9C.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_source_in": 0
+    },
+    "duration": 16.8,
+    "display_name": "iron-intercepts2"
+  },
+  {
+    "id": "iron-system",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/iron-system.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Channel2_-_Iron_dome.webm",
+    "video_credit": "Israeli News Company · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:Channel2 - Iron dome.webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Israeli News Company",
+      "description": "iron_dome",
+      "source_date": "2016-02-17",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Channel2_-_Iron_dome.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_source_in": 0
+    },
+    "duration": 90.0,
+    "display_name": "iron-system"
+  },
+  {
+    "id": "arrow-test",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/arrow-test.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Arrow_2_Missile_experiment_2020_4.webm",
+    "video_credit": "IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:Arrow 2 Missile experiment 2020 4.webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit photographer",
+      "description": "כך נראה ניסוי היירוט של מערכת \"חץ\"",
+      "source_date": "Taken on 13 August 2020",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Arrow_2_Missile_experiment_2020_4.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_source_in": 0
+    },
+    "duration": 90.0,
+    "display_name": "arrow-test"
+  },
+  {
+    "id": "david-test",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/david-test.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:David%E2%80%99s_Sling_-_DST-5_Flight_Test_Video.ogv",
+    "video_credit": "Heather Heard · Public domain",
+    "video_metadata": {
+      "file": "File:David’s Sling - DST-5 Flight Test Video.ogv",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Heather Heard",
+      "description": "The Israel Missile Defense Organization (IMDO) of the Directorate of Defense Research and Development (DDR&D) and the U.S. Missile Defense Agency (MDA) successfully completed a test series of the David’s Sling Weapons System, a missile defense system that is a central part of Israel’s multi-layer anti-missile array. This test series, designated David’s Sling Test-5 (DST-5) was the fifth series of tests of the David’s Sling Weapon System. This test series was conducted at Yanat Sea Range, operated out of Palmachim Air Base, Israel.",
+      "source_date": "2017-01-25",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/David%E2%80%99s_Sling_-_DST-5_Flight_Test_Video.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_source_in": 0
+    },
+    "duration": 100.0,
+    "display_name": "david-test"
+  },
+  {
+    "id": "david-test2",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/david-test2.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:David%27s_Sling_-_Missile_Defense_Agency_-_DST-4_Flight_Test.ogv",
+    "video_credit": "Leah Garton · Public domain",
+    "video_metadata": {
+      "file": "File:David's Sling - Missile Defense Agency - DST-4 Flight Test.ogv",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Leah Garton",
+      "description": "The Israel Missile Defense Organization (IMDO) of the Directorate of Defense Research and Development (DDR&D) and the U.S. Missile Defense Agency (MDA) successfully completed a series of tests of the David's Sling Weapon System. This test series, designated David's Sling Test-4 (DST-4), was the fourth series of tests of the David's Sling Weapon System and the final milestone before declaring delivery of an operational system to the Israeli Air Force in 2016. See www.mda.mil for more information.",
+      "source_date": "2015-12-21",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/David%27s_Sling_-_Missile_Defense_Agency_-_DST-4_Flight_Test.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_source_in": 0
+    },
+    "duration": 80.0,
+    "display_name": "david-test2"
+  },
+  {
+    "id": "f35i-action",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/f35i-action.mp4",
+    "video_source": "https://www.dvidshub.net/video/871566",
+    "video_credit": "DVIDS / 871566 · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2301/DOD_109424025/DOD_109424025.mp4",
+      "title": "DVIDS - Video - Israeli Air Force F-35I Adirs take off from Nevatim Airbase during Juniper Oak 2023",
+      "description": ""
+    },
+    "duration": 37.566667,
+    "display_name": "DVIDS - Video - Israeli Air Force F-35I Adirs take off from Nevatim Airbase during Juniper Oak 2023"
+  },
+  {
+    "id": "ironbeam",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/prepared/ironbeam-detail.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Or_Eitan_-_Iron_Beam_01.jpg",
+    "photo_credit": "Spokesperson and Public Relations Division of the Ministry of Defense of Israel photographer · CC BY-SA 4.0",
+    "photo_metadata": {
+      "file": "File:Or Eitan - Iron Beam 01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Spokesperson and Public Relations Division of the Ministry of Defense of Israel photographer",
+      "description": "Or Eitan (Iron Beam / Laser Dome) - Israeli Laser Air Defense System, 2025",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Or_Eitan_-_Iron_Beam_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "Crop to physical laser equipment; original credit and logos preserved in source copy, on-screen/source-document attribution retained"
+    },
+    "display_name": "IRON BEAM",
+    "original_photo": "assets/photos/ironbeam.jpg"
+  },
+  {
+    "id": "toufan",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/prepared/toufan-clean.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Delivery_of_Toufan_I_attack_helicopters_to_IRIAA_(10).jpg",
+    "photo_credit": "Vahid Reza Alaei / Fars News Agency · CC BY 4.0",
+    "photo_metadata": {
+      "file": "File:Delivery of Toufan I attack helicopters to IRIAA (10).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Vahid Reza Alaei",
+      "description": "This photo is from the delivery of ten Toufan I helicopters to Islamic Republic of Iran Army Aviation (IRIAA) on May 2 2010.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Delivery_of_Toufan_I_attack_helicopters_to_IRIAA_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "Crop to helicopter; photographer/agency credit retained in source record and film attribution"
+    },
+    "display_name": "TOUFAN",
+    "original_photo": "assets/photos/toufan.jpg"
+  },
+  {
+    "id": "fatehsub",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/fatehsub.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Opening_naval_review_of_Velayat_97_(33).jpg",
+    "photo_credit": "Hossein Zohrevand · CC BY 4.0",
+    "photo_metadata": {
+      "file": "File:Opening_naval_review_of_Velayat_97_(33).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hossein Zohrevand",
+      "description": "رزمایش دریایی ولایت ٩٧ با رژه بزرگ یگان های سطحی، زیرسطحی و پروازی نیروی دریایی ارتش در منطقه مکران آغاز شد.این رزمایش به مدت ۳ روز از صبح امروز با انجام رژه دریایی انواع شناورهای سطحی و زیر سطحی و یگان‌های پروازی این نیرو در دریای عمان آغاز شد.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Opening_naval_review_of_Velayat_97_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "display_name": "FATEH · ПІДВОДНИЙ ЧОВЕН"
+  },
+  {
+    "id": "alvand",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/alvand.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Naval_review_of_Zolfaghar_1400_(22).jpg",
+    "photo_credit": "Hamid Vakili · CC BY 4.0",
+    "photo_metadata": {
+      "file": "File:Naval_review_of_Zolfaghar_1400_(22).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hamid Vakili",
+      "description": "رزمایش مشترک ذوالفقار ۱۴۰۰ ارتش با برگزاری رژه شناورهای سطحی و زیرسطحی از جمله ناوشکن ایرانی «دنا»، به کار خود پایان داد. در این مراسم انواع ناوشکن‌ها، ناوهای موشک‌انداز، ناوهای نیروبر و زیردریایی‌های کلاس طارق و قدیر، از مقابل ناوشکن سرفرماندهی سهند رژه رفتند. جنگنده‌های اف ۴، میراژ و هواپیماهای شناسایی نیروی هوایی ارتش و انواع بالگردهای نیروی دریایی ارتش، یگان‌های حاضر در این رژه را همراهی کردند. این رزمایش با اجرای تمرینات و سناریوهای نظامی مختلف، در منطقه عملیاتی‌ای با وسعت بیش از یک میلیون متر مربع در سواحل مکران برگزار شد.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Naval_review_of_Zolfaghar_1400_%2822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "display_name": "ALVAND"
+  },
+  {
+    "id": "khordad3",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/khordad3.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:3_Khordad_2019_expo.jpg",
+    "photo_credit": "Mohsen Ranginkaman · CC BY 4.0",
+    "photo_metadata": {
+      "file": "File:3_Khordad_2019_expo.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Mohsen Ranginkaman",
+      "description": "The specific 3rd Khordad TELAR that shot down an American RQ-4 drone, with kill marking on side. at IRGC 2019 drone showcase \"Hunting Vultures.\"",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/3_Khordad_2019_expo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "display_name": "3RD KHORDAD"
+  },
+  {
+    "id": "iran-ballistic",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/iran-ballistic.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Fars_News_-_Launch_of_missiles_buried_deep_into_the_ground_by_the_IRGCASF_as_part_of_the_Great_Prophet_XIV_exercise.webm",
+    "video_credit": "Fars News Agency · CC BY 4.0",
+    "video_metadata": {
+      "file": "File:Fars News - Launch of missiles buried deep into the ground by the IRGCASF as part of the Great Prophet XIV exercise.webm",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Fars News Agency",
+      "description": "به گزارش خبرنگار دفاعی خبرگزاری فارس، در دومین روز از مرحله نهایی رزمایش پیامبر اعظم ۱۴ که در خلیج فارس و غرب تنگه هرمز برگزار شده است، یکی از دستاوردهای مهم و راهبردی نیروی هوافضای سپاه که شلیک موشک‌های بالستیک از اعماق زمین به صورت استتار شده است رونمایی شد.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Fars_News_-_Launch_of_missiles_buried_deep_into_the_ground_by_the_IRGCASF_as_part_of_the_Great_Prophet_XIV_exercise.webm",
+      "original_source_in": 0
+    },
+    "duration": 37.3,
+    "display_name": "iran-ballistic"
+  },
+  {
+    "id": "iran-ghader",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/iran-ghader.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Tasnim_News_Agency_-_Launch_of_Ghader_AShM_by_Iranian_Navy_in_Zolfaghar_99_exercise.webm",
+    "video_credit": "Tasnim News Agency · CC BY 4.0",
+    "video_metadata": {
+      "file": "File:Tasnim News Agency - Launch of Ghader AShM by Iranian Navy in Zolfaghar 99 exercise.webm",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Tasnim News Agency",
+      "description": "شلیک موشک قادر در رزمایش ذوالفقار ۹۹ ارتش",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tasnim_News_Agency_-_Launch_of_Ghader_AShM_by_Iranian_Navy_in_Zolfaghar_99_exercise.webm",
+      "original_source_in": 0
+    },
+    "duration": 65.0,
+    "display_name": "iran-ghader"
+  },
+  {
+    "id": "iran-sam",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/iran-sam.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Iranian_SAM_systems.webm",
+    "video_credit": "Fars News Agency · CC BY 4.0",
+    "video_metadata": {
+      "file": "File:Iranian SAM systems.webm",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Fars News Agency",
+      "description": "Testing of various Iranian SAM systems, including Mersad system, at Iran's \"Velayat 97\" IRGC/Army air defense exercise.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Iranian_SAM_systems.webm",
+      "original_source_in": 0
+    },
+    "duration": 85.666667,
+    "display_name": "iran-sam"
+  },
+  {
+    "id": "conflict2024",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/conflict2024.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Video_of_Iranian_missile_interceptions_over_israel_(2024).webm",
+    "video_credit": "myself · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:Video of Iranian missile interceptions over israel (2024).webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "myself",
+      "description": "Video of Iranian missile interceptions over israel (2024)",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Video_of_Iranian_missile_interceptions_over_israel_%282024%29.webm",
+      "original_source_in": 0
+    },
+    "duration": 10.433333,
+    "display_name": "conflict2024"
+  },
+  {
+    "id": "conflict2024b",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/conflict2024b.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:October_2024_Iranian_strikes_against_Israel,_video_were_taken_in_the_Lower_Galilee_towards_the_east_1.webm",
+    "video_credit": "Hanay · CC BY-SA 4.0",
+    "video_metadata": {
+      "file": "File:October 2024 Iranian strikes against Israel, video were taken in the Lower Galilee towards the east 1.webm",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Hanay",
+      "description": "The Iranian attack on Israel was an extensive missile attack carried out by Iran from its territory against Israel on the evening of October 1, 2024, and included 181 ballistic missiles. In an extensive defense operation, the IDF with the help of a coalition of countries led by the United States intercepted most of the threats, but injuries were observed. A Palestinian from Gaza who was staying in Jericho was killed in the attack. The video was taken in a settlement in the Lower Galilee, an observation high in the sky towards the east",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/October_2024_Iranian_strikes_against_Israel%2C_video_were_taken_in_the_Lower_Galilee_towards_the_east_1.webm",
+      "original_source_in": 0
+    },
+    "duration": 16.966667,
+    "display_name": "conflict2024b"
+  },
+  {
+    "id": "m109-action",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/m109-action.mp4",
+    "video_source": "https://www.dvidshub.net/video/825964",
+    "video_credit": "DVIDS / 825964 · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2112/DOD_108733447/DOD_108733447.mp4",
+      "title": "DVIDS - Video - B-roll: BattleKings Battalion fire modernized M109A7 Paladin howitzers B-roll",
+      "description": ""
+    },
+    "duration": 90.0,
+    "display_name": "DVIDS - Video - B-roll: BattleKings Battalion fire modernized M109A7 Paladin howitzers B-roll"
+  },
+  {
+    "id": "apache-demo",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/apache-demo.mp4",
+    "video_source": "https://www.dvidshub.net/video/834686",
+    "video_credit": "DVIDS / 834686 · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2203/DOD_108859517/DOD_108859517.mp4",
+      "title": "DVIDS - Video - AH-64 Apache",
+      "description": ""
+    },
+    "duration": 70.0,
+    "display_name": "DVIDS - Video - AH-64 Apache"
+  },
+  {
+    "id": "idf-infantry",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/idf-infantry.mp4",
+    "video_source": "https://www.dvidshub.net/video/665288",
+    "video_credit": "DVIDS / 665288 · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/1903/DOD_106535525/DOD_106535525-1024x576-1769k.mp4",
+      "title": "DVIDS - Video - Israeli, U.S. paratroopers train together",
+      "description": ""
+    },
+    "duration": 110.0,
+    "display_name": "DVIDS - Video - Israeli, U.S. paratroopers train together"
+  },
+  {
+    "id": "idf-field",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/idf-field.mp4",
+    "video_source": "https://www.dvidshub.net/video/588559",
+    "video_credit": "DVIDS / 588559 · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/1803/DOD_105387820/DOD_105387820-1024x576-1769k.mp4",
+      "title": "DVIDS - Video - U.S. Army, IDF soldiers conduct Krav Maga training for Juniper Cobra 2018",
+      "description": ""
+    },
+    "duration": 65.0,
+    "display_name": "DVIDS - Video - U.S. Army, IDF soldiers conduct Krav Maga training for Juniper Cobra 2018"
+  },
+  {
+    "id": "f35i-arrival",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/f35i-arrival.mp4",
+    "video_source": "https://www.dvidshub.net/video/499609",
+    "video_credit": "DVIDS / 499609 · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/1612/DOD_103934512/DOD_103934512-1024x576-1769k.mp4",
+      "title": "DVIDS - Video - Secretary of Defense Ashton Carter Welcomes First Israeli F-35 “Adir” Fighters",
+      "description": ""
+    },
+    "duration": 90.0,
+    "display_name": "DVIDS - Video - Secretary of Defense Ashton Carter Welcomes First Israeli F-35 “Adir” Fighters"
+  },
+  {
+    "id": "f16i-action",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/f16i-action.mp4",
+    "video_source": "https://www.dvidshub.net/video/298426",
+    "video_credit": "DVIDS / 298426 · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/1308/DOD_100882650/DOD_100882650-720x406-800k.mp4",
+      "title": "DVIDS - Video - Juniper Stallion 2013",
+      "description": ""
+    },
+    "duration": 65.0,
+    "display_name": "DVIDS - Video - Juniper Stallion 2013"
+  },
+  {
+    "id": "cobra",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/cobra.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IRIAA_Bell_AH-1J_International_Cobra_(3-4567)_flying_over_Tehran_in_2022.jpg",
+    "photo_credit": "Shahram Sharifi · GFDL 1.2",
+    "display_name": "AH-1J COBRA",
+    "photo_metadata": {
+      "file": "File:IRIAA Bell AH-1J International Cobra (3-4567) flying over Tehran in 2022.jpg",
+      "license": "GFDL 1.2",
+      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "artist": "Shahram Sharifi",
+      "permission": "This file comes from the Shahram Sharifi collection and is copyrighted.Note: This permission only extends to photos taken by Shahram Sharifi at this link, in addition to files which may be provided via email. It does not include any other content from the above sites which has not been provided by Shahram Sharifi.\n\n\n\n\nPermission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 only as published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.\n\n1.2 onlyhttp://www.gnu.org/licenses/old-licenses/fdl-1.2.htmlGFDL 1.2GNU Free Documentation License 1.2truetrue\n\n \n\n.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}This work is free and may be used by anyone for any purpose. If you wish to use this content, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\nThe Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been reviewed by a Volunteer Response Team (VRT) member and stored in our permission archive. The correspondence is available to trusted volunteers as ticket #2011102410000165.\nIf you have questions about the archived correspondence, please use the VRT noticeboard.\nTicket link: https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2011102410000165\nFind other files from the same ticket:",
+      "description": "Iranian army aviation's Bell AH-1J International (Reg.: 3-4567), Islamic Republic of Iran Army Day 2022",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/IRIAA_Bell_AH-1J_International_Cobra_%283-4567%29_flying_over_Tehran_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  {
+    "id": "zelzal",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/zelzal.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:2019_Sacred_Defence_Week_parade_(329).jpg",
+    "photo_credit": "Mahdi Afrakhteh / Student News Agency · Attribution",
+    "display_name": "ZELZAL-2",
+    "photo_metadata": {
+      "file": "File:2019 Sacred Defence Week parade (329).jpg",
+      "license": "Attribution",
+      "license_url": "",
+      "artist": "Mahdi Afrakhteh",
+      "permission": "تمام حقوق مادی و معنوی این سایت متعلق به خبرگزاری دانشجو است و استفاده از مطالب با ذکر منبع بلامانع است.",
+      "description": "This photo is from Iran's 2019 Sacred Defense Parade, held at the mausoleum of Imam Khomeini south of Tehran.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2019_Sacred_Defence_Week_parade_%28329%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  {
+    "id": "atmos",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/prepared/atmos.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Atmos_romania.jpg",
+    "photo_credit": "Rowielip · GFDL",
+    "display_name": "ATMOS 2000 · ПЛАТФОРМА ATROM",
+    "photo_metadata": {
+      "file": "File:Atmos romania.jpg",
+      "license": "GFDL",
+      "license_url": "http://www.gnu.org/copyleft/fdl.html",
+      "artist": "Rowielip",
+      "permission": "Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue",
+      "description": "ATMOS 2000 (Autonomous Truck MOunted howitzer System) 155 mm/52 calibre self-propelled howitzer of Romanian military",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Atmos_romania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "display_context": "Romanian ATROM variant of the Israeli ATMOS system; shown as family/platform reference",
+      "modifications": "Reviewed background segmentation; original barrel, wheels and exterior retained; Romanian ATROM family reference, no watermark"
+    },
+    "original_photo": "assets/photos/atmos-clean.jpg"
+  },
+  {
+    "id": "merkava-action",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/merkava-action.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Gdud-74-Saar-2021-10-11-pic05.webm",
+    "video_credit": "IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:Gdud-74-Saar-2021-10-11-pic05.webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit photographer",
+      "description": "Merkava Mk 4M 400 of 74th Battalion of the 188th Barak Armored Brigade, Israel Defense Forces",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Gdud-74-Saar-2021-10-11-pic05.webm",
+      "original_source_in": 0
+    },
+    "duration": 100.0,
+    "display_name": "merkava-action"
+  },
+  {
+    "id": "idf-ready",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/idf-ready.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:IDF_2024-04-14_06-02.webm",
+    "video_credit": "IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:IDF 2024-04-14 06-02.webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit photographer",
+      "description": "IDF: The vast majority of missiles launched from Iran were intercepted outside of the State of Israel's borders\nA short while ago, dozens of surface-to-surface missile launches from Iran were identified approaching Israeli territory. The IDF Aerial Defense Array successfully intercepted the majority of the launches using the \"Arrow\" Aerial Defense System, together with Israel's strategic allies, before the launches crossed into Israeli territory. A small number of hits were identified, including at an IDF base in southern Israel, where minor damage was caused to infrastructure.\nOver the past few hours, many dozens of hostile aircraft, as well as dozens of cruise missiles, from Iran were identified approaching Israeli territory and intercepted. Dozens of IAF fighter jets are currently operating to intercept all aerial threats approaching Israeli territory.\nThe IDF is deployed on all fronts, prepared, and continuing to defend Israeli territory.\nAttached is footage of the activities of the Israeli Air Force Operations Center from the last few hours: https://videoidf.azureedge.net/2666db91-e364-4c90-a59e-4eb623bffc35\n\nAttached is footage of the readiness of the Israeli Air Force from the last few weeks: https://videoidf.azureedge.net/a78ebc2b-164d-4afe-844b-6f5f818144c4",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/IDF_2024-04-14_06-02.webm",
+      "original_source_in": 0
+    },
+    "duration": 61.0,
+    "display_name": "idf-ready"
+  },
+  {
+    "id": "idf-ops",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/idf-ops.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:IDF_2024-04-14_06-01.webm",
+    "video_credit": "IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:IDF 2024-04-14 06-01.webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit photographer",
+      "description": "IDF: The vast majority of missiles launched from Iran were intercepted outside of the State of Israel's borders\nA short while ago, dozens of surface-to-surface missile launches from Iran were identified approaching Israeli territory. The IDF Aerial Defense Array successfully intercepted the majority of the launches using the \"Arrow\" Aerial Defense System, together with Israel's strategic allies, before the launches crossed into Israeli territory. A small number of hits were identified, including at an IDF base in southern Israel, where minor damage was caused to infrastructure.\nOver the past few hours, many dozens of hostile aircraft, as well as dozens of cruise missiles, from Iran were identified approaching Israeli territory and intercepted. Dozens of IAF fighter jets are currently operating to intercept all aerial threats approaching Israeli territory.\nThe IDF is deployed on all fronts, prepared, and continuing to defend Israeli territory.\nAttached is footage of the activities of the Israeli Air Force Operations Center from the last few hours: https://videoidf.azureedge.net/2666db91-e364-4c90-a59e-4eb623bffc35\n\nAttached is footage of the readiness of the Israeli Air Force from the last few weeks: https://videoidf.azureedge.net/a78ebc2b-164d-4afe-844b-6f5f818144c4",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/IDF_2024-04-14_06-01.webm",
+      "original_source_in": 0
+    },
+    "duration": 30.6,
+    "display_name": "idf-ops"
+  },
+  {
+    "id": "idf-intercept",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/idf-intercept.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:IDF_2024-04-14_08-01.webm",
+    "video_credit": "IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:IDF 2024-04-14 08-01.webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit photographer",
+      "description": "IDF: The Chief of the General Staff, LTG Herzi Halevi, is currently conducting a situational assessment at the Israeli Air Force Operations Center in the Kirya with the Commanding Officer of the Israeli Air Force, the Commanding Officer of the Operations Directorate, and the Commanding Officer of the Intelligence Directorate. During the situational assessment, the defensive and offensive activity of the last few hours were presented, as well as plans for the continuation.\nAttached is a related video: https://videoidf.azureedge.net/057c1aac-da48-4fb1-a4d1-a37c85a870ad\n\nAttached are related photos: https://IDFANC.activetrail.biz/ANC140420",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/IDF_2024-04-14_08-01.webm",
+      "original_source_in": 0
+    },
+    "duration": 21.0,
+    "display_name": "idf-intercept"
+  },
+  {
+    "id": "idf-drone",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/idf-drone.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:IDF_unmanned_combat_aerial_vehicle_during_Operation_Breaking_Dawn.webm",
+    "video_credit": "כתיבה: רוני מינצנט, נועם אמיר, ינון שלום יתח. קריינות ועריכה: נדב קגן / IDF Spokesperson's Unit photographer · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:IDF unmanned combat aerial vehicle during Operation Breaking Dawn.webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "כתיבה: רוני מינצנט, נועם אמיר, ינון שלום יתח. קריינות ועריכה: נדב קגן / IDF Spokesperson's Unit photographer",
+      "description": "פעילות מערך הכטמ\"ם במבצע \"עלות השחר\"",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/IDF_unmanned_combat_aerial_vehicle_during_Operation_Breaking_Dawn.webm",
+      "original_source_in": 0
+    },
+    "duration": 100.0,
+    "display_name": "idf-drone"
+  },
+  {
+    "id": "israel-navy-action",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/israel-navy-action.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Israeli_Navy_activity_during_Operation_Guardian_of_the_Walls,_May_2021._I.webm",
+    "video_credit": "IDF Spokesperson's Unit · CC BY-SA 3.0",
+    "video_metadata": {
+      "file": "File:Israeli Navy activity during Operation Guardian of the Walls, May 2021. I.webm",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "IDF Spokesperson's Unit",
+      "description": "תקיפות זרוע הים במבצע \"שומר החומות\".",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Israeli_Navy_activity_during_Operation_Guardian_of_the_Walls%2C_May_2021._I.webm",
+      "original_source_in": 0
+    },
+    "duration": 33.566667,
+    "display_name": "israel-navy-action"
+  },
+  {
+    "id": "iran-sub",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/iran-sub.mp4",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Iranian_SLCM.webm",
+    "video_credit": "Fars News Agency · CC BY 4.0",
+    "video_metadata": {
+      "file": "File:Iranian SLCM.webm",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Fars News Agency",
+      "description": "Fars news video of an Iranian Ghadir-class submarine launching a cruise missile.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Iranian_SLCM.webm",
+      "original_source_in": 0
+    },
+    "duration": 55.0,
+    "display_name": "iran-sub"
+  },
+  {
+    "id": "iran-boats-action",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/iran-boats-action.mp4",
+    "video_source": "https://www.dvidshub.net/video/747672",
+    "video_credit": "DVIDS / 747672 · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2004/DOD_107771383/DOD_107771383-256x144-111k.mp4",
+      "title": "DVIDS - Video - IRGCN Vessels Conduct Unsafe, Unprofessional Interaction with U.S. Naval Forces in Arabian Gulf",
+      "description": ""
+    },
+    "duration": 41.266667,
+    "display_name": "DVIDS - Video - IRGCN Vessels Conduct Unsafe, Unprofessional Interaction with U.S. Naval Forces in Arabian Gulf"
+  },
+  {
+    "id": "ua-shahed",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/ua-shahed.mp4",
+    "duration": 12,
+    "display_name": "ПЕРЕХОПЛЕННЯ БПЛА ТИПУ SHAHED · УКРАЇНА, 2026",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Ukrainian_f16_destroys_shahed_type_drone.webm",
+    "video_credit": "Ukrainian Air Force · CC BY 4.0",
+    "video_metadata": {
+      "file": "File:Ukrainian f16 destroys shahed type drone.webm",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Ukrainian Air Force",
+      "date": "2026-02-08",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ukrainian_f16_destroys_shahed_type_drone.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_source_in": 16,
+      "original_source_out": 28,
+      "description": "Ukrainian F-16 of the 107th Aviation Wing shots down a Shahed type drone with cannon fire",
+      "modifications": "Selected original interval 16–28s, muted, portrait foreground retained over blurred duplicate of same frames; no retiming; groundward camera swing excluded"
+    }
+  }
+]

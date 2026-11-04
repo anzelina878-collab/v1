@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "archive_sha256": "9612e701ca138cfa16941206f779679abd0a78cf9a99300da88ca164fdd4813b",
+  "archive_bytes": 401432876,
+  "unpacked_without_symlinks": true,
+  "compiler_rebuild": "exact same final plan, 197 scenes, stable scene IDs",
+  "scene_kinds": [
+    "archive",
+    "compare",
+    "graphic",
+    "ident",
+    "map",
+    "outro",
+    "photo",
+    "question",
+    "section",
+    "turntable"
+  ],
+  "new_ukraine_archive": "encoded from independently unpacked source; full sample decode passed",
+  "all_manifest_media_included": true,
+  "original_voice_and_script_checksums": "matched"
+}

@@ -1,0 +1,962 @@
+{
+  "source_assets": 88,
+  "file_audit": [
+    {
+      "id": "f14",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/f14.jpg": {
+          "bytes": 93923,
+          "sha256": "4bb2816a421ee3a944c014ae97ee3df6ab25000e9eebe8cff5543aa99cae5d2e"
+        }
+      }
+    },
+    {
+      "id": "f4",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/f4.jpg": {
+          "bytes": 92698,
+          "sha256": "92a5963ad6dd9a68536570afcd3deaf891020dce5fb31162456bccccaf496d00"
+        }
+      }
+    },
+    {
+      "id": "su24",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/su24.jpg": {
+          "bytes": 160704,
+          "sha256": "4f6c46fc03053d25acd8d306e07fb328bef25881bc9367342b4ef7b4cf2ce2b3"
+        }
+      }
+    },
+    {
+      "id": "karrar",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/karrar.png": {
+          "bytes": 244369,
+          "sha256": "008bc7a5e18c3c259c1d4415f325cedce72af23dfe2f04c640feec630c408047"
+        },
+        "assets/photos/karrar.jpg": {
+          "bytes": 93461,
+          "sha256": "139b851e99315df73832b1496a8d406c600c175dcb000273b9fccce91781a519"
+        }
+      }
+    },
+    {
+      "id": "t72",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/t72.jpg": {
+          "bytes": 385986,
+          "sha256": "267de945254a5805754e665f63cdfbd055a2e06a8beb5788d541b62269810030"
+        }
+      }
+    },
+    {
+      "id": "fateh",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/fateh.jpg": {
+          "bytes": 114928,
+          "sha256": "ad0bb99d945c4716558bdb8e9c2319dfed911a9727c73230d9313c7bf4debd90"
+        }
+      }
+    },
+    {
+      "id": "shahab",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/shahab.jpg": {
+          "bytes": 49975,
+          "sha256": "ebc2280918811d04e9b272616ffbd0e3c0ee627e01a54ab375c498fc58ea8ea2"
+        }
+      }
+    },
+    {
+      "id": "sejjil",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/sejjil.jpg": {
+          "bytes": 30271,
+          "sha256": "330e96ca8137611e1a7249d62f51ff9678532461f667c035b6f64cfc43f34a4e"
+        }
+      }
+    },
+    {
+      "id": "raad2",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/raad2.jpg": {
+          "bytes": 181005,
+          "sha256": "4f8ec93fb498be74ba2835939f6463eadcb28a5473f10971f56261196e27463c"
+        }
+      }
+    },
+    {
+      "id": "fajr5",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/fajr5.jpg": {
+          "bytes": 105920,
+          "sha256": "ea53e502638b390b93f293ba30c530d13bf37df5df265136c68eba25104c0e55"
+        }
+      }
+    },
+    {
+      "id": "shahed129",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/shahed129.jpg": {
+          "bytes": 272068,
+          "sha256": "23ec27ee23c24ae10b7ab3b7017c6c2abae0e8ef7fe7547797dd42d43ee6d855"
+        }
+      }
+    },
+    {
+      "id": "mohajer6",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/mohajer6.png": {
+          "bytes": 216357,
+          "sha256": "d973175ca7824730bdcd48772ee1e89c9b88e2ece97642f7192d32df9c612f3a"
+        },
+        "assets/photos/mohajer6.jpg": {
+          "bytes": 252842,
+          "sha256": "86a9f50bf32194d211babe177e3862b0f6ea206094c29b3a4a3ad5195b71d726"
+        }
+      }
+    },
+    {
+      "id": "shahed136",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/shahed136-manual.png": {
+          "bytes": 379511,
+          "sha256": "6e939b54f4ca2583539fe6530b1bc08fc17710b9bc8d43267f5d5075ff4801c6"
+        },
+        "assets/photos/shahed136.jpg": {
+          "bytes": 138757,
+          "sha256": "33e2400d29f98b1ca0c7b3503958f694136d91a085b9a0796ddb25fb9a6f0bbf"
+        }
+      }
+    },
+    {
+      "id": "s300",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/s300.jpg": {
+          "bytes": 366396,
+          "sha256": "2e3c4ba0c52d219856c3f12aa372b629e4f0ef6c402dc9c9b181086dbd4dc288"
+        }
+      }
+    },
+    {
+      "id": "bavar",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/bavar.jpg": {
+          "bytes": 266915,
+          "sha256": "554824b04492ee6901ecf34fe3964860d1ac9c790708c135292e20abb3636bc2"
+        }
+      }
+    },
+    {
+      "id": "jamaran",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/jamaran.jpg": {
+          "bytes": 66762,
+          "sha256": "96b83dd24bc23f76b03dfee92863d4e9150e90efa68f101fb7b9ae088dfa34d4"
+        }
+      }
+    },
+    {
+      "id": "iran-boats",
+      "used_in_film": false,
+      "files": {
+        "assets/photos/iran-boats.jpg": {
+          "bytes": 29482,
+          "sha256": "d292a2bdc3296e01ce370528530badb4bc4c00da3ffd945126a2129fcbb04acc"
+        }
+      }
+    },
+    {
+      "id": "g3",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/g3.jpg": {
+          "bytes": 44782,
+          "sha256": "aae78b1bb912286d25be8ee6da5111957999f8e9f953bdba5e798d3865adc406"
+        }
+      }
+    },
+    {
+      "id": "arrow",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/arrow.jpg": {
+          "bytes": 243340,
+          "sha256": "7eebc7396932d5d04227ffc80859ccf6a524d39d22b5e927dd73379d3302534e"
+        }
+      }
+    },
+    {
+      "id": "zulfiqar",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/zulfiqar.jpg": {
+          "bytes": 230971,
+          "sha256": "6cb5241884027a6167c2426074f4a5ada453e41f88412b8ee19153e977e1e489"
+        }
+      }
+    },
+    {
+      "id": "f35i",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/f35i.png": {
+          "bytes": 386126,
+          "sha256": "d02db285a83797c7b28b0a1a844880c657567f5677082144483f47e10fdfc4db"
+        },
+        "assets/photos/f35i.jpg": {
+          "bytes": 134188,
+          "sha256": "7c3aeec6b76e2189f926021a729440bbb48c1e738c3e623600a3134e60760083"
+        }
+      }
+    },
+    {
+      "id": "merkava",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/merkava.jpg": {
+          "bytes": 608124,
+          "sha256": "1b12b1a4fe919bbbcca4972056229f45900bc761759d0d5d9d545a7260be37be"
+        }
+      }
+    },
+    {
+      "id": "namer",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/namer.jpg": {
+          "bytes": 607951,
+          "sha256": "d45812c4fa9a24c4e5945ecc9dc9632bdc6271ae3f77fd2fe2581b6d4e30103f"
+        }
+      }
+    },
+    {
+      "id": "trophy",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/trophy.jpg": {
+          "bytes": 583942,
+          "sha256": "fa9eb06f11c86bdb7e9bc888afdebb94b5210343ac71ee799f70a53a5fac59a9"
+        }
+      }
+    },
+    {
+      "id": "f15i",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/f15i.png": {
+          "bytes": 1145802,
+          "sha256": "95a542650607b16386532d33050a0f3b56bc80977d37a84ed7fcaff2cc49b3c8"
+        },
+        "assets/photos/f15i.jpg": {
+          "bytes": 359691,
+          "sha256": "96261f470a8b72be940c1283cabe0dbfc60812920a8647b11870eea4b051dac7"
+        }
+      }
+    },
+    {
+      "id": "f16i",
+      "used_in_film": false,
+      "files": {
+        "assets/photos/f16i.jpg": {
+          "bytes": 410340,
+          "sha256": "13a1df0f37da0dd8e90d761a28eb87e79084004389ea900d9dc8e828df310500"
+        }
+      }
+    },
+    {
+      "id": "tavor",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/tavor.jpg": {
+          "bytes": 172382,
+          "sha256": "d32ad1018bb4c68e833c695f917b6dbee27f253f5b775a0cef752054618e8f49"
+        }
+      }
+    },
+    {
+      "id": "x95",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/x95.jpg": {
+          "bytes": 164264,
+          "sha256": "b05a2115b779df4c8e1d4a4ab26a27bd09c47284baf1bcf8d41a16227c79ea2d"
+        }
+      }
+    },
+    {
+      "id": "negev",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/negev.jpg": {
+          "bytes": 108268,
+          "sha256": "7ab1092c3700ef73a9bf077e778dc25c5290eea73e9636277591addd786bdbb8"
+        }
+      }
+    },
+    {
+      "id": "spike",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/spike.jpg": {
+          "bytes": 72780,
+          "sha256": "6c26e29f59227543ccda87f59a542ac20e01bd9f91b28bf8fa5bb48dc32ad15f"
+        }
+      }
+    },
+    {
+      "id": "pkm",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/pkm.jpg": {
+          "bytes": 410989,
+          "sha256": "21508efe3a45639e116d17dfb15542faa36377d1abc9da9b33bea2aa1dbc84a8"
+        }
+      }
+    },
+    {
+      "id": "toophan",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/toophan.jpg": {
+          "bytes": 404710,
+          "sha256": "a2be2148fd05a16338ab9c0a1cc3f91fceb304c64163374786fb1d1ab67e4703"
+        }
+      }
+    },
+    {
+      "id": "m109",
+      "used_in_film": false,
+      "files": {
+        "assets/photos/m109.jpg": {
+          "bytes": 490158,
+          "sha256": "12f5fafa4ba5c4651372ba556750ccd943046c03fd81a160f8e48ced1751432a"
+        }
+      }
+    },
+    {
+      "id": "hermes450",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/hermes450.png": {
+          "bytes": 273111,
+          "sha256": "d021604c7ec22fc788fdecf87e2845958ceae111439c28e30b96b86fe0db1a7f"
+        },
+        "assets/photos/hermes450.jpg": {
+          "bytes": 138278,
+          "sha256": "1e2fe7d16d062721c5d8173b5857712840e49439319522d2cb9dfc5e70556f61"
+        }
+      }
+    },
+    {
+      "id": "hermes900",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/hermes900.png": {
+          "bytes": 461069,
+          "sha256": "4ef510af7a8147dbd6c1a66cbb31b63e7e506d50f613fd8e9a06745d81a0a71b"
+        },
+        "assets/photos/hermes900.jpg": {
+          "bytes": 173418,
+          "sha256": "73f1136ad9f524b12bb158b0a63c4ca870eb5c4a8351a0c85ca0b9ba339b6d4b"
+        }
+      }
+    },
+    {
+      "id": "heron",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/heron.png": {
+          "bytes": 1025394,
+          "sha256": "8563a453cdce28f009ad39d3aa1f670390ea7eb69bc2592a6c6bec218185c7f0"
+        },
+        "assets/photos/heron.jpg": {
+          "bytes": 403314,
+          "sha256": "7e195f51b8a6c2bae15b8fe27cbc876684840ae1a5e0f3a4c48986077b363a59"
+        }
+      }
+    },
+    {
+      "id": "irondome",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/irondome.jpg": {
+          "bytes": 784488,
+          "sha256": "f9f473616043a51ca8a63b126965d0f3ba21760433ae864c671f25dce707a18d"
+        }
+      }
+    },
+    {
+      "id": "davidsling",
+      "used_in_film": false,
+      "files": {
+        "assets/photos/davidsling.jpg": {
+          "bytes": 688403,
+          "sha256": "60738fec616cde81e0f3349b333a55105631ba622f3540a2ebc21c321ab39846"
+        }
+      }
+    },
+    {
+      "id": "khordad15",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/khordad15-detail.png": {
+          "bytes": 652774,
+          "sha256": "b1dad76fcddb4d656b8601d1d0a0cdf3cc5e8f581fa89348c875fbe3328e414d"
+        },
+        "assets/photos/khordad15.jpg": {
+          "bytes": 218928,
+          "sha256": "fecef7fc88841ffee9453dd8554d62ae865fc0e720358e6f214f4b202074a838"
+        }
+      }
+    },
+    {
+      "id": "saar6",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/saar6.jpg": {
+          "bytes": 275457,
+          "sha256": "15e6c36c218af4f040158b8b76df5afa51f6681d0923462a42b9c0bf4e625a15"
+        }
+      }
+    },
+    {
+      "id": "dolphin",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/dolphin.jpg": {
+          "bytes": 708365,
+          "sha256": "02a9122ec4933afbdb3cacc2ec3cc4e8b40d07a02a4c7f32f56768bd6fb244de"
+        }
+      }
+    },
+    {
+      "id": "ghadir",
+      "used_in_film": false,
+      "files": {
+        "assets/photos/ghadir-clean-photo.jpg": {
+          "bytes": 83415,
+          "sha256": "efa39849aa37dcf5b04c6f2ff765b70ea76959f8b0f090824c2ccdf467eade4e"
+        },
+        "assets/photos/ghadir.jpg": {
+          "bytes": 73662,
+          "sha256": "f33328c0cd6b5feef7e986b3b2d055ed46ee6118d53e189f51cfdedbdcab9221"
+        }
+      }
+    },
+    {
+      "id": "il-flag",
+      "used_in_film": false,
+      "files": {
+        "assets/flags/il-flag.png": {
+          "bytes": 1412,
+          "sha256": "1e8bb049ff030825c65674a6778aa161255e2b92807d4a5e4a2194f0e3a9cc13"
+        }
+      }
+    },
+    {
+      "id": "ir-flag",
+      "used_in_film": false,
+      "files": {
+        "assets/flags/ir-flag.png": {
+          "bytes": 5354,
+          "sha256": "6f0777433785537fd66ad0e0ec025a8f499cd2f1177c5b44341cc330072b87ed"
+        }
+      }
+    },
+    {
+      "id": "model-f16",
+      "used_in_film": true,
+      "files": {
+        "assets/models/f16/still-object.png": {
+          "bytes": 86423,
+          "sha256": "3d5f0a9b946ee47eaaf9bb8b81cc6a1e3b379139134b26a2768b1251bf9b9e48"
+        },
+        "assets/models/f16/spin.mp4": {
+          "bytes": 1793500,
+          "sha256": "b20e113d7ce35dc8eb7163ef8cf279e14af10a2da74cc468ef42a91647e0c08a"
+        }
+      }
+    },
+    {
+      "id": "model-apache",
+      "used_in_film": true,
+      "files": {
+        "assets/models/apache/still-object.png": {
+          "bytes": 88587,
+          "sha256": "0a1da5f4ab75a967919b3797a4a3449c6de81788370335a594872529229104b5"
+        },
+        "assets/models/apache/spin.mp4": {
+          "bytes": 2524788,
+          "sha256": "9c103d37cc2f567c07469ef9e330e92ff1cf077f6ab13fe1be45ef39f57ed4e1"
+        }
+      }
+    },
+    {
+      "id": "model-blackhawk",
+      "used_in_film": true,
+      "files": {
+        "assets/models/blackhawk/still-object.png": {
+          "bytes": 118491,
+          "sha256": "6e4e650a02954e58731ceb09e2673f3271a652d5bfdc5ee18d82e5898808c6ec"
+        },
+        "assets/models/blackhawk/spin.mp4": {
+          "bytes": 2590932,
+          "sha256": "e0bcf278be7865b17639fdfa30d4da32c309bc9c16f8684945a362b038404345"
+        }
+      }
+    },
+    {
+      "id": "channel-ident",
+      "used_in_film": true,
+      "files": {
+        "assets/video/channel-ident.mp4": {
+          "bytes": 11084839,
+          "sha256": "8a8b69969479662962ae94acdb624f990988e9d11bc4a84e6013a149bb4badc2"
+        }
+      }
+    },
+    {
+      "id": "model-f14",
+      "used_in_film": true,
+      "files": {
+        "assets/models/f14/still-object.png": {
+          "bytes": 129630,
+          "sha256": "04bcddc57cdd250e65c101561b01b80fc1de68b3f4677f4a48e6b3e9972a1465"
+        },
+        "assets/models/f14/spin.mp4": {
+          "bytes": 2913935,
+          "sha256": "6c391b35a99408e85246e67bf5b103870b1615a840f85ff21796bcebd3a4a793"
+        }
+      }
+    },
+    {
+      "id": "model-mig29",
+      "used_in_film": true,
+      "files": {
+        "assets/models/mig29/still-object.png": {
+          "bytes": 118473,
+          "sha256": "5c0f9dea8a0d1768dd8a88ec8641d8bac01e3a96cf44582845fe16f7cb386ecd"
+        },
+        "assets/models/mig29/spin.mp4": {
+          "bytes": 843862,
+          "sha256": "824681cc29dbbc7c03e6cbe577da9e432c7813310ed3df471067e2cfe4f906bd"
+        }
+      }
+    },
+    {
+      "id": "model-m4",
+      "used_in_film": true,
+      "files": {
+        "assets/models/m4/still-object.png": {
+          "bytes": 72019,
+          "sha256": "4de63f32dcacdb2463c7335c0c4debeec9d16b191d284ba7214fa252d3609663"
+        },
+        "assets/models/m4/spin.mp4": {
+          "bytes": 2294826,
+          "sha256": "7452b1a2a1209ff42414b2f0cfa855711ce3fb97d0a14af35de4d0c24a59e1b7"
+        }
+      }
+    },
+    {
+      "id": "map-region",
+      "used_in_film": true,
+      "files": {
+        "assets/maps/map-region.mp4": {
+          "bytes": 7248353,
+          "sha256": "65179ff6707e83ca80015e12f221b5f3b827450c936051e44054ea02e2f01403"
+        }
+      }
+    },
+    {
+      "id": "map-navy",
+      "used_in_film": true,
+      "files": {
+        "assets/maps/map-navy.mp4": {
+          "bytes": 4169755,
+          "sha256": "8e53b3fb2612aea3192d317ea4ba153d5b087084386071a9d308960455f4e796"
+        }
+      }
+    },
+    {
+      "id": "iron-intercepts",
+      "used_in_film": true,
+      "files": {
+        "assets/video/iron-intercepts.mp4": {
+          "bytes": 1132766,
+          "sha256": "2c12a86f9357761610bc2987495d59e99b9145001977f87f121367a2a40ddb9c"
+        }
+      }
+    },
+    {
+      "id": "iron-intercepts2",
+      "used_in_film": true,
+      "files": {
+        "assets/video/iron-intercepts2.mp4": {
+          "bytes": 1766247,
+          "sha256": "d188caf2621b289fbd0a002e86f7c8a2c9d4b7a824821a1d2b8855399598d0f4"
+        }
+      }
+    },
+    {
+      "id": "iron-system",
+      "used_in_film": true,
+      "files": {
+        "assets/video/iron-system.mp4": {
+          "bytes": 9085899,
+          "sha256": "d5dabc0b214f01384a5fdb450b4b96389f4f0d046d3092721125dd303eb46f33"
+        }
+      }
+    },
+    {
+      "id": "arrow-test",
+      "used_in_film": true,
+      "files": {
+        "assets/video/arrow-test.mp4": {
+          "bytes": 16105328,
+          "sha256": "e3400c3b73d8f6a4c9ab82f8319c0f83561cd47fd5fea724d8ed8357d3afc438"
+        }
+      }
+    },
+    {
+      "id": "david-test",
+      "used_in_film": true,
+      "files": {
+        "assets/video/david-test.mp4": {
+          "bytes": 18585450,
+          "sha256": "3d3ede27ffd64891b877d16d1f353cea70eade9dbb825bf9b1f4b808d38b1e72"
+        }
+      }
+    },
+    {
+      "id": "david-test2",
+      "used_in_film": true,
+      "files": {
+        "assets/video/david-test2.mp4": {
+          "bytes": 10662642,
+          "sha256": "8765db3082b128816c06e0de52f24ec81a2f9ec6a440bfbb53d381d4ad3a4d3f"
+        }
+      }
+    },
+    {
+      "id": "f35i-action",
+      "used_in_film": true,
+      "files": {
+        "assets/video/f35i-action.mp4": {
+          "bytes": 8036053,
+          "sha256": "1d1f8dfba2cfea3299411ef1ca87429c5e104f8b1e252e8179e861ad7820560b"
+        }
+      }
+    },
+    {
+      "id": "ironbeam",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/ironbeam-detail.png": {
+          "bytes": 628667,
+          "sha256": "637a77626c4b48636380bdff933c1499707d612bc8f6383e874b0b15c5410b0b"
+        },
+        "assets/photos/ironbeam.jpg": {
+          "bytes": 196970,
+          "sha256": "61edb33310392ae64ffc00c88d617106a470910470fbfd659b0047fc59801672"
+        }
+      }
+    },
+    {
+      "id": "toufan",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/toufan-clean.png": {
+          "bytes": 170263,
+          "sha256": "276d1bdb0930949e95c71c3bda49aa98fce84119094a11deb4a2f57ac4506464"
+        },
+        "assets/photos/toufan.jpg": {
+          "bytes": 170269,
+          "sha256": "34e07875756c9078f6b64d34cbf4d0aa7abe5c447dbf21785e062fbf7a3b2a7a"
+        }
+      }
+    },
+    {
+      "id": "fatehsub",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/fatehsub.jpg": {
+          "bytes": 152655,
+          "sha256": "b48e94bad7be97d5efdbab8eb66211356869e9da6b624f095d433cc655b1827f"
+        }
+      }
+    },
+    {
+      "id": "alvand",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/alvand.jpg": {
+          "bytes": 215275,
+          "sha256": "7ff8cfe5a9b9592c8426059bf892f8e85100810d5590e22472a207471d10c646"
+        }
+      }
+    },
+    {
+      "id": "khordad3",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/khordad3.jpg": {
+          "bytes": 197823,
+          "sha256": "965a9c81b40fa40039523086fa0ee2e58f09516c6b78f0fc4ef9ca573c631346"
+        }
+      }
+    },
+    {
+      "id": "iran-ballistic",
+      "used_in_film": true,
+      "files": {
+        "assets/video/iran-ballistic.mp4": {
+          "bytes": 2849803,
+          "sha256": "f98ce106efdbf6d2d4a5e8120050e6eedffda38e5b0ae51d1df411aaf4ca5839"
+        }
+      }
+    },
+    {
+      "id": "iran-ghader",
+      "used_in_film": true,
+      "files": {
+        "assets/video/iran-ghader.mp4": {
+          "bytes": 20784796,
+          "sha256": "972e19d76bddbe420634ecfa658bddb41cbc807e7e45637fc6122177cf61429f"
+        }
+      }
+    },
+    {
+      "id": "iran-sam",
+      "used_in_film": true,
+      "files": {
+        "assets/video/iran-sam.mp4": {
+          "bytes": 15377013,
+          "sha256": "7016190b9ce61c4892da34d14f49775434cf621c212973353e62e2772b19a8b3"
+        }
+      }
+    },
+    {
+      "id": "conflict2024",
+      "used_in_film": true,
+      "files": {
+        "assets/video/conflict2024.mp4": {
+          "bytes": 755463,
+          "sha256": "6b343d509094607445b72131f2683749f5edc2a480ca23bbc18ac827d1c9cccd"
+        }
+      }
+    },
+    {
+      "id": "conflict2024b",
+      "used_in_film": true,
+      "files": {
+        "assets/video/conflict2024b.mp4": {
+          "bytes": 919187,
+          "sha256": "14cff25dddeb771cfaaf7e2d1ed521a0e43a6617531b0333694c8cdca74db76f"
+        }
+      }
+    },
+    {
+      "id": "m109-action",
+      "used_in_film": true,
+      "files": {
+        "assets/video/m109-action.mp4": {
+          "bytes": 25678995,
+          "sha256": "328795e5bcd9e708f2bf7e410d7ef7ee0fac921a94ab7b0a262d29cb3cb8c811"
+        }
+      }
+    },
+    {
+      "id": "apache-demo",
+      "used_in_film": true,
+      "files": {
+        "assets/video/apache-demo.mp4": {
+          "bytes": 15981406,
+          "sha256": "3657e07d93f501c4b43617c1f57d7003d836bc5efa701ba6ee517b1715c67612"
+        }
+      }
+    },
+    {
+      "id": "idf-infantry",
+      "used_in_film": true,
+      "files": {
+        "assets/video/idf-infantry.mp4": {
+          "bytes": 41157400,
+          "sha256": "fd2bb420132037adb2d0dd8532cafb150b966daa1389ccd5f1b66c69f8683f29"
+        }
+      }
+    },
+    {
+      "id": "idf-field",
+      "used_in_film": true,
+      "files": {
+        "assets/video/idf-field.mp4": {
+          "bytes": 10669621,
+          "sha256": "fb5895ac2be4ac47fc33e15669cd1364de3e0564ea895bce0f1cc4af42ab019e"
+        }
+      }
+    },
+    {
+      "id": "f35i-arrival",
+      "used_in_film": true,
+      "files": {
+        "assets/video/f35i-arrival.mp4": {
+          "bytes": 15701457,
+          "sha256": "34e6785c51bd755060c53460c652ab0752f41f23812b8ede3ff7f2b474f316f1"
+        }
+      }
+    },
+    {
+      "id": "f16i-action",
+      "used_in_film": true,
+      "files": {
+        "assets/video/f16i-action.mp4": {
+          "bytes": 8713453,
+          "sha256": "692fea3e9f5efc5b10e41bde4348b48ba3e63b7f60c2b18503617456e780dfb0"
+        }
+      }
+    },
+    {
+      "id": "cobra",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/cobra.jpg": {
+          "bytes": 619215,
+          "sha256": "921fdc46c37ec5f735c3e32c055db7e3acb3c74f4d1d40d1e5456779c2a7b4c3"
+        }
+      }
+    },
+    {
+      "id": "zelzal",
+      "used_in_film": true,
+      "files": {
+        "assets/photos/zelzal.jpg": {
+          "bytes": 390253,
+          "sha256": "0a47147c45d868f280c5d682f5b51288b4efe3c4e62beb915378ca38b2316b5b"
+        }
+      }
+    },
+    {
+      "id": "atmos",
+      "used_in_film": true,
+      "files": {
+        "assets/prepared/atmos.png": {
+          "bytes": 1318785,
+          "sha256": "ae98762371d2ce53eb7db02769565bd98ffc968330690337c31b614997069704"
+        },
+        "assets/photos/atmos-clean.jpg": {
+          "bytes": 629863,
+          "sha256": "acb1cee7bd26d3395589a753881d7f866e59ed2d8eb36a647a08ec6bd03418b2"
+        }
+      }
+    },
+    {
+      "id": "merkava-action",
+      "used_in_film": true,
+      "files": {
+        "assets/video/merkava-action.mp4": {
+          "bytes": 24712992,
+          "sha256": "ff0010e73db9c8087b69e30a4aa3ff2110d896f2245ccf886c62b3d667446000"
+        }
+      }
+    },
+    {
+      "id": "idf-ready",
+      "used_in_film": true,
+      "files": {
+        "assets/video/idf-ready.mp4": {
+          "bytes": 10358047,
+          "sha256": "8a320caea9451279a2ffed4fd3b8efa937d8483e150d9a29869c0affe453bed7"
+        }
+      }
+    },
+    {
+      "id": "idf-ops",
+      "used_in_film": true,
+      "files": {
+        "assets/video/idf-ops.mp4": {
+          "bytes": 4572526,
+          "sha256": "14143f2a70ab0a974f67104962d170067d13c987d4037c6a3aca1a411b558532"
+        }
+      }
+    },
+    {
+      "id": "idf-intercept",
+      "used_in_film": true,
+      "files": {
+        "assets/video/idf-intercept.mp4": {
+          "bytes": 3638287,
+          "sha256": "eb66da99a88b86e57eefaf72412d1346460fe7a77ccc162eed886668d484c8ff"
+        }
+      }
+    },
+    {
+      "id": "idf-drone",
+      "used_in_film": true,
+      "files": {
+        "assets/video/idf-drone.mp4": {
+          "bytes": 13418906,
+          "sha256": "b6326877dcc884f9bc751cbf918879a2096650adbb485afb13f6e824e7cafc19"
+        }
+      }
+    },
+    {
+      "id": "israel-navy-action",
+      "used_in_film": true,
+      "files": {
+        "assets/video/israel-navy-action.mp4": {
+          "bytes": 7985042,
+          "sha256": "5b6228d9c3eb7c660022d3fe8434ed7f30f231e44dfe3ac41b0892f1f358adad"
+        }
+      }
+    },
+    {
+      "id": "iran-sub",
+      "used_in_film": true,
+      "files": {
+        "assets/video/iran-sub.mp4": {
+          "bytes": 13850149,
+          "sha256": "031c4c9a14d151e2f134619b262d96922575672e945f9586947e90fe58f1fcc4"
+        }
+      }
+    },
+    {
+      "id": "iran-boats-action",
+      "used_in_film": true,
+      "files": {
+        "assets/video/iran-boats-action.mp4": {
+          "bytes": 7093508,
+          "sha256": "27e93e7716a861abebab26ba3e50bca675d32a63765dedf67c72a08d173dbcba"
+        }
+      }
+    },
+    {
+      "id": "ua-shahed",
+      "used_in_film": true,
+      "files": {
+        "assets/video/ua-shahed.mp4": {
+          "bytes": 1483200,
+          "sha256": "c8bfb5fa419114f536518f1beb96ff9a7d1551f472f5d12da9c6f009a3fd4590"
+        }
+      }
+    }
+  ],
+  "scope": "Source metadata, selected intervals, photographic masks and storyboards reviewed; continuous full human playback is not claimed"
+}

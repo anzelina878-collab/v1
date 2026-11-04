@@ -1,0 +1,145 @@
+{
+  "status": "passed",
+  "locked_photos": [
+    {
+      "id": "shot-004",
+      "mae": 0.0033410494215786457,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-007",
+      "mae": 0.002870370401069522,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-008",
+      "mae": 0.0007870370172895491,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-009",
+      "mae": 0.0033410494215786457,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-010",
+      "mae": 0.0003009259235113859,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-012",
+      "mae": 0.00669753085821867,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-013",
+      "mae": 0.005516975186765194,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-014",
+      "mae": 0.0020833334419876337,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-015",
+      "mae": 0.00424382695928216,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "shot-020",
+      "mae": 0.24862654507160187,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    }
+  ],
+  "continuous_3d_terrain_maps": [
+    {
+      "id": "shot-001",
+      "native_timeline_checks": [
+        {
+          "time": 0.5,
+          "mae_vs_native_map": 0.7801851630210876
+        },
+        {
+          "time": 2.5,
+          "mae_vs_native_map": 0.8487153053283691
+        }
+      ],
+      "motion_mae": 12.943160057067871
+    },
+    {
+      "id": "shot-018",
+      "native_timeline_checks": [
+        {
+          "time": 0.5,
+          "mae_vs_native_map": 0.8132754564285278
+        },
+        {
+          "time": 2.166666666666667,
+          "mae_vs_native_map": 0.8852777481079102
+        }
+      ],
+      "motion_mae": 8.638188362121582
+    }
+  ],
+  "native_30fps_slow_turntables": [
+    {
+      "id": "shot-021",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.17020061612129211
+        },
+        {
+          "time": 2.5,
+          "mae_vs_realtime_3d": 0.21192900836467743
+        }
+      ]
+    },
+    {
+      "id": "shot-024",
+      "checks": [
+        {
+          "time": 0.4399999999999977,
+          "mae_vs_realtime_3d": 0.1154475286602974
+        },
+        {
+          "time": 1.6499999999999915,
+          "mae_vs_realtime_3d": 0.1500617265701294
+        }
+      ]
+    }
+  ],
+  "rotation_seconds_per_360": 24,
+  "comparison_region": "upper 75% excludes editorial name/source overlays"
+}
