@@ -1,0 +1,8 @@
+{
+  "status": "sampled_controls_reviewed",
+  "initial_complete_review": "All 9 encoded control sheets / 198 selected times covering every scene reviewed. Source sheets and full storyboard also reviewed.",
+  "followup": "Navy-map redundant header removed after a geographic label collision was identified; corrected bank and final encoded frame at 1105 seconds reviewed, with no overlap. Remaining scene content is unchanged.",
+  "final_video_sha256": "02fef31cb763473223309a8f4fd7ce684c5d9b0659a286294ffb2227d297659b",
+  "continuous_human_watch_and_listen": "not performed",
+  "automated_full_AV_and_motion_checks": "passed again after the map correction"
+}

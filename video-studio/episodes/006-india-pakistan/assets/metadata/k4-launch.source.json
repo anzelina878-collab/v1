@@ -1,0 +1,14 @@
+{
+  "id": "k4-launch",
+  "photo_source": null,
+  "video_source": "https://commons.wikimedia.org/wiki/File:K4_SLBM_Launch_Video.webm",
+  "photo_metadata": null,
+  "video_metadata": {
+    "author": "Defence Research and Development Organisation",
+    "license": "GODL-India",
+    "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "description": "K4 SLBM First Test Launch Video. (24 March 2014)",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/K4_SLBM_Launch_Video.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Muted, resized and normalized 30fps at original speed; first 125 seconds maximum"
+  }
+}

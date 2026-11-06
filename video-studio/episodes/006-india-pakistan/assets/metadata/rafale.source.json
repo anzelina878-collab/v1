@@ -1,0 +1,15 @@
+{
+  "id": "rafale",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Rafale_-_RIAT_2009_(3751416421).jpg",
+  "video_source": null,
+  "photo_metadata": {
+    "author": "Tim Felce (Airwolfhound)",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "description": "Rafale - RIAT 2009",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rafale_-_RIAT_2009_%283751416421%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_article": "Dassault_Rafale",
+    "changes": "Background segmentation and crop, original retained; reviewed vehicle geometry preserved"
+  },
+  "video_metadata": null
+}

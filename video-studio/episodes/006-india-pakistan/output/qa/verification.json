@@ -1,0 +1,603 @@
+{
+  "status": "technically_verified",
+  "video": "/tmp/arsenal-006/final_video_v1.mp4",
+  "sha256": "02fef31cb763473223309a8f4fd7ce684c5d9b0659a286294ffb2227d297659b",
+  "duration": 1410.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 42300,
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "audio_sample_rate": "48000",
+  "original_audio_sha256": "00611f2a04e0d6a8c962319a2efecfddbc0ebed39286c05c94f8ae96e1d2b8a8",
+  "audio_waveform_correlation_zero_lag": 0.9998385651537394,
+  "full_video_and_audio_decode": "passed",
+  "archive_spacing": "passed >60 seconds from previous use end",
+  "encoded_static_photo_and_card_checks": [
+    {
+      "id": "shot-004",
+      "mean_pixel_difference": 0.0017650462687015533
+    },
+    {
+      "id": "shot-005",
+      "mean_pixel_difference": 0.00039930554339662194
+    },
+    {
+      "id": "shot-006",
+      "mean_pixel_difference": 0.0014756944729015231
+    },
+    {
+      "id": "shot-007",
+      "mean_pixel_difference": 0.0006307870498858392
+    },
+    {
+      "id": "shot-010",
+      "mean_pixel_difference": 0.0022106480319052935
+    },
+    {
+      "id": "shot-011",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-013",
+      "mean_pixel_difference": 0.0026562500279396772
+    },
+    {
+      "id": "shot-016",
+      "mean_pixel_difference": 0.0010300925932824612
+    },
+    {
+      "id": "shot-019",
+      "mean_pixel_difference": 0.002280092565342784
+    },
+    {
+      "id": "shot-021",
+      "mean_pixel_difference": 0.002216435270383954
+    },
+    {
+      "id": "shot-025",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-030",
+      "mean_pixel_difference": 0.0003182870277669281
+    },
+    {
+      "id": "shot-032",
+      "mean_pixel_difference": 0.22684027254581451
+    },
+    {
+      "id": "shot-035",
+      "mean_pixel_difference": 0.0020833334419876337
+    },
+    {
+      "id": "shot-036",
+      "mean_pixel_difference": 0.20353588461875916
+    },
+    {
+      "id": "shot-037",
+      "mean_pixel_difference": 0.282332181930542
+    },
+    {
+      "id": "shot-038",
+      "mean_pixel_difference": 0.18535301089286804
+    },
+    {
+      "id": "shot-040",
+      "mean_pixel_difference": 0.0007523148087784648
+    },
+    {
+      "id": "shot-041",
+      "mean_pixel_difference": 0.27524885535240173
+    },
+    {
+      "id": "insert-007332",
+      "mean_pixel_difference": 0.0014178240671753883
+    },
+    {
+      "id": "shot-044",
+      "mean_pixel_difference": 0.0006365740555338562
+    },
+    {
+      "id": "shot-046",
+      "mean_pixel_difference": 0.0005555555690079927
+    },
+    {
+      "id": "shot-048",
+      "mean_pixel_difference": 0.3677372634410858
+    },
+    {
+      "id": "shot-049",
+      "mean_pixel_difference": 0.0001851851848186925
+    },
+    {
+      "id": "shot-050",
+      "mean_pixel_difference": 0.1872858852148056
+    },
+    {
+      "id": "shot-051",
+      "mean_pixel_difference": 0.2872164249420166
+    },
+    {
+      "id": "shot-052",
+      "mean_pixel_difference": 0.3238773047924042
+    },
+    {
+      "id": "shot-053",
+      "mean_pixel_difference": 0.3283275365829468
+    },
+    {
+      "id": "shot-057",
+      "mean_pixel_difference": 0.0024131943937391043
+    },
+    {
+      "id": "shot-058",
+      "mean_pixel_difference": 0.21758101880550385
+    },
+    {
+      "id": "shot-060",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-061",
+      "mean_pixel_difference": 0.00027777778450399637
+    },
+    {
+      "id": "shot-062",
+      "mean_pixel_difference": 0.4046354293823242
+    },
+    {
+      "id": "shot-064",
+      "mean_pixel_difference": 0.1684085577726364
+    },
+    {
+      "id": "shot-065",
+      "mean_pixel_difference": 0.011001157574355602
+    },
+    {
+      "id": "shot-066",
+      "mean_pixel_difference": 0.3421874940395355
+    },
+    {
+      "id": "shot-067",
+      "mean_pixel_difference": 0.0004745370242744684
+    },
+    {
+      "id": "shot-068",
+      "mean_pixel_difference": 0.00148148147854954
+    },
+    {
+      "id": "shot-071",
+      "mean_pixel_difference": 0.0018923610914498568
+    },
+    {
+      "id": "shot-073",
+      "mean_pixel_difference": 0.2339930534362793
+    },
+    {
+      "id": "shot-074",
+      "mean_pixel_difference": 0.0006249999860301614
+    },
+    {
+      "id": "shot-075",
+      "mean_pixel_difference": 0.3421354293823242
+    },
+    {
+      "id": "shot-076",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-077",
+      "mean_pixel_difference": 0.0001851851848186925
+    },
+    {
+      "id": "shot-078",
+      "mean_pixel_difference": 0.4489583373069763
+    },
+    {
+      "id": "shot-079",
+      "mean_pixel_difference": 0.00010416666918899864
+    },
+    {
+      "id": "shot-080",
+      "mean_pixel_difference": 0.00035879630013369024
+    },
+    {
+      "id": "shot-082",
+      "mean_pixel_difference": 0.0934259295463562
+    },
+    {
+      "id": "shot-083",
+      "mean_pixel_difference": 0.200300931930542
+    },
+    {
+      "id": "shot-087",
+      "mean_pixel_difference": 0.0002662037150003016
+    },
+    {
+      "id": "shot-089",
+      "mean_pixel_difference": 8.101851562969387e-05
+    },
+    {
+      "id": "shot-092",
+      "mean_pixel_difference": 0.27168402075767517
+    },
+    {
+      "id": "shot-095",
+      "mean_pixel_difference": 0.0027488425839692354
+    },
+    {
+      "id": "shot-096",
+      "mean_pixel_difference": 0.05975694581866264
+    },
+    {
+      "id": "shot-100",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-102",
+      "mean_pixel_difference": 0.0005092592327855527
+    },
+    {
+      "id": "shot-104",
+      "mean_pixel_difference": 0.0010011574486270547
+    },
+    {
+      "id": "shot-105",
+      "mean_pixel_difference": 0.21759259700775146
+    },
+    {
+      "id": "shot-106",
+      "mean_pixel_difference": 0.0010011574486270547
+    },
+    {
+      "id": "shot-107",
+      "mean_pixel_difference": 0.1317881941795349
+    },
+    {
+      "id": "shot-108",
+      "mean_pixel_difference": 0.19161458313465118
+    },
+    {
+      "id": "shot-109",
+      "mean_pixel_difference": 0.00473379623144865
+    },
+    {
+      "id": "shot-110",
+      "mean_pixel_difference": 0.002262731548398733
+    },
+    {
+      "id": "shot-111",
+      "mean_pixel_difference": 0.1317881941795349
+    },
+    {
+      "id": "shot-112",
+      "mean_pixel_difference": 0.21758101880550385
+    },
+    {
+      "id": "shot-113",
+      "mean_pixel_difference": 0.00019675925432238728
+    },
+    {
+      "id": "shot-114",
+      "mean_pixel_difference": 0.19161458313465118
+    },
+    {
+      "id": "shot-115",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-117",
+      "mean_pixel_difference": 0.3670196831226349
+    },
+    {
+      "id": "shot-118",
+      "mean_pixel_difference": 0.2285127341747284
+    },
+    {
+      "id": "shot-119",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-120",
+      "mean_pixel_difference": 0.41131365299224854
+    },
+    {
+      "id": "shot-121",
+      "mean_pixel_difference": 0.002725694328546524
+    },
+    {
+      "id": "shot-123",
+      "mean_pixel_difference": 0.000271990749752149
+    },
+    {
+      "id": "shot-124",
+      "mean_pixel_difference": 0.0008043981506489217
+    },
+    {
+      "id": "shot-125",
+      "mean_pixel_difference": 0.00042824074625968933
+    },
+    {
+      "id": "shot-128",
+      "mean_pixel_difference": 0.002858796389773488
+    },
+    {
+      "id": "shot-129",
+      "mean_pixel_difference": 0.0012557870941236615
+    },
+    {
+      "id": "shot-130",
+      "mean_pixel_difference": 0.003263888880610466
+    },
+    {
+      "id": "shot-134",
+      "mean_pixel_difference": 0.27291667461395264
+    },
+    {
+      "id": "shot-136",
+      "mean_pixel_difference": 0.1972106546163559
+    },
+    {
+      "id": "shot-137",
+      "mean_pixel_difference": 0.0007060185307636857
+    },
+    {
+      "id": "shot-139",
+      "mean_pixel_difference": 0.0005092592327855527
+    },
+    {
+      "id": "shot-142",
+      "mean_pixel_difference": 5.7870369346346706e-05
+    },
+    {
+      "id": "shot-145",
+      "mean_pixel_difference": 0.0008738425676710904
+    },
+    {
+      "id": "shot-146",
+      "mean_pixel_difference": 0.30070021748542786
+    },
+    {
+      "id": "shot-147",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-148",
+      "mean_pixel_difference": 0.0028819444123655558
+    },
+    {
+      "id": "shot-149",
+      "mean_pixel_difference": 0.33770254254341125
+    },
+    {
+      "id": "shot-150",
+      "mean_pixel_difference": 0.3503298759460449
+    },
+    {
+      "id": "shot-153",
+      "mean_pixel_difference": 0.0024537036661058664
+    },
+    {
+      "id": "shot-155",
+      "mean_pixel_difference": 0.0005613425746560097
+    },
+    {
+      "id": "shot-156",
+      "mean_pixel_difference": 0.3883044123649597
+    },
+    {
+      "id": "shot-157",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-158",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-159",
+      "mean_pixel_difference": 0.07700809836387634
+    },
+    {
+      "id": "shot-160",
+      "mean_pixel_difference": 0.0021354167256504297
+    },
+    {
+      "id": "shot-162",
+      "mean_pixel_difference": 0.34159722924232483
+    },
+    {
+      "id": "shot-164",
+      "mean_pixel_difference": 0.0011921296827495098
+    },
+    {
+      "id": "shot-165",
+      "mean_pixel_difference": 0.35906827449798584
+    },
+    {
+      "id": "shot-167",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-170",
+      "mean_pixel_difference": 0.20353588461875916
+    },
+    {
+      "id": "shot-171",
+      "mean_pixel_difference": 0.005092592444270849
+    },
+    {
+      "id": "shot-172",
+      "mean_pixel_difference": 0.0024131943937391043
+    },
+    {
+      "id": "shot-173",
+      "mean_pixel_difference": 0.0007175926002673805
+    },
+    {
+      "id": "shot-175",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-176",
+      "mean_pixel_difference": 0.00034722223062999547
+    },
+    {
+      "id": "shot-178",
+      "mean_pixel_difference": 0.0005613425746560097
+    },
+    {
+      "id": "shot-179",
+      "mean_pixel_difference": 0.3421354293823242
+    },
+    {
+      "id": "shot-181",
+      "mean_pixel_difference": 0.41597801446914673
+    },
+    {
+      "id": "shot-183",
+      "mean_pixel_difference": 0.0018518518190830946
+    },
+    {
+      "id": "shot-186",
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "id": "shot-187",
+      "mean_pixel_difference": 0.0016666667070239782
+    },
+    {
+      "id": "shot-189",
+      "mean_pixel_difference": 0.0037962961941957474
+    },
+    {
+      "id": "shot-190",
+      "mean_pixel_difference": 0.07333333045244217
+    },
+    {
+      "id": "shot-191",
+      "mean_pixel_difference": 0.0012268518330529332
+    }
+  ],
+  "slow_native_3d_checks": [
+    {
+      "id": "insert-000237",
+      "asset": "model-rafale",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 2.633333333333333
+    },
+    {
+      "id": "shot-008",
+      "asset": "model-rafale",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 6.600000000000001
+    },
+    {
+      "id": "shot-012",
+      "asset": "model-mig29",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 2.7666666666666657
+    },
+    {
+      "id": "shot-023",
+      "asset": "model-apache",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 7.699999999999989
+    },
+    {
+      "id": "shot-027",
+      "asset": "model-rafale",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 13.333333333333343
+    },
+    {
+      "id": "shot-033",
+      "asset": "model-mirage",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 4.166666666666657
+    },
+    {
+      "id": "shot-034",
+      "asset": "model-mig29",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 2.1333333333333258
+    },
+    {
+      "id": "shot-045",
+      "asset": "model-rafale",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 11.966666666666669
+    },
+    {
+      "id": "shot-132",
+      "asset": "model-apache",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 12.0
+    },
+    {
+      "id": "shot-141",
+      "asset": "model-apache",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 5.966666666666697
+    },
+    {
+      "id": "shot-169",
+      "asset": "model-rafale",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 5.2000000000000455
+    },
+    {
+      "id": "shot-182",
+      "asset": "model-rafale",
+      "degrees_per_second": 15,
+      "native_fps": 30,
+      "source_seconds": 5.133333333333439
+    }
+  ],
+  "media_mix": {
+    "seconds_by_kind": {
+      "ident": 12.333,
+      "section": 33.533,
+      "turntable": 79.6,
+      "map": 131.867,
+      "photo": 733.567,
+      "archive": 232.933,
+      "graphic": 52.6,
+      "question": 14.8,
+      "outro": 8.767,
+      "compare": 110.0
+    },
+    "archive_share": 0.16520070921985816,
+    "scenes_by_kind": {
+      "map": 14,
+      "archive": 31,
+      "turntable": 12,
+      "photo": 102,
+      "compare": 14,
+      "graphic": 5,
+      "ident": 2,
+      "section": 11,
+      "question": 2,
+      "outro": 2
+    },
+    "source_decisions": [],
+    "first_90_seconds_shots": 23,
+    "three_d_quality_policy": "Detailed actual mesh geometry, native 30fps, slow 15 degree/s rotation; no illustrative green tank meshes"
+  },
+  "encoded_freeze_mae_limit_8bit": 1.0,
+  "freeze_tolerance_note": "H264 compression may vary subpixel rounding across static frames; entrance source is held with tpad clone",
+  "control_frames": 198,
+  "continuous_human_watch_and_listen": "not performed; source sheets, storyboard and encoded controls are separately reviewed"
+}

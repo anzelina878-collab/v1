@@ -1,0 +1,11 @@
+{
+  "id": "map-north",
+  "photo_source": null,
+  "video_source": "https://www.naturalearthdata.com/",
+  "photo_metadata": null,
+  "video_metadata": {
+    "license": "Public domain geodata; full source notices in assets/maps/SOURCES.md",
+    "author": "Original animation using Natural Earth, Mapzen and NASA/USGS data",
+    "description": "Actual elevation mesh; 20× vertical exaggeration for visible Himalayan relief. Disputed boundaries styled dashed; no claim of sovereignty."
+  }
+}

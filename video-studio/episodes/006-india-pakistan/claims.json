@@ -1,0 +1,35 @@
+{
+  "scope": "Visual captions checked against these sources; user script and voice are unchanged. This is not a full independent verification of every narration claim.",
+  "claims": [
+    {
+      "id": "nuclear-2026",
+      "statement": "Approximate inventories at January 2026: India 190, Pakistan 170; estimates, not official exact counts",
+      "sources": [
+        "https://www.sipri.org/sites/default/files/2026-06/yb26_summary_en_1.pdf",
+        "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now"
+      ]
+    },
+    {
+      "id": "air-losses-2025",
+      "statement": "India acknowledged losses; exact scale and claimed kills disputed. Do not fabricate a verified kill count in graphics.",
+      "sources": [
+        "https://www.reuters.com/world/pakistans-chinese-made-jet-brought-down-two-indian-fighter-aircraft-us-officials-2025-05-08/",
+        "https://www.investing.com/news/world-news/india-says-changed-tactics-worked-well-in-conflict-with-pakistan-4074046"
+      ]
+    },
+    {
+      "id": "map-boundaries",
+      "statement": "Country polygons and disputed linework are geographic context; dashed northern disputed segments; not a claim of sovereignty. Terrain is genuinely three-dimensional with exaggerated elevations.",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/",
+        "https://registry.opendata.aws/terrain-tiles/"
+      ]
+    }
+  ],
+  "exclusions": [
+    "Cope India 883903: first excerpt mainly U.S. B-1, not Rafale; rejected for aircraft-specific scenes.",
+    "PCL-181 image formerly misidentified PCL-09: not used as SH-15. SH-15 is represented by an equipment information plate from scripted technical facts.",
+    "Vikrant source historical predecessor, interview and title-card intervals excluded; only modern ship views selected.",
+    "No synthetic footage is labelled archival or contemporary combat."
+  ]
+}

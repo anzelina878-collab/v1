@@ -1,0 +1,30 @@
+{
+  "seconds_by_kind": {
+    "ident": 12.333,
+    "section": 33.533,
+    "turntable": 79.6,
+    "map": 131.867,
+    "photo": 733.567,
+    "archive": 232.933,
+    "graphic": 52.6,
+    "question": 14.8,
+    "outro": 8.767,
+    "compare": 110.0
+  },
+  "archive_share": 0.16520070921985816,
+  "scenes_by_kind": {
+    "map": 14,
+    "archive": 31,
+    "turntable": 12,
+    "photo": 102,
+    "compare": 14,
+    "graphic": 5,
+    "ident": 2,
+    "section": 11,
+    "question": 2,
+    "outro": 2
+  },
+  "source_decisions": [],
+  "first_90_seconds_shots": 23,
+  "three_d_quality_policy": "Detailed actual mesh geometry, native 30fps, slow 15 degree/s rotation; no illustrative green tank meshes"
+}

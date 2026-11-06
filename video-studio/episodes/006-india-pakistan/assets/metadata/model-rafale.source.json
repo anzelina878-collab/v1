@@ -1,0 +1,15 @@
+{
+  "id": "model-rafale",
+  "photo_source": "https://github.com/FGMEMBERS/RafaleB",
+  "video_source": "https://github.com/FGMEMBERS/RafaleB",
+  "photo_metadata": {
+    "license": "GPL-2.0-or-later",
+    "author": "FlightGear contributors",
+    "source": "https://github.com/FGMEMBERS/RafaleB"
+  },
+  "video_metadata": {
+    "license": "GPL-2.0-or-later",
+    "author": "FlightGear contributors",
+    "source": "https://github.com/FGMEMBERS/RafaleB"
+  }
+}

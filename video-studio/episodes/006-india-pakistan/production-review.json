@@ -1,0 +1,23 @@
+{
+  "episode": 6,
+  "state": "technically_verified",
+  "scope": "Visual production using supplied unchanged Ukrainian script and voice",
+  "reference": "005-israel-iran",
+  "changes_requested": [
+    "Improved actual 3D maps",
+    "No source/software/download captions on maps"
+  ],
+  "script_policy": "Original preserved; no new narration or tempo changes",
+  "visual_review": "Source sheets, all storyboard pages and selected corrected source frames reviewed",
+  "continuous_human_watch_and_listen": "not performed; source sheets, storyboard and all encoded control sheets reviewed separately",
+  "technical_verification": "passed: full AV decode, exact frame count, audio correlation, static photos/cards and native map/model pose checks",
+  "ai_video_seconds": 0,
+  "ai_photo_seconds": 0,
+  "notes": "Background segmentation is derivative preparation of real photos, not synthetic photography. Archive years/operators are labelled.",
+  "encoded_control_frames_reviewed": 198,
+  "studio_tests": "19 passed",
+  "portable_unpack_render": "passed",
+  "source_archive_asset_records": 78,
+  "final_video_sha256": "02fef31cb763473223309a8f4fd7ce684c5d9b0659a286294ffb2227d297659b",
+  "final_map_label_review": "passed after removal of redundant navy-map heading"
+}

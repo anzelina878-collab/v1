@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "archive": "project_draft.zip",
+  "entries": 217,
+  "compiler_idempotence": "passed in fresh unpack",
+  "scene_data_equivalence": "passed vs production episode",
+  "standalone_sample": "one-second full-HD map clip successfully encoded from unpacked assets",
+  "symlinks_in_zip": false,
+  "original_script_and_voice_hashes": "verified by packager"
+}

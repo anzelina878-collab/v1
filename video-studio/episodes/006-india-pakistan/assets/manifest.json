@@ -1,0 +1,1314 @@
+[
+  {
+    "id": "agni",
+    "display_name": "AGNI · РОДИНА РАКЕТ",
+    "photo": "assets/photos/agni.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Advanced_Agni_Missile.jpg",
+    "photo_credit": "DRDO · GODL-India",
+    "photo_metadata": {
+      "author": "DRDO",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "Advanced Agni missile with MIRV system. The missile was flight tested with multiple payloads, targeted to different targets spatially distributed over a large geographical area in the Indian Ocean Region",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Advanced_Agni_Missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Original source file; resized/cropped only if indicated separately"
+    },
+    "original_photo": "assets/photos/agni.jpg"
+  },
+  {
+    "id": "agosta",
+    "display_name": "AGOSTA · РОДИНА",
+    "photo": "assets/photos/agosta.jpg",
+    "original_photo": "assets/photos/agosta.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:OuessantBrest2005.jpg",
+    "photo_credit": "Yannick Le Bris · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "Yannick Le Bris",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Le sous-marin français Ouessant en rade de Brest. Ce dernier sous-marin à propulsion diesel de la Marine nationale, après avoir été retiré du service actif le 13 juillet 2001, a été réactivé en 2005. Après une IPER à Brest, il est prêté à la Marine malaisienne pour formation de ses équipages.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/OuessantBrest2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Agosta-class_submarine",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "ak203",
+    "display_name": "AK203",
+    "photo": "assets/photos/ak203.jpg",
+    "original_photo": "assets/photos/ak203.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IndianArmyAK203_1.jpg",
+    "photo_credit": "Sumbria.vikramaditya · CC0",
+    "photo_metadata": {
+      "author": "Sumbria.vikramaditya",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "AK203 rifle deployed by Indian Army.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/IndianArmyAK203_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "AK-203",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "akash",
+    "display_name": "AKASH",
+    "photo": "assets/photos/akash.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Akash_missile_test_on_18_June_2014.jpg",
+    "photo_credit": "Ministry of Defence, Government of India · GODL-India",
+    "photo_metadata": {
+      "author": "Ministry of Defence, Government of India",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "Akash, missile successfully test fired in very low altitude near boundary mission from the Integrated Test Range, Balasore, Odisha on June 18, 2014.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Akash_missile_test_on_18_June_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized, otherwise faithful original"
+    },
+    "original_photo": "assets/photos/akash.jpg"
+  },
+  {
+    "id": "alkhalid",
+    "display_name": "ALKHALID",
+    "photo": "assets/photos/alkhalid.jpg",
+    "original_photo": "assets/photos/alkhalid.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Al-Khalid_IDEAS_2012.jpg",
+    "photo_credit": "Photo by Guy Martin / Pakistan and China to jointly market Al Khalid tank · CC BY 1.0",
+    "photo_metadata": {
+      "author": "Photo by Guy Martin / Pakistan and China to jointly market Al Khalid tank",
+      "license": "CC BY 1.0",
+      "license_url": "https://creativecommons.org/licenses/by/1.0",
+      "description": "Al-Khalid tank on display at IDEAS 2012 held at Expo Center, Karachi, Pakistan in November, 2012.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Al-Khalid_IDEAS_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Al-Khalid_tank",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "apache-demo",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/apache-demo.mp4",
+    "video_source": "https://www.dvidshub.net/video/834686",
+    "video_credit": "DVIDS / 834686 · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2203/DOD_108859517/DOD_108859517.mp4",
+      "title": "DVIDS - Video - AH-64 Apache",
+      "description": ""
+    },
+    "duration": 70.0,
+    "display_name": "DVIDS - Video - AH-64 Apache"
+  },
+  {
+    "id": "apache-indian-action",
+    "display_name": "AH-64 · ІНДІЯ, НАВЧАННЯ 2026",
+    "video": "assets/video/apache-indian-action.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/1024340/indian-apache-helicopters-support-field-training-during-yudh-abhyas-2026",
+    "video_credit": "Sgt. Grayson Cavaliere · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Sgt. Grayson Cavaliere",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_112005400/DOD_112005400.mp4",
+      "source_page": "https://www.dvidshub.net/video/1024340/indian-apache-helicopters-support-field-training-during-yudh-abhyas-2026",
+      "description": "AH-64 · ІНДІЯ, НАВЧАННЯ 2026",
+      "changes": "Muted, original speed; source initial excerpt normalized 1280×720 30fps"
+    }
+  },
+  {
+    "id": "arihant",
+    "display_name": "INS ARIHANT",
+    "photo": "assets/photos/arihant.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:INS_Arihant_at_sea_(cropped).jpg",
+    "photo_credit": "Prime Minister's Office · GODL-India",
+    "photo_metadata": {
+      "author": "Prime Minister's Office",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "PM Modi addresses the crew of INS Arihant, congratulating them for completing the first deterrence patrol of INS Arihant.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/INS_Arihant_at_sea_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Original source file; resized/cropped only if indicated separately"
+    },
+    "original_photo": "assets/photos/arihant.jpg"
+  },
+  {
+    "id": "arjun",
+    "display_name": "ARJUN",
+    "photo": "assets/prepared/arjun.png",
+    "original_photo": "assets/photos/arjun.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Arjun_MK1A_field_trials.jpg",
+    "photo_credit": "w:Defence Research and Development Organisation · GODL-India",
+    "photo_metadata": {
+      "author": "w:Defence Research and Development Organisation",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "Arjun MBT Mk IA tank",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Arjun_MK1A_field_trials.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Arjun_(tank)",
+      "changes": "Background segmentation and crop, original retained; reviewed vehicle geometry preserved"
+    }
+  },
+  {
+    "id": "atags",
+    "display_name": "ATAGS",
+    "photo": "assets/photos/atags.jpg",
+    "original_photo": "assets/photos/atags.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:ATAGS.jpg",
+    "photo_credit": "DRDO, Government of India · GODL-India",
+    "photo_metadata": {
+      "author": "DRDO, Government of India",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "ATAGS during firing trails",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/ATAGS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "DRDO_Advanced_Towed_Artillery_Gun_System",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "austrahind",
+    "display_name": "ПІДГОТОВКА ПІХОТИ · AUSTRAHIND, 2022",
+    "video": "assets/video/austrahind.mp4",
+    "duration": 81.966667,
+    "video_source": "https://commons.wikimedia.org/wiki/File:Indian_Army_and_Australian_Army_practised_room_intervention_and_slithering_ops_of_small_teams_by_Dhruv_during_AustraHind_2022.webm",
+    "video_credit": "South Western Command, Indian Army · GODL-India",
+    "video_metadata": {
+      "author": "South Western Command, Indian Army",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "Indian Army and Australian Army practised Room Intervention and Slithering Ops of small teams by indigenously designed and developed ALH (Dhruv) during AustraHind 2022",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Indian_Army_and_Australian_Army_practised_room_intervention_and_slithering_ops_of_small_teams_by_Dhruv_during_AustraHind_2022.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Muted, resized and normalized 30fps at original speed; first 125 seconds maximum"
+    }
+  },
+  {
+    "id": "babur",
+    "display_name": "BABUR",
+    "photo": "assets/photos/babur.jpg",
+    "original_photo": "assets/photos/babur.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Babur_aa.jpg",
+    "photo_credit": "M.ASIF AMIN · Public domain",
+    "photo_metadata": {
+      "author": "M.ASIF AMIN",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "PAKISTAN's BABUR CRUESE MISSILE AT IDEAS 2006",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Babur_aa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Babur_(cruise_missile)",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "bhishma",
+    "display_name": "Т-90S BHISHMA",
+    "photo": "assets/photos/bhishma.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:T-90_Bhisma_cropped.jpg",
+    "photo_credit": "T-90_Bhisma.jpg: cell105 (flickr user) · CC BY 3.0",
+    "photo_metadata": {
+      "author": "T-90_Bhisma.jpg: cell105 (flickr user)",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "description": "T-90 tank of the Indian army.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/T-90_Bhisma_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Original source file; resized/cropped only if indicated separately"
+    },
+    "original_photo": "assets/photos/bhishma.jpg"
+  },
+  {
+    "id": "brahmos",
+    "display_name": "BRAHMOS",
+    "photo": "assets/photos/brahmos.jpg",
+    "original_photo": "assets/photos/brahmos.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:The_Brahmos_Missile_system_passes_through_the_Rajpath_during_the_full_dress_rehearsal_for_the_Republic_Day_Parade_in_New_Delhi_on_January_23,2006.jpg",
+    "photo_credit": "Ministry of Defence · GODL-India",
+    "photo_metadata": {
+      "author": "Ministry of Defence",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "The  Brahmos Missile system passes through the Rajpath during the full dress rehearsal for the Republic Day Parade in New Delhi on January 23,2006.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Brahmos_Missile_system_passes_through_the_Rajpath_during_the_full_dress_rehearsal_for_the_Republic_Day_Parade_in_New_Delhi_on_January_23%2C2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "BrahMos",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "brahmos-launch",
+    "display_name": "BRAHMOS-LAUNCH",
+    "video": "assets/video/brahmos-launch.webm",
+    "video_source": "https://commons.wikimedia.org/wiki/File:INS_Visakhapatnam_firing_Brahmos_Supersonic_missile.webm",
+    "video_credit": "Government of India · GODL-India",
+    "video_metadata": {
+      "author": "Government of India",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "Indian Navy - 75 Years in Service of the Nation\nPresident's Fleet Review",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/INS_Visakhapatnam_firing_Brahmos_Supersonic_missile.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Original source file; resized/cropped only if indicated separately"
+    },
+    "duration": 11.242
+  },
+  {
+    "id": "brahmos-test",
+    "display_name": "BRAHMOS-TEST",
+    "video": "assets/video/brahmos-test.webm",
+    "video_source": "https://commons.wikimedia.org/wiki/File:Brahmos_ER.webm",
+    "video_credit": "Government of India · GODL-India",
+    "video_metadata": {
+      "author": "Government of India",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "The BrahMos supersonic cruise missile with increased indigenous content and improved performance was successfully test fired today from Chandipur. \nRaksha Mantri Rajnathsingh congratulated the BrahMosMissile , DRDO teams and industry for the successful flight test",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Brahmos_ER.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Original source file; resized/cropped only if indicated separately"
+    },
+    "duration": 7.786
+  },
+  {
+    "id": "channel-ident",
+    "video": "assets/video/channel-ident.mp4",
+    "duration": 6,
+    "video_credit": "АРСЕНАЛ 360° · original channel ident"
+  },
+  {
+    "id": "cobra-pak",
+    "display_name": "AH-1 COBRA · РОДИНА",
+    "photo": "assets/prepared/cobra-pak.png",
+    "original_photo": "assets/photos/cobra-pak.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:US_Army_AH-1G_archived.jpg",
+    "photo_credit": "US Army · Public domain",
+    "photo_metadata": {
+      "author": "US Army",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "US Army AH-1G",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/US_Army_AH-1G_archived.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Bell_AH-1_Cobra",
+      "changes": "Reviewed background segmentation; original retained"
+    }
+  },
+  {
+    "id": "delhi",
+    "display_name": "DELHI",
+    "photo": "assets/photos/delhi.jpg",
+    "original_photo": "assets/photos/delhi.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Forecourt,_Rashtrapati_Bhavan_-_1.jpg",
+    "photo_credit": "Ronakshah1990 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Ronakshah1990",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "The Rashtrapati Bhavan, formerly called Viceroy's House, in Delhi.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "New_Delhi",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "fatah",
+    "display_name": "FATAH · РОДИНА СИСТЕМ",
+    "photo": "assets/photos/fatah.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Pakistani_Fatah-1-and-fatah-2_MLRS.jpg",
+    "photo_credit": "Unknown authorUnknown author · CC0",
+    "photo_metadata": {
+      "author": "Unknown authorUnknown author",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Pakistani Fatah-1 and Fatah-2 MLRS together",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Pakistani_Fatah-1-and-fatah-2_MLRS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Original source file; resized/cropped only if indicated separately"
+    },
+    "original_photo": "assets/photos/fatah.jpg"
+  },
+  {
+    "id": "g3",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/g3.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:AME1.jpg",
+    "photo_credit": "Quickload at English Wikipedia · Public domain",
+    "photo_metadata": {
+      "file": "File:AME1.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:AME1.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/AME1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/Heckler_&_Koch_G3",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Quickload at English Wikipedia",
+      "description": "The CEAM Modèle 1950, a French effort to put the StG 45(M) concept into mass production. Chambered in .30 Carbine. CEAM Modèle 1950, a French StG45 derivative in .30 US Carbine.",
+      "credit": "Transferred from en.wikipedia to Commons."
+    },
+    "display_name": "G3"
+  },
+  {
+    "id": "harop",
+    "display_name": "IAI HAROP · ЕКСПОЗИЦІЯ",
+    "photo": "assets/photos/harop.jpg",
+    "original_photo": "assets/photos/harop.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IAI_Harop_PAS_2013_01.jpg",
+    "photo_credit": "Julian Herzog (Website) · CC BY 4.0",
+    "photo_metadata": {
+      "author": "Julian Herzog (Website)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "IAI Harop UAV at Paris Air Show 2013.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/IAI_Harop_PAS_2013_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "IAI_Harop",
+      "changes": "Resized exhibition photograph; source retained"
+    }
+  },
+  {
+    "id": "heron",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/prepared/heron.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IAI_Heron(_framed).jpg",
+    "photo_credit": "SSGT REYNALDO RAMON · Public domain",
+    "photo_metadata": {
+      "file": "File:IAI_Heron(_framed).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IAI_Heron(_framed).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/IAI_Heron%28_framed%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/IAI_Heron",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "SSGT REYNALDO RAMON",
+      "description": "A Hunter Joint Tactical Unmanned Aerial Vehicle (UAV) in flight during a Combat Search and Rescue (CSAR) training exercise at Fallon Naval Air Station (NAS), Nevada (NV), during exercise DESERT RESCUE XI. The Hunter is an Israeli multi-role short-range UAV system in service with the US Army (USA). The exercise is a joint service Combat Search and Rescue (CSAR) training exercise hosted by the Naval Strike and Warfare Center, designed to simulate downed aircrews, enabling CSAR related missions to experiment with new techniques in realistic scenarios.",
+      "credit": "commons.wikimedia",
+      "modifications": "Background segmentation only; original silhouette, no invented parts; mask visually reviewed"
+    },
+    "display_name": "HERON",
+    "original_photo": "assets/photos/heron.jpg"
+  },
+  {
+    "id": "hq9",
+    "display_name": "HQ-9 · РОДИНА",
+    "photo": "assets/photos/hq9.jpg",
+    "original_photo": "assets/photos/hq9.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Chinese_HQ-9_launcher.jpg",
+    "photo_credit": "Jian Kang · CC BY 3.0",
+    "photo_metadata": {
+      "author": "Jian Kang",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Chinese HongQi 9 [HQ-9] launcher during China's 60th anniversary parade, 2009.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chinese_HQ-9_launcher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "HQ-9",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "in-flag",
+    "display_name": "IN flag",
+    "photo": "assets/flags/in-flag.png",
+    "photo_source": "Original Pillow drawing of national flag",
+    "photo_credit": "Original vector redrawing",
+    "photo_metadata": {
+      "license": "CC0",
+      "author": "ARSENAL 360°"
+    }
+  },
+  {
+    "id": "infantry2019",
+    "display_name": "YUDH ABHYAS · НАВЧАННЯ, 2019",
+    "video": "assets/video/infantry2019.mp4",
+    "duration": 66.8,
+    "video_source": "https://commons.wikimedia.org/wiki/File:Yudh_Abhyas_2019_training_video.webm",
+    "video_credit": "Staff Sgt. Joseph Tolliver · Public domain",
+    "video_metadata": {
+      "author": "Staff Sgt. Joseph Tolliver",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "U.S. Army and Indian Army soldiers are training to become a cohesive team, on Joint Base Lewis–McChord, during exercise Yudh Abhyas 2019. The joint training is designed to build the two armies joint capacity, and share culture and knowledge to support the Pacific region.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Yudh_Abhyas_2019_training_video.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Muted, resized and normalized 30fps at original speed; first 125 seconds maximum"
+    }
+  },
+  {
+    "id": "insas",
+    "display_name": "INSAS",
+    "photo": "assets/photos/insas.jpg",
+    "original_photo": "assets/photos/insas.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:INSAS_rifle_(Browngirl06).jpg",
+    "photo_credit": "en:User:Browngirl06 · Public domain",
+    "photo_metadata": {
+      "author": "en:User:Browngirl06",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "INSAS rifle",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/INSAS_rifle_%28Browngirl06%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "INSAS_rifle",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "integrated",
+    "display_name": "YUDH ABHYAS · НАВЧАННЯ, 2026",
+    "video": "assets/video/integrated.mp4",
+    "duration": 51.8,
+    "video_source": "https://www.dvidshub.net/video/1023914/us-indian-army-soldiers-integrate-capabilities-during-yudh-abhyas-2026",
+    "video_credit": "Sgt. Grayson Cavaliere · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Sgt. Grayson Cavaliere",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111998890/DOD_111998890.mp4",
+      "source_page": "https://www.dvidshub.net/video/1023914/us-indian-army-soldiers-integrate-capabilities-during-yudh-abhyas-2026",
+      "description": "YUDH ABHYAS · НАВЧАННЯ, 2026",
+      "changes": "Muted, original speed; source initial excerpt normalized 1280×720 30fps"
+    }
+  },
+  {
+    "id": "islamabad",
+    "display_name": "ISLAMABAD",
+    "photo": "assets/photos/islamabad.jpg",
+    "original_photo": "assets/photos/islamabad.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Faisal_Mosque,_Islamabad_III.jpg",
+    "photo_credit": "Fassifarooq · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Fassifarooq",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "This is a photo of a monument in Pakistan identified as the",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Islamabad",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "j10",
+    "display_name": "J-10 · РОДИНА ЛІТАКІВ",
+    "photo": "assets/prepared/j10.png",
+    "original_photo": "assets/photos/j10.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:J-10B_with_PL-10_and_PL-12.jpg",
+    "photo_credit": "Alert5 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Alert5",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "A J-10B carrying PL-8 and PL-12 air-to-air missiles landing at Zhuhai Jinwan airport ahead of Airshow China 2018.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/J-10B_with_PL-10_and_PL-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Chengdu_J-10",
+      "changes": "Background segmentation and crop, original retained; reviewed vehicle geometry preserved"
+    }
+  },
+  {
+    "id": "j10ce",
+    "display_name": "J-10CE · ЕКСПОЗИЦІЯ, 2024",
+    "photo": "assets/photos/j10ce.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:J-10CE_for_Pakistan_air_force_in_Zhuhai_airshow_2024_-_GB3_PGB_(cropped).jpg",
+    "photo_credit": "Z3144228 · CC0",
+    "photo_metadata": {
+      "author": "Z3144228",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "J-10CE for Pakistan air force in Zhuhai airshow 2024",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/J-10CE_for_Pakistan_air_force_in_Zhuhai_airshow_2024_-_GB3_PGB_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized, otherwise faithful original"
+    },
+    "original_photo": "assets/photos/j10ce.jpg"
+  },
+  {
+    "id": "jf17",
+    "display_name": "JF17",
+    "photo": "assets/prepared/jf17.png",
+    "original_photo": "assets/photos/jf17.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Pakistan_Air_Force_Chengdu_JF-17_Gu.jpg",
+    "photo_credit": "Shimin Gu · GFDL 1.2",
+    "photo_metadata": {
+      "author": "Shimin Gu",
+      "license": "GFDL 1.2",
+      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "description": "Pakistan Air Force Chengdu JF-17/Pulqui-111",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Pakistan_Air_Force_Chengdu_JF-17_Gu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "CAC/PAC_JF-17_Thunder",
+      "changes": "Background segmentation and crop, original retained; reviewed vehicle geometry preserved"
+    }
+  },
+  {
+    "id": "k4-launch",
+    "display_name": "К-4 · ВИПРОБУВАЛЬНИЙ ПУСК, 2014",
+    "video": "assets/video/k4-launch.mp4",
+    "duration": 29.633333,
+    "video_source": "https://commons.wikimedia.org/wiki/File:K4_SLBM_Launch_Video.webm",
+    "video_credit": "Defence Research and Development Organisation · GODL-India",
+    "video_metadata": {
+      "author": "Defence Research and Development Organisation",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "K4 SLBM First Test Launch Video. (24 March 2014)",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/K4_SLBM_Launch_Video.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Muted, resized and normalized 30fps at original speed; first 125 seconds maximum"
+    }
+  },
+  {
+    "id": "k9",
+    "display_name": "K9 VAJRA-T",
+    "photo": "assets/photos/k9.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:K9_Vajra-T_in_2022.jpg",
+    "photo_credit": "Official Page of Indian Army Southern Command Pune · GODL-India",
+    "photo_metadata": {
+      "author": "Official Page of Indian Army Southern Command Pune",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "Exercise TOPCHI, annual firepower demonstration & training exercise of Regiment of Artillery, was conducted by School of Artillery Devlali.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/K9_Vajra-T_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Original source file; resized/cropped only if indicated separately"
+    },
+    "original_photo": "assets/photos/k9.jpg"
+  },
+  {
+    "id": "kalvari",
+    "display_name": "KALVARI",
+    "photo": "assets/photos/kalvari.jpg",
+    "original_photo": "assets/photos/kalvari.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:INS_Kalvari_(S21)_at_sea.jpg",
+    "photo_credit": "Indian Navy · CC BY 2.5 in",
+    "photo_metadata": {
+      "author": "Indian Navy",
+      "license": "CC BY 2.5 in",
+      "license_url": "https://creativecommons.org/licenses/by/2.5/in/deed.en",
+      "description": "INS Kalvari first of six Scorpene class submarines constructed at Mazagon Dock under Project 75 (Kalvari Class) was commissioned into Indian Navy.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/INS_Kalvari_%28S21%29_at_sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Kalvari-class_submarine_(2015)",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "kolkata",
+    "display_name": "KOLKATA",
+    "photo": "assets/photos/kolkata.jpg",
+    "original_photo": "assets/photos/kolkata.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:INS_Kolkata_steams_alongside_the_guided-missile_destroyer_USS_Sterett_(DDG_104)_during_Malabar_2020_(cropped).jpg",
+    "photo_credit": "U.S. Navy photo by Mass Communication Specialist Seaman Drace Wilson · Public domain",
+    "photo_metadata": {
+      "author": "U.S. Navy photo by Mass Communication Specialist Seaman Drace Wilson",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "INDIAN OCEAN (Nov. 18, 2020) The Indian navy destroyer INS Kolkata steams alongside the guided-missile destroyer USS Sterett (DDG 104) during Malabar 2020. Malabar 2020 is the latest in a continuing series of exercises that has grown in scope and complexity over the years to address the variety of shared threats to maritime security in the Indo-Pacific where the U.S. Navy has patrolled for more than 70 years promoting regional peace and security. Nimitz Carrier Strike Group is currently deployed to the 7th Fleet area of operations in support of a free and open Indo-Pacific. (U.S. Navy photo by Mass Communication Specialist Seaman Drace Wilson)",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/INS_Kolkata_steams_alongside_the_guided-missile_destroyer_USS_Sterett_%28DDG_104%29_during_Malabar_2020_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Kolkata-class_destroyer",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "lch",
+    "display_name": "LCH",
+    "photo": "assets/prepared/lch.png",
+    "original_photo": "assets/photos/lch.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HAL_Prachand_(ZF_4834).jpg",
+    "photo_credit": "IAF · GODL-India",
+    "photo_metadata": {
+      "author": "IAF",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "HAL Prachand flight testing",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/HAL_Prachand_%28ZF_4834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "HAL_Prachand",
+      "changes": "Background segmentation and crop, original retained; reviewed vehicle geometry preserved"
+    }
+  },
+  {
+    "id": "ly80",
+    "display_name": "LY80",
+    "photo": "assets/photos/ly80.jpg",
+    "original_photo": "assets/photos/ly80.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HQ-16A_Surface-to-air_missiles_20170919.jpg",
+    "photo_credit": "Tyg728 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Tyg728",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​红旗-16A防空导弹",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/HQ-16A_Surface-to-air_missiles_20170919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "HQ-16",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "m109",
+    "kind": [
+      "real_photo"
+    ],
+    "photo": "assets/photos/m109.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Kings_of_battle_keep_the_fire;_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg",
+    "photo_credit": "Staff Sgt. Richard Wrigley · Public domain",
+    "photo_metadata": {
+      "file": "File:Kings_of_battle_keep_the_fire;_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kings_of_battle_keep_the_fire;_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kings_of_battle_keep_the_fire%3B_1-9_FA_fires_its_last_rounds_140910-A-CW513-046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/M109_howitzer",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Staff Sgt. Richard Wrigley",
+      "description": "M109A6 Paladins from Battery B, 1st Battalion, 9th Field Artillery Regiment “Battlekings”, 2nd Armored Brigade Combat Team, 3rd Infantry Division, sit ready to fire their Gunnery Table VI here, Sept. 11. The Battlekings’ B Battery just completed Paladin GT VI crew qualifications. Unique to this gunnery is the fact that it this will be the last rounds fired by the Battlekings for the foreseeable future as they are slated to inactivate in the very near future. (U.S. Army Photo by Staff Sgt. Richard Wrigley 2nd ABCT, 3rd ID, Public Affairs NCO)",
+      "credit": "https://www.dvidshub.net/image/1694738"
+    },
+    "display_name": "M109 · РОДИНА САУ"
+  },
+  {
+    "id": "m109-action",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/m109-action.mp4",
+    "video_source": "https://www.dvidshub.net/video/825964",
+    "video_credit": "DVIDS / 825964 · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2112/DOD_108733447/DOD_108733447.mp4",
+      "title": "DVIDS - Video - B-roll: BattleKings Battalion fire modernized M109A7 Paladin howitzers B-roll",
+      "description": ""
+    },
+    "duration": 90.0,
+    "display_name": "DVIDS - Video - B-roll: BattleKings Battalion fire modernized M109A7 Paladin howitzers B-roll"
+  },
+  {
+    "id": "m777",
+    "display_name": "M777 · РОДИНА ГАУБИЦЬ",
+    "photo": "assets/photos/m777.jpg",
+    "original_photo": "assets/photos/m777.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:M777_howitzer_rear.jpg",
+    "photo_credit": "Sgt. Jose E. Guillen · Public domain",
+    "photo_metadata": {
+      "author": "Sgt. Jose E. Guillen",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "An M777 howitzer, seen from the rear.\nOriginal caption: \"Artillerymen with Gun 3, Guns Platoon, Battery K, 3rd Battalion, 11th Marine Regiment, 1st Marine Division, based out of Marine Corps Base, Twentynine Palms, Calif., fire-off a round with the newly fielded M777 Lightweight 155-millimeter Howitzer Monday at the Marine Corps Air Ground Combat Center. Three lightweight howitzers were fielded to Kilo Battery, which participated in a weeklong Fire Exercise beginning May 23.\"\n\n(The text, like the image, is PD-USGov-Military-Marines)",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/M777_howitzer_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "M777_howitzer",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "m777-india",
+    "display_name": "M777 · НАВЧАННЯ, 2026",
+    "video": "assets/video/m777-india.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/1023577/indian-army-demonstrates-m777-artillery-techniques-during-yudh-abhyas-2026",
+    "video_credit": "Sgt. Grayson Cavaliere · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Sgt. Grayson Cavaliere",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111989530/DOD_111989530.mp4",
+      "source_page": "https://www.dvidshub.net/video/1023577/indian-army-demonstrates-m777-artillery-techniques-during-yudh-abhyas-2026",
+      "description": "M777 · НАВЧАННЯ, 2026",
+      "changes": "Muted, original speed; source initial excerpt normalized 1280×720 30fps"
+    }
+  },
+  {
+    "id": "m777-joint",
+    "display_name": "M777 · СПІЛЬНІ НАВЧАННЯ, 2026",
+    "video": "assets/video/m777-joint.mp4",
+    "duration": 65.8,
+    "video_source": "https://www.dvidshub.net/video/1023576/us-indian-army-soldiers-exchange-artillery-techniques-during-m777-live-fire-yudh-abhyas-2026",
+    "video_credit": "Sgt. Grayson Cavaliere · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Sgt. Grayson Cavaliere",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111989523/DOD_111989523.mp4",
+      "source_page": "https://www.dvidshub.net/video/1023576/us-indian-army-soldiers-exchange-artillery-techniques-during-m777-live-fire-yudh-abhyas-2026",
+      "description": "M777 · СПІЛЬНІ НАВЧАННЯ, 2026",
+      "changes": "Muted, original speed; source initial excerpt normalized 1280×720 30fps"
+    }
+  },
+  {
+    "id": "malabar",
+    "display_name": "MALABAR · НАВЧАННЯ, 2020",
+    "video": "assets/video/malabar.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/778985/malabar-exercise-2020",
+    "video_credit": "Mass Communication Specialist 3rd Class Kyle Merritt · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Mass Communication Specialist 3rd Class Kyle Merritt",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2012/DOD_108123536/DOD_108123536-1024x576-1769k.mp4",
+      "source_page": "https://www.dvidshub.net/video/778985/malabar-exercise-2020",
+      "description": "MALABAR · НАВЧАННЯ, 2020",
+      "changes": "Muted, original speed; source initial excerpt normalized 1280×720 30fps"
+    }
+  },
+  {
+    "id": "map-navy",
+    "display_name": "ПІВДЕННА АЗІЯ",
+    "video": "assets/maps/map-navy.mp4",
+    "duration": 18,
+    "visual_origin": "true_3d_terrain",
+    "video_source": "https://www.naturalearthdata.com/",
+    "video_credit": "",
+    "video_metadata": {
+      "license": "Public domain geodata; full source notices in assets/maps/SOURCES.md",
+      "author": "Original animation using Natural Earth, Mapzen and NASA/USGS data",
+      "description": "Actual elevation mesh; 20× vertical exaggeration for visible Himalayan relief. Disputed boundaries styled dashed; no claim of sovereignty."
+    }
+  },
+  {
+    "id": "map-north",
+    "display_name": "ПІВДЕННА АЗІЯ",
+    "video": "assets/maps/map-north.mp4",
+    "duration": 18,
+    "visual_origin": "true_3d_terrain",
+    "video_source": "https://www.naturalearthdata.com/",
+    "video_credit": "",
+    "video_metadata": {
+      "license": "Public domain geodata; full source notices in assets/maps/SOURCES.md",
+      "author": "Original animation using Natural Earth, Mapzen and NASA/USGS data",
+      "description": "Actual elevation mesh; 20× vertical exaggeration for visible Himalayan relief. Disputed boundaries styled dashed; no claim of sovereignty."
+    }
+  },
+  {
+    "id": "map-region",
+    "display_name": "ПІВДЕННА АЗІЯ",
+    "video": "assets/maps/map-region.mp4",
+    "duration": 24,
+    "visual_origin": "true_3d_terrain",
+    "video_source": "https://www.naturalearthdata.com/",
+    "video_credit": "",
+    "video_metadata": {
+      "license": "Public domain geodata; full source notices in assets/maps/SOURCES.md",
+      "author": "Original animation using Natural Earth, Mapzen and NASA/USGS data",
+      "description": "Actual elevation mesh; 20× vertical exaggeration for visible Himalayan relief. Disputed boundaries styled dashed; no claim of sovereignty."
+    }
+  },
+  {
+    "id": "medevac-training",
+    "display_name": "МЕДИЧНА ПІДГОТОВКА · НАВЧАННЯ, 2026",
+    "video": "assets/video/medevac-training.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/1023384/us-indian-army-medics-conduct-bilateral-casualty-evacuation-training-during-yudh-abhyas-2026",
+    "video_credit": "Sgt. Grayson Cavaliere · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Sgt. Grayson Cavaliere",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111985544/DOD_111985544.mp4",
+      "source_page": "https://www.dvidshub.net/video/1023384/us-indian-army-medics-conduct-bilateral-casualty-evacuation-training-during-yudh-abhyas-2026",
+      "description": "МЕДИЧНА ПІДГОТОВКА · НАВЧАННЯ, 2026",
+      "changes": "Muted, original speed; source initial excerpt normalized 1280×720 30fps"
+    }
+  },
+  {
+    "id": "meteor",
+    "display_name": "METEOR",
+    "photo": "assets/photos/meteor.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:ILA_2008_PD_446.JPG",
+    "photo_credit": "ILA-boy · Public domain",
+    "photo_metadata": {
+      "author": "ILA-boy",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "A Meteor air-to-air missile, marked as an inert training article",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/ILA_2008_PD_446.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized, otherwise faithful original"
+    },
+    "original_photo": "assets/photos/meteor.jpg"
+  },
+  {
+    "id": "model-apache",
+    "video": "assets/models/apache/spin.mp4",
+    "photo": "assets/models/apache/still-object.png",
+    "duration": 24,
+    "display_name": "AH-64 APACHE · РОДИНА",
+    "video_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "photo_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "model_metadata": {
+      "id": "apache",
+      "repository": "https://github.com/FGMEMBERS/AH-64_Apache",
+      "model_path": "Models/apache3.ac",
+      "texture_mapping": {},
+      "documents": {
+        "COPYING": "\t\t    GNU GENERAL PUBLIC LICENSE\n\t\t       Version 2, June 1991\n\n Copyright (C) 1989, 1991 Free Software Foundation, Inc.\n                       59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n\t\t\t    Preamble\n\n  The licenses for most software are designed to take away your\nfreedom to share and change it.  By contrast, the GNU General Public\nLicense is intended to guarantee your freedom to share and change free\nsoftware--to make sure the software is free for all its users.  This\nGeneral Public License applies to most of the Free Software\nFoundation's software and to any other program whose authors commit to\nusing it.  (Some other Free Software Foundation software is covered by\nthe GNU Library General Public License instead.)  You can apply it to\nyour programs, too.\n\n  When we speak of free software, we are referring to freedom, not\nprice.  Our General Public Licenses are designed to make sure that you\nhave the freedom to distribute copies of free software (and charge for\nthis service if you wish), that you receive source code or can get it\nif you want it, that you can change the software or use pieces of it\nin new free programs; and that you know you can do these things.\n\n  To protect your rights, we need to make restrictions that forbid\nanyone to deny you these rights or to ask you to surrender the rights.\nThese restrictions translate to certain responsibilities for you if you\ndistribute copies of the software, or if you modify it.\n\n  For example, if you distribute copies of such a program, whether\ngratis or for a fee, you must give the recipients all the rights that\nyou have.  You must make sure that they, too, receive or can get the\nsource code.  And you must show them these terms so they know their\nrights.\n\n  We protect your rights with two steps: (1) copyright the software, and\n(2) offer you this license which gives you legal permission to copy,\ndistribute and/or modify the software.\n\n  Also, for each author's protection and ours, we want to make certain\nthat everyone understands that there is no warranty for this free\nsoftware.  If the software is modified by someone else and passed on, we\nwant its recipients to know that what they have is not the original, so\nthat any problems introduced by others will not reflect on the original\nauthors' reputations.\n\n  Finally, any free program is threatened constantly by software\npatents.  We wish to avoid the danger that redistributors of a free\nprogram will individually obtain patent licenses, in effect making the\nprogram proprietary.  To prevent this, we have made it clear that any\npatent must be licensed for everyone's free use or not licensed at all.\n\n  The precise terms and conditions for copying, distribution and\nmodification follow.\n\f\n\t\t    GNU GENERAL PUBLIC LICENSE\n   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n  0. This License applies to any program or other work which contains\na notice placed by the copyright holder saying it may be distributed\nunder the terms of this General Public License.  The \"Program\", below,\nrefers to any such program or work, and a \"work based on the Program\"\nmeans either the Program or any derivative work under copyright law:\nthat is to say, a work containing the Program or a portion of it,\neither verbatim or with modifications and/or translated into another\nlanguage.  (Hereinafter, translation is included without limitation in\nthe term \"modification\".)  Each licensee is addressed as \"you\".\n\nActivities other than copying, distribution and modification are not\ncovered by this License; they are outside its scope.  The act of\nrunning the Program is not restricted, and the output from the Program\nis covered only if its contents constitute a work based on the\nProgram (independent of having been made by running the Program).\nWhether that is true depends on what the Program does.\n\n  1. You may copy and distribute verbatim copies of the Program's\nsource code as you receive it, in any medium, provided that you\nconspicuously and appropriately publish on each copy an appropriate\ncopyright notice and disclaimer of warranty; keep intact all the\nnotices that refer to this License and to the absence of any warranty;\nand give any other recipients of the Program a copy of this License\nalong with the Program.\n\nYou may charge a fee for the physical act of transferring a copy, and\nyou may at your option offer warranty protection in exchange for a fee.\n\n  2. You may modify your copy or copies of the Program or any portion\nof it, thus forming a work based on the Program, and copy and\ndistribute such modifications or work under the terms of Section 1\nabove, provided that you also meet all of these conditions:\n\n    a) You must cause the modified files to carry prominent notices\n    stating that you changed the files and the date of any change.\n\n    b) You must cause any work that you distribute or publish, that in\n    whole or in part contains or is derived from the Program or any\n    part thereof, to be licensed as a whole at no charge to all third\n    parties under the terms of this License.\n\n    c) If the modified program normally reads commands interactively\n    when run, you must cause it, when started running for such\n    interactive use in the most ordinary way, to print or display an\n    announcement including an appropriate copyright notice and a\n    notice that there is no warranty (or else, saying that you provide\n    a warranty) and that users may redistribute the program under\n    these conditions, and telling the user how to view a copy of this\n    License.  (Exception: if the Program itself is interactive but\n    does not normally print such an announcement, your work based on\n    the Program is not required to print an announcement.)\n\f\nThese requirements apply to the modified work as a whole.  If\nidentifiable sections of that work are not derived from the Program,\nand can be reasonably considered independent and separate works in\nthemselves, then this License, and its terms, do not apply to those\nsections when you distribute them as separate works.  But when you\ndistribute the same sections as part of a whole which is a work based\non the Program, the distribution of the whole must be on the terms of\nthis License, whose permissions for other licensees extend to the\nentire whole, and thus to each and every part regardless of who wrote it.\n\nThus, it is not the intent of this section to claim rights or contest\nyour rights to work written entirely by you; rather, the intent is to\nexercise the right to control the distribution of derivative or\ncollective works based on the Program.\n\nIn addition, mere aggregation of another work not based on the Program\nwith the Program (or with a work based on the Program) on a volume of\na storage or distribution medium does not bring the other work under\nthe scope of this License.\n\n  3. You may copy and distribute the Pr",
+        "README.txt": "English/Fran�ais\n\n[English]\n----------\n\nA little history\n================\n\nEurocopter EC 665 \"Tigre\"\n=========================\n\nManufacturer                  : \nType                          : \nYear                          : \nPowerplant                    : \nWingspan                      : \nLength                        : \nHeight                        : \nweight                        : \nCruise speed                  : \nCrew                          :  \n\nSome useful keys:\n=================\n\nThanks\n======\n\n===============\nBARANGER Emmanuel\nJune, 09, 2009.\n\nhttp://helijah.free.fr/flightgear/hangar.htm\nembaranger@free.fr\n\n\n[Fran�ais]\n----------\n\nUn peu d'histoire\n=================\n\nEurocopter EC 665 \"Tigre\"\n=========================\n\nConstructeur                  :\nType                          :\nAnn�e                         :\nMoteur                        :\nEnvergure                     :\nLongueur                      :\nHauteur                       :\nPoids � vide                  :\nVitesse de croisi�re          :\nEquipage                      :\n\n\nQuelques touches utiles :\n=========================\n\nRemerciements\n=============\n\n===============\nBARANGER Emmanuel\n09 Juin 2009.\n\nhttp://helijah.free.fr/flightgear/hangar.htm\nembaranger@free.fr\n"
+      },
+      "license_status": "reviewed: individual notices plus FlightGear FGAddon GPL distribution policy",
+      "license": "GPL-2.0-or-later",
+      "license_basis": "Individual COPYING/README where present; FlightGear FGAddon GPL policy: https://www.flightgear.org/about/policy/",
+      "modifications": "Studio lighting/materials; simulator FX omitted; neutral paint for F-14; display-pose rotor blades added to AH-64/UH-60",
+      "review_note": "GPL2 COPYING supplied; full upstream notices retained. No F-35 geometry used."
+    },
+    "schematic": false,
+    "visual_origin": "true_3d_render"
+  },
+  {
+    "id": "model-mig29",
+    "kind": [
+      "motion_graphics"
+    ],
+    "photo": "assets/models/mig29/still-object.png",
+    "video": "assets/models/mig29/spin.mp4",
+    "display_name": "MIG29 · РОДИНА ЛІТАКІВ",
+    "duration": 24,
+    "visual_origin": "true_3d_render",
+    "photo_credit": "FlightGear contributors · GPL-2.0 · 3D",
+    "video_credit": "FlightGear contributors · GPL-2.0 · 3D",
+    "model_source": "https://github.com/FGMEMBERS/MiG-29",
+    "model_credit": "FlightGear contributors · GPL-2.0",
+    "model_metadata": {
+      "id": "mig29",
+      "repository": "https://github.com/FGMEMBERS/MiG-29",
+      "model_path": "Models/Mig-29.ac",
+      "texture_mapping": {
+        "Mig-29.rgb": "texture-0.rgb"
+      },
+      "documents": {
+        "COPYING.txt": "\t\t    GNU GENERAL PUBLIC LICENSE\r\n\t\t       Version 2, June 1991\r\n\r\n Copyright (C) 1989, 1991 Free Software Foundation, Inc.\r\n                       59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\r\n Everyone is permitted to copy and distribute verbatim copies\r\n of this license document, but changing it is not allowed.\r\n\r\n\t\t\t    Preamble\r\n\r\n  The licenses for most software are designed to take away your\r\nfreedom to share and change it.  By contrast, the GNU General Public\r\nLicense is intended to guarantee your freedom to share and change free\r\nsoftware--to make sure the software is free for all its users.  This\r\nGeneral Public License applies to most of the Free Software\r\nFoundation's software and to any other program whose authors commit to\r\nusing it.  (Some other Free Software Foundation software is covered by\r\nthe GNU Library General Public License instead.)  You can apply it to\r\nyour programs, too.\r\n\r\n  When we speak of free software, we are referring to freedom, not\r\nprice.  Our General Public Licenses are designed to make sure that you\r\nhave the freedom to distribute copies of free software (and charge for\r\nthis service if you wish), that you receive source code or can get it\r\nif you want it, that you can change the software or use pieces of it\r\nin new free programs; and that you know you can do these things.\r\n\r\n  To protect your rights, we need to make restrictions that forbid\r\nanyone to deny you these rights or to ask you to surrender the rights.\r\nThese restrictions translate to certain responsibilities for you if you\r\ndistribute copies of the software, or if you modify it.\r\n\r\n  For example, if you distribute copies of such a program, whether\r\ngratis or for a fee, you must give the recipients all the rights that\r\nyou have.  You must make sure that they, too, receive or can get the\r\nsource code.  And you must show them these terms so they know their\r\nrights.\r\n\r\n  We protect your rights with two steps: (1) copyright the software, and\r\n(2) offer you this license which gives you legal permission to copy,\r\ndistribute and/or modify the software.\r\n\r\n  Also, for each author's protection and ours, we want to make certain\r\nthat everyone understands that there is no warranty for this free\r\nsoftware.  If the software is modified by someone else and passed on, we\r\nwant its recipients to know that what they have is not the original, so\r\nthat any problems introduced by others will not reflect on the original\r\nauthors' reputations.\r\n\r\n  Finally, any free program is threatened constantly by software\r\npatents.  We wish to avoid the danger that redistributors of a free\r\nprogram will individually obtain patent licenses, in effect making the\r\nprogram proprietary.  To prevent this, we have made it clear that any\r\npatent must be licensed for everyone's free use or not licensed at all.\r\n\r\n  The precise terms and conditions for copying, distribution and\r\nmodification follow.\r\n\f\r\n\t\t    GNU GENERAL PUBLIC LICENSE\r\n   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\r\n\r\n  0. This License applies to any program or other work which contains\r\na notice placed by the copyright holder saying it may be distributed\r\nunder the terms of this General Public License.  The \"Program\", below,\r\nrefers to any such program or work, and a \"work based on the Program\"\r\nmeans either the Program or any derivative work under copyright law:\r\nthat is to say, a work containing the Program or a portion of it,\r\neither verbatim or with modifications and/or translated into another\r\nlanguage.  (Hereinafter, translation is included without limitation in\r\nthe term \"modification\".)  Each licensee is addressed as \"you\".\r\n\r\nActivities other than copying, distribution and modification are not\r\ncovered by this License; they are outside its scope.  The act of\r\nrunning the Program is not restricted, and the output from the Program\r\nis covered only if its contents constitute a work based on the\r\nProgram (independent of having been made by running the Program).\r\nWhether that is true depends on what the Program does.\r\n\r\n  1. You may copy and distribute verbatim copies of the Program's\r\nsource code as you receive it, in any medium, provided that you\r\nconspicuously and appropriately publish on each copy an appropriate\r\ncopyright notice and disclaimer of warranty; keep intact all the\r\nnotices that refer to this License and to the absence of any warranty;\r\nand give any other recipients of the Program a copy of this License\r\nalong with the Program.\r\n\r\nYou may charge a fee for the physical act of transferring a copy, and\r\nyou may at your option offer warranty protection in exchange for a fee.\r\n\r\n  2. You may modify your copy or copies of the Program or any portion\r\nof it, thus forming a work based on the Program, and copy and\r\ndistribute such modifications or work under the terms of Section 1\r\nabove, provided that you also meet all of these conditions:\r\n\r\n    a) You must cause the modified files to carry prominent notices\r\n    stating that you changed the files and the date of any change.\r\n\r\n    b) You must cause any work that you distribute or publish, that in\r\n    whole or in part contains or is derived from the Program or any\r\n    part thereof, to be licensed as a whole at no charge to all third\r\n    parties under the terms of this License.\r\n\r\n    c) If the modified program normally reads commands interactively\r\n    when run, you must cause it, when started running for such\r\n    interactive use in the most ordinary way, to print or display an\r\n    announcement including an appropriate copyright notice and a\r\n    notice that there is no warranty (or else, saying that you provide\r\n    a warranty) and that users may redistribute the program under\r\n    these conditions, and telling the user how to view a copy of this\r\n    License.  (Exception: if the Program itself is interactive but\r\n    does not normally print such an announcement, your work based on\r\n    the Program is not required to print an announcement.)\r\n\f\r\nThese requirements apply to the modified work as a whole.  If\r\nidentifiable sections of that work are not derived from the Program,\r\nand can be reasonably considered independent and separate works in\r\nthemselves, then this License, and its terms, do not apply to those\r\nsections when you distribute them as separate works.  But when you\r\ndistribute the same sections as part of a whole which is a work based\r\non the Program, the distribution of the whole must be on the terms of\r\nthis License, whose permissions for other licensees extend to the\r\nentire whole, and thus to each and every part regardless of who wrote it.\r\n\r\nThus, it is not the intent of this section to claim rights or contest\r\nyour rights to work written entirely by you; rather, the intent is to\r\nexercise the right to control the distribution of derivative or\r\ncollective works based on the Program.\r\n\r\nIn addition, mere aggregation of another work not based on the Program\r\nwith the Program (or with a work based on the Program) on a volume of\r\na stor",
+        "README.txt": "MiG-29 9-12 Fulcrum-A Notes\r\n---------------------------\r\n\r\nFirst let me state up front that I am not a pilot, nor do I have any special knowledge of the MiG-29 other than intensively studying everything I could find under Google. I cannot model a real MiG-29, I simply lack the information and expertise. This simulation was created using publicly available information. It contains no proprietary or restricted data, is not endorsed by any manufacturer, and is meant for entertainment purposes only. This model is being distributed under the GNU GENERAL PUBLIC LICENSE Version 2. If you like something, grab it and use it.\r\n\r\nI had two goals: One was to take the underdeveloped Flightgear MiG-29 and make something fun to fly. That MiG had no cockpit and no flight surface animations. It was a very good start on a model, but not much fun to fly. It seemed to me that the MiG-29 of all planes should be fun to fly for someone with a little experience, so I started playing around with it. My second goal was to learn to build an FG plane from the ground up.\r\n\r\nThere are many variants of the MiG-29 and I had to pick one. I chose the original form, the one the MiG design bureau calls the '9-12' and NATO labeled the 'Fulcrum A'. I did so because it is the type from which the others are descended, and because it is the simplest, especially in cockpit details.\r\n\r\nThis plane is not meant to be hard to fly. In fact, in my readings I discovered that real pilots find it relatively easy to fly and generally well-behaved for a high-performance aircraft. In Flightgear it is not as twitchy as the Su-37, but is enjoyable, fast (for those who like fast), and responsive. It cannot yet do some of the high angle-of-attack flight which the real plane is noted for (or maybe it can for better virtual pilots), but as I refine the Flight Data Model, that should improve. My FDM is intended to be initially conservative.\r\n\r\nThe model has two noted quirks, one is real and one is based on the current FDM. First, the MiG-29 is notorious for short legs. It was meant as a front line air superiority fighter, and as such carries a modest fuel load. Launch, kill, and come home, like a short-winged falcon. Second, when taking off especially with the burners lit, the nose will want to come up hard. Be prepared with a little down-elevator.\r\n\r\nThe plane is still being physically modeled, and until I am totally happy with the external details it would be a waste of time to deal with texture mapping and liveries. So for a while you will find texture problems or even whole sections with no texture. When the modeling is finished, I'll texture map the plane to use the MP livery system.\r\n\r\nThe instruments and controls are marked in English rather than Russian. I feel the plane really should be done with cyrillic markings, but my Russian isn't up to it and I don't yet have enough clear illustrations to draw from. So I'm forced to default to English. If someone has an interest in helping me make a true Russian version, I'd like to pursue that. Also, given that I know so little about the flight characteristics, if someone has information that could help improve the flight model, I would be delighted to work with you.\r\n\r\nAnd now a few detailed notes...\r\n\r\n\r\nAfterburners\r\n------------\r\n\r\nReheat currently engages at 90% throttle. You'll see two green right-side annunciator lights come on when the afterburners cut in. Watch your fuel closely when the burners are lit. If you want to enjoy a long flight, stay off the afterburners. Reheat will blow through your fuel in a few minutes. \r\n\r\nI don't know when the real MiG's burner's cut in, but it's probably around 70-90% throttle. I went conservative because of the fuel issue, and at some later time I may allow this to be a configurable setting so pilots can make their own choice. Also I believe the real plane has switches that enable the burners, somewhere on the throttle, but I don't know which control does it. At some point I may build in such a switch or have it on a menu somewhere.\r\n\r\nCockpit\r\n-------\r\n\r\nThe model's cockpit is currently very crude but most instruments are there and are closely positioned to the real thing. There's no texturing or model refining at this point-- my main goal was to get flight instruments up first. I'll be upgrading the cockpit's appearance as time and interest allows.\r\n\r\nThe original MiG-29 cockpit is somewhat basic by western standards, but there is a wisdom in that. The cockpit is very similar in layout to earlier Russian aircraft, making it easy for experienced pilots to transition to the later plane. A pilot familiar with the MiG-23 would be almost at home in the MiG-29.\r\n\r\nFlight Surfaces\r\n---------------\r\n\r\nYou've got the usual suspects: ailerons, flaps, rudders, elevons, slats, air brake. I don't know how many flap positions there are, so the model has five at 0, 16, 32, 64, 100%. Similarly I lack information on slat positions, though they may be automated in the real aircraft. I've given them 4 positions. Deploy slats to reduce stalling at high angles of attack at the expense of added drag. The airbrake also has 4 positions. Based on accounts of the real aircraft I suspect the elevator does not give enough flight response and the ailerons may give too much, at least in terms of initial roll accelleration, so those are subject to later tweaking.\r\n\r\nYou may notice that the ailerons appear to be fixed in a slightly up position. This is not an error. The Mig-29 ailerons have a fixed 5 degree up neutral position, something related to better spin characteristics. You can see this if you look closely in some photographs of the plane at rest.\r\n\r\nInstruments\r\n-----------\r\n\r\nFuel Display:\r\n\r\nThe fuel display looks much like the real thing, but does not function like the real thing. I've studied many photos of the real instrument and to my annoyance I still don't understand exactly how the dang thing reports data. So I've compromised by building the instrument close to the real appearance and adopting my own temporary scheme for its function. The buttons select tanks 1-4, where 1 is the forward fuselage tank, 2 is the aft tank, 3 left wing, 4 right wing. The center tape display then reports the remaining fuel in that tank. The right side scale reports total fuel. It gets the job done. If someone knows exactly how the fuel gauge works, I would be happy to model it.\r\n\r\nIn the real machine, the 'buttons' are not buttons at all, but indicator lamps that light up when a tank goes empty. There are small orange triangular indicators that appear to lead from the indicator lamps to the primary fuel scale, and these might be animated, somehow indicating the tank's remaining fuel, but I've yet to make sense of it. The main scale shows total fuel, I think, and the right-hand scale...well, I'm not sure, possibly external fuel when present. There is also a right-side annunciator light that goes red when the aircraft is down to emergency fuel, however that is defined. "
+      },
+      "license_status": "reviewed: individual notices plus FlightGear FGAddon GPL distribution policy",
+      "license": "GPL-2.0-or-later",
+      "license_basis": "Individual COPYING/README where present; FlightGear FGAddon GPL policy: https://www.flightgear.org/about/policy/",
+      "modifications": "Studio lighting/materials; simulator FX omitted; neutral paint for F-14; display-pose rotor blades added to AH-64/UH-60",
+      "review_note": "GPL2 COPYING supplied; full upstream notices retained. No F-35 geometry used."
+    }
+  },
+  {
+    "id": "model-mirage",
+    "display_name": "MIRAGE · РОДИНА ЛІТАКІВ",
+    "photo": "assets/models/mirage/still-object.png",
+    "video": "assets/models/mirage/spin.mp4",
+    "duration": 24,
+    "visual_origin": "true_3d",
+    "photo_source": "https://github.com/FGMEMBERS/Mirage-2000",
+    "video_source": "https://github.com/FGMEMBERS/Mirage-2000",
+    "photo_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "video_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "photo_metadata": {
+      "license": "GPL-2.0-or-later",
+      "author": "FlightGear contributors",
+      "source": "https://github.com/FGMEMBERS/Mirage-2000"
+    },
+    "video_metadata": {
+      "license": "GPL-2.0-or-later",
+      "author": "FlightGear contributors",
+      "source": "https://github.com/FGMEMBERS/Mirage-2000"
+    }
+  },
+  {
+    "id": "model-rafale",
+    "display_name": "RAFALE · РОДИНА ЛІТАКІВ",
+    "photo": "assets/models/rafale/still-object.png",
+    "video": "assets/models/rafale/spin.mp4",
+    "duration": 24,
+    "visual_origin": "true_3d",
+    "photo_source": "https://github.com/FGMEMBERS/RafaleB",
+    "video_source": "https://github.com/FGMEMBERS/RafaleB",
+    "photo_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "video_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "photo_metadata": {
+      "license": "GPL-2.0-or-later",
+      "author": "FlightGear contributors",
+      "source": "https://github.com/FGMEMBERS/RafaleB"
+    },
+    "video_metadata": {
+      "license": "GPL-2.0-or-later",
+      "author": "FlightGear contributors",
+      "source": "https://github.com/FGMEMBERS/RafaleB"
+    }
+  },
+  {
+    "id": "navy-shakti",
+    "display_name": "INS SHAKTI · MALABAR, 2020",
+    "video": "assets/video/navy-shakti.mp4",
+    "duration": 53.466667,
+    "video_source": "https://www.dvidshub.net/video/771812/mccain-conducts-ras-ins-shakti-during-malabar-2020",
+    "video_credit": "Mass Communication Specialist 2nd Class Markus Castaneda/Released · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Mass Communication Specialist 2nd Class Markus Castaneda/Released",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108050155/DOD_108050155-1024x576-1769k.mp4",
+      "source_page": "https://www.dvidshub.net/video/771812/mccain-conducts-ras-ins-shakti-during-malabar-2020",
+      "description": "INS SHAKTI · MALABAR, 2020",
+      "changes": "Muted, original speed; source initial excerpt normalized 1280×720 30fps"
+    }
+  },
+  {
+    "id": "optics-training",
+    "display_name": "ОПТИКА ТА ЗВ’ЯЗОК · НАВЧАННЯ, 2026",
+    "video": "assets/video/optics-training.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/1023758/us-indian-army-soldiers-exchange-target-acquisition-capabilities-during-yudh-abhyas-2026",
+    "video_credit": "Staff Sgt. Kalina Hyche · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Staff Sgt. Kalina Hyche",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111995875/DOD_111995875.mp4",
+      "source_page": "https://www.dvidshub.net/video/1023758/us-indian-army-soldiers-exchange-target-acquisition-capabilities-during-yudh-abhyas-2026",
+      "description": "ОПТИКА ТА ЗВ’ЯЗОК · НАВЧАННЯ, 2026",
+      "changes": "Muted, original speed; source initial excerpt normalized 1280×720 30fps"
+    }
+  },
+  {
+    "id": "pk-flag",
+    "display_name": "PK flag",
+    "photo": "assets/flags/pk-flag.png",
+    "photo_source": "Original Pillow drawing of national flag",
+    "photo_credit": "Original vector redrawing",
+    "photo_metadata": {
+      "license": "CC0",
+      "author": "ARSENAL 360°"
+    }
+  },
+  {
+    "id": "pl15",
+    "display_name": "PL15",
+    "photo": "assets/photos/pl15.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:PL-15_20250921.jpg",
+    "photo_credit": "颐园居 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "颐园居",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​霹雳-15",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/PL-15_20250921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized, otherwise faithful original"
+    },
+    "original_photo": "assets/photos/pl15.jpg"
+  },
+  {
+    "id": "prithvi",
+    "display_name": "PRITHVI-II",
+    "photo": "assets/photos/prithvi.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Prithvi-II_missile_launch_on_11_March_2011_(cropped).jpg",
+    "photo_credit": "Ministry of Defence, Government of India · GODL-India",
+    "photo_metadata": {
+      "author": "Ministry of Defence, Government of India",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "The surface to surface Prithvi (P-II) Missile successfully flight tested from LC-III, ITR, Chandipur on March 11, 2011.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Prithvi-II_missile_launch_on_11_March_2011_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Original source file; resized/cropped only if indicated separately"
+    },
+    "original_photo": "assets/photos/prithvi.jpg"
+  },
+  {
+    "id": "rafale",
+    "display_name": "RAFALE · РОДИНА ЛІТАКІВ",
+    "photo": "assets/prepared/rafale.png",
+    "original_photo": "assets/photos/rafale.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Rafale_-_RIAT_2009_(3751416421).jpg",
+    "photo_credit": "Tim Felce (Airwolfhound) · CC BY-SA 2.0",
+    "photo_metadata": {
+      "author": "Tim Felce (Airwolfhound)",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Rafale - RIAT 2009",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rafale_-_RIAT_2009_%283751416421%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Dassault_Rafale",
+      "changes": "Background segmentation and crop, original retained; reviewed vehicle geometry preserved"
+    }
+  },
+  {
+    "id": "rafale-action",
+    "display_name": "RAFALE · ФРАНЦІЯ, НАВЧАННЯ 2019",
+    "video": "assets/video/rafale-action.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/693441/point-blank-19-2-french-rafale-b-roll",
+    "video_credit": "Airman 1st Class Mikayla Daly · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Airman 1st Class Mikayla Daly",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/1906/DOD_106959363/DOD_106959363-1024x576-1769k.mp4",
+      "source_page": "https://www.dvidshub.net/video/693441/point-blank-19-2-french-rafale-b-roll",
+      "description": "RAFALE · ФРАНЦІЯ, НАВЧАННЯ 2019",
+      "changes": "Muted, standardized 1280×720 30fps; source initial 125 seconds maximum"
+    }
+  },
+  {
+    "id": "rafale-india",
+    "display_name": "DASSAULT RAFALE",
+    "photo": "assets/photos/rafale-india.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:The_first_batch_of_Rafale.jpg",
+    "photo_credit": "Indian Air Force · GODL-India",
+    "photo_metadata": {
+      "author": "Indian Air Force",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "The first batch of Rafale aircraft preparing to take off from Dassault Aviation Facility, Merignac, France on 27 July 2020.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_first_batch_of_Rafale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized, otherwise faithful original"
+    },
+    "original_photo": "assets/photos/rafale-india.jpg"
+  },
+  {
+    "id": "rafale-indian-action",
+    "display_name": "RAFALE · RED FLAG–ALASKA, 2024",
+    "video": "assets/video/rafale-indian-action.mp4",
+    "duration": 47.7,
+    "video_source": "https://www.dvidshub.net/video/927661/indian-air-force-maintenance-rf-24-2-b-roll-stringer",
+    "video_credit": "Airman 1st Class Patrick Boyle · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Airman 1st Class Patrick Boyle",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110385870/DOD_110385870.mp4",
+      "source_page": "https://www.dvidshub.net/video/927661/indian-air-force-maintenance-rf-24-2-b-roll-stringer",
+      "description": "RAFALE · RED FLAG–ALASKA, 2024",
+      "changes": "Muted, standardized 1280×720 30fps; source initial 125 seconds maximum"
+    }
+  },
+  {
+    "id": "rafale-tlp",
+    "display_name": "RAFALE / MIRAGE · ФРАНЦІЯ, 2022",
+    "video": "assets/video/rafale-tlp.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/832100/tlp-french-air-force-rafale-and-mirage-2000c-d-takeoffs",
+    "video_credit": "Senior Airman John Ennis · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Senior Airman John Ennis",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2202/DOD_108825435/DOD_108825435.mp4",
+      "source_page": "https://www.dvidshub.net/video/832100/tlp-french-air-force-rafale-and-mirage-2000c-d-takeoffs",
+      "description": "RAFALE / MIRAGE · ФРАНЦІЯ, 2022",
+      "changes": "Muted, standardized 1280×720 30fps; source initial 125 seconds maximum"
+    }
+  },
+  {
+    "id": "s400",
+    "display_name": "С-400 · РОДИНА",
+    "photo": "assets/photos/s400.jpg",
+    "original_photo": "assets/photos/s400.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:%D0%A1-400_%C2%AB%D0%A2%D1%80%D0%B8%D1%83%D0%BC%D1%84%C2%BB.JPG",
+    "photo_credit": "Соколрус · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Соколрус",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "С-400 «Триумф»",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%D0%A1-400_%C2%AB%D0%A2%D1%80%D0%B8%D1%83%D0%BC%D1%84%C2%BB.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "S-400_missile_system",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "shaheen",
+    "display_name": "SHAHEEN · РОДИНА РАКЕТ",
+    "photo": "assets/photos/shaheen.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IRBM_of_Pakistan_at_IDEAS_2008.jpg",
+    "photo_credit": "SyedNaqvi90 at English Wikipedia · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "SyedNaqvi90 at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "The Ghauri–I (first on right) display at the IDEAS exhibition held in Karachi, mounted in its TEL launch mechanism. c. 2008.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/IRBM_of_Pakistan_at_IDEAS_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Original source file; resized/cropped only if indicated separately"
+    },
+    "original_photo": "assets/photos/shaheen.jpg"
+  },
+  {
+    "id": "shahpar",
+    "display_name": "SHAHPAR-II",
+    "photo": "assets/prepared/shahpar.png",
+    "original_photo": "assets/photos/shahpar.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:GIDS_Shahpar_2_Drone.jpg",
+    "photo_credit": "Hezmok Media · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Hezmok Media",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "A GIDS Shahpar 2 Drone carrying four missiles",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/GIDS_Shahpar_2_Drone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "GIDS_Shahpar-II",
+      "changes": "Background segmentation and crop, original retained; reviewed vehicle geometry preserved"
+    }
+  },
+  {
+    "id": "sig716",
+    "display_name": "SIG716",
+    "photo": "assets/photos/sig716.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Indian_Army_SIG_Sauer_SIG716i.jpg",
+    "photo_credit": "Sumbria.vikramaditya · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Sumbria.vikramaditya",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "SIG Sauer SIG716i deployed by Indian Army. The rifle is without the magazine.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Indian_Army_SIG_Sauer_SIG716i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized, otherwise faithful original"
+    },
+    "original_photo": "assets/photos/sig716.jpg"
+  },
+  {
+    "id": "su30",
+    "display_name": "SU30",
+    "photo": "assets/prepared/su30.png",
+    "original_photo": "assets/photos/su30.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Darwin_Pitch_Black_2022_5WAL8054_(52336923377).jpg",
+    "photo_credit": "wallycacsabre · CC BY 2.0",
+    "photo_metadata": {
+      "author": "wallycacsabre",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "description": "5WAL8054",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Darwin_Pitch_Black_2022_5WAL8054_%2852336923377%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Sukhoi_Su-30MKI",
+      "changes": "Background segmentation and crop, original retained; reviewed vehicle geometry preserved"
+    }
+  },
+  {
+    "id": "t72",
+    "photo": "assets/photos/t72.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Alabino05042017-40.jpg",
+    "photo_credit": "Vitaly V. Kuzmin · CC BY-SA 4.0",
+    "photo_metadata": {
+      "id": "T-72",
+      "path": "/tmp/arsenal-002/assets/T-72.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Alabino05042017-40.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Alabino05042017-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "identity_source": "https://en.wikipedia.org/wiki/T-72",
+      "file": "File:Alabino05042017-40.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Vitaly V. Kuzmin",
+      "credit": "http://www.vitalykuzmin.net/Military/Rehearsal-in-Alabino-05April2017"
+    },
+    "display_name": "Т-72 · РОДИНА ТАНКІВ",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "tejas",
+    "display_name": "TEJAS",
+    "photo": "assets/photos/tejas.jpg",
+    "original_photo": "assets/photos/tejas.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Tejas_MK1_in_service_for_7_years.jpg",
+    "photo_credit": "Goverrnment of India · GODL-India",
+    "photo_metadata": {
+      "author": "Goverrnment of India",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "On 01 July 2023, the indigenous Light Combat Aircraft (LCA)  completed seven years of service in the Indian Air Force",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tejas_MK1_in_service_for_7_years.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "HAL_Tejas",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "type054",
+    "display_name": "TUGHRIL · TYPE 054A/P",
+    "photo": "assets/photos/type054.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:PNS_Shah_Jahan_(F264).jpg",
+    "photo_credit": "Z3144228 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Z3144228",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "PNS Shah Jahan (F264) in LIMA 2023",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/PNS_Shah_Jahan_%28F264%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized, otherwise faithful original"
+    },
+    "original_photo": "assets/photos/type054.jpg"
+  },
+  {
+    "id": "type56",
+    "display_name": "TYPE 56",
+    "photo": "assets/photos/type56.png",
+    "original_photo": "assets/photos/type56.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Type_56_mod02_noBG.png",
+    "photo_credit": "ATF.gov, an official site of the U.S. Department of Justice\n\nhttps://commons.wik · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "ATF.gov, an official site of the U.S. Department of Justice\n\nhttps://commons.wikimedia.org/wiki/User:RRT877",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Sturmgewehr Typ 56 (China)",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Type_56_mod02_noBG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  {
+    "id": "vikramaditya",
+    "display_name": "VIKRAMADITYA",
+    "photo": "assets/photos/vikramaditya.jpg",
+    "original_photo": "assets/photos/vikramaditya.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:INS_Vikramaditya_(R33)_with_a_Sea_Harrier.jpg",
+    "photo_credit": "Indian Navy · GODL-India",
+    "photo_metadata": {
+      "author": "Indian Navy",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "INS Vikramaditya (R33) with a Sea Harrier",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/INS_Vikramaditya_%28R33%29_with_a_Sea_Harrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "INS_Vikramaditya",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "vikrant",
+    "display_name": "VIKRANT",
+    "photo": "assets/photos/vikrant.jpg",
+    "original_photo": "assets/photos/vikrant.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:IAC1_Vikrant_at_Cochin.jpg",
+    "photo_credit": "Cochin Shipyard · GODL-India",
+    "photo_metadata": {
+      "author": "Cochin Shipyard",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "The mighty Warship, Kochi and it’s Fishing Nets",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/IAC1_Vikrant_at_Cochin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "INS_Vikrant_(2013)",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "vikrant-video",
+    "display_name": "VIKRANT-VIDEO",
+    "video": "assets/video/vikrant-video.webm",
+    "video_source": "https://commons.wikimedia.org/wiki/File:INS_Vikrant_(R11)_intro_video.webm",
+    "video_credit": "Indian Navy · GODL-India",
+    "video_metadata": {
+      "author": "Indian Navy",
+      "license": "GODL-India",
+      "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "description": "Indian Navy video introducing the new INS Vikrant (R11)",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/INS_Vikrant_%28R11%29_intro_video.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Original source file; resized/cropped only if indicated separately"
+    },
+    "duration": 197.441
+  },
+  {
+    "id": "vt4",
+    "display_name": "VT-4",
+    "photo": "assets/photos/vt4.jpg",
+    "original_photo": "assets/photos/vt4.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:NORINCO_VT-4_at_IDEX_2017.jpg",
+    "photo_credit": "Mztourist · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Mztourist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "NORINCO VT-4 at IDEX 2017",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/NORINCO_VT-4_at_IDEX_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "VT-4",
+      "changes": "Resized by Wikimedia thumbnail service; no content removed"
+    }
+  },
+  {
+    "id": "yudh20",
+    "display_name": "YUDH ABHYAS · НАВЧАННЯ, 2021",
+    "video": "assets/video/yudh20.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/783520/yudh-abhyas-20-b-roll-week-one",
+    "video_credit": "Staff Sgt. Joseph Tolliver · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Staff Sgt. Joseph Tolliver",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2102/DOD_108185474/DOD_108185474-1024x576-1769k.mp4",
+      "source_page": "https://www.dvidshub.net/video/783520/yudh-abhyas-20-b-roll-week-one",
+      "description": "YUDH ABHYAS · НАВЧАННЯ, 2021",
+      "changes": "Muted, original speed; source initial excerpt normalized 1280×720 30fps"
+    }
+  },
+  {
+    "id": "yudh22",
+    "display_name": "YUDH ABHYAS · НАВЧАННЯ, 2022",
+    "video": "assets/video/yudh22.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/877184/yudh-abhyas-22-b-roll",
+    "video_credit": "Benjamin Wilson · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Benjamin Wilson",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2303/DOD_109525527/DOD_109525527.mp4",
+      "source_page": "https://www.dvidshub.net/video/877184/yudh-abhyas-22-b-roll",
+      "description": "YUDH ABHYAS · НАВЧАННЯ, 2022",
+      "changes": "Muted, original speed; source initial excerpt normalized 1280×720 30fps"
+    }
+  }
+]

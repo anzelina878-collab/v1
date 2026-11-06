@@ -1,0 +1,15 @@
+{
+  "id": "arjun",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Arjun_MK1A_field_trials.jpg",
+  "video_source": null,
+  "photo_metadata": {
+    "author": "w:Defence Research and Development Organisation",
+    "license": "GODL-India",
+    "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "description": "Arjun MBT Mk IA tank",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Arjun_MK1A_field_trials.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_article": "Arjun_(tank)",
+    "changes": "Background segmentation and crop, original retained; reviewed vehicle geometry preserved"
+  },
+  "video_metadata": null
+}

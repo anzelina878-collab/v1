@@ -1,0 +1,14 @@
+{
+  "id": "rafale-india",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:The_first_batch_of_Rafale.jpg",
+  "video_source": null,
+  "photo_metadata": {
+    "author": "Indian Air Force",
+    "license": "GODL-India",
+    "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "description": "The first batch of Rafale aircraft preparing to take off from Dassault Aviation Facility, Merignac, France on 27 July 2020.",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_first_batch_of_Rafale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized, otherwise faithful original"
+  },
+  "video_metadata": null
+}

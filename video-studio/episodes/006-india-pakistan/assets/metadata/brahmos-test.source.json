@@ -1,0 +1,14 @@
+{
+  "id": "brahmos-test",
+  "photo_source": null,
+  "video_source": "https://commons.wikimedia.org/wiki/File:Brahmos_ER.webm",
+  "photo_metadata": null,
+  "video_metadata": {
+    "author": "Government of India",
+    "license": "GODL-India",
+    "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "description": "The BrahMos supersonic cruise missile with increased indigenous content and improved performance was successfully test fired today from Chandipur. \nRaksha Mantri Rajnathsingh congratulated the BrahMosMissile , DRDO teams and industry for the successful flight test",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Brahmos_ER.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Original source file; resized/cropped only if indicated separately"
+  }
+}

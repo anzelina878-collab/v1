@@ -1,0 +1,1309 @@
+{
+  "assets": [
+    {
+      "id": "agni",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/agni.jpg",
+          "bytes": 403393,
+          "sha256": "27cd20727fb6c5d571ef3837e76dabb84586327a73e3bfb34bb10b8263632017"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/agni.jpg",
+          "bytes": 403393,
+          "sha256": "27cd20727fb6c5d571ef3837e76dabb84586327a73e3bfb34bb10b8263632017"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "agosta",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/agosta.jpg",
+          "bytes": 66778,
+          "sha256": "58e4ddffa804882a0ccbaa5408242caf6ed17072907bb253a2c705ef1833febe"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/agosta.jpg",
+          "bytes": 66778,
+          "sha256": "58e4ddffa804882a0ccbaa5408242caf6ed17072907bb253a2c705ef1833febe"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "ak203",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/ak203.jpg",
+          "bytes": 701441,
+          "sha256": "231960c35633a39bcc1f7055f2aeb7505d5fff5306cf4ecbfa9c818d8c5f8c54"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/ak203.jpg",
+          "bytes": 701441,
+          "sha256": "231960c35633a39bcc1f7055f2aeb7505d5fff5306cf4ecbfa9c818d8c5f8c54"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "akash",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/akash.jpg",
+          "bytes": 202248,
+          "sha256": "1bb7f55975c5f2b626b77e6f2bafdd25d501b2e15b970148998c01dc4f56e24d"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/akash.jpg",
+          "bytes": 202248,
+          "sha256": "1bb7f55975c5f2b626b77e6f2bafdd25d501b2e15b970148998c01dc4f56e24d"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "alkhalid",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/alkhalid.jpg",
+          "bytes": 293506,
+          "sha256": "40ba90c8c3045062f85eb1f9abfc853dc1c10a06bd30dda31d3268516b6438af"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/alkhalid.jpg",
+          "bytes": 293506,
+          "sha256": "40ba90c8c3045062f85eb1f9abfc853dc1c10a06bd30dda31d3268516b6438af"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "apache-demo",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/apache-demo.mp4",
+          "bytes": 15981406,
+          "sha256": "3657e07d93f501c4b43617c1f57d7003d836bc5efa701ba6ee517b1715c67612"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "apache-indian-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/apache-indian-action.mp4",
+          "bytes": 22392407,
+          "sha256": "1c91aa6f7ebcfbcc4db659b618c6f23a7ff97d82d6d921db439aacd9111000b4"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "arihant",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/arihant.jpg",
+          "bytes": 63207,
+          "sha256": "5f53beb1bc97b3a0db04559803e4e53270767c0b91d31ba1adc2c8b30b69c98f"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/arihant.jpg",
+          "bytes": 63207,
+          "sha256": "5f53beb1bc97b3a0db04559803e4e53270767c0b91d31ba1adc2c8b30b69c98f"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "arjun",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/arjun.png",
+          "bytes": 851540,
+          "sha256": "f2e5b0121358920bc6ac9f2772acd97387f44c314379099dba0b9f06714900d9"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/arjun.jpg",
+          "bytes": 365941,
+          "sha256": "53a83539f0364fae1a8a51f63765a870cc95a87d6cb1fc266ed7a3c68f3dd313"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "atags",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/atags.jpg",
+          "bytes": 62184,
+          "sha256": "b27696a1c18c939b72be1c2c802c905d764281b4cb4c816c22535134c440bbec"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/atags.jpg",
+          "bytes": 62184,
+          "sha256": "b27696a1c18c939b72be1c2c802c905d764281b4cb4c816c22535134c440bbec"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "austrahind",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/austrahind.mp4",
+          "bytes": 14410688,
+          "sha256": "d7a965260c4a47994264bbb5d30a3b8aeb44df2deb6307833a6818cda49401db"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "babur",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/babur.jpg",
+          "bytes": 391456,
+          "sha256": "1af58abed457a58d1365c69cc5409926b04ec03ddefdb71e0351aea9d8c2b7c4"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/babur.jpg",
+          "bytes": 391456,
+          "sha256": "1af58abed457a58d1365c69cc5409926b04ec03ddefdb71e0351aea9d8c2b7c4"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "bhishma",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/bhishma.jpg",
+          "bytes": 2117928,
+          "sha256": "a3ec44d5cff16b4c1045fb9caa9342ee713370744de113de5437743200caa3db"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/bhishma.jpg",
+          "bytes": 2117928,
+          "sha256": "a3ec44d5cff16b4c1045fb9caa9342ee713370744de113de5437743200caa3db"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "brahmos",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/brahmos.jpg",
+          "bytes": 452422,
+          "sha256": "ba7b102ae6a30b8033434c8451a0d735fcef1c291cd9f758e1247c49e4e49c83"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/brahmos.jpg",
+          "bytes": 452422,
+          "sha256": "ba7b102ae6a30b8033434c8451a0d735fcef1c291cd9f758e1247c49e4e49c83"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "brahmos-launch",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/brahmos-launch.webm",
+          "bytes": 1063430,
+          "sha256": "6d95be6c5e7171a30b0cd3d93147f390a032d4805c910bb38d974c8f84418b3e"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "brahmos-test",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/brahmos-test.webm",
+          "bytes": 654330,
+          "sha256": "b8e35d5ae448534357d068ac6e0785f60514fa21e1fdd6c9a6b18f092000da8a"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "channel-ident",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/channel-ident.mp4",
+          "bytes": 11084839,
+          "sha256": "8a8b69969479662962ae94acdb624f990988e9d11bc4a84e6013a149bb4badc2"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "cobra-pak",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/cobra-pak.png",
+          "bytes": 434848,
+          "sha256": "70c45d2d1a79137bdc26fbcc7d89aab9cb0129667f68f804bd468360363fe8d1"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/cobra-pak.jpg",
+          "bytes": 81413,
+          "sha256": "97a2c52065e197d7c715912ccc7e69f901f373ccc1f2c44d7a52fb54aefaf2aa"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "delhi",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/delhi.jpg",
+          "bytes": 598221,
+          "sha256": "34f6f96a69fb9e857fd2cecb82cc1c500c4dff864222e2cb7577aed95bd50c30"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/delhi.jpg",
+          "bytes": 598221,
+          "sha256": "34f6f96a69fb9e857fd2cecb82cc1c500c4dff864222e2cb7577aed95bd50c30"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "fatah",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/fatah.jpg",
+          "bytes": 78750,
+          "sha256": "344a9d08e8b12e445bbddfff1d19cedaa0fdab8b2938e1448561c5c784763f2d"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/fatah.jpg",
+          "bytes": 78750,
+          "sha256": "344a9d08e8b12e445bbddfff1d19cedaa0fdab8b2938e1448561c5c784763f2d"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "g3",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/g3.jpg",
+          "bytes": 44782,
+          "sha256": "aae78b1bb912286d25be8ee6da5111957999f8e9f953bdba5e798d3865adc406"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "harop",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/harop.jpg",
+          "bytes": 233781,
+          "sha256": "070b111e74d5b8eb472792696295ed0ba7efd09908ef769dd1735e99b18e8361"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/harop.jpg",
+          "bytes": 233781,
+          "sha256": "070b111e74d5b8eb472792696295ed0ba7efd09908ef769dd1735e99b18e8361"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "heron",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/heron.png",
+          "bytes": 1025394,
+          "sha256": "8563a453cdce28f009ad39d3aa1f670390ea7eb69bc2592a6c6bec218185c7f0"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/heron.jpg",
+          "bytes": 403314,
+          "sha256": "7e195f51b8a6c2bae15b8fe27cbc876684840ae1a5e0f3a4c48986077b363a59"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "hq9",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/hq9.jpg",
+          "bytes": 311988,
+          "sha256": "fdb45a2ef82003ac65daad8c6a2f5a27646f4446a9abf05945932259bb4cc171"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/hq9.jpg",
+          "bytes": 311988,
+          "sha256": "fdb45a2ef82003ac65daad8c6a2f5a27646f4446a9abf05945932259bb4cc171"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "in-flag",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/flags/in-flag.png",
+          "bytes": 2684,
+          "sha256": "75d7e6e16e89bf89b7292c0eaa2c2be650dddaaa7395e280492ca84b839897fe"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "infantry2019",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/infantry2019.mp4",
+          "bytes": 20613752,
+          "sha256": "2078120e6aeacfb5942f4884b37467bd643d0621d0797c33b705a940b29401f6"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "insas",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/insas.jpg",
+          "bytes": 34065,
+          "sha256": "32868b79528ea6b263677cf962078721e141e9e2406cdd650642064cc787df34"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/insas.jpg",
+          "bytes": 34065,
+          "sha256": "32868b79528ea6b263677cf962078721e141e9e2406cdd650642064cc787df34"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "integrated",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/integrated.mp4",
+          "bytes": 15577487,
+          "sha256": "cafad5ce2f3d455a8ab41d295368366bd78356050447257659ef5546b742bda5"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "islamabad",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/islamabad.jpg",
+          "bytes": 1086093,
+          "sha256": "5a2bef508d9c22eea5d38048fb9fae0f9407b9469985b490c2e9fe96de67a4ce"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/islamabad.jpg",
+          "bytes": 1086093,
+          "sha256": "5a2bef508d9c22eea5d38048fb9fae0f9407b9469985b490c2e9fe96de67a4ce"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "j10",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/j10.png",
+          "bytes": 484900,
+          "sha256": "4dad95fd80e01191b0c7c8f04d901d559082f519b0b1728817d5534ecc6ed2fd"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/j10.jpg",
+          "bytes": 416149,
+          "sha256": "033609fbba48403958958111817403babe0d67a83983b571fccd6875400e2393"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "j10ce",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/j10ce.jpg",
+          "bytes": 294263,
+          "sha256": "17dfee6f4ff7962f79ac1ae479a3c765929f71b738c6f9229e82ba94f9ddefdb"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/j10ce.jpg",
+          "bytes": 294263,
+          "sha256": "17dfee6f4ff7962f79ac1ae479a3c765929f71b738c6f9229e82ba94f9ddefdb"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "jf17",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/jf17.png",
+          "bytes": 726974,
+          "sha256": "0caa0ac2a55f2d739cd7356fea703f0242a737a5285de703692b286219727a02"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/jf17.jpg",
+          "bytes": 366426,
+          "sha256": "f9530aa317d3b9cc8e21334beacc645f9e7da791aa7d505c1f44c49fc9bdd70f"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "k4-launch",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/k4-launch.mp4",
+          "bytes": 2013400,
+          "sha256": "cbee03d7d9ae6e4f32186602f9e82740eaadc1d3ac857036f4d1692b848d5aa9"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "k9",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/k9.jpg",
+          "bytes": 67799,
+          "sha256": "2f5d1d85a576b0d96aecbc0e35d3d9957d67cb8fd875a815400770914d901446"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/k9.jpg",
+          "bytes": 67799,
+          "sha256": "2f5d1d85a576b0d96aecbc0e35d3d9957d67cb8fd875a815400770914d901446"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "kalvari",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/kalvari.jpg",
+          "bytes": 944580,
+          "sha256": "621e33651eee3c36353613f01d1965774f01f03380ac89d12a79758e3bf9135f"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/kalvari.jpg",
+          "bytes": 944580,
+          "sha256": "621e33651eee3c36353613f01d1965774f01f03380ac89d12a79758e3bf9135f"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "kolkata",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/kolkata.jpg",
+          "bytes": 505909,
+          "sha256": "2142b5de16114e49e30d0b645b691fe07f260268309f2b07c038273e10a2bfb3"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/kolkata.jpg",
+          "bytes": 505909,
+          "sha256": "2142b5de16114e49e30d0b645b691fe07f260268309f2b07c038273e10a2bfb3"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "lch",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/lch.png",
+          "bytes": 722773,
+          "sha256": "f78ce98f7af1b10c58ac2c7feb111cb4f2a36532d18edf11b511e95c899d199a"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/lch.jpg",
+          "bytes": 90415,
+          "sha256": "13369f77f59a7636197829548988fd718b3b2a14229958dea172ff2c3c1e5e0c"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "ly80",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/ly80.jpg",
+          "bytes": 719289,
+          "sha256": "6de315d43602ac7405d197276aa9023753e0660320e700a413e763e61264ad91"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/ly80.jpg",
+          "bytes": 719289,
+          "sha256": "6de315d43602ac7405d197276aa9023753e0660320e700a413e763e61264ad91"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "m109",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/m109.jpg",
+          "bytes": 490158,
+          "sha256": "12f5fafa4ba5c4651372ba556750ccd943046c03fd81a160f8e48ced1751432a"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "m109-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/m109-action.mp4",
+          "bytes": 25678995,
+          "sha256": "328795e5bcd9e708f2bf7e410d7ef7ee0fac921a94ab7b0a262d29cb3cb8c811"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "m777",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/m777.jpg",
+          "bytes": 520365,
+          "sha256": "4e2cd88b36f237696af8b92ce5ca6fd279b93a1c2749847addfadf6a3d53d790"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/m777.jpg",
+          "bytes": 520365,
+          "sha256": "4e2cd88b36f237696af8b92ce5ca6fd279b93a1c2749847addfadf6a3d53d790"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "m777-india",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/m777-india.mp4",
+          "bytes": 36070942,
+          "sha256": "134273e44db9510dcb2ae58ee9cc1a9dd82d59291e9d33095773d4664e9e5643"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "m777-joint",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/m777-joint.mp4",
+          "bytes": 20127474,
+          "sha256": "e21477e64ffc34d2c4271dafa056bd2a1f206430e87c787d9a42b34d4781318b"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "malabar",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/malabar.mp4",
+          "bytes": 30254967,
+          "sha256": "8e570b655d2c51d2cf1e294849d4154ad42c80d2bbb56f06ca938e8e3cae1607"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "map-navy",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/maps/map-navy.mp4",
+          "bytes": 4332147,
+          "sha256": "6a67ad435b65e190939fe05dee9b77d871d77f5f4a4b5ef7a9aa1bd8d06482e6"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "map-north",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/maps/map-north.mp4",
+          "bytes": 12306611,
+          "sha256": "aa592a55eda6a51ea56e34f9eeb9611b5a65ad37f1f3bbe552e52f550705987c"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "map-region",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/maps/map-region.mp4",
+          "bytes": 14213689,
+          "sha256": "dc768836acc655079e1aa97b5c88471d4fabd37c5d7331737b79d643c9458538"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "medevac-training",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/medevac-training.mp4",
+          "bytes": 70796665,
+          "sha256": "f6cdec582afb3fcaa03d3c9dd2a9f0a312bfec1c2a164b9f9713984cd50ca9fa"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "meteor",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/meteor.jpg",
+          "bytes": 561989,
+          "sha256": "ac1ef461ca43c0693870c9cbef783f4ba4bfd519135be184605bef637a48aa91"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/meteor.jpg",
+          "bytes": 561989,
+          "sha256": "ac1ef461ca43c0693870c9cbef783f4ba4bfd519135be184605bef637a48aa91"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "model-apache",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/models/apache/still-object.png",
+          "bytes": 88587,
+          "sha256": "0a1da5f4ab75a967919b3797a4a3449c6de81788370335a594872529229104b5"
+        },
+        {
+          "field": "video",
+          "path": "assets/models/apache/spin.mp4",
+          "bytes": 2524788,
+          "sha256": "9c103d37cc2f567c07469ef9e330e92ff1cf077f6ab13fe1be45ef39f57ed4e1"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "model-mig29",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/models/mig29/still-object.png",
+          "bytes": 123920,
+          "sha256": "d4a882f8d096118a9ca628dd5b253d3327a8e81ac616bd9228f5437bea7cfb94"
+        },
+        {
+          "field": "video",
+          "path": "assets/models/mig29/spin.mp4",
+          "bytes": 2051839,
+          "sha256": "cdba57a3829dda41bf3b53f51725b0deafaaea202790ba9e45198a4afc9d7f46"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "model-mirage",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/models/mirage/still-object.png",
+          "bytes": 131139,
+          "sha256": "29e2649156b5493bef5dac257ef55c47c3df4fdba7605721d8a0e0f7358f23c3"
+        },
+        {
+          "field": "video",
+          "path": "assets/models/mirage/spin.mp4",
+          "bytes": 3344790,
+          "sha256": "ecf16848702c0f2a0d2b7a75fc3d6f219e2bcacaccf3a677c4ece2dd9cc33ee6"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "model-rafale",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/models/rafale/still-object.png",
+          "bytes": 127732,
+          "sha256": "3b1205800e58c6c9942b33a3ebee588a1c78fc1e2bd73f1fca48cdce92680c80"
+        },
+        {
+          "field": "video",
+          "path": "assets/models/rafale/spin.mp4",
+          "bytes": 3537251,
+          "sha256": "4b5f84009358af1786de0984b503d1a19ec32346de71c197c7d168e43d748375"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "navy-shakti",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/navy-shakti.mp4",
+          "bytes": 12907304,
+          "sha256": "ab9e733f128067de84e32be959d35b4f3141e0cec7a5de66be1021ede36bf035"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "optics-training",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/optics-training.mp4",
+          "bytes": 17448166,
+          "sha256": "aa113a5744701dae49f0b8feb91b81082cf2a7a9e62a2a51e1f61b9f5ef56df1"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "pk-flag",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/flags/pk-flag.png",
+          "bytes": 2231,
+          "sha256": "095c0acfc8c9756e1bff1ba74167ad375516f84f0b5962d7b2fb2d205293bbb9"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "pl15",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/pl15.jpg",
+          "bytes": 513824,
+          "sha256": "f9b8616f53f61e84efa7debadb05b81ac801500e65879ceef6d59783218a6a54"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/pl15.jpg",
+          "bytes": 513824,
+          "sha256": "f9b8616f53f61e84efa7debadb05b81ac801500e65879ceef6d59783218a6a54"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "prithvi",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/prithvi.jpg",
+          "bytes": 498728,
+          "sha256": "0d889390a164f4ce55b7359b6e38cbbd53286ec174d8aeed2d8d9e4d71930ef4"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/prithvi.jpg",
+          "bytes": 498728,
+          "sha256": "0d889390a164f4ce55b7359b6e38cbbd53286ec174d8aeed2d8d9e4d71930ef4"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "rafale",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/rafale.png",
+          "bytes": 471261,
+          "sha256": "5ce4ddfe1f6afe4ed7727c2f2aa4f49897a0e6ea94f7be47f1319c5634c7f26a"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/rafale.jpg",
+          "bytes": 140554,
+          "sha256": "8689ddc6a05a8a15e843af71c87dbb47c348f94abdee6417db9ad58e7d56edc9"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "rafale-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/rafale-action.mp4",
+          "bytes": 21021931,
+          "sha256": "2186ca2749320780324e3b80ac4b29d824b46c1468b2e3296cf77a3b67588d15"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "rafale-india",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/rafale-india.jpg",
+          "bytes": 321403,
+          "sha256": "3b750cf0211c6f4fd287e6f33ea600c913598980a31b1485ed63b48df8809304"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/rafale-india.jpg",
+          "bytes": 321403,
+          "sha256": "3b750cf0211c6f4fd287e6f33ea600c913598980a31b1485ed63b48df8809304"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "rafale-indian-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/rafale-indian-action.mp4",
+          "bytes": 10827936,
+          "sha256": "7d9c1d2e8d6a99e1fa0061c84d545011e76d6fbd0f035ecdac4847993b45b4c3"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "rafale-tlp",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/rafale-tlp.mp4",
+          "bytes": 13918083,
+          "sha256": "5abe7dfef125118c6c7179660e54724364e4fd0f52fdecc8a53e01dc59fa1f18"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "s400",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/s400.jpg",
+          "bytes": 796737,
+          "sha256": "cc031f11804935ccf8b9c0882b26f9da0ed4a6794d9c895eaa2893b7048ee8ce"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/s400.jpg",
+          "bytes": 796737,
+          "sha256": "cc031f11804935ccf8b9c0882b26f9da0ed4a6794d9c895eaa2893b7048ee8ce"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "shaheen",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/shaheen.jpg",
+          "bytes": 698951,
+          "sha256": "65fc1d9a794083a279dd8015f2893142888d63ade7c4b72947a4508ff3703fa2"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/shaheen.jpg",
+          "bytes": 698951,
+          "sha256": "65fc1d9a794083a279dd8015f2893142888d63ade7c4b72947a4508ff3703fa2"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "shahpar",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/shahpar.png",
+          "bytes": 293581,
+          "sha256": "96c1d176715d1d39ed8a9c4535aee2ec7658076b98ef8039d7306ddc0c90f6a2"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/shahpar.jpg",
+          "bytes": 320124,
+          "sha256": "cf45487aad0f42d992b032a1e7e075a5cdbae65d7b12581c9a0167d94a30b993"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "sig716",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/sig716.jpg",
+          "bytes": 465095,
+          "sha256": "6fec1e92bb44dc7341117f4b7dfea931680c538922dda85e01eedbe99bdbfcb3"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/sig716.jpg",
+          "bytes": 465095,
+          "sha256": "6fec1e92bb44dc7341117f4b7dfea931680c538922dda85e01eedbe99bdbfcb3"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "su30",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/su30.png",
+          "bytes": 542821,
+          "sha256": "9cd09b3cd1fad68443b14e1e7380dc8e76cfc3cbc686491f7172239c352b5a68"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/su30.jpg",
+          "bytes": 296771,
+          "sha256": "dd68ec327e5f60789a0341c9266d10b4c9841cb2a3765fca03c197e4f8c2131d"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "t72",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/t72.jpg",
+          "bytes": 385986,
+          "sha256": "267de945254a5805754e665f63cdfbd055a2e06a8beb5788d541b62269810030"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "tejas",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/tejas.jpg",
+          "bytes": 72666,
+          "sha256": "fe52b660177af78e09f7b3cd7361d49bba4cc38b3c448ed27bb35cc79e48eee2"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/tejas.jpg",
+          "bytes": 72666,
+          "sha256": "fe52b660177af78e09f7b3cd7361d49bba4cc38b3c448ed27bb35cc79e48eee2"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "type054",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/type054.jpg",
+          "bytes": 480268,
+          "sha256": "90e93839a01b5f08de66db07f9b5408465ac4051ff4984d02f06e0ec9630224b"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/type054.jpg",
+          "bytes": 480268,
+          "sha256": "90e93839a01b5f08de66db07f9b5408465ac4051ff4984d02f06e0ec9630224b"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "type56",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/type56.png",
+          "bytes": 1944595,
+          "sha256": "38133dac4430be08533bf51b7e8f72a465694c368b07e4a497fc89cb1546d26e"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/type56.png",
+          "bytes": 1944595,
+          "sha256": "38133dac4430be08533bf51b7e8f72a465694c368b07e4a497fc89cb1546d26e"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "vikramaditya",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/vikramaditya.jpg",
+          "bytes": 428317,
+          "sha256": "aa895be48ad32846f0ab235bdc889c6a0bb43dab1eeb3860512e8be1fa8a3dbc"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/vikramaditya.jpg",
+          "bytes": 428317,
+          "sha256": "aa895be48ad32846f0ab235bdc889c6a0bb43dab1eeb3860512e8be1fa8a3dbc"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "vikrant",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/vikrant.jpg",
+          "bytes": 323243,
+          "sha256": "2497b34f32ee9001701e4b694b8c941e4325af56a87527dcc71d76005431cd6a"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/vikrant.jpg",
+          "bytes": 323243,
+          "sha256": "2497b34f32ee9001701e4b694b8c941e4325af56a87527dcc71d76005431cd6a"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "vikrant-video",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/vikrant-video.webm",
+          "bytes": 42673898,
+          "sha256": "d420757feb40c080285370c31d7c9a71576216e56dd3054ebc8149b7be6c019b"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "vt4",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/vt4.jpg",
+          "bytes": 493596,
+          "sha256": "392456e45f349041ce62b48b6ef02cb46439744984cdbe6d9fdf5e446f2e3119"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/vt4.jpg",
+          "bytes": 493596,
+          "sha256": "392456e45f349041ce62b48b6ef02cb46439744984cdbe6d9fdf5e446f2e3119"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "yudh20",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/yudh20.mp4",
+          "bytes": 39143075,
+          "sha256": "c0e9ab3193b4aebe73c32a13a027f02fa5c3504b634bce616a4a784f7447d78e"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    },
+    {
+      "id": "yudh22",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/yudh22.mp4",
+          "bytes": 33579694,
+          "sha256": "c150dfdae07c03aa8171b21ee6b9ad6f2e8fd26438108d2c03385ef4c37cbc0e"
+        }
+      ],
+      "license_review": "Source metadata / public-domain notices retained",
+      "visual_review": "Selected source sheets and scene control frames reviewed"
+    }
+  ],
+  "map_source_credits": "assets/maps/SOURCES.md",
+  "watermarks": "No downloaded-site overlays on maps; source credits retained on archive. Original source photos remain intact alongside selected cutouts.",
+  "continuous_human_playback": "not performed; source/scene frame reviews separate from full decode"
+}

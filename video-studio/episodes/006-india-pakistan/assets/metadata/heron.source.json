@@ -1,0 +1,18 @@
+{
+  "id": "heron",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:IAI_Heron(_framed).jpg",
+  "video_source": null,
+  "photo_metadata": {
+    "file": "File:IAI_Heron(_framed).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:IAI_Heron(_framed).jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/IAI_Heron%28_framed%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "identity_source": "https://en.wikipedia.org/wiki/IAI_Heron",
+    "license": "Public domain",
+    "license_url": "",
+    "artist": "SSGT REYNALDO RAMON",
+    "description": "A Hunter Joint Tactical Unmanned Aerial Vehicle (UAV) in flight during a Combat Search and Rescue (CSAR) training exercise at Fallon Naval Air Station (NAS), Nevada (NV), during exercise DESERT RESCUE XI. The Hunter is an Israeli multi-role short-range UAV system in service with the US Army (USA). The exercise is a joint service Combat Search and Rescue (CSAR) training exercise hosted by the Naval Strike and Warfare Center, designed to simulate downed aircrews, enabling CSAR related missions to experiment with new techniques in realistic scenarios.",
+    "credit": "commons.wikimedia",
+    "modifications": "Background segmentation only; original silhouette, no invented parts; mask visually reviewed"
+  },
+  "video_metadata": null
+}

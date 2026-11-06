@@ -1,0 +1,14 @@
+{
+  "id": "agni",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Advanced_Agni_Missile.jpg",
+  "video_source": null,
+  "photo_metadata": {
+    "author": "DRDO",
+    "license": "GODL-India",
+    "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "description": "Advanced Agni missile with MIRV system. The missile was flight tested with multiple payloads, targeted to different targets spatially distributed over a large geographical area in the Indian Ocean Region",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Advanced_Agni_Missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Original source file; resized/cropped only if indicated separately"
+  },
+  "video_metadata": null
+}

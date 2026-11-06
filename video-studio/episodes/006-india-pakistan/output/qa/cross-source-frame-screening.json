@@ -1,0 +1,5 @@
+{
+  "sampled_archive_scenes": 31,
+  "method": "One decoded source control per scene, 96\u00d754 RGB, cross-source pairs within 70 seconds screened with mean absolute difference <6. Not an exhaustive perceptual duplicate search.",
+  "flagged_pairs": []
+}
