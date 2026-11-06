@@ -1,0 +1,24 @@
+{
+  "episode": 6,
+  "title": "Індія проти Пакистану",
+  "duration_seconds": 1410,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "files": [
+    {
+      "name": "final_video_v1.mp4",
+      "bytes": 211758862,
+      "sha256": "02fef31cb763473223309a8f4fd7ce684c5d9b0659a286294ffb2227d297659b"
+    },
+    {
+      "name": "project_source_v1.zip",
+      "bytes": 592909461,
+      "sha256": "f8ededde634065e5d893dd4213fe250844bc8e358ac3199d9c4ed90a2db707c4"
+    }
+  ],
+  "checks": "Full AV decode, audio correlation, frame count, static holds, native 3D and continuous maps passed; see quality_report.md for scope and limits",
+  "source_commit": "c2d27ba96bb6b1052b59f7dd788688c6a97c2742"
+}
