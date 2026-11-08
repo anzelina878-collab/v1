@@ -1,0 +1,156 @@
+{
+  "leclerc-action": [
+    [
+      3,
+      32
+    ],
+    [
+      70,
+      124
+    ]
+  ],
+  "leclerc-fire": [
+    [
+      93,
+      113
+    ]
+  ],
+  "challenger-action": [
+    [
+      0,
+      64
+    ],
+    [
+      70,
+      120
+    ]
+  ],
+  "challenger-training": [
+    [
+      8,
+      23
+    ],
+    [
+      42,
+      123
+    ]
+  ],
+  "french-infantry": [
+    [
+      10,
+      28
+    ]
+  ],
+  "british-infantry": [
+    [
+      45,
+      68
+    ]
+  ],
+  "trident-test": [
+    [
+      5,
+      63
+    ]
+  ],
+  "apache-demo": [
+    [
+      8,
+      65
+    ]
+  ],
+  "rafale-action": [
+    [
+      3,
+      113
+    ]
+  ],
+  "rafale-tlp": [
+    [
+      73.5,
+      78
+    ]
+  ],
+  "caesar-action": [
+    [
+      43,
+      113
+    ]
+  ],
+  "caesar-night": [
+    [
+      1,
+      18
+    ]
+  ],
+  "french-exercise": [
+    [
+      2,
+      56
+    ]
+  ],
+  "archer-action": [
+    [
+      2,
+      20
+    ],
+    [
+      74,
+      120
+    ]
+  ],
+  "typhoon-action": [
+    [
+      14,
+      34
+    ]
+  ],
+  "typhoon-walk": [
+    [
+      30,
+      45
+    ],
+    [
+      76,
+      110
+    ],
+    [
+      1,
+      7
+    ]
+  ],
+  "qe-embark": [
+    [
+      0,
+      35
+    ]
+  ],
+  "cdg-operations": [
+    [
+      0,
+      28
+    ],
+    [
+      60,
+      76
+    ],
+    [
+      79,
+      99
+    ],
+    [
+      104,
+      124
+    ]
+  ],
+  "tomahawk-action": [
+    [
+      4.5,
+      14
+    ],
+    [
+      57,
+      68
+    ]
+  ]
+}

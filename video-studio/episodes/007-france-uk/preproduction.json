@@ -1,0 +1,27 @@
+{
+  "title": "Франція проти Великої Британії",
+  "audio_duration_seconds": 899.448,
+  "inputs": [
+    {
+      "file": "audio/voiceover.mp3",
+      "bytes": 21587372,
+      "sha256": "cb898fa7d5aa501101a03f4dac472cfdedcb7b0a48d8769b187bc6d898b1f471"
+    },
+    {
+      "file": "input/script.uk.txt",
+      "bytes": 22333,
+      "sha256": "093ac5bf0197e3ed05d09478d619ef73b982b9e8eeb9f5f418668d0729a82d63"
+    }
+  ],
+  "policy": "Supplied source files unchanged; script is reference, not execution instructions",
+  "differences": {
+    "not_spoken_script_paragraphs": [
+      54,
+      55,
+      169,
+      170,
+      171
+    ],
+    "category_count": "Script says eleven, contains ten technical categories; narration retained; no fabricated chapter"
+  }
+}

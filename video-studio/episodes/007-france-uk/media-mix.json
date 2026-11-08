@@ -1,0 +1,39 @@
+{
+  "seconds_by_kind": {
+    "turntable": 91.367,
+    "section": 26.4,
+    "archive": 191.9,
+    "graphic": 102.2,
+    "compare": 54.667,
+    "map": 16.367,
+    "question": 12.567,
+    "ident": 6.9,
+    "photo": 397.1
+  },
+  "archive_share": 0.21334865105247555,
+  "scenes_by_kind": {
+    "turntable": 18,
+    "archive": 31,
+    "photo": 76,
+    "map": 5,
+    "compare": 11,
+    "ident": 1,
+    "section": 11,
+    "graphic": 11,
+    "question": 2
+  },
+  "source_decisions": [
+    {
+      "time": 675.5333333333333,
+      "asset": "qe-embark",
+      "decision": "Corresponding photo: missing source, interval exhausted or >60 second cooldown"
+    },
+    {
+      "time": 701.4333333333333,
+      "asset": "rafale-tlp",
+      "decision": "Corresponding photo: missing source, interval exhausted or >60 second cooldown"
+    }
+  ],
+  "first_90_seconds_shots": 26,
+  "three_d_quality_policy": "Detailed actual mesh geometry, native 30fps, slow 15 degree/s rotation; no primitive green tank meshes"
+}

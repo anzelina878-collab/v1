@@ -1,0 +1,9 @@
+RENDER 1 / 8 portable-photo photo 1.5
+RENDER 2 / 8 portable-archive archive 1.5
+RENDER 3 / 8 portable-turntable turntable 1.5
+RENDER 4 / 8 portable-map map 1.5
+RENDER 5 / 8 portable-section section 1.5
+RENDER 6 / 8 portable-graphic graphic 1.5
+RENDER 7 / 8 portable-compare compare 1.5
+RENDER 8 / 8 portable-question question 1.5
+READY /tmp/arsenal-007/portable-smoke.mp4

@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "method": "Extracted an actual source ZIP into a fresh directory; compiled Python; rebuilt episode.json byte-identically; rendered eight scene types with supplied audio",
+  "episode_json_sha256": "a7988f6f84267d07234f28d79aaeb4ac0e7b43ee36b19f57e04d1fa034a582cb",
+  "build_idempotent": true,
+  "sample_video": {
+    "duration": 12,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 360,
+    "audio_codec": "aac"
+  },
+  "tested_kinds": [
+    "photo",
+    "archive",
+    "turntable",
+    "map",
+    "section",
+    "graphic",
+    "compare",
+    "question"
+  ],
+  "final_pack_note": "Final repack adds this report, updated status and whitespace-normalized attribution text; renderer code and media match the fresh extracted copy"
+}

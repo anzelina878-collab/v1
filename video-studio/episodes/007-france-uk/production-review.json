@@ -1,0 +1,40 @@
+{
+  "source_sheets_reviewed": [
+    "leclerc-action",
+    "leclerc-fire",
+    "challenger-action",
+    "challenger-training",
+    "caesar-action",
+    "caesar-night",
+    "archer-action",
+    "typhoon-action",
+    "typhoon-walk",
+    "cdg-operations",
+    "qe-embark",
+    "french-infantry",
+    "british-infantry",
+    "french-exercise",
+    "apache-demo",
+    "trident-test",
+    "tomahawk-action"
+  ],
+  "review_method": "Source contact sheets, selected-window detail sheets, storyboard of every scene, decoded pilot controls; no continuous human watch/listen",
+  "photos": "Selected photo sheets inspected; vehicle masks inspected; rejected Patroller mask, intact source used",
+  "models": "Actual UV meshes of Rafale B, Typhoon, F35B, Apache, native 24 seconds per revolution; silhouettes/representative angles inspected",
+  "maps": "Natural Earth texture and real DEM mesh; overview labels reviewed; no downloaded map logos",
+  "archive_share": 0.21334865105247555,
+  "episode6_archive_share": 0.16520070921985816,
+  "first90_shots": 26,
+  "frame_plan": 26984,
+  "restricted_sources_excluded": [
+    "808640",
+    "810689"
+  ],
+  "remaining_checks": [
+    "Public download checksums"
+  ],
+  "encoded_control_sheets_reviewed": 8,
+  "encoded_control_frames": 169,
+  "continuous_human_watch_and_listen": "not performed",
+  "technical_status": "Passed full encoded verification and portable source test"
+}

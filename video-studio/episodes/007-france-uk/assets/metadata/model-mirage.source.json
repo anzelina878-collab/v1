@@ -1,0 +1,15 @@
+{
+  "id": "model-mirage",
+  "photo_source": "https://github.com/FGMEMBERS/Mirage-2000",
+  "video_source": "https://github.com/FGMEMBERS/Mirage-2000",
+  "photo_metadata": {
+    "license": "GPL-2.0-or-later",
+    "author": "FlightGear contributors",
+    "source": "https://github.com/FGMEMBERS/Mirage-2000"
+  },
+  "video_metadata": {
+    "license": "GPL-2.0-or-later",
+    "author": "FlightGear contributors",
+    "source": "https://github.com/FGMEMBERS/Mirage-2000"
+  }
+}

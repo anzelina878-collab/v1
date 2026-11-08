@@ -1,0 +1,202 @@
+[
+  {
+    "id": "apache-demo",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "70.000000",
+    "nb_frames": "2100"
+  },
+  {
+    "id": "archer-action",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "121.500000",
+    "nb_frames": "3645"
+  },
+  {
+    "id": "british-infantry",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "110.333333",
+    "nb_frames": "3310"
+  },
+  {
+    "id": "caesar-action",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "125.000000",
+    "nb_frames": "3750"
+  },
+  {
+    "id": "caesar-night",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "63.700000",
+    "nb_frames": "1911"
+  },
+  {
+    "id": "cdg-operations",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "125.000000",
+    "nb_frames": "3750"
+  },
+  {
+    "id": "challenger-action",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "125.000000",
+    "nb_frames": "3750"
+  },
+  {
+    "id": "challenger-training",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "125.000000",
+    "nb_frames": "3750"
+  },
+  {
+    "id": "channel-ident",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "30/1",
+    "duration": "6.000000",
+    "nb_frames": "180"
+  },
+  {
+    "id": "french-exercise",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "59.733333",
+    "nb_frames": "1792"
+  },
+  {
+    "id": "french-infantry",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "125.000000",
+    "nb_frames": "3750"
+  },
+  {
+    "id": "leclerc-action",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "125.000000",
+    "nb_frames": "3750"
+  },
+  {
+    "id": "leclerc-fire",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "125.000000",
+    "nb_frames": "3750"
+  },
+  {
+    "id": "map-region",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "24.000000",
+    "nb_frames": "720"
+  },
+  {
+    "id": "model-apache",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "24.000000",
+    "nb_frames": "720"
+  },
+  {
+    "id": "model-f35b",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "24.000000",
+    "nb_frames": "720"
+  },
+  {
+    "id": "model-rafale",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "24.000000",
+    "nb_frames": "720"
+  },
+  {
+    "id": "model-typhoon",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "24.000000",
+    "nb_frames": "720"
+  },
+  {
+    "id": "qe-embark",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "49.266667",
+    "nb_frames": "1478"
+  },
+  {
+    "id": "rafale-action",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "125.000000",
+    "nb_frames": "3750"
+  },
+  {
+    "id": "rafale-tlp",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "125.000000",
+    "nb_frames": "3750"
+  },
+  {
+    "id": "tomahawk-action",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "115.400000",
+    "nb_frames": "3462"
+  },
+  {
+    "id": "trident-test",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "69.300000",
+    "nb_frames": "2079"
+  },
+  {
+    "id": "typhoon-action",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "120.833333",
+    "nb_frames": "3625"
+  },
+  {
+    "id": "typhoon-walk",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "30/1",
+    "duration": "125.000000",
+    "nb_frames": "3750"
+  }
+]

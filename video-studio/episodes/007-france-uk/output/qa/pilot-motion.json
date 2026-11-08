@@ -1,0 +1,220 @@
+{
+  "status": "passed",
+  "locked_photos": [
+    {
+      "id": "insert-000231",
+      "mae": 0.001828703680075705,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "insert-000302",
+      "mae": 0.008981481194496155,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "insert-000889",
+      "mae": 0.0027160493191331625,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "insert-001226",
+      "mae": 0.004112654365599155,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "insert-001585",
+      "mae": 0.0,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "insert-002377",
+      "mae": 0.00027777778450399637,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "insert-002717",
+      "mae": 0.44066357612609863,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "insert-003494",
+      "mae": 0.006813271436840296,
+      "translation_pixels": [
+        0,
+        0
+      ]
+    }
+  ],
+  "continuous_3d_terrain_maps": [
+    {
+      "id": "insert-000344",
+      "native_timeline_checks": [
+        {
+          "time": 0.5,
+          "mae_vs_native_map": 0.5072280168533325
+        },
+        {
+          "time": 2.5,
+          "mae_vs_native_map": 0.571093738079071
+        }
+      ],
+      "motion_mae": 11.692216873168945
+    },
+    {
+      "id": "insert-001337",
+      "native_timeline_checks": [
+        {
+          "time": 0.5,
+          "mae_vs_native_map": 0.5072280168533325
+        },
+        {
+          "time": 2.5,
+          "mae_vs_native_map": 0.571093738079071
+        }
+      ],
+      "motion_mae": 12.527094841003418
+    }
+  ],
+  "native_30fps_slow_turntables": [
+    {
+      "id": "insert-000000",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.154081791639328
+        },
+        {
+          "time": 1.9500000000000002,
+          "mae_vs_realtime_3d": 0.1904783993959427
+        }
+      ]
+    },
+    {
+      "id": "insert-000078",
+      "checks": [
+        {
+          "time": 0.4266666666666667,
+          "mae_vs_realtime_3d": 0.17130401730537415
+        },
+        {
+          "time": 1.6,
+          "mae_vs_realtime_3d": 0.1811033934354782
+        }
+      ]
+    },
+    {
+      "id": "insert-000458",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.154081791639328
+        },
+        {
+          "time": 2.5,
+          "mae_vs_realtime_3d": 0.19618827104568481
+        }
+      ]
+    },
+    {
+      "id": "insert-000572",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.19181327521800995
+        },
+        {
+          "time": 2.5,
+          "mae_vs_realtime_3d": 0.23499999940395355
+        }
+      ]
+    },
+    {
+      "id": "insert-001115",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.19181327521800995
+        },
+        {
+          "time": 2.5,
+          "mae_vs_realtime_3d": 0.23499999940395355
+        }
+      ]
+    },
+    {
+      "id": "insert-002225",
+      "checks": [
+        {
+          "time": 0.11333333333333258,
+          "mae_vs_realtime_3d": 0.12216049432754517
+        },
+        {
+          "time": 0.42499999999999716,
+          "mae_vs_realtime_3d": 0.1568981409072876
+        }
+      ]
+    },
+    {
+      "id": "insert-002449",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.154081791639328
+        },
+        {
+          "time": 2.5,
+          "mae_vs_realtime_3d": 0.19618827104568481
+        }
+      ]
+    },
+    {
+      "id": "insert-003193",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.17506945133209229
+        },
+        {
+          "time": 2.5,
+          "mae_vs_realtime_3d": 0.2196219116449356
+        }
+      ]
+    },
+    {
+      "id": "insert-003898",
+      "checks": [
+        {
+          "time": 0.5,
+          "mae_vs_realtime_3d": 0.19181327521800995
+        },
+        {
+          "time": 2.5,
+          "mae_vs_realtime_3d": 0.23499999940395355
+        }
+      ]
+    }
+  ],
+  "rotation_seconds_per_360": 24,
+  "comparison_region": "upper 75% excludes editorial name/source overlays"
+}

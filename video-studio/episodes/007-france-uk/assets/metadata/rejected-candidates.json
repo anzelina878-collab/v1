@@ -1,0 +1,14 @@
+{
+  "rejected_archives": {
+    "qe-operations": "Source explicitly restricts distribution despite a generic PUBLIC DOMAIN heading; not used or packaged",
+    "qe-crossdeck": "Same explicit distribution restriction; not used or packaged",
+    "apache-fire": "Vertical/rotated source unsuitable for horizontal composition",
+    "tomahawk-launch": "First 125 seconds mostly preparation; replaced with actual launch 362338"
+  },
+  "rejected_photos": {
+    "f35b-initial": "Actually F35A, never selected in final plan",
+    "merlin": "Italian HH101A, not Royal Navy Merlin",
+    "fremm": "Italian Bergamini, not French Aquitaine",
+    "patroller-cutout": "Segmentation retained booth fragments; intact photo used"
+  }
+}

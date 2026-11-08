@@ -1,0 +1,1160 @@
+{
+  "assets": [
+    {
+      "id": "aasm",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/aasm.jpg",
+          "bytes": 741237,
+          "sha256": "c52e7eb5f9ba86cf71577944d28674e5e21eff6dfbbd5c1a728ad536272d9ed1"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/aasm.jpg",
+          "bytes": 2559658,
+          "sha256": "4df0a87bf2e3065a8cad4a55d2898d33e7894da56b128db2ac1fa74221ece7ea"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "ajax",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/ajax.png",
+          "bytes": 1221153,
+          "sha256": "a38a479c91c6aa081ee59e6cfa5b6f0c4e58bb1c237f7f30d93da99ee60cfa98"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/ajax.jpg",
+          "bytes": 2793046,
+          "sha256": "b6eb466770c4c3103e83a40ed8a1a09a72a879338fbc693b587d539914b0a97c"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "apache-demo",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/apache-demo.mp4",
+          "bytes": 15981406,
+          "sha256": "3657e07d93f501c4b43617c1f57d7003d836bc5efa701ba6ee517b1715c67612"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "archer",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/archer.png",
+          "bytes": 599074,
+          "sha256": "259877daf6965120bda5f0c93b5cb4d0551e29fd1feb9b3222fc2270ceb2a4a6"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/archer.jpg",
+          "bytes": 266820,
+          "sha256": "382372df7912711ed1691b9733d1246679f1bdb5dd34652dafac88103fb6635a"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "archer-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/archer-action.mp4",
+          "bytes": 25444463,
+          "sha256": "46bfbe1766328dc76e1bd2890e017db5b3e85dba00bfc72f0d3566d6f31dddb6"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "as90",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/as90.png",
+          "bytes": 1466089,
+          "sha256": "8ac072c23dce2e4c2a8ea74d5821814354b8ca6c07a97d7acabd409962a276ad"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/as90.jpg",
+          "bytes": 359787,
+          "sha256": "527d18f0d8824a83fcc62c6b04899cea5a9740f36855e6e201fdd7c0b3609512"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "aster",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/aster.jpg",
+          "bytes": 72128,
+          "sha256": "91b5e221a9396fe6be45040071da06773a3330f8e3d4291d8709eca6cc084009"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/aster.jpg",
+          "bytes": 119074,
+          "sha256": "a2ab32c90dc417bf57090cc90c756dbc58202ec09d258a4738018f983e5292a7"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "astute",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/astute.jpg",
+          "bytes": 1189395,
+          "sha256": "8d03f7c45250b651c7da7ceec66c0d6828a1d19848aba35e1fb326e51fb8f13c"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/astute.jpg",
+          "bytes": 616842,
+          "sha256": "3131d3cd698f76be52b768aebcc0f1a8305688227f954ac6e0e8b21146f3b932"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "boxer",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/boxer.png",
+          "bytes": 903311,
+          "sha256": "ea3809d9258dbecebbf94ef75e328bfb6be6e6544eef4f05778cbabc5e6833ee"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/boxer.jpg",
+          "bytes": 3744940,
+          "sha256": "5d7c768ca540f94ebed56c0ef83c247e725029d508f2f697ba46d0debadee0e8"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "brimstone",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/brimstone.png",
+          "bytes": 659900,
+          "sha256": "3a3a0c54ef998a303bf3a1d4615bab9b01f2f6587f778257cffc5e4d045bf033"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/brimstone.jpg",
+          "bytes": 207849,
+          "sha256": "e4ab05b4048bc9622dd15c20553964222dcc64264bb9d9539bc967871123b7f3"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "british-infantry",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/british-infantry.mp4",
+          "bytes": 14764244,
+          "sha256": "0c6cc3cb002f784e12b60c1494cbb0dc7b2c75bc8c644b8110e67dbe3971e0a4"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "caesar",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/caesar.jpg",
+          "bytes": 586708,
+          "sha256": "e90f32b13dc5a10616e73bc2fafa66224897f7cee9987113f9d2089188ad66a6"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/caesar.jpg",
+          "bytes": 233618,
+          "sha256": "b5527a5b6736aa225061b6fbcbfe7b016d73339e9e8c96c6641ff4ce63d7ff5d"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "caesar-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/caesar-action.mp4",
+          "bytes": 15689717,
+          "sha256": "6374b712f559d247d5ae34dc5ef3d20ab2858951c3a1ef26fb5de6850b3337de"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "caesar-night",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/caesar-night.mp4",
+          "bytes": 8336489,
+          "sha256": "9c2e65458b1fa67c94ce51259597018593a82f99607170d2c309942153aeb0e6"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "cdg-operations",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/cdg-operations.mp4",
+          "bytes": 27928461,
+          "sha256": "ec3842b4392e8933b2d52bb1b5cf3858ca49c0ccf6d70b15a2cf1234159abe28"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "challenger-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/challenger-action.mp4",
+          "bytes": 14198119,
+          "sha256": "02d010f797d0e8bbd9f098004a001ce919d75c9d4f56ebdf6068f2a33ab2852b"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "challenger-training",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/challenger-training.mp4",
+          "bytes": 43837407,
+          "sha256": "13dac68dd63b0f50706def302ad7fc24aef7d8e09c93fd19f96af01a023da87d"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "challenger2",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/challenger2.png",
+          "bytes": 882824,
+          "sha256": "b68f1fae86024e33961196401f1880f937f2044e865b010c332f025855d2041e"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/challenger2.jpg",
+          "bytes": 2432518,
+          "sha256": "5fe5225dd285830da5659ecbc7d6d2b20270d8306beda304f6f4aa65a8017862"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "challenger3",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/challenger3.png",
+          "bytes": 920436,
+          "sha256": "fc5a9a05a8944bfe9c70cb4b618bba82cc2fe174c76ce3432bc98adff1e9dc26"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/challenger3.jpg",
+          "bytes": 630808,
+          "sha256": "801413044d22815efd5f075e5ce2dca56f465507480c5bbfe59d9da5d338960f"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "channel-ident",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/channel-ident.mp4",
+          "bytes": 11084839,
+          "sha256": "8a8b69969479662962ae94acdb624f990988e9d11bc4a84e6013a149bb4badc2"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "charles",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/charles.jpg",
+          "bytes": 809645,
+          "sha256": "9dde6e7735bef9808663d8abcba511f29a8b8bdd20433c779731c1aa0021f26b"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/charles.jpg",
+          "bytes": 1312723,
+          "sha256": "09086c98d17e660d4783df067f8b9849370db1e843ed2e326a9e7caf2a49dc97"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "chinook",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/chinook.png",
+          "bytes": 527046,
+          "sha256": "e57ba63029db23c3819c38aa852ea21cbd9369fa4d46dabc7966deb7b0e705ab"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/chinook.jpg",
+          "bytes": 91917,
+          "sha256": "b0aee8de2bc6117290d01ea29f981db9e5a4bf501dc2059f3b26faec47119873"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "exocet",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/exocet.jpg",
+          "bytes": 90213,
+          "sha256": "e3f279c970ab7dcb83ead55bdbd432f45b2cc783fb45981e72a1c106094c2652"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/exocet.jpg",
+          "bytes": 148334,
+          "sha256": "7f042194c45232b2b3bee893e8bcf8e4fa21abdf9e4991c6a93959e705370538"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "famas",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/famas.jpg",
+          "bytes": 118111,
+          "sha256": "5f0942dd49bc88d805f2a54bdf28ad9b4f63f868d5babdf23642aec6d74d7464"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/famas.jpg",
+          "bytes": 27597,
+          "sha256": "5cc746413db9880d8b3b8a3396607f63b0ffd55b6c3aed7eaa50124a388b1fd3"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "fr-flag",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/flags/fr-flag.png",
+          "bytes": 1234,
+          "sha256": "eb88c1d53bf1a5d22b881c8c8392a17e709f0f0fd3ca7704e0ec56f4fddc8dd5"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "fremm-fr",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/fremm-fr.jpg",
+          "bytes": 531441,
+          "sha256": "d9e3da796cf40d230dada0dc165ed956be542a9168d9f26a6f54bbd5e160e99e"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/fremm-fr.jpg",
+          "bytes": 482208,
+          "sha256": "6268cc28b0a4c248bc53632e6ea7301aa233dff343c7edbd22485106eb221553"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "french-exercise",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/french-exercise.mp4",
+          "bytes": 30617240,
+          "sha256": "f5077d20cb9a9847e1371e7f6213c895a910e32093f8defd891d071a01e916e2"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "french-infantry",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/french-infantry.mp4",
+          "bytes": 36453054,
+          "sha256": "4fda70398a3f9de790654956fa8f159a75bf2a1afff6782326b2026ce960eab2"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "gb-flag",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/flags/gb-flag.png",
+          "bytes": 4405,
+          "sha256": "7d58591c04813a98ddd0d62563249d1aee0b3eb9d06c2988630c3b8d7141b644"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "griffon",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/griffon.png",
+          "bytes": 579859,
+          "sha256": "45247437608914cc0446acca4614cb0ff8470e6e7dee3ee75f66a8d1c1f56496"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/griffon.jpg",
+          "bytes": 7141489,
+          "sha256": "f16141feab929ee53e738def31c30fa77b2ba91635e695324c7f81f0890d3212"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "hk416",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/hk416.png",
+          "bytes": 388915,
+          "sha256": "4ecb76a62f84ece4db7ad56aa9a1593be36003e4be3f96c2285100dbbfea4586"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/hk416.png",
+          "bytes": 423121,
+          "sha256": "5314dcb4c7e22e67d3c22d641af655139ab3b88c6dcedd1fdc97c7f2069fa2c9"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "jaguar",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/jaguar.png",
+          "bytes": 697424,
+          "sha256": "9064f80fc0c341bd1c89bce5f7e486a02dcacb836297c9b3f67bbb29707334ac"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/jaguar.jpg",
+          "bytes": 330513,
+          "sha256": "f850b8b22cca33d68c096c70d817a535ccc09fc35e61d06f6c79bd34bb8a2bef"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "l85a3",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/l85a3.jpg",
+          "bytes": 161296,
+          "sha256": "6e1bc1db28a72e54deed8481cabc3110607fc342d99552316c8585b7b8de878f"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/l85a3.jpg",
+          "bytes": 127238,
+          "sha256": "5418d87a1f6b728f5b444c5bba4669b9a03abbbdc099881254cd510c10e71b3c"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "leclerc",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/leclerc.png",
+          "bytes": 788546,
+          "sha256": "0149cbbd1cc11b90a0dc487902eee86e26f132bb0086d020acb746ee4160d796"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/leclerc.jpg",
+          "bytes": 216631,
+          "sha256": "b4e0d681b94f03afc3cf5098f20a65c5565f49a75af8b38a8268073b9928620f"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "leclerc-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/leclerc-action.mp4",
+          "bytes": 23748391,
+          "sha256": "d9789e9aefb5aeafb1c2ce5f6d43ec924d6ae1f41a40f78d16ee74affdbffc18"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "leclerc-fire",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/leclerc-fire.mp4",
+          "bytes": 24117692,
+          "sha256": "45e67eba328e17a096964fb09a9c154ef889859b276ea12bfa76c765e20b4c9f"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "map-region",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/maps/map-region.mp4",
+          "bytes": 6283060,
+          "sha256": "a6b818706cdf1b2ba742267570c34b41949fbcc81df9c2c2c493e392b8d2a592"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "meteor",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/meteor.jpg",
+          "bytes": 561989,
+          "sha256": "ac1ef461ca43c0693870c9cbef783f4ba4bfd519135be184605bef637a48aa91"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/meteor.jpg",
+          "bytes": 561989,
+          "sha256": "ac1ef461ca43c0693870c9cbef783f4ba4bfd519135be184605bef637a48aa91"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "minimi",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/minimi.jpg",
+          "bytes": 161858,
+          "sha256": "91ddd9a4bbd7cce9917f21aca0560093a5f63fecd514a800b7579273c9563ea8"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/minimi.jpg",
+          "bytes": 427019,
+          "sha256": "9c6f550214667076b948ef94a7654add586928a2763c4604b8826a5d82cff7b4"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "model-apache",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/models/apache/still-object.png",
+          "bytes": 88587,
+          "sha256": "0a1da5f4ab75a967919b3797a4a3449c6de81788370335a594872529229104b5"
+        },
+        {
+          "field": "video",
+          "path": "assets/models/apache/spin.mp4",
+          "bytes": 2524788,
+          "sha256": "9c103d37cc2f567c07469ef9e330e92ff1cf077f6ab13fe1be45ef39f57ed4e1"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "model-f35b",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/models/f35b/still-object.png",
+          "bytes": 160633,
+          "sha256": "ac524e9a0f02282060ff9400912328de0d2714698d1adc074e461f38c0553b62"
+        },
+        {
+          "field": "video",
+          "path": "assets/models/f35b/spin.mp4",
+          "bytes": 4056741,
+          "sha256": "205cc9cef60250b0f856a98dcc8f7679209096a3087c9220c31a61d01a75e868"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "model-rafale",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/models/rafale/still-object.png",
+          "bytes": 127732,
+          "sha256": "3b1205800e58c6c9942b33a3ebee588a1c78fc1e2bd73f1fca48cdce92680c80"
+        },
+        {
+          "field": "video",
+          "path": "assets/models/rafale/spin.mp4",
+          "bytes": 3537251,
+          "sha256": "4b5f84009358af1786de0984b503d1a19ec32346de71c197c7d168e43d748375"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "model-typhoon",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/models/typhoon/still-object.png",
+          "bytes": 154214,
+          "sha256": "79fdd1eb0aed927ca63ccd8e4fd544bdb371f91241ec878ef2c85a2851c49ebd"
+        },
+        {
+          "field": "video",
+          "path": "assets/models/typhoon/spin.mp4",
+          "bytes": 3991390,
+          "sha256": "6578c4a07e90814aa47bf8f17f65324ba834d29457ac307135ba60a93f95d266"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "nh90",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/nh90.png",
+          "bytes": 733341,
+          "sha256": "d9d4e34305aeb0aa769048893b705ea2ee0447366a6684b5b1ddaec52aa086ec"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/nh90.jpg",
+          "bytes": 142148,
+          "sha256": "c9b6ebb8c8308a35c88ee6eac7b22a3b4f5ea5907bfd8527c40050ec15a62616"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "nlaw",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/nlaw.jpg",
+          "bytes": 492603,
+          "sha256": "e9f4635a67d8c4c49b7dd9440da384ac79c99cc71621160e07984d5a4dcdab1d"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/nlaw.JPG",
+          "bytes": 211920,
+          "sha256": "a8381f6067451ff2d11fe4023ddf02808f07b774d9a2960b0cc95f01d8a72cb0"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "patroller",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/patroller.jpg",
+          "bytes": 669392,
+          "sha256": "4982f5979d57396b2310ad8379b0a6115952ccf8e0b45592cc2cec3d76b842d9"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/patroller.jpg",
+          "bytes": 286778,
+          "sha256": "45638a38f069dda182bcdeb914930d3d6f20c77ce5cab552ff7febe8a2f103cd"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "pow",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/pow.jpg",
+          "bytes": 888153,
+          "sha256": "5ba348a8853634cb0e5bf4913720b7590171139850f6693ccfb19dfbe0c86d65"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/pow.jpg",
+          "bytes": 833734,
+          "sha256": "4334d779a2133faa2ad315302ef22af6aa2155081cb9e0b1789ba8781e661e54"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "protector",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/protector.png",
+          "bytes": 567333,
+          "sha256": "45609b17c219c6166fed02c78bd35b56b5c8c85fcf30ba1a89dc3d2f83c9413c"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/protector.jpg",
+          "bytes": 555361,
+          "sha256": "5ddb5822a50ed60605f1ef14128f6ffaf67d37a404bb58d597fb95586d839d93"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "qe",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/qe.jpg",
+          "bytes": 809769,
+          "sha256": "daad3c84525f6b5ec8a026500f59435084d5e352ea6f0ba5e030f88a204767d2"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/qe.jpg",
+          "bytes": 371410,
+          "sha256": "36a3d8869736e9a4efeccf2a087f6ffda1e9a4d3edc9e7f6bf4306feca4d1816"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "qe-embark",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/qe-embark.mp4",
+          "bytes": 8146098,
+          "sha256": "59eaa05e6d96ca3696ed25c40370d6f742a59c7ce242e006565a3186fa4fe612"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "rafale",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/rafale.png",
+          "bytes": 471261,
+          "sha256": "5ce4ddfe1f6afe4ed7727c2f2aa4f49897a0e6ea94f7be47f1319c5634c7f26a"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/rafale.jpg",
+          "bytes": 140554,
+          "sha256": "8689ddc6a05a8a15e843af71c87dbb47c348f94abdee6417db9ad58e7d56edc9"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "rafale-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/rafale-action.mp4",
+          "bytes": 21021931,
+          "sha256": "2186ca2749320780324e3b80ac4b29d824b46c1468b2e3296cf77a3b67588d15"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "rafale-tlp",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/rafale-tlp.mp4",
+          "bytes": 13918083,
+          "sha256": "5abe7dfef125118c6c7179660e54724364e4fd0f52fdecc8a53e01dc59fa1f18"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "reaper",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/reaper.jpg",
+          "bytes": 462763,
+          "sha256": "611531f5c1859f7226d577ec87b8217e661631cc336cefc8e4d7cf8fdb31e748"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/reaper.jpg",
+          "bytes": 1743569,
+          "sha256": "f1390ba6787f36b1575ec6b0eb3717afaa93b93394557f2205546a4599415f6b"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "sampt",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/sampt.jpg",
+          "bytes": 481555,
+          "sha256": "b8977dab42f9c65ace7dc642dd0c9ab222367f1701a606a2b01661fbfd7425ae"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/sampt.jpg",
+          "bytes": 427794,
+          "sha256": "95abd42e853b531e8fed728ece1cb7867254858c1dedc9dd3c74c5df6b2a49bc"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "scalp",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/scalp.png",
+          "bytes": 476258,
+          "sha256": "b68e0a270abb09bd89aa5bb92d453939d4adedbad39f08da9a9063a77553d143"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/scalp.jpg",
+          "bytes": 3284079,
+          "sha256": "549247a8ba404c6442e75264151ffd6494e1bc2c404068cd8632a400b02ffcf9"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "serval",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/prepared/serval.png",
+          "bytes": 1098624,
+          "sha256": "6631544a03c58568ffc07553d7eea8706611561fedeeaadf32b7be2a15dde927"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/serval.jpg",
+          "bytes": 222269,
+          "sha256": "5ffd9f8bb1fee8430f9ad2c14b7929db062cd181011d8801b3889f5ae357d666"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "skysabre",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/skysabre.jpg",
+          "bytes": 447498,
+          "sha256": "4a87b79a1b5c7ed138280923f904e92ad5cbdfecba9a1a42282d3e3c2abc07d7"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/skysabre.jpg",
+          "bytes": 386820,
+          "sha256": "19099e5fe281d284c4068d20f2d60f6532f902522d352aa3cef162825bae7310"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "tiger-fr",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/tiger-fr.jpg",
+          "bytes": 485831,
+          "sha256": "b4677710218efc483d70b9af9caf5006065762fad1cf125616ccc72cb3eea307"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/tiger-fr.jpg",
+          "bytes": 438497,
+          "sha256": "55c55ea60408d1a98d2b51a7dccea3b6cb1c6c5b55351c4bd2161e9434d102db"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "tomahawk",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/tomahawk.jpg",
+          "bytes": 389593,
+          "sha256": "d887b78959d94237869111f0e7df4072bce2caa04fd99c27d3a88863840728c1"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/tomahawk.jpg",
+          "bytes": 132847,
+          "sha256": "8fe62c822900bc3890e68b3841f97ce9600fa165c0d2ce8877764e1dfbc5b42b"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "tomahawk-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/tomahawk-action.mp4",
+          "bytes": 13292776,
+          "sha256": "a461844873ae50da4dc9af477ec06761f8168bf51befbe3a81ffe393e519714d"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "trident",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/trident.jpg",
+          "bytes": 325948,
+          "sha256": "a4c6769e253dc4583a29182f0601ee6968ae0c79e792e29231f5134eac237810"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/trident.jpg",
+          "bytes": 333924,
+          "sha256": "63aee1959d43b8aa8e11c4d69c4d04edce77443b74381f247c7bb88bd7a83b14"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "trident-test",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/trident-test.mp4",
+          "bytes": 8311702,
+          "sha256": "0bf534d33f770b6e0452041ba415c5b921336474c94b0585cb89e3bccb74a476"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "triomphant",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/triomphant.jpg",
+          "bytes": 692788,
+          "sha256": "906e6c2c64015bf9248e99abd9d9cdd22b804059a886224ec9c5eeb6945a1f7f"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/triomphant.jpg",
+          "bytes": 153426,
+          "sha256": "5c709bc7cc3903144b7bf47a8d6af2a545a832a9df4a2739093d1a480df8a397"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "type45",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/type45.jpg",
+          "bytes": 651479,
+          "sha256": "a7bff12beaa950c307b472289b53b3ec8f7ab220c4d60ee874137176b17e2678"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/type45.jpg",
+          "bytes": 267474,
+          "sha256": "18ada9fd8b2dc0a1b336adf0f9bf593aa2fab843c29a165b6e0d0d7fe6795822"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "typhoon-action",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/typhoon-action.mp4",
+          "bytes": 30186670,
+          "sha256": "86b41f05470eeec7937616df8d6cc563159aa8efc5671621aacfc77380df1f74"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "typhoon-walk",
+      "files": [
+        {
+          "field": "video",
+          "path": "assets/video/typhoon-walk.mp4",
+          "bytes": 33940122,
+          "sha256": "b70f224a00791e095b28a0a49e5f10ffef2b28513ad7b7506dd747272ebb3d7a"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    },
+    {
+      "id": "vanguard",
+      "files": [
+        {
+          "field": "photo",
+          "path": "assets/photos/vanguard.jpg",
+          "bytes": 607051,
+          "sha256": "46611664a2dac5ea6d7b9790ce0bffd3d68e9b8d5c0e1a2f036ee481961f5b26"
+        },
+        {
+          "field": "original_photo",
+          "path": "assets/photos/original/vanguard.jpg",
+          "bytes": 280265,
+          "sha256": "e893f787baa6431eb9361827e504ad1be4c3d5098861c508a172de4cc5411e40"
+        }
+      ],
+      "license_review": "Source metadata/public-domain notices and upstream model licenses retained",
+      "visual_review": "Source sheets and scene control frames reviewed separately from full decode"
+    }
+  ],
+  "map_source_credits": "assets/maps/SOURCES.md",
+  "continuous_human_playback": "not performed; source sheets and encoded scene controls separately reviewed"
+}

@@ -1,0 +1,1168 @@
+{
+  "fps": 30,
+  "total_frames": 26984,
+  "scenes": [
+    {
+      "id": "insert-000000",
+      "first_frame": 0,
+      "end_exclusive": 78,
+      "kind": "turntable",
+      "asset_id": "model-rafale"
+    },
+    {
+      "id": "insert-000078",
+      "first_frame": 78,
+      "end_exclusive": 142,
+      "kind": "turntable",
+      "asset_id": "model-typhoon"
+    },
+    {
+      "id": "insert-000142",
+      "first_frame": 142,
+      "end_exclusive": 182,
+      "kind": "archive",
+      "asset_id": "leclerc-action"
+    },
+    {
+      "id": "insert-000182",
+      "first_frame": 182,
+      "end_exclusive": 231,
+      "kind": "archive",
+      "asset_id": "challenger-training"
+    },
+    {
+      "id": "insert-000231",
+      "first_frame": 231,
+      "end_exclusive": 302,
+      "kind": "photo",
+      "asset_id": "charles"
+    },
+    {
+      "id": "insert-000302",
+      "first_frame": 302,
+      "end_exclusive": 344,
+      "kind": "photo",
+      "asset_id": "qe"
+    },
+    {
+      "id": "insert-000344",
+      "first_frame": 344,
+      "end_exclusive": 458,
+      "kind": "map",
+      "asset_id": "map-region"
+    },
+    {
+      "id": "insert-000458",
+      "first_frame": 458,
+      "end_exclusive": 572,
+      "kind": "turntable",
+      "asset_id": "model-rafale"
+    },
+    {
+      "id": "insert-000572",
+      "first_frame": 572,
+      "end_exclusive": 685,
+      "kind": "turntable",
+      "asset_id": "model-f35b"
+    },
+    {
+      "id": "insert-000685",
+      "first_frame": 685,
+      "end_exclusive": 773,
+      "kind": "compare",
+      "asset_id": "aircraft"
+    },
+    {
+      "id": "insert-000773",
+      "first_frame": 773,
+      "end_exclusive": 889,
+      "kind": "archive",
+      "asset_id": "rafale-action"
+    },
+    {
+      "id": "insert-000889",
+      "first_frame": 889,
+      "end_exclusive": 1005,
+      "kind": "photo",
+      "asset_id": "leclerc"
+    },
+    {
+      "id": "insert-001005",
+      "first_frame": 1005,
+      "end_exclusive": 1115,
+      "kind": "archive",
+      "asset_id": "qe-embark"
+    },
+    {
+      "id": "insert-001115",
+      "first_frame": 1115,
+      "end_exclusive": 1226,
+      "kind": "turntable",
+      "asset_id": "model-f35b"
+    },
+    {
+      "id": "insert-001226",
+      "first_frame": 1226,
+      "end_exclusive": 1337,
+      "kind": "photo",
+      "asset_id": "astute"
+    },
+    {
+      "id": "insert-001337",
+      "first_frame": 1337,
+      "end_exclusive": 1461,
+      "kind": "map",
+      "asset_id": "map-region"
+    },
+    {
+      "id": "insert-001461",
+      "first_frame": 1461,
+      "end_exclusive": 1585,
+      "kind": "archive",
+      "asset_id": "typhoon-action"
+    },
+    {
+      "id": "insert-001585",
+      "first_frame": 1585,
+      "end_exclusive": 1688,
+      "kind": "photo",
+      "asset_id": "l85a3"
+    },
+    {
+      "id": "insert-001688",
+      "first_frame": 1688,
+      "end_exclusive": 1790,
+      "kind": "archive",
+      "asset_id": "caesar-action"
+    },
+    {
+      "id": "insert-001790",
+      "first_frame": 1790,
+      "end_exclusive": 1946,
+      "kind": "compare",
+      "asset_id": "carriers"
+    },
+    {
+      "id": "insert-001946",
+      "first_frame": 1946,
+      "end_exclusive": 2153,
+      "kind": "ident",
+      "asset_id": "channel-ident"
+    },
+    {
+      "id": "insert-002153",
+      "first_frame": 2153,
+      "end_exclusive": 2225,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-002225",
+      "first_frame": 2225,
+      "end_exclusive": 2242,
+      "kind": "turntable",
+      "asset_id": "model-rafale"
+    },
+    {
+      "id": "insert-002242",
+      "first_frame": 2242,
+      "end_exclusive": 2377,
+      "kind": "archive",
+      "asset_id": "rafale-tlp"
+    },
+    {
+      "id": "insert-002377",
+      "first_frame": 2377,
+      "end_exclusive": 2449,
+      "kind": "photo",
+      "asset_id": "rafale"
+    },
+    {
+      "id": "insert-002449",
+      "first_frame": 2449,
+      "end_exclusive": 2717,
+      "kind": "turntable",
+      "asset_id": "model-rafale"
+    },
+    {
+      "id": "insert-002717",
+      "first_frame": 2717,
+      "end_exclusive": 2984,
+      "kind": "photo",
+      "asset_id": "meteor"
+    },
+    {
+      "id": "insert-002984",
+      "first_frame": 2984,
+      "end_exclusive": 3193,
+      "kind": "archive",
+      "asset_id": "cdg-operations"
+    },
+    {
+      "id": "insert-003193",
+      "first_frame": 3193,
+      "end_exclusive": 3494,
+      "kind": "turntable",
+      "asset_id": "model-typhoon"
+    },
+    {
+      "id": "insert-003494",
+      "first_frame": 3494,
+      "end_exclusive": 3709,
+      "kind": "photo",
+      "asset_id": "scalp"
+    },
+    {
+      "id": "insert-003709",
+      "first_frame": 3709,
+      "end_exclusive": 3898,
+      "kind": "archive",
+      "asset_id": "typhoon-walk"
+    },
+    {
+      "id": "insert-003898",
+      "first_frame": 3898,
+      "end_exclusive": 4097,
+      "kind": "turntable",
+      "asset_id": "model-f35b"
+    },
+    {
+      "id": "insert-004097",
+      "first_frame": 4097,
+      "end_exclusive": 4289,
+      "kind": "archive",
+      "asset_id": "qe-embark"
+    },
+    {
+      "id": "insert-004289",
+      "first_frame": 4289,
+      "end_exclusive": 4444,
+      "kind": "archive",
+      "asset_id": "rafale-action"
+    },
+    {
+      "id": "insert-004444",
+      "first_frame": 4444,
+      "end_exclusive": 4632,
+      "kind": "archive",
+      "asset_id": "typhoon-action"
+    },
+    {
+      "id": "insert-004632",
+      "first_frame": 4632,
+      "end_exclusive": 4856,
+      "kind": "compare",
+      "asset_id": "aircraft"
+    },
+    {
+      "id": "insert-004856",
+      "first_frame": 4856,
+      "end_exclusive": 4928,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-004928",
+      "first_frame": 4928,
+      "end_exclusive": 5159,
+      "kind": "photo",
+      "asset_id": "leclerc"
+    },
+    {
+      "id": "insert-005159",
+      "first_frame": 5159,
+      "end_exclusive": 5320,
+      "kind": "archive",
+      "asset_id": "leclerc-action"
+    },
+    {
+      "id": "insert-005320",
+      "first_frame": 5320,
+      "end_exclusive": 5515,
+      "kind": "photo",
+      "asset_id": "leclerc"
+    },
+    {
+      "id": "insert-005515",
+      "first_frame": 5515,
+      "end_exclusive": 5617,
+      "kind": "photo",
+      "asset_id": "griffon"
+    },
+    {
+      "id": "insert-005617",
+      "first_frame": 5617,
+      "end_exclusive": 5653,
+      "kind": "photo",
+      "asset_id": "jaguar"
+    },
+    {
+      "id": "insert-005653",
+      "first_frame": 5653,
+      "end_exclusive": 5668,
+      "kind": "photo",
+      "asset_id": "serval"
+    },
+    {
+      "id": "insert-005668",
+      "first_frame": 5668,
+      "end_exclusive": 5802,
+      "kind": "archive",
+      "asset_id": "challenger-action"
+    },
+    {
+      "id": "insert-005802",
+      "first_frame": 5802,
+      "end_exclusive": 6068,
+      "kind": "archive",
+      "asset_id": "challenger-training"
+    },
+    {
+      "id": "insert-006068",
+      "first_frame": 6068,
+      "end_exclusive": 6367,
+      "kind": "photo",
+      "asset_id": "challenger3"
+    },
+    {
+      "id": "insert-006367",
+      "first_frame": 6367,
+      "end_exclusive": 6671,
+      "kind": "photo",
+      "asset_id": "challenger3"
+    },
+    {
+      "id": "insert-006671",
+      "first_frame": 6671,
+      "end_exclusive": 6809,
+      "kind": "archive",
+      "asset_id": "leclerc-fire"
+    },
+    {
+      "id": "insert-006809",
+      "first_frame": 6809,
+      "end_exclusive": 6938,
+      "kind": "photo",
+      "asset_id": "boxer"
+    },
+    {
+      "id": "insert-006938",
+      "first_frame": 6938,
+      "end_exclusive": 6958,
+      "kind": "photo",
+      "asset_id": "ajax"
+    },
+    {
+      "id": "insert-006958",
+      "first_frame": 6958,
+      "end_exclusive": 7249,
+      "kind": "graphic",
+      "asset_id": "survival"
+    },
+    {
+      "id": "insert-007249",
+      "first_frame": 7249,
+      "end_exclusive": 7321,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-007321",
+      "first_frame": 7321,
+      "end_exclusive": 7531,
+      "kind": "photo",
+      "asset_id": "scalp"
+    },
+    {
+      "id": "insert-007531",
+      "first_frame": 7531,
+      "end_exclusive": 8004,
+      "kind": "turntable",
+      "asset_id": "model-typhoon"
+    },
+    {
+      "id": "insert-008004",
+      "first_frame": 8004,
+      "end_exclusive": 8119,
+      "kind": "photo",
+      "asset_id": "scalp"
+    },
+    {
+      "id": "insert-008119",
+      "first_frame": 8119,
+      "end_exclusive": 8249,
+      "kind": "photo",
+      "asset_id": "exocet"
+    },
+    {
+      "id": "insert-008249",
+      "first_frame": 8249,
+      "end_exclusive": 8352,
+      "kind": "photo",
+      "asset_id": "aasm"
+    },
+    {
+      "id": "insert-008352",
+      "first_frame": 8352,
+      "end_exclusive": 8375,
+      "kind": "photo",
+      "asset_id": "aster"
+    },
+    {
+      "id": "insert-008375",
+      "first_frame": 8375,
+      "end_exclusive": 8482,
+      "kind": "photo",
+      "asset_id": "brimstone"
+    },
+    {
+      "id": "insert-008482",
+      "first_frame": 8482,
+      "end_exclusive": 8569,
+      "kind": "archive",
+      "asset_id": "tomahawk-action"
+    },
+    {
+      "id": "insert-008569",
+      "first_frame": 8569,
+      "end_exclusive": 8648,
+      "kind": "photo",
+      "asset_id": "type45"
+    },
+    {
+      "id": "insert-008648",
+      "first_frame": 8648,
+      "end_exclusive": 8963,
+      "kind": "photo",
+      "asset_id": "brimstone"
+    },
+    {
+      "id": "insert-008963",
+      "first_frame": 8963,
+      "end_exclusive": 9035,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-009035",
+      "first_frame": 9035,
+      "end_exclusive": 9383,
+      "kind": "archive",
+      "asset_id": "french-infantry"
+    },
+    {
+      "id": "insert-009383",
+      "first_frame": 9383,
+      "end_exclusive": 9637,
+      "kind": "photo",
+      "asset_id": "famas"
+    },
+    {
+      "id": "insert-009637",
+      "first_frame": 9637,
+      "end_exclusive": 9909,
+      "kind": "photo",
+      "asset_id": "minimi"
+    },
+    {
+      "id": "insert-009909",
+      "first_frame": 9909,
+      "end_exclusive": 10221,
+      "kind": "photo",
+      "asset_id": "l85a3"
+    },
+    {
+      "id": "insert-010221",
+      "first_frame": 10221,
+      "end_exclusive": 10400,
+      "kind": "archive",
+      "asset_id": "british-infantry"
+    },
+    {
+      "id": "insert-010400",
+      "first_frame": 10400,
+      "end_exclusive": 10582,
+      "kind": "photo",
+      "asset_id": "l85a3"
+    },
+    {
+      "id": "insert-010582",
+      "first_frame": 10582,
+      "end_exclusive": 10805,
+      "kind": "photo",
+      "asset_id": "nlaw"
+    },
+    {
+      "id": "insert-010805",
+      "first_frame": 10805,
+      "end_exclusive": 10958,
+      "kind": "photo",
+      "asset_id": "hk416"
+    },
+    {
+      "id": "insert-010958",
+      "first_frame": 10958,
+      "end_exclusive": 11110,
+      "kind": "photo",
+      "asset_id": "l85a3"
+    },
+    {
+      "id": "insert-011110",
+      "first_frame": 11110,
+      "end_exclusive": 11470,
+      "kind": "archive",
+      "asset_id": "french-exercise"
+    },
+    {
+      "id": "insert-011470",
+      "first_frame": 11470,
+      "end_exclusive": 11509,
+      "kind": "photo",
+      "asset_id": "hk416"
+    },
+    {
+      "id": "insert-011509",
+      "first_frame": 11509,
+      "end_exclusive": 11581,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-011581",
+      "first_frame": 11581,
+      "end_exclusive": 11654,
+      "kind": "photo",
+      "asset_id": "caesar"
+    },
+    {
+      "id": "insert-011654",
+      "first_frame": 11654,
+      "end_exclusive": 11854,
+      "kind": "archive",
+      "asset_id": "caesar-action"
+    },
+    {
+      "id": "insert-011854",
+      "first_frame": 11854,
+      "end_exclusive": 11974,
+      "kind": "photo",
+      "asset_id": "caesar"
+    },
+    {
+      "id": "insert-011974",
+      "first_frame": 11974,
+      "end_exclusive": 12134,
+      "kind": "archive",
+      "asset_id": "caesar-night"
+    },
+    {
+      "id": "insert-012134",
+      "first_frame": 12134,
+      "end_exclusive": 12375,
+      "kind": "photo",
+      "asset_id": "as90"
+    },
+    {
+      "id": "insert-012375",
+      "first_frame": 12375,
+      "end_exclusive": 12735,
+      "kind": "archive",
+      "asset_id": "archer-action"
+    },
+    {
+      "id": "insert-012735",
+      "first_frame": 12735,
+      "end_exclusive": 12804,
+      "kind": "photo",
+      "asset_id": "archer"
+    },
+    {
+      "id": "insert-012804",
+      "first_frame": 12804,
+      "end_exclusive": 12952,
+      "kind": "photo",
+      "asset_id": "caesar"
+    },
+    {
+      "id": "insert-012952",
+      "first_frame": 12952,
+      "end_exclusive": 13126,
+      "kind": "photo",
+      "asset_id": "archer"
+    },
+    {
+      "id": "insert-013126",
+      "first_frame": 13126,
+      "end_exclusive": 13432,
+      "kind": "graphic",
+      "asset_id": "artillery"
+    },
+    {
+      "id": "insert-013432",
+      "first_frame": 13432,
+      "end_exclusive": 13504,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-013504",
+      "first_frame": 13504,
+      "end_exclusive": 13634,
+      "kind": "photo",
+      "asset_id": "reaper"
+    },
+    {
+      "id": "insert-013634",
+      "first_frame": 13634,
+      "end_exclusive": 13849,
+      "kind": "photo",
+      "asset_id": "patroller"
+    },
+    {
+      "id": "insert-013849",
+      "first_frame": 13849,
+      "end_exclusive": 14295,
+      "kind": "photo",
+      "asset_id": "protector"
+    },
+    {
+      "id": "insert-014295",
+      "first_frame": 14295,
+      "end_exclusive": 14686,
+      "kind": "graphic",
+      "asset_id": "drones"
+    },
+    {
+      "id": "insert-014686",
+      "first_frame": 14686,
+      "end_exclusive": 14940,
+      "kind": "graphic",
+      "asset_id": "readiness"
+    },
+    {
+      "id": "insert-014940",
+      "first_frame": 14940,
+      "end_exclusive": 15066,
+      "kind": "photo",
+      "asset_id": "patroller"
+    },
+    {
+      "id": "insert-015066",
+      "first_frame": 15066,
+      "end_exclusive": 15321,
+      "kind": "photo",
+      "asset_id": "protector"
+    },
+    {
+      "id": "insert-015321",
+      "first_frame": 15321,
+      "end_exclusive": 15393,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-015393",
+      "first_frame": 15393,
+      "end_exclusive": 15506,
+      "kind": "photo",
+      "asset_id": "sampt"
+    },
+    {
+      "id": "insert-015506",
+      "first_frame": 15506,
+      "end_exclusive": 15724,
+      "kind": "photo",
+      "asset_id": "aster"
+    },
+    {
+      "id": "insert-015724",
+      "first_frame": 15724,
+      "end_exclusive": 15961,
+      "kind": "photo",
+      "asset_id": "sampt"
+    },
+    {
+      "id": "insert-015961",
+      "first_frame": 15961,
+      "end_exclusive": 16336,
+      "kind": "photo",
+      "asset_id": "skysabre"
+    },
+    {
+      "id": "insert-016336",
+      "first_frame": 16336,
+      "end_exclusive": 16537,
+      "kind": "photo",
+      "asset_id": "type45"
+    },
+    {
+      "id": "insert-016537",
+      "first_frame": 16537,
+      "end_exclusive": 16688,
+      "kind": "compare",
+      "asset_id": "airdefense"
+    },
+    {
+      "id": "insert-016688",
+      "first_frame": 16688,
+      "end_exclusive": 16802,
+      "kind": "photo",
+      "asset_id": "sampt"
+    },
+    {
+      "id": "insert-016802",
+      "first_frame": 16802,
+      "end_exclusive": 16946,
+      "kind": "photo",
+      "asset_id": "type45"
+    },
+    {
+      "id": "insert-016946",
+      "first_frame": 16946,
+      "end_exclusive": 17192,
+      "kind": "graphic",
+      "asset_id": "airdefense"
+    },
+    {
+      "id": "insert-017192",
+      "first_frame": 17192,
+      "end_exclusive": 17264,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-017264",
+      "first_frame": 17264,
+      "end_exclusive": 17473,
+      "kind": "photo",
+      "asset_id": "tiger-fr"
+    },
+    {
+      "id": "insert-017473",
+      "first_frame": 17473,
+      "end_exclusive": 17775,
+      "kind": "photo",
+      "asset_id": "tiger-fr"
+    },
+    {
+      "id": "insert-017775",
+      "first_frame": 17775,
+      "end_exclusive": 17931,
+      "kind": "turntable",
+      "asset_id": "model-apache"
+    },
+    {
+      "id": "insert-017931",
+      "first_frame": 17931,
+      "end_exclusive": 18166,
+      "kind": "archive",
+      "asset_id": "apache-demo"
+    },
+    {
+      "id": "insert-018166",
+      "first_frame": 18166,
+      "end_exclusive": 18326,
+      "kind": "photo",
+      "asset_id": "nh90"
+    },
+    {
+      "id": "insert-018326",
+      "first_frame": 18326,
+      "end_exclusive": 18463,
+      "kind": "photo",
+      "asset_id": "chinook"
+    },
+    {
+      "id": "insert-018463",
+      "first_frame": 18463,
+      "end_exclusive": 18609,
+      "kind": "turntable",
+      "asset_id": "model-apache"
+    },
+    {
+      "id": "insert-018609",
+      "first_frame": 18609,
+      "end_exclusive": 18782,
+      "kind": "photo",
+      "asset_id": "tiger-fr"
+    },
+    {
+      "id": "insert-018782",
+      "first_frame": 18782,
+      "end_exclusive": 19016,
+      "kind": "graphic",
+      "asset_id": "helicopters"
+    },
+    {
+      "id": "insert-019016",
+      "first_frame": 19016,
+      "end_exclusive": 19088,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-019088",
+      "first_frame": 19088,
+      "end_exclusive": 19126,
+      "kind": "photo",
+      "asset_id": "charles"
+    },
+    {
+      "id": "insert-019126",
+      "first_frame": 19126,
+      "end_exclusive": 19396,
+      "kind": "archive",
+      "asset_id": "cdg-operations"
+    },
+    {
+      "id": "insert-019396",
+      "first_frame": 19396,
+      "end_exclusive": 19481,
+      "kind": "photo",
+      "asset_id": "charles"
+    },
+    {
+      "id": "insert-019481",
+      "first_frame": 19481,
+      "end_exclusive": 19605,
+      "kind": "photo",
+      "asset_id": "qe"
+    },
+    {
+      "id": "insert-019605",
+      "first_frame": 19605,
+      "end_exclusive": 19918,
+      "kind": "photo",
+      "asset_id": "pow"
+    },
+    {
+      "id": "insert-019918",
+      "first_frame": 19918,
+      "end_exclusive": 20143,
+      "kind": "archive",
+      "asset_id": "qe-embark"
+    },
+    {
+      "id": "insert-020143",
+      "first_frame": 20143,
+      "end_exclusive": 20266,
+      "kind": "photo",
+      "asset_id": "charles"
+    },
+    {
+      "id": "insert-020266",
+      "first_frame": 20266,
+      "end_exclusive": 20399,
+      "kind": "photo",
+      "asset_id": "qe"
+    },
+    {
+      "id": "insert-020399",
+      "first_frame": 20399,
+      "end_exclusive": 20490,
+      "kind": "map",
+      "asset_id": "map-region"
+    },
+    {
+      "id": "insert-020490",
+      "first_frame": 20490,
+      "end_exclusive": 20686,
+      "kind": "photo",
+      "asset_id": "fremm-fr"
+    },
+    {
+      "id": "insert-020686",
+      "first_frame": 20686,
+      "end_exclusive": 20850,
+      "kind": "photo",
+      "asset_id": "astute"
+    },
+    {
+      "id": "insert-020850",
+      "first_frame": 20850,
+      "end_exclusive": 21043,
+      "kind": "photo",
+      "asset_id": "vanguard"
+    },
+    {
+      "id": "insert-021043",
+      "first_frame": 21043,
+      "end_exclusive": 21175,
+      "kind": "photo",
+      "asset_id": "rafale"
+    },
+    {
+      "id": "insert-021175",
+      "first_frame": 21175,
+      "end_exclusive": 21314,
+      "kind": "turntable",
+      "asset_id": "model-f35b"
+    },
+    {
+      "id": "insert-021314",
+      "first_frame": 21314,
+      "end_exclusive": 21600,
+      "kind": "graphic",
+      "asset_id": "navy"
+    },
+    {
+      "id": "insert-021600",
+      "first_frame": 21600,
+      "end_exclusive": 21672,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-021672",
+      "first_frame": 21672,
+      "end_exclusive": 21713,
+      "kind": "map",
+      "asset_id": "map-region"
+    },
+    {
+      "id": "insert-021713",
+      "first_frame": 21713,
+      "end_exclusive": 22222,
+      "kind": "graphic",
+      "asset_id": "nuclear"
+    },
+    {
+      "id": "insert-022222",
+      "first_frame": 22222,
+      "end_exclusive": 22501,
+      "kind": "photo",
+      "asset_id": "triomphant"
+    },
+    {
+      "id": "insert-022501",
+      "first_frame": 22501,
+      "end_exclusive": 22699,
+      "kind": "turntable",
+      "asset_id": "model-rafale"
+    },
+    {
+      "id": "insert-022699",
+      "first_frame": 22699,
+      "end_exclusive": 22972,
+      "kind": "photo",
+      "asset_id": "vanguard"
+    },
+    {
+      "id": "insert-022972",
+      "first_frame": 22972,
+      "end_exclusive": 23094,
+      "kind": "graphic",
+      "asset_id": "future-sub"
+    },
+    {
+      "id": "insert-023094",
+      "first_frame": 23094,
+      "end_exclusive": 23246,
+      "kind": "compare",
+      "asset_id": "french-deterrence"
+    },
+    {
+      "id": "insert-023246",
+      "first_frame": 23246,
+      "end_exclusive": 23454,
+      "kind": "archive",
+      "asset_id": "trident-test"
+    },
+    {
+      "id": "insert-023454",
+      "first_frame": 23454,
+      "end_exclusive": 23734,
+      "kind": "graphic",
+      "asset_id": "deterrence"
+    },
+    {
+      "id": "insert-023734",
+      "first_frame": 23734,
+      "end_exclusive": 23806,
+      "kind": "section",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-023806",
+      "first_frame": 23806,
+      "end_exclusive": 23918,
+      "kind": "turntable",
+      "asset_id": "model-rafale"
+    },
+    {
+      "id": "insert-023918",
+      "first_frame": 23918,
+      "end_exclusive": 23956,
+      "kind": "photo",
+      "asset_id": "leclerc"
+    },
+    {
+      "id": "insert-023956",
+      "first_frame": 23956,
+      "end_exclusive": 23994,
+      "kind": "photo",
+      "asset_id": "caesar"
+    },
+    {
+      "id": "insert-023994",
+      "first_frame": 23994,
+      "end_exclusive": 24083,
+      "kind": "photo",
+      "asset_id": "sampt"
+    },
+    {
+      "id": "insert-024083",
+      "first_frame": 24083,
+      "end_exclusive": 24119,
+      "kind": "photo",
+      "asset_id": "charles"
+    },
+    {
+      "id": "insert-024119",
+      "first_frame": 24119,
+      "end_exclusive": 24391,
+      "kind": "archive",
+      "asset_id": "caesar-action"
+    },
+    {
+      "id": "insert-024391",
+      "first_frame": 24391,
+      "end_exclusive": 24530,
+      "kind": "turntable",
+      "asset_id": "model-typhoon"
+    },
+    {
+      "id": "insert-024530",
+      "first_frame": 24530,
+      "end_exclusive": 24598,
+      "kind": "turntable",
+      "asset_id": "model-f35b"
+    },
+    {
+      "id": "insert-024598",
+      "first_frame": 24598,
+      "end_exclusive": 24639,
+      "kind": "photo",
+      "asset_id": "challenger2"
+    },
+    {
+      "id": "insert-024639",
+      "first_frame": 24639,
+      "end_exclusive": 24684,
+      "kind": "turntable",
+      "asset_id": "model-apache"
+    },
+    {
+      "id": "insert-024684",
+      "first_frame": 24684,
+      "end_exclusive": 24752,
+      "kind": "photo",
+      "asset_id": "qe"
+    },
+    {
+      "id": "insert-024752",
+      "first_frame": 24752,
+      "end_exclusive": 24765,
+      "kind": "photo",
+      "asset_id": "astute"
+    },
+    {
+      "id": "insert-024765",
+      "first_frame": 24765,
+      "end_exclusive": 25023,
+      "kind": "archive",
+      "asset_id": "qe-embark"
+    },
+    {
+      "id": "insert-025023",
+      "first_frame": 25023,
+      "end_exclusive": 25150,
+      "kind": "compare",
+      "asset_id": "tanks"
+    },
+    {
+      "id": "insert-025150",
+      "first_frame": 25150,
+      "end_exclusive": 25310,
+      "kind": "photo",
+      "asset_id": "scalp"
+    },
+    {
+      "id": "insert-025310",
+      "first_frame": 25310,
+      "end_exclusive": 25562,
+      "kind": "compare",
+      "asset_id": "carriers"
+    },
+    {
+      "id": "insert-025562",
+      "first_frame": 25562,
+      "end_exclusive": 25796,
+      "kind": "compare",
+      "asset_id": "french-deterrence"
+    },
+    {
+      "id": "insert-025796",
+      "first_frame": 25796,
+      "end_exclusive": 25943,
+      "kind": "graphic",
+      "asset_id": "system"
+    },
+    {
+      "id": "insert-025943",
+      "first_frame": 25943,
+      "end_exclusive": 26065,
+      "kind": "archive",
+      "asset_id": "leclerc-action"
+    },
+    {
+      "id": "insert-026065",
+      "first_frame": 26065,
+      "end_exclusive": 26230,
+      "kind": "archive",
+      "asset_id": "typhoon-action"
+    },
+    {
+      "id": "insert-026230",
+      "first_frame": 26230,
+      "end_exclusive": 26351,
+      "kind": "map",
+      "asset_id": "map-region"
+    },
+    {
+      "id": "insert-026351",
+      "first_frame": 26351,
+      "end_exclusive": 26466,
+      "kind": "question",
+      "asset_id": "original"
+    },
+    {
+      "id": "insert-026466",
+      "first_frame": 26466,
+      "end_exclusive": 26528,
+      "kind": "compare",
+      "asset_id": "aircraft"
+    },
+    {
+      "id": "insert-026528",
+      "first_frame": 26528,
+      "end_exclusive": 26577,
+      "kind": "compare",
+      "asset_id": "tanks"
+    },
+    {
+      "id": "insert-026577",
+      "first_frame": 26577,
+      "end_exclusive": 26722,
+      "kind": "compare",
+      "asset_id": "carriers"
+    },
+    {
+      "id": "insert-026722",
+      "first_frame": 26722,
+      "end_exclusive": 26984,
+      "kind": "question",
+      "asset_id": "original"
+    }
+  ]
+}

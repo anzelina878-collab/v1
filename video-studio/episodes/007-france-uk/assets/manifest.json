@@ -1,0 +1,1088 @@
+[
+  {
+    "id": "aasm",
+    "display_name": "AASM",
+    "photo": "assets/photos/aasm.jpg",
+    "original_photo": "assets/photos/original/aasm.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Aasm5.jpg",
+    "photo_credit": "Killersurprise64 · Public domain",
+    "photo_metadata": {
+      "author": "Killersurprise64",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "Bombes guidée a coté d'un mirage F1 (de gauche a droite), kit 125kg et 250kg, 500kg, et 1000kg.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aasm5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized candidate; original retained. Not selected until reviewed."
+    }
+  },
+  {
+    "id": "ajax",
+    "display_name": "AJAX",
+    "photo": "assets/prepared/ajax.png",
+    "original_photo": "assets/photos/original/ajax.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:AJAX,_the_Future_Armoured_Fighting_Vehicle_for_the_British_Army_MOD_45159441.jpg",
+    "photo_credit": "Richard Watt · OGL v1.0",
+    "photo_metadata": {
+      "author": "Richard Watt",
+      "license": "OGL v1.0",
+      "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+      "description": "Pictured is the new AJAX prototype shown near its future assembly site in Merthyr Tydfil, Wales.\nAJAX provides a step-change in the Armoured Fighting Vehicle capability being delivered to the British Army.\nThe programme includes six variants: AJAX, ARES, APOLLO, ATHENA, ATLAS and ARGUS. Each AJAX variant will be an agile, tracked, medium-weight armoured fighting vehicle, providing British troops with state-of-the-art best-in-class protection.\nThe vehicles are developed upon an adaptable and capable Common Base Platform, maximising commonality in mobility, electronic architecture and survivability that ensures the British Army has a family of world-class platforms.\nEach AJAX platform variant has extensive capabilities, including acoustic detectors, a laser warning system, a local situational awareness system, an electronic countermeasure system, a route marking system, an advanced electronic architecture and a high performance power pack.\nThe AJAX family of vehicles has growth built in. With an upper design limit of 42 tonnes of driveline capability, scalable and open electronic architecture and a modular armour system, it has enormous potential to combat future threats and incorporate new technology throughout the lifespan of the platform.\nAs a result, AJAX provides the kind of growth capability that the user will need to face the uncertain challenges of Future Force 2020 and beyond. AJAX will replace the less capable CVR(T), providing broad utility throughout the balanced Army 2020 force across all operations.\nThe AJAX programme was originally known as the SCOUT Specialist Vehicle (SV) programme. It was renamed at DSEI (Defence Systems & Equipment International) exhibition on 15 September 2015.\nUltimately there will be 589 SCOUT SV platforms supplied to the British Army.\n\nOrganization: Army\nObject Name: ArmyHQ-2016-040-029 AJAX in Wales RW\nCategory: MOD\nSupplemental Categories: People, Army, Equipment, Vehicles, Combat, Recon, CVRT\nKeywords: Army, Vehicle, Combat Vehicles, Infantry Fighting Vehicle, AJAX, Movements, Driving, Terrain, Landscape, Wooded, Urban, Prototype, Next generation\nCountry: Wales",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/AJAX%2C_the_Future_Armoured_Fighting_Vehicle_for_the_British_Army_MOD_45159441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "apache-demo",
+    "kind": [
+      "stock_video"
+    ],
+    "video": "assets/video/apache-demo.mp4",
+    "video_source": "https://www.dvidshub.net/video/834686",
+    "video_credit": "Spc. Oscar Toscano · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2203/DOD_108859517/DOD_108859517.mp4",
+      "title": "DVIDS - Video - AH-64 Apache",
+      "description": "",
+      "author": "Spc. Oscar Toscano",
+      "date_taken": "03.04.2022"
+    },
+    "duration": 70.0,
+    "display_name": "DVIDS - Video - AH-64 Apache"
+  },
+  {
+    "id": "archer",
+    "display_name": "ARCHER",
+    "photo": "assets/prepared/archer.png",
+    "original_photo": "assets/photos/original/archer.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Archerside_commons.jpg",
+    "photo_credit": "Ibaril · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "Ibaril",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "An ARCHER Artillery System",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Archerside_commons.jpg/1280px-Archerside_commons.jpg",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "archer-action",
+    "video": "assets/video/archer-action.mp4",
+    "duration": 121.5,
+    "video_source": "https://www.dvidshub.net/video/944113/archer-fires-during-dynamic-front",
+    "video_credit": "1st Sgt. Jacob Connor · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "1st Sgt. Jacob Connor",
+      "source": "https://www.dvidshub.net/video/944113/archer-fires-during-dynamic-front",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "11.18.2024"
+    }
+  },
+  {
+    "id": "as90",
+    "display_name": "AS90",
+    "photo": "assets/prepared/as90.png",
+    "original_photo": "assets/photos/original/as90.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:AS90_(52931434897).jpg",
+    "photo_credit": "Airwolfhound from Hertfordshire, UK · CC BY-SA 2.0",
+    "photo_metadata": {
+      "author": "Airwolfhound from Hertfordshire, UK",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "AS90",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/AS90_%2852931434897%29.jpg/1280px-AS90_%2852931434897%29.jpg",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "aster",
+    "display_name": "ASTER",
+    "photo": "assets/photos/aster.jpg",
+    "original_photo": "assets/photos/original/aster.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:MBDA_Aster_p1220947.jpg",
+    "photo_credit": "Copyright © 2007 David Monniaux · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "Copyright © 2007 David Monniaux",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "MBDA Aster 30",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/MBDA_Aster_p1220947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized candidate; original retained. Not selected until reviewed."
+    }
+  },
+  {
+    "id": "astute",
+    "display_name": "ASTUTE",
+    "photo": "assets/photos/astute.jpg",
+    "original_photo": "assets/photos/original/astute.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HMS_Ambush_long.jpg",
+    "photo_credit": "LA(Phot) Will Haigh · OGL v1.0",
+    "photo_metadata": {
+      "author": "LA(Phot) Will Haigh",
+      "license": "OGL v1.0",
+      "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+      "description": "Astute class submarine HMS Ambush is pictured during sea trials near Scotland. Ambush, second of the nuclear powered attack submarines, was named in Barrow on 16 December 2010 and launched on 5 January 2011. Having now completed her initial dive, she is in the final stages of fitting out whilst preparing for an extensive programme of sea trials. She will sail for her home port of Faslane in 2012. The seven Astute Class boats planned for introduction to the Royal Navy are the most advanced and powerful attack submarines Britain has ever sent to sea. Featuring the latest nuclear-powered technology, the vessels will never need to be refuelled and are capable of circumnavigating the world submerged, manufacturing the crew’s oxygen from seawater as she goes. The Astute Class are also quieter than any of her predecessors and have the ability to operate covertly and remain undetected, despite being fifty percent larger in size than the Royal Navy’s current Trafalgar Class submarines.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/HMS_Ambush_long.jpg/1280px-HMS_Ambush_long.jpg",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "boxer",
+    "display_name": "BOXER",
+    "photo": "assets/prepared/boxer.png",
+    "original_photo": "assets/photos/original/boxer.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:DSCN7330-crop_-_Copy.jpg",
+    "photo_credit": "SurfaceAgentX2Zero · CC0",
+    "photo_metadata": {
+      "author": "SurfaceAgentX2Zero",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Boxer KNDS RCT30 IFV at DVD 2024",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/DSCN7330-crop_-_Copy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "brimstone",
+    "display_name": "BRIMSTONE",
+    "photo": "assets/prepared/brimstone.png",
+    "original_photo": "assets/photos/original/brimstone.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Missile_MBDA_Brimstone.jpg",
+    "photo_credit": "Duch.seb · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "Duch.seb",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Missiles MBDA Brimstone",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Missile_MBDA_Brimstone.jpg/1280px-Missile_MBDA_Brimstone.jpg",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "british-infantry",
+    "video": "assets/video/british-infantry.mp4",
+    "duration": 110.333333,
+    "video_source": "https://www.dvidshub.net/video/607683/us-soldiers-fire-british-weapon",
+    "video_credit": "Pierre Courtejoie · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Pierre Courtejoie",
+      "source": "https://www.dvidshub.net/video/607683/us-soldiers-fire-british-weapon",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "03.16.2018"
+    }
+  },
+  {
+    "id": "caesar",
+    "display_name": "CAESAR",
+    "photo": "assets/photos/caesar.jpg",
+    "original_photo": "assets/photos/original/caesar.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:French_Caesar_self-propelled_howitzer_in_Iraq.jpg",
+    "photo_credit": "Sgt. 1st Class Mikki Sprenkle · Public domain",
+    "photo_metadata": {
+      "author": "Sgt. 1st Class Mikki Sprenkle",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "French Caesar self-propelled howitzer fires into the Middle Euphrates River Valley, 2 December 2018",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/French_Caesar_self-propelled_howitzer_in_Iraq.jpg/1280px-French_Caesar_self-propelled_howitzer_in_Iraq.jpg",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "caesar-action",
+    "video": "assets/video/caesar-action.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/995708/dynamic-front-26-french-caesar-howitzer-live-fire-b-roll",
+    "video_credit": "Spc. Breanna Bradford · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Spc. Breanna Bradford",
+      "source": "https://www.dvidshub.net/video/995708/dynamic-front-26-french-caesar-howitzer-live-fire-b-roll",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "02.09.2026"
+    }
+  },
+  {
+    "id": "caesar-night",
+    "video": "assets/video/caesar-night.mp4",
+    "duration": 63.7,
+    "video_source": "https://www.dvidshub.net/video/877800/b-roll-french-soldiers-fire-caesar-into-night-during-dynamic-front-23",
+    "video_credit": "Sgt. Gavin Ching · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Sgt. Gavin Ching",
+      "source": "https://www.dvidshub.net/video/877800/b-roll-french-soldiers-fire-caesar-into-night-during-dynamic-front-23",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "03.29.2023"
+    }
+  },
+  {
+    "id": "cdg-operations",
+    "video": "assets/video/cdg-operations.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/922927/nato-ally-france-joins-neptune-strike-2024",
+    "video_credit": "NATO / source agency · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "NATO / source agency",
+      "source": "https://www.dvidshub.net/video/922927/nato-ally-france-joins-neptune-strike-2024",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "04.25.2024"
+    }
+  },
+  {
+    "id": "challenger-action",
+    "video": "assets/video/challenger-action.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/604974/uk-offensive-operations-lane-strong-europe-tank-challenge-2018",
+    "video_credit": "Christian Marquardt · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Christian Marquardt",
+      "source": "https://www.dvidshub.net/video/604974/uk-offensive-operations-lane-strong-europe-tank-challenge-2018",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "06.05.2018"
+    }
+  },
+  {
+    "id": "challenger-training",
+    "video": "assets/video/challenger-training.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/551992/b-roll-challenger-tanks-royal-wessex-yeomanry",
+    "video_credit": "Maj. Charles Calio · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Maj. Charles Calio",
+      "source": "https://www.dvidshub.net/video/551992/b-roll-challenger-tanks-royal-wessex-yeomanry",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "09.16.2017"
+    }
+  },
+  {
+    "id": "challenger2",
+    "display_name": "CHALLENGER2",
+    "photo": "assets/prepared/challenger2.png",
+    "original_photo": "assets/photos/original/challenger2.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Challenger_2_Main_Battle_Tank_patrolling_outside_Basra,_Iraq_MOD_45148325.jpg",
+    "photo_credit": "Graeme Main · OGL v1.0",
+    "photo_metadata": {
+      "author": "Graeme Main",
+      "license": "OGL v1.0",
+      "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+      "description": "Soldiers of 1 A Squadron, Queens Royal Lancers (QRL) patrolling outside Basra, Iraq onboard a Challenger 2 Main Battle Tank during Operation Telic 4.\nOrganization: MOD\nObject Name: d078d191\nCategory: ARM\nSupplemental Categories: Main Battle Tanks, Tanks, Vehicles\nKeywords: Op Telic, Basrah, Iraq, Challenger 2, MBT, Main Battle Tank, Tank, Armoured, Vehicle, Equipment, Army, Basra, Telic, Campaign, Op, Operation, Sand, Arid, Barren, Desert, Landscape, Terrain\nCountry: Iraq",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Challenger_2_Main_Battle_Tank_patrolling_outside_Basra%2C_Iraq_MOD_45148325.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "challenger3",
+    "display_name": "CHALLENGER3",
+    "photo": "assets/prepared/challenger3.png",
+    "original_photo": "assets/photos/original/challenger3.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Challenger_3_ATD.jpg",
+    "photo_credit": "Sergeant Ben Beale · OGL 3",
+    "photo_metadata": {
+      "author": "Sergeant Ben Beale",
+      "license": "OGL 3",
+      "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "description": "The advanced technology demonstrator for the Challenger 3 main battle tank as of April 2024.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Challenger_3_ATD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "channel-ident",
+    "video": "assets/video/channel-ident.mp4",
+    "duration": 6,
+    "video_credit": "АРСЕНАЛ 360° · original channel ident"
+  },
+  {
+    "id": "charles",
+    "display_name": "CHARLES",
+    "photo": "assets/photos/charles.jpg",
+    "original_photo": "assets/photos/original/charles.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:French_aircraft_carrier_Charles_de_Gaulle_(R91)_underway_in_the_Ionian_Sea_on_17_March_2022_(220317-N-DH793-1322)cropped.JPG",
+    "photo_credit": "U.S. Navy photo by Mass Communication Specialist 3rd Class Bela Chambers · Public domain",
+    "photo_metadata": {
+      "author": "U.S. Navy photo by Mass Communication Specialist 3rd Class Bela Chambers",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "The French aircraft carrier Charles de Gaulle (R91) underway in the Ionian Sea on 17 March 2022. A U.S. Navy Sikorsky MH-60S Seahawk of Helicopter Sea Combat Squadron 11 (HSC-11) \"Dragonslayers\", a Eurocopter AS365 Dauphin helicopter attached to Charles de Gaulle and two NHIndustries NH90 helicopters attached to the Italian aircraft carrier Cavour (C 550) fly over the ship.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/French_aircraft_carrier_Charles_de_Gaulle_%28R91%29_underway_in_the_Ionian_Sea_on_17_March_2022_%28220317-N-DH793-1322%29cropped.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized candidate; original retained. Not selected until reviewed."
+    }
+  },
+  {
+    "id": "chinook",
+    "display_name": "CHINOOK",
+    "photo": "assets/prepared/chinook.png",
+    "original_photo": "assets/photos/original/chinook.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:CH-47_assigned_to_3rd_General_Support_Aviation_Battalion,_82nd_Combat_Aviation_Brigade.jpg",
+    "photo_credit": "Sgt. Steven Galimore · CC0",
+    "photo_metadata": {
+      "author": "Sgt. Steven Galimore",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "A CH-47 Chinook helicopter assigned to 3rd General Support Aviation Battalion, 82nd Combat Aviation Brigade, 82nd Airborne Division performs a tactical take off for onlookers during the 82nd ABN Div. All-American Week Airborne Review on Sicily Drop Zone at Fort Bragg, N.C. (U.S. Army Photo by)",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg/1280px-CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "exocet",
+    "display_name": "EXOCET",
+    "photo": "assets/photos/exocet.jpg",
+    "original_photo": "assets/photos/original/exocet.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Exocet_AM39_P1220892-detoured.jpg",
+    "photo_credit": "No machine-readable author provided. Rama assumed (based on copyright claims). · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "No machine-readable author provided. Rama assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Exocet AM-39 anti-ship missile (from MBDA) under a Dassault Rafale. Detoured from Image:Exocet AM39 P1220892.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Exocet_AM39_P1220892-detoured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized candidate; original retained. Not selected until reviewed."
+    }
+  },
+  {
+    "id": "famas",
+    "display_name": "FAMAS",
+    "photo": "assets/photos/famas.jpg",
+    "original_photo": "assets/photos/original/famas.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Rifles_FAMAS.jpg",
+    "photo_credit": "joelogon  / Joe Loong · CC BY-SA 2.0",
+    "photo_metadata": {
+      "author": "joelogon  / Joe Loong",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "FAMAS F1",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rifles_FAMAS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized candidate; original retained. Not selected until reviewed."
+    }
+  },
+  {
+    "id": "fr-flag",
+    "photo": "assets/flags/fr-flag.png",
+    "photo_credit": "Original drawing of national flag",
+    "photo_metadata": {
+      "author": "Project",
+      "license": "Original graphic"
+    }
+  },
+  {
+    "id": "fremm-fr",
+    "display_name": "FREMM-FR",
+    "photo": "assets/photos/fremm-fr.jpg",
+    "original_photo": "assets/photos/original/fremm-fr.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Fr%C3%A9gate_Aquitaine_1.jpg",
+    "photo_credit": "User:Matubu · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "User:Matubu",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Frégate Aquitaine à quai à Bordeaux",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Fr%C3%A9gate_Aquitaine_1.jpg/1920px-Fr%C3%A9gate_Aquitaine_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed source; no site overlays removed"
+    }
+  },
+  {
+    "id": "french-exercise",
+    "video": "assets/video/french-exercise.mp4",
+    "duration": 59.733333,
+    "video_source": "https://www.dvidshub.net/video/976767/exercise-delayen-3rd-anglico-live-fire-range-tahiti",
+    "video_credit": "Lance Cpl. Matthew Benfield · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Lance Cpl. Matthew Benfield",
+      "source": "https://www.dvidshub.net/video/976767/exercise-delayen-3rd-anglico-live-fire-range-tahiti",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "08.21.2025"
+    }
+  },
+  {
+    "id": "french-infantry",
+    "video": "assets/video/french-infantry.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/839488/nato-response-force-nrf-soldiers-train-romania",
+    "video_credit": "NATO / source agency · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "NATO / source agency",
+      "source": "https://www.dvidshub.net/video/839488/nato-response-force-nrf-soldiers-train-romania",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "04.13.2022"
+    }
+  },
+  {
+    "id": "gb-flag",
+    "photo": "assets/flags/gb-flag.png",
+    "photo_credit": "Original drawing of national flag",
+    "photo_metadata": {
+      "author": "Project",
+      "license": "Original graphic"
+    }
+  },
+  {
+    "id": "griffon",
+    "display_name": "GRIFFON",
+    "photo": "assets/prepared/griffon.png",
+    "original_photo": "assets/photos/original/griffon.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:VBMR_Griffon_-_Arm%C3%A9e_de_terre_(14_juillet_2021)_(4).jpg",
+    "photo_credit": "Kevin.B · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Kevin.B",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "VBMR Griffon, aux nouvelles couleurs de l'Armée de Terre, vu après le défilé du 14 juillet 2021.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/VBMR_Griffon_-_Arm%C3%A9e_de_terre_%2814_juillet_2021%29_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "hk416",
+    "display_name": "HK416",
+    "photo": "assets/photos/hk416.png",
+    "original_photo": "assets/photos/original/hk416.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HK416N.png",
+    "photo_credit": "Dybdal. · CC BY-SA 2.0",
+    "photo_metadata": {
+      "author": "Dybdal.",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Norwegian Army Heckler & Koch HK416N with 419 mm (16.5 in) long barrel, an Aimpoint CompM4 red dot sight and a vertical foregrip. (Transparent version.)",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/HK416N.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized candidate; original retained. Not selected until reviewed."
+    }
+  },
+  {
+    "id": "jaguar",
+    "display_name": "JAGUAR",
+    "photo": "assets/prepared/jaguar.png",
+    "original_photo": "assets/photos/original/jaguar.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:E20iPMrXMAUFTsh.jpg",
+    "photo_credit": "The French Army (Armée de Terre)\n\nThis file comes from a document on the website of t · Licence Ouverte",
+    "photo_metadata": {
+      "author": "The French Army (Armée de Terre)\n\nThis file comes from a document on the website of the French Ministry of Armed Forces. As can be seen mentioned, all content there is licensed under Etalab-2.0 (Licence Ouverte 2.0) unless specifically stated otherwise.",
+      "license": "Licence Ouverte",
+      "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
+      "description": "The EBRC Jaguar is an armoured vehicle developed by KNDS France (Nexter), Arquus and Thales. It entered service with the French Army in 2022.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/E20iPMrXMAUFTsh.jpg/1280px-E20iPMrXMAUFTsh.jpg",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "l85a3",
+    "display_name": "L85A3",
+    "photo": "assets/photos/l85a3.jpg",
+    "original_photo": "assets/photos/original/l85a3.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:New_SA80_A3_Assault_Rifle_MOD_45163882.jpg",
+    "photo_credit": "Graeme Main · OGL 3",
+    "photo_metadata": {
+      "author": "Graeme Main",
+      "license": "OGL 3",
+      "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "description": "Pictured is the new SA80 A3 Assault Rifle.The current issue SA80 A2 assault weapon is being upgraded into the A3 spec under the Mid Life Improvement (MLI) project, which will ensure the rifle has the enhancements needed to remain in service until 2025 and beyond.This multi-million-pound upgrade will give British troops a lighter, more hardwearing, better-camouflaged combat rifle so our personnel can perform on the frontline of some of the most dangerous locations across the world.The changes to the rifle include a more durable hardwearing coating in a“Flat Dark Earth” colour offering better camouflage in a range of environments.A weight saving of 100g over the A2, and a more streamlined fore grip making the weapon easier to handle.The A3 rifle has a bracket to secure new innovative low light sights which can clip on or in front of the day sight without the need to remove it.These sights are smaller, lighter and require fewer batteries whilst operating just as effectively in low light/night conditions.",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/New_SA80_A3_Assault_Rifle_MOD_45163882.jpg/1920px-New_SA80_A3_Assault_Rifle_MOD_45163882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "leclerc",
+    "display_name": "LECLERC",
+    "photo": "assets/prepared/leclerc.png",
+    "original_photo": "assets/photos/original/leclerc.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Leclerc-openphotonet_PICT6015.JPG",
+    "photo_credit": "Daniel Steger (Lausanne,Switzerland) · CC BY-SA 2.5",
+    "photo_metadata": {
+      "author": "Daniel Steger (Lausanne,Switzerland)",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "description": "Nexter Leclerc moving.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Leclerc-openphotonet_PICT6015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "leclerc-action",
+    "video": "assets/video/leclerc-action.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/605309/strong-europe-tank-challenge-cbrn-with-french-soldiers",
+    "video_credit": "Spc. Emily Houdershieldt · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Spc. Emily Houdershieldt",
+      "source": "https://www.dvidshub.net/video/605309/strong-europe-tank-challenge-cbrn-with-french-soldiers",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "06.05.2018"
+    }
+  },
+  {
+    "id": "leclerc-fire",
+    "video": "assets/video/leclerc-fire.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/605359/strong-europe-tank-challenge-offensive-operations-with-french-and-austrian-soldiers",
+    "video_credit": "Spc. Emily Houdershieldt · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Spc. Emily Houdershieldt",
+      "source": "https://www.dvidshub.net/video/605359/strong-europe-tank-challenge-offensive-operations-with-french-and-austrian-soldiers",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "06.06.2018"
+    }
+  },
+  {
+    "id": "map-region",
+    "video": "assets/maps/map-region.mp4",
+    "duration": 24,
+    "video_credit": "Original geographic terrain animation",
+    "video_source": "https://www.naturalearthdata.com/",
+    "video_metadata": {
+      "author": "Original project / Natural Earth / Mapzen terrain",
+      "license": "Natural Earth public domain; source terrain attribution in assets/maps/SOURCES.md"
+    },
+    "visual_origin": "true_3d_terrain"
+  },
+  {
+    "id": "meteor",
+    "display_name": "METEOR",
+    "photo": "assets/photos/meteor.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:ILA_2008_PD_446.JPG",
+    "photo_credit": "ILA-boy · Public domain",
+    "photo_metadata": {
+      "author": "ILA-boy",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "A Meteor air-to-air missile, marked as an inert training article",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/ILA_2008_PD_446.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized, otherwise faithful original"
+    },
+    "original_photo": "assets/photos/meteor.jpg"
+  },
+  {
+    "id": "minimi",
+    "display_name": "MINIMI",
+    "photo": "assets/photos/minimi.jpg",
+    "original_photo": "assets/photos/original/minimi.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:FN_MINIMI_Standard_Right.jpg",
+    "photo_credit": "FN Herstal · CC BY 2.5",
+    "photo_metadata": {
+      "author": "FN Herstal",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "description": "FN MINIMI Standard Right",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/FN_MINIMI_Standard_Right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized candidate; original retained. Not selected until reviewed."
+    }
+  },
+  {
+    "id": "model-apache",
+    "video": "assets/models/apache/spin.mp4",
+    "photo": "assets/models/apache/still-object.png",
+    "duration": 24,
+    "display_name": "AH-64 APACHE · РОДИНА",
+    "video_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "photo_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "model_metadata": {
+      "id": "apache",
+      "repository": "https://github.com/FGMEMBERS/AH-64_Apache",
+      "model_path": "Models/apache3.ac",
+      "texture_mapping": {},
+      "documents": {
+        "COPYING": "\t\t    GNU GENERAL PUBLIC LICENSE\n\t\t       Version 2, June 1991\n\n Copyright (C) 1989, 1991 Free Software Foundation, Inc.\n                       59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n\t\t\t    Preamble\n\n  The licenses for most software are designed to take away your\nfreedom to share and change it.  By contrast, the GNU General Public\nLicense is intended to guarantee your freedom to share and change free\nsoftware--to make sure the software is free for all its users.  This\nGeneral Public License applies to most of the Free Software\nFoundation's software and to any other program whose authors commit to\nusing it.  (Some other Free Software Foundation software is covered by\nthe GNU Library General Public License instead.)  You can apply it to\nyour programs, too.\n\n  When we speak of free software, we are referring to freedom, not\nprice.  Our General Public Licenses are designed to make sure that you\nhave the freedom to distribute copies of free software (and charge for\nthis service if you wish), that you receive source code or can get it\nif you want it, that you can change the software or use pieces of it\nin new free programs; and that you know you can do these things.\n\n  To protect your rights, we need to make restrictions that forbid\nanyone to deny you these rights or to ask you to surrender the rights.\nThese restrictions translate to certain responsibilities for you if you\ndistribute copies of the software, or if you modify it.\n\n  For example, if you distribute copies of such a program, whether\ngratis or for a fee, you must give the recipients all the rights that\nyou have.  You must make sure that they, too, receive or can get the\nsource code.  And you must show them these terms so they know their\nrights.\n\n  We protect your rights with two steps: (1) copyright the software, and\n(2) offer you this license which gives you legal permission to copy,\ndistribute and/or modify the software.\n\n  Also, for each author's protection and ours, we want to make certain\nthat everyone understands that there is no warranty for this free\nsoftware.  If the software is modified by someone else and passed on, we\nwant its recipients to know that what they have is not the original, so\nthat any problems introduced by others will not reflect on the original\nauthors' reputations.\n\n  Finally, any free program is threatened constantly by software\npatents.  We wish to avoid the danger that redistributors of a free\nprogram will individually obtain patent licenses, in effect making the\nprogram proprietary.  To prevent this, we have made it clear that any\npatent must be licensed for everyone's free use or not licensed at all.\n\n  The precise terms and conditions for copying, distribution and\nmodification follow.\n\f\n\t\t    GNU GENERAL PUBLIC LICENSE\n   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n  0. This License applies to any program or other work which contains\na notice placed by the copyright holder saying it may be distributed\nunder the terms of this General Public License.  The \"Program\", below,\nrefers to any such program or work, and a \"work based on the Program\"\nmeans either the Program or any derivative work under copyright law:\nthat is to say, a work containing the Program or a portion of it,\neither verbatim or with modifications and/or translated into another\nlanguage.  (Hereinafter, translation is included without limitation in\nthe term \"modification\".)  Each licensee is addressed as \"you\".\n\nActivities other than copying, distribution and modification are not\ncovered by this License; they are outside its scope.  The act of\nrunning the Program is not restricted, and the output from the Program\nis covered only if its contents constitute a work based on the\nProgram (independent of having been made by running the Program).\nWhether that is true depends on what the Program does.\n\n  1. You may copy and distribute verbatim copies of the Program's\nsource code as you receive it, in any medium, provided that you\nconspicuously and appropriately publish on each copy an appropriate\ncopyright notice and disclaimer of warranty; keep intact all the\nnotices that refer to this License and to the absence of any warranty;\nand give any other recipients of the Program a copy of this License\nalong with the Program.\n\nYou may charge a fee for the physical act of transferring a copy, and\nyou may at your option offer warranty protection in exchange for a fee.\n\n  2. You may modify your copy or copies of the Program or any portion\nof it, thus forming a work based on the Program, and copy and\ndistribute such modifications or work under the terms of Section 1\nabove, provided that you also meet all of these conditions:\n\n    a) You must cause the modified files to carry prominent notices\n    stating that you changed the files and the date of any change.\n\n    b) You must cause any work that you distribute or publish, that in\n    whole or in part contains or is derived from the Program or any\n    part thereof, to be licensed as a whole at no charge to all third\n    parties under the terms of this License.\n\n    c) If the modified program normally reads commands interactively\n    when run, you must cause it, when started running for such\n    interactive use in the most ordinary way, to print or display an\n    announcement including an appropriate copyright notice and a\n    notice that there is no warranty (or else, saying that you provide\n    a warranty) and that users may redistribute the program under\n    these conditions, and telling the user how to view a copy of this\n    License.  (Exception: if the Program itself is interactive but\n    does not normally print such an announcement, your work based on\n    the Program is not required to print an announcement.)\n\f\nThese requirements apply to the modified work as a whole.  If\nidentifiable sections of that work are not derived from the Program,\nand can be reasonably considered independent and separate works in\nthemselves, then this License, and its terms, do not apply to those\nsections when you distribute them as separate works.  But when you\ndistribute the same sections as part of a whole which is a work based\non the Program, the distribution of the whole must be on the terms of\nthis License, whose permissions for other licensees extend to the\nentire whole, and thus to each and every part regardless of who wrote it.\n\nThus, it is not the intent of this section to claim rights or contest\nyour rights to work written entirely by you; rather, the intent is to\nexercise the right to control the distribution of derivative or\ncollective works based on the Program.\n\nIn addition, mere aggregation of another work not based on the Program\nwith the Program (or with a work based on the Program) on a volume of\na storage or distribution medium does not bring the other work under\nthe scope of this License.\n\n  3. You may copy and distribute the Pr",
+        "README.txt": "English/Fran�ais\n\n[English]\n----------\n\nA little history\n================\n\nEurocopter EC 665 \"Tigre\"\n=========================\n\nManufacturer                  : \nType                          : \nYear                          : \nPowerplant                    : \nWingspan                      : \nLength                        : \nHeight                        : \nweight                        : \nCruise speed                  : \nCrew                          :  \n\nSome useful keys:\n=================\n\nThanks\n======\n\n===============\nBARANGER Emmanuel\nJune, 09, 2009.\n\nhttp://helijah.free.fr/flightgear/hangar.htm\nembaranger@free.fr\n\n\n[Fran�ais]\n----------\n\nUn peu d'histoire\n=================\n\nEurocopter EC 665 \"Tigre\"\n=========================\n\nConstructeur                  :\nType                          :\nAnn�e                         :\nMoteur                        :\nEnvergure                     :\nLongueur                      :\nHauteur                       :\nPoids � vide                  :\nVitesse de croisi�re          :\nEquipage                      :\n\n\nQuelques touches utiles :\n=========================\n\nRemerciements\n=============\n\n===============\nBARANGER Emmanuel\n09 Juin 2009.\n\nhttp://helijah.free.fr/flightgear/hangar.htm\nembaranger@free.fr\n"
+      },
+      "license_status": "reviewed: individual notices plus FlightGear FGAddon GPL distribution policy",
+      "license": "GPL-2.0-or-later",
+      "license_basis": "Individual COPYING/README where present; FlightGear FGAddon GPL policy: https://www.flightgear.org/about/policy/",
+      "modifications": "Studio lighting/materials; simulator FX omitted; neutral paint for F-14; display-pose rotor blades added to AH-64/UH-60",
+      "review_note": "GPL2 COPYING supplied; full upstream notices retained. No F-35 geometry used."
+    },
+    "schematic": false,
+    "visual_origin": "true_3d_render"
+  },
+  {
+    "id": "model-f35b",
+    "display_name": "F35B · РОДИНА",
+    "video": "assets/models/f35b/spin.mp4",
+    "photo": "assets/models/f35b/still-object.png",
+    "duration": 24,
+    "video_source": "https://github.com/FGMEMBERS/F-35B",
+    "photo_source": "https://github.com/FGMEMBERS/F-35B",
+    "video_credit": "FlightGear F-35B contributors · GPL-3.0",
+    "photo_credit": "FlightGear F-35B contributors · GPL-3.0",
+    "model_metadata": {
+      "id": "f35b",
+      "repository": "https://github.com/FGMEMBERS/F-35B",
+      "model_path": "Models/F-35B.ac",
+      "texture_mapping": {
+        "Liveries/Default.png": "texture-0.png",
+        "Liveries/Pylons.png": "texture-1.png"
+      },
+      "documents": {
+        "License.txt": "                    GNU GENERAL PUBLIC LICENSE\n                       Version 3, 29 June 2007\n\n Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n                            Preamble\n\n  The GNU General Public License is a free, copyleft license for\nsoftware and other kinds of works.\n\n  The licenses for most software and other practical works are designed\nto take away your freedom to share and change the works.  By contrast,\nthe GNU General Public License is intended to guarantee your freedom to\nshare and change all versions of a program--to make sure it remains free\nsoftware for all its users.  We, the Free Software Foundation, use the\nGNU General Public License for most of our software; it applies also to\nany other work released this way by its authors.  You can apply it to\nyour programs, too.\n\n  When we speak of free software, we are referring to freedom, not\nprice.  Our General Public Licenses are designed to make sure that you\nhave the freedom to distribute copies of free software (and charge for\nthem if you wish), that you receive source code or can get it if you\nwant it, that you can change the software or use pieces of it in new\nfree programs, and that you know you can do these things.\n\n  To protect your rights, we need to prevent others from denying you\nthese rights or asking you to surrender the rights.  Therefore, you have\ncertain responsibilities if you distribute copies of the software, or if\nyou modify it: responsibilities to respect the freedom of others.\n\n  For example, if you distribute copies of such a program, whether\ngratis or for a fee, you must pass on to the recipients the same\nfreedoms that you received.  You must make sure that they, too, receive\nor can get the source code.  And you must show them these terms so they\nknow their rights.\n\n  Developers that use the GNU GPL protect your rights with two steps:\n(1) assert copyright on the software, and (2) offer you this License\ngiving you legal permission to copy, distribute and/or modify it.\n\n  For the developers' and authors' protection, the GPL clearly explains\nthat there is no warranty for this free software.  For both users' and\nauthors' sake, the GPL requires that modified versions be marked as\nchanged, so that their problems will not be attributed erroneously to\nauthors of previous versions.\n\n  Some devices are designed to deny users access to install or run\nmodified versions of the software inside them, although the manufacturer\ncan do so.  This is fundamentally incompatible with the aim of\nprotecting users' freedom to change the software.  The systematic\npattern of such abuse occurs in the area of products for individuals to\nuse, which is precisely where it is most unacceptable.  Therefore, we\nhave designed this version of the GPL to prohibit the practice for those\nproducts.  If such problems arise substantially in other domains, we\nstand ready to extend this provision to those domains in future versions\nof the GPL, as needed to protect the freedom of users.\n\n  Finally, every program is threatened constantly by software patents.\nStates should not allow patents to restrict development and use of\nsoftware on general-purpose computers, but in those that do, we wish to\navoid the special danger that patents applied to a free program could\nmake it effectively proprietary.  To prevent this, the GPL assures that\npatents cannot be used to render the program non-free.\n\n  The precise terms and conditions for copying, distribution and\nmodification follow.\n\n                       TERMS AND CONDITIONS\n\n  0. Definitions.\n\n  \"This License\" refers to version 3 of the GNU General Public License.\n\n  \"Copyright\" also means copyright-like laws that apply to other kinds of\nworks, such as semiconductor masks.\n\n  \"The Program\" refers to any copyrightable work licensed under this\nLicense.  Each licensee is addressed as \"you\".  \"Licensees\" and\n\"recipients\" may be individuals or organizations.\n\n  To \"modify\" a work means to copy from or adapt all or part of the work\nin a fashion requiring copyright permission, other than the making of an\nexact copy.  The resulting work is called a \"modified version\" of the\nearlier work or a work \"based on\" the earlier work.\n\n  A \"covered work\" means either the unmodified Program or a work based\non the Program.\n\n  To \"propagate\" a work means to do anything with it that, without\npermission, would make you directly or secondarily liable for\ninfringement under applicable copyright law, except executing it on a\ncomputer or modifying a private copy.  Propagation includes copying,\ndistribution (with or without modification), making available to the\npublic, and in some countries other activities as well.\n\n  To \"convey\" a work means any kind of propagation that enables other\nparties to make or receive copies.  Mere interaction with a user through\na computer network, with no transfer of a copy, is not conveying.\n\n  An interactive user interface displays \"Appropriate Legal Notices\"\nto the extent that it includes a convenient and prominently visible\nfeature that (1) displays an appropriate copyright notice, and (2)\ntells the user that there is no warranty for the work (except to the\nextent that warranties are provided), that licensees may convey the\nwork under this License, and how to view a copy of this License.  If\nthe interface presents a list of user commands or options, such as a\nmenu, a prominent item in the list meets this criterion.\n\n  1. Source Code.\n\n  The \"source code\" for a work means the preferred form of the work\nfor making modifications to it.  \"Object code\" means any non-source\nform of a work.\n\n  A \"Standard Interface\" means an interface that either is an official\nstandard defined by a recognized standards body, or, in the case of\ninterfaces specified for a particular programming language, one that\nis widely used among developers working in that language.\n\n  The \"System Libraries\" of an executable work include anything, other\nthan the work as a whole, that (a) is included in the normal form of\npackaging a Major Component, but which is not part of that Major\nComponent, and (b) serves only to enable use of the work with that\nMajor Component, or to implement a Standard Interface for which an\nimplementation is available to the public in source code form.  A\n\"Major Component\", in this context, means a major essential component\n(kernel, window system, and so on) of the specific operating system\n(if any) on which the executable work runs, or a compiler used to\nproduce the work, or an object code interpreter used to run it.\n\n  The \"Corresponding Source\" for a work in object code form means all\nthe source code needed to generate, install, and (for an executable\nwork) run the object code and to modify the work, including scripts to\ncontrol those activities.  However, it does not include the work's\nSystem Libraries, or general-purpose tools or generally available free\nprograms which are used unmodified in performing those activities but\nwhich are not part of the work.  For example, Corresponding Source\nincludes interface definition files associated with source files for\nthe work, and the source code for shared libraries and dynamically\nlinked subprograms that the work is specifically designed to require,\nsuch as by intimate data communication or control flow between those\nsubprograms and other parts of the work.\n\n  The Corresponding Source need not include anything that users\ncan regenerate automatically from other parts of the Corresponding\nSource.\n\n  The Corresponding Source for a work in source code form is that\nsame work.\n\n  2. Basic Permissions.\n\n  All rights granted under this License are granted for the term of\ncopyright on the Program, and are irrevocable provided the stated\nconditions are met.  This License explicitly affirms your unlimited\npermission to run the unmodified Program.  The output from running a\ncovered work is covered by this License only if the output, given its\ncontent, constitutes a covered work.  This License acknowledges your\nrights of fair use or other equivalent, as provided by copyright law.\n\n  You may make, run and propagate covered works that you do not\nconvey, without conditions so long as your license otherwise remains\nin force.  You may convey covered works to others for the sole purpose\nof having them make modifications exclusively for you, or provide you\nwith facilities for running those works, provided that you comply with\nthe terms of this License in conveying all material for which you do\nnot control copyright.  Those thus making or running the covered works\nfor you must do so exclusively on your behalf, under your direction\nand control, on terms that prohibit them from making any copies of\nyour copyrighted material outside their relationship with you.\n\n  Conveying under any other circumstances is permitted solely under\nthe conditions stated below.  Sublicensing is not allowed; section 10\nmakes it unnecessary.\n\n  3. Protecting Users' Legal Rights From Anti-Circumvention Law.\n\n  No covered work shall be deemed part of an effective technological\nmeasure under any applicable law fulfilling obligations under article\n11 of the WIPO copyright treaty adopted on 20 December 1996, or\nsimilar laws prohibiting or restricting circumvention of such\nmeasures.\n\n  When you convey a covered work, you waive any legal power to forbid\ncircumvention of technological measures to the extent such circumvention\nis effected by exercising rights under this License with respect to\nthe covered work, and you disclaim any intention to limit operation or\nmodification of the work as a means of enforcing, against the work's\nusers, your or third parties' legal rights to forbid circumvention of\ntechnological measures.\n\n  4. Conveying Verbatim Copies.\n\n  You may convey verbatim copies of the Program's source code as you\nreceive it, in any medium, provided that you conspicuously and\nappropriately publish on each copy an appropriate copyright notice;\nkeep intact all notices stating that this License and any\nnon-permissive terms added in accord with section 7 apply to the code;\nkeep intact all notices of the absence of any warranty; and give all\nrecipients a copy of this License along with the Program.\n\n  You may charge any price or no price for each copy that you convey,\nand you may offer support or warranty protection for a fee.\n\n  5. Conveying Modified Source Versions.\n\n  You may convey a work based on the Program, or the modifications to\nproduce it from the Program, in the form of source code under the\nterms of section 4, provided that you also meet all of these conditions:\n\n    a) The work must carry prominent notices stating that you modified\n    it, and giving a relevant date.\n\n    b) The work must carry prominent notices stating that it is\n    released under this License and any conditions added under section\n    7.  This requirement modifies the requirement in section 4 to\n    \"keep intact all notices\".\n\n    c) You must license the entire work, as a whole, under this\n    License to anyone who comes into possession of a copy.  This\n    License will therefore apply, along with any applicable section 7\n    additional terms, to the whole of the work, and all its parts,\n    regardless of how they are packaged.  This License gives no\n    permission to license the work in any other way, but it does not\n    invalidate such permission if you have separately received it.\n\n    d) If the work has interactive user interfaces, each must display\n    Appropriate Legal Notices; however, if the Program has interactive\n    interfaces that do not display Appropriate Legal Notices, your\n    work need not make them do so.\n\n  A compilation of a covered work with other separate and independent\nworks, which are not by their nature extensions of the covered work,\nand which are not combined with it such as to form a larger program,\nin or on a volume of a storage or distribution medium, is called an\n\"aggregate\" if the compilation and its resulting copyright are not\nused to limit the access or legal rights of the compilation's users\nbeyond what the individual works permit.  Inclusion of a covered work\nin an aggregate does not cause this License to apply to the other\nparts of the aggregate.\n\n  6. Conveying Non-Source Forms.\n\n  You may convey a covered work in object code form under the terms\nof sections 4 and 5, provided that you also convey the\nmachine-readable Corresponding Source under the terms of this License,\nin one of these ways:\n\n    a) Convey the object code in, or embodied in, a physical product\n    (including a physical distribution medium), accompanied by the\n    Corresponding Source fixed on a durable physical medium\n    customarily used for software interchange.\n\n    b) Convey the object code in, or embodied in, a physical product\n    (including a physical distribution medium), accompanied by a\n    written offer, valid for at least three years and valid for as\n    long as you offer spare parts or customer support for that product\n    model, to give anyone who possesses the object code either (1) a\n    copy of the Corresponding Source for all the software in the\n    product that is covered by this License, on a durable physical\n    medium customarily used for software interchange, for a price no\n    more than your reasonable cost of physically performing this\n    conveying of source, or (2) access to copy the\n    Corresponding Source from a network server at no charge.\n\n    c) Convey individual copies of the object code with a copy of the\n    written offer to provide the Corresponding Source.  This\n    alternative is allowed only occasionally and noncommercially, and\n    only if you received the object code with such an offer, in accord\n    with subsection 6b.\n\n    d) Convey the object code by offering access from a designated\n    place (gratis or for a charge), and offer equivalent access to the\n    Corresponding Source in the same way through the same place at no\n    further charge.  You need not require recipients to copy the\n    Corresponding Source along with the object code.  If the place to\n    copy the object code is a network server, the Corresponding Source\n    may be on a different server (operated by you or a third party)\n    that supports equivalent copying facilities, provided you maintain\n    clear directions next to the object code saying where to find the\n    Corresponding Source.  Regardless of what server hosts the\n    Corresponding Source, you remain obligated to ensure that it is\n    available for as long as needed to satisfy these requirements.\n\n    e) Convey the object code using peer-to-peer transmission, provided\n    you inform other peers where the object code and Corresponding\n    Source of the work are being offered to the general public at no\n    charge under subsection 6d.\n\n  A separable portion of the object code, whose source code is excluded\nfrom the Corresponding Source as a System Library, need not be\nincluded in conveying the object code work.\n\n  A \"User Product\" is either (1) a \"consumer product\", which means any\ntangible personal property which is normally used for personal, family,\nor household purposes, or (2) anything designed or sold for incorporation\ninto a dwelling.  In determining whether a product is a consumer product,\ndoubtful cases shall be resolved in favor of coverage.  For a particular\nproduct received by a particular user, \"normally used\" refers to a\ntypical or common use of that class of product, regardless of the status\nof the particular user or of the way in which the particular user\nactually uses, or expects or is expected to use, the product.  A product\nis a consumer product regardless of whether the product has substantial\ncommercial, industrial or non-consumer uses, unless such uses represent\nthe only significant mode of use of the product.\n\n  \"Installation Information\" for a User Product means any methods,\nprocedures, authorization keys, or other information required to install\nand execute modified versions of a covered work in that User Product from\na modified version of its Corresponding Source.  The information must\nsuffice to ensure that the continued functioning of the modified object\ncode is in no case prevented or interfered with solely because\nmodification has been made.\n\n  If you convey an object code work under this section in, or with, or\nspecifically for use in, a User Product, and the conveying occurs as\npart of a transaction in which the right of possession and use of the\nUser Product is transferred to the recipient in perpetuity or for a\nfixed term (regardless of how the transaction is characterized), the\nCorresponding Source conveyed under this section must be accompanied\nby the Installation Information.  But this requirement does not apply\nif neither you nor any third party retains the ability to install\nmodified object code on the User Product (for example, the work has\nbeen installed in ROM).\n\n  The requirement to provide Installation Information does not include a\nrequirement to continue to provide support service, warranty, or updates\nfor a work that has been modified or installed by the recipient, or for\nthe User Product in which it has been modified or installed.  Access to a\nnetwork may be denied when the modification itself materially and\nadversely affects the operation of the network or violates the rules and\nprotocols for communication across the network.\n\n  Corresponding Source conveyed, and Installation Information provided,\nin accord with this section must be in a format that is publicly\ndocumented (and with an implementation available to the public in\nsource code form), and must require no special password or key for\nunpacking, reading or copying.\n\n  7. Additional Terms.\n\n  \"Additional permissions\" are terms that supplement the terms of this\nLicense by making exceptions from one or more of its conditions.\nAdditional permissions that are applicable to the entire Program shall\nbe treated as though they were included in this License, to the extent\nthat they are valid under applicable law.  If additional permissions\napply only to part of the Program, that part may be used separately\nunder those permissions, but the entire Program remains governed by\nthis License without regard to the additional permissions.\n\n  When you convey a copy of a covered work, you may at your option\nremove any additional permissions from that copy, or from any part of\nit.  (Additional permissions may be written to require their own\nremoval in certain cases when you modify the work.)  You may place\nadditional permissions on material, added by you to a covered work,\nfor which you have or can give appropriate copyright permission.\n\n  Notwithstanding any other provision of this License, for material you\nadd to a covered work, you may (if authorized by the copyright holders of\nthat material) supplement the terms of this License with terms:\n\n    a) Disclaiming warranty or limiting liability differently from the\n    terms of sections 15 and 16 of this License; or\n\n    b) Requiring preservation of specified reasonable legal notices or\n    author attributions in that material or in the Appropriate Legal\n    Notices displayed by works containing it; or\n\n    c) Prohibiting misrepresentation of the origin of that material, or\n    requiring that modified versions of such material be marked in\n    reasonable ways as different from the original version; or\n\n    d) Limiting the use for publicity purposes of names of licensors or\n    authors of the material; or\n\n    e) Declining to grant rights under trademark law for use of some\n    trade names, trademarks, or service marks; or\n\n    f) Requiring indemnification of licensors and authors of that\n    material by anyone who conveys the material (or modified versions of\n    it) with contractual assumptions of liability to the recipient, for\n    any liability that these contractual assumptions directly impose on\n    those licensors and authors.\n\n  All other non-permissive additional terms are considered \"further\nrestrictions\" within the meaning of section 10.  If the Program as you\nreceived it, or any part of it, contains a notice stating that it is\ngoverned by this License along with a term that is a further\nrestriction, you may remove that term.  If a license document contains\na further restriction but permits relicensing or conveying under this\nLicense, you may add to a covered work material governed by the terms\nof that license document, provided that the further restriction does\nnot survive such relicensing or conveying.\n\n  If you add terms to a covered work in accord with this section, you\nmust place, in the relevant source files, a statement of the\nadditional terms that apply to those files, or a notice indicating\nwhere to find the applicable terms.\n\n  Additional terms, permissive or non-permissive, may be stated in the\nform of a separately written license, or stated as exceptions;\nthe above requirements apply either way.\n\n  8. Termination.\n\n  You may not propagate or modify a covered work except as expressly\nprovided under this License.  Any attempt otherwise to propagate or\nmodify it is void, and will automatically terminate your rights under\nthis License (including any patent licenses granted under the third\nparagraph of section 11).\n\n  However, if you cease all violation of this License, then your\nlicense from a particular copyright holder is reinstated (a)\nprovisionally, unless and until the copyright holder explicitly and\nfinally terminates your license, and (b) permanently, if the copyright\nholder fails to notify you of the violation by some reasonable means\nprior to 60 days after the cessation.\n\n  Moreover, your license from a particular copyright holder is\nreinstated permanently if the copyright holder notifies you of the\nviolation by some reasonable means, this is the first time you have\nreceived notice of violation of this License (for any work) from that\ncopyright holder, and you cure the violation prior to 30 days after\nyour receipt of the notice.\n\n  Termination of your rights under this section does not terminate the\nlicenses of parties who have received copies or rights from you under\nthis License.  If your rights have been terminated and not permanently\nreinstated, you do not qualify to receive new licenses for the same\nmaterial under section 10.\n\n  9. Acceptance Not Required for Having Copies.\n\n  You are not required to accept this License in order to receive or\nrun a copy of the Program.  Ancillary propagation of a covered work\noccurring solely as a consequence of using peer-to-peer transmission\nto receive a copy likewise does not require acceptance.  However,\nnothing other than this License grants you permission to propagate or\nmodify any covered work.  These actions infringe copyright if you do\nnot accept this License.  Therefore, by modifying or propagating a\ncovered work, you indicate your acceptance of this License to do so.\n\n  10. Automatic Licensing of Downstream Recipients.\n\n  Each time you convey a covered work, the recipient automatically\nreceives a license from the original licensors, to run, modify and\npropagate that work, subject to this License.  You are not responsible\nfor enforcing compliance by third parties with this License.\n\n  An \"entity transaction\" is a transaction transferring control of an\norganization, or substantially all assets of one, or subdividing an\norganization, or merging organizations.  If propagation of a covered\nwork results from an entity transaction, each party to that\ntransaction who receives a copy of the work also receives whatever\nlicenses to the work the party's predecessor in interest had or could\ngive under the previous paragraph, plus a right to possession of the\nCorresponding Source of the work from the predecessor in interest, if\nthe predecessor has it or can get it with reasonable efforts.\n\n  You may not impose any further restrictions on the exercise of the\nrights granted or affirmed under this License.  For example, you may\nnot impose a license fee, royalty, or other charge for exercise of\nrights granted under this License, and you may not initiate litigation\n(including a cross-claim or counterclaim in a lawsuit) alleging that\nany patent claim is infringed by making, using, selling, offering for\nsale, or importing the Program or any portion of it.\n\n  11. Patents.\n\n  A \"contributor\" is a copyright holder who authorizes use under this\nLicense of the Program or a work on which the Program is based.  The\nwork thus licensed is called the contributor's \"contributor version\".\n\n  A contributor's \"essential patent claims\" are all patent claims\nowned or controlled by the contributor, whether already acquired or\nhereafter acquired, that would be infringed by some manner, permitted\nby this License, of making, using, or selling its contributor version,\nbut do not include claims that would be infringed only as a\nconsequence of further modification of the contributor version.  For\npurposes of this definition, \"control\" includes the right to grant\npatent sublicenses in a manner consistent with the requirements of\nthis License.\n\n  Each contributor grants you a non-exclusive, worldwide, royalty-free\npatent license under the contributor's essential patent claims, to\nmake, use, sell, offer for sale, import and otherwise run, modify and\npropagate the contents of its contributor version.\n\n  In the following three paragraphs, a \"patent license\" is any express\nagreement or commitment, however denominated, not to enforce a patent\n(such as an express permission to practice a patent or covenant not to\nsue for patent infringement).  To \"grant\" such a patent license to a\nparty means to make such an agreement or commitment not to enforce a\npatent against the party.\n\n  If you convey a covered work, knowingly relying on a patent license,\nand the Corresponding Source of the work is not available for anyone\nto copy, free of charge and under the terms of this License, through a\npublicly available network server or other readily accessible means,\nthen you must either (1) cause the Corresponding Source to be so\navailable, or (2) arrange to deprive yourself of the benefit of the\npatent license for this particular work, or (3) arrange, in a manner\nconsistent with the requirements of this License, to extend the patent\nlicense to downstream recipients.  \"Knowingly relying\" means you have\nactual knowledge that, but for the patent license, your conveying the\ncovered work in a country, or your recipient's use of the covered work\nin a country, would infringe one or more identifiable patents in that\ncountry that you have reason to believe are valid.\n\n  If, pursuant to or in connection with a single transaction or\narrangement, you convey, or propagate by procuring conveyance of, a\ncovered work, and grant a patent license to some of the parties\nreceiving the covered work authorizing them to use, propagate, modify\nor convey a specific copy of the covered work, then the patent license\nyou grant is automatically extended to all recipients of the covered\nwork and works based on it.\n\n  A patent license is \"discriminatory\" if it does not include within\nthe scope of its coverage, prohibits the exercise of, or is\nconditioned on the non-exercise of one or more of the rights that are\nspecifically granted under this License.  You may not convey a covered\nwork if you are a party to an arrangement with a third party that is\nin the business of distributing software, under which you make payment\nto the third party based on the extent of your activity of conveying\nthe work, and under which the third party grants, to any of the\nparties who would receive the covered work from you, a discriminatory\npatent license (a) in connection with copies of the covered work\nconveyed by you (or copies made from those copies), or (b) primarily\nfor and in connection with specific products or compilations that\ncontain the covered work, unless you entered into that arrangement,\nor that patent license was granted, prior to 28 March 2007.\n\n  Nothing in this License shall be construed as excluding or limiting\nany implied license or other defenses to infringement that may\notherwise be available to you under applicable patent law.\n\n  12. No Surrender of Others' Freedom.\n\n  If conditions are imposed on you (whether by court order, agreement or\notherwise) that contradict the conditions of this License, they do not\nexcuse you from the conditions of this License.  If you cannot convey a\ncovered work so as to satisfy simultaneously your obligations under this\nLicense and any other pertinent obligations, then as a consequence you may\nnot convey it at all.  For example, if you agree to terms that obligate you\nto collect a royalty for further conveying from those to whom you convey\nthe Program, the only way you could satisfy both those terms and this\nLicense would be to refrain entirely from conveying the Program.\n\n  13. Use with the GNU Affero General Public License.\n\n  Notwithstanding any other provision of this License, you have\npermission to link or combine any covered work with a work licensed\nunder version 3 of the GNU Affero General Public License into a single\ncombined work, and to convey the resulting work.  The terms of this\nLicense will continue to apply to the part which is the covered work,\nbut the special requirements of the GNU Affero General Public License,\nsection 13, concerning interaction through a network will apply to the\ncombination as such.\n\n  14. Revised Versions of this License.\n\n  The Free Software Foundation may publish revised and/or new versions of\nthe GNU General Public License from time to time.  Such new versions will\nbe similar in spirit to the present version, but may differ in detail to\naddress new problems or concerns.\n\n  Each version is given a distinguishing version number.  If the\nProgram specifies that a certain numbered version of the GNU General\nPublic License \"or any later version\" applies to it, you have the\noption of following the terms and conditions either of that numbered\nversion or of any later version published by the Free Software\nFoundation.  If the Program does not specify a version number of the\nGNU General Public License, you may choose any version ever published\nby the Free Software Foundation.\n\n  If the Program specifies that a proxy can decide which future\nversions of the GNU General Public License can be used, that proxy's\npublic statement of acceptance of a version permanently authorizes you\nto choose that version for the Program.\n\n  Later license versions may give you additional or different\npermissions.  However, no additional obligations are imposed on any\nauthor or copyright holder as a result of your choosing to follow a\nlater version.\n\n  15. Disclaimer of Warranty.\n\n  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY\nAPPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT\nHOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY\nOF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,\nTHE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR\nPURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM\nIS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF\nALL NECESSARY SERVICING, REPAIR OR CORRECTION.\n\n  16. Limitation of Liability.\n\n  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING\nWILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS\nTHE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY\nGENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE\nUSE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF\nDATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD\nPARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),\nEVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF\nSUCH DAMAGES.\n\n  17. Interpretation of Sections 15 and 16.\n\n  If the disclaimer of warranty and limitation of liability provided\nabove cannot be given local legal effect according to their terms,\nreviewing courts shall apply local law that most closely approximates\nan absolute waiver of all civil liability in connection with the\nProgram, unless a warranty or assumption of liability accompanies a\ncopy of the Program in return for a fee.\n\n                     END OF TERMS AND CONDITIONS\n\n            How to Apply These Terms to Your New Programs\n\n  If you develop a new program, and you want it to be of the greatest\npossible use to the public, the best way to achieve this is to make it\nfree software which everyone can redistribute and change under these terms.\n\n  To do so, attach the following notices to the program.  It is safest\nto attach them to the start of each source file to most effectively\nstate the exclusion of warranty; and each file should have at least\nthe \"copyright\" line and a pointer to where the full notice is found.\n\n    <one line to give the program's name and a brief idea of what it does.>\n    Copyright (C) <year>  <name of author>\n\n    This program is free software: you can redistribute it and/or modify\n    it under the terms of the GNU General Public License as published by\n    the Free Software Foundation, either version 3 of the License, or\n    (at your option) any later version.\n\n    This program is distributed in the hope that it will be useful,\n    but WITHOUT ANY WARRANTY; without even the implied warranty of\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n    GNU General Public License for more details.\n\n    You should have received a copy of the GNU General Public License\n    along with this program.  If not, see <http://www.gnu.org/licenses/>.\n\nAlso add information on how to contact you by electronic and paper mail.\n\n  If the program does terminal interaction, make it output a short\nnotice like this when it starts in an interactive mode:\n\n    <program>  Copyright (C) <year>  <name of author>\n    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.\n    This is free software, and you are welcome to redistribute it\n    under certain conditions; type `show c' for details.\n\nThe hypothetical commands `show w' and `show c' should show the appropriate\nparts of the General Public License.  Of course, your program's commands\nmight be different; for a GUI interface, you would use an \"about box\".\n\n  You should also get your employer (if you work as a programmer) or school,\nif any, to sign a \"copyright disclaimer\" for the program, if necessary.\nFor more information on this, and how to apply and follow the GNU GPL, see\n<http://www.gnu.org/licenses/>.\n\n  The GNU General Public License does not permit incorporating your program\ninto proprietary programs.  If your program is a subroutine library, you\nmay consider it more useful to permit linking proprietary applications with\nthe library.  If this is what you want to do, use the GNU Lesser General\nPublic License instead of this License.  But first, please read\n<http://www.gnu.org/philosophy/why-not-lgpl.html>.\n"
+      },
+      "license": "GPL-3.0",
+      "license_basis": "Upstream License.txt: GNU GPL v3",
+      "modifications": "AC3D UV mesh conversion and studio lighting; no simulator effects"
+    },
+    "video_metadata": {
+      "license": "GPL-3.0",
+      "author": "FlightGear F-35B contributors · GPL-3.0",
+      "changes": "AC3D UV mesh conversion and studio lighting; no simulator effects"
+    },
+    "visual_origin": "true_3d"
+  },
+  {
+    "id": "model-rafale",
+    "display_name": "RAFALE · РОДИНА ЛІТАКІВ",
+    "photo": "assets/models/rafale/still-object.png",
+    "video": "assets/models/rafale/spin.mp4",
+    "duration": 24,
+    "visual_origin": "true_3d",
+    "photo_source": "https://github.com/FGMEMBERS/RafaleB",
+    "video_source": "https://github.com/FGMEMBERS/RafaleB",
+    "photo_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "video_credit": "FlightGear contributors · GPL-2.0-or-later",
+    "photo_metadata": {
+      "license": "GPL-2.0-or-later",
+      "author": "FlightGear contributors",
+      "source": "https://github.com/FGMEMBERS/RafaleB"
+    },
+    "video_metadata": {
+      "license": "GPL-2.0-or-later",
+      "author": "FlightGear contributors",
+      "source": "https://github.com/FGMEMBERS/RafaleB"
+    }
+  },
+  {
+    "id": "model-typhoon",
+    "display_name": "TYPHOON · РОДИНА",
+    "video": "assets/models/typhoon/spin.mp4",
+    "photo": "assets/models/typhoon/still-object.png",
+    "duration": 24,
+    "video_source": "https://github.com/FGMEMBERS/Eurofighter",
+    "photo_source": "https://github.com/FGMEMBERS/Eurofighter",
+    "video_credit": "Maverick Alex / FlightGear · GPL-2.0",
+    "photo_credit": "Maverick Alex / FlightGear · GPL-2.0",
+    "model_metadata": {
+      "id": "typhoon",
+      "repository": "https://github.com/FGMEMBERS/Eurofighter",
+      "model_path": "Models/typhoon.ac",
+      "texture_mapping": {
+        "typhoon-2.png": "texture-0.png",
+        "gris.png": "texture-1.png",
+        "amarillo.png": "texture-2.png",
+        "gris03.png": "texture-3.png",
+        "gris02.png": "texture-4.png",
+        "glass_shader.png": "texture-5.png",
+        "transparent.png": "texture-6.png",
+        "lights.rgb": "texture-7.rgb"
+      },
+      "documents": {
+        "README": "EFA Typhoon - Eurofighter Typhoon\r\n\r\nThis model is released under the terms of the GPLv2\r\n\r\nModel by Maverick Alex\r\n\r\nFDM by Detlef Faber\r\ndon@sol2500.net\r\n\r\nOn carrier options, FDM fixes, new textures by AlMurSi\r\nNav Lights, MIDS, AP by Algernon\r\n\r\nLivery Spain from Moron Ala 11\r\nLivery Italy from ITAF EF2000 12 Squadron\r\n\r\ntyphoon load autopilot 2.0 compatible\r\ntyphoon-2 load autopilot 2.git compatible\r\ntyphoonb load 1.9.1 compatible\r\n\r\nProvide two FDM with/out G-limitations\r\n\r\n***************************\r\nRelease 1.4 (in progress)\r\n\r\n* New hook (more similar to real hook): done.\r\n* Testing new MFD functions (no still working).\r\n* Little fixes on FDM: done (and working).\r\n* Sounds on development.\r\n* Working (bitmap textures, slats, AP, modeling details, etc.)\r\n* Lights: Nav, landing and beacon/strobe flashes (with menu for select)\r\n* New MIDS screen.\r\n* Canopy animation\r\n* Reverser engine\r\n* Slats now working\r\n* New air intake (flaps key)\r\n* Added details: FLIR, APU-out, ...\r\n* (maybe dragchute)\r\n* (maybe fueldoor and refueling)\r\n* Autopilot working (no advanced modes yet)\r\n* Custom Autopilot Dialog (only for 2.0 and upper)\r\n* Cockpit Upper Left Panel has working animation and some working buttons\r\n* Gauges (pedals and stick done)\r\n* On ASI vertical speed indicator.\r\n* Status gear lights and others littles changes on cockpit\r\n\t(please note that gear-lock, \"l\" key, is now active and disable gear\r\n\tretract)\r\n\r\n***************************\r\n\r\nRelease 1.3b - Fixed FDM\r\n\r\n* Reason of this released is only for Fixed FDM\r\n\r\n* On release 1.3b animations (slats, stick, pedals, hook) are only basics\r\n  on working development (fixing textures, sizes, etc)\r\n* No Flaps (at the moment -> only by AFCS control)\r\n* Slats seem do nothing -> on development\r\n* Autopilot only work Wing Leveler, pitch hold and Auto Throttle (without reheat)\r\n* No new Livery (under GPL-copyright request)\r\n\r\n*******************\r\n\r\nThis model is released under the terms of the GPLv2\r\n\r\nAfterburners engage when throttle moves past 95%\r\n\r\n\"N\" expends Speedbrake\r\n\r\n\"n\" retracts Speedbrake\r\n\r\n\"L\" launchbar on carrier\r\n\r\n\"C\" catapult on carrier\r\n\r\n\"O\" Extend/retract hook\r\n\r\n\"f\" / \"d\" Extend/retract slats\r\n\r\n\"Delete\" Toggle thrust reversers\r\n\t(max. 40% power)\r\n\r\n\"Ctrl + d\" Toggle canopy\r\n\r\n__________\r\n\r\nMax speed Mach 2.0+ reheat / 1.2 without\r\nMin speed: 130 KIAS (clean)\r\nTake off: 140-150 KIAS\r\nStall betwen 80-90 KIAS (clean)\r\n\r\n\r\n"
+      },
+      "license": "GPL-2.0-or-later",
+      "license_basis": "https://www.flightgear.org/about/policy/ ; upstream notices retained",
+      "modifications": "AC3D mesh conversion and studio display, simulator effects omitted"
+    },
+    "video_metadata": {
+      "license": "GPL-2.0-or-later",
+      "author": "Maverick Alex / FlightGear · GPL-2.0",
+      "changes": "AC3D mesh conversion and studio display, simulator effects omitted"
+    },
+    "visual_origin": "true_3d"
+  },
+  {
+    "id": "nh90",
+    "display_name": "NH90",
+    "photo": "assets/prepared/nh90.png",
+    "original_photo": "assets/photos/original/nh90.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:NH90_-_RIAT_2018_(45206723701).jpg",
+    "photo_credit": "Airwolfhound from  Hertfordshire, UK · CC BY-SA 2.0",
+    "photo_metadata": {
+      "author": "Airwolfhound from  Hertfordshire, UK",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "NH90 - RIAT 2018",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NH90_-_RIAT_2018_%2845206723701%29.jpg/1280px-NH90_-_RIAT_2018_%2845206723701%29.jpg",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "nlaw",
+    "display_name": "NLAW",
+    "photo": "assets/photos/nlaw.jpg",
+    "original_photo": "assets/photos/original/nlaw.JPG",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:NLAW_Kokonaisturvallisuus_2015_01_(cropped).JPG",
+    "photo_credit": "MKFI · Public domain",
+    "photo_metadata": {
+      "author": "MKFI",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "NLAW anti-tank missile at Bofors exhibition stall at Comprehensive security exhibition 2015 in Tampere.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NLAW_Kokonaisturvallisuus_2015_01_%28cropped%29.JPG/1280px-NLAW_Kokonaisturvallisuus_2015_01_%28cropped%29.JPG",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "patroller",
+    "display_name": "PATROLLER",
+    "photo": "assets/photos/patroller.jpg",
+    "original_photo": "assets/photos/original/patroller.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Safran_Patroller_au_salon_du_Bourget_2019.jpg",
+    "photo_credit": "Gervaisjc · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Gervaisjc",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Safran Patroller au salon du Bourget 2019",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Safran_Patroller_au_salon_du_Bourget_2019.jpg/1280px-Safran_Patroller_au_salon_du_Bourget_2019.jpg",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "pow",
+    "display_name": "POW",
+    "photo": "assets/photos/pow.jpg",
+    "original_photo": "assets/photos/original/pow.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HMS_Prince_of_Wales.jpg",
+    "photo_credit": "U.S. Navy photo by Mass Communication Specialist 2nd Class Cameron Stoner · Public domain",
+    "photo_metadata": {
+      "author": "U.S. Navy photo by Mass Communication Specialist 2nd Class Cameron Stoner",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "191111-N-UB406-0014\nATLANTIC OCEAN (Nov. 11, 2019) The Royal Navy aircraft carrier HMS Prince of Wales (R09) transits the Atlantic Ocean as seen from the U.S. Navy guided-missile destroyer USS Gridley (DDG 101). Gridley is underway on a scheduled deployment as the flagship of Standing NATO Maritime Group One to conduct maritime operations and provide a continuous maritime capability for NATO in the northern Atlantic. (U.S. Navy photo by Mass Communication Specialist 2nd Class Cameron Stoner)",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/HMS_Prince_of_Wales.jpg/1920px-HMS_Prince_of_Wales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed source; no site overlays removed"
+    }
+  },
+  {
+    "id": "protector",
+    "display_name": "PROTECTOR",
+    "photo": "assets/prepared/protector.png",
+    "original_photo": "assets/photos/original/protector.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:MQ9B_Sky_Guardian_-_RIAT_2018_(44998128765).jpg",
+    "photo_credit": "Airwolfhound from  Hertfordshire, UK · CC BY-SA 2.0",
+    "photo_metadata": {
+      "author": "Airwolfhound from  Hertfordshire, UK",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "General Atomics MQ-9B - N190TC - RIAT 2018",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/MQ9B_Sky_Guardian_-_RIAT_2018_%2844998128765%29.jpg/1920px-MQ9B_Sky_Guardian_-_RIAT_2018_%2844998128765%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "qe",
+    "display_name": "HMS QUEEN ELIZABETH",
+    "photo": "assets/photos/qe.jpg",
+    "original_photo": "assets/photos/original/qe.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HMS_Queen_Elizabeth_in_Gibraltar_-_2018_(28386226189).jpg",
+    "photo_credit": "Dave Jenkins - InfoGibraltar · CC BY 2.0",
+    "photo_metadata": {
+      "author": "Dave Jenkins - InfoGibraltar",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "description": "The Royal Navy's new aircraft carrier HMS Queen Elizabeth arrives in Gibraltar for her first overseas port visit. The 65,000 tonne future flagship was conducting a routine logistics stop having left her home in Portsmouth a week earlier for helicopter trials. (MM180007)",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/HMS_Queen_Elizabeth_in_Gibraltar_-_2018_%2828386226189%29.jpg/1280px-HMS_Queen_Elizabeth_in_Gibraltar_-_2018_%2828386226189%29.jpg",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "qe-embark",
+    "video": "assets/video/qe-embark.mp4",
+    "duration": 49.266667,
+    "video_source": "https://www.dvidshub.net/video/768700/f-35bs-embark-aboard-hms-queen-elizabeth",
+    "video_credit": "3rd Marine Aircraft Wing / DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "3rd Marine Aircraft Wing (courtesy source)",
+      "source": "https://www.dvidshub.net/video/768700/f-35bs-embark-aboard-hms-queen-elizabeth",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "09.22.2020"
+    }
+  },
+  {
+    "id": "rafale",
+    "display_name": "RAFALE · РОДИНА ЛІТАКІВ",
+    "photo": "assets/prepared/rafale.png",
+    "original_photo": "assets/photos/rafale.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Rafale_-_RIAT_2009_(3751416421).jpg",
+    "photo_credit": "Tim Felce (Airwolfhound) · CC BY-SA 2.0",
+    "photo_metadata": {
+      "author": "Tim Felce (Airwolfhound)",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Rafale - RIAT 2009",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rafale_-_RIAT_2009_%283751416421%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_article": "Dassault_Rafale",
+      "changes": "Background segmentation and crop, original retained; reviewed vehicle geometry preserved"
+    }
+  },
+  {
+    "id": "rafale-action",
+    "display_name": "RAFALE · ФРАНЦІЯ, НАВЧАННЯ 2019",
+    "video": "assets/video/rafale-action.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/693441/point-blank-19-2-french-rafale-b-roll",
+    "video_credit": "Airman 1st Class Mikayla Daly · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Airman 1st Class Mikayla Daly",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/1906/DOD_106959363/DOD_106959363-1024x576-1769k.mp4",
+      "source_page": "https://www.dvidshub.net/video/693441/point-blank-19-2-french-rafale-b-roll",
+      "description": "RAFALE · ФРАНЦІЯ, НАВЧАННЯ 2019",
+      "changes": "Muted, standardized 1280×720 30fps; source initial 125 seconds maximum"
+    }
+  },
+  {
+    "id": "rafale-tlp",
+    "display_name": "RAFALE / MIRAGE · ФРАНЦІЯ, 2022",
+    "video": "assets/video/rafale-tlp.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/832100/tlp-french-air-force-rafale-and-mirage-2000c-d-takeoffs",
+    "video_credit": "Senior Airman John Ennis · DVIDS · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Senior Airman John Ennis",
+      "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2202/DOD_108825435/DOD_108825435.mp4",
+      "source_page": "https://www.dvidshub.net/video/832100/tlp-french-air-force-rafale-and-mirage-2000c-d-takeoffs",
+      "description": "RAFALE / MIRAGE · ФРАНЦІЯ, 2022",
+      "changes": "Muted, standardized 1280×720 30fps; source initial 125 seconds maximum"
+    }
+  },
+  {
+    "id": "reaper",
+    "display_name": "REAPER",
+    "photo": "assets/photos/reaper.jpg",
+    "original_photo": "assets/photos/original/reaper.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:MQ-9_Reaper_UAV_(cropped).jpg",
+    "photo_credit": "Lt. Col. Leslie Pratt · Public domain",
+    "photo_metadata": {
+      "author": "Lt. Col. Leslie Pratt",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "An MQ-9 Reaper unmanned aerial vehicle flies a combat mission over southern Afghanistan",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/MQ-9_Reaper_UAV_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Resized candidate; original retained. Not selected until reviewed."
+    }
+  },
+  {
+    "id": "sampt",
+    "display_name": "SAMPT",
+    "photo": "assets/photos/sampt.jpg",
+    "original_photo": "assets/photos/original/sampt.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Syst%C3%A8me_SAMP-T_(14_juillet_2021)_(1).jpg",
+    "photo_credit": "Kevin.B · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Kevin.B",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Camion supportant le Système sol-air moyenne-portée terrestre (SAMP/T), vu après le défilé du 14 juillet 2021.",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Syst%C3%A8me_SAMP-T_%2814_juillet_2021%29_%281%29.jpg/1920px-Syst%C3%A8me_SAMP-T_%2814_juillet_2021%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "scalp",
+    "display_name": "SCALP",
+    "photo": "assets/prepared/scalp.png",
+    "original_photo": "assets/photos/original/scalp.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:RAF_Museum,_Colindale,_London_-_DSC06025.JPG",
+    "photo_credit": "Rept0n1x · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "Rept0n1x",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Missile inside the RAF Museum, London.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/RAF_Museum%2C_Colindale%2C_London_-_DSC06025.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "serval",
+    "display_name": "SERVAL",
+    "photo": "assets/prepared/serval.png",
+    "original_photo": "assets/photos/original/serval.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:FSAN0SUX0AAPz70.jpg",
+    "photo_credit": "Ministère des Armées · Licence Ouverte",
+    "photo_metadata": {
+      "author": "Ministère des Armées",
+      "license": "Licence Ouverte",
+      "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
+      "description": "Delivery of the first Serval armored vehicles to the French Ministry of Armed Forces",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/FSAN0SUX0AAPz70.jpg/1280px-FSAN0SUX0AAPz70.jpg",
+      "changes": "Background separated; source retained and mask reviewed"
+    }
+  },
+  {
+    "id": "skysabre",
+    "display_name": "SKYSABRE",
+    "photo": "assets/photos/skysabre.jpg",
+    "original_photo": "assets/photos/original/skysabre.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Royal_Artillery_Sky_Sabre_system.jpg",
+    "photo_credit": "Ministry of Defence · OGL v1.0",
+    "photo_metadata": {
+      "author": "Ministry of Defence",
+      "license": "OGL v1.0",
+      "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+      "description": "Pictured are 16th Regiment, The Royal Regiment of Artillery soldiers demonstrating the Sky Sabre Air defence missile system.Left to right, Radar Targeting System Vehicle with the 'Giraffe' Radar deployed,Command and Control Vehicle and the Missile Launcher Vehicle housing the CAMM (Common Anti-Air Modular Missiles).British Army has taken delivery of its brand new state-of-the-art intermediate air defence system, Sky Sabre.It marks a wholesale upgrade to the venerable Rapier system that has now been in service for nearly five decades. Sky Sabre, comprising of three separate components:1) The Agile Multi-Beam surveillance radar (affectionally referred to as the Giraffe,2) The Battle Management Command&Control Communications centre.3) The Land Ceptor missile delivery vehicle. (All are pictured together for the purposes of the photographs; on the battlefield they could be expected to operate up to 15Km apart).The system has the ability to engage multiple targets simultaneously and can take out aircraft, drones and even laser guided bombs at a range of 120Km using the CAMM (Common Anti-Air Modular Missile) travelling at over 2300 miles per hour.",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Royal_Artillery_Sky_Sabre_system.jpg/1920px-Royal_Artillery_Sky_Sabre_system.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "tiger-fr",
+    "display_name": "TIGER-FR",
+    "photo": "assets/photos/tiger-fr.jpg",
+    "original_photo": "assets/photos/original/tiger-fr.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Eurocopter_Tigre_de_l%27aviation_l%C3%A9g%C3%A8re_de_l%27arm%C3%A9e_de_terre.jpg",
+    "photo_credit": "Arnaud Lambert · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "Arnaud Lambert",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "French army light aviation Eurocopter Tigre in Le Bourget airfield",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Eurocopter_Tigre_de_l%27aviation_l%C3%A9g%C3%A8re_de_l%27arm%C3%A9e_de_terre.jpg/1920px-Eurocopter_Tigre_de_l%27aviation_l%C3%A9g%C3%A8re_de_l%27arm%C3%A9e_de_terre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed source; no site overlays removed"
+    }
+  },
+  {
+    "id": "tomahawk",
+    "display_name": "TOMAHAWK",
+    "photo": "assets/photos/tomahawk.jpg",
+    "original_photo": "assets/photos/original/tomahawk.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Tomahawk_Block_IV_cruise_missile_-crop.jpg",
+    "photo_credit": "U.S. Navy\nderivative work: The High Fin Sperm Whale · Public domain",
+    "photo_metadata": {
+      "author": "U.S. Navy\nderivative work: The High Fin Sperm Whale",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "Tomahawk Block IV cruise missile during a flight test (US Navy)  * original image caption: 021110-N-0000X-003 China Lake, Calif. (Nov. 10, 2002) -- A Tactical \"Tomahawk\" Block IV cruise missile, conducts a controlled flight test over the Naval Air Systems Command (NAVAIR) western test range complex in southern California. During the second such test flight, the missile successfully completed a vertical underwater launch, flew a fully guided 780-mile course, and impacted a designated target structure as planned. The Tactical Tomahawk, the next generation of Tomahawk cruise missile, adds the capability to reprogram the missile while in-flight to strike any of 15 preprogrammed alternate targets, or redirect the missile to any Global Positioning System (GPS) target coordinates. It also will be able to loiter over a target area for some hours, and with its on-board TV camera, will allow the war fighting commanders to assess battle damage of the target, and, if necessary redirect the missile to any other target. Launched from the Navy's forward-deployed ships and submarines, Tactical Tomahawk will provide a greater flexibility to the on-scene commander. Tactical Tomahawk is scheduled to join the fleet in 2004. U.S. Navy photo. (RELEASED)  * image source: http://www.navy.mil/view_image.asp?id=3349",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tomahawk_Block_IV_cruise_missile_-crop.jpg/1280px-Tomahawk_Block_IV_cruise_missile_-crop.jpg",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "tomahawk-action",
+    "video": "assets/video/tomahawk-action.mp4",
+    "duration": 115.4,
+    "video_source": "https://www.dvidshub.net/video/362338/tomahawk-launch",
+    "video_credit": "Petty Officer 2nd Class Gabrielle Hartford · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Petty Officer 2nd Class Gabrielle Hartford",
+      "source": "https://www.dvidshub.net/video/362338/tomahawk-launch",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "09.23.2014"
+    }
+  },
+  {
+    "id": "trident",
+    "display_name": "TRIDENT",
+    "photo": "assets/photos/trident.jpg",
+    "original_photo": "assets/photos/original/trident.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Trident_II_missile_image.jpg",
+    "photo_credit": "Unknown authorUnknown author · Public domain",
+    "photo_metadata": {
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "United States Trident II (D-5) missile underwater launch.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Trident_II_missile_image.jpg/1280px-Trident_II_missile_image.jpg",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "trident-test",
+    "video": "assets/video/trident-test.mp4",
+    "duration": 69.3,
+    "video_source": "https://www.dvidshub.net/video/1009153/uss-rhode-island-successfully-tests-trident-ii-d5-missile",
+    "video_credit": "U.S. Navy / Strategic Systems Programs · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "U.S. Navy / Strategic Systems Programs (courtesy)",
+      "source": "https://www.dvidshub.net/video/1009153/uss-rhode-island-successfully-tests-trident-ii-d5-missile",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "05.09.2019"
+    }
+  },
+  {
+    "id": "triomphant",
+    "display_name": "TRIOMPHANT",
+    "photo": "assets/photos/triomphant.jpg",
+    "original_photo": "assets/photos/original/triomphant.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:SNLE_de_classe_le_Triomphant.jpg",
+    "photo_credit": "Marine nationale · Licence Ouverte",
+    "photo_metadata": {
+      "author": "Marine nationale",
+      "license": "Licence Ouverte",
+      "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
+      "description": "SNLE de classe le Triomphant",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/SNLE_de_classe_le_Triomphant.jpg",
+      "changes": "Resized; original retained"
+    }
+  },
+  {
+    "id": "type45",
+    "display_name": "TYPE45",
+    "photo": "assets/photos/type45.jpg",
+    "original_photo": "assets/photos/original/type45.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HMS_Daring-1.jpg",
+    "photo_credit": "This image photographed by Brian Burnell with permission was uploaded to Commons by G · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "This image photographed by Brian Burnell with permission was uploaded to Commons by George Hutchinson.To see his entire portfolio, click here.\nPermission to upload photographs by Brian Burnell is archived in the OTRS system as shown below each image.\n\n\n\n\n This image is protected by copyright! If you would like to use it outside Wikipedia, please read THIS first. \n\n\n\n\n\n\n\n\nThe copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.\n\n\n\nAttribution",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "HMS Daring (D32), a stealth design of area defence anti-aircraft destroyer of the Royal Navy, outward bound from Portsmouth Naval Base, UK.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/HMS_Daring-1.jpg/1280px-HMS_Daring-1.jpg",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  },
+  {
+    "id": "typhoon-action",
+    "video": "assets/video/typhoon-action.mp4",
+    "duration": 120.833333,
+    "video_source": "https://www.dvidshub.net/video/995683/red-flag-nellis-26-1-b-roll",
+    "video_credit": "Airman 1st Class Heather Amador Paulino · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Airman 1st Class Heather Amador Paulino",
+      "source": "https://www.dvidshub.net/video/995683/red-flag-nellis-26-1-b-roll",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "01.21.2026"
+    }
+  },
+  {
+    "id": "typhoon-walk",
+    "video": "assets/video/typhoon-walk.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/996501/us-uk-eurofighter-typhoon-walkthrough",
+    "video_credit": "Airman 1st Class Sierra Casteel · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Airman 1st Class Sierra Casteel",
+      "source": "https://www.dvidshub.net/video/996501/us-uk-eurofighter-typhoon-walkthrough",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "01.26.2026"
+    }
+  },
+  {
+    "id": "vanguard",
+    "display_name": "VANGUARD",
+    "photo": "assets/photos/vanguard.jpg",
+    "original_photo": "assets/photos/original/vanguard.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Vanguard_at_Faslane_03.jpg",
+    "photo_credit": "CPOA(Phot) Tam McDonald · OGL v1.0",
+    "photo_metadata": {
+      "author": "CPOA(Phot) Tam McDonald",
+      "license": "OGL v1.0",
+      "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+      "description": "Nuclear submarine HMS Vanguard arrives back at HM Naval Base Clyde, Faslane, Scotland following a patrol.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vanguard_at_Faslane_03.jpg/1280px-Vanguard_at_Faslane_03.jpg",
+      "changes": "Resized source; original downloaded rendition retained"
+    }
+  }
+]

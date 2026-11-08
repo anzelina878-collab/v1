@@ -1,0 +1,24 @@
+{
+  "scope": "Verify visible identities, source dates, licenses and numeric graphics; not an independent audit of every narration claim",
+  "numeric_graphics": [
+    {
+      "claim": "Military stockpiles January 2026: France ~290, UK ~225",
+      "source": "https://www.sipri.org/sites/default/files/2026-06/yb26_summary_en_1.pdf",
+      "location": "Printed page 11 / PDF page 13, World nuclear forces table",
+      "note": "France total inventory 370 includes retired warheads; do not label 290 as total inventory"
+    }
+  ],
+  "identity_corrections": [
+    "F35A rejected for F35B",
+    "Italian HH101 rejected for Royal Navy Merlin",
+    "Italian Bergamini rejected for French Aquitaine",
+    "Tiger German UHT photo not used for French cannon-equipped configuration"
+  ],
+  "script_audio_differences": [
+    54,
+    55,
+    169,
+    170,
+    171
+  ]
+}
