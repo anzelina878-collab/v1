@@ -1,0 +1,31 @@
+{
+  "episode": "007-france-uk",
+  "title": "Франція проти Великої Британії",
+  "source_commit": "2afa6fdb1ad9be1aadc28d46781a14a4b75587cc",
+  "duration_seconds": 899.466667,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 26984,
+  "files": [
+    {
+      "name": "final_video_v1.mp4",
+      "sha256": "02e74e3c50f3035c9d09023d8dbed6d57cd1287ad623bf6e9e4f5c323c14c674",
+      "bytes": 119591202
+    },
+    {
+      "name": "project_source_v1.zip",
+      "sha256": "6c72e9a79c81784c080cd5c130c25cc72e3845c7d63a658b807c5a8e96a21981",
+      "bytes": 551674736
+    }
+  ],
+  "checks": {
+    "full_av_decode": "passed",
+    "audio_zero_lag_correlation": 0.9997887787040289,
+    "archive_share": 0.21334865105247555,
+    "native_slow_3d": "passed, 24 seconds/revolution",
+    "static_cards_photos": "passed",
+    "portable_zip_unpack_rebuild_sample": "passed",
+    "continuous_human_watch_listen": "not performed; source/storyboard/encoded control sheets reviewed"
+  }
+}
