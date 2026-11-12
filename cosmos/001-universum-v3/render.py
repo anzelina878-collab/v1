@@ -31,6 +31,7 @@ def main():
   dur=s['frames']/fps;vf=[]
   if s['crop_top']:vf.append(f'crop=iw:ih-{s["crop_top"]}:0:{s["crop_top"]}')
   vf += [f'scale={width}:{height}:force_original_aspect_ratio=increase:flags=lanczos',f'crop={width}:{height}','setsar=1',f'fps={fps}','eq=contrast=1.025:saturation=1.015']
+  if s['effect']=='clean3d':vf.append('hqdn3d=4:3:6:4')
   if s['effect']=='dim':vf.append(f'fade=t=out:st=0:d={dur}')
   if s['fade_in']:vf.append(f'fade=t=in:st=0:d={s["fade_in"]}')
   if s['fade_out']:vf.append(f'fade=t=out:st={max(0,dur-s["fade_out"])}:d={s["fade_out"]}')
