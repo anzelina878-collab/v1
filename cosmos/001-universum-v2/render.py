@@ -9,7 +9,9 @@ def main():
  root=pathlib.Path(args.project).resolve();plan=json.loads((root/'plan.json').read_text());fps=plan['fps'];width=plan['width'];height=plan['height']
  audio=pathlib.Path(args.audio).resolve();output=pathlib.Path(args.output).resolve()
  assert audio.exists()
- if hashlib.sha256(audio.read_bytes()).hexdigest()!=plan['audio_sha256']:raise ValueError('The audio does not match the supplied original narration.')
+ if plan.get('audio_sha256') and hashlib.sha256(audio.read_bytes()).hexdigest()!=plan['audio_sha256']:raise ValueError('The audio does not match the supplied original narration.')
+ measured=float(subprocess.check_output(['ffprobe','-v','quiet','-show_entries','format=duration','-of','csv=p=0',str(audio)]))
+ if abs(measured-plan['duration'])>.2:raise ValueError('Narration duration must match the original 26-minute audio.')
  cache=root/'render';cache.mkdir(exist_ok=True);logdir=root/'logs';logdir.mkdir(exist_ok=True);assets={a['key']:a for a in plan['assets']}
  shots=[]
  for s0 in plan['shots']:
