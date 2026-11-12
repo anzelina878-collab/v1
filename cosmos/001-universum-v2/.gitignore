@@ -1,0 +1,7 @@
+assets/
+render/
+logs/
+voiceover.mp3
+*.mp4
+*.verification.json
+*.download
