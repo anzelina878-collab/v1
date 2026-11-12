@@ -3,13 +3,14 @@ name: cosmos-cinematic-stock
 description: Build German-language space documentaries from the supplied narration using cinematic stock and archive video, high-quality 3D scientific visualizations, and sparse explanatory typography.
 ---
 
-# Cosmos cinematic stock — active revision 2
+# Cosmos cinematic stock — active revision 3
 
 This supersedes the diagram-heavy V1 approach for the space channel. The user's latest visual instructions take precedence over templates for other channels in the linked repository.
 
 ## Visual priorities
 
-- Full-frame moving space footage is the visual foundation. Preserve relevant stock video from the earlier edit and add a much larger varied library.
+- Build the edit from three complementary types of material: real historical/observational recordings, relevant cinematic space footage, and brief explanatory 3D scenes. Preserve suitable stock, but never let a long chain of interchangeable nebulae replace an explanation.
+- Revisit real people, telescope hardware, ground observatories, archival observations, and appropriate research instruments throughout the film. Match each insert to its narrated claim; do not present an optics lab as a proton-decay detector. Archive is a narrative tool, not filler or only an end-of-film interlude.
 - Use beautiful, spatially readable imagery: textured stars, planets with atmospheric rims, nebulae, galactic disks, deep-field flythroughs, telescope observations, and appropriate archive footage.
 - Explanatory visualizations must have visible three-dimensional depth, perspective, textured objects, lighting, and coherent camera motion. Prefer vetted NASA/ESA/ESO scientific 3D footage over an improvised drawing.
 - Do not use 2D dot fields, flat charts, infographic cards, timelines, progress bars, numbered section strips, developer notes, HUD decoration, or persistent chapter headers.
@@ -26,7 +27,9 @@ This supersedes the diagram-heavy V1 approach for the space channel. The user's 
 ## Editing
 
 - Read the script and align to the original supplied narration. Keep the original voice, tempo, and content.
-- Shape shots around spoken ideas and camera motion. Use shorter 3–6 second plans for the opening and an organic mix of approximately 8–20 second plans in explanations; these are editorial ranges, not a fixed grid.
+- The opening 45–70 seconds must have the highest shot density and the strongest concentration of meaningful 3D animation. Aim for roughly 1.5–3.5 seconds per opening shot, synchronized to the promise, stakes, and unanswered question. Avoid a long beauty-shot introduction.
+- Use an organic mix of about 5–12 seconds per shot thereafter, allowing longer shots only when internal action supports attention. Do not cut mechanically.
+- Create 3D infographics only to explain an invisible mechanism, relationship, or change: fusion, spatial expansion, loss of temperature gradients, or conditional end scenarios. Use perspective, camera movement, lit surfaces, coherent depth and a clear before/after. Avoid decorative diagrams. Label speculative endings as hypothetical in brief viewer language.
 - Alternate wide context, medium views, close details, archive footage, and spatial 3D explanations. Do not fill a long passage with the same short loop.
 - A stock clip must support the actual sentence. Avoid unrelated labs, keyboards, finance graphics, and generic technology as filler.
 - Inspect each selected source range for baked-in English captions, title cards, logos, interviews, black frames, and abrupt endings. Record clean in/out points.
