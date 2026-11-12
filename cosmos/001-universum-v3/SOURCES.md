@@ -117,12 +117,6 @@ https://svs.gsfc.nasa.gov/30623/
 - Credit: NASA JSC
 - Original dimensions: 1920 × 1080
 
-## nova_surface
-
-https://svs.gsfc.nasa.gov/20393/
-- Credit: NASA GSFC/Conceptual Image Lab
-- Original dimensions: 3840 × 2160
-
 ## orion_infrared
 
 https://science.nasa.gov/asset/hubble/flight-through-the-orion-nebula-in-infrared-light/
