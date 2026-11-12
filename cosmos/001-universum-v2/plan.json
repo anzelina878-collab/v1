@@ -1521,13 +1521,13 @@
       "render_key": "40c44915bd0d624d"
     },
     {
-      "asset": "blackhole_pullback",
+      "asset": "barehole",
       "in": 0,
       "duration": 14,
       "crop_top": 0,
       "start_frame": 19084,
       "frames": 350,
-      "bank": "bp1",
+      "bank": "bn1",
       "label": null,
       "effect": null,
       "id": "075",
@@ -1540,7 +1540,7 @@
       ],
       "fade_in": 0,
       "fade_out": 0,
-      "render_key": "b0d74d45642d52e8"
+      "render_key": "b5cbebb88fc26c94"
     },
     {
       "asset": "blackhole_close",
