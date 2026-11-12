@@ -1,0 +1,43 @@
+name: Publish finished Cosmos V3
+on:
+  push:
+    branches: [cosmos-universum-v2]
+    paths: [.github/workflows/publish-cosmos-v3.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Download verified complete film
+        shell: bash
+        run: |
+          url='https://filebin.net/e7d77f1096c7efe89650427151daadce/Universum_V3_1080p.mp4'
+          for attempt in $(seq 1 15); do
+            status=$(curl -sS -L -c /tmp/cosmos-v3-cookies -b /tmp/cosmos-v3-cookies -o /tmp/probe -w '%{http_code}' -H 'Range: bytes=0-31' "$url")
+            if [ "$status" = 206 ]; then break; fi
+            sleep 10
+          done
+          curl --fail --retry 5 -L -c /tmp/cosmos-v3-cookies -b /tmp/cosmos-v3-cookies "$url" -o Universum_V3_1080p.mp4
+          test "$(stat -c %s Universum_V3_1080p.mp4)" = 1059108264
+          echo '8f685be35d92340ef5b836ae0b61fdcec155b746f86fbabc3e7c8f6e51ae2e80  Universum_V3_1080p.mp4' | sha256sum --check
+      - name: Publish one complete MP4
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          cat > /tmp/cosmos-v3-release-notes.txt <<'NOTES'
+          Полный ролик одним MP4 · 26:00 · 1920×1080.
+          
+          V3: переработанный хук, реальные архивные съёмки на протяжении фильма и поясняющая 3D-инфографика.
+          
+          [Quellen und Bildnachweise](https://github.com/anzelina878-collab/v1/blob/cosmos-universum-v3/cosmos/001-universum-v3/SOURCES.md)
+          [Prüfbericht](https://github.com/anzelina878-collab/v1/blob/cosmos-universum-v3/cosmos/001-universum-v3/QUALITY_REPORT.md)
+          
+          Observatory footage: ESO / ESO C. Malin, CC BY 4.0; edited excerpts. NASA, Hubble/STScI, White House Television and VOA archive credits are listed in the source register.
+          NOTES
+          tag=cosmos-universum-v3
+          gh release view "$tag" >/dev/null 2>&1 || gh release create "$tag" --target "${{ github.sha }}" --title "Das Ende des Universums — V3 · Archiv & 3D · 1080p" --notes-file /tmp/cosmos-v3-release-notes.txt
+          gh release upload "$tag" Universum_V3_1080p.mp4 --clobber
