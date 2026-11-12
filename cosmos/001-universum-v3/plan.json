@@ -606,7 +606,7 @@
       "start_frame": 238,
       "bank": "explain_fusion",
       "label": null,
-      "effect": null,
+      "effect": "clean3d",
       "crop_top": 0,
       "labels": [
         {
@@ -618,7 +618,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "id": "005",
-      "render_key": "86c7cf58b1b51ad2"
+      "render_key": "3c632d9a49fe560f"
     },
     {
       "asset": "nova_surface",
@@ -884,7 +884,7 @@
       "start_frame": 1401,
       "bank": "explain_rip",
       "label": null,
-      "effect": null,
+      "effect": "clean3d",
       "crop_top": 0,
       "labels": [
         {
@@ -896,7 +896,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "id": "022",
-      "render_key": "f39836189fb8e3b5"
+      "render_key": "7af90e4eb946c8c0"
     },
     {
       "asset": "galaxy_flight",
@@ -922,7 +922,7 @@
       "start_frame": 1519,
       "bank": "explain_crunch",
       "label": null,
-      "effect": null,
+      "effect": "clean3d",
       "crop_top": 0,
       "labels": [
         {
@@ -934,7 +934,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "id": "024",
-      "render_key": "0017ddb2aa932648"
+      "render_key": "ef90cddb11953606"
     },
     {
       "asset": "redgiant",
@@ -1164,7 +1164,7 @@
       "start_frame": 2797,
       "bank": "explain_expansion",
       "label": null,
-      "effect": null,
+      "effect": "clean3d",
       "crop_top": 0,
       "labels": [
         {
@@ -1176,7 +1176,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "id": "038",
-      "render_key": "efdcd57ad9b0d8aa"
+      "render_key": "8a62a6e175909cb3"
     },
     {
       "asset": "galaxy_flight",
@@ -1400,7 +1400,7 @@
       "start_frame": 5750,
       "bank": "explain_expansion",
       "label": null,
-      "effect": null,
+      "effect": "clean3d",
       "crop_top": 0,
       "labels": [
         {
@@ -1412,7 +1412,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "id": "052",
-      "render_key": "feec959591682ea7"
+      "render_key": "5931b3f144870589"
     },
     {
       "asset": "galaxy_flight",
@@ -1630,7 +1630,7 @@
       "start_frame": 8875,
       "bank": "explain_fusion",
       "label": null,
-      "effect": null,
+      "effect": "clean3d",
       "crop_top": 0,
       "labels": [
         {
@@ -1642,7 +1642,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "id": "066",
-      "render_key": "5d7d101e0d003fb3"
+      "render_key": "c98ca8579bc3ce38"
     },
     {
       "asset": "solarloop_hd",
@@ -2107,7 +2107,7 @@
       "start_frame": 15250,
       "bank": "explain_entropy",
       "label": null,
-      "effect": null,
+      "effect": "clean3d",
       "crop_top": 0,
       "labels": [
         {
@@ -2119,7 +2119,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "id": "094",
-      "render_key": "16a4a8518ba023f0"
+      "render_key": "e5f36b946369033c"
     },
     {
       "asset": "rogue",
@@ -2193,7 +2193,7 @@
       "start_frame": 16275,
       "bank": "explain_entropy",
       "label": null,
-      "effect": null,
+      "effect": "clean3d",
       "crop_top": 0,
       "labels": [
         {
@@ -2205,7 +2205,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "id": "099",
-      "render_key": "3455edfb59036932"
+      "render_key": "2fbe1f3848dca85f"
     },
     {
       "asset": "rogue",
@@ -2805,7 +2805,7 @@
       "start_frame": 23850,
       "bank": "explain_rip",
       "label": null,
-      "effect": null,
+      "effect": "clean3d",
       "crop_top": 0,
       "labels": [
         {
@@ -2817,7 +2817,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "id": "135",
-      "render_key": "6f01d3fbbcd1a0a9"
+      "render_key": "2825de803301eabf"
     },
     {
       "asset": "galaxy_traverse",
@@ -2971,7 +2971,7 @@
       "start_frame": 26100,
       "bank": "explain_crunch",
       "label": null,
-      "effect": null,
+      "effect": "clean3d",
       "crop_top": 0,
       "labels": [
         {
@@ -2983,7 +2983,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "id": "145",
-      "render_key": "fcf61906b9fcc879"
+      "render_key": "6c9b7ebc25442070"
     },
     {
       "asset": "galaxy_flight",
