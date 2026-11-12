@@ -1,0 +1,36 @@
+name: Render Cosmos V3 spatial explainers
+on:
+  push:
+    branches: [cosmos-universum-v2]
+    paths: [.github/workflows/render-cosmos-v3.yml]
+permissions:
+  contents: read
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    strategy:
+      fail-fast: false
+      matrix:
+        scene: [expansion, entropy, rip]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: cosmos/001-universum-v3
+      - name: Install rendering tools
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq blender ffmpeg
+      - name: Render native 1080p 3D scene
+        working-directory: cosmos/001-universum-v3
+        run: |
+          blender -b -t 2 -P make3d.py -- ${{ matrix.scene }} > render.log 2>&1
+          ffmpeg -y -v warning -framerate 25/2 -i 3d/${{ matrix.scene }}/frame_%04d.jpg -vf framerate=fps=25 -t 7.84 -an -c:v libx264 -preset veryfast -crf 18 -threads 2 -filter_threads 2 -pix_fmt yuv420p explain_${{ matrix.scene }}.mp4
+          if [ '${{ matrix.scene }}' = expansion ]; then
+            ffmpeg -y -v warning -i explain_expansion.mp4 -vf reverse -an -c:v libx264 -preset veryfast -crf 18 -pix_fmt yuv420p explain_crunch.mp4
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cosmos-v3-${{ matrix.scene }}
+          path: |
+            cosmos/001-universum-v3/explain_*.mp4
+            cosmos/001-universum-v3/render.log
+          retention-days: 7
