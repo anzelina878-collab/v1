@@ -1,0 +1,32 @@
+name: Publish finished Cosmos V2
+on:
+  push:
+    branches: [cosmos-universum-v2]
+    paths: [.github/workflows/publish-cosmos-v2.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Download completed film
+        shell: bash
+        run: |
+          url='https://filebin.net/cosmosv2d9a73e68f104/Universum_V2_1080p.mp4'
+          for attempt in $(seq 1 30); do
+            status=$(curl -sS -L -c /tmp/cosmos-cookies -b /tmp/cosmos-cookies -o /tmp/probe -w '%{http_code}' -H 'Range: bytes=0-31' "$url")
+            if [ "$status" = 206 ]; then break; fi
+            sleep 20
+          done
+          curl --fail --retry 5 -L -c /tmp/cosmos-cookies -b /tmp/cosmos-cookies "$url" -o Universum_V2_1080p.mp4
+          test "$(stat -c %s Universum_V2_1080p.mp4)" = 1081898443
+      - name: Publish one MP4 in GitHub Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          tag=cosmos-universum-v2
+          gh release view "$tag" >/dev/null 2>&1 || gh release create "$tag" --target "${{ github.sha }}" --title "Das Ende des Universums — V2 · 1080p" --notes "Fertiger Film: 26:00 Minuten, 1920 × 1080, deutsche Erzählung. Eine vollständige MP4-Datei."
+          gh release upload "$tag" Universum_V2_1080p.mp4 --clobber
