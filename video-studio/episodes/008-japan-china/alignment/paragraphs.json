@@ -1,0 +1,1703 @@
+[
+  {
+    "i": 1,
+    "text": "Японський F-35 проти китайського J-20.",
+    "heading": false,
+    "chapter": 0,
+    "start": 0,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 2,
+    "text": "Танк Type 10 проти Type 99A.",
+    "heading": false,
+    "chapter": 0,
+    "start": 3.84,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 3,
+    "text": "Японські есмінці з системою Aegis проти китайських кораблів Type 055.",
+    "heading": false,
+    "chapter": 0,
+    "start": 6.175,
+    "matched_words": 7,
+    "total_words": 10
+  },
+  {
+    "i": 4,
+    "text": "А під водою — сучасні японські субмарини Taigei та китайські атомні підводні човни.",
+    "heading": false,
+    "chapter": 0,
+    "start": 12.58,
+    "matched_words": 11,
+    "total_words": 12
+  },
+  {
+    "i": 5,
+    "text": "Японія та Китай мають одні з найтехнологічніших військових арсеналів Азії. Але їхні можливості суттєво відрізняються.",
+    "heading": false,
+    "chapter": 0,
+    "start": 18.98,
+    "matched_words": 15,
+    "total_words": 15
+  },
+  {
+    "i": 6,
+    "text": "Китай володіє величезною армією, розвиненою ракетною промисловістю, власними винищувачами п'ятого покоління та ядерною зброєю.",
+    "heading": false,
+    "chapter": 0,
+    "start": 26.52,
+    "matched_words": 15,
+    "total_words": 15
+  },
+  {
+    "i": 7,
+    "text": "Японія має менші збройні сили, але робить ставку на високотехнологічну оборону, сучасні радари, протичовнові системи та військовий союз зі Сполученими Штатами Америки.",
+    "heading": false,
+    "chapter": 0,
+    "start": 35.58,
+    "matched_words": 20,
+    "total_words": 22
+  },
+  {
+    "i": 8,
+    "text": "Особливе значення має Східнокитайське море, де інтереси двох держав перетинаються навколо спірних островів Сенкаку, які Китай називає Дяоюйдао.",
+    "heading": false,
+    "chapter": 0,
+    "start": 46.230000000000004,
+    "matched_words": 14,
+    "total_words": 18
+  },
+  {
+    "i": 9,
+    "text": "Сьогодні порівняємо їхні винищувачі, танки, ракети, піхотне озброєння, артилерію, безпілотники, протиповітряну оборону, вертольоти, флот та ядерні можливості.",
+    "heading": false,
+    "chapter": 0,
+    "start": 56.02,
+    "matched_words": 15,
+    "total_words": 17
+  },
+  {
+    "i": 10,
+    "text": "І з'ясуємо, у яких категоріях перевага належить Китаю, а де Японія здатна компенсувати меншу чисельність сучасними технологіями.",
+    "heading": false,
+    "chapter": 0,
+    "start": 68.16,
+    "matched_words": 17,
+    "total_words": 18
+  },
+  {
+    "i": 11,
+    "text": "Це АРСЕНАЛ 360°.",
+    "heading": false,
+    "chapter": 0,
+    "start": 77.14,
+    "matched_words": 3,
+    "total_words": 3
+  },
+  {
+    "i": 12,
+    "text": "Світ військових технологій.",
+    "heading": false,
+    "chapter": 0,
+    "start": 80.08,
+    "matched_words": 3,
+    "total_words": 3
+  },
+  {
+    "i": 13,
+    "text": "Починаємо.",
+    "heading": false,
+    "chapter": 0,
+    "start": 81.97999999999999,
+    "matched_words": 0,
+    "total_words": 1
+  },
+  {
+    "i": 15,
+    "text": "Почнемо з бойової авіації.",
+    "heading": false,
+    "chapter": 1,
+    "start": 82.96,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 16,
+    "text": "Японія використовує американські винищувачі F-35A Lightning II.",
+    "heading": false,
+    "chapter": 1,
+    "start": 85.56,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 17,
+    "text": "Це літаки п'ятого покоління, створені з акцентом на малопомітність, сучасні сенсори та обмін інформацією між бойовими платформами.",
+    "heading": false,
+    "chapter": 1,
+    "start": 90.88,
+    "matched_words": 16,
+    "total_words": 18
+  },
+  {
+    "i": 18,
+    "text": "F-35A оснащений радаром AN/APG-81 з активною фазованою антенною решіткою.",
+    "heading": false,
+    "chapter": 1,
+    "start": 99.66,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 19,
+    "text": "Його електронні системи допомагають пілоту отримувати інформацію про повітряні та наземні загрози.",
+    "heading": false,
+    "chapter": 1,
+    "start": 108.82,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 20,
+    "text": "Японія також впроваджує F-35B, здатні виконувати короткий зліт і вертикальну посадку.",
+    "heading": false,
+    "chapter": 1,
+    "start": 115.24,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 21,
+    "text": "Ці літаки призначені, зокрема, для використання з модернізованих кораблів класу Izumo.",
+    "heading": false,
+    "chapter": 1,
+    "start": 121.75333333333333,
+    "matched_words": 6,
+    "total_words": 11
+  },
+  {
+    "i": 22,
+    "text": "Крім F-35, японські Повітряні сили самооборони використовують F-15J та модернізовані F-2.",
+    "heading": false,
+    "chapter": 1,
+    "start": 127.22,
+    "matched_words": 14,
+    "total_words": 14
+  },
+  {
+    "i": 23,
+    "text": "Тепер Китай.",
+    "heading": false,
+    "chapter": 1,
+    "start": 136.08,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 24,
+    "text": "Його найвідоміший винищувач п'ятого покоління — Chengdu J-20.",
+    "heading": false,
+    "chapter": 1,
+    "start": 137.34,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 25,
+    "text": "Це двомоторний малопомітний літак, створений для боротьби за перевагу в повітрі.",
+    "heading": false,
+    "chapter": 1,
+    "start": 142.18,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 26,
+    "text": "J-20 має сучасні радари, внутрішні відсіки озброєння та можливість застосування далекобійних ракет класу «повітря — повітря».",
+    "heading": false,
+    "chapter": 1,
+    "start": 147.24,
+    "matched_words": 15,
+    "total_words": 16
+  },
+  {
+    "i": 27,
+    "text": "Серед них — PL-15, яка є одним із ключових елементів китайської винищувальної авіації.",
+    "heading": false,
+    "chapter": 1,
+    "start": 155.84,
+    "matched_words": 12,
+    "total_words": 13
+  },
+  {
+    "i": 28,
+    "text": "Китай також використовує J-16 і J-10C.",
+    "heading": false,
+    "chapter": 1,
+    "start": 162.68,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 29,
+    "text": "Ці літаки оснащуються сучасною електронікою та керованим озброєнням.",
+    "heading": false,
+    "chapter": 1,
+    "start": 166.68666666666667,
+    "matched_words": 6,
+    "total_words": 8
+  },
+  {
+    "i": 30,
+    "text": "Головна перевага Китаю — масштаб авіаційного парку та можливість виробляти власні бойові літаки.",
+    "heading": false,
+    "chapter": 1,
+    "start": 171.76,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 31,
+    "text": "Японія має високотехнологічні F-35, але значною мірою залежить від американських технологій.",
+    "heading": false,
+    "chapter": 1,
+    "start": 178.4,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 32,
+    "text": "У повітряному бою F-35 і J-20 мають різні конструктивні особливості.",
+    "heading": false,
+    "chapter": 1,
+    "start": 185.4,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 33,
+    "text": "Проте визначити переможця лише за характеристиками неможливо.",
+    "heading": false,
+    "chapter": 1,
+    "start": 192.1,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 34,
+    "text": "Важливими залишаються підготовка пілотів, системи раннього попередження, ракетне озброєння та підтримка союзників.",
+    "heading": false,
+    "chapter": 1,
+    "start": 196.0,
+    "matched_words": 11,
+    "total_words": 12
+  },
+  {
+    "i": 36,
+    "text": "Основний сучасний японський танк — Type 10.",
+    "heading": false,
+    "chapter": 2,
+    "start": 205.92,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 37,
+    "text": "Він оснащений 120-міліметровою гладкоствольною гарматою, автоматом заряджання та цифровою системою управління боєм.",
+    "heading": false,
+    "chapter": 2,
+    "start": 208.92,
+    "matched_words": 11,
+    "total_words": 13
+  },
+  {
+    "i": 38,
+    "text": "Type 10 створювався з урахуванням особливостей японської території.",
+    "heading": false,
+    "chapter": 2,
+    "start": 216.84,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 39,
+    "text": "Його порівняно невелика маса та мобільність дозволяють використовувати інфраструктуру, яка може бути недоступною для важчих машин.",
+    "heading": false,
+    "chapter": 2,
+    "start": 221.28,
+    "matched_words": 16,
+    "total_words": 16
+  },
+  {
+    "i": 40,
+    "text": "Японія також має танки Type 90 та колісні бойові машини.",
+    "heading": false,
+    "chapter": 2,
+    "start": 229.12,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 41,
+    "text": "Тепер Китай.",
+    "heading": false,
+    "chapter": 2,
+    "start": 234.2,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 42,
+    "text": "Один із найсучасніших китайських танків — Type 99A.",
+    "heading": false,
+    "chapter": 2,
+    "start": 235.34,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 43,
+    "text": "Він має 125-міліметрову гладкоствольну гармату з автоматом заряджання.",
+    "heading": false,
+    "chapter": 2,
+    "start": 240.18,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 44,
+    "text": "Type 99A оснащений сучасною системою управління вогнем, комбінованим броньовим захистом і додатковими засобами протидії загрозам.",
+    "heading": false,
+    "chapter": 2,
+    "start": 245.16,
+    "matched_words": 13,
+    "total_words": 15
+  },
+  {
+    "i": 45,
+    "text": "Китай також використовує численні танки сімейства Type 96.",
+    "heading": false,
+    "chapter": 2,
+    "start": 254.36,
+    "matched_words": 6,
+    "total_words": 8
+  },
+  {
+    "i": 46,
+    "text": "Головна відмінність полягає в масштабі сухопутних військ.",
+    "heading": false,
+    "chapter": 2,
+    "start": 259.52,
+    "matched_words": 6,
+    "total_words": 7
+  },
+  {
+    "i": 47,
+    "text": "Китай має значно більший танковий парк і ширші можливості проведення масштабних наземних операцій.",
+    "heading": false,
+    "chapter": 2,
+    "start": 262.94,
+    "matched_words": 13,
+    "total_words": 13
+  },
+  {
+    "i": 48,
+    "text": "Японія робить ставку на мобільність, точність та оборону власної території.",
+    "heading": false,
+    "chapter": 2,
+    "start": 269.3,
+    "matched_words": 9,
+    "total_words": 10
+  },
+  {
+    "i": 49,
+    "text": "У прямому порівнянні Type 10 і Type 99A обидві машини мають сучасне озброєння.",
+    "heading": false,
+    "chapter": 2,
+    "start": 274.42,
+    "matched_words": 13,
+    "total_words": 13
+  },
+  {
+    "i": 50,
+    "text": "Але Китай отримує перевагу завдяки кількості бронетехніки та потужності сухопутних сил.",
+    "heading": false,
+    "chapter": 2,
+    "start": 280.84,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 51,
+    "text": "Водночас у потенційному конфлікті між острівною Японією та материковим Китаєм головним обмеженням для танків стала б необхідність морського перекидання військ.",
+    "heading": false,
+    "chapter": 2,
+    "start": 287.14,
+    "matched_words": 19,
+    "total_words": 20
+  },
+  {
+    "i": 53,
+    "text": "Ракетні системи — одна з найважливіших категорій цього порівняння.",
+    "heading": false,
+    "chapter": 3,
+    "start": 299.0,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 54,
+    "text": "Японія використовує протикорабельні ракети Type 12.",
+    "heading": false,
+    "chapter": 3,
+    "start": 303.42,
+    "matched_words": 5,
+    "total_words": 6
+  },
+  {
+    "i": 55,
+    "text": "Вони призначені для ураження надводних кораблів та захисту прибережних районів.",
+    "heading": false,
+    "chapter": 3,
+    "start": 306.66,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 56,
+    "text": "Японія також розвиває модернізовані далекобійні версії Type 12.",
+    "heading": false,
+    "chapter": 3,
+    "start": 312.04,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 57,
+    "text": "Окремий напрям — закупівля американських крилатих ракет Tomahawk.",
+    "heading": false,
+    "chapter": 3,
+    "start": 316.9,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 58,
+    "text": "Це дозволяє Японії посилювати можливості ураження цілей на значній відстані.",
+    "heading": false,
+    "chapter": 3,
+    "start": 321.26,
+    "matched_words": 9,
+    "total_words": 10
+  },
+  {
+    "i": 59,
+    "text": "Але Китай має значно ширший ракетний арсенал.",
+    "heading": false,
+    "chapter": 3,
+    "start": 326.3,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 60,
+    "text": "Його балістичні ракети DF-21 та DF-26 можуть використовуватися для ураження важливих цілей на великих дистанціях.",
+    "heading": false,
+    "chapter": 3,
+    "start": 329.36,
+    "matched_words": 17,
+    "total_words": 17
+  },
+  {
+    "i": 61,
+    "text": "Окремі модифікації цих систем призначені для протикорабельних завдань.",
+    "heading": false,
+    "chapter": 3,
+    "start": 339.16,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 62,
+    "text": "Китай також використовує крилаті ракети та розвиває гіперзвукові технології.",
+    "heading": false,
+    "chapter": 3,
+    "start": 344.0,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 63,
+    "text": "Серед відомих систем — DF-17 із гіперзвуковим планерним блоком.",
+    "heading": false,
+    "chapter": 3,
+    "start": 349.32,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 64,
+    "text": "Головна перевага Китаю — різноманітність ракет, значні дальності та розвинена виробнича база.",
+    "heading": false,
+    "chapter": 3,
+    "start": 354.42,
+    "matched_words": 10,
+    "total_words": 11
+  },
+  {
+    "i": 65,
+    "text": "Японія зосереджується на обороні островів і створенні можливостей стримування на великих дистанціях.",
+    "heading": false,
+    "chapter": 3,
+    "start": 361.76,
+    "matched_words": 10,
+    "total_words": 12
+  },
+  {
+    "i": 66,
+    "text": "У ракетному озброєнні Китай має суттєву перевагу за масштабом і спектром систем.",
+    "heading": false,
+    "chapter": 3,
+    "start": 368.4,
+    "matched_words": 11,
+    "total_words": 12
+  },
+  {
+    "i": 67,
+    "text": "Але точна ефективність багатьох новітніх ракет залишається невідомою, оскільки їхні реальні характеристики частково засекречені.",
+    "heading": false,
+    "chapter": 3,
+    "start": 373.74,
+    "matched_words": 14,
+    "total_words": 14
+  },
+  {
+    "i": 69,
+    "text": "Тепер порівняємо зброю звичайного солдата.",
+    "heading": false,
+    "chapter": 4,
+    "start": 384.8,
+    "matched_words": 4,
+    "total_words": 5
+  },
+  {
+    "i": 70,
+    "text": "Японські Сили самооборони впроваджують штурмову гвинтівку Howa Type 20.",
+    "heading": false,
+    "chapter": 4,
+    "start": 387.86,
+    "matched_words": 5,
+    "total_words": 9
+  },
+  {
+    "i": 71,
+    "text": "Вона використовує патрон калібру 5,56 міліметра.",
+    "heading": false,
+    "chapter": 4,
+    "start": 393.9,
+    "matched_words": 6,
+    "total_words": 7
+  },
+  {
+    "i": 72,
+    "text": "Type 20 отримала сучасні кріплення для оптики та додаткового обладнання.",
+    "heading": false,
+    "chapter": 4,
+    "start": 397.88666666666666,
+    "matched_words": 8,
+    "total_words": 10
+  },
+  {
+    "i": 73,
+    "text": "Конструкція враховує потреби військових, які можуть діяти на островах і в умовах підвищеної вологості.",
+    "heading": false,
+    "chapter": 4,
+    "start": 403.98,
+    "matched_words": 14,
+    "total_words": 14
+  },
+  {
+    "i": 74,
+    "text": "Попередня японська гвинтівка Type 89 також залишається на озброєнні.",
+    "heading": false,
+    "chapter": 4,
+    "start": 410.53999999999996,
+    "matched_words": 6,
+    "total_words": 9
+  },
+  {
+    "i": 75,
+    "text": "Тепер Китай.",
+    "heading": false,
+    "chapter": 4,
+    "start": 416.56,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 76,
+    "text": "Його нова основна гвинтівка — QBZ-191.",
+    "heading": false,
+    "chapter": 4,
+    "start": 417.98,
+    "matched_words": 5,
+    "total_words": 6
+  },
+  {
+    "i": 77,
+    "text": "Вона використовує китайський патрон калібру 5,8 міліметра.",
+    "heading": false,
+    "chapter": 4,
+    "start": 422.8,
+    "matched_words": 6,
+    "total_words": 8
+  },
+  {
+    "i": 78,
+    "text": "На відміну від попередньої QBZ-95, нова система має традиційне компонування.",
+    "heading": false,
+    "chapter": 4,
+    "start": 427.4,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 79,
+    "text": "QBZ-191 отримала сучасну ергономіку та можливість встановлення оптичних прицілів.",
+    "heading": false,
+    "chapter": 4,
+    "start": 433.64,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 80,
+    "text": "Китайська піхота також використовує кулемети, гранатомети та протитанкові комплекси.",
+    "heading": false,
+    "chapter": 4,
+    "start": 439.8,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 81,
+    "text": "Обидві країни модернізують індивідуальне оснащення солдатів.",
+    "heading": false,
+    "chapter": 4,
+    "start": 445.82,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 82,
+    "text": "Але Китай має значно більші сухопутні сили.",
+    "heading": false,
+    "chapter": 4,
+    "start": 449.96,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 83,
+    "text": "Японія компенсує меншу чисельність високим рівнем підготовки та технологічним оснащенням.",
+    "heading": false,
+    "chapter": 4,
+    "start": 453.26,
+    "matched_words": 9,
+    "total_words": 10
+  },
+  {
+    "i": 84,
+    "text": "При цьому результат бою залежить не стільки від різниці калібрів, скільки від зв'язку, розвідки, підтримки та підготовки підрозділів.",
+    "heading": false,
+    "chapter": 4,
+    "start": 459.44,
+    "matched_words": 17,
+    "total_words": 19
+  },
+  {
+    "i": 86,
+    "text": "Японія використовує колісну самохідну гаубицю Type 19.",
+    "heading": false,
+    "chapter": 5,
+    "start": 468.9,
+    "matched_words": 6,
+    "total_words": 7
+  },
+  {
+    "i": 87,
+    "text": "Це 155-міліметрова артилерійська система, встановлена на автомобільному шасі.",
+    "heading": false,
+    "chapter": 5,
+    "start": 473.66,
+    "matched_words": 8,
+    "total_words": 9
+  },
+  {
+    "i": 88,
+    "text": "Її перевага — мобільність та можливість швидкого переміщення між позиціями.",
+    "heading": false,
+    "chapter": 5,
+    "start": 479.86,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 89,
+    "text": "Японські сили також використовують гусеничні гаубиці Type 99.",
+    "heading": false,
+    "chapter": 5,
+    "start": 484.76,
+    "matched_words": 6,
+    "total_words": 8
+  },
+  {
+    "i": 90,
+    "text": "Тепер Китай.",
+    "heading": false,
+    "chapter": 5,
+    "start": 490.06,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 91,
+    "text": "Одна з його сучасних артилерійських систем — PCL-181.",
+    "heading": false,
+    "chapter": 5,
+    "start": 491.38,
+    "matched_words": 6,
+    "total_words": 8
+  },
+  {
+    "i": 92,
+    "text": "Це 155-міліметрова колісна гаубиця, створена для мобільної підтримки сухопутних військ.",
+    "heading": false,
+    "chapter": 5,
+    "start": 496.04,
+    "matched_words": 9,
+    "total_words": 11
+  },
+  {
+    "i": 93,
+    "text": "Китай також використовує реактивні системи залпового вогню PHL-16, здатні застосовувати різні типи ракет.",
+    "heading": false,
+    "chapter": 5,
+    "start": 503.24,
+    "matched_words": 12,
+    "total_words": 14
+  },
+  {
+    "i": 94,
+    "text": "І тут проявляється головна відмінність.",
+    "heading": false,
+    "chapter": 5,
+    "start": 511.74,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 95,
+    "text": "Японська артилерія орієнтована переважно на оборонні завдання та підтримку власних сил.",
+    "heading": false,
+    "chapter": 5,
+    "start": 514.38,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 96,
+    "text": "Китай має значно більший артилерійський парк, включно з далекобійними реактивними системами.",
+    "heading": false,
+    "chapter": 5,
+    "start": 520.16,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 97,
+    "text": "У цій категорії Китай має перевагу за масштабом і різноманітністю озброєння.",
+    "heading": false,
+    "chapter": 5,
+    "start": 526.08,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 98,
+    "text": "Але ефективність артилерії залежить також від розвідки, запасів боєприпасів і швидкості передачі координат.",
+    "heading": false,
+    "chapter": 5,
+    "start": 531.44,
+    "matched_words": 12,
+    "total_words": 13
+  },
+  {
+    "i": 100,
+    "text": "Безпілотники стали важливою частиною сучасної війни.",
+    "heading": false,
+    "chapter": 6,
+    "start": 539.9100000000001,
+    "matched_words": 5,
+    "total_words": 6
+  },
+  {
+    "i": 101,
+    "text": "Японія використовує розвідувальні системи, включно з великими безпілотниками RQ-4B Global Hawk.",
+    "heading": false,
+    "chapter": 6,
+    "start": 544.34,
+    "matched_words": 10,
+    "total_words": 12
+  },
+  {
+    "i": 102,
+    "text": "Вони призначені для тривалого спостереження за великими територіями.",
+    "heading": false,
+    "chapter": 6,
+    "start": 551.88,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 103,
+    "text": "Японія також розвиває морські безпілотні системи та нові апарати для оборони островів.",
+    "heading": false,
+    "chapter": 6,
+    "start": 556.46,
+    "matched_words": 11,
+    "total_words": 12
+  },
+  {
+    "i": 104,
+    "text": "Тепер Китай.",
+    "heading": false,
+    "chapter": 6,
+    "start": 562.6,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 105,
+    "text": "Його безпілотна промисловість значно масштабніша.",
+    "heading": false,
+    "chapter": 6,
+    "start": 563.96,
+    "matched_words": 4,
+    "total_words": 5
+  },
+  {
+    "i": 106,
+    "text": "Серед відомих платформ — Wing Loong II та CH-4.",
+    "heading": false,
+    "chapter": 6,
+    "start": 567.22,
+    "matched_words": 5,
+    "total_words": 9
+  },
+  {
+    "i": 107,
+    "text": "Ці апарати можуть виконувати розвідувальні й ударні завдання.",
+    "heading": false,
+    "chapter": 6,
+    "start": 572.48,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 108,
+    "text": "Китай також розробляє високошвидкісні розвідувальні безпілотники та експериментальні системи взаємодії дронів із бойовими літаками.",
+    "heading": false,
+    "chapter": 6,
+    "start": 576.48,
+    "matched_words": 12,
+    "total_words": 14
+  },
+  {
+    "i": 109,
+    "text": "Але важливо відрізняти серійні системи від демонстраційних зразків.",
+    "heading": false,
+    "chapter": 6,
+    "start": 585.08,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 110,
+    "text": "Не кожен безпілотник, показаний на виставці, уже перебуває на бойовому чергуванні.",
+    "heading": false,
+    "chapter": 6,
+    "start": 589.86,
+    "matched_words": 10,
+    "total_words": 11
+  },
+  {
+    "i": 111,
+    "text": "Японія має сильні технології спостереження та розвиває власні безпілотні можливості.",
+    "heading": false,
+    "chapter": 6,
+    "start": 595.68,
+    "matched_words": 9,
+    "total_words": 10
+  },
+  {
+    "i": 112,
+    "text": "Китай отримує перевагу завдяки різноманітності платформ і виробничому потенціалу.",
+    "heading": false,
+    "chapter": 6,
+    "start": 601.62,
+    "matched_words": 8,
+    "total_words": 9
+  },
+  {
+    "i": 114,
+    "text": "Японія використовує американські зенітні ракетні комплекси Patriot PAC-3.",
+    "heading": false,
+    "chapter": 7,
+    "start": 607.83,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 115,
+    "text": "Вони є важливою частиною її протиракетної оборони.",
+    "heading": false,
+    "chapter": 7,
+    "start": 613.72,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 116,
+    "text": "Японські есмінці також оснащені системою Aegis із ракетами сімейства Standard Missile.",
+    "heading": false,
+    "chapter": 7,
+    "start": 617.02,
+    "matched_words": 10,
+    "total_words": 11
+  },
+  {
+    "i": 117,
+    "text": "Це дозволяє створювати багаторівневу оборону від повітряних і частини балістичних загроз.",
+    "heading": false,
+    "chapter": 7,
+    "start": 623.08,
+    "matched_words": 9,
+    "total_words": 11
+  },
+  {
+    "i": 118,
+    "text": "Тепер Китай.",
+    "heading": false,
+    "chapter": 7,
+    "start": 629.44,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 119,
+    "text": "Однією з його головних далекобійних систем ППО є HQ-9.",
+    "heading": false,
+    "chapter": 7,
+    "start": 630.72,
+    "matched_words": 9,
+    "total_words": 10
+  },
+  {
+    "i": 120,
+    "text": "Вона призначена для боротьби з літаками та іншими повітряними цілями.",
+    "heading": false,
+    "chapter": 7,
+    "start": 636.34,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 121,
+    "text": "Китай також використовує комплекси HQ-16 і розвиває власні засоби протиракетної оборони.",
+    "heading": false,
+    "chapter": 7,
+    "start": 640.58,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 122,
+    "text": "Японія має розвинену систему взаємодії наземних радарів, кораблів і винищувачів.",
+    "heading": false,
+    "chapter": 7,
+    "start": 647.64,
+    "matched_words": 9,
+    "total_words": 10
+  },
+  {
+    "i": 123,
+    "text": "Китай — більшу кількість різноманітних систем та широку мережу протиповітряної оборони.",
+    "heading": false,
+    "chapter": 7,
+    "start": 653.02,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 124,
+    "text": "Головна перевага Японії — інтеграція з американськими технологіями та системами раннього попередження.",
+    "heading": false,
+    "chapter": 7,
+    "start": 658.94,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 125,
+    "text": "Перевага Китаю — масштаб і власне виробництво більшості ключових комплексів.",
+    "heading": false,
+    "chapter": 7,
+    "start": 664.9,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 127,
+    "text": "Японія використовує ударні вертольоти AH-1S Cobra.",
+    "heading": false,
+    "chapter": 8,
+    "start": 672.8,
+    "matched_words": 6,
+    "total_words": 7
+  },
+  {
+    "i": 128,
+    "text": "Це перевірена, але вже досить стара платформа.",
+    "heading": false,
+    "chapter": 8,
+    "start": 677.8,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 129,
+    "text": "Японські сили також експлуатують розвідувальні вертольоти OH-1 і транспортні машини.",
+    "heading": false,
+    "chapter": 8,
+    "start": 680.72,
+    "matched_words": 7,
+    "total_words": 11
+  },
+  {
+    "i": 130,
+    "text": "У майбутньому частину завдань пілотованих вертольотів планують передавати безпілотним системам.",
+    "heading": false,
+    "chapter": 8,
+    "start": 687.68,
+    "matched_words": 8,
+    "total_words": 10
+  },
+  {
+    "i": 131,
+    "text": "Тепер Китай.",
+    "heading": false,
+    "chapter": 8,
+    "start": 694.35,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 132,
+    "text": "Його сучасний ударний вертоліт — Z-10.",
+    "heading": false,
+    "chapter": 8,
+    "start": 695.98,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 133,
+    "text": "Він створений для боротьби з бронетехнікою та підтримки сухопутних військ.",
+    "heading": false,
+    "chapter": 8,
+    "start": 699.26,
+    "matched_words": 9,
+    "total_words": 10
+  },
+  {
+    "i": 134,
+    "text": "Z-10 використовує керовані ракети, гарматне озброєння та сучасні системи спостереження.",
+    "heading": false,
+    "chapter": 8,
+    "start": 704.26,
+    "matched_words": 11,
+    "total_words": 11
+  },
+  {
+    "i": 135,
+    "text": "Китай також має легші ударні вертольоти Z-19 і транспортні машини різних класів.",
+    "heading": false,
+    "chapter": 8,
+    "start": 710.6,
+    "matched_words": 12,
+    "total_words": 13
+  },
+  {
+    "i": 136,
+    "text": "У цій категорії Китай має перевагу за чисельністю та розвитком спеціалізованих ударних платформ.",
+    "heading": false,
+    "chapter": 8,
+    "start": 717.44,
+    "matched_words": 13,
+    "total_words": 13
+  },
+  {
+    "i": 137,
+    "text": "Японія робить ставку на модернізацію тактики та поступовий розвиток безпілотних систем.",
+    "heading": false,
+    "chapter": 8,
+    "start": 724.4,
+    "matched_words": 10,
+    "total_words": 11
+  },
+  {
+    "i": 139,
+    "text": "А тепер — одна з найважливіших категорій.",
+    "heading": false,
+    "chapter": 9,
+    "start": 732.8,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 140,
+    "text": "Військово-морський флот.",
+    "heading": false,
+    "chapter": 9,
+    "start": 735.2466666666667,
+    "matched_words": 1,
+    "total_words": 3
+  },
+  {
+    "i": 141,
+    "text": "Японія має одні з найсучасніших морських сил в Азії.",
+    "heading": false,
+    "chapter": 9,
+    "start": 737.2,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 142,
+    "text": "Її есмінці класів Maya та Atago оснащені системою Aegis.",
+    "heading": false,
+    "chapter": 9,
+    "start": 741.16,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 143,
+    "text": "Вони здатні виконувати завдання протиповітряної та протиракетної оборони.",
+    "heading": false,
+    "chapter": 9,
+    "start": 746.1,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 144,
+    "text": "Японія також використовує підводні човни класів Soryu та Taigei.",
+    "heading": false,
+    "chapter": 9,
+    "start": 751.34,
+    "matched_words": 8,
+    "total_words": 9
+  },
+  {
+    "i": 145,
+    "text": "Це неатомні субмарини, створені з акцентом на малопомітність і підводну розвідку.",
+    "heading": false,
+    "chapter": 9,
+    "start": 756.7,
+    "matched_words": 8,
+    "total_words": 11
+  },
+  {
+    "i": 146,
+    "text": "Окрему роль відіграють кораблі класу Izumo.",
+    "heading": false,
+    "chapter": 9,
+    "start": 762.72,
+    "matched_words": 5,
+    "total_words": 6
+  },
+  {
+    "i": 147,
+    "text": "Вони проходять модернізацію для експлуатації винищувачів F-35B.",
+    "heading": false,
+    "chapter": 9,
+    "start": 765.92,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 148,
+    "text": "Але Izumo не є прямим аналогом великого ударного авіаносця.",
+    "heading": false,
+    "chapter": 9,
+    "start": 771.5,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 149,
+    "text": "Тепер Китай.",
+    "heading": false,
+    "chapter": 9,
+    "start": 776.62,
+    "matched_words": 2,
+    "total_words": 2
+  },
+  {
+    "i": 150,
+    "text": "Його військово-морський флот є одним із найбільших у світі.",
+    "heading": false,
+    "chapter": 9,
+    "start": 777.92,
+    "matched_words": 8,
+    "total_words": 10
+  },
+  {
+    "i": 151,
+    "text": "Китай має авіаносці Liaoning, Shandong і новітній Fujian.",
+    "heading": false,
+    "chapter": 9,
+    "start": 781.8,
+    "matched_words": 3,
+    "total_words": 8
+  },
+  {
+    "i": 152,
+    "text": "Fujian оснащений електромагнітними катапультами, що відрізняє його від попередніх китайських авіаносців.",
+    "heading": false,
+    "chapter": 9,
+    "start": 787.1650000000001,
+    "matched_words": 9,
+    "total_words": 11
+  },
+  {
+    "i": 153,
+    "text": "Китай також використовує великі есмінці Type 055.",
+    "heading": false,
+    "chapter": 9,
+    "start": 794.34,
+    "matched_words": 6,
+    "total_words": 7
+  },
+  {
+    "i": 154,
+    "text": "Ці кораблі мають потужне ракетне озброєння та сучасні системи управління боєм.",
+    "heading": false,
+    "chapter": 9,
+    "start": 798.58,
+    "matched_words": 9,
+    "total_words": 11
+  },
+  {
+    "i": 155,
+    "text": "Крім того, Китай експлуатує атомні й неатомні підводні човни.",
+    "heading": false,
+    "chapter": 9,
+    "start": 804.76,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 156,
+    "text": "У масштабі флоту Китай має очевидну перевагу.",
+    "heading": false,
+    "chapter": 9,
+    "start": 809.16,
+    "matched_words": 6,
+    "total_words": 7
+  },
+  {
+    "i": 157,
+    "text": "Він володіє більшими кораблебудівними можливостями та ширшим набором ударних платформ.",
+    "heading": false,
+    "chapter": 9,
+    "start": 812.4,
+    "matched_words": 9,
+    "total_words": 10
+  },
+  {
+    "i": 158,
+    "text": "Але Японія має сильні позиції в протичовновій боротьбі, морській розвідці та обороні власних вод.",
+    "heading": false,
+    "chapter": 9,
+    "start": 818.28,
+    "matched_words": 11,
+    "total_words": 14
+  },
+  {
+    "i": 159,
+    "text": "Її флот тісно взаємодіє з американськими військово-морськими силами.",
+    "heading": false,
+    "chapter": 9,
+    "start": 825.5,
+    "matched_words": 7,
+    "total_words": 9
+  },
+  {
+    "i": 160,
+    "text": "Тому в регіональному конфлікті важливими були б не лише кількість кораблів, а й географія, підводні загрози та підтримка союзників.",
+    "heading": false,
+    "chapter": 9,
+    "start": 829.84,
+    "matched_words": 19,
+    "total_words": 19
+  },
+  {
+    "i": 162,
+    "text": "У цій категорії між країнами існує принципова відмінність.",
+    "heading": false,
+    "chapter": 10,
+    "start": 840.4,
+    "matched_words": 7,
+    "total_words": 8
+  },
+  {
+    "i": 163,
+    "text": "Японія не має власної ядерної зброї.",
+    "heading": false,
+    "chapter": 10,
+    "start": 844.58,
+    "matched_words": 5,
+    "total_words": 6
+  },
+  {
+    "i": 164,
+    "text": "Її стратегічна безпека значною мірою спирається на союз зі Сполученими Штатами Америки та американське розширене ядерне стримування.",
+    "heading": false,
+    "chapter": 10,
+    "start": 847.8,
+    "matched_words": 13,
+    "total_words": 17
+  },
+  {
+    "i": 165,
+    "text": "Китай, навпаки, володіє ядерним арсеналом, який швидко розвивається.",
+    "heading": false,
+    "chapter": 10,
+    "start": 855.92,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 166,
+    "text": "Серед його стратегічних систем — міжконтинентальні балістичні ракети DF-41.",
+    "heading": false,
+    "chapter": 10,
+    "start": 861.12,
+    "matched_words": 8,
+    "total_words": 9
+  },
+  {
+    "i": 167,
+    "text": "Китай також використовує атомні підводні човни з балістичними ракетами та розвиває авіаційний компонент ядерних сил.",
+    "heading": false,
+    "chapter": 10,
+    "start": 867.26,
+    "matched_words": 15,
+    "total_words": 15
+  },
+  {
+    "i": 168,
+    "text": "За відкритими оцінками, китайський ядерний запас налічує сотні боєголовок.",
+    "heading": false,
+    "chapter": 10,
+    "start": 875.38,
+    "matched_words": 8,
+    "total_words": 9
+  },
+  {
+    "i": 169,
+    "text": "Але точна кількість залишається предметом оцінок, оскільки детальна інформація засекречена.",
+    "heading": false,
+    "chapter": 10,
+    "start": 880.34,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 170,
+    "text": "Таким чином, Китай має беззаперечну перевагу за наявністю власної ядерної зброї.",
+    "heading": false,
+    "chapter": 10,
+    "start": 887.04,
+    "matched_words": 10,
+    "total_words": 11
+  },
+  {
+    "i": 171,
+    "text": "Проте це не означає, що Японія залишається без стратегічного захисту.",
+    "heading": false,
+    "chapter": 10,
+    "start": 892.78,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 172,
+    "text": "Її союз зі Сполученими Штатами Америки суттєво впливає на баланс стримування в регіоні.",
+    "heading": false,
+    "chapter": 10,
+    "start": 897.5,
+    "matched_words": 13,
+    "total_words": 13
+  },
+  {
+    "i": 173,
+    "text": "Водночас застосування ядерної зброї матиме катастрофічні наслідки, тому її головна роль — запобігання масштабному конфлікту.",
+    "heading": false,
+    "chapter": 10,
+    "start": 903.54,
+    "matched_words": 13,
+    "total_words": 14
+  },
+  {
+    "i": 175,
+    "text": "Отже, ми порівняли військові арсенали Японії та Китаю.",
+    "heading": false,
+    "chapter": 11,
+    "start": 912.34,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 176,
+    "text": "І результати демонструють дві різні військові моделі.",
+    "heading": false,
+    "chapter": 11,
+    "start": 915.94,
+    "matched_words": 7,
+    "total_words": 7
+  },
+  {
+    "i": 177,
+    "text": "Китай має значну перевагу за масштабом збройних сил, кількістю бойових літаків, танків, ракетних систем і кораблів.",
+    "heading": false,
+    "chapter": 11,
+    "start": 919.26,
+    "matched_words": 14,
+    "total_words": 16
+  },
+  {
+    "i": 178,
+    "text": "Його оборонна промисловість здатна виробляти широкий спектр озброєння — від стрілецької зброї до винищувачів п'ятого покоління.",
+    "heading": false,
+    "chapter": 11,
+    "start": 926.52,
+    "matched_words": 12,
+    "total_words": 16
+  },
+  {
+    "i": 179,
+    "text": "Китай також має власну ядерну зброю.",
+    "heading": false,
+    "chapter": 11,
+    "start": 934.64,
+    "matched_words": 6,
+    "total_words": 6
+  },
+  {
+    "i": 180,
+    "text": "Японія поступається за чисельністю, але володіє сучасними F-35, потужними корабельними системами Aegis, високотехнологічними підводними човнами та розвиненою протиракетною обороною.",
+    "heading": false,
+    "chapter": 11,
+    "start": 937.1,
+    "matched_words": 17,
+    "total_words": 20
+  },
+  {
+    "i": 181,
+    "text": "Її важливою перевагою залишається військовий союз зі Сполученими Штатами Америки.",
+    "heading": false,
+    "chapter": 11,
+    "start": 950.96,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 182,
+    "text": "Якщо порівнювати лише національні арсенали, без залучення союзників, загальна перевага належить Китаю.",
+    "heading": false,
+    "chapter": 11,
+    "start": 956.34,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 183,
+    "text": "Але це не означає, що він автоматично переміг би у військовому конфлікті.",
+    "heading": false,
+    "chapter": 11,
+    "start": 962.92,
+    "matched_words": 12,
+    "total_words": 12
+  },
+  {
+    "i": 184,
+    "text": "Японія має вигідні оборонні можливості на власних островах, сучасні системи виявлення та потужні морські сили.",
+    "heading": false,
+    "chapter": 11,
+    "start": 968.02,
+    "matched_words": 15,
+    "total_words": 15
+  },
+  {
+    "i": 185,
+    "text": "Крім того, будь-яка велика операція через море потребувала б складної логістики та контролю повітряного простору.",
+    "heading": false,
+    "chapter": 11,
+    "start": 975.56,
+    "matched_words": 16,
+    "total_words": 16
+  },
+  {
+    "i": 186,
+    "text": "Тому чисельна перевага не гарантує успіху.",
+    "heading": false,
+    "chapter": 11,
+    "start": 982.82,
+    "matched_words": 5,
+    "total_words": 6
+  },
+  {
+    "i": 187,
+    "text": "Китай має більший військовий арсенал.",
+    "heading": false,
+    "chapter": 11,
+    "start": 985.76,
+    "matched_words": 4,
+    "total_words": 5
+  },
+  {
+    "i": 188,
+    "text": "Японія — високотехнологічну оборону та сильні союзницькі зв'язки.",
+    "heading": false,
+    "chapter": 11,
+    "start": 988.56,
+    "matched_words": 8,
+    "total_words": 8
+  },
+  {
+    "i": 189,
+    "text": "І саме це визначає сучасний баланс сил між двома державами.",
+    "heading": false,
+    "chapter": 11,
+    "start": 993.58,
+    "matched_words": 10,
+    "total_words": 10
+  },
+  {
+    "i": 191,
+    "text": "А тепер ваша думка.",
+    "heading": false,
+    "chapter": 12,
+    "start": 997.88,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 192,
+    "text": "Що вас вразило найбільше?",
+    "heading": false,
+    "chapter": 12,
+    "start": 999.4,
+    "matched_words": 4,
+    "total_words": 4
+  },
+  {
+    "i": 193,
+    "text": "F-35 проти J-20?",
+    "heading": false,
+    "chapter": 12,
+    "start": 1001.34,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 194,
+    "text": "Type 10 проти Type 99A?",
+    "heading": false,
+    "chapter": 12,
+    "start": 1003.88,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 195,
+    "text": "Чи японські кораблі Izumo проти китайського авіаносця Fujian?",
+    "heading": false,
+    "chapter": 12,
+    "start": 1006.72,
+    "matched_words": 5,
+    "total_words": 8
+  },
+  {
+    "i": 196,
+    "text": "Напишіть у коментарях, які військові технології ви вважаєте найважливішими.",
+    "heading": false,
+    "chapter": 12,
+    "start": 1010.62,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 197,
+    "text": "І обов'язково запропонуйте дві країни для наступного порівняння.",
+    "heading": false,
+    "chapter": 12,
+    "start": 1016.58,
+    "matched_words": 9,
+    "total_words": 9
+  },
+  {
+    "i": 198,
+    "text": "Якщо вам подобаються документальні огляди військової техніки, підтримайте відео вподобайкою та підпишіться на канал.",
+    "heading": false,
+    "chapter": 12,
+    "start": 1021.32,
+    "matched_words": 14,
+    "total_words": 14
+  },
+  {
+    "i": 199,
+    "text": "З вами був АРСЕНАЛ 360°.",
+    "heading": false,
+    "chapter": 12,
+    "start": 1028.46,
+    "matched_words": 5,
+    "total_words": 5
+  },
+  {
+    "i": 200,
+    "text": "Світ військових технологій.",
+    "heading": false,
+    "chapter": 12,
+    "start": 1031.76,
+    "matched_words": 3,
+    "total_words": 3
+  },
+  {
+    "i": 201,
+    "text": "До зустрічі в наступному випуску!",
+    "heading": false,
+    "chapter": 12,
+    "start": 1033.68,
+    "matched_words": 5,
+    "total_words": 5
+  }
+]

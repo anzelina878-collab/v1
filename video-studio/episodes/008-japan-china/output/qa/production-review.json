@@ -1,0 +1,42 @@
+{
+  "episode": "008-japan-china",
+  "scenes": 180,
+  "narration_visual_mapping": "All 202 script rows considered; word onsets, chapter cards and output tail aligned to supplied voice",
+  "source_contact_sheets_reviewed": true,
+  "storyboard_all_scenes_reviewed": true,
+  "source_intervals": "source-windows.json; contact sheets sampled every 10s, detailed identity frames for Z10 and special variants",
+  "rejected_candidates": [
+    "FGMEMBERS F-15C: explicit asset license not established",
+    "OH-1 mesh: unsuitable geometry and quality",
+    "J-10B as J-10C: wrong variant",
+    "manned J-20 under experimental UAV narration",
+    "Type 052C mislabeled Type 055",
+    "Soryu CGI underwater view excluded from archive windows"
+  ],
+  "quality_policy": "Exact still photo preferred to unsuitable 3D; no photo jitter or synthetic rotation",
+  "continuous_human_watch_and_listen": "not performed; semantic script mapping, source/frame review, encoded controls and full technical decode performed separately",
+  "pending": [
+    "Public download verification, recorded separately after upload"
+  ],
+  "encoded_control_sheets_reviewed": 8,
+  "reviewed_corrections": [
+    "Type10 archive begins at verified39s, excludes Stryker",
+    "Z10 archive begins at verified12s, excludes Mi171 foreground",
+    "Ambiguous AH1S mixed exercise video replaced with exact photograph",
+    "Taigei Jingei uses later bow/launch footage instead of introductory source title",
+    "Chapter fallback photos use their own identity labels; no archived event/year inherited from the next video"
+  ],
+  "technical_verification": "passed on corrected final export",
+  "corrected_encoded_frames_reviewed": [
+    209,
+    211,
+    216,
+    219,
+    543.2,
+    611.2,
+    679,
+    701,
+    706,
+    758.8
+  ]
+}

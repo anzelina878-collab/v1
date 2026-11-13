@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "channel-ident",
+    "video": "assets/video/channel-ident.mp4",
+    "duration": 6,
+    "video_credit": "АРСЕНАЛ 360° · original channel ident"
+  },
+  {
+    "id": "model-f35b",
+    "display_name": "F35B · РОДИНА",
+    "video": "assets/models/f35b/spin.mp4",
+    "photo": "assets/models/f35b/still-object.png",
+    "duration": 24,
+    "video_source": "https://github.com/FGMEMBERS/F-35B",
+    "photo_source": "https://github.com/FGMEMBERS/F-35B",
+    "video_credit": "FlightGear F-35B contributors · GPL-3.0",
+    "photo_credit": "FlightGear F-35B contributors · GPL-3.0",
+    "model_metadata": {
+      "id": "f35b",
+      "repository": "https://github.com/FGMEMBERS/F-35B",
+      "model_path": "Models/F-35B.ac",
+      "texture_mapping": {
+        "Liveries/Default.png": "texture-0.png",
+        "Liveries/Pylons.png": "texture-1.png"
+      },
+      "documents": {
+        "License.txt": "                    GNU GENERAL PUBLIC LICENSE\n                       Version 3, 29 June 2007\n\n Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n                            Preamble\n\n  The GNU General Public License is a free, copyleft license for\nsoftware and other kinds of works.\n\n  The licenses for most software and other practical works are designed\nto take away your freedom to share and change the works.  By contrast,\nthe GNU General Public License is intended to guarantee your freedom to\nshare and change all versions of a program--to make sure it remains free\nsoftware for all its users.  We, the Free Software Foundation, use the\nGNU General Public License for most of our software; it applies also to\nany other work released this way by its authors.  You can apply it to\nyour programs, too.\n\n  When we speak of free software, we are referring to freedom, not\nprice.  Our General Public Licenses are designed to make sure that you\nhave the freedom to distribute copies of free software (and charge for\nthem if you wish), that you receive source code or can get it if you\nwant it, that you can change the software or use pieces of it in new\nfree programs, and that you know you can do these things.\n\n  To protect your rights, we need to prevent others from denying you\nthese rights or asking you to surrender the rights.  Therefore, you have\ncertain responsibilities if you distribute copies of the software, or if\nyou modify it: responsibilities to respect the freedom of others.\n\n  For example, if you distribute copies of such a program, whether\ngratis or for a fee, you must pass on to the recipients the same\nfreedoms that you received.  You must make sure that they, too, receive\nor can get the source code.  And you must show them these terms so they\nknow their rights.\n\n  Developers that use the GNU GPL protect your rights with two steps:\n(1) assert copyright on the software, and (2) offer you this License\ngiving you legal permission to copy, distribute and/or modify it.\n\n  For the developers' and authors' protection, the GPL clearly explains\nthat there is no warranty for this free software.  For both users' and\nauthors' sake, the GPL requires that modified versions be marked as\nchanged, so that their problems will not be attributed erroneously to\nauthors of previous versions.\n\n  Some devices are designed to deny users access to install or run\nmodified versions of the software inside them, although the manufacturer\ncan do so.  This is fundamentally incompatible with the aim of\nprotecting users' freedom to change the software.  The systematic\npattern of such abuse occurs in the area of products for individuals to\nuse, which is precisely where it is most unacceptable.  Therefore, we\nhave designed this version of the GPL to prohibit the practice for those\nproducts.  If such problems arise substantially in other domains, we\nstand ready to extend this provision to those domains in future versions\nof the GPL, as needed to protect the freedom of users.\n\n  Finally, every program is threatened constantly by software patents.\nStates should not allow patents to restrict development and use of\nsoftware on general-purpose computers, but in those that do, we wish to\navoid the special danger that patents applied to a free program could\nmake it effectively proprietary.  To prevent this, the GPL assures that\npatents cannot be used to render the program non-free.\n\n  The precise terms and conditions for copying, distribution and\nmodification follow.\n\n                       TERMS AND CONDITIONS\n\n  0. Definitions.\n\n  \"This License\" refers to version 3 of the GNU General Public License.\n\n  \"Copyright\" also means copyright-like laws that apply to other kinds of\nworks, such as semiconductor masks.\n\n  \"The Program\" refers to any copyrightable work licensed under this\nLicense.  Each licensee is addressed as \"you\".  \"Licensees\" and\n\"recipients\" may be individuals or organizations.\n\n  To \"modify\" a work means to copy from or adapt all or part of the work\nin a fashion requiring copyright permission, other than the making of an\nexact copy.  The resulting work is called a \"modified version\" of the\nearlier work or a work \"based on\" the earlier work.\n\n  A \"covered work\" means either the unmodified Program or a work based\non the Program.\n\n  To \"propagate\" a work means to do anything with it that, without\npermission, would make you directly or secondarily liable for\ninfringement under applicable copyright law, except executing it on a\ncomputer or modifying a private copy.  Propagation includes copying,\ndistribution (with or without modification), making available to the\npublic, and in some countries other activities as well.\n\n  To \"convey\" a work means any kind of propagation that enables other\nparties to make or receive copies.  Mere interaction with a user through\na computer network, with no transfer of a copy, is not conveying.\n\n  An interactive user interface displays \"Appropriate Legal Notices\"\nto the extent that it includes a convenient and prominently visible\nfeature that (1) displays an appropriate copyright notice, and (2)\ntells the user that there is no warranty for the work (except to the\nextent that warranties are provided), that licensees may convey the\nwork under this License, and how to view a copy of this License.  If\nthe interface presents a list of user commands or options, such as a\nmenu, a prominent item in the list meets this criterion.\n\n  1. Source Code.\n\n  The \"source code\" for a work means the preferred form of the work\nfor making modifications to it.  \"Object code\" means any non-source\nform of a work.\n\n  A \"Standard Interface\" means an interface that either is an official\nstandard defined by a recognized standards body, or, in the case of\ninterfaces specified for a particular programming language, one that\nis widely used among developers working in that language.\n\n  The \"System Libraries\" of an executable work include anything, other\nthan the work as a whole, that (a) is included in the normal form of\npackaging a Major Component, but which is not part of that Major\nComponent, and (b) serves only to enable use of the work with that\nMajor Component, or to implement a Standard Interface for which an\nimplementation is available to the public in source code form.  A\n\"Major Component\", in this context, means a major essential component\n(kernel, window system, and so on) of the specific operating system\n(if any) on which the executable work runs, or a compiler used to\nproduce the work, or an object code interpreter used to run it.\n\n  The \"Corresponding Source\" for a work in object code form means all\nthe source code needed to generate, install, and (for an executable\nwork) run the object code and to modify the work, including scripts to\ncontrol those activities.  However, it does not include the work's\nSystem Libraries, or general-purpose tools or generally available free\nprograms which are used unmodified in performing those activities but\nwhich are not part of the work.  For example, Corresponding Source\nincludes interface definition files associated with source files for\nthe work, and the source code for shared libraries and dynamically\nlinked subprograms that the work is specifically designed to require,\nsuch as by intimate data communication or control flow between those\nsubprograms and other parts of the work.\n\n  The Corresponding Source need not include anything that users\ncan regenerate automatically from other parts of the Corresponding\nSource.\n\n  The Corresponding Source for a work in source code form is that\nsame work.\n\n  2. Basic Permissions.\n\n  All rights granted under this License are granted for the term of\ncopyright on the Program, and are irrevocable provided the stated\nconditions are met.  This License explicitly affirms your unlimited\npermission to run the unmodified Program.  The output from running a\ncovered work is covered by this License only if the output, given its\ncontent, constitutes a covered work.  This License acknowledges your\nrights of fair use or other equivalent, as provided by copyright law.\n\n  You may make, run and propagate covered works that you do not\nconvey, without conditions so long as your license otherwise remains\nin force.  You may convey covered works to others for the sole purpose\nof having them make modifications exclusively for you, or provide you\nwith facilities for running those works, provided that you comply with\nthe terms of this License in conveying all material for which you do\nnot control copyright.  Those thus making or running the covered works\nfor you must do so exclusively on your behalf, under your direction\nand control, on terms that prohibit them from making any copies of\nyour copyrighted material outside their relationship with you.\n\n  Conveying under any other circumstances is permitted solely under\nthe conditions stated below.  Sublicensing is not allowed; section 10\nmakes it unnecessary.\n\n  3. Protecting Users' Legal Rights From Anti-Circumvention Law.\n\n  No covered work shall be deemed part of an effective technological\nmeasure under any applicable law fulfilling obligations under article\n11 of the WIPO copyright treaty adopted on 20 December 1996, or\nsimilar laws prohibiting or restricting circumvention of such\nmeasures.\n\n  When you convey a covered work, you waive any legal power to forbid\ncircumvention of technological measures to the extent such circumvention\nis effected by exercising rights under this License with respect to\nthe covered work, and you disclaim any intention to limit operation or\nmodification of the work as a means of enforcing, against the work's\nusers, your or third parties' legal rights to forbid circumvention of\ntechnological measures.\n\n  4. Conveying Verbatim Copies.\n\n  You may convey verbatim copies of the Program's source code as you\nreceive it, in any medium, provided that you conspicuously and\nappropriately publish on each copy an appropriate copyright notice;\nkeep intact all notices stating that this License and any\nnon-permissive terms added in accord with section 7 apply to the code;\nkeep intact all notices of the absence of any warranty; and give all\nrecipients a copy of this License along with the Program.\n\n  You may charge any price or no price for each copy that you convey,\nand you may offer support or warranty protection for a fee.\n\n  5. Conveying Modified Source Versions.\n\n  You may convey a work based on the Program, or the modifications to\nproduce it from the Program, in the form of source code under the\nterms of section 4, provided that you also meet all of these conditions:\n\n    a) The work must carry prominent notices stating that you modified\n    it, and giving a relevant date.\n\n    b) The work must carry prominent notices stating that it is\n    released under this License and any conditions added under section\n    7.  This requirement modifies the requirement in section 4 to\n    \"keep intact all notices\".\n\n    c) You must license the entire work, as a whole, under this\n    License to anyone who comes into possession of a copy.  This\n    License will therefore apply, along with any applicable section 7\n    additional terms, to the whole of the work, and all its parts,\n    regardless of how they are packaged.  This License gives no\n    permission to license the work in any other way, but it does not\n    invalidate such permission if you have separately received it.\n\n    d) If the work has interactive user interfaces, each must display\n    Appropriate Legal Notices; however, if the Program has interactive\n    interfaces that do not display Appropriate Legal Notices, your\n    work need not make them do so.\n\n  A compilation of a covered work with other separate and independent\nworks, which are not by their nature extensions of the covered work,\nand which are not combined with it such as to form a larger program,\nin or on a volume of a storage or distribution medium, is called an\n\"aggregate\" if the compilation and its resulting copyright are not\nused to limit the access or legal rights of the compilation's users\nbeyond what the individual works permit.  Inclusion of a covered work\nin an aggregate does not cause this License to apply to the other\nparts of the aggregate.\n\n  6. Conveying Non-Source Forms.\n\n  You may convey a covered work in object code form under the terms\nof sections 4 and 5, provided that you also convey the\nmachine-readable Corresponding Source under the terms of this License,\nin one of these ways:\n\n    a) Convey the object code in, or embodied in, a physical product\n    (including a physical distribution medium), accompanied by the\n    Corresponding Source fixed on a durable physical medium\n    customarily used for software interchange.\n\n    b) Convey the object code in, or embodied in, a physical product\n    (including a physical distribution medium), accompanied by a\n    written offer, valid for at least three years and valid for as\n    long as you offer spare parts or customer support for that product\n    model, to give anyone who possesses the object code either (1) a\n    copy of the Corresponding Source for all the software in the\n    product that is covered by this License, on a durable physical\n    medium customarily used for software interchange, for a price no\n    more than your reasonable cost of physically performing this\n    conveying of source, or (2) access to copy the\n    Corresponding Source from a network server at no charge.\n\n    c) Convey individual copies of the object code with a copy of the\n    written offer to provide the Corresponding Source.  This\n    alternative is allowed only occasionally and noncommercially, and\n    only if you received the object code with such an offer, in accord\n    with subsection 6b.\n\n    d) Convey the object code by offering access from a designated\n    place (gratis or for a charge), and offer equivalent access to the\n    Corresponding Source in the same way through the same place at no\n    further charge.  You need not require recipients to copy the\n    Corresponding Source along with the object code.  If the place to\n    copy the object code is a network server, the Corresponding Source\n    may be on a different server (operated by you or a third party)\n    that supports equivalent copying facilities, provided you maintain\n    clear directions next to the object code saying where to find the\n    Corresponding Source.  Regardless of what server hosts the\n    Corresponding Source, you remain obligated to ensure that it is\n    available for as long as needed to satisfy these requirements.\n\n    e) Convey the object code using peer-to-peer transmission, provided\n    you inform other peers where the object code and Corresponding\n    Source of the work are being offered to the general public at no\n    charge under subsection 6d.\n\n  A separable portion of the object code, whose source code is excluded\nfrom the Corresponding Source as a System Library, need not be\nincluded in conveying the object code work.\n\n  A \"User Product\" is either (1) a \"consumer product\", which means any\ntangible personal property which is normally used for personal, family,\nor household purposes, or (2) anything designed or sold for incorporation\ninto a dwelling.  In determining whether a product is a consumer product,\ndoubtful cases shall be resolved in favor of coverage.  For a particular\nproduct received by a particular user, \"normally used\" refers to a\ntypical or common use of that class of product, regardless of the status\nof the particular user or of the way in which the particular user\nactually uses, or expects or is expected to use, the product.  A product\nis a consumer product regardless of whether the product has substantial\ncommercial, industrial or non-consumer uses, unless such uses represent\nthe only significant mode of use of the product.\n\n  \"Installation Information\" for a User Product means any methods,\nprocedures, authorization keys, or other information required to install\nand execute modified versions of a covered work in that User Product from\na modified version of its Corresponding Source.  The information must\nsuffice to ensure that the continued functioning of the modified object\ncode is in no case prevented or interfered with solely because\nmodification has been made.\n\n  If you convey an object code work under this section in, or with, or\nspecifically for use in, a User Product, and the conveying occurs as\npart of a transaction in which the right of possession and use of the\nUser Product is transferred to the recipient in perpetuity or for a\nfixed term (regardless of how the transaction is characterized), the\nCorresponding Source conveyed under this section must be accompanied\nby the Installation Information.  But this requirement does not apply\nif neither you nor any third party retains the ability to install\nmodified object code on the User Product (for example, the work has\nbeen installed in ROM).\n\n  The requirement to provide Installation Information does not include a\nrequirement to continue to provide support service, warranty, or updates\nfor a work that has been modified or installed by the recipient, or for\nthe User Product in which it has been modified or installed.  Access to a\nnetwork may be denied when the modification itself materially and\nadversely affects the operation of the network or violates the rules and\nprotocols for communication across the network.\n\n  Corresponding Source conveyed, and Installation Information provided,\nin accord with this section must be in a format that is publicly\ndocumented (and with an implementation available to the public in\nsource code form), and must require no special password or key for\nunpacking, reading or copying.\n\n  7. Additional Terms.\n\n  \"Additional permissions\" are terms that supplement the terms of this\nLicense by making exceptions from one or more of its conditions.\nAdditional permissions that are applicable to the entire Program shall\nbe treated as though they were included in this License, to the extent\nthat they are valid under applicable law.  If additional permissions\napply only to part of the Program, that part may be used separately\nunder those permissions, but the entire Program remains governed by\nthis License without regard to the additional permissions.\n\n  When you convey a copy of a covered work, you may at your option\nremove any additional permissions from that copy, or from any part of\nit.  (Additional permissions may be written to require their own\nremoval in certain cases when you modify the work.)  You may place\nadditional permissions on material, added by you to a covered work,\nfor which you have or can give appropriate copyright permission.\n\n  Notwithstanding any other provision of this License, for material you\nadd to a covered work, you may (if authorized by the copyright holders of\nthat material) supplement the terms of this License with terms:\n\n    a) Disclaiming warranty or limiting liability differently from the\n    terms of sections 15 and 16 of this License; or\n\n    b) Requiring preservation of specified reasonable legal notices or\n    author attributions in that material or in the Appropriate Legal\n    Notices displayed by works containing it; or\n\n    c) Prohibiting misrepresentation of the origin of that material, or\n    requiring that modified versions of such material be marked in\n    reasonable ways as different from the original version; or\n\n    d) Limiting the use for publicity purposes of names of licensors or\n    authors of the material; or\n\n    e) Declining to grant rights under trademark law for use of some\n    trade names, trademarks, or service marks; or\n\n    f) Requiring indemnification of licensors and authors of that\n    material by anyone who conveys the material (or modified versions of\n    it) with contractual assumptions of liability to the recipient, for\n    any liability that these contractual assumptions directly impose on\n    those licensors and authors.\n\n  All other non-permissive additional terms are considered \"further\nrestrictions\" within the meaning of section 10.  If the Program as you\nreceived it, or any part of it, contains a notice stating that it is\ngoverned by this License along with a term that is a further\nrestriction, you may remove that term.  If a license document contains\na further restriction but permits relicensing or conveying under this\nLicense, you may add to a covered work material governed by the terms\nof that license document, provided that the further restriction does\nnot survive such relicensing or conveying.\n\n  If you add terms to a covered work in accord with this section, you\nmust place, in the relevant source files, a statement of the\nadditional terms that apply to those files, or a notice indicating\nwhere to find the applicable terms.\n\n  Additional terms, permissive or non-permissive, may be stated in the\nform of a separately written license, or stated as exceptions;\nthe above requirements apply either way.\n\n  8. Termination.\n\n  You may not propagate or modify a covered work except as expressly\nprovided under this License.  Any attempt otherwise to propagate or\nmodify it is void, and will automatically terminate your rights under\nthis License (including any patent licenses granted under the third\nparagraph of section 11).\n\n  However, if you cease all violation of this License, then your\nlicense from a particular copyright holder is reinstated (a)\nprovisionally, unless and until the copyright holder explicitly and\nfinally terminates your license, and (b) permanently, if the copyright\nholder fails to notify you of the violation by some reasonable means\nprior to 60 days after the cessation.\n\n  Moreover, your license from a particular copyright holder is\nreinstated permanently if the copyright holder notifies you of the\nviolation by some reasonable means, this is the first time you have\nreceived notice of violation of this License (for any work) from that\ncopyright holder, and you cure the violation prior to 30 days after\nyour receipt of the notice.\n\n  Termination of your rights under this section does not terminate the\nlicenses of parties who have received copies or rights from you under\nthis License.  If your rights have been terminated and not permanently\nreinstated, you do not qualify to receive new licenses for the same\nmaterial under section 10.\n\n  9. Acceptance Not Required for Having Copies.\n\n  You are not required to accept this License in order to receive or\nrun a copy of the Program.  Ancillary propagation of a covered work\noccurring solely as a consequence of using peer-to-peer transmission\nto receive a copy likewise does not require acceptance.  However,\nnothing other than this License grants you permission to propagate or\nmodify any covered work.  These actions infringe copyright if you do\nnot accept this License.  Therefore, by modifying or propagating a\ncovered work, you indicate your acceptance of this License to do so.\n\n  10. Automatic Licensing of Downstream Recipients.\n\n  Each time you convey a covered work, the recipient automatically\nreceives a license from the original licensors, to run, modify and\npropagate that work, subject to this License.  You are not responsible\nfor enforcing compliance by third parties with this License.\n\n  An \"entity transaction\" is a transaction transferring control of an\norganization, or substantially all assets of one, or subdividing an\norganization, or merging organizations.  If propagation of a covered\nwork results from an entity transaction, each party to that\ntransaction who receives a copy of the work also receives whatever\nlicenses to the work the party's predecessor in interest had or could\ngive under the previous paragraph, plus a right to possession of the\nCorresponding Source of the work from the predecessor in interest, if\nthe predecessor has it or can get it with reasonable efforts.\n\n  You may not impose any further restrictions on the exercise of the\nrights granted or affirmed under this License.  For example, you may\nnot impose a license fee, royalty, or other charge for exercise of\nrights granted under this License, and you may not initiate litigation\n(including a cross-claim or counterclaim in a lawsuit) alleging that\nany patent claim is infringed by making, using, selling, offering for\nsale, or importing the Program or any portion of it.\n\n  11. Patents.\n\n  A \"contributor\" is a copyright holder who authorizes use under this\nLicense of the Program or a work on which the Program is based.  The\nwork thus licensed is called the contributor's \"contributor version\".\n\n  A contributor's \"essential patent claims\" are all patent claims\nowned or controlled by the contributor, whether already acquired or\nhereafter acquired, that would be infringed by some manner, permitted\nby this License, of making, using, or selling its contributor version,\nbut do not include claims that would be infringed only as a\nconsequence of further modification of the contributor version.  For\npurposes of this definition, \"control\" includes the right to grant\npatent sublicenses in a manner consistent with the requirements of\nthis License.\n\n  Each contributor grants you a non-exclusive, worldwide, royalty-free\npatent license under the contributor's essential patent claims, to\nmake, use, sell, offer for sale, import and otherwise run, modify and\npropagate the contents of its contributor version.\n\n  In the following three paragraphs, a \"patent license\" is any express\nagreement or commitment, however denominated, not to enforce a patent\n(such as an express permission to practice a patent or covenant not to\nsue for patent infringement).  To \"grant\" such a patent license to a\nparty means to make such an agreement or commitment not to enforce a\npatent against the party.\n\n  If you convey a covered work, knowingly relying on a patent license,\nand the Corresponding Source of the work is not available for anyone\nto copy, free of charge and under the terms of this License, through a\npublicly available network server or other readily accessible means,\nthen you must either (1) cause the Corresponding Source to be so\navailable, or (2) arrange to deprive yourself of the benefit of the\npatent license for this particular work, or (3) arrange, in a manner\nconsistent with the requirements of this License, to extend the patent\nlicense to downstream recipients.  \"Knowingly relying\" means you have\nactual knowledge that, but for the patent license, your conveying the\ncovered work in a country, or your recipient's use of the covered work\nin a country, would infringe one or more identifiable patents in that\ncountry that you have reason to believe are valid.\n\n  If, pursuant to or in connection with a single transaction or\narrangement, you convey, or propagate by procuring conveyance of, a\ncovered work, and grant a patent license to some of the parties\nreceiving the covered work authorizing them to use, propagate, modify\nor convey a specific copy of the covered work, then the patent license\nyou grant is automatically extended to all recipients of the covered\nwork and works based on it.\n\n  A patent license is \"discriminatory\" if it does not include within\nthe scope of its coverage, prohibits the exercise of, or is\nconditioned on the non-exercise of one or more of the rights that are\nspecifically granted under this License.  You may not convey a covered\nwork if you are a party to an arrangement with a third party that is\nin the business of distributing software, under which you make payment\nto the third party based on the extent of your activity of conveying\nthe work, and under which the third party grants, to any of the\nparties who would receive the covered work from you, a discriminatory\npatent license (a) in connection with copies of the covered work\nconveyed by you (or copies made from those copies), or (b) primarily\nfor and in connection with specific products or compilations that\ncontain the covered work, unless you entered into that arrangement,\nor that patent license was granted, prior to 28 March 2007.\n\n  Nothing in this License shall be construed as excluding or limiting\nany implied license or other defenses to infringement that may\notherwise be available to you under applicable patent law.\n\n  12. No Surrender of Others' Freedom.\n\n  If conditions are imposed on you (whether by court order, agreement or\notherwise) that contradict the conditions of this License, they do not\nexcuse you from the conditions of this License.  If you cannot convey a\ncovered work so as to satisfy simultaneously your obligations under this\nLicense and any other pertinent obligations, then as a consequence you may\nnot convey it at all.  For example, if you agree to terms that obligate you\nto collect a royalty for further conveying from those to whom you convey\nthe Program, the only way you could satisfy both those terms and this\nLicense would be to refrain entirely from conveying the Program.\n\n  13. Use with the GNU Affero General Public License.\n\n  Notwithstanding any other provision of this License, you have\npermission to link or combine any covered work with a work licensed\nunder version 3 of the GNU Affero General Public License into a single\ncombined work, and to convey the resulting work.  The terms of this\nLicense will continue to apply to the part which is the covered work,\nbut the special requirements of the GNU Affero General Public License,\nsection 13, concerning interaction through a network will apply to the\ncombination as such.\n\n  14. Revised Versions of this License.\n\n  The Free Software Foundation may publish revised and/or new versions of\nthe GNU General Public License from time to time.  Such new versions will\nbe similar in spirit to the present version, but may differ in detail to\naddress new problems or concerns.\n\n  Each version is given a distinguishing version number.  If the\nProgram specifies that a certain numbered version of the GNU General\nPublic License \"or any later version\" applies to it, you have the\noption of following the terms and conditions either of that numbered\nversion or of any later version published by the Free Software\nFoundation.  If the Program does not specify a version number of the\nGNU General Public License, you may choose any version ever published\nby the Free Software Foundation.\n\n  If the Program specifies that a proxy can decide which future\nversions of the GNU General Public License can be used, that proxy's\npublic statement of acceptance of a version permanently authorizes you\nto choose that version for the Program.\n\n  Later license versions may give you additional or different\npermissions.  However, no additional obligations are imposed on any\nauthor or copyright holder as a result of your choosing to follow a\nlater version.\n\n  15. Disclaimer of Warranty.\n\n  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY\nAPPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT\nHOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY\nOF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,\nTHE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR\nPURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM\nIS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF\nALL NECESSARY SERVICING, REPAIR OR CORRECTION.\n\n  16. Limitation of Liability.\n\n  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING\nWILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS\nTHE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY\nGENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE\nUSE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF\nDATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD\nPARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),\nEVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF\nSUCH DAMAGES.\n\n  17. Interpretation of Sections 15 and 16.\n\n  If the disclaimer of warranty and limitation of liability provided\nabove cannot be given local legal effect according to their terms,\nreviewing courts shall apply local law that most closely approximates\nan absolute waiver of all civil liability in connection with the\nProgram, unless a warranty or assumption of liability accompanies a\ncopy of the Program in return for a fee.\n\n                     END OF TERMS AND CONDITIONS\n\n            How to Apply These Terms to Your New Programs\n\n  If you develop a new program, and you want it to be of the greatest\npossible use to the public, the best way to achieve this is to make it\nfree software which everyone can redistribute and change under these terms.\n\n  To do so, attach the following notices to the program.  It is safest\nto attach them to the start of each source file to most effectively\nstate the exclusion of warranty; and each file should have at least\nthe \"copyright\" line and a pointer to where the full notice is found.\n\n    <one line to give the program's name and a brief idea of what it does.>\n    Copyright (C) <year>  <name of author>\n\n    This program is free software: you can redistribute it and/or modify\n    it under the terms of the GNU General Public License as published by\n    the Free Software Foundation, either version 3 of the License, or\n    (at your option) any later version.\n\n    This program is distributed in the hope that it will be useful,\n    but WITHOUT ANY WARRANTY; without even the implied warranty of\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n    GNU General Public License for more details.\n\n    You should have received a copy of the GNU General Public License\n    along with this program.  If not, see <http://www.gnu.org/licenses/>.\n\nAlso add information on how to contact you by electronic and paper mail.\n\n  If the program does terminal interaction, make it output a short\nnotice like this when it starts in an interactive mode:\n\n    <program>  Copyright (C) <year>  <name of author>\n    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.\n    This is free software, and you are welcome to redistribute it\n    under certain conditions; type `show c' for details.\n\nThe hypothetical commands `show w' and `show c' should show the appropriate\nparts of the General Public License.  Of course, your program's commands\nmight be different; for a GUI interface, you would use an \"about box\".\n\n  You should also get your employer (if you work as a programmer) or school,\nif any, to sign a \"copyright disclaimer\" for the program, if necessary.\nFor more information on this, and how to apply and follow the GNU GPL, see\n<http://www.gnu.org/licenses/>.\n\n  The GNU General Public License does not permit incorporating your program\ninto proprietary programs.  If your program is a subroutine library, you\nmay consider it more useful to permit linking proprietary applications with\nthe library.  If this is what you want to do, use the GNU Lesser General\nPublic License instead of this License.  But first, please read\n<http://www.gnu.org/philosophy/why-not-lgpl.html>.\n"
+      },
+      "license": "GPL-3.0",
+      "license_basis": "Upstream License.txt: GNU GPL v3",
+      "modifications": "AC3D UV mesh conversion and studio lighting; no simulator effects"
+    },
+    "video_metadata": {
+      "license": "GPL-3.0",
+      "author": "FlightGear F-35B contributors · GPL-3.0",
+      "changes": "AC3D UV mesh conversion and studio lighting; no simulator effects"
+    },
+    "visual_origin": "true_3d"
+  },
+  {
+    "id": "tomahawk-action",
+    "video": "assets/video/tomahawk-action.mp4",
+    "duration": 115.4,
+    "video_source": "https://www.dvidshub.net/video/362338/tomahawk-launch",
+    "video_credit": "Abe McNatt; Gabrielle Hartford / US Navy · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Abe McNatt; Gabrielle Hartford / US Navy",
+      "source": "https://www.dvidshub.net/video/362338/tomahawk-launch",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes",
+      "date_taken": "09.23.2014"
+    }
+  },
+  {
+    "id": "f35a",
+    "display_name": "F-35A · РОДИНА, ВПС США",
+    "photo": "assets/prepared/f35a.png",
+    "original_photo": "assets/photos/original/f35a.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:F-35A_flight_(cropped).jpg",
+    "photo_credit": "U.S. Air Force photo by Master Sgt. Donald R. Allen · Public domain",
+    "photo_metadata": {
+      "author": "U.S. Air Force photo by Master Sgt. Donald R. Allen",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "A U.S. Air Force F-35A Lightning II Joint Strike Fighter from the 58th Fighter Squadron, 33rd Fighter Wing, Eglin AFB, Fla. performs an aerial refueling mission with a KC-135 Stratotanker from the 336th Air Refueling Squadron from March ARB, Calif., May 14th, 2013 off the coast of Northwest Florida. The 33rd Fighter Wing is a joint graduate flying and maintenance training wing that trains Air Force, Marine, Navy and international partner operators and maintainers of the F-35 Lightning II.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/F-35A_flight_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "j20",
+    "display_name": "CHENGDU J-20",
+    "photo": "assets/prepared/j20.png",
+    "original_photo": "assets/photos/original/j20.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:J-20_at_CCAS2022_(20220827103424).jpg",
+    "photo_credit": "N509FZ · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "One yesterday with overcast, and two today with sunny day!",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/J-20_at_CCAS2022_%2820220827103424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "f15j",
+    "display_name": "F-15J",
+    "photo": "assets/prepared/f15j.png",
+    "original_photo": "assets/photos/original/f15j.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:A_Japan_Air_Self_Defense_Force_F-15_(modified).jpg",
+    "photo_credit": "Angelique Perez, U.S. Air Force · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Angelique Perez, U.S. Air Force",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "A Japanese Air Self Defense Forces F-15's fly alongside a U.S. Air Force KC-135 from the 909th Air Refueling Squadron, Kadena Air Base, during air refueling training July 30. The training is in preparation for JASDF participation in Red Flag Alaska this year.\n(U.S. Air Force photo/Tech. Sgt. Angelique Perez)",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/A_Japan_Air_Self_Defense_Force_F-15_%28modified%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "f2",
+    "display_name": "MITSUBISHI F-2",
+    "photo": "assets/prepared/f2.png",
+    "original_photo": "assets/photos/original/f2.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Mitsubishi_F-2.jpg",
+    "photo_credit": "航空自衛隊 · CC BY 4.0",
+    "photo_metadata": {
+      "author": "航空自衛隊",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "三菱重工製 F-2戦闘機",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Mitsubishi_F-2.jpg/1920px-Mitsubishi_F-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "j16",
+    "display_name": "SHENYANG J-16",
+    "photo": "assets/prepared/j16.png",
+    "original_photo": "assets/photos/original/j16.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:J-16_2021.jpg",
+    "photo_credit": "Ministry of Defence of the Russian Federation · CC BY 4.0",
+    "photo_metadata": {
+      "author": "Ministry of Defence of the Russian Federation",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Shenyang J-16",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/J-16_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "pl15",
+    "display_name": "PL-15 · ВИСТАВКА",
+    "photo": "assets/photos/pl15.jpg",
+    "original_photo": "assets/photos/original/pl15.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:PL-15_20250921.jpg",
+    "photo_credit": "颐园居 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "颐园居",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​霹雳-15",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PL-15_20250921.jpg/1920px-PL-15_20250921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "type10",
+    "display_name": "TYPE 10",
+    "photo": "assets/prepared/type10.png",
+    "original_photo": "assets/photos/original/type10.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Type10MBT.jpg",
+    "photo_credit": "T.Goto · Public domain",
+    "photo_metadata": {
+      "author": "T.Goto",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "El tipo 10 tanque de batalla principal.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Type10MBT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "type90",
+    "display_name": "TYPE 90",
+    "photo": "assets/prepared/type90.png",
+    "original_photo": "assets/photos/original/type90.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Firing_Type_90_tank.jpg",
+    "photo_credit": "refeia · CC BY 2.0",
+    "photo_metadata": {
+      "author": "refeia",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "description": "A Type 90 tank fires on a practice day of the Fuji Firepower Review 2009.",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Firing_Type_90_tank.jpg/1920px-Firing_Type_90_tank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "type99a",
+    "display_name": "TYPE 99A · МУЗЕЙНИЙ ЗРАЗОК",
+    "photo": "assets/photos/type99a.jpg",
+    "original_photo": "assets/photos/original/type99a.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:ZTZ-99A_tank_front_20170902.jpg",
+    "photo_credit": "Tyg728 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Tyg728",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​99A式坦克前视图，拍摄于中国人民革命军事博物馆“中国人民解放军建军90周年主题展览”。",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/ZTZ-99A_tank_front_20170902.jpg/1920px-ZTZ-99A_tank_front_20170902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "type96",
+    "display_name": "TYPE 96",
+    "photo": "assets/prepared/type96.png",
+    "original_photo": "assets/photos/original/type96.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:TankBiathlon2017Individual-02.jpg",
+    "photo_credit": "Vitaly V. Kuzmin · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "Vitaly V. Kuzmin",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "​96B坦克参加俄罗斯\"坦克两项-2017\"比赛。",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/TankBiathlon2017Individual-02.jpg/1920px-TankBiathlon2017Individual-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "type12",
+    "display_name": "ПОКРАЩЕНИЙ TYPE 12 · ПРОТОТИП",
+    "photo": "assets/photos/type12.png",
+    "original_photo": "assets/photos/original/type12.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Prototype_of_the_Improved_Type_12_SSM_(cropped).png",
+    "photo_credit": "三菱重工業（株）（Mitsubishi Heavy Industries） · CC BY 4.0",
+    "photo_metadata": {
+      "author": "三菱重工業（株）（Mitsubishi Heavy Industries）",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "地上での様々な試験に耐えた12式地対艦誘導弾能力向上型（試作品）",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Prototype_of_the_Improved_Type_12_SSM_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "df21",
+    "display_name": "DF-21 · РОДИНА",
+    "photo": "assets/photos/df21.jpg",
+    "original_photo": "assets/photos/original/df21.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:DF-21A_TEL_-_Chinese_Military_Museum_Beijing.jpg",
+    "photo_credit": "Max Smith, release into the public domain but a photo credit would be nice · Public domain",
+    "photo_metadata": {
+      "author": "Max Smith, release into the public domain but a photo credit would be nice",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "A Chinese DF-21A transporter errector vehicle on display at the \"Our troops towards the sky\" exhibition at the Beijing Military Museum.",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/DF-21A_TEL_-_Chinese_Military_Museum_Beijing.jpg/1920px-DF-21A_TEL_-_Chinese_Military_Museum_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "df26",
+    "display_name": "DF-26 · РОДИНА",
+    "photo": "assets/photos/df26.jpg",
+    "original_photo": "assets/photos/original/df26.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Dong-Feng_26.JPG",
+    "photo_credit": "IceUnshattered · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "IceUnshattered",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "The newly developed DF-26 medium-range ballistic missile as seen after the military parade held in Beijing to commemorate the 70th anniversary of the end of WWII.",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Dong-Feng_26.JPG/1920px-Dong-Feng_26.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "df17",
+    "display_name": "DF-17 · ВИСТАВКА",
+    "photo": "assets/photos/df17.jpg",
+    "original_photo": "assets/photos/original/df17.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:DF-17_Missile_20221020.jpg",
+    "photo_credit": "颐园居 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "颐园居",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​北京展览馆“奋进新时代”主题成就展展出的东风-17导弹发射车。",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/DF-17_Missile_20221020.jpg/1920px-DF-17_Missile_20221020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "type20",
+    "display_name": "HOWA TYPE 20",
+    "photo": "assets/photos/type20.jpg",
+    "original_photo": "assets/photos/original/type20.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HOWA_5.56_Prototype_rifle.jpg",
+    "photo_credit": "Japanese Ministry of Defense · CC BY 4.0",
+    "photo_metadata": {
+      "author": "Japanese Ministry of Defense",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "The unnamed future 5.56 NATO assault rifle for the Japanese Self-Defense Forces.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/HOWA_5.56_Prototype_rifle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "type89",
+    "display_name": "HOWA TYPE 89",
+    "photo": "assets/photos/type89.jpg",
+    "original_photo": "assets/photos/original/type89.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:JGSDF_Type_89_Assault_Rifle_20100418-01.jpg",
+    "photo_credit": "Crescent moon at Japanese Wikipedia · CC BY 3.0",
+    "photo_metadata": {
+      "author": "Crescent moon at Japanese Wikipedia",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "description": "ja:陸上自衛隊第6師団48周年 ja:神町駐屯地54周年創立記念行事にて展示されるja:89式5.56mm小銃（89式小銃用照準補助具/ダットサイト装着）",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/JGSDF_Type_89_Assault_Rifle_20100418-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "qbz191",
+    "display_name": "QBZ-191",
+    "photo": "assets/photos/qbz191.jpg",
+    "original_photo": "assets/photos/original/qbz191.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:QBZ191_20250921.jpg",
+    "photo_credit": "颐园居 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "颐园居",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​191型自动步枪（QBZ191）",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/QBZ191_20250921.jpg/1920px-QBZ191_20250921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "qbz95",
+    "display_name": "QBZ-95",
+    "photo": "assets/photos/qbz95.png",
+    "original_photo": "assets/photos/original/qbz95.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:QBZ95_automatic_rifle_mod_noBG.png",
+    "photo_credit": "https://commons.wikimedia.org/wiki/User:Tyg728 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "https://commons.wikimedia.org/wiki/User:Tyg728",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "QBZ95 automatic rifle (\"Type 95\")",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/QBZ95_automatic_rifle_mod_noBG.png/1920px-QBZ95_automatic_rifle_mod_noBG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "type19",
+    "display_name": "TYPE 19",
+    "photo": "assets/prepared/type19.png",
+    "original_photo": "assets/photos/original/type19.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:JGSDF_Type_19_155mm_self-propelled_howitzer_(27-0145)_left_front_view_at_Camp_Tsuchiura_September_28,_2025_02.jpg",
+    "photo_credit": "Hunini · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Hunini",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "陸上自衛隊　19式装輪自走155mmりゅう弾砲（27-0145号車）　左前面。2025年9月28日　土浦駐屯地にて。",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/JGSDF_Type_19_155mm_self-propelled_howitzer_%2827-0145%29_left_front_view_at_Camp_Tsuchiura_September_28%2C_2025_02.jpg/1920px-JGSDF_Type_19_155mm_self-propelled_howitzer_%2827-0145%29_left_front_view_at_Camp_Tsuchiura_September_28%2C_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "type99sp",
+    "display_name": "TYPE 99 · САМОХІДНА ГАУБИЦЯ",
+    "photo": "assets/prepared/type99sp.png",
+    "original_photo": "assets/photos/original/type99sp.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:%EF%BC%99%EF%BC%99%E5%BC%8F%E8%87%AA%E8%B5%B0%EF%BC%91%EF%BC%95%EF%BC%95%EF%BD%8D%EF%BD%8D%E6%A6%B4%E5%BC%BE%E7%A0%B2_P2%EF%BC%93_%E4%B8%BB%E8%A6%81%E8%A3%85%E5%82%99%EF%BC%99%EF%BC%99%E5%BC%8F%EF%BC%A8%EF%BC%B3%EF%BC%B0_R_%E8%A3%85%E5%82%99_66.jpg",
+    "photo_credit": "Rikujojieitai Boueisho · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "Rikujojieitai Boueisho",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Title ９９式自走１５５ｍｍ榴弾砲 P2３ 主要装備９９式ＨＳＰ_R.jpg\nAlbum 装備\n９９式自走１５５ｍｍ榴弾砲",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/%EF%BC%99%EF%BC%99%E5%BC%8F%E8%87%AA%E8%B5%B0%EF%BC%91%EF%BC%95%EF%BC%95%EF%BD%8D%EF%BD%8D%E6%A6%B4%E5%BC%BE%E7%A0%B2_P2%EF%BC%93_%E4%B8%BB%E8%A6%81%E8%A3%85%E5%82%99%EF%BC%99%EF%BC%99%E5%BC%8F%EF%BC%A8%EF%BC%B3%EF%BC%B0_R_%E8%A3%85%E5%82%99_66.jpg/1920px-%EF%BC%99%EF%BC%99%E5%BC%8F%E8%87%AA%E8%B5%B0%EF%BC%91%EF%BC%95%EF%BC%95%EF%BD%8D%EF%BD%8D%E6%A6%B4%E5%BC%BE%E7%A0%B2_P2%EF%BC%93_%E4%B8%BB%E8%A6%81%E8%A3%85%E5%82%99%EF%BC%99%EF%BC%99%E5%BC%8F%EF%BC%A8%EF%BC%B3%EF%BC%B0_R_%E8%A3%85%E5%82%99_66.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "rq4",
+    "display_name": "RQ-4 · РОДИНА, ВПС США",
+    "photo": "assets/prepared/rq4.png",
+    "original_photo": "assets/photos/original/rq4.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Global_Hawk_1.jpg",
+    "photo_credit": "U.S. Air Force photo by Bobbi Zapka · Public domain",
+    "photo_metadata": {
+      "author": "U.S. Air Force photo by Bobbi Zapka",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "An RQ-4 Global Hawk unmanned aircraft like the one shown is currently flying non-military mapping missions over South, Central America and the Caribbean at the request of partner nations in the region.",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Global_Hawk_1.jpg/1920px-Global_Hawk_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "wingloong2",
+    "display_name": "WING LOONG II · ВИСТАВКА",
+    "photo": "assets/photos/wingloong2.jpg",
+    "original_photo": "assets/photos/original/wingloong2.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Wing_Loong_II_side_view.jpg",
+    "photo_credit": "Mztourist · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Mztourist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Wing Loong II side view, Dubai Air Show 2017",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Wing_Loong_II_side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "ch4",
+    "display_name": "CH-4 · ВИСТАВКА",
+    "photo": "assets/photos/ch4.jpg",
+    "original_photo": "assets/photos/original/ch4.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:CH-4_at_Airshow_China_Zhuhai_2022.jpg",
+    "photo_credit": "Infinty 0 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Infinty 0",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "CH-4 at Airshow China Zhuhai 2022",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/CH-4_at_Airshow_China_Zhuhai_2022.jpg/1920px-CH-4_at_Airshow_China_Zhuhai_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "patriot",
+    "display_name": "PATRIOT · РОДИНА",
+    "photo": "assets/photos/patriot.jpg",
+    "original_photo": "assets/photos/original/patriot.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+    "photo_credit": "DoD Photo By Glenn Fawcett · Public domain",
+    "photo_metadata": {
+      "author": "DoD Photo By Glenn Fawcett",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "U.S. Service members stand by a Patriot missile battery in Gaziantep, Turkey, Feb. 4, 2013, during a visit from U.S. Deputy Secretary of Defense Ashton B. Carter, not shown. U.S. and NATO Patriot missile batteries and personnel deployed to Turkey in support of NATO's commitment to defending Turkey's security during a period of regional instability.",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/1920px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "hq9",
+    "display_name": "HQ-9 · РОДИНА",
+    "photo": "assets/photos/hq9.jpg",
+    "original_photo": "assets/photos/original/hq9.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Chinese_HQ-9_launcher.jpg",
+    "photo_credit": "Jian Kang · CC BY 3.0",
+    "photo_metadata": {
+      "author": "Jian Kang",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Chinese HongQi 9 [HQ-9] launcher during China's 60th anniversary parade, 2009.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chinese_HQ-9_launcher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "hq16",
+    "display_name": "HQ-16 · РОДИНА",
+    "photo": "assets/photos/hq16.jpg",
+    "original_photo": "assets/photos/original/hq16.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:HQ-16A_Surface-to-air_missiles_20170919.jpg",
+    "photo_credit": "Tyg728 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Tyg728",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​红旗-16A防空导弹",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/HQ-16A_Surface-to-air_missiles_20170919.jpg/1920px-HQ-16A_Surface-to-air_missiles_20170919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "ah1s",
+    "display_name": "AH-1S COBRA",
+    "photo": "assets/prepared/ah1s.png",
+    "original_photo": "assets/photos/original/ah1s.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:US_Army_AH-1G_archived.jpg",
+    "photo_credit": "US Army · Public domain",
+    "photo_metadata": {
+      "author": "US Army",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "US Army AH-1G",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/US_Army_AH-1G_archived.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "oh1",
+    "display_name": "KAWASAKI OH-1",
+    "photo": "assets/prepared/oh1.png",
+    "original_photo": "assets/photos/original/oh1.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:%EF%BC%AF%EF%BC%A8%EF%BC%8D%EF%BC%91_(4).jpg",
+    "photo_credit": "陸上自衛隊 · CC BY 4.0",
+    "photo_metadata": {
+      "author": "陸上自衛隊",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "日本語：飛行中の陸上自衛隊OH-1観測ヘリコプター",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/%EF%BC%AF%EF%BC%A8%EF%BC%8D%EF%BC%91_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "z10",
+    "display_name": "Z-10",
+    "photo": "assets/prepared/z10.png",
+    "original_photo": "assets/photos/original/z10.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:PLAAF_Changhe_WZ-10_-_Jordan.jpg",
+    "photo_credit": "3GO*CHN-405/mjordan_6 · CC BY-SA 3.0",
+    "photo_metadata": {
+      "author": "3GO*CHN-405/mjordan_6",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Changhe WZ-10 immatriculé LH96101 de l'armée de terre chinoise",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/PLAAF_Changhe_WZ-10_-_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "z19",
+    "display_name": "Z-19",
+    "photo": "assets/prepared/z19.png",
+    "original_photo": "assets/photos/original/z19.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Harbin_Z-19_helicopter_(cropped).jpg",
+    "photo_credit": "Alert5 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Alert5",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Harbin Z-19 reconnaissance/attack helicopter making a low-level pass at Zhuhai Airshow 2012",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Harbin_Z-19_helicopter_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "maya",
+    "display_name": "MAYA · AEGIS",
+    "photo": "assets/prepared/maya.png",
+    "original_photo": "assets/photos/original/maya.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:DDG_Maya.jpg",
+    "photo_credit": "https://www.mod.go.jp/msdf/index.html 海上自衛隊 · CC BY 4.0",
+    "photo_metadata": {
+      "author": "https://www.mod.go.jp/msdf/index.html 海上自衛隊",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "護衛艦「まや」",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/DDG_Maya.jpg/1920px-DDG_Maya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "atago",
+    "display_name": "ATAGO · AEGIS",
+    "photo": "assets/photos/atago.jpg",
+    "original_photo": "assets/photos/original/atago.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:DDG-178_04l.jpg",
+    "photo_credit": "https://www.mod.go.jp/msdf/ · CC BY 4.0",
+    "photo_metadata": {
+      "author": "https://www.mod.go.jp/msdf/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "護衛艦「あしがら」",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/DDG-178_04l.jpg/1920px-DDG-178_04l.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "soryu",
+    "display_name": "SORYU",
+    "photo": "assets/photos/soryu.jpg",
+    "original_photo": "assets/photos/original/soryu.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:JS_Hakuryu_(SS-503)_arrives_at_Joint_Base_Pearl_Harbor-Hickam_for_a_scheduled_port_visit,_-6_Feb._2013_(YP255-023).jpg",
+    "photo_credit": "Christy Hagen, U.S. Navy · Public domain",
+    "photo_metadata": {
+      "author": "Christy Hagen, U.S. Navy",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "Japan Maritime Self Defense Force (JMSDF) submarine Hakuryu (SS-503) arrives at Joint Base Pearl Harbor-Hickam for a scheduled port visit, Feb. 6. While in port, the submarine crew will conduct various training evolutions and have the opportunity to enjoy the sights and culture of Hawaii. (U.S. Navy photo by Cmdr. Christy Hagen/Released)",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/JS_Hakuryu_%28SS-503%29_arrives_at_Joint_Base_Pearl_Harbor-Hickam_for_a_scheduled_port_visit%2C_-6_Feb._2013_%28YP255-023%29.jpg/1920px-JS_Hakuryu_%28SS-503%29_arrives_at_Joint_Base_Pearl_Harbor-Hickam_for_a_scheduled_port_visit%2C_-6_Feb._2013_%28YP255-023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "taigei",
+    "display_name": "TAIGEI",
+    "photo": "assets/photos/taigei.jpg",
+    "original_photo": "assets/photos/original/taigei.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Naming_and_Launch_Ceremony_of_SS_Taigei.jpg",
+    "photo_credit": "https://www.mod.go.jp/msdf/ 海上自衛隊 · CC BY 4.0",
+    "photo_metadata": {
+      "author": "https://www.mod.go.jp/msdf/ 海上自衛隊",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "潜水艦「たいげい」命名・進水式",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Naming_and_Launch_Ceremony_of_SS_Taigei.jpg/1920px-Naming_and_Launch_Ceremony_of_SS_Taigei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "izumo",
+    "display_name": "JS IZUMO",
+    "photo": "assets/prepared/izumo.png",
+    "original_photo": "assets/photos/original/izumo.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:JS_Izumo%EF%BC%88DDH-183%EF%BC%89seen_from_the_sky_10-03-2021.jpg",
+    "photo_credit": "https://www.mod.go.jp/msdf/index.html 海上自衛隊 · CC BY 4.0",
+    "photo_metadata": {
+      "author": "https://www.mod.go.jp/msdf/index.html 海上自衛隊",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "海上自衛隊護衛艦「いずも」",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/JS_Izumo%EF%BC%88DDH-183%EF%BC%89seen_from_the_sky_10-03-2021.jpg/1920px-JS_Izumo%EF%BC%88DDH-183%EF%BC%89seen_from_the_sky_10-03-2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "kaga",
+    "display_name": "JS KAGA",
+    "photo": "assets/photos/kaga.jpg",
+    "original_photo": "assets/photos/original/kaga.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:JS_Kaga%EF%BC%88DDH-184%EF%BC%89after_renovation.jpg",
+    "photo_credit": "https://www.mod.go.jp/msdf/index.html 海上自衛隊 · CC BY 4.0",
+    "photo_metadata": {
+      "author": "https://www.mod.go.jp/msdf/index.html 海上自衛隊",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "改装後の護衛艦「かが」",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/JS_Kaga%EF%BC%88DDH-184%EF%BC%89after_renovation.jpg/1920px-JS_Kaga%EF%BC%88DDH-184%EF%BC%89after_renovation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "liaoning",
+    "display_name": "LIAONING",
+    "photo": "assets/photos/liaoning.jpg",
+    "original_photo": "assets/photos/original/liaoning.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Aircraft_Carrier_Liaoning_CV-16.jpg",
+    "photo_credit": "Baycrest · CC BY-SA 2.5",
+    "photo_metadata": {
+      "author": "Baycrest",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "description": "Aircraft Carrier Liaoning (16) at Hong Kong Waters",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Aircraft_Carrier_Liaoning_CV-16.jpg/1920px-Aircraft_Carrier_Liaoning_CV-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "shandong",
+    "display_name": "SHANDONG",
+    "photo": "assets/photos/shandong.jpg",
+    "original_photo": "assets/photos/original/shandong.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Chinese_aircraft_carrier_Shandong_in_2019.jpg",
+    "photo_credit": "Tyg728 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "Tyg728",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​建造中的中国海军首艘国产航空母舰",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg/1920px-Chinese_aircraft_carrier_Shandong_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "fujian",
+    "display_name": "FUJIAN",
+    "photo": "assets/prepared/fujian.png",
+    "original_photo": "assets/photos/original/fujian.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:PLAN_CV-18_Fujian_20250911.jpg",
+    "photo_credit": "日本防衛省・統合幕僚監部 · CC BY 4.0",
+    "photo_metadata": {
+      "author": "日本防衛省・統合幕僚監部",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Chinese aircraft carrier Fujian, as photographed by JMSDF on September 11, 2025.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/PLAN_CV-18_Fujian_20250911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "type055",
+    "display_name": "TYPE 055 · NANCHANG",
+    "photo": "assets/prepared/type055.png",
+    "original_photo": "assets/photos/original/type055.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:PLANS_Nanchang_(DDG-101)_20210427.jpg",
+    "photo_credit": "日本防衛省・統合幕僚監部 · CC BY 4.0",
+    "photo_metadata": {
+      "author": "日本防衛省・統合幕僚監部",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "４月２６日（月）午後７時頃、海上自衛隊は、宮古島の南約１６０ｋｍの海域において、同海域を北東進する中国海軍クズネツォフ級空母「遼寧」１隻、レンハイ級ミサイル駆逐艦１隻、ルーヤンⅢ級ミサイル駆逐艦２隻、ジャンカイⅡ級フリゲート１隻及びフユ級高速戦闘支援艦１隻の計６隻を確認した。\nその後、これらの艦艇が沖縄本島と宮古島の間の海域を北上し、東シナ海へ向けて航行したことを確認した。\nなお、これらの艦艇は、４月３日（土）に男女群島の南西海域で確認され、その後、沖縄本島と宮古島間を南下したものと同一である。\n防衛省・自衛隊は、海上自衛隊第２護衛隊所属「あさひ」（佐世保）及び第５ 航空群所属「Ｐ－３Ｃ」（那覇）により、所要の情報収集・警戒監視を行った。\n\nまた、２７日午前、中国海軍クズネツォフ級空母「遼寧」から早期警戒ヘリコプター（Ｚ－１８）１機が発艦し、大正島領空の北東約５０ｋｍから約１００ｋｍの空域を飛行したことを確認し、戦闘機を緊急発進させる等により対応した。",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PLANS_Nanchang_%28DDG-101%29_20210427.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Background segmentation and crop; original photograph retained; static presentation"
+    }
+  },
+  {
+    "id": "type094",
+    "display_name": "TYPE 094 · РОДИНА",
+    "photo": "assets/photos/type094.jpg",
+    "original_photo": "assets/photos/original/type094.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:Jin_(Type_094)_Class_Ballistic_Missile_Submarine.JPG",
+    "photo_credit": "CSR Report RL33153 China Naval Modernization: Implications for U.S. Navy Capabilities · Public domain",
+    "photo_metadata": {
+      "author": "CSR Report RL33153 China Naval Modernization: Implications for U.S. Navy Capabilities—Background and Issues for Congress by Ronald O'Rourke dated February 28, 2014",
+      "license": "Public domain",
+      "license_url": "",
+      "description": "CRS Report RL33153 China Naval Modernization: Implications for U.S. Navy Capabilities—Background and Issues for Congress by Ronald O'Rourke dated February 28, 2014.\nPage 8 - Figure 1. Jin (Type 094) Class Ballistic Missile Submarine\n\nSource: Photograph provided to CRS by Navy Office of Legislative Affairs, December 2010.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jin_%28Type_094%29_Class_Ballistic_Missile_Submarine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Resized licensed candidate; original retained; review before selecting"
+    }
+  },
+  {
+    "id": "df41",
+    "display_name": "DF-41 · ПАРАД, 2019",
+    "photo": "assets/prepared/df41-clean.png",
+    "original_photo": "assets/photos/original/df41.png",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:120%E7%A7%92%E7%9C%8B%E5%A4%A7%E9%98%85%E5%85%B5%E9%9C%87%E6%92%BC%E7%9E%AC%E9%97%B4%EF%BC%811.png",
+    "photo_credit": "中国新闻社 · CC BY 4.0",
+    "photo_metadata": {
+      "author": "中国新闻社",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "​庆祝中华人民共和国成立70周年大会",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/120%E7%A7%92%E7%9C%8B%E5%A4%A7%E9%98%85%E5%85%B5%E9%9C%87%E6%92%BC%E7%9E%AC%E9%97%B4%EF%BC%811.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Licensed crop to equipment area; original retained and CNS author credited"
+    }
+  },
+  {
+    "id": "type12-base",
+    "display_name": "TYPE 12",
+    "photo": "assets/photos/type12-base.jpg",
+    "original_photo": "assets/photos/original/type12-base.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:JGSDF_TYPE_12_SSM.jpg",
+    "photo_credit": "あおのひーたん · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "あおのひーたん",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "第5地対艦ミサイル連隊の訓練展示（湯布院駐屯地記念式典）",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/JGSDF_TYPE_12_SSM.jpg/1920px-JGSDF_TYPE_12_SSM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized source; original retained"
+    }
+  },
+  {
+    "id": "j10c-exact",
+    "display_name": "CHENGDU J-10C",
+    "photo": "assets/photos/j10c-exact.jpg",
+    "original_photo": "assets/photos/original/j10c-exact.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:J-10C_20250921.jpg",
+    "photo_credit": "颐园居 · CC BY-SA 4.0",
+    "photo_metadata": {
+      "author": "颐园居",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​歼-10C战斗机，在2025空军航空开放日",
+      "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/J-10C_20250921.jpg/1920px-J-10C_20250921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "changes": "Resized source; original retained"
+    }
+  },
+  {
+    "id": "phl16",
+    "display_name": "PHL-16",
+    "photo": "assets/photos/phl16.jpg",
+    "original_photo": "assets/photos/original/phl16.jpg",
+    "photo_source": "https://commons.wikimedia.org/wiki/File:PHL16_2025_V-J_Parade_CNS.png",
+    "photo_credit": "中国新闻社 · CC BY 4.0",
+    "photo_metadata": {
+      "author": "中国新闻社",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "PHL-16",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/PHL16_2025_V-J_Parade_CNS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "changes": "Resized source; original retained"
+    }
+  },
+  {
+    "id": "kaga-trials",
+    "video": "assets/video/kaga-trials.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/949597/f-35-pax-itf-executes-developmental-test-aboard-js-kaga",
+    "video_credit": "Dane Wiedmann · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Dane Wiedmann",
+      "source": "https://www.dvidshub.net/video/949597/f-35-pax-itf-executes-developmental-test-aboard-js-kaga",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "izumo-trials",
+    "video": "assets/video/izumo-trials.mp4",
+    "duration": 59.033333,
+    "video_source": "https://www.dvidshub.net/video/816425/f-35b-js-izumo-capabitilies-test-social-media-video",
+    "video_credit": "Lance Cpl. Tyler Harmon; Cpl. Bryant Rodriguez · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Lance Cpl. Tyler Harmon; Cpl. Bryant Rodriguez",
+      "source": "https://www.dvidshub.net/video/816425/f-35b-js-izumo-capabitilies-test-social-media-video",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "jasdf-f35",
+    "video": "assets/video/jasdf-f35.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/943654/keen-sword-25-f-35a-lightning-ii-aircraft-jasdf-conduct-flight-operations-mcas-iwakuni",
+    "video_credit": "Lance Cpl. Micah Taylor · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Lance Cpl. Micah Taylor",
+      "source": "https://www.dvidshub.net/video/943654/keen-sword-25-f-35a-lightning-ii-aircraft-jasdf-conduct-flight-operations-mcas-iwakuni",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "jasdf-arrival",
+    "video": "assets/video/jasdf-arrival.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/660570/jasdf-first-f-35a-arrival-prime-cuts",
+    "video_credit": "Tech. Sgt. Benjamin Stratton · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Tech. Sgt. Benjamin Stratton",
+      "source": "https://www.dvidshub.net/video/660570/jasdf-first-f-35a-arrival-prime-cuts",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "japan-infantry",
+    "video": "assets/video/japan-infantry.mp4",
+    "duration": 63.866667,
+    "video_source": "https://www.dvidshub.net/video/977958/orient-shield-25-small-arms-live-fire-broll",
+    "video_credit": "Sgt. Daniela Lechuga · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Sgt. Daniela Lechuga",
+      "source": "https://www.dvidshub.net/video/977958/orient-shield-25-small-arms-live-fire-broll",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "japan-pac3",
+    "video": "assets/video/japan-pac3.mp4",
+    "duration": 68.333333,
+    "video_source": "https://www.dvidshub.net/video/546474/japan-air-self-defense-force-conducts-patriot-advanced-capability-3-training-marine-corps-air-station-iwakuni",
+    "video_credit": "Donato Maffin; Emily Kirk; Waiyan Tin · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Donato Maffin; Emily Kirk; Waiyan Tin",
+      "source": "https://www.dvidshub.net/video/546474/japan-air-self-defense-force-conducts-patriot-advanced-capability-3-training-marine-corps-air-station-iwakuni",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "japan-sm3",
+    "video": "assets/video/japan-sm3.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/98945/missile-defense-agency-japan-flight-test-4-video",
+    "video_credit": "Missile Defense Agency · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Missile Defense Agency",
+      "source": "https://www.dvidshub.net/video/98945/missile-defense-agency-japan-flight-test-4-video",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "sm3-cooperative",
+    "video": "assets/video/sm3-cooperative.mp4",
+    "duration": 90.5,
+    "video_source": "https://www.dvidshub.net/video/508345/sftm-01-flight-test-high-res-video",
+    "video_credit": "Leah Garton · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Leah Garton",
+      "source": "https://www.dvidshub.net/video/508345/sftm-01-flight-test-high-res-video",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "j20-airshow",
+    "video": "assets/video/j20-airshow.mp4",
+    "duration": 68.466667,
+    "video_source": "https://commons.wikimedia.org/wiki/File:2018%E5%B9%B411%E6%9C%887%E6%97%A5_%E6%96%B0%E6%AC%BE%E6%B6%82%E8%A3%85%E6%AD%BC20%E5%BC%BA%E5%8A%BF%E4%BA%AE%E7%9B%B8%E7%8F%A0%E6%B5%B7_%E7%A9%BA%E4%B8%AD%E2%80%9C%E9%9F%B3%E7%88%86%E2%80%9D%E4%BB%A4%E4%BA%BA%E8%B5%9E%E5%8F%B9_J-20_performs_at_Airshow_China_2018.webm",
+    "video_credit": "中国新闻网 · CC BY 3.0",
+    "video_metadata": {
+      "author": "中国新闻网",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "description": "11月6日上午，在中国航展上，换了新款涂装的歼20战机迎来了航展开展以来的首场表演，再次强势亮相，成为全场焦点，3台歼20编队而来，气势磅礴，向公众表演了传统节目双机编队飞行，以及单机大角度机动。旋转翻腾，无所不能，还在飞行过程中展示了“音爆”，实在过瘾。",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/2018%E5%B9%B411%E6%9C%887%E6%97%A5_%E6%96%B0%E6%AC%BE%E6%B6%82%E8%A3%85%E6%AD%BC20%E5%BC%BA%E5%8A%BF%E4%BA%AE%E7%9B%B8%E7%8F%A0%E6%B5%B7_%E7%A9%BA%E4%B8%AD%E2%80%9C%E9%9F%B3%E7%88%86%E2%80%9D%E4%BB%A4%E4%BA%BA%E8%B5%9E%E5%8F%B9_J-20_performs_at_Airshow_China_2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Muted excerpt, normalized 720p/30fps; original playback speed"
+    }
+  },
+  {
+    "id": "j20-anniversary",
+    "video": "assets/video/j20-anniversary.mp4",
+    "duration": 125.0,
+    "video_source": "https://commons.wikimedia.org/wiki/File:2021%E5%B9%B41%E6%9C%889%E6%97%A5_%E6%AD%BC20%E9%A3%9E%E6%9C%BA%E9%A6%96%E9%A3%9E10%E5%91%A8%E5%B9%B4%EF%BC%9A%E5%87%8C%E4%BA%91%E5%86%8D%E5%A5%8B%E9%A3%9E.webm",
+    "video_credit": "中国新闻网 · CC BY 3.0",
+    "video_metadata": {
+      "author": "中国新闻网",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "description": "10年前的1月，一架黑色涂装、外形科幻的飞机静静地停在成都某机场起飞线上，机务人员围在周围做着起飞前的最后的准备，试飞员接过放飞单，郑重地在试飞科目上写下“首飞”两字……",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/2021%E5%B9%B41%E6%9C%889%E6%97%A5_%E6%AD%BC20%E9%A3%9E%E6%9C%BA%E9%A6%96%E9%A3%9E10%E5%91%A8%E5%B9%B4%EF%BC%9A%E5%87%8C%E4%BA%91%E5%86%8D%E5%A5%8B%E9%A3%9E.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Muted excerpt, normalized 720p/30fps; original playback speed"
+    }
+  },
+  {
+    "id": "jinan-video",
+    "video": "assets/video/jinan-video.mp4",
+    "duration": 125.0,
+    "video_source": "https://commons.wikimedia.org/wiki/File:First_visit_of_the_Chinese_Navy_to_Finland_2015_(1-3)-_Jinan_4K_%E2%80%A2_Kiinalainen_ohjush%C3%A4vitt%C3%A4j%C3%A4_Jinan.webm",
+    "video_credit": "Kauko Helavuo · CC BY 3.0",
+    "video_metadata": {
+      "author": "Kauko Helavuo",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "description": "First visit of the Chinese navy to Finland, 25th – 29th of september 2015.   •   Kiinan sotalaivaston ensivierailu Suomeen 25. – 29.9.2015. Tämä 134 metriä p...",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/First_visit_of_the_Chinese_Navy_to_Finland_2015_%281-3%29-_Jinan_4K_%E2%80%A2_Kiinalainen_ohjush%C3%A4vitt%C3%A4j%C3%A4_Jinan.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Muted excerpt, normalized 720p/30fps; original playback speed"
+    }
+  },
+  {
+    "id": "taigei-launch",
+    "video": "assets/video/taigei-launch.mp4",
+    "duration": 125.0,
+    "video_source": "https://commons.wikimedia.org/wiki/File:%E3%80%90%E5%91%BD%E5%90%8D%E5%BC%8F%E3%83%BB%E9%80%B2%E6%B0%B4%E5%BC%8F%E3%80%91%E6%BD%9C%E6%B0%B4%E8%89%A6%E3%80%8C%E3%81%98%E3%82%93%E3%81%92%E3%81%84%E3%80%8D.webm",
+    "video_credit": "防衛省 海上自衛隊 公式チャンネル · CC BY 3.0",
+    "video_metadata": {
+      "author": "防衛省 海上自衛隊 公式チャンネル",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "description": "令和４年１０月１２日、三菱重工業株式会社 神戸造船所において、潜水艦「じんげい」の命名式・進水式が行われました。式典の様子をご覧ください。\n海上自衛隊 #じんげい #くじら",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/%E3%80%90%E5%91%BD%E5%90%8D%E5%BC%8F%E3%83%BB%E9%80%B2%E6%B0%B4%E5%BC%8F%E3%80%91%E6%BD%9C%E6%B0%B4%E8%89%A6%E3%80%8C%E3%81%98%E3%82%93%E3%81%92%E3%81%84%E3%80%8D.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Muted excerpt, normalized 720p/30fps; original playback speed"
+    }
+  },
+  {
+    "id": "soryu-video",
+    "video": "assets/video/soryu-video.mp4",
+    "duration": 48.0,
+    "video_source": "https://commons.wikimedia.org/wiki/File:%E8%A3%85%E5%82%99%E5%93%81%E7%B4%B9%E4%BB%8B_%E3%80%8C%E3%81%9D%E3%81%86%E3%82%8A%E3%82%85%E3%81%86%E3%80%8D%E5%9E%8B%E6%BD%9C%E6%B0%B4%E8%89%A6.webm",
+    "video_credit": "modchannel · CC BY 3.0",
+    "video_metadata": {
+      "author": "modchannel",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "description": "【平和をまもる】「そうりゅう」型潜水艦\n「そうりゅう」型の潜水艦は、世界最大のディーゼル潜水艦です。日本の海の安全を守るため、人知れず海中深く潜航し、対潜水艦の警戒監視活動に従事しています。「そうりゅう」型潜水艦の艦尾舵は従来の十字型からX字型になっており、より水中運動性に優れ、着底しても舵の損傷が少ないことがメリットです。潜水艦は「より強く、長く、静かに」進化を続けています。",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%E8%A3%85%E5%82%99%E5%93%81%E7%B4%B9%E4%BB%8B_%E3%80%8C%E3%81%9D%E3%81%86%E3%82%8A%E3%82%85%E3%81%86%E3%80%8D%E5%9E%8B%E6%BD%9C%E6%B0%B4%E8%89%A6.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Muted excerpt, normalized 720p/30fps; original playback speed"
+    }
+  },
+  {
+    "id": "china-helos",
+    "video": "assets/video/china-helos.mp4",
+    "duration": 29.533333,
+    "video_source": "https://commons.wikimedia.org/wiki/File:12251094-%D0%92%D0%BE%D1%81%D0%B5%D0%BC%D1%8C_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2_%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D0%9A%D0%B8%D1%82%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D0%B8_%D0%B2_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%8F_%D0%B2_%D0%A1%D0%9A%D0%A8%D0%A3_%C2%AB%D0%A6%D0%B5%D0%BD%D1%82%D1%80-2019%C2%BB.webm",
+    "video_credit": "Ministerstwo Obrony Rossijskoj Federazii (Министерство обороны Российской Федера · CC BY 4.0",
+    "video_metadata": {
+      "author": "Ministerstwo Obrony Rossijskoj Federazii (Министерство обороны Российской Федерации / Ministry of Defence of the Russian Federation)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Восемь вертолетов армейской авиации Китая прибыли в аэропорт Челябинска для участия в СКШУ «Центр-2019»",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/12251094-%D0%92%D0%BE%D1%81%D0%B5%D0%BC%D1%8C_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2_%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D0%9A%D0%B8%D1%82%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D0%B8_%D0%B2_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%8F_%D0%B2_%D0%A1%D0%9A%D0%A8%D0%A3_%C2%AB%D0%A6%D0%B5%D0%BD%D1%82%D1%80-2019%C2%BB.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "Muted excerpt, normalized 720p/30fps; original playback speed"
+    }
+  },
+  {
+    "id": "map-region",
+    "video": "assets/maps/map-region.mp4",
+    "duration": 24,
+    "visual_origin": "true_3d_terrain",
+    "video_credit": "Natural Earth public domain; AWS Terrain Tiles / Mapzen attribution in SOURCES.md"
+  },
+  {
+    "id": "map-navy",
+    "video": "assets/maps/map-navy.mp4",
+    "duration": 18,
+    "visual_origin": "true_3d_terrain",
+    "video_credit": "Natural Earth public domain; AWS Terrain Tiles / Mapzen attribution in SOURCES.md"
+  },
+  {
+    "id": "japan-armor",
+    "video": "assets/video/japan-armor.mp4",
+    "duration": 99.133333,
+    "video_source": "https://www.dvidshub.net/video/361459/rising-thunder-soldiers-bound-victory",
+    "video_credit": "Staff Sgt. Frank Brown · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Staff Sgt. Frank Brown",
+      "source": "https://www.dvidshub.net/video/361459/rising-thunder-soldiers-bound-victory",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "rq4-action",
+    "video": "assets/video/rq4-action.mp4",
+    "duration": 125.0,
+    "video_source": "https://www.dvidshub.net/video/702512/rq-4-global-hawk-arrives-yokota-air-base-b-roll",
+    "video_credit": "Yasuo Osakabe · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Yasuo Osakabe",
+      "source": "https://www.dvidshub.net/video/702512/rq-4-global-hawk-arrives-yokota-air-base-b-roll",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "ah1s-action",
+    "video": "assets/video/ah1s-action.mp4",
+    "duration": 46.4,
+    "video_source": "https://www.dvidshub.net/video/726755/forest-light-middle-army-adgr",
+    "video_credit": "Cpl. Esgar Rojas · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Cpl. Esgar Rojas",
+      "source": "https://www.dvidshub.net/video/726755/forest-light-middle-army-adgr",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  },
+  {
+    "id": "japan-antitank",
+    "video": "assets/video/japan-antitank.mp4",
+    "duration": 55.566667,
+    "video_source": "https://www.dvidshub.net/video/622947/rising-thunder-18-anti-tank-weaponry-range-social-media",
+    "video_credit": "Staff Sgt. Christopher Jelle · Public domain",
+    "video_metadata": {
+      "license": "Public domain",
+      "author": "Staff Sgt. Christopher Jelle",
+      "source": "https://www.dvidshub.net/video/622947/rising-thunder-18-anti-tank-weaponry-range-social-media",
+      "changes": "Muted 720p normalized excerpt; editorial cuts; no playback speed changes"
+    }
+  }
+]

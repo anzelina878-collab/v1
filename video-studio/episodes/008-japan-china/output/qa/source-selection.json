@@ -1,0 +1,210 @@
+{
+  "selection": "reviewed public-domain DVIDS and commercially reusable CC videos",
+  "selected_sources": [
+    "china-helos",
+    "izumo-trials",
+    "j20-airshow",
+    "j20-anniversary",
+    "japan-antitank",
+    "japan-armor",
+    "japan-infantry",
+    "japan-pac3",
+    "japan-sm3",
+    "jasdf-arrival",
+    "jasdf-f35",
+    "jinan-video",
+    "kaga-trials",
+    "rq4-action",
+    "sm3-cooperative",
+    "soryu-video",
+    "taigei-launch",
+    "tomahawk-action"
+  ],
+  "reviewed_intervals": {
+    "kaga-trials": [
+      [
+        15,
+        35
+      ],
+      [
+        47,
+        56
+      ],
+      [
+        68,
+        84
+      ],
+      [
+        116,
+        124.8
+      ]
+    ],
+    "izumo-trials": [
+      [
+        17,
+        46
+      ]
+    ],
+    "jasdf-f35": [
+      [
+        0,
+        24
+      ],
+      [
+        89,
+        114
+      ]
+    ],
+    "jasdf-arrival": [
+      [
+        112,
+        124.8
+      ]
+    ],
+    "j20-airshow": [
+      [
+        28,
+        68
+      ]
+    ],
+    "j20-anniversary": [
+      [
+        20,
+        34
+      ],
+      [
+        60,
+        92
+      ]
+    ],
+    "japan-infantry": [
+      [
+        0,
+        28
+      ],
+      [
+        29,
+        63.5
+      ]
+    ],
+    "japan-pac3": [
+      [
+        0,
+        7
+      ],
+      [
+        16,
+        37
+      ],
+      [
+        39,
+        66
+      ]
+    ],
+    "japan-sm3": [
+      [
+        24,
+        35
+      ],
+      [
+        49,
+        58
+      ],
+      [
+        64,
+        124
+      ]
+    ],
+    "sm3-cooperative": [
+      [
+        56,
+        76
+      ]
+    ],
+    "jinan-video": [
+      [
+        75,
+        87
+      ],
+      [
+        103,
+        119
+      ]
+    ],
+    "taigei-launch": [
+      [
+        105,
+        116
+      ]
+    ],
+    "soryu-video": [
+      [
+        28,
+        36
+      ],
+      [
+        8,
+        24
+      ]
+    ],
+    "tomahawk-action": [
+      [
+        7,
+        19
+      ],
+      [
+        56,
+        65
+      ],
+      [
+        96,
+        105
+      ]
+    ],
+    "china-helos": [
+      [
+        12,
+        28
+      ]
+    ],
+    "japan-armor": [
+      [
+        39,
+        46.5
+      ],
+      [
+        57,
+        98
+      ]
+    ],
+    "rq4-action": [
+      [
+        85,
+        124.8
+      ]
+    ],
+    "ah1s-action": [
+      [
+        0,
+        7
+      ],
+      [
+        35,
+        45
+      ]
+    ],
+    "japan-antitank": [
+      [
+        0,
+        35
+      ]
+    ]
+  },
+  "source_credit_policy": "Agency/creator and license in video corner; full source and modifications in SOURCES.md",
+  "original_photos": "Retained unmodified alongside selected cutouts/crop",
+  "archive_policy": "Muted, no speed changes; nonoverlapping intervals; return >60s after prior use end",
+  "photo_watermarks": "Clean photo sources; licensed DF41 crop excludes third-party graphic overlays; CNS credit retained",
+  "restrictions": "DVIDS pages containing Asset contains copyrighted material rejected even when a generic public-domain heading is also present",
+  "cg_exclusions": "Soryu underwater CGI and J20 music-performance sections not selected",
+  "correction_scope": "Encoded-frame review removed mixed-platform lead-ins: Type10 39–46.5s, Z10 12–28s; AH1S exact photo. Chapter fallback labels corrected."
+}

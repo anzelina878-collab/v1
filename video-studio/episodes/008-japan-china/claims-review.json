@@ -1,0 +1,13 @@
+{
+ "review_scope":"Visual identity, numeric labels and archival context; no independent rewrite or exhaustive audit of supplied narration",
+ "reviewed_at":"2026-11-13",
+ "claims":[
+  {"label":"Type 10 120 mm; Type 99 self-propelled 155 mm","source":"https://www.mod.go.jp/j/kids/works/index.html","result":"supported"},
+  {"label":"Type 19 wheeled 155 mm","source":"https://www.mod.go.jp/j/press/wp/wp2026/html/n310204000.html","result":"supported"},
+  {"label":"Type 20 5.56 mm","source":"https://www.mod.go.jp/en/d_act/d_budget/pdf/fy2026_20251210a.pdf","result":"supported"},
+  {"label":"Improved Type 12 program","source":"https://www.mod.go.jp/j/press/wp/wp2026/html/n310201000.html","result":"supported; photo explicitly historical prototype, not current fleet status"},
+  {"label":"Jingei Taigei-class launch 2022","source":"https://www.mhi.com/jp/news/221012.html","result":"supported; 12 October 2022"},
+  {"label":"Other named platforms and variants","source":"assets/manifest.json","result":"specific original file descriptions retained; exhibit and family qualifications shown"}
+ ],
+ "not_claimed":["complete 2026 inventory validation","independent verification of all comparative judgments","continuous human watch and listen"]
+}

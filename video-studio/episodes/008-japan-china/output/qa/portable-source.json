@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "source_zip_crc": "passed",
+  "fresh_unpack": "all files, no symlinks",
+  "build_episode_byte_identical": true,
+  "original_input_hashes": "passed",
+  "sample_kinds": [
+    "turntable",
+    "archive",
+    "photo",
+    "map",
+    "compare",
+    "ident",
+    "section",
+    "graphic",
+    "question",
+    "outro"
+  ],
+  "sample_dimensions": [
+    1920,
+    1080
+  ],
+  "sample_fps": 30,
+  "sample_frames": 450,
+  "sample_full_decode": "passed",
+  "sample_sha256": "57d768b2cf9ef5251e4ee77bf550908acbd5ef55667c316f1110e2ee4a5f1b20",
+  "production_renderer_sha256": "78dd719761e7e1b4560284103d99bd57d7c378c8426e3c35ec665d210b5832ec",
+  "production_episode_sha256": "46b7227eeee351abb9db05d5d68df5b72ae632d34b9907bf77dcdf2523ad4a19",
+  "scope": "Final corrected runtime, all prepared asset bytes and original inputs materialized from ZIP into fresh directory. Identical files use validated hardlinks to conserve disk; all are real standalone files. Final bundle adds completed QA reports only."
+}

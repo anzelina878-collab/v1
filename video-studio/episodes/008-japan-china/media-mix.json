@@ -1,0 +1,41 @@
+{
+  "seconds_by_kind": {
+    "compare": 64.833,
+    "graphic": 139.233,
+    "outro": 7.133,
+    "map": 61.8,
+    "question": 14.167,
+    "section": 29.467,
+    "ident": 13.567,
+    "turntable": 28.467,
+    "archive": 177.0,
+    "photo": 500.533
+  },
+  "archive_share": 0.17081644470179502,
+  "scenes_by_kind": {
+    "turntable": 5,
+    "archive": 31,
+    "photo": 95,
+    "map": 6,
+    "compare": 12,
+    "ident": 2,
+    "section": 11,
+    "graphic": 15,
+    "question": 2,
+    "outro": 1
+  },
+  "source_decisions": [
+    {
+      "time": 171.76666666666668,
+      "asset": "j20-anniversary",
+      "decision": "Corresponding photo: missing source, interval exhausted or >60 second cooldown"
+    },
+    {
+      "time": 809.1666666666666,
+      "asset": "jinan-video",
+      "decision": "Corresponding photo: missing source, interval exhausted or >60 second cooldown"
+    }
+  ],
+  "first_90_seconds_shots": 34,
+  "three_d_quality_policy": "Detailed true meshes only; rejected unsuitable OH1 geometry; native slow F35B family display; real photo cutouts for other subjects"
+}
