@@ -1,0 +1,35 @@
+name: Render time-arrow 3D scenes
+on:
+  push:
+    branches: [cosmos-universum-v2]
+    paths: [.github/workflows/render-zeitpfeil.yml]
+permissions:
+  contents: read
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    strategy:
+      fail-fast: false
+      matrix:
+        scene: [orbit, gas, coins, heat, clock, pendulum]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: cosmos/002-zeitpfeil
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq blender ffmpeg
+      - name: Render native 1080p explanatory scene
+        working-directory: cosmos/002-zeitpfeil
+        run: |
+          blender -b -t 2 -P make3d.py -- ${{ matrix.scene }} > render.log 2>&1
+          ffmpeg -y -v warning -framerate 25/2 -i 3d/${{ matrix.scene }}/frame_%04d.jpg -vf framerate=fps=25 -t 7.84 -an -c:v libx264 -preset veryfast -crf 17 -threads 2 -filter_threads 2 -pix_fmt yuv420p ${{ matrix.scene }}.mp4
+          ffmpeg -v error -i ${{ matrix.scene }}.mp4 -frames:v 1 pilot.jpg
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: zeitpfeil-${{ matrix.scene }}
+          path: |
+            cosmos/002-zeitpfeil/${{ matrix.scene }}.mp4
+            cosmos/002-zeitpfeil/pilot.jpg
+            cosmos/002-zeitpfeil/render.log
+          retention-days: 7
