@@ -1,0 +1,49 @@
+name: Publish complete KOSMION time-arrow film
+on:
+  push:
+    branches: [cosmos-universum-v2]
+    paths: [.github/workflows/publish-zeitpfeil.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and verify completed full movie
+        env:
+          FILM_URL: "https://filebin.net/450194434e284480b0e7f01927623a10/Zeitpfeil_KOSMION_1080p.mp4"
+          FILM_BYTES: "1078397260"
+          FILM_SHA256: "2fb6596389fe2fd59713a46d2072329b82c26ac7b470304627b8c699d51d933a"
+        run: |
+          python3 - <<'PYCODE'
+          import urllib.request,http.cookiejar,pathlib,hashlib,os
+          jar=http.cookiejar.CookieJar();op=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar));url=os.environ['FILM_URL']
+          with op.open(urllib.request.Request(url,headers={'Range':'bytes=0-31'}),timeout=90) as response:response.read(64)
+          dest=pathlib.Path('Zeitpfeil_KOSMION_1080p.mp4');h=hashlib.sha256()
+          with op.open(url,timeout=240) as response,open(dest,'wb') as output:
+              while data:=response.read(1024*1024):output.write(data);h.update(data)
+          assert dest.stat().st_size==int(os.environ['FILM_BYTES'])
+          assert h.hexdigest()==os.environ['FILM_SHA256']
+          print('Complete final movie transfer verified:',dest.stat().st_size,h.hexdigest())
+          PYCODE
+      - name: Publish one finished MP4
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          cat > release-notes.md <<'NOTES'
+          Warum die Zeit nur vorwärts läuft – Das Geheimnis des Urknalls
+
+          Vollständige deutsche Dokumentation: 25:03, 1920 × 1080, 25 Bilder pro Sekunde, H.264 und AAC.
+
+          Ein fertiger MP4-Film mit der gelieferten Erzählstimme, realen Archivaufnahmen, räumlichen wissenschaftlichen Erklärungen und sparsamer Typografie. Kleine Bildnachweise stehen direkt in den ausgewählten Archivaufnahmen.
+
+          Quellen und Lizenzen: [SOURCES.md](https://github.com/anzelina878-collab/v1/blob/cosmos-002-zeitpfeil/cosmos/002-zeitpfeil/SOURCES.md).
+          Qualitätsprüfung: [QUALITY_REPORT.md](https://github.com/anzelina878-collab/v1/blob/cosmos-002-zeitpfeil/cosmos/002-zeitpfeil/QUALITY_REPORT.md).
+          ESO-Material: Creative Commons Attribution 4.0, https://creativecommons.org/licenses/by/4.0/; Bearbeitung durch Ausschnitt, Skalierung und Montage. Einzelne Urheber stehen in den Bildnachweisen.
+          NOTES
+          gh release create cosmos-002-zeitpfeil --target "${{ github.sha }}" --title "KOSMION · Warum die Zeit nur vorwärts läuft · 1080p" --notes-file release-notes.md
+          gh release upload cosmos-002-zeitpfeil Zeitpfeil_KOSMION_1080p.mp4 --clobber
