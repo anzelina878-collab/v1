@@ -29,10 +29,18 @@ def prepare(plan,shots):
   if dest.exists() and dest.stat().st_size>1000:return dest
   if a.get('derived_from'):
    base=ensure(a['derived_from']);command(['ffmpeg','-y','-v','warning','-threads','2','-i',str(base),'-vf','reverse','-an','-c:v','libx264','-preset','veryfast','-crf','18','-pix_fmt','yuv420p','-threads','2','-filter_threads','2',str(dest)],R/'logs'/(key+'-reverse.log'));return dest
-  if a.get('kind')!='original3d':raise FileNotFoundError(dest)
-  name='zeitpfeil-'+a['scene'];found=None
+  if a.get('kind')!='original3d':
+   if not a.get('url'):raise FileNotFoundError(dest)
+   raw=dest.with_suffix('.source');req=urllib.request.Request(a['url'],headers={'User-Agent':'KosmionResearch/1.0'})
+   with urllib.request.urlopen(req,timeout=120) as response,open(raw,'wb') as output:
+    while b:=response.read(1024*1024):output.write(b)
+   if 'source_in' in a:
+    command(['ffmpeg','-y','-v','warning','-ss',str(a['source_in']),'-i',str(raw),'-t',str(a['duration']),'-an','-c:v','libx264','-preset','veryfast','-crf','21',str(dest)],R/'logs'/(key+'-restore.log'));raw.unlink()
+   else:raw.replace(dest)
+   return dest
+  location=plan.get('scene_sources',{}).get(a['scene']);name=location['name'] if location else 'zeitpfeil-'+a['scene'];found=None
   for attempt in range(160):
-   for run in plan['three_d_runs']:
+   for run in ([location['run']] if location else plan['three_d_runs']):
     d=get_json(f'repos/{repo}/actions/runs/{run}/artifacts')
     found=next((x for x in d['artifacts'] if x['name']==name),None)
     if found:break
@@ -48,7 +56,7 @@ def prepare(plan,shots):
   if candidate is None:
    print('Recovering incomplete 3D render locally on this worker:',name,flush=True)
    subprocess.run(['sudo','apt-get','install','-y','-qq','blender'],check=True)
-   fast=R/'make3d_fast.py';fast.write_text((R/'make3d.py').read_text().replace('s.cycles.samples=8','s.cycles.samples=4').replace('s.cycles.use_denoising=True','s.cycles.use_denoising=False'))
+   fast=R/'make3d_recovery.py'
    command(['blender','-b','-t','2','-P',str(fast),'--',a['scene']],R/'logs'/(name+'-recovery.log'))
    command(['ffmpeg','-y','-v','warning','-framerate','25/2','-i',str(R/'3d'/a['scene']/'frame_%04d.jpg'),'-vf','framerate=fps=25','-t','7.84','-an','-c:v','libx264','-preset','veryfast','-crf','17','-threads','2','-filter_threads','2','-pix_fmt','yuv420p',str(dest)],R/'logs'/(name+'-recovery-encode.log'));return dest
   shutil.copy(candidate,dest);archive.unlink();return dest
@@ -81,7 +89,7 @@ def render(plan,shots,assets,output,jobs):
     z=s['zoom'];w=round(1920*z/2)*2;h=round(1080*z/2)*2;vf += [f'scale={w}:{h}:flags=lanczos','crop=1920:1080']
    vf += [f'fps={fps}']
   vf+=['setsar=1','eq=contrast=1.015:saturation=1.02']
-  if a.get('kind')=='original3d':vf.append('hqdn3d=1.2:1:2:1.5')
+  if a.get('kind')=='original3d':vf.append('hqdn3d=2:1.5:3:2')
   if s['fade_in']:vf.append(f"fade=t=in:st=0:d={s['fade_in']}")
   if s['fade_out']:vf.append(f"fade=t=out:st={max(0,duration-s['fade_out'])}:d={s['fade_out']}")
   for j,l in enumerate(s.get('labels',[])):
