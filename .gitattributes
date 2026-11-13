@@ -37,3 +37,5 @@ video-studio/episodes/006-india-pakistan/output/project_source_v1.zip filter=lfs
 
 video-studio/episodes/007-france-uk/output/final_video_v1.mp4 filter=lfs diff=lfs merge=lfs -text
 video-studio/episodes/007-france-uk/output/project_source_v1.zip filter=lfs diff=lfs merge=lfs -text
+video-studio/episodes/008-japan-china/output/final_video_v1.mp4 filter=lfs diff=lfs merge=lfs -text
+video-studio/episodes/008-japan-china/output/project_source_v1.zip filter=lfs diff=lfs merge=lfs -text
