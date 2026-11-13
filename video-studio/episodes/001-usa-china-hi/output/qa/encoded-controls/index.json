@@ -1,0 +1,1007 @@
+{
+  "scope": "Sampled encoded controls; one reference frame for every scene. Final assembly copies these encoded streams. Static-frame and native-bank motion checks are separate. Continuous human watch/listen not performed.",
+  "frames": [
+    {
+      "scene": "hi-000",
+      "global_start": 0.0,
+      "local_sample": 1.1733333333333333,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-001",
+      "global_start": 2.1333333333333333,
+      "local_sample": 1.3933333333333335,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-002",
+      "global_start": 4.666666666666667,
+      "local_sample": 1.5949999999999998,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-003",
+      "global_start": 7.566666666666666,
+      "local_sample": 1.6316666666666668,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-004",
+      "global_start": 10.533333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-005",
+      "global_start": 21.066666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-006",
+      "global_start": 31.733333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-007",
+      "global_start": 38.36666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-008",
+      "global_start": 43.6,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-009",
+      "global_start": 48.1,
+      "local_sample": 0.8800000000000009,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-010",
+      "global_start": 49.7,
+      "local_sample": 0.9166666666666654,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-011",
+      "global_start": 51.36666666666667,
+      "local_sample": 0.5683333333333324,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-012",
+      "global_start": 52.4,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-013",
+      "global_start": 60.13333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-014",
+      "global_start": 68.26666666666667,
+      "local_sample": 0.7333333333333308,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-015",
+      "global_start": 69.6,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-016",
+      "global_start": 79.5,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-017",
+      "global_start": 83.56666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-018",
+      "global_start": 91.86666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-019",
+      "global_start": 98.53333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-020",
+      "global_start": 106.43333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-021",
+      "global_start": 114.1,
+      "local_sample": 1.7,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-022",
+      "global_start": 118.66666666666667,
+      "local_sample": 1.2649999999999986,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-023",
+      "global_start": 120.96666666666667,
+      "local_sample": 0.8066666666666678,
+      "sheet": "encoded-00.jpg"
+    },
+    {
+      "scene": "hi-024",
+      "global_start": 122.43333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-025",
+      "global_start": 126.76666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-026",
+      "global_start": 133.83333333333334,
+      "local_sample": 1.283333333333323,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-027",
+      "global_start": 136.16666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-028",
+      "global_start": 141.23333333333332,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-029",
+      "global_start": 147.1,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-030",
+      "global_start": 152.76666666666668,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-031",
+      "global_start": 158.86666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-032",
+      "global_start": 164.33333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-033",
+      "global_start": 172.16666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-034",
+      "global_start": 177.66666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-035",
+      "global_start": 199.16666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-036",
+      "global_start": 206.53333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-037",
+      "global_start": 212.5,
+      "local_sample": 1.5583333333333387,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-038",
+      "global_start": 215.33333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-039",
+      "global_start": 223.33333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-040",
+      "global_start": 227.93333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-041",
+      "global_start": 237.73333333333332,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-042",
+      "global_start": 244.8,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-043",
+      "global_start": 250.73333333333332,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-044",
+      "global_start": 267.0,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-045",
+      "global_start": 278.06666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-046",
+      "global_start": 285.46666666666664,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-047",
+      "global_start": 296.5,
+      "local_sample": 1.7,
+      "sheet": "encoded-01.jpg"
+    },
+    {
+      "scene": "hi-048",
+      "global_start": 302.6333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-049",
+      "global_start": 324.8,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-050",
+      "global_start": 334.23333333333335,
+      "local_sample": 1.3933333333333169,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-051",
+      "global_start": 336.76666666666665,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-052",
+      "global_start": 343.4,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-053",
+      "global_start": 346.6666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-054",
+      "global_start": 351.3,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-055",
+      "global_start": 357.4,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-056",
+      "global_start": 364.76666666666665,
+      "local_sample": 1.6133333333333355,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-057",
+      "global_start": 367.7,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-058",
+      "global_start": 377.3,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-059",
+      "global_start": 382.6333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-060",
+      "global_start": 401.03333333333336,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-061",
+      "global_start": 409.6666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-062",
+      "global_start": 414.1333333333333,
+      "local_sample": 1.3566666666666833,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-063",
+      "global_start": 416.6,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-064",
+      "global_start": 422.8666666666667,
+      "local_sample": 0.9533333333333417,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-065",
+      "global_start": 424.6,
+      "local_sample": 1.008333333333323,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-066",
+      "global_start": 426.43333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-067",
+      "global_start": 432.6666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-068",
+      "global_start": 436.1666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-069",
+      "global_start": 450.6666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-070",
+      "global_start": 456.1,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-071",
+      "global_start": 463.4,
+      "local_sample": 1.7,
+      "sheet": "encoded-02.jpg"
+    },
+    {
+      "scene": "hi-072",
+      "global_start": 467.5,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-073",
+      "global_start": 475.1666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-074",
+      "global_start": 478.3,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-075",
+      "global_start": 485.76666666666665,
+      "local_sample": 1.4849999999999939,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-076",
+      "global_start": 488.46666666666664,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-077",
+      "global_start": 502.96666666666664,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-078",
+      "global_start": 516.3666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-079",
+      "global_start": 525.4666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-080",
+      "global_start": 533.5333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-081",
+      "global_start": 537.8666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-082",
+      "global_start": 544.8666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-083",
+      "global_start": 561.4666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-084",
+      "global_start": 572.7666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-085",
+      "global_start": 579.9,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-086",
+      "global_start": 583.7666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-087",
+      "global_start": 588.3333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-088",
+      "global_start": 596.8666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-089",
+      "global_start": 604.8,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-090",
+      "global_start": 611.2,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-091",
+      "global_start": 619.0,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-092",
+      "global_start": 622.1333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-093",
+      "global_start": 627.6333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-094",
+      "global_start": 631.5666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-095",
+      "global_start": 639.7,
+      "local_sample": 1.7,
+      "sheet": "encoded-03.jpg"
+    },
+    {
+      "scene": "hi-096",
+      "global_start": 645.3666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-097",
+      "global_start": 651.6666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-098",
+      "global_start": 658.5333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-099",
+      "global_start": 664.7666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-100",
+      "global_start": 674.2,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-101",
+      "global_start": 684.4333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-102",
+      "global_start": 689.2333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-103",
+      "global_start": 695.7,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-104",
+      "global_start": 701.9333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-105",
+      "global_start": 706.4,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-106",
+      "global_start": 712.9,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-107",
+      "global_start": 717.8333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-108",
+      "global_start": 723.2666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-109",
+      "global_start": 729.4,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-110",
+      "global_start": 737.8333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-111",
+      "global_start": 741.5333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-112",
+      "global_start": 751.9,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-113",
+      "global_start": 756.0666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-114",
+      "global_start": 763.0333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-115",
+      "global_start": 779.7666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-116",
+      "global_start": 788.2666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-117",
+      "global_start": 797.7666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-118",
+      "global_start": 803.9,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-119",
+      "global_start": 811.9666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-04.jpg"
+    },
+    {
+      "scene": "hi-120",
+      "global_start": 817.3666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-121",
+      "global_start": 823.8666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-122",
+      "global_start": 831.1666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-123",
+      "global_start": 836.6333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-124",
+      "global_start": 845.3,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-125",
+      "global_start": 851.1666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-126",
+      "global_start": 861.8,
+      "local_sample": 1.5950000000000502,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-127",
+      "global_start": 864.7,
+      "local_sample": 1.2099999999999627,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-128",
+      "global_start": 866.9,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-129",
+      "global_start": 871.3666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-130",
+      "global_start": 874.7333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-131",
+      "global_start": 883.1,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-132",
+      "global_start": 894.8333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-133",
+      "global_start": 905.1333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-134",
+      "global_start": 913.3,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-135",
+      "global_start": 916.6,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-136",
+      "global_start": 919.9,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-137",
+      "global_start": 927.4,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-138",
+      "global_start": 930.7,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-139",
+      "global_start": 937.5333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-140",
+      "global_start": 946.2666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-141",
+      "global_start": 955.7,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-142",
+      "global_start": 963.4666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-143",
+      "global_start": 971.6666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-05.jpg"
+    },
+    {
+      "scene": "hi-144",
+      "global_start": 979.6,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-145",
+      "global_start": 988.5666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-146",
+      "global_start": 996.5333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-147",
+      "global_start": 1002.1,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-148",
+      "global_start": 1010.1666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-149",
+      "global_start": 1016.8333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-150",
+      "global_start": 1024.9666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-151",
+      "global_start": 1031.1333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-152",
+      "global_start": 1038.8666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-153",
+      "global_start": 1046.4,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-154",
+      "global_start": 1055.1666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-155",
+      "global_start": 1066.3666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-156",
+      "global_start": 1076.6333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-157",
+      "global_start": 1090.7666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-158",
+      "global_start": 1094.8666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-159",
+      "global_start": 1102.5333333333333,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-160",
+      "global_start": 1113.6333333333334,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-161",
+      "global_start": 1121.4666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-162",
+      "global_start": 1128.2,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-163",
+      "global_start": 1132.3666666666666,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-164",
+      "global_start": 1138.7666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-165",
+      "global_start": 1146.6666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    },
+    {
+      "scene": "hi-166",
+      "global_start": 1155.9666666666667,
+      "local_sample": 1.7,
+      "sheet": "encoded-06.jpg"
+    }
+  ]
+}

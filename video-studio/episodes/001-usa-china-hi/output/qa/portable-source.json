@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "source_zip_crc": "passed",
+  "fresh_unpack": "all actual files; no symlinks or dependency on original episode folder",
+  "build_episode_byte_identical": true,
+  "original_input_hashes": "passed",
+  "sample_kinds": [
+    "footage",
+    "kit",
+    "compare",
+    "studio-native3d",
+    "diagram",
+    "section",
+    "studio-photo",
+    "outro",
+    "studio-photo-fact",
+    "studio-photo-icc"
+  ],
+  "sample_dimensions": [
+    1920,
+    1080
+  ],
+  "sample_fps": 30,
+  "sample_frames": 450,
+  "sample_full_decode": "passed",
+  "sample_sha256": "839bc7ed3335456d9dd0197336da1ebd0f8cdb92a36e3d8311b93e2aff48e902",
+  "production_renderer_sha256": "7a25951ae90a0c266182638cf66dd34b38e190168214867a06268c9fa5f800a8",
+  "production_episode_sha256": "1350a77014ac91263d25f37c36d43ebd3e2e2feb10f64f8a41f86418ab5bf864",
+  "scope": "Fresh extraction of all prepared media and runtime. Model variants, real photo variant, ICC-tagged photo and photographic fact overlay all rendered. Final bundle subsequently adds completed QA reports only."
+}

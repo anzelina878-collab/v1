@@ -27,3 +27,13 @@ technical reference material. Use `--allow-placeholders` for drafts only.
 
 Check changes with `python -m unittest discover -s tests -v`. Also render a short
 sample when changing scene composition, media decoding, or encoding.
+
+## Hindi editions: ARSENAL 360 / शस्त्र 360
+
+For Hindi packaging and localization, read `HINDI_METADATA_GUIDE.md` and
+`HINDI_METADATA_EXAMPLES.json`. The user approved a separate Hindi channel and
+separate language editions while continuing Ukrainian releases. Preserve the
+approved visual style and Ukrainian originals. Start an adaptation only on the
+user's command with their Hindi text/voiceover. Match metadata to actual content;
+proposed tags are not verified competitor Studio tags. Preparing metadata does
+not itself publish or modify finished films.

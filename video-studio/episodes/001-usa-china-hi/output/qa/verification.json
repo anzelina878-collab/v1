@@ -1,0 +1,444 @@
+{
+  "status": "passed",
+  "scene_count": 167,
+  "original_scene_coverage": 180,
+  "duration": 1166.3333333333333,
+  "frames": 34990,
+  "first_90_seconds_shots": 18,
+  "exact_inputs_sha256": "passed",
+  "visible_editorial_text_no_cyrillic": "passed",
+  "all_referenced_media_present": "passed",
+  "real_archive_moving_seconds": 469.0,
+  "archive_licensed_still_tail_seconds": 58.267,
+  "source_archive_windows": "Original episode #1 selections preserved at normal speed; no additional archive replay introduced. Original #1 is not subject to later episodes spacing rule.",
+  "native_3d_seconds": 61.067,
+  "rotation_seconds_per_revolution": 24,
+  "continuous_human_watch_and_listen": "not performed; discrete semantic, storyboard, encoded-control and technical checks are separate",
+  "full_video_and_audio_decode": "passed",
+  "audio_waveform_correlation_zero_lag": 0.9999119612321402,
+  "locked_photos_and_settled_cards": [
+    {
+      "scene": "hi-006",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-007",
+      "settled_frame_mae": 3.472222222222222e-05,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-012",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-013",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-016",
+      "settled_frame_mae": 0.0007754629629629629,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-028",
+      "settled_frame_mae": 0.0010590277777777779,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-029",
+      "settled_frame_mae": 0.001574074074074074,
+      "intentional_fact_overlay_masked": true
+    },
+    {
+      "scene": "hi-030",
+      "settled_frame_mae": 0.0004861111111111111,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-032",
+      "settled_frame_mae": 5.787037037037037e-05,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-033",
+      "settled_frame_mae": 0.0007696759259259259,
+      "intentional_fact_overlay_masked": true
+    },
+    {
+      "scene": "hi-034",
+      "settled_frame_mae": 0.18756944444444446,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-035",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-036",
+      "settled_frame_mae": 8.680555555555556e-05,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-038",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": true
+    },
+    {
+      "scene": "hi-039",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-040",
+      "settled_frame_mae": 0.03343171296296296,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-043",
+      "settled_frame_mae": 0.023998842592592592,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-044",
+      "settled_frame_mae": 0.2204224537037037,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-045",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-046",
+      "settled_frame_mae": 0.13964699074074075,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-047",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-048",
+      "settled_frame_mae": 0.03935185185185185,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-055",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-057",
+      "settled_frame_mae": 0.19568287037037038,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-058",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-059",
+      "settled_frame_mae": 0.03215856481481481,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-066",
+      "settled_frame_mae": 0.0005729166666666667,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-068",
+      "settled_frame_mae": 0.1711747685185185,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-074",
+      "settled_frame_mae": 0.0002314814814814815,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-076",
+      "settled_frame_mae": 0.16793981481481482,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-077",
+      "settled_frame_mae": 0.053738425925925926,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-078",
+      "settled_frame_mae": 0.12410300925925925,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-079",
+      "settled_frame_mae": 9.259259259259259e-05,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-080",
+      "settled_frame_mae": 0.0001273148148148148,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-081",
+      "settled_frame_mae": 0.0001273148148148148,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-082",
+      "settled_frame_mae": 0.04255208333333333,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-083",
+      "settled_frame_mae": 0.14650462962962962,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-084",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-092",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-099",
+      "settled_frame_mae": 0.02554398148148148,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-106",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-114",
+      "settled_frame_mae": 0.04677662037037037,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-116",
+      "settled_frame_mae": 0.2261400462962963,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-117",
+      "settled_frame_mae": 0.0002951388888888889,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-118",
+      "settled_frame_mae": 0.0002951388888888889,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-122",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-123",
+      "settled_frame_mae": 0.04101273148148148,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-128",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-130",
+      "settled_frame_mae": 8.680555555555556e-05,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-132",
+      "settled_frame_mae": 0.02517939814814815,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-136",
+      "settled_frame_mae": 0.00011574074074074075,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-138",
+      "settled_frame_mae": 0.00015625,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-139",
+      "settled_frame_mae": 0.3065625,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-145",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-154",
+      "settled_frame_mae": 0.035787037037037034,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-156",
+      "settled_frame_mae": 0.21391203703703704,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-157",
+      "settled_frame_mae": 0.0001099537037037037,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-160",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-161",
+      "settled_frame_mae": 0.0,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-165",
+      "settled_frame_mae": 0.040729166666666664,
+      "intentional_fact_overlay_masked": false
+    },
+    {
+      "scene": "hi-166",
+      "settled_frame_mae": 0.0378125,
+      "intentional_fact_overlay_masked": false
+    }
+  ],
+  "sha256": "b4cec74a7c9fd4dd9b59f2b2bf2e65f47440986b2563d78e0c07a28654ca53d8",
+  "bytes": 264839002,
+  "video_stream": {
+    "index": 0,
+    "codec_name": "h264",
+    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+    "profile": "High",
+    "codec_type": "video",
+    "codec_tag_string": "avc1",
+    "codec_tag": "0x31637661",
+    "width": 1920,
+    "height": 1080,
+    "coded_width": 1920,
+    "coded_height": 1080,
+    "closed_captions": 0,
+    "film_grain": 0,
+    "has_b_frames": 2,
+    "sample_aspect_ratio": "1:1",
+    "display_aspect_ratio": "16:9",
+    "pix_fmt": "yuv420p",
+    "level": 40,
+    "chroma_location": "left",
+    "field_order": "progressive",
+    "refs": 1,
+    "is_avc": "true",
+    "nal_length_size": "4",
+    "id": "0x1",
+    "r_frame_rate": "30/1",
+    "avg_frame_rate": "30/1",
+    "time_base": "1/15360",
+    "start_pts": 0,
+    "start_time": "0.000000",
+    "duration_ts": 17914880,
+    "duration": "1166.333333",
+    "bit_rate": "1615509",
+    "bits_per_raw_sample": "8",
+    "nb_frames": "34990",
+    "extradata_size": 47,
+    "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+    },
+    "tags": {
+      "language": "und",
+      "handler_name": "VideoHandler",
+      "vendor_id": "[0][0][0][0]",
+      "encoder": "Lavc61.19.101 libx264"
+    }
+  },
+  "audio_stream": {
+    "index": 1,
+    "codec_name": "aac",
+    "codec_long_name": "AAC (Advanced Audio Coding)",
+    "profile": "LC",
+    "codec_type": "audio",
+    "codec_tag_string": "mp4a",
+    "codec_tag": "0x6134706d",
+    "sample_fmt": "fltp",
+    "sample_rate": "48000",
+    "channels": 2,
+    "channel_layout": "stereo",
+    "bits_per_sample": 0,
+    "initial_padding": 0,
+    "id": "0x2",
+    "r_frame_rate": "0/0",
+    "avg_frame_rate": "0/0",
+    "time_base": "1/48000",
+    "start_pts": 0,
+    "start_time": "0.000000",
+    "duration_ts": 55983984,
+    "duration": "1166.333000",
+    "bit_rate": "192235",
+    "nb_frames": "54673",
+    "extradata_size": 5,
+    "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+    },
+    "tags": {
+      "language": "und",
+      "handler_name": "SoundHandler",
+      "vendor_id": "[0][0][0][0]"
+    }
+  }
+}

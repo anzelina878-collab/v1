@@ -1,0 +1,1662 @@
+[
+  {
+    "id": "source-002",
+    "video": "assets/archive/source-002.mp4",
+    "duration": 7.366666666666666,
+    "source_key": "us-m17-m4",
+    "source_in": 500,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "ed54ddd4304089ce4adf7559164d5f83c2a577b0ac4868834b89c7ddefff0478",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-003",
+    "video": "assets/archive/source-003.mp4",
+    "duration": 7.8,
+    "source_key": "cn-equipment",
+    "source_in": 20,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "b61475ee7a472b58c90b0f7e544c066d6edfbcfd1cb3f56852631ace5b209719",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-007",
+    "video": "assets/archive/source-007.mp4",
+    "duration": 1.6,
+    "source_key": "us-envg",
+    "source_in": 12,
+    "country": "US",
+    "source": {
+      "local_file": "us-envg.mp4",
+      "page_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "creator": "Angelo Mejia, U.S. Army",
+      "date": "2020-11-05",
+      "credit": "DVIDS · Angelo Mejia · 2020",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "4c7d3661038bab22e3f3c49f56be0fc341f127539e417e1ef9725579e1f9a373",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108059264/DOD_108059264-1024x576-1769k.mp4"
+    },
+    "fingerprint": "299b2f607c3de3e55809903ed0bf04ffee185b72400898ff1e62dac48312e9c3",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-008",
+    "video": "assets/archive/source-008.mp4",
+    "duration": 1.6666666666666667,
+    "source_key": "us-drone",
+    "source_in": 133,
+    "country": "US",
+    "source": {
+      "local_file": "us-drone.mp4",
+      "page_url": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "creator": "SSG Margaret Gabriel",
+      "date": "2021",
+      "credit": "DVIDS · Margaret Gabriel · 2021",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "6b97c051d3cda2bb846e529f458f70a1dc367a7c046a94498c251e641be14a45",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108383616/DOD_108383616-1024x576-1769k.mp4"
+    },
+    "fingerprint": "25f83f31c19110d9c969c6b9d93ad6b4dde11339391c2c139f4893d799334deb",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-009",
+    "video": "assets/archive/source-009.mp4",
+    "duration": 1.0333333333333334,
+    "source_key": "us-mre",
+    "source_in": 6,
+    "country": "US",
+    "source": {
+      "local_file": "us-mre.mp4",
+      "page_url": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "creator": "Christopher Coyer, U.S. Army Training Support Center",
+      "date": "2023-05-17",
+      "credit": "DVIDS · Christopher Coyer · 2023",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "8ad0273eb1cf78a7a1a02e0a9beaa284bf0cd0e6576aed5ba78a0852abed821d",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109722820/DOD_109722820.mp4"
+    },
+    "fingerprint": "6b6876a8ff84a05c273ec7a30490a5746fc9cce23838c74453b01b7f5b2f702c",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-017",
+    "video": "assets/archive/source-017.mp4",
+    "duration": 6.566666666666666,
+    "source_key": "ngsw",
+    "source_in": 2,
+    "country": "US",
+    "source": {
+      "local_file": "ngsw-archive.mp4",
+      "page_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "creator": "Joshua Joyner, 101st Airborne Division",
+      "date": "2024-04-15",
+      "credit": "DVIDS · Joshua Joyner · 2024",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "3704a18a354166559a101fd84bb1b3de6375f3fcb8bbe5ef9741df976a996d66",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110242923/DOD_110242923.mp4"
+    },
+    "fingerprint": "00a88f5d4157d28951ef337be61777eae774cfebce73f8c0bc8f7af38e16d01d",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-018",
+    "video": "assets/archive/source-018.mp4",
+    "duration": 6.366666666666666,
+    "source_key": "ngsw",
+    "source_in": 10,
+    "country": "US",
+    "source": {
+      "local_file": "ngsw-archive.mp4",
+      "page_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "creator": "Joshua Joyner, 101st Airborne Division",
+      "date": "2024-04-15",
+      "credit": "DVIDS · Joshua Joyner · 2024",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "3704a18a354166559a101fd84bb1b3de6375f3fcb8bbe5ef9741df976a996d66",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110242923/DOD_110242923.mp4"
+    },
+    "fingerprint": "7881e647effe68f6d93f14282ad0db3c7d83168420773da80110e839366a1e06",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-019",
+    "video": "assets/archive/source-019.mp4",
+    "duration": 4.0,
+    "source_key": "ngsw",
+    "source_in": 16,
+    "country": "US",
+    "source": {
+      "local_file": "ngsw-archive.mp4",
+      "page_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "creator": "Joshua Joyner, 101st Airborne Division",
+      "date": "2024-04-15",
+      "credit": "DVIDS · Joshua Joyner · 2024",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "3704a18a354166559a101fd84bb1b3de6375f3fcb8bbe5ef9741df976a996d66",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110242923/DOD_110242923.mp4"
+    },
+    "fingerprint": "9c4c4f3290dabe9b88f95ffd34c3c018548e225ce66ad034bedefccdd5ab9a3f",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-020",
+    "video": "assets/archive/source-020.mp4",
+    "duration": 2.2,
+    "source_key": "ngsw",
+    "source_in": 20,
+    "country": "US",
+    "source": {
+      "local_file": "ngsw-archive.mp4",
+      "page_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "creator": "Joshua Joyner, 101st Airborne Division",
+      "date": "2024-04-15",
+      "credit": "DVIDS · Joshua Joyner · 2024",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "3704a18a354166559a101fd84bb1b3de6375f3fcb8bbe5ef9741df976a996d66",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110242923/DOD_110242923.mp4"
+    },
+    "fingerprint": "a92000c0f56991fbea72b0c05599cead16cfc40d17f2cbd16a829d50ec7be75a",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-023",
+    "video": "assets/archive/source-023.mp4",
+    "duration": 7.366666666666666,
+    "source_key": "ngsw",
+    "source_in": 8,
+    "country": "US",
+    "source": {
+      "local_file": "ngsw-archive.mp4",
+      "page_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "creator": "Joshua Joyner, 101st Airborne Division",
+      "date": "2024-04-15",
+      "credit": "DVIDS · Joshua Joyner · 2024",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "3704a18a354166559a101fd84bb1b3de6375f3fcb8bbe5ef9741df976a996d66",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110242923/DOD_110242923.mp4"
+    },
+    "fingerprint": "0f7c29bf370171c021cf5bf0e26f28311f417228ebcdfd7b0f2523a564cf7b4f",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-025",
+    "video": "assets/archive/source-025.mp4",
+    "duration": 4.7,
+    "source_key": "cn-equipment",
+    "source_in": 22,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "01640b548a159bb9a31b9bd56214a95294ad71bbd3d9947e98124791a54d8b50",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-029",
+    "video": "assets/archive/source-029.mp4",
+    "duration": 6.3,
+    "source_key": "cn-equipment",
+    "source_in": 14,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "40bb9f447109eae9ce1427b3825e7e2781e2678bda7d7ed3071468ec9ea7d303",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-041",
+    "video": "assets/archive/source-041.mp4",
+    "duration": 6.666666666666667,
+    "source_key": "cn-equipment",
+    "source_in": 8,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "609a155cbfd70492c7f95b45bcd80d6b4bdc274d8c1dc5644d6e02fe330d7b32",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-042",
+    "video": "assets/archive/source-042.mp4",
+    "duration": 6.866666666666666,
+    "source_key": "cn-equipment",
+    "source_in": 29,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "0414f90c8d3b4529f9a20d7b0e5bb6ed0b7bae2c2c3e1f2047e5d8eebf2a214f",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-056",
+    "video": "assets/archive/source-056.mp4",
+    "duration": 4.0,
+    "source_key": "ngsw",
+    "source_in": 88,
+    "country": "US",
+    "source": {
+      "local_file": "ngsw-archive.mp4",
+      "page_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "creator": "Joshua Joyner, 101st Airborne Division",
+      "date": "2024-04-15",
+      "credit": "DVIDS · Joshua Joyner · 2024",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "3704a18a354166559a101fd84bb1b3de6375f3fcb8bbe5ef9741df976a996d66",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110242923/DOD_110242923.mp4"
+    },
+    "fingerprint": "d7f7c01828826318d9ddbc243bf7d194701a8dc229b038ee47399627608614e4",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-057",
+    "video": "assets/archive/source-057.mp4",
+    "duration": 5.1,
+    "source_key": "ngsw",
+    "source_in": 92,
+    "country": "US",
+    "source": {
+      "local_file": "ngsw-archive.mp4",
+      "page_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "creator": "Joshua Joyner, 101st Airborne Division",
+      "date": "2024-04-15",
+      "credit": "DVIDS · Joshua Joyner · 2024",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "3704a18a354166559a101fd84bb1b3de6375f3fcb8bbe5ef9741df976a996d66",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110242923/DOD_110242923.mp4"
+    },
+    "fingerprint": "fd602f18e0cae7b36db646acae4faa5eb0bf69e7d5cf7e6588dbac0003f41351",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-065",
+    "video": "assets/archive/source-065.mp4",
+    "duration": 7.166666666666667,
+    "source_key": "us-m17-m4",
+    "source_in": 910,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "4ce172a2c968967cc13c6d83e99c1113eeaff1b199eeede706353e31efd67350",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-066",
+    "video": "assets/archive/source-066.mp4",
+    "duration": 4.633333333333334,
+    "source_key": "us-m17-m4",
+    "source_in": 918,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "38ad4065c58116a963702af0b41aa2ef778a5ed996ed195eae3bd97119510b85",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-067",
+    "video": "assets/archive/source-067.mp4",
+    "duration": 4.166666666666667,
+    "source_key": "us-m17-m4",
+    "source_in": 927,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "26f73ce880ec05e2907869895d01b8b314774ddc709dada5f0cb2588ee9f72eb",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-068",
+    "video": "assets/archive/source-068.mp4",
+    "duration": 7.1,
+    "source_key": "us-m17-m4",
+    "source_in": 940,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "8af007ce1d7f71a92b526dc63d87cfee3164c0ba3b64bfa48d69b1d4db01e3e6",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-075",
+    "video": "assets/archive/source-075.mp4",
+    "duration": 4.733333333333333,
+    "source_key": "us-m110",
+    "source_in": 37,
+    "country": "US",
+    "source": {
+      "local_file": "us-m110.mp4",
+      "page_url": "https://www.dvidshub.net/video/929446/m110a1-squad-designated-marksmanship-rifle-range-day-b-roll",
+      "creator": "Delanie Brown, 48th Fighter Wing",
+      "date": "2024-06-28",
+      "credit": "DVIDS · Delanie Brown / USAF · 2024",
+      "rights_basis": "U.S. government public domain footage; illustrates the named M110A1, not the branch affiliation of the personnel",
+      "sha256": "55ae5980310dece951b4f5fa33d88685378cd8999db178cd9851cf24ba3db1ae",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2407/DOD_110419343/DOD_110419343.mp4"
+    },
+    "fingerprint": "b020cbd4f7b35949b1d5ac1c405f97ee4779e6cba8dc62510ccecdcae43b6e9e",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-076",
+    "video": "assets/archive/source-076.mp4",
+    "duration": 5.433333333333334,
+    "source_key": "us-m110",
+    "source_in": 45,
+    "country": "US",
+    "source": {
+      "local_file": "us-m110.mp4",
+      "page_url": "https://www.dvidshub.net/video/929446/m110a1-squad-designated-marksmanship-rifle-range-day-b-roll",
+      "creator": "Delanie Brown, 48th Fighter Wing",
+      "date": "2024-06-28",
+      "credit": "DVIDS · Delanie Brown / USAF · 2024",
+      "rights_basis": "U.S. government public domain footage; illustrates the named M110A1, not the branch affiliation of the personnel",
+      "sha256": "55ae5980310dece951b4f5fa33d88685378cd8999db178cd9851cf24ba3db1ae",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2407/DOD_110419343/DOD_110419343.mp4"
+    },
+    "fingerprint": "ee45550783374b765af8b9855dafa4bc2537e6c6aa864094a006547dfe5aef46",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-077",
+    "video": "assets/archive/source-077.mp4",
+    "duration": 3.2333333333333334,
+    "source_key": "us-m110",
+    "source_in": 117,
+    "country": "US",
+    "source": {
+      "local_file": "us-m110.mp4",
+      "page_url": "https://www.dvidshub.net/video/929446/m110a1-squad-designated-marksmanship-rifle-range-day-b-roll",
+      "creator": "Delanie Brown, 48th Fighter Wing",
+      "date": "2024-06-28",
+      "credit": "DVIDS · Delanie Brown / USAF · 2024",
+      "rights_basis": "U.S. government public domain footage; illustrates the named M110A1, not the branch affiliation of the personnel",
+      "sha256": "55ae5980310dece951b4f5fa33d88685378cd8999db178cd9851cf24ba3db1ae",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2407/DOD_110419343/DOD_110419343.mp4"
+    },
+    "fingerprint": "50a0d071033ef2a3ea6233201c92aa3f745ee342d0937257c13e03f357e1b6fd",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-078",
+    "video": "assets/archive/source-078.mp4",
+    "duration": 7.033333333333333,
+    "source_key": "us-m110",
+    "source_in": 54,
+    "country": "US",
+    "source": {
+      "local_file": "us-m110.mp4",
+      "page_url": "https://www.dvidshub.net/video/929446/m110a1-squad-designated-marksmanship-rifle-range-day-b-roll",
+      "creator": "Delanie Brown, 48th Fighter Wing",
+      "date": "2024-06-28",
+      "credit": "DVIDS · Delanie Brown / USAF · 2024",
+      "rights_basis": "U.S. government public domain footage; illustrates the named M110A1, not the branch affiliation of the personnel",
+      "sha256": "55ae5980310dece951b4f5fa33d88685378cd8999db178cd9851cf24ba3db1ae",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2407/DOD_110419343/DOD_110419343.mp4"
+    },
+    "fingerprint": "3d22200fa7e9364424a5d3a71d2d85373bf5c42ff4c2b4997f91e60994567c8d",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-094",
+    "video": "assets/archive/source-094.mp4",
+    "duration": 5.133333333333334,
+    "source_key": "us-ihps-msv",
+    "source_in": 221,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "cd105d37e70ad6c538153988675eb141d78b19fa818ba8f615040fb595b71cfc",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-095",
+    "video": "assets/archive/source-095.mp4",
+    "duration": 6.266666666666667,
+    "source_key": "us-ihps-msv",
+    "source_in": 232,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "7abe2301372a24736dbb2b78e72cb70271700786e67fbf8b737a498ba95abfbb",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-096",
+    "video": "assets/archive/source-096.mp4",
+    "duration": 9.4,
+    "source_key": "us-ihps-msv",
+    "source_in": 242,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "9b4cdfafb15b0a5e76889b0b14786fdffb8cb611f5b53c2f93efdab971a036a2",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-097",
+    "video": "assets/archive/source-097.mp4",
+    "duration": 8.6,
+    "source_key": "cn-equipment",
+    "source_in": 8,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "33242b68bdd026d0a483edb9bd1e1b4e6ac0601682dc51657ba5e6f14282cb17",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-098",
+    "video": "assets/archive/source-098.mp4",
+    "duration": 7.133333333333334,
+    "source_key": "us-ihps-msv",
+    "source_in": 27,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "bf0e5f7f0e0605b47a83e239ebd89525cde88dbaf8e759b08c2f2f67331daca3",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-099",
+    "video": "assets/archive/source-099.mp4",
+    "duration": 7.6,
+    "source_key": "us-ihps-msv",
+    "source_in": 38,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "bc158113d76b03ea636f52b999cabf7f9f42f445aba336ff726d568faedee635",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-100",
+    "video": "assets/archive/source-100.mp4",
+    "duration": 5.333333333333333,
+    "source_key": "cn-equipment",
+    "source_in": 13,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "246f8afcdeb5a7a3043da494964e0bbbba0c37797a150d964538635232d89fbb",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-102",
+    "video": "assets/archive/source-102.mp4",
+    "duration": 3.966666666666667,
+    "source_key": "us-ihps-msv",
+    "source_in": 190,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "93e901cae312558fdd2c243568a7434a25495b97a81c64748a328a7c3a34300d",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-103",
+    "video": "assets/archive/source-103.mp4",
+    "duration": 8.0,
+    "source_key": "us-ihps-msv",
+    "source_in": 198,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "edc5a10cdcdadc37fc502d8d2650390ea885f2dd71c870a94eebe350476eca77",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-104",
+    "video": "assets/archive/source-104.mp4",
+    "duration": 5.3,
+    "source_key": "us-ihps-msv",
+    "source_in": 47,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "d68b78aaec2f301fc748dac339694573597e7cfd48b96df557f0bf00e3ce12ff",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-105",
+    "video": "assets/archive/source-105.mp4",
+    "duration": 6.133333333333334,
+    "source_key": "us-ihps-msv",
+    "source_in": 98,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "5569ad7f28d6e253a21c8a1240e270be42c2357d28e5c1be4b3bce9873d1acc2",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-106",
+    "video": "assets/archive/source-106.mp4",
+    "duration": 5.266666666666667,
+    "source_key": "us-m17-m4",
+    "source_in": 510,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "4a45e87476e8ae04fcd4381e172ba16e278eb079cc3d1f0a0afae111ad4adc41",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-107",
+    "video": "assets/archive/source-107.mp4",
+    "duration": 5.333333333333333,
+    "source_key": "us-m17-m4",
+    "source_in": 518,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "204d7373aacfd2509dbde1775e611977538fa102d0c219f328680e9a31afbaef",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-109",
+    "video": "assets/archive/source-109.mp4",
+    "duration": 8.566666666666666,
+    "source_key": "us-m17-m4",
+    "source_in": 529,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "0a15f8e4378ddcb4ab103abcb556b8fc5016bd4551e3bb84347b6add388444ea",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-110",
+    "video": "assets/archive/source-110.mp4",
+    "duration": 5.4,
+    "source_key": "us-ihps-msv",
+    "source_in": 109,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "e61967d2b49d0c1317e6758593608b9cb23d9cb166a4335dc421791d7d32aec8",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-111",
+    "video": "assets/archive/source-111.mp4",
+    "duration": 6.233333333333333,
+    "source_key": "cn-equipment",
+    "source_in": 19,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "f745a0c63fbfbb36f184ef9114f0035077877c5a5084ef77d56b1465b479f834",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-112",
+    "video": "assets/archive/source-112.mp4",
+    "duration": 5.933333333333334,
+    "source_key": "us-m17-m4",
+    "source_in": 548,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "d003cadb6c280891d3d8d9e2c7c36b7bed6b8c28fe0ccef9f3c47f1c33dfe952",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-113",
+    "video": "assets/archive/source-113.mp4",
+    "duration": 5.066666666666666,
+    "source_key": "us-ihps-msv",
+    "source_in": 151,
+    "country": "US",
+    "source": {
+      "local_file": "us-ihps-msv.mp4",
+      "page_url": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "creator": "SSgt Noah Sudolcan, U.S. Air Force",
+      "date": "2026-03",
+      "credit": "DVIDS · Noah Sudolcan / USAF · 2026",
+      "rights_basis": "U.S. government public domain demonstration; same named MSV/IHPS equipment, not a claim the demonstrator is an Army soldier",
+      "sha256": "777213739c9ebe9c064a5ec97e7b625677ffb231f0ea9d2fa09d4c310a11ba39",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579877/DOD_111579877.mp4"
+    },
+    "fingerprint": "77f78360d10698ded8c7dd05e7731af2590d45a852fd1f378b95991477181603",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-114",
+    "video": "assets/archive/source-114.mp4",
+    "duration": 6.9,
+    "source_key": "us-m17-m4",
+    "source_in": 560,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "c1746edeb307344221ea7f2b9e939f4f50947ab1746be3376d320a7ff690c57f",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-116",
+    "video": "assets/archive/source-116.mp4",
+    "duration": 4.3,
+    "source_key": "us-envg",
+    "source_in": 265,
+    "country": "US",
+    "source": {
+      "local_file": "us-envg.mp4",
+      "page_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "creator": "Angelo Mejia, U.S. Army",
+      "date": "2020-11-05",
+      "credit": "DVIDS · Angelo Mejia · 2020",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "4c7d3661038bab22e3f3c49f56be0fc341f127539e417e1ef9725579e1f9a373",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108059264/DOD_108059264-1024x576-1769k.mp4"
+    },
+    "fingerprint": "b6e36bf2345c93adb11b93f28436ea7c4f56da027aca7d37e87687fb4f651b09",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-117",
+    "video": "assets/archive/source-117.mp4",
+    "duration": 5.733333333333333,
+    "source_key": "us-envg",
+    "source_in": 1,
+    "country": "US",
+    "source": {
+      "local_file": "us-envg.mp4",
+      "page_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "creator": "Angelo Mejia, U.S. Army",
+      "date": "2020-11-05",
+      "credit": "DVIDS · Angelo Mejia · 2020",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "4c7d3661038bab22e3f3c49f56be0fc341f127539e417e1ef9725579e1f9a373",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108059264/DOD_108059264-1024x576-1769k.mp4"
+    },
+    "fingerprint": "e4c47721aab17022e15d4cdb037d4ef070a5b2b5383ee17341ff4f99d22d2ca5",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-118",
+    "video": "assets/archive/source-118.mp4",
+    "duration": 7.0,
+    "source_key": "us-envg",
+    "source_in": 34,
+    "country": "US",
+    "source": {
+      "local_file": "us-envg.mp4",
+      "page_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "creator": "Angelo Mejia, U.S. Army",
+      "date": "2020-11-05",
+      "credit": "DVIDS · Angelo Mejia · 2020",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "4c7d3661038bab22e3f3c49f56be0fc341f127539e417e1ef9725579e1f9a373",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108059264/DOD_108059264-1024x576-1769k.mp4"
+    },
+    "fingerprint": "bb43f49c85b00f70da88531e4eaff28377129ac87df0842d38fde5f3eb4c6688",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-119",
+    "video": "assets/archive/source-119.mp4",
+    "duration": 4.933333333333334,
+    "source_key": "us-envg",
+    "source_in": 52,
+    "country": "US",
+    "source": {
+      "local_file": "us-envg.mp4",
+      "page_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "creator": "Angelo Mejia, U.S. Army",
+      "date": "2020-11-05",
+      "credit": "DVIDS · Angelo Mejia · 2020",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "4c7d3661038bab22e3f3c49f56be0fc341f127539e417e1ef9725579e1f9a373",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108059264/DOD_108059264-1024x576-1769k.mp4"
+    },
+    "fingerprint": "f77ed809d802ab85abd4c64118a6ff234b7f67aa18c827ae46240312aefbbe49",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-120",
+    "video": "assets/archive/source-120.mp4",
+    "duration": 8.266666666666667,
+    "source_key": "us-envg",
+    "source_in": 431,
+    "country": "US",
+    "source": {
+      "local_file": "us-envg.mp4",
+      "page_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "creator": "Angelo Mejia, U.S. Army",
+      "date": "2020-11-05",
+      "credit": "DVIDS · Angelo Mejia · 2020",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "4c7d3661038bab22e3f3c49f56be0fc341f127539e417e1ef9725579e1f9a373",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108059264/DOD_108059264-1024x576-1769k.mp4"
+    },
+    "fingerprint": "3f5d5be38ecf1c48bb89d91624d8c86466ebf988f3e487187ed8e2c28451ae80",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-121",
+    "video": "assets/archive/source-121.mp4",
+    "duration": 5.0,
+    "source_key": "cn-equipment",
+    "source_in": 29,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "f029a874165c532a84f8b6a602a37a62d696565a4a6c76234dd32bb3bddc862c",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-122",
+    "video": "assets/archive/source-122.mp4",
+    "duration": 5.466666666666667,
+    "source_key": "cn-equipment",
+    "source_in": 9,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "ae8d0812857d26a559401db30e6292d0c2516eb0bc5e17623381618cbe79064c",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-126",
+    "video": "assets/archive/source-126.mp4",
+    "duration": 7.166666666666667,
+    "source_key": "us-envg",
+    "source_in": 315,
+    "country": "US",
+    "source": {
+      "local_file": "us-envg.mp4",
+      "page_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "creator": "Angelo Mejia, U.S. Army",
+      "date": "2020-11-05",
+      "credit": "DVIDS · Angelo Mejia · 2020",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "4c7d3661038bab22e3f3c49f56be0fc341f127539e417e1ef9725579e1f9a373",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108059264/DOD_108059264-1024x576-1769k.mp4"
+    },
+    "fingerprint": "5e2a63b340bc1d981e1a87f3c81eb14e1fd3804c9ead51acd7be45f9fa51ce17",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-130",
+    "video": "assets/archive/source-130.mp4",
+    "duration": 6.666666666666667,
+    "source_key": "cn-medical",
+    "source_in": 51,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-medical.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10191444.html",
+      "creator": "PLA / China Military",
+      "date": "2022-10-12",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Short contextual editorial quotations of field medical support for accompanying analysis. Does not identify this hospital equipment as an individual IFAK; no unrestricted stock license asserted.",
+      "sha256": "831b457720eba9b8eb95668c2e70f2f2c893b745d96c2cc94b7020314ca2f20e",
+      "download_url": "http://yspvv.81.cn/video/2022/10/12/9622980388EA4806BDE821FAAD233549.mp4"
+    },
+    "fingerprint": "f523779d99a745b37831b39ab6265c9fa2957f785ddddb55b7c42da77aa6c260",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-131",
+    "video": "assets/archive/source-131.mp4",
+    "duration": 5.2,
+    "source_key": "cn-medical",
+    "source_in": 26,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-medical.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10191444.html",
+      "creator": "PLA / China Military",
+      "date": "2022-10-12",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Short contextual editorial quotations of field medical support for accompanying analysis. Does not identify this hospital equipment as an individual IFAK; no unrestricted stock license asserted.",
+      "sha256": "831b457720eba9b8eb95668c2e70f2f2c893b745d96c2cc94b7020314ca2f20e",
+      "download_url": "http://yspvv.81.cn/video/2022/10/12/9622980388EA4806BDE821FAAD233549.mp4"
+    },
+    "fingerprint": "03ab2c448fa33bd1e82c9ecbe63e307052dbcc94e58f12f3059840979907e8a3",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-132",
+    "video": "assets/archive/source-132.mp4",
+    "duration": 6.533333333333333,
+    "source_key": "cn-medical",
+    "source_in": 40,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-medical.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10191444.html",
+      "creator": "PLA / China Military",
+      "date": "2022-10-12",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Short contextual editorial quotations of field medical support for accompanying analysis. Does not identify this hospital equipment as an individual IFAK; no unrestricted stock license asserted.",
+      "sha256": "831b457720eba9b8eb95668c2e70f2f2c893b745d96c2cc94b7020314ca2f20e",
+      "download_url": "http://yspvv.81.cn/video/2022/10/12/9622980388EA4806BDE821FAAD233549.mp4"
+    },
+    "fingerprint": "cd7d0f14ab29a6dfcf72daae7b20dd14f2b36064ad66e1e5dfc2a7b1f9d4ac69",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-135",
+    "video": "assets/archive/source-135.mp4",
+    "duration": 5.833333333333333,
+    "source_key": "us-envg",
+    "source_in": 225,
+    "country": "US",
+    "source": {
+      "local_file": "us-envg.mp4",
+      "page_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "creator": "Angelo Mejia, U.S. Army",
+      "date": "2020-11-05",
+      "credit": "DVIDS · Angelo Mejia · 2020",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "4c7d3661038bab22e3f3c49f56be0fc341f127539e417e1ef9725579e1f9a373",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108059264/DOD_108059264-1024x576-1769k.mp4"
+    },
+    "fingerprint": "94d7b322ad4977fbdd5eb9886d6304f7ae346788fb6c8fd405c25ba91912278b",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-136",
+    "video": "assets/archive/source-136.mp4",
+    "duration": 8.8,
+    "source_key": "cn-plateau",
+    "source_in": 13,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-plateau.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/16204813.html",
+      "creator": "CGTN / China Military",
+      "date": "2023-03-01",
+      "credit": "Архів · CGTN / China Military · 2023",
+      "rights_basis": "Short contextual editorial quotation illustrating the plateau conditions explicitly discussed. Original source marks retained; no unrestricted stock license asserted.",
+      "sha256": "1c38fc4ea6f54dd03479271aa3b833a7983e612cdb67d397b211e53cb85dc19b",
+      "download_url": "https://eng.chinamil.com.cn/MEDIA/Videos/_attachment/2023/03/01/16204813_9b53d5325069476357a2a5c1f5608d3f.mp4"
+    },
+    "fingerprint": "1cf51750a165b707b57fdef508b73ea3db66665dce0cd8af4b4829246a23c9ee",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-137",
+    "video": "assets/archive/source-137.mp4",
+    "duration": 3.466666666666667,
+    "source_key": "us-m17-m4",
+    "source_in": 620,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "407301f7db8bfc3b1ec674c88a255bc9ea2a9b4e8f51fddb8a740f04d8119371",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-142",
+    "video": "assets/archive/source-142.mp4",
+    "duration": 7.4,
+    "source_key": "cn-equipment",
+    "source_in": 21,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "877e7a1742743e3a3167d39880c1bc08070f75e0bf9035338263b50a4ae892e2",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-144",
+    "video": "assets/archive/source-144.mp4",
+    "duration": 6.033333333333333,
+    "source_key": "us-mre",
+    "source_in": 18,
+    "country": "US",
+    "source": {
+      "local_file": "us-mre.mp4",
+      "page_url": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "creator": "Christopher Coyer, U.S. Army Training Support Center",
+      "date": "2023-05-17",
+      "credit": "DVIDS · Christopher Coyer · 2023",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "8ad0273eb1cf78a7a1a02e0a9beaa284bf0cd0e6576aed5ba78a0852abed821d",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109722820/DOD_109722820.mp4"
+    },
+    "fingerprint": "3f0a4a070e9ad6f274ec26fa7ce44e46145b112a09db85412d96d602dd37bb8a",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-145",
+    "video": "assets/archive/source-145.mp4",
+    "duration": 3.1,
+    "source_key": "us-mre",
+    "source_in": 10,
+    "country": "US",
+    "source": {
+      "local_file": "us-mre.mp4",
+      "page_url": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "creator": "Christopher Coyer, U.S. Army Training Support Center",
+      "date": "2023-05-17",
+      "credit": "DVIDS · Christopher Coyer · 2023",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "8ad0273eb1cf78a7a1a02e0a9beaa284bf0cd0e6576aed5ba78a0852abed821d",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109722820/DOD_109722820.mp4"
+    },
+    "fingerprint": "dfe81e5183791c0efcf41b9b47e2926b15ce7bca6c8d321a88e6a2dc65ee90f9",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-146",
+    "video": "assets/archive/source-146.mp4",
+    "duration": 3.066666666666667,
+    "source_key": "us-mre",
+    "source_in": 13.1,
+    "country": "US",
+    "source": {
+      "local_file": "us-mre.mp4",
+      "page_url": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "creator": "Christopher Coyer, U.S. Army Training Support Center",
+      "date": "2023-05-17",
+      "credit": "DVIDS · Christopher Coyer · 2023",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "8ad0273eb1cf78a7a1a02e0a9beaa284bf0cd0e6576aed5ba78a0852abed821d",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109722820/DOD_109722820.mp4"
+    },
+    "fingerprint": "31a64c8e25258953f0670819ed2befb1fabf233f585854c8ba131368f27037b0",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-151",
+    "video": "assets/archive/source-151.mp4",
+    "duration": 7.5,
+    "source_key": "us-mre",
+    "source_in": 24,
+    "country": "US",
+    "source": {
+      "local_file": "us-mre.mp4",
+      "page_url": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "creator": "Christopher Coyer, U.S. Army Training Support Center",
+      "date": "2023-05-17",
+      "credit": "DVIDS · Christopher Coyer · 2023",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "8ad0273eb1cf78a7a1a02e0a9beaa284bf0cd0e6576aed5ba78a0852abed821d",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109722820/DOD_109722820.mp4"
+    },
+    "fingerprint": "7242bd31d94a90ee12ac5df6d337f1fdb68ec429411fa93c9431d9a28a6b2aa1",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-152",
+    "video": "assets/archive/source-152.mp4",
+    "duration": 6.266666666666667,
+    "source_key": "us-mre",
+    "source_in": 33,
+    "country": "US",
+    "source": {
+      "local_file": "us-mre.mp4",
+      "page_url": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "creator": "Christopher Coyer, U.S. Army Training Support Center",
+      "date": "2023-05-17",
+      "credit": "DVIDS · Christopher Coyer · 2023",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "8ad0273eb1cf78a7a1a02e0a9beaa284bf0cd0e6576aed5ba78a0852abed821d",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109722820/DOD_109722820.mp4"
+    },
+    "fingerprint": "6b64ebe0e5865db3c607fa9b8ed7f259ebf1e70f1348b590456294cb1e6d00e2",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-153",
+    "video": "assets/archive/source-153.mp4",
+    "duration": 6.933333333333334,
+    "source_key": "us-drone",
+    "source_in": 168,
+    "country": "US",
+    "source": {
+      "local_file": "us-drone.mp4",
+      "page_url": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "creator": "SSG Margaret Gabriel",
+      "date": "2021",
+      "credit": "DVIDS · Margaret Gabriel · 2021",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "6b97c051d3cda2bb846e529f458f70a1dc367a7c046a94498c251e641be14a45",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108383616/DOD_108383616-1024x576-1769k.mp4"
+    },
+    "fingerprint": "626d82fed318c167ff3bdd0f4725e1a6389cbb27d8f5a1b48e7f29a8e0fea2ef",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-154",
+    "video": "assets/archive/source-154.mp4",
+    "duration": 8.3,
+    "source_key": "us-drone",
+    "source_in": 125,
+    "country": "US",
+    "source": {
+      "local_file": "us-drone.mp4",
+      "page_url": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "creator": "SSG Margaret Gabriel",
+      "date": "2021",
+      "credit": "DVIDS · Margaret Gabriel · 2021",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "6b97c051d3cda2bb846e529f458f70a1dc367a7c046a94498c251e641be14a45",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108383616/DOD_108383616-1024x576-1769k.mp4"
+    },
+    "fingerprint": "a9a09f9857312ebf6b114222944dfcdd3741f175f7cb0cc80d360ff132725cfb",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-155",
+    "video": "assets/archive/source-155.mp4",
+    "duration": 9.6,
+    "source_key": "us-drone",
+    "source_in": 180,
+    "country": "US",
+    "source": {
+      "local_file": "us-drone.mp4",
+      "page_url": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "creator": "SSG Margaret Gabriel",
+      "date": "2021",
+      "credit": "DVIDS · Margaret Gabriel · 2021",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "6b97c051d3cda2bb846e529f458f70a1dc367a7c046a94498c251e641be14a45",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108383616/DOD_108383616-1024x576-1769k.mp4"
+    },
+    "fingerprint": "2f4b0ae3a182dfc5a57c4c5f2de92ed7fd41949806ce44e2bf71b4655916580c",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-157",
+    "video": "assets/archive/source-157.mp4",
+    "duration": 5.3,
+    "source_key": "us-drone",
+    "source_in": 39,
+    "country": "US",
+    "source": {
+      "local_file": "us-drone.mp4",
+      "page_url": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "creator": "SSG Margaret Gabriel",
+      "date": "2021",
+      "credit": "DVIDS · Margaret Gabriel · 2021",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "6b97c051d3cda2bb846e529f458f70a1dc367a7c046a94498c251e641be14a45",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108383616/DOD_108383616-1024x576-1769k.mp4"
+    },
+    "fingerprint": "e23bf1185e73e83b85ed7efa00f2913656afd221a5f8c6bc707ed92bd2e1add2",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-158",
+    "video": "assets/archive/source-158.mp4",
+    "duration": 5.533333333333333,
+    "source_key": "us-drone",
+    "source_in": 62,
+    "country": "US",
+    "source": {
+      "local_file": "us-drone.mp4",
+      "page_url": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "creator": "SSG Margaret Gabriel",
+      "date": "2021",
+      "credit": "DVIDS · Margaret Gabriel · 2021",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "6b97c051d3cda2bb846e529f458f70a1dc367a7c046a94498c251e641be14a45",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108383616/DOD_108383616-1024x576-1769k.mp4"
+    },
+    "fingerprint": "3050b0b406a9cdbfc84d2f7f38cb62ef2b9f17ea72d131b240cdc7c79c2e8b6c",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-159",
+    "video": "assets/archive/source-159.mp4",
+    "duration": 5.233333333333333,
+    "source_key": "us-drone",
+    "source_in": 77,
+    "country": "US",
+    "source": {
+      "local_file": "us-drone.mp4",
+      "page_url": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "creator": "SSG Margaret Gabriel",
+      "date": "2021",
+      "credit": "DVIDS · Margaret Gabriel · 2021",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "6b97c051d3cda2bb846e529f458f70a1dc367a7c046a94498c251e641be14a45",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108383616/DOD_108383616-1024x576-1769k.mp4"
+    },
+    "fingerprint": "8d57b1c61d0e813002056f5c6b6e7f7acd006ff8be7f532554782f53d938d8e6",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-160",
+    "video": "assets/archive/source-160.mp4",
+    "duration": 8.533333333333333,
+    "source_key": "us-drone",
+    "source_in": 149,
+    "country": "US",
+    "source": {
+      "local_file": "us-drone.mp4",
+      "page_url": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "creator": "SSG Margaret Gabriel",
+      "date": "2021",
+      "credit": "DVIDS · Margaret Gabriel · 2021",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "6b97c051d3cda2bb846e529f458f70a1dc367a7c046a94498c251e641be14a45",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108383616/DOD_108383616-1024x576-1769k.mp4"
+    },
+    "fingerprint": "aa243df59ba213c6acb34bdf94d535a1b41c7b73d58e763f5a681e86a5533821",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-161",
+    "video": "assets/archive/source-161.mp4",
+    "duration": 6.0,
+    "source_key": "us-m17-m4",
+    "source_in": 580,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "52ea7c1d6af39be5a7631a0a1483c242adb06fc653354febcdc0ff29b6c3f237",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-162",
+    "video": "assets/archive/source-162.mp4",
+    "duration": 7.833333333333333,
+    "source_key": "us-m17-m4",
+    "source_in": 600,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "180e32e1ca3ef51aab36f3a7be6f948ea84cb695b3f88ee7db803d14b8dc9d13",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-163",
+    "video": "assets/archive/source-163.mp4",
+    "duration": 7.366666666666666,
+    "source_key": "us-m17-m4",
+    "source_in": 842,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "f49a4eabc9625de2d07de11f2b193663c9a74d7dede3d94ed745581579f33f91",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-164",
+    "video": "assets/archive/source-164.mp4",
+    "duration": 7.166666666666667,
+    "source_key": "cn-equipment",
+    "source_in": 23,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "3b9b0bde7a0e9fbd033ee6ab4059b6829ac21720579c83f9ce9cce9f7a747442",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-166",
+    "video": "assets/archive/source-166.mp4",
+    "duration": 8.533333333333333,
+    "source_key": "us-m17-m4",
+    "source_in": 850,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "b2d2a0fde9a01341ad22e1852e48c4af695fe8b4218cce6906b956be3399274b",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-170",
+    "video": "assets/archive/source-170.mp4",
+    "duration": 7.8,
+    "source_key": "ngsw",
+    "source_in": 120,
+    "country": "US",
+    "source": {
+      "local_file": "ngsw-archive.mp4",
+      "page_url": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "creator": "Joshua Joyner, 101st Airborne Division",
+      "date": "2024-04-15",
+      "credit": "DVIDS · Joshua Joyner · 2024",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "3704a18a354166559a101fd84bb1b3de6375f3fcb8bbe5ef9741df976a996d66",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110242923/DOD_110242923.mp4"
+    },
+    "fingerprint": "dc82c961341aad90ee7470bad5bca1977f957c2f143cb21d7f34e3f2a37b5d4d",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-171",
+    "video": "assets/archive/source-171.mp4",
+    "duration": 7.766666666666667,
+    "source_key": "cn-equipment",
+    "source_in": 15,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "db98a213e5d4a574f1101a10e2cc29ffa60cd627807c69d3e5b445650dfc46b1",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-175",
+    "video": "assets/archive/source-175.mp4",
+    "duration": 5.666666666666667,
+    "source_key": "us-m17-m4",
+    "source_in": 870,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "018139ff0b435af257050abd23214a9c5de1199b45567967b03eed15f643f73c",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "source-176",
+    "video": "assets/archive/source-176.mp4",
+    "duration": 8.666666666666666,
+    "source_key": "us-m17-m4",
+    "source_in": 505,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "4c9d23c1556368ec9565287a65a1e9aff34a2d8696e19e96ed2a2e6600ed8773",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "opening-0",
+    "video": "assets/archive/opening-0.mp4",
+    "duration": 2.933333333333333,
+    "source_key": "us-m17-m4",
+    "source_in": 871.5,
+    "country": "US",
+    "source": {
+      "local_file": "us-m17-m4.mp4",
+      "page_url": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "creator": "MAJ Travis Mueller",
+      "date": "2025-05-07",
+      "credit": "DVIDS · Travis Mueller · 2025",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "286ed89fe4d890892da0110a8c1e6007b252c13186bf721a71bb6e673e56b609",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110979751/DOD_110979751.mp4"
+    },
+    "fingerprint": "9d56aa63a5bf298751026546611ccc1ef0eee25f9a2a865a62e7b6e496afe025",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "opening-1",
+    "video": "assets/archive/opening-1.mp4",
+    "duration": 2.933333333333333,
+    "source_key": "cn-equipment",
+    "source_in": 22,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "002323491b865d500464a9614f95702e40eb920fa16f55bd17a3132a7d160997",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "opening-2",
+    "video": "assets/archive/opening-2.mp4",
+    "duration": 2.933333333333333,
+    "source_key": "us-envg",
+    "source_in": 110,
+    "country": "US",
+    "source": {
+      "local_file": "us-envg.mp4",
+      "page_url": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "creator": "Angelo Mejia, U.S. Army",
+      "date": "2020-11-05",
+      "credit": "DVIDS · Angelo Mejia · 2020",
+      "rights_basis": "U.S. government public domain footage; no endorsement implied",
+      "sha256": "4c7d3661038bab22e3f3c49f56be0fc341f127539e417e1ef9725579e1f9a373",
+      "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108059264/DOD_108059264-1024x576-1769k.mp4"
+    },
+    "fingerprint": "4b7c74efb5b1173398b3d85d7b864d134443ab0335d46de8f210f3e3ee52f47f",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  },
+  {
+    "id": "opening-3",
+    "video": "assets/archive/opening-3.mp4",
+    "duration": 2.933333333333333,
+    "source_key": "cn-equipment",
+    "source_in": 27,
+    "country": "CN",
+    "source": {
+      "local_file": "cn-equipment.mp4",
+      "page_url": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "creator": "PLA / China Military, original military news marks retained",
+      "date": "2022-11-18",
+      "credit": "Архів · PLA / China Military · 2022",
+      "rights_basis": "Contextual editorial quotation to analyse the equipment visible in this specific report. Original source marks and date retained; no unrestricted stock license asserted. Not evidence of army-wide 2026 distribution.",
+      "sha256": "0754d4e913fed571fbf13c4891804ea19e24f98ce75c7f65a1750bfe10245b5b",
+      "download_url": "http://yspvv.81.cn/video/2022/11/18/D2CF00F7A94D41CBB988C833269D40C6.mp4"
+    },
+    "fingerprint": "9a6008675defc124fb4f3022581bb2f4ac889928aba586787ab05e88d76e592f",
+    "changes": "Original approved excerpt re-encoded clean at 720p30; no archive audio, editorial labels or speed changes"
+  }
+]

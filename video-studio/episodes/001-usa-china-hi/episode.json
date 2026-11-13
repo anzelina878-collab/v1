@@ -1,0 +1,5316 @@
+{
+  "schema": "arsenal.hindi-adaptation.v1",
+  "title": "USA vs China 2026: एक सैनिक क्या-क्या लेकर चलता है?",
+  "brand": "ARSENAL 360 / शस्त्र 360",
+  "language": "hi",
+  "style": "minimal",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 1166.3333333333333,
+  "audio": "audio/voiceover.mp3",
+  "original_audio_duration": 1166.328,
+  "original_source_episode": "001-usa-china-2026/episode.v4.json",
+  "original_source_duration": 1063.1,
+  "motion_policy": {
+    "photo_camera": "locked",
+    "card_entrance": "once then hold",
+    "rotation_seconds_per_revolution": 24,
+    "archive_speed": "unchanged; longer Hindi clause tails use a licensed still frame and are counted separately, never replayed"
+  },
+  "scenes": [
+    {
+      "id": "hi-000",
+      "type": "footage",
+      "duration": 2.1333333333333333,
+      "title": "अमेरिका",
+      "video": "assets/archive/opening-0.mp4",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 871.5,
+        "country": "US"
+      },
+      "callouts": [],
+      "start": 0.0,
+      "archive_bank": "opening-0",
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-001"
+      ],
+      "end": 2.1333333333333333,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "id": "hi-001",
+      "type": "footage",
+      "duration": 2.5333333333333337,
+      "title": "चीन",
+      "video": "assets/archive/opening-1.mp4",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 22,
+        "country": "CN"
+      },
+      "callouts": [],
+      "start": 2.1333333333333333,
+      "archive_bank": "opening-1",
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-001"
+      ],
+      "end": 4.666666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "id": "hi-002",
+      "type": "footage",
+      "duration": 2.8999999999999995,
+      "title": "अमेरिका",
+      "video": "assets/archive/opening-2.mp4",
+      "archive_edit": {
+        "source": "us-envg",
+        "in": 110,
+        "country": "US"
+      },
+      "callouts": [],
+      "start": 4.666666666666667,
+      "archive_bank": "opening-2",
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-002"
+      ],
+      "end": 7.566666666666666,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "id": "hi-003",
+      "type": "footage",
+      "duration": 2.966666666666667,
+      "title": "चीन",
+      "video": "assets/archive/opening-3.mp4",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 27,
+        "country": "CN"
+      },
+      "callouts": [],
+      "start": 7.566666666666666,
+      "archive_bank": "opening-3",
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-002"
+      ],
+      "end": 10.533333333333333,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "अभ्यास · अमेरिका",
+      "motion_kind": "verified_video",
+      "asset_id": "US_TRAINING",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "id": "hi-004",
+      "start": 10.533333333333333,
+      "duration": 10.533333333333333,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Один служить в армії з получених штатів, яка десятиліттями вдосконалювала своє оснащення під час операції за кордоном.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-002.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 500,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-003"
+      ],
+      "narration_quote_asr_original": "Один служить в армії з получених штатів, яка десятиліттями вдосконалювала своє оснащення під час операції за кордоном.",
+      "archive_bank": "source-002",
+      "end": 21.066666666666666,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "CN",
+      "title": "अभ्यास · चीन",
+      "motion_kind": "verified_video",
+      "asset_id": "CHINA_TRAINING",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "id": "hi-005",
+      "start": 21.066666666666666,
+      "duration": 10.666666666666668,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Інший – у народно-визвольній армії Китаю, яка поступово замінює старі зразки озброєння власними сучасними розробками.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-003.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 20,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-004"
+      ],
+      "narration_quote_asr_original": "Інший – у народно-визвольній армії Китаю, яка поступово замінює старі зразки озброєння власними сучасними розробками.",
+      "archive_bank": "source-003",
+      "end": 31.733333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "kit",
+      "title": "सैनिक के उपकरण",
+      "eyebrow": "",
+      "items": [
+        {
+          "label": "हथियार",
+          "image": "assets/source_photos/M4A1.png"
+        },
+        {
+          "label": "सुरक्षा",
+          "image": "assets/source_photos/MSV_CUT.png"
+        },
+        {
+          "label": "हेलमेट",
+          "image": "assets/source_photos/IHPS.png"
+        }
+      ],
+      "asset_ids": [
+        "M4A1",
+        "MSV",
+        "IHPS"
+      ],
+      "id": "hi-006",
+      "start": 31.733333333333334,
+      "duration": 6.633333333333333,
+      "visual_purpose": "Examples of the named equipment categories, not an exhaustive standard kit",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-005"
+      ],
+      "narration_quote_asr_original": "На перший погляд вони схожі – автомат, бронежилет, шолом, рюкзак.",
+      "end": 38.36666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "compare",
+      "title": "अंतर बारीकियों में है",
+      "eyebrow": "",
+      "sides": [
+        {
+          "label": "अमेरिका",
+          "title": "",
+          "image": "assets/source_photos/M7.png",
+          "detail": ""
+        },
+        {
+          "label": "चीन",
+          "title": "",
+          "image": "assets/source_photos/QBZ191.png",
+          "detail": ""
+        }
+      ],
+      "asset_ids": [
+        "M7",
+        "QBZ191"
+      ],
+      "id": "hi-007",
+      "start": 38.36666666666667,
+      "duration": 5.233333333333334,
+      "visual_purpose": "Visual comparison of details without announcing future model names",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-006"
+      ],
+      "narration_quote_asr_original": "Але варто придивитися до деталей, і різниця стає набагато цікавішою.",
+      "end": 43.6,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "video": "assets/models/m4a1/spin.mp4",
+      "country": "US",
+      "title": "व्यक्तिगत हथियार",
+      "motion_kind": "true_3d",
+      "asset_id": "M4A1_3D",
+      "source": "https://opengameart.org/content/m4a1-assault-rifle",
+      "in": 0,
+      "fit": "contain",
+      "id": "hi-008",
+      "start": 43.6,
+      "duration": 4.5,
+      "visual_purpose": "The breadth of the forthcoming equipment comparison",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "loop": true,
+      "object_id": "M4A1",
+      "original_scene_ids": [
+        "shot-007"
+      ],
+      "narration_quote_asr_original": "Сьогодні ми порівняємо їхні спорядження предмет за предметом – від основної зброї до",
+      "bank_duration": 24,
+      "source_in": 0,
+      "rotation_degrees_per_second": 15,
+      "end": 48.1,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "नाइट विज़न",
+      "motion_kind": "verified_video",
+      "asset_id": "ENVGB",
+      "source": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "id": "hi-009",
+      "start": 48.1,
+      "duration": 1.6000000000000014,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: приладівнічного бачення,",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-007.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-envg",
+        "in": 12,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-008"
+      ],
+      "narration_quote_asr_original": "приладівнічного бачення,",
+      "archive_bank": "source-007",
+      "end": 49.7,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "ड्रोन",
+      "motion_kind": "verified_video",
+      "asset_id": "BLACKHORNET",
+      "source": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "id": "hi-010",
+      "start": 49.7,
+      "duration": 1.6666666666666643,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: безпілотників і навіть",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-008.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-drone",
+        "in": 133,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-009"
+      ],
+      "narration_quote_asr_original": "безпілотників і навіть",
+      "archive_bank": "source-008",
+      "end": 51.36666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "भोजन",
+      "motion_kind": "verified_video",
+      "asset_id": "MRE",
+      "source": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "id": "hi-011",
+      "start": 51.36666666666667,
+      "duration": 1.0333333333333314,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: їжі.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-009.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-mre",
+        "in": 6,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-010"
+      ],
+      "narration_quote_asr_original": "їжі.",
+      "archive_bank": "source-009",
+      "end": 52.4,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "अंतर क्या है?",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "सैनिक के उपकरण",
+          "detail": ""
+        },
+        {
+          "title": "प्रणाली",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-012",
+      "start": 52.4,
+      "duration": 7.733333333333334,
+      "visual_purpose": "The film asks about systems rather than declaring a winner",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-011"
+      ],
+      "narration_quote_asr_original": "І головне – спробуємо зрозуміти, що насправді відрізняє цих двох солдатів.",
+      "end": 60.13333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "section",
+      "eyebrow": "",
+      "title": "व्यक्तिगत हथियार",
+      "subtitle": "",
+      "id": "hi-013",
+      "start": 60.13333333333333,
+      "duration": 8.133333333333333,
+      "visual_purpose": "Rifle chapter opening",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-012"
+      ],
+      "narration_quote_asr_original": "Почнімо з найважливішого предмета в руках піхотинця – його особистої зброї.",
+      "end": 68.26666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "video": "assets/models/m4a1/spin.mp4",
+      "country": "US",
+      "title": "कार्बाइन",
+      "motion_kind": "true_3d",
+      "asset_id": "M4A1_3D",
+      "source": "https://opengameart.org/content/m4a1-assault-rifle",
+      "in": 0,
+      "fit": "contain",
+      "id": "hi-014",
+      "start": 68.26666666666667,
+      "duration": 1.3333333333333286,
+      "visual_purpose": "Rifle context before the first model-name word",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "loop": true,
+      "object_id": "M4A1",
+      "original_scene_ids": [
+        "shot-013"
+      ],
+      "narration_quote_asr_original": "Протягом десятиліть одними символів американської армії залишався карабін",
+      "bank_duration": 24,
+      "source_in": 0,
+      "rotation_degrees_per_second": 15,
+      "end": 69.6,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "video": "assets/models/m4a1/spin.mp4",
+      "country": "US",
+      "title": "M4A1",
+      "motion_kind": "true_3d",
+      "asset_id": "M4A1_3D",
+      "source": "https://opengameart.org/content/m4a1-assault-rifle",
+      "in": 4.9,
+      "fit": "contain",
+      "id": "hi-015",
+      "start": 69.6,
+      "duration": 9.900000000000006,
+      "visual_purpose": "Verified M4A1 geometry and spoken 5.56 caliber",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [
+        {
+          "start": 7.233333333333334,
+          "end": 9.433333333333337,
+          "text": "5.56 मिमी"
+        }
+      ],
+      "animate_title": true,
+      "loop": true,
+      "object_id": "M4A1",
+      "original_scene_ids": [
+        "shot-014"
+      ],
+      "narration_quote_asr_original": "М4А1. Компактна конструкція набій калібру 5,56 мм,",
+      "bank_duration": 24,
+      "source_in": 1.3333333333333286,
+      "rotation_degrees_per_second": 15,
+      "end": 79.5,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M4A1.png",
+      "country": "US",
+      "title": "M4A1",
+      "motion_kind": "verified_static",
+      "asset_id": "M4A1",
+      "source": "https://commons.wikimedia.org/wiki/File:PEO_M4_Carbine_RAS_M68_CCO.png",
+      "id": "hi-016",
+      "start": 79.5,
+      "duration": 4.066666666666663,
+      "visual_purpose": "The optic and accessories on the official M4 photograph",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-015"
+      ],
+      "narration_quote_asr_original": "та можливість встановлювати різноманітні приціли і додаткове обладнання.",
+      "end": 83.56666666666666,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "video": "assets/models/m4a1/spin.mp4",
+      "country": "US",
+      "title": "M4A1",
+      "motion_kind": "true_3d",
+      "asset_id": "M4A1_3D",
+      "source": "https://opengameart.org/content/m4a1-assault-rifle",
+      "in": 0,
+      "fit": "contain",
+      "id": "hi-017",
+      "start": 83.56666666666666,
+      "duration": 8.299999999999997,
+      "visual_purpose": "M4A1 history; real geometric turntable",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "loop": true,
+      "object_id": "M4A1",
+      "original_scene_ids": [
+        "shot-016"
+      ],
+      "narration_quote_asr_original": "М4А1 пройшов тривалий шлях служби, але у 2020 роках американська армія розпочала",
+      "bank_duration": 24,
+      "source_in": 0,
+      "rotation_degrees_per_second": 15,
+      "end": 91.86666666666666,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "country": "US",
+      "title": "M4A1",
+      "motion_kind": "true_3d",
+      "asset_id": "M4A1",
+      "source": "https://opengameart.org/content/m4a1-assault-rifle",
+      "id": "hi-018",
+      "start": 91.86666666666666,
+      "duration": 6.666666666666671,
+      "visual_purpose": "The end of the old-generation context before M7 is named",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/models/m4a1/spin.mp4",
+      "loop": true,
+      "fit": "contain",
+      "object_id": "M4A1",
+      "in": 7.833333333333333,
+      "original_scene_ids": [
+        "shot-017"
+      ],
+      "narration_quote_asr_original": "одну з найбільших програм оновлення стрелецької зброї за останні десятиліття. Так з'явилася гвинтівка",
+      "bank_duration": 24,
+      "source_in": 8.299999999999997,
+      "rotation_degrees_per_second": 15,
+      "end": 98.53333333333333,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "M7",
+      "motion_kind": "verified_video",
+      "asset_id": "M7",
+      "source": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "id": "hi-019",
+      "start": 98.53333333333333,
+      "duration": 7.900000000000006,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: М7, її головна особливість – новий набій калібру 6,8 мм.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [
+        {
+          "start": 5.466666666666669,
+          "end": 7.833333333333329,
+          "text": "6.8 मिमी"
+        }
+      ],
+      "animate_title": true,
+      "video": "assets/archive/source-017.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "ngsw",
+        "in": 2,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-018"
+      ],
+      "narration_quote_asr_original": "М7, її головна особливість – новий набій калібру 6,8 мм.",
+      "archive_bank": "source-017",
+      "end": 106.43333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "M7 · अभ्यास",
+      "motion_kind": "verified_video",
+      "asset_id": "US_TRAINING",
+      "source": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "id": "hi-020",
+      "start": 106.43333333333334,
+      "duration": 7.666666666666657,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Він створений для підвищення ефективності стрелецької зброї, зокрема проти сучасних засобів захисту.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-018.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "ngsw",
+        "in": 10,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-019"
+      ],
+      "narration_quote_asr_original": "Він створений для підвищення ефективності стрелецької зброї, зокрема проти сучасних засобів захисту.",
+      "archive_bank": "source-018",
+      "end": 114.1,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "M7",
+      "motion_kind": "verified_video",
+      "asset_id": "M7",
+      "source": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "id": "hi-021",
+      "start": 114.1,
+      "duration": 4.566666666666677,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Але є компроміс. Нові набої важчі, а стандартний магазин М7 вміщує",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-019.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "ngsw",
+        "in": 16,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-020-archive"
+      ],
+      "narration_quote_asr_original": "Але є компроміс. Нові набої важчі, а стандартний магазин М7 вміщує",
+      "archive_bank": "source-019",
+      "end": 118.66666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "M7",
+      "motion_kind": "verified_video",
+      "asset_id": "M7",
+      "source": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "id": "hi-022",
+      "start": 118.66666666666667,
+      "duration": 2.299999999999997,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Але є компроміс. Нові набої важчі, а стандартний магазин М7 вміщує",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-020.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "ngsw",
+        "in": 20,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-020"
+      ],
+      "narration_quote_asr_original": "Але є компроміс. Нові набої важчі, а стандартний магазин М7 вміщує",
+      "archive_bank": "source-020",
+      "end": 120.96666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M7.png",
+      "country": "US",
+      "title": "M7",
+      "motion_kind": "verified_static",
+      "asset_id": "M7",
+      "source": "https://commons.wikimedia.org/wiki/File:M7_Rifle.png",
+      "id": "hi-023",
+      "start": 120.96666666666667,
+      "duration": 1.4666666666666686,
+      "visual_purpose": "M7 magazine capacity at the spoken number",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [
+        {
+          "start": 0,
+          "end": 1.4666666666666686,
+          "text": "20 कारतूस"
+        }
+      ],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-021"
+      ],
+      "narration_quote_asr_original": "20 патронів замість",
+      "end": 122.43333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "country": "US",
+      "title": "M4A1",
+      "motion_kind": "true_3d",
+      "asset_id": "M4A1",
+      "source": "https://opengameart.org/content/m4a1-assault-rifle",
+      "id": "hi-024",
+      "start": 122.43333333333334,
+      "duration": 4.333333333333329,
+      "visual_purpose": "M4 capacity at the corresponding spoken number",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [
+        {
+          "start": 0,
+          "end": 4.333333333333329,
+          "text": "30 कारतूस"
+        }
+      ],
+      "animate_title": true,
+      "video": "assets/models/m4a1/spin.mp4",
+      "loop": true,
+      "fit": "contain",
+      "object_id": "M4A1",
+      "in": 0,
+      "original_scene_ids": [
+        "shot-022"
+      ],
+      "narration_quote_asr_original": "30 у М4А1.",
+      "bank_duration": 24,
+      "source_in": 0,
+      "rotation_degrees_per_second": 15,
+      "end": 126.76666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "नया प्लेटफॉर्म",
+      "motion_kind": "verified_video",
+      "asset_id": "M7",
+      "source": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "id": "hi-025",
+      "start": 126.76666666666667,
+      "duration": 7.066666666666677,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: І це лише частина змін. У 2026 році американці також витують коротший варіант нової зброї",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-023.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "ngsw",
+        "in": 8,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-023"
+      ],
+      "narration_quote_asr_original": "І це лише частина змін. У 2026 році американці також витують коротший варіант нової зброї",
+      "archive_bank": "source-023",
+      "end": 133.83333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M8.png",
+      "country": "US",
+      "title": "M8",
+      "motion_kind": "verified_static",
+      "asset_id": "M8",
+      "source": "https://commons.wikimedia.org/wiki/File:M8_carbine_with_suppressor.jpg",
+      "id": "hi-026",
+      "start": 133.83333333333334,
+      "duration": 2.3333333333333144,
+      "visual_purpose": "Actual new M8 image; not the unrelated HK XM8",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-024"
+      ],
+      "narration_quote_asr_original": "М8.",
+      "end": 136.16666666666666,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "CN",
+      "title": "चीन",
+      "motion_kind": "verified_video",
+      "asset_id": "CHINA_QBZ",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "id": "hi-027",
+      "start": 136.16666666666666,
+      "duration": 5.066666666666663,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Тепер Китай. Довгий час характерною зброю китайського солдата був",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-025.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 22,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-025"
+      ],
+      "narration_quote_asr_original": "Тепер Китай. Довгий час характерною зброю китайського солдата був",
+      "archive_bank": "source-025",
+      "end": 141.23333333333332,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QBZ95.png",
+      "country": "CN",
+      "title": "QBZ-95",
+      "motion_kind": "verified_static",
+      "asset_id": "QBZ95",
+      "source": "https://commons.wikimedia.org/wiki/File:QBZ95_automatic_rifle_mod_noBG.png",
+      "id": "hi-028",
+      "start": 141.23333333333332,
+      "duration": 5.866666666666674,
+      "visual_purpose": "QBZ-95 identity and form",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-026"
+      ],
+      "narration_quote_asr_original": "QBZ-95. Його легко впізнати за незвичною формою.",
+      "end": 147.1,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QBZ95.png",
+      "country": "CN",
+      "title": "QBZ-95",
+      "motion_kind": "verified_static",
+      "asset_id": "QBZ95",
+      "source": "https://commons.wikimedia.org/wiki/File:QBZ95_automatic_rifle_mod_noBG.png",
+      "id": "hi-029",
+      "start": 147.1,
+      "duration": 5.666666666666686,
+      "visual_purpose": "The magazine behind the grip visible in the real photo",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [
+        {
+          "start": 4.5,
+          "end": 5.666666666666686,
+          "text": "बुलपप"
+        }
+      ],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-027"
+      ],
+      "narration_quote_asr_original": "Магазин, розташований позад руків'я, а не перед ним. Так у схему називають «бул-пап».",
+      "end": 152.76666666666668,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QBZ95.png",
+      "country": "CN",
+      "title": "QBZ-95",
+      "motion_kind": "verified_static",
+      "asset_id": "QBZ95",
+      "source": "https://commons.wikimedia.org/wiki/File:QBZ95_automatic_rifle_mod_noBG.png",
+      "id": "hi-030",
+      "start": 152.76666666666668,
+      "duration": 6.099999999999994,
+      "visual_purpose": "Bullpup packaging, no invented dimensions",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-028"
+      ],
+      "narration_quote_asr_original": "Вона дозволяє зберегти відносну довгий ствол за компактною загальною довжини зброї.",
+      "end": 158.86666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "CN",
+      "title": "नया हथियार प्लेटफॉर्म",
+      "motion_kind": "verified_video",
+      "asset_id": "QBZ95",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "id": "hi-031",
+      "start": 158.86666666666667,
+      "duration": 5.466666666666669,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Але китайська армія вирішила змінити підхід. У 2019 році вона представила",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-029.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 14,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-029"
+      ],
+      "narration_quote_asr_original": "Але китайська армія вирішила змінити підхід. У 2019 році вона представила",
+      "archive_bank": "source-029",
+      "end": 164.33333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QBZ191.png",
+      "country": "CN",
+      "title": "QBZ-191",
+      "motion_kind": "verified_static",
+      "asset_id": "QBZ191",
+      "source": "https://commons.wikimedia.org/wiki/File:QBZ191Zhuhai_(cropped).jpg",
+      "id": "hi-032",
+      "start": 164.33333333333334,
+      "duration": 7.833333333333314,
+      "visual_purpose": "Actual QBZ-191 photo",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-030"
+      ],
+      "narration_quote_asr_original": "QBZ-191, гвинтівку з її звичнішим компонуванням, сучасними крепленями та поліпшиною ергономікою.",
+      "end": 172.16666666666666,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QBZ191.png",
+      "country": "CN",
+      "title": "QBZ-191",
+      "motion_kind": "verified_static",
+      "asset_id": "QBZ191",
+      "source": "https://commons.wikimedia.org/wiki/File:QBZ191Zhuhai_(cropped).jpg",
+      "id": "hi-033",
+      "start": 172.16666666666666,
+      "duration": 5.5,
+      "visual_purpose": "China retains its 5.8 mm cartridge",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [
+        {
+          "start": 3.0,
+          "end": 5.5,
+          "text": "5.8 मिमी"
+        }
+      ],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-031"
+      ],
+      "narration_quote_asr_original": "При цьому китай зберіг власний набій калібру 5,8 мм.",
+      "end": 177.66666666666666,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "compare",
+      "title": "अलग-अलग दृष्टिकोण",
+      "eyebrow": "",
+      "sides": [
+        {
+          "label": "अमेरिका",
+          "title": "M7",
+          "image": "assets/source_photos/M7.png",
+          "detail": ""
+        },
+        {
+          "label": "चीन",
+          "title": "QBZ-191",
+          "image": "assets/source_photos/QBZ191.png",
+          "detail": ""
+        }
+      ],
+      "asset_ids": [
+        "M7",
+        "QBZ191"
+      ],
+      "id": "hi-034",
+      "start": 177.66666666666666,
+      "duration": 21.5,
+      "visual_purpose": "The two approaches compared; no scaled size claim",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-032",
+        "shot-033",
+        "shot-034"
+      ],
+      "narration_quote_asr_original": "І ось перша цікава відмінність. Сполучені штати змінюють не лише зброю, а й сам набій.",
+      "end": 199.16666666666666,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "section",
+      "eyebrow": "",
+      "title": "ऑप्टिकल साइट्स",
+      "subtitle": "",
+      "id": "hi-035",
+      "start": 199.16666666666666,
+      "duration": 7.366666666666674,
+      "visual_purpose": "Optics chapter transition",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-035"
+      ],
+      "narration_quote_asr_original": "Сучасний автомат – це вже не просто ствол, приклад і механічний приціл.",
+      "end": 206.53333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M4A1.png",
+      "country": "US",
+      "title": "ऑप्टिक्स",
+      "motion_kind": "verified_static",
+      "asset_id": "M4A1",
+      "source": "https://commons.wikimedia.org/wiki/File:PEO_M4_Carbine_RAS_M68_CCO.png",
+      "id": "hi-036",
+      "start": 206.53333333333333,
+      "duration": 5.966666666666669,
+      "visual_purpose": "Optic on the established American platform",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-036"
+      ],
+      "narration_quote_asr_original": "Для американських військових оптичні приціли давно стали звичним елементом спорядження. А нова система",
+      "end": 212.5,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M157_DETAIL.png",
+      "country": "US",
+      "title": "M157",
+      "motion_kind": "verified_static",
+      "asset_id": "M7",
+      "source": "https://commons.wikimedia.org/wiki/File:M7_Rifle.png",
+      "id": "hi-037",
+      "start": 212.5,
+      "duration": 2.833333333333343,
+      "visual_purpose": "M157 detail cropped from the official M7 photograph",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-037"
+      ],
+      "narration_quote_asr_original": "М-157 пішла ще далі.",
+      "end": 215.33333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M157_DETAIL.png",
+      "country": "US",
+      "title": "M157",
+      "motion_kind": "verified_static",
+      "asset_id": "M7",
+      "source": "https://commons.wikimedia.org/wiki/File:M7_Rifle.png",
+      "id": "hi-038",
+      "start": 215.33333333333334,
+      "duration": 8.0,
+      "visual_purpose": "M157 detail cropped from the official M7 photograph",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [
+        {
+          "start": 3.1333333333333258,
+          "end": 6.73333333333332,
+          "text": "रेंजफाइंडर · सेंसर"
+        }
+      ],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-038"
+      ],
+      "narration_quote_asr_original": "Вона поєднує оптику зі змінним збільшенням, лазерний деликомір, датчики та електронні засоби розрахунку.",
+      "end": 223.33333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M157_DETAIL.png",
+      "country": "US",
+      "title": "M157",
+      "motion_kind": "verified_static",
+      "asset_id": "M7",
+      "source": "https://commons.wikimedia.org/wiki/File:M7_Rifle.png",
+      "id": "hi-039",
+      "start": 223.33333333333334,
+      "duration": 4.599999999999994,
+      "visual_purpose": "M157 detail cropped from the official M7 photograph",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-039"
+      ],
+      "narration_quote_asr_original": "Фактично, це маленька система керування вогнем встановлена безпосередньо на гвинтівці.",
+      "end": 227.93333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "इलेक्ट्रॉनिक्स",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "वजन",
+          "detail": ""
+        },
+        {
+          "title": "बिजली की आपूर्ति",
+          "detail": ""
+        },
+        {
+          "title": "प्रशिक्षण",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-040",
+      "start": 227.93333333333334,
+      "duration": 9.799999999999983,
+      "visual_purpose": "Electronic capabilities have practical support needs",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-040"
+      ],
+      "narration_quote_asr_original": "Звучить вражаюче, але складніше електроніка також означає додаткову вагу, живлення та потребу в навчанні.",
+      "end": 237.73333333333332,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "CN",
+      "title": "ऑप्टिक्स · अभ्यास",
+      "motion_kind": "verified_video",
+      "asset_id": "CHINA_QBZ",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "id": "hi-041",
+      "start": 237.73333333333332,
+      "duration": 7.066666666666691,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Китайська QBZ-191 також створена з урахуванням використання сучасної оптики.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-041.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 8,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-041"
+      ],
+      "narration_quote_asr_original": "Китайська QBZ-191 також створена з урахуванням використання сучасної оптики.",
+      "archive_bank": "source-041",
+      "end": 244.8,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "CN",
+      "title": "ऑप्टिक्स · अभ्यास",
+      "motion_kind": "verified_video",
+      "asset_id": "CHINA_QBZ",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "id": "hi-042",
+      "start": 244.8,
+      "duration": 5.933333333333309,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: На ній можна побачити компактні оптичні приціли, а також обладнання для роботи в умовах обмеженої видимості.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-042.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 29,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-042"
+      ],
+      "narration_quote_asr_original": "На ній можна побачити компактні оптичні приціли, а також обладнання для роботи в умовах обмеженої видимості.",
+      "archive_bank": "source-042",
+      "end": 250.73333333333332,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "दो अलग बातें",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "उपलब्धता",
+          "detail": ""
+        },
+        {
+          "title": "वितरण",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-043",
+      "start": 250.73333333333332,
+      "duration": 16.26666666666668,
+      "visual_purpose": "A photographed system is not proof of distribution",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-043",
+        "shot-044"
+      ],
+      "narration_quote_asr_original": "Проте тут є важлива деталь – наявність сучасного прицілу на фотографії не означає, що ним оснащений кожен солдат.",
+      "end": 267.0,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "compare",
+      "title": "तकनीक और वास्तविक उपकरण",
+      "eyebrow": "",
+      "sides": [
+        {
+          "label": "अमेरिका",
+          "title": "अमेरिका",
+          "image": "assets/source_photos/M7.png",
+          "detail": ""
+        },
+        {
+          "label": "चीन",
+          "title": "चीन",
+          "image": "assets/source_photos/QBZ191.png",
+          "detail": ""
+        }
+      ],
+      "asset_ids": [
+        "M7",
+        "QBZ191"
+      ],
+      "id": "hi-044",
+      "start": 267.0,
+      "duration": 11.066666666666663,
+      "visual_purpose": "Technical comparison without fabricated availability figures",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-045"
+      ],
+      "narration_quote_asr_original": "Тому в цій категорії ми можемо впевнено порівнювати технології, але не можемо чесно порахувати, скільки таких прицілів припадає на кожну армію.",
+      "end": 278.06666666666666,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M320.png",
+      "country": "US",
+      "title": "ग्रेनेड लॉन्चर",
+      "motion_kind": "verified_static",
+      "asset_id": "M320",
+      "source": "https://commons.wikimedia.org/wiki/File:PEO_M320_Grenade_Launcher.jpg",
+      "id": "hi-045",
+      "start": 278.06666666666666,
+      "duration": 7.399999999999977,
+      "visual_purpose": "Grenade launcher chapter; model name held until the spoken onset",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-046"
+      ],
+      "narration_quote_asr_original": "Наступна категорія – гранатомети. Американські підрозділи використовують 40-мм системи, зокрема, підствольні гранатомети сімейства",
+      "end": 285.46666666666664,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M320.png",
+      "country": "US",
+      "title": "M320",
+      "motion_kind": "verified_static",
+      "asset_id": "M320",
+      "source": "https://commons.wikimedia.org/wiki/File:PEO_M320_Grenade_Launcher.jpg",
+      "id": "hi-046",
+      "start": 285.46666666666664,
+      "duration": 11.03333333333336,
+      "visual_purpose": "M320 and the already mentioned caliber",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-047"
+      ],
+      "narration_quote_asr_original": "М320. Вони дозволяють допомнити стрілетського зброєння окремими типами гранатометних боеприпасів.",
+      "end": 296.5,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "अलग-अलग कैलिबर",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "अमेरिका · 40 मिमी",
+          "detail": ""
+        },
+        {
+          "title": "चीन · 35 मिमी",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-047",
+      "start": 296.5,
+      "duration": 6.133333333333326,
+      "visual_purpose": "Chinese category shown as a caliber comparison, not a mislabeled M320",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-048"
+      ],
+      "narration_quote_asr_original": "Китай має власні розробки, зокрема, 35-мм гранатомети.",
+      "end": 302.6333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "विचार से सैन्य सेवा तक",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "विकास",
+          "detail": ""
+        },
+        {
+          "title": "परीक्षण",
+          "detail": ""
+        },
+        {
+          "title": "वितरण",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-048",
+      "start": 302.6333333333333,
+      "duration": 22.166666666666686,
+      "visual_purpose": "Program complexity is not the same as mass adoption",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-049",
+        "shot-050",
+        "shot-051"
+      ],
+      "narration_quote_asr_original": "Цікаво, що обидві країни експериментували зі складнішими системами, які поєднують стрілетську зброю та",
+      "end": 324.8,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "country": "US",
+      "title": "मशीन गन",
+      "motion_kind": "true_3d",
+      "asset_id": "M249",
+      "source": "https://www.blendkit.com/asset-gallery-detail/6b3ab3d4-e6f7-4623-a808-0d84eccfda69/",
+      "id": "hi-049",
+      "start": 324.8,
+      "duration": 9.433333333333337,
+      "visual_purpose": "Squad automatic-fire role before M249 is named",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/models/m249/spin.mp4",
+      "loop": true,
+      "fit": "contain",
+      "object_id": "M249",
+      "in": 0,
+      "original_scene_ids": [
+        "shot-052"
+      ],
+      "narration_quote_asr_original": "Один піхотинець має автомат, але підрозділу потрібна зброя здатна забезпечувати триваліший автоматичний вогонь.",
+      "bank_duration": 24,
+      "source_in": 0,
+      "rotation_degrees_per_second": 15,
+      "end": 334.23333333333335,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "country": "US",
+      "title": "मशीन गन",
+      "motion_kind": "true_3d",
+      "asset_id": "M249",
+      "source": "https://www.blendkit.com/asset-gallery-detail/6b3ab3d4-e6f7-4623-a808-0d84eccfda69/",
+      "id": "hi-050",
+      "start": 334.23333333333335,
+      "duration": 2.533333333333303,
+      "visual_purpose": "Squad automatic-fire role before M249 is named",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/models/m249/spin.mp4",
+      "loop": true,
+      "fit": "contain",
+      "object_id": "M249",
+      "in": 7.8,
+      "original_scene_ids": [
+        "shot-053"
+      ],
+      "narration_quote_asr_original": "У американців цю роль багато років виконував",
+      "bank_duration": 24,
+      "source_in": 9.433333333333337,
+      "rotation_degrees_per_second": 15,
+      "end": 336.76666666666665,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "country": "US",
+      "title": "M249",
+      "motion_kind": "true_3d",
+      "asset_id": "M249",
+      "source": "https://www.blendkit.com/asset-gallery-detail/6b3ab3d4-e6f7-4623-a808-0d84eccfda69/",
+      "id": "hi-051",
+      "start": 336.76666666666665,
+      "duration": 6.633333333333326,
+      "visual_purpose": "The actual M249 and its feed/caliber",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [
+        {
+          "start": 3.8666666666666742,
+          "end": 6.0,
+          "text": "5.56 मिमी"
+        }
+      ],
+      "animate_title": true,
+      "video": "assets/models/m249/spin.mp4",
+      "loop": true,
+      "fit": "contain",
+      "object_id": "M249",
+      "in": 10.333333333333332,
+      "original_scene_ids": [
+        "shot-054"
+      ],
+      "narration_quote_asr_original": "М249. Він використовує набій калібру 5,56 мм та",
+      "bank_duration": 24,
+      "source_in": 11.96666666666664,
+      "rotation_degrees_per_second": 15,
+      "end": 343.4,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "country": "US",
+      "title": "M249",
+      "motion_kind": "true_3d",
+      "asset_id": "M249",
+      "source": "https://www.blendkit.com/asset-gallery-detail/6b3ab3d4-e6f7-4623-a808-0d84eccfda69/",
+      "id": "hi-052",
+      "start": 343.4,
+      "duration": 3.2666666666667084,
+      "visual_purpose": "The actual M249 and its feed/caliber",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/models/m249/spin.mp4",
+      "loop": true,
+      "fit": "contain",
+      "object_id": "M249",
+      "in": 4.93333333333333,
+      "original_scene_ids": [
+        "shot-055"
+      ],
+      "narration_quote_asr_original": "стрічкове живлення. Тепер американці поступово переходять до",
+      "bank_duration": 24,
+      "source_in": 18.599999999999966,
+      "rotation_degrees_per_second": 15,
+      "end": 346.6666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "M250",
+      "motion_kind": "verified_video",
+      "asset_id": "M250",
+      "source": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "id": "hi-053",
+      "start": 346.6666666666667,
+      "duration": 4.633333333333326,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: М250. Цей кулемет використовує той самый новий набій калібру 6,8 мм, щой винтівка М7.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-056.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "ngsw",
+        "in": 88,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-056-archive"
+      ],
+      "narration_quote_asr_original": "М250. Цей кулемет використовує той самый новий набій калібру 6,8 мм, щой винтівка М7.",
+      "archive_bank": "source-056",
+      "end": 351.3,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "M250",
+      "motion_kind": "verified_video",
+      "asset_id": "M250",
+      "source": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "id": "hi-054",
+      "start": 351.3,
+      "duration": 6.099999999999966,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: М250. Цей кулемет використовує той самый новий набій калібру 6,8 мм, щой винтівка М7.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [
+        {
+          "start": 1.2666666666666515,
+          "end": 4.133333333333326,
+          "text": "6.8 मिमी"
+        }
+      ],
+      "animate_title": false,
+      "video": "assets/archive/source-057.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "ngsw",
+        "in": 92,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-056"
+      ],
+      "narration_quote_asr_original": "М250. Цей кулемет використовує той самый новий набій калібру 6,8 мм, щой винтівка М7.",
+      "archive_bank": "source-057",
+      "end": 357.4,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "compare",
+      "title": "नई पीढ़ी",
+      "eyebrow": "",
+      "sides": [
+        {
+          "label": "अमेरिका",
+          "title": "M7",
+          "image": "assets/source_photos/M7.png",
+          "detail": ""
+        },
+        {
+          "label": "अमेरिका",
+          "title": "M250",
+          "image": "assets/source_photos/M250.png",
+          "detail": ""
+        }
+      ],
+      "asset_ids": [
+        "M7",
+        "M250"
+      ],
+      "id": "hi-055",
+      "start": 357.4,
+      "duration": 7.366666666666674,
+      "visual_purpose": "The shared US modernization program",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-057"
+      ],
+      "narration_quote_asr_original": "Тобто американська програма модернізації охоплює одразу дві основні системи піхотного зброєння.",
+      "end": 364.76666666666665,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QBB95.png",
+      "country": "CN",
+      "title": "मशीन गन",
+      "motion_kind": "verified_static",
+      "asset_id": "QBB95",
+      "source": "https://commons.wikimedia.org/wiki/File:Machine_gun_Type95.jpg",
+      "id": "hi-056",
+      "start": 364.76666666666665,
+      "duration": 2.933333333333337,
+      "visual_purpose": "Chinese automatic-fire platform context",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-058"
+      ],
+      "narration_quote_asr_original": "У Китаї також відбувається перехід між поколіннями. Раніше поширеним був",
+      "end": 367.7,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QBB95.png",
+      "country": "CN",
+      "title": "QBB-95",
+      "motion_kind": "verified_static",
+      "asset_id": "QBB95",
+      "source": "https://commons.wikimedia.org/wiki/File:Machine_gun_Type95.jpg",
+      "id": "hi-057",
+      "start": 367.7,
+      "duration": 9.600000000000023,
+      "visual_purpose": "Correct QBB-95 photo with drum magazine",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-059"
+      ],
+      "narration_quote_asr_original": "QBB-9105, кулеметна версія зброї сімейства QBZ-9105. Серед новіших китайських розробок",
+      "end": 377.3,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "QJS-161",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "बेल्ट-फेड",
+          "detail": ""
+        },
+        {
+          "title": "बिजली की आपूर्ति",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-058",
+      "start": 377.3,
+      "duration": 5.333333333333314,
+      "visual_purpose": "No licensed verified QJS-161 picture found: a clearly typographic feed concept, not a fake weapon",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-060"
+      ],
+      "narration_quote_asr_original": "QJS-161 зі стрічковим живленням.",
+      "end": 382.6333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "प्रभावशीलता",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "विश्वसनीयता",
+          "detail": ""
+        },
+        {
+          "title": "प्रशिक्षण",
+          "detail": ""
+        },
+        {
+          "title": "आपसी तालमेल",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-059",
+      "start": 382.6333333333333,
+      "duration": 18.400000000000034,
+      "visual_purpose": "Effectiveness depends on a system, not isolated headline figures",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-061",
+        "shot-062",
+        "shot-063"
+      ],
+      "narration_quote_asr_original": "Це показує, як змінюються вимоги до піхотного підрозділу.",
+      "end": 401.03333333333336,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "पिस्तौल",
+      "motion_kind": "verified_video",
+      "asset_id": "M17",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "id": "hi-060",
+      "start": 401.03333333333336,
+      "duration": 8.633333333333326,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Пістолет далеко не головна зброє звичайного піхотинця. Найчастіше його можна побачити у військовослужбовців,",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-065.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 910,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-064"
+      ],
+      "narration_quote_asr_original": "Пістолет далеко не головна зброє звичайного піхотинця. Найчастіше його можна побачити у військовослужбовців,",
+      "archive_bank": "source-065",
+      "end": 409.6666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "पिस्तौल",
+      "motion_kind": "verified_video",
+      "asset_id": "M17",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "id": "hi-061",
+      "start": 409.6666666666667,
+      "duration": 4.46666666666664,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: для яких короткоствольна зброє передбачена посадою або конкретним завданням.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-066.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 918,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-065"
+      ],
+      "narration_quote_asr_original": "для яких короткоствольна зброє передбачена посадою або конкретним завданням.",
+      "archive_bank": "source-066",
+      "end": 414.1333333333333,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "पिस्तौल",
+      "motion_kind": "verified_video",
+      "asset_id": "M17",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "id": "hi-062",
+      "start": 414.1333333333333,
+      "duration": 2.466666666666697,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: У сполучених Штатах Америки сучасним штатним пістолетом став",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-067.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 927,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-066"
+      ],
+      "narration_quote_asr_original": "У сполучених Штатах Америки сучасним штатним пістолетом став",
+      "archive_bank": "source-067",
+      "end": 416.6,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "M17",
+      "motion_kind": "verified_video",
+      "asset_id": "M17",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "id": "hi-063",
+      "start": 416.6,
+      "duration": 6.2666666666666515,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: М17, створений на основі платформи ZX-AOR P320. Він прийшов на зміну старіші",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-068.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 940,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-067"
+      ],
+      "narration_quote_asr_original": "М17, створений на основі платформи ZX-AOR P320. Він прийшов на зміну старіші",
+      "archive_bank": "source-068",
+      "end": 422.8666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M9.png",
+      "country": "US",
+      "title": "BERETTA M9",
+      "motion_kind": "verified_static",
+      "asset_id": "M9",
+      "source": "https://commons.wikimedia.org/wiki/File:M9-pistolet.jpg",
+      "id": "hi-064",
+      "start": 422.8666666666667,
+      "duration": 1.7333333333333485,
+      "visual_purpose": "Beretta M9 at its spoken mention",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-068"
+      ],
+      "narration_quote_asr_original": "Берета М9.",
+      "end": 424.6,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QSZ92.png",
+      "country": "CN",
+      "title": "पिस्तौल",
+      "motion_kind": "verified_static",
+      "asset_id": "QSZ92",
+      "source": "https://commons.wikimedia.org/wiki/File:QSZ92_-_5.8mm_Pistol_20170919.jpg",
+      "id": "hi-065",
+      "start": 424.6,
+      "duration": 1.8333333333333144,
+      "visual_purpose": "Chinese sidearm context",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-069"
+      ],
+      "narration_quote_asr_original": "Китай тривали час використовував пістолети сімейства",
+      "end": 426.43333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QSZ92.png",
+      "country": "CN",
+      "title": "QSZ-92",
+      "motion_kind": "verified_static",
+      "asset_id": "QSZ92",
+      "source": "https://commons.wikimedia.org/wiki/File:QSZ92_-_5.8mm_Pistol_20170919.jpg",
+      "id": "hi-066",
+      "start": 426.43333333333334,
+      "duration": 6.2333333333333485,
+      "visual_purpose": "QSZ-92",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-070"
+      ],
+      "narration_quote_asr_original": "QSZ-92, а у 2019 році представив новішу модель",
+      "end": 432.6666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QSZ193.png",
+      "country": "CN",
+      "title": "QSZ-193",
+      "motion_kind": "verified_static",
+      "asset_id": "QSZ193",
+      "source": "https://commons.wikimedia.org/wiki/File:QSZ-193.jpg",
+      "id": "hi-067",
+      "start": 432.6666666666667,
+      "duration": 3.5,
+      "visual_purpose": "QSZ-193",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-071"
+      ],
+      "narration_quote_asr_original": "QSZ-193.",
+      "end": 436.1666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "compare",
+      "title": "सहायक हथियार",
+      "eyebrow": "",
+      "sides": [
+        {
+          "label": "अमेरिका",
+          "title": "M17",
+          "image": "assets/source_photos/M17.png",
+          "detail": ""
+        },
+        {
+          "label": "चीन",
+          "title": "QSZ-193",
+          "image": "assets/source_photos/QSZ193.png",
+          "detail": ""
+        }
+      ],
+      "asset_ids": [
+        "M17",
+        "QSZ193"
+      ],
+      "id": "hi-068",
+      "start": 436.1666666666667,
+      "duration": 14.5,
+      "visual_purpose": "Sidearm comparison without changing its importance",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-072",
+        "shot-073"
+      ],
+      "narration_quote_asr_original": "Обидві країни оновлюють короткоствольну зброю, але для загального снащення піхоти це значно менш важлива категорія,",
+      "end": 450.6666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "मार्क्समैन",
+      "motion_kind": "verified_video",
+      "asset_id": "M110A1",
+      "source": "https://www.dvidshub.net/video/929446/m110a1-squad-designated-marksmanship-rifle-range-day-b-roll",
+      "id": "hi-069",
+      "start": 450.6666666666667,
+      "duration": 5.433333333333337,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Некожна ціль перебуває на відстані, для якої найкращі підходить звичайний автомат.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-075.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m110",
+        "in": 37,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-074"
+      ],
+      "narration_quote_asr_original": "Некожна ціль перебуває на відстані, для якої найкращі підходить звичайний автомат.",
+      "archive_bank": "source-075",
+      "end": 456.1,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "मार्क्समैन",
+      "motion_kind": "verified_video",
+      "asset_id": "M110A1",
+      "source": "https://www.dvidshub.net/video/929446/m110a1-squad-designated-marksmanship-rifle-range-day-b-roll",
+      "id": "hi-070",
+      "start": 456.1,
+      "duration": 7.2999999999999545,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Тому в сучасних підрозділах існує роль спеціальну підготовленого стрільця Марк Смана.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-076.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m110",
+        "in": 45,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-075"
+      ],
+      "narration_quote_asr_original": "Тому в сучасних підрозділах існує роль спеціальну підготовленого стрільця Марк Смана.",
+      "archive_bank": "source-076",
+      "end": 463.4,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "मार्क्समैन राइफल",
+      "motion_kind": "verified_video",
+      "asset_id": "M110A1",
+      "source": "https://www.dvidshub.net/video/929446/m110a1-squad-designated-marksmanship-rifle-range-day-b-roll",
+      "id": "hi-071",
+      "start": 463.4,
+      "duration": 4.100000000000023,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: В американській армії одним із відповідних зразків є",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-077.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m110",
+        "in": 117,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-076"
+      ],
+      "narration_quote_asr_original": "В американській армії одним із відповідних зразків є",
+      "archive_bank": "source-077",
+      "end": 467.5,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "M110A1",
+      "motion_kind": "verified_video",
+      "asset_id": "M110A1",
+      "source": "https://www.dvidshub.net/video/929446/m110a1-squad-designated-marksmanship-rifle-range-day-b-roll",
+      "id": "hi-072",
+      "start": 467.5,
+      "duration": 7.666666666666686,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: М110А1. Це самозарядна гвинтівка, створена для точнішої стрільби на більших дистанціях.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-078.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m110",
+        "in": 54,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-077"
+      ],
+      "narration_quote_asr_original": "М110А1. Це самозарядна гвинтівка, створена для точнішої стрільби на більших дистанціях.",
+      "archive_bank": "source-078",
+      "end": 475.1666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QBU88.png",
+      "country": "CN",
+      "title": "मार्क्समैन राइफल",
+      "motion_kind": "verified_static",
+      "asset_id": "QBU88",
+      "source": "https://commons.wikimedia.org/wiki/File:Qbu-88-0.jpg",
+      "id": "hi-073",
+      "start": 475.1666666666667,
+      "duration": 3.1333333333333258,
+      "visual_purpose": "Chinese marksman context",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-078"
+      ],
+      "narration_quote_asr_original": "Китай має власне сімейство зброї для цієї ролі.",
+      "end": 478.3,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QBU88.png",
+      "country": "CN",
+      "title": "QBU-88",
+      "motion_kind": "verified_static",
+      "asset_id": "QBU88",
+      "source": "https://commons.wikimedia.org/wiki/File:Qbu-88-0.jpg",
+      "id": "hi-074",
+      "start": 478.3,
+      "duration": 7.46666666666664,
+      "visual_purpose": "QBU-88",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-079"
+      ],
+      "narration_quote_asr_original": "Старішу QBU-88 поступово доповнюють або замінюють новішими системами, зокрема",
+      "end": 485.76666666666665,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/QBU191.png",
+      "country": "CN",
+      "title": "QBU-191",
+      "motion_kind": "verified_static",
+      "asset_id": "QBU191",
+      "source": "https://commons.wikimedia.org/wiki/File:QBU191_20250921.jpg",
+      "id": "hi-075",
+      "start": 485.76666666666665,
+      "duration": 2.6999999999999886,
+      "visual_purpose": "QBU-191 begins at the spoken QBU syllable",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-080"
+      ],
+      "narration_quote_asr_original": "QBU-191.",
+      "end": 488.46666666666664,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "compare",
+      "title": "समान तकनीकी प्लेटफॉर्म",
+      "eyebrow": "",
+      "sides": [
+        {
+          "label": "चीन",
+          "title": "QBZ-191",
+          "image": "assets/source_photos/QBZ191.png",
+          "detail": ""
+        },
+        {
+          "label": "चीन",
+          "title": "QBU-191",
+          "image": "assets/source_photos/QBU191.png",
+          "detail": ""
+        }
+      ],
+      "asset_ids": [
+        "QBZ191",
+        "QBU191"
+      ],
+      "id": "hi-076",
+      "start": 488.46666666666664,
+      "duration": 14.5,
+      "visual_purpose": "Family resemblance shown with the correctly identified two Chinese platforms",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-081",
+        "shot-082"
+      ],
+      "narration_quote_asr_original": "І тут знову помітна спільна тенденція. Зброя різних спеціалізацій, де далі частіше використовує споріднені",
+      "end": 502.96666666666664,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "section",
+      "eyebrow": "",
+      "title": "टैंक रोधी हथियार",
+      "subtitle": "",
+      "id": "hi-077",
+      "start": 502.96666666666664,
+      "duration": 13.400000000000034,
+      "visual_purpose": "The category of portable anti-armor systems",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-083",
+        "shot-084"
+      ],
+      "narration_quote_asr_original": "Навіть добре оснащена піхота може зіткнутися збронюваною технікою.",
+      "end": 516.3666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/JAVELIN.png",
+      "country": "US",
+      "title": "JAVELIN",
+      "motion_kind": "verified_static",
+      "asset_id": "JAVELIN",
+      "source": "https://commons.wikimedia.org/wiki/File:Javelin_with_checkout_equipment.jpg",
+      "id": "hi-078",
+      "start": 516.3666666666667,
+      "duration": 9.100000000000023,
+      "visual_purpose": "Javelin object photo",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-085"
+      ],
+      "narration_quote_asr_original": "джевелін. Це керований ракетний комплекс, який став широковідомим далеко за межами Америки. Ще одна система –",
+      "end": 525.4666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/CARLGUSTAF.png",
+      "country": "US",
+      "title": "CARL GUSTAF",
+      "motion_kind": "verified_static",
+      "asset_id": "CARLGUSTAF",
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_Gustav_M4_(1)_(brightened,_no_background)_(leveled).png",
+      "id": "hi-079",
+      "start": 525.4666666666667,
+      "duration": 8.066666666666606,
+      "visual_purpose": "Carl Gustaf object photo",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-086"
+      ],
+      "narration_quote_asr_original": "Карл Густав – багатуразова безвідкотна зброя, для якої існують різні типи боєприпасів.",
+      "end": 533.5333333333333,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/HJ12.png",
+      "country": "CN",
+      "title": "टैंक रोधी प्रणाली",
+      "motion_kind": "verified_static",
+      "asset_id": "HJ12",
+      "source": "https://commons.wikimedia.org/wiki/File:HJ-12_20250921.jpg",
+      "id": "hi-080",
+      "start": 533.5333333333333,
+      "duration": 4.333333333333371,
+      "visual_purpose": "Chinese systems context, no name early",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-087"
+      ],
+      "narration_quote_asr_original": "Китай також розробляє власні протитанкові комплекси, серед них",
+      "end": 537.8666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/HJ12.png",
+      "country": "CN",
+      "title": "HJ-12",
+      "motion_kind": "verified_static",
+      "asset_id": "HJ12",
+      "source": "https://commons.wikimedia.org/wiki/File:HJ-12_20250921.jpg",
+      "id": "hi-081",
+      "start": 537.8666666666667,
+      "duration": 7.0,
+      "visual_purpose": "HJ-12 and its shared general role",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-088"
+      ],
+      "narration_quote_asr_original": "HJ-12, який часто порівнюють з американським джевелін через подібне загальне призначення.",
+      "end": 544.8666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "महत्वपूर्ण परिस्थितियाँ",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "घोषित क्षमता",
+          "detail": ""
+        },
+        {
+          "title": "सत्यापित क्षमता",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-082",
+      "start": 544.8666666666667,
+      "duration": 16.600000000000023,
+      "visual_purpose": "No unsupported range or penetration numbers",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-089",
+        "shot-090"
+      ],
+      "narration_quote_asr_original": "Але порівнювати такі системи лише за рекламованою дальністю або заявленими можливостями неправильно.",
+      "end": 561.4666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "compare",
+      "title": "समान भूमिका",
+      "eyebrow": "",
+      "sides": [
+        {
+          "label": "अमेरिका",
+          "title": "JAVELIN",
+          "image": "assets/source_photos/JAVELIN.png",
+          "detail": ""
+        },
+        {
+          "label": "चीन",
+          "title": "HJ-12",
+          "image": "assets/source_photos/HJ12.png",
+          "detail": ""
+        }
+      ],
+      "asset_ids": [
+        "JAVELIN",
+        "HJ12"
+      ],
+      "id": "hi-083",
+      "start": 561.4666666666667,
+      "duration": 11.299999999999955,
+      "visual_purpose": "Both armies include this class of system",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-091"
+      ],
+      "narration_quote_asr_original": "Тому тут важливіше інше. Обидві армії розглядають переносне протитанкове озброєння як невідільну частину сучасної піхоти.",
+      "end": 572.7666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "section",
+      "eyebrow": "",
+      "title": "सैनिक की सुरक्षा",
+      "subtitle": "",
+      "id": "hi-084",
+      "start": 572.7666666666667,
+      "duration": 7.133333333333326,
+      "visual_purpose": "Protection chapter",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-092"
+      ],
+      "narration_quote_asr_original": "А тепер те, що може бути важливішим – зановий автомат – захист самого солдата.",
+      "end": 579.9,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "हेलमेट",
+      "motion_kind": "verified_video",
+      "asset_id": "IHPS",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "id": "hi-085",
+      "start": 579.9,
+      "duration": 3.8666666666666742,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Американська армія використовує сучасні балістичні шоломи, зокрема –",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-094.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 221,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-093"
+      ],
+      "narration_quote_asr_original": "Американська армія використовує сучасні балістичні шоломи, зокрема –",
+      "archive_bank": "source-094",
+      "end": 583.7666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "IHPS",
+      "motion_kind": "verified_video",
+      "asset_id": "IHPS",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "id": "hi-086",
+      "start": 583.7666666666667,
+      "duration": 4.56666666666672,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Integrated Head Protection System. Його завдання – не тільки забезпечувати захист голови,",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-095.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 232,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-094"
+      ],
+      "narration_quote_asr_original": "Integrated Head Protection System. Його завдання – не тільки забезпечувати захист голови,",
+      "archive_bank": "source-095",
+      "end": 588.3333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "IHPS",
+      "motion_kind": "verified_video",
+      "asset_id": "IHPS",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "id": "hi-087",
+      "start": 588.3333333333334,
+      "duration": 8.533333333333303,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: шолом також слугує основою для встановлення додаткового обладнання. Приледівнічного бачення, засобів зв'язку та інших компонентів.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-096.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 242,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-095"
+      ],
+      "narration_quote_asr_original": "шолом також слугує основою для встановлення додаткового обладнання. Приледівнічного бачення, засобів зв'язку та інших компонентів.",
+      "archive_bank": "source-096",
+      "end": 596.8666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "CN",
+      "title": "हेलमेट · अभ्यास",
+      "motion_kind": "verified_video",
+      "asset_id": "CHINA_TRAINING",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "id": "hi-088",
+      "start": 596.8666666666667,
+      "duration": 7.93333333333328,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Китайські військові також використовують сучасні композитні шоломи, а новіші моделі мають креплення для додаткового оснащення.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-097.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 8,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-096"
+      ],
+      "narration_quote_asr_original": "Китайські військові також використовують сучасні композитні шоломи, а новіші моделі мають креплення для додаткового оснащення.",
+      "archive_bank": "source-097",
+      "end": 604.8,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "मॉड्यूलर सुरक्षा",
+      "motion_kind": "verified_video",
+      "asset_id": "MSV",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "id": "hi-089",
+      "start": 604.8,
+      "duration": 6.400000000000091,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Схоже ситуація з бронежилетами. У сполучених Штатах Америки використовують модульні системи захисту.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-098.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 27,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-097"
+      ],
+      "narration_quote_asr_original": "Схоже ситуація з бронежилетами. У сполучених Штатах Америки використовують модульні системи захисту.",
+      "archive_bank": "source-098",
+      "end": 611.2,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "मॉड्यूलर सुरक्षा",
+      "motion_kind": "verified_video",
+      "asset_id": "MSV",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "id": "hi-090",
+      "start": 611.2,
+      "duration": 7.7999999999999545,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Залежно від конфігурації вони можуть поєднувати балістичні плити, які захисні елементи та різноманітні підсумки.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-099.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 38,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-098"
+      ],
+      "narration_quote_asr_original": "Залежно від конфігурації вони можуть поєднувати балістичні плити, які захисні елементи та різноманітні підсумки.",
+      "archive_bank": "source-099",
+      "end": 619.0,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "CN",
+      "title": "व्यक्तिगत सुरक्षा",
+      "motion_kind": "verified_video",
+      "asset_id": "CHINA_TRAINING",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "id": "hi-091",
+      "start": 619.0,
+      "duration": 3.1333333333333258,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: У Китаї також розвиваються модуні комплекти індивідуального захисту.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-100.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 13,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-099"
+      ],
+      "narration_quote_asr_original": "У Китаї також розвиваються модуні комплекти індивідуального захисту.",
+      "archive_bank": "source-100",
+      "end": 622.1333333333333,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "एकीकृत प्रणाली",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "सुरक्षा",
+          "detail": ""
+        },
+        {
+          "title": "संचार",
+          "detail": ""
+        },
+        {
+          "title": "सैनिक के उपकरण",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-092",
+      "start": 622.1333333333333,
+      "duration": 5.5,
+      "visual_purpose": "Protection must work with the rest of the equipment",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-100"
+      ],
+      "narration_quote_asr_original": "І тут цікаво те, наскільки схожими стали загані принципи.",
+      "end": 627.6333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "एकीकृत प्रणाली",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-093",
+      "start": 627.6333333333333,
+      "duration": 3.933333333333394,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Сучасний бронежилет – це не просто важка захисна конструкція.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-102.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 190,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-101"
+      ],
+      "narration_quote_asr_original": "Сучасний бронежилет – це не просто важка захисна конструкція.",
+      "archive_bank": "source-102",
+      "end": 631.5666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "एकीकृत प्रणाली",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-094",
+      "start": 631.5666666666667,
+      "duration": 8.133333333333326,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Це система, яку потрібно поєднати зі зброю, засобами зв'язку, бойеприпасами та іншими предметами спорядження.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-103.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 198,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-102"
+      ],
+      "narration_quote_asr_original": "Це система, яку потрібно поєднати зі зброю, засобами зв'язку, бойеприпасами та іншими предметами спорядження.",
+      "archive_bank": "source-103",
+      "end": 639.7,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "सामग्री और कॉन्फ़िगरेशन",
+      "motion_kind": "verified_video",
+      "asset_id": "MSV",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "id": "hi-095",
+      "start": 639.7,
+      "duration": 5.666666666666629,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Але рівень захисту залежить від конкретних матеріалів і плит, а не від зовнішнього вигляду.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-104.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 47,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-103"
+      ],
+      "narration_quote_asr_original": "Але рівень захисту залежить від конкретних матеріалів і плит, а не від зовнішнього вигляду.",
+      "archive_bank": "source-104",
+      "end": 645.3666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "सामग्री और कॉन्फ़िगरेशन",
+      "motion_kind": "verified_video",
+      "asset_id": "MSV",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "id": "hi-096",
+      "start": 645.3666666666667,
+      "duration": 6.2999999999999545,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Тому визначити, чий бронежилет кращий, лише за фотографію неможливо.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-105.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 98,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-104"
+      ],
+      "narration_quote_asr_original": "Тому визначити, чий бронежилет кращий, лише за фотографію неможливо.",
+      "archive_bank": "source-105",
+      "end": 651.6666666666666,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "सारा सामान साथ ले जाना है",
+      "eyebrow": "",
+      "asset_ids": [
+        "M4A1",
+        "MSV",
+        "IFAK"
+      ],
+      "id": "hi-097",
+      "start": 651.6666666666666,
+      "duration": 6.866666666666674,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Уявімо, що солдат уже отримав автомат, бронежилет, шолом, бойеприпаси,",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-106.mp4",
+      "fit": "cover",
+      "motion_kind": "verified_video",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 510,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-105"
+      ],
+      "narration_quote_asr_original": "Уявімо, що солдат уже отримав автомат, бронежилет, шолом, бойеприпаси,",
+      "archive_bank": "source-106",
+      "end": 658.5333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "सारा सामान साथ ले जाना है",
+      "eyebrow": "",
+      "asset_ids": [
+        "M4A1",
+        "MSV",
+        "IFAK"
+      ],
+      "id": "hi-098",
+      "start": 658.5333333333333,
+      "duration": 6.2333333333333485,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: воду, аптечку та засоби зв'язку. Тепер усе це потрібно нести.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-107.mp4",
+      "fit": "cover",
+      "motion_kind": "verified_video",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 518,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-106"
+      ],
+      "narration_quote_asr_original": "воду, аптечку та засоби зв'язку. Тепер усе це потрібно нести.",
+      "archive_bank": "source-107",
+      "end": 664.7666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "कुल भार",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "सुरक्षा",
+          "detail": ""
+        },
+        {
+          "title": "उपकरण",
+          "detail": ""
+        },
+        {
+          "title": "अतिरिक्त सामान",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-099",
+      "start": 664.7666666666667,
+      "duration": 9.433333333333394,
+      "visual_purpose": "The total load is qualitative; no invented kilograms",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-107"
+      ],
+      "narration_quote_asr_original": "І саме тут виникає проблема, спільна для багатьох сучасних армій. Кожне нове обладнання може бути корисним окремо,",
+      "end": 674.2,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "कुल भार",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-100",
+      "start": 674.2,
+      "duration": 10.233333333333235,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: але разом воно створює значне навантаження. Залежно від завдання, повний комплекс спорядження може важити десятки кілограмів.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-109.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 529,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-108"
+      ],
+      "narration_quote_asr_original": "але разом воно створює значне навантаження. Залежно від завдання, повний комплекс спорядження може важити десятки кілограмів.",
+      "archive_bank": "source-109",
+      "end": 684.4333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "उपकरणों की व्यवस्था",
+      "motion_kind": "verified_video",
+      "asset_id": "MSV",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "id": "hi-101",
+      "start": 684.4333333333333,
+      "duration": 4.800000000000068,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Американська армія протягом багатьох років шукає способи зменшити цю вагу.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-110.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 109,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-109"
+      ],
+      "narration_quote_asr_original": "Американська армія протягом багатьох років шукає способи зменшити цю вагу.",
+      "archive_bank": "source-110",
+      "end": 689.2333333333333,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "CN",
+      "title": "उपकरणों की व्यवस्था",
+      "motion_kind": "verified_video",
+      "asset_id": "CHINA_TRAINING",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "id": "hi-102",
+      "start": 689.2333333333333,
+      "duration": 6.466666666666697,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Китай також використовує модульні системи розміщення обладнання та рюб заки різного призначення.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-111.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 19,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-110"
+      ],
+      "narration_quote_asr_original": "Китай також використовує модульні системи розміщення обладнання та рюб заки різного призначення.",
+      "archive_bank": "source-111",
+      "end": 695.7,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "लाभ और सीमाएँ",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-103",
+      "start": 695.7,
+      "duration": 6.233333333333235,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Однак універсального рішення немає. Лекший комплект означає більшу рухливість,",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-112.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 548,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-111"
+      ],
+      "narration_quote_asr_original": "Однак універсального рішення немає. Лекший комплект означає більшу рухливість,",
+      "archive_bank": "source-112",
+      "end": 701.9333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "लाभ और सीमाएँ",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-104",
+      "start": 701.9333333333333,
+      "duration": 4.466666666666697,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: але іноді потребує відмови від частини захисту або додаткових запасів.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-113.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/999828/proper-wear-ipe-msv-and-ihps",
+      "archive_edit": {
+        "source": "us-ihps-msv",
+        "in": 151,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-112"
+      ],
+      "narration_quote_asr_original": "але іноді потребує відмови від частини захисту або додаткових запасів.",
+      "archive_bank": "source-113",
+      "end": 706.4,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "लाभ और सीमाएँ",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-105",
+      "start": 706.4,
+      "duration": 6.5,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: А ваший комплект може забезпечувати більше можливостей ціною фізичного навантаження.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-114.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 560,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-113"
+      ],
+      "narration_quote_asr_original": "А ваший комплект може забезпечувати більше можливостей ціною фізичного навантаження.",
+      "archive_bank": "source-114",
+      "end": 712.9,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "लाभ और सीमाएँ",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "क्षमताएँ",
+          "detail": ""
+        },
+        {
+          "title": "शारीरिक भार",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-106",
+      "start": 712.9,
+      "duration": 4.933333333333394,
+      "visual_purpose": "Capability versus physical load",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-114"
+      ],
+      "narration_quote_asr_original": "Це компроміс, із яким стикаються обидві армії.",
+      "end": 717.8333333333334,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "नाइट विज़न",
+      "motion_kind": "verified_video",
+      "asset_id": "ENVGB",
+      "source": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "id": "hi-107",
+      "start": 717.8333333333334,
+      "duration": 5.43333333333328,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Одна з найцікавіших категорій – обладнання для роботи в темреві.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-116.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-envg",
+        "in": 265,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-115"
+      ],
+      "narration_quote_asr_original": "Одна з найцікавіших категорій – обладнання для роботи в темреві.",
+      "archive_bank": "source-116",
+      "end": 723.2666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "नाइट विज़न",
+      "motion_kind": "verified_video",
+      "asset_id": "ENVGB",
+      "source": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "id": "hi-108",
+      "start": 723.2666666666667,
+      "duration": 6.133333333333326,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Американська армія вже давно інвестує в приладинічного бачення. Серед сучасних систем –",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-117.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-envg",
+        "in": 1,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-116"
+      ],
+      "narration_quote_asr_original": "Американська армія вже давно інвестує в приладинічного бачення. Серед сучасних систем –",
+      "archive_bank": "source-117",
+      "end": 729.4,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "ENVG-B",
+      "motion_kind": "verified_video",
+      "asset_id": "ENVGB",
+      "source": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "id": "hi-109",
+      "start": 729.4,
+      "duration": 8.433333333333394,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: і НВДБ. Це бінокулярний пристрій, який поєднує підсилення зображення та тепловізійні можливості.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-118.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-envg",
+        "in": 34,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-117"
+      ],
+      "narration_quote_asr_original": "і НВДБ. Це бінокулярний пристрій, який поєднує підсилення зображення та тепловізійні можливості.",
+      "archive_bank": "source-118",
+      "end": 737.8333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "ENVG-B",
+      "motion_kind": "verified_video",
+      "asset_id": "ENVGB",
+      "source": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "id": "hi-110",
+      "start": 737.8333333333334,
+      "duration": 3.699999999999932,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Він також може працювати разом з іншими електронними системами солдата.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-119.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-envg",
+        "in": 52,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-118"
+      ],
+      "narration_quote_asr_original": "Він також може працювати разом з іншими електронними системами солдата.",
+      "archive_bank": "source-119",
+      "end": 741.5333333333333,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "ENVG-B · विवरण",
+      "motion_kind": "verified_video",
+      "asset_id": "NV",
+      "source": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "id": "hi-111",
+      "start": 741.5333333333333,
+      "duration": 10.366666666666674,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Фактично сучасне військовий отримує непросто можливість бачити за слабкого освітлення, а додатковий інструмент – для орієнтування.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-120.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-envg",
+        "in": 431,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-119"
+      ],
+      "narration_quote_asr_original": "Фактично сучасне військовий отримує непросто можливість бачити за слабкого освітлення, а додатковий інструмент – для орієнтування.",
+      "archive_bank": "source-120",
+      "end": 751.9,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "रात में निगरानी",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-112",
+      "start": 751.9,
+      "duration": 4.1666666666667425,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Китай також виробляє власні приладинічного бачення та тепловізійні системи.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-121.mp4",
+      "fit": "cover",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 29,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-120"
+      ],
+      "narration_quote_asr_original": "Китай також виробляє власні приладинічного бачення та тепловізійні системи.",
+      "archive_bank": "source-121",
+      "end": 756.0666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "रात में निगरानी",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-113",
+      "start": 756.0666666666667,
+      "duration": 6.966666666666583,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: На офіційних кадрах китайських навчань можна побачити військових із таким обладнанням.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-122.mp4",
+      "fit": "cover",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 9,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-121"
+      ],
+      "narration_quote_asr_original": "На офіційних кадрах китайських навчань можна побачити військових із таким обладнанням.",
+      "archive_bank": "source-122",
+      "end": 763.0333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "उपकरणों का वास्तविक वितरण",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "तकनीक",
+          "detail": ""
+        },
+        {
+          "title": "सार्वजनिक जानकारी",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-114",
+      "start": 763.0333333333333,
+      "duration": 16.73333333333335,
+      "visual_purpose": "Availability is unknown: never invent a distribution percentage",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-122",
+        "shot-123",
+        "shot-124"
+      ],
+      "narration_quote_asr_original": "Але наскільки масово воно використовується, це питання залишається відкритим.",
+      "end": 779.7666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "नई तकनीक हमेशा व्यापक नहीं होती",
+      "motion_kind": "verified_video",
+      "asset_id": "ENVGB",
+      "source": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "id": "hi-115",
+      "start": 779.7666666666667,
+      "duration": 8.5,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Тому ми можемо порівнювати самі технології, але точний масштаб оснащення залишається невідомим.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-126.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-envg",
+        "in": 315,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-125"
+      ],
+      "narration_quote_asr_original": "Тому ми можемо порівнювати самі технології, але точний масштаб оснащення залишається невідомим.",
+      "archive_bank": "source-126",
+      "end": 788.2666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/IFAK_CUT.png",
+      "country": "US",
+      "title": "व्यक्तिगत मेडिकल किट",
+      "motion_kind": "verified_static",
+      "asset_id": "IFAK",
+      "source": "https://commons.wikimedia.org/wiki/File:IFAK_II.jpg",
+      "id": "hi-116",
+      "start": 788.2666666666667,
+      "duration": 9.5,
+      "visual_purpose": "The individual kit is named in the voice",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-126"
+      ],
+      "narration_quote_asr_original": "Є один предмет, який майже ніколи не потрапляє на рекламні фотографії зброї, але його значення величезне – індивідуальна аптечка.",
+      "end": 797.7666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/IFAK_CUT.png",
+      "country": "US",
+      "title": "मेडिकल किट",
+      "motion_kind": "verified_static",
+      "asset_id": "IFAK",
+      "source": "https://commons.wikimedia.org/wiki/File:IFAK_II.jpg",
+      "id": "hi-117",
+      "start": 797.7666666666667,
+      "duration": 6.133333333333326,
+      "visual_purpose": "Actual photographed IFAK contents, no universal kit promise",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-127"
+      ],
+      "narration_quote_asr_original": "В американських військових медичне спорядження та навчання надання допомоги є важливою частиною підготовки.",
+      "end": 803.9,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/IFAK_CUT.png",
+      "country": "US",
+      "title": "मेडिकल किट",
+      "motion_kind": "verified_static",
+      "asset_id": "IFAK",
+      "source": "https://commons.wikimedia.org/wiki/File:IFAK_II.jpg",
+      "id": "hi-118",
+      "start": 803.9,
+      "duration": 8.06666666666672,
+      "visual_purpose": "Actual photographed IFAK contents, no universal kit promise",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-128"
+      ],
+      "narration_quote_asr_original": "Типовий набір може містити турнікет, прив'язувальні матеріали та інші засоби, залишено від стандарту комплектації.",
+      "end": 811.9666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "चिकित्सा व्यवस्था",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-119",
+      "start": 811.9666666666667,
+      "duration": 5.399999999999977,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Китайська армія також проділяє увагу індивідуальним медичним комплектам і підготовці військовослужбовців.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-130.mp4",
+      "fit": "cover",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10191444.html",
+      "archive_edit": {
+        "source": "cn-medical",
+        "in": 51,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-129"
+      ],
+      "narration_quote_asr_original": "Китайська армія також проділяє увагу індивідуальним медичним комплектам і підготовці військовослужбовців.",
+      "archive_bank": "source-130",
+      "end": 817.3666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "पूरी व्यवस्था महत्वपूर्ण है",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-120",
+      "start": 817.3666666666667,
+      "duration": 6.5,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Але сам факт на явності аптечки ще не означає однакового рівня медичного забезпечення.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-131.mp4",
+      "fit": "cover",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10191444.html",
+      "archive_edit": {
+        "source": "cn-medical",
+        "in": 26,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-130"
+      ],
+      "narration_quote_asr_original": "Але сам факт на явності аптечки ще не означає однакового рівня медичного забезпечення.",
+      "archive_bank": "source-131",
+      "end": 823.8666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "पूरी व्यवस्था महत्वपूर्ण है",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-121",
+      "start": 823.8666666666667,
+      "duration": 7.2999999999999545,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Важливі якість матеріалів, підготовка людей і вся система подальшої медичної допомоги.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-132.mp4",
+      "fit": "cover",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10191444.html",
+      "archive_edit": {
+        "source": "cn-medical",
+        "in": 40,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-131"
+      ],
+      "narration_quote_asr_original": "Важливі якість матеріалів, підготовка людей і вся система подальшої медичної допомоги.",
+      "archive_bank": "source-132",
+      "end": 831.1666666666666,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "पूरी व्यवस्था महत्वपूर्ण है",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "सामग्री",
+          "detail": ""
+        },
+        {
+          "title": "प्रशिक्षण",
+          "detail": ""
+        },
+        {
+          "title": "चिकित्सा सहायता",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-122",
+      "start": 831.1666666666666,
+      "duration": 5.466666666666697,
+      "visual_purpose": "Medical outcomes depend on more than a pouch",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-132"
+      ],
+      "narration_quote_asr_original": "І це одна з категорій, де зовнішні вивлят спорядження говорить найменше.",
+      "end": 836.6333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "अलग-अलग परिस्थितियाँ",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "रेगिस्तान",
+          "detail": ""
+        },
+        {
+          "title": "पहाड़",
+          "detail": ""
+        },
+        {
+          "title": "ठंड",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-123",
+      "start": 836.6333333333333,
+      "duration": 8.666666666666629,
+      "visual_purpose": "Climates mentioned in the narration, no made-up temperatures",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-133"
+      ],
+      "narration_quote_asr_original": "Сполучені штати та Китай мають дуже різні географічні умови.",
+      "end": 845.3,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "अलग-अलग परिस्थितियाँ",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-124",
+      "start": 845.3,
+      "duration": 5.866666666666674,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Американські військові можуть проходити службу в пустелях, горах, лісах і холодних регіонах.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-135.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/772534/envg-b-fws-fielding",
+      "archive_edit": {
+        "source": "us-envg",
+        "in": 225,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-134"
+      ],
+      "narration_quote_asr_original": "Американські військові можуть проходити службу в пустелях, горах, лісах і холодних регіонах.",
+      "archive_bank": "source-135",
+      "end": 851.1666666666666,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "अलग-अलग परिस्थितियाँ",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-125",
+      "start": 851.1666666666666,
+      "duration": 10.633333333333326,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Китайська армія також готується до широкого діапазону кліматичних умов. Від вологих південих районів до Високогір'я та Суворих Зим.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-136.mp4",
+      "fit": "cover",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/16204813.html",
+      "archive_edit": {
+        "source": "cn-plateau",
+        "in": 13,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-135"
+      ],
+      "narration_quote_asr_original": "Китайська армія також готується до широкого діапазону кліматичних умов. Від вологих південих районів до Високогір'я та Суворих Зим.",
+      "archive_bank": "source-136",
+      "end": 861.8,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "कैमोफ्लाज",
+      "motion_kind": "verified_video",
+      "asset_id": "OCP",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "id": "hi-126",
+      "start": 861.8,
+      "duration": 2.900000000000091,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Для американської армії характерне використання камуфляжу",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-137.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 620,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-136"
+      ],
+      "narration_quote_asr_original": "Для американської армії характерне використання камуфляжу",
+      "archive_bank": "source-137",
+      "end": 864.7,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/OCP.png",
+      "country": "US",
+      "title": "OCP",
+      "motion_kind": "verified_static",
+      "asset_id": "OCP",
+      "source": "https://commons.wikimedia.org/wiki/File:OCP_Swatch.jpg",
+      "full_bleed": true,
+      "id": "hi-127",
+      "start": 864.7,
+      "duration": 2.199999999999932,
+      "visual_purpose": "Actual OCP swatch",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-137"
+      ],
+      "narration_quote_asr_original": "Operational Camouflage Pattern.",
+      "end": 866.9,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/XINGKONG_CUT.png",
+      "country": "CN",
+      "title": "कैमोफ्लाज",
+      "motion_kind": "verified_static",
+      "asset_id": "XINGKONG",
+      "source": "https://commons.wikimedia.org/wiki/File:Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png",
+      "id": "hi-128",
+      "start": 866.9,
+      "duration": 4.466666666666697,
+      "visual_purpose": "The verified Type 19 blouse crop",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-138"
+      ],
+      "narration_quote_asr_original": "Китай у 2019 році продемонстрував нове покоління камуфляжу",
+      "end": 871.3666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/XINGKONG_CUT.png",
+      "country": "CN",
+      "title": "XINGKONG",
+      "motion_kind": "verified_static",
+      "asset_id": "XINGKONG",
+      "source": "https://commons.wikimedia.org/wiki/File:Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png",
+      "id": "hi-129",
+      "start": 871.3666666666667,
+      "duration": 3.3666666666666742,
+      "visual_purpose": "Xingkong at the spoken pattern-name onset",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-139"
+      ],
+      "narration_quote_asr_original": "Synconge, що перекладається як зоряне небо.",
+      "end": 874.7333333333333,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/XINGKONG_CUT.png",
+      "country": "CN",
+      "title": "XINGKONG",
+      "motion_kind": "verified_static",
+      "asset_id": "XINGKONG",
+      "source": "https://commons.wikimedia.org/wiki/File:Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png",
+      "id": "hi-130",
+      "start": 874.7333333333333,
+      "duration": 8.366666666666674,
+      "visual_purpose": "Xingkong at the spoken pattern-name onset",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-140"
+      ],
+      "narration_quote_asr_original": "Воно має кілька варіантів забарвлення для різних умов, але кольор тканини лише одна частина питання.",
+      "end": 883.1,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "परिस्थितियों के अनुरूप",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-131",
+      "start": 883.1,
+      "duration": 11.733333333333348,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Неменш важливі захист від холоду, вологи, перегрівання та можливість носити форму разом із бронезахистом.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-142.mp4",
+      "fit": "cover",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 21,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-141"
+      ],
+      "narration_quote_asr_original": "Неменш важливі захист від холоду, вологи, перегрівання та можливість носити форму разом із бронезахистом.",
+      "archive_bank": "source-142",
+      "end": 894.8333333333334,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "परिस्थितियों के अनुरूप",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "ठंड",
+          "detail": ""
+        },
+        {
+          "title": "नमी",
+          "detail": ""
+        },
+        {
+          "title": "गर्मी",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-132",
+      "start": 894.8333333333334,
+      "duration": 10.299999999999955,
+      "visual_purpose": "Clothing must match environment, no universal winner",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-142"
+      ],
+      "narration_quote_asr_original": "У цій категорії неможливо назвати універсального перемушця. Спорядження має відповідати конкретному середовищу.",
+      "end": 905.1333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "eyebrow": "",
+      "title": "मैदानी परिस्थितियों में भोजन",
+      "subtitle": "",
+      "id": "hi-133",
+      "start": 905.1333333333333,
+      "duration": 8.166666666666629,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Після зброї бронежелетів та електроніки перейдемо до чогось значно звичнішого – ЄЗІ.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-144.mp4",
+      "fit": "cover",
+      "motion_kind": "verified_video",
+      "source": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "archive_edit": {
+        "source": "us-mre",
+        "in": 18,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-143"
+      ],
+      "narration_quote_asr_original": "Після зброї бронежелетів та електроніки перейдемо до чогось значно звичнішого – ЄЗІ.",
+      "archive_bank": "source-144",
+      "end": 913.3,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "फील्ड राशन",
+      "motion_kind": "verified_video",
+      "asset_id": "MRE",
+      "source": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "id": "hi-134",
+      "start": 913.3,
+      "duration": 3.300000000000068,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Американські військові використовують індивідуальні раціони",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-145.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-mre",
+        "in": 10,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-144"
+      ],
+      "narration_quote_asr_original": "Американські військові використовують індивідуальні раціони",
+      "archive_bank": "source-145",
+      "end": 916.6,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "MRE",
+      "motion_kind": "verified_video",
+      "asset_id": "MRE",
+      "source": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "id": "hi-135",
+      "start": 916.6,
+      "duration": 3.2999999999999545,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: MRI – MIL Ready To Eat.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-146.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-mre",
+        "in": 13.1,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-145"
+      ],
+      "narration_quote_asr_original": "MRI – MIL Ready To Eat.",
+      "archive_bank": "source-146",
+      "end": 919.9,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/MRE2.png",
+      "country": "US",
+      "title": "राशन की सामग्री",
+      "motion_kind": "verified_static",
+      "asset_id": "MRE2",
+      "source": "https://commons.wikimedia.org/wiki/File:MRE_Menu_2_P8152664.jpg",
+      "id": "hi-136",
+      "start": 919.9,
+      "duration": 7.5,
+      "visual_purpose": "Photographed MRE contents",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-146"
+      ],
+      "narration_quote_asr_original": "У середині можуть бути основна страва, додаткові продукти, напої та засоби для підігрівання їжі.",
+      "end": 927.4,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/CHINA_RATION.png",
+      "country": "CN",
+      "title": "फील्ड राशन",
+      "motion_kind": "verified_static",
+      "asset_id": "CHINA_RATION",
+      "source": "https://commons.wikimedia.org/wiki/File:PLA_Field_Ration.jpg",
+      "id": "hi-137",
+      "start": 927.4,
+      "duration": 3.300000000000068,
+      "visual_purpose": "PLA ration overview; no single variant falsely asserted",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-147"
+      ],
+      "narration_quote_asr_original": "Китай також має власні індивідуальні полюві раціони.",
+      "end": 930.7,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/CHINA_RATION.png",
+      "country": "CN",
+      "title": "फील्ड राशन",
+      "motion_kind": "verified_static",
+      "asset_id": "CHINA_RATION",
+      "source": "https://commons.wikimedia.org/wiki/File:PLA_Field_Ration.jpg",
+      "id": "hi-138",
+      "start": 930.7,
+      "duration": 6.8333333333332575,
+      "visual_purpose": "PLA ration overview; no single variant falsely asserted",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "original_scene_ids": [
+        "shot-148"
+      ],
+      "narration_quote_asr_original": "У них часто використовуються страви на основі рису, локшини, м'яса та інших продуктів звичних для китайської кухні.",
+      "end": 937.5333333333333,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/CHINA_RATION.png",
+      "country": "CN",
+      "title": "स्वयं गर्म होने वाला भोजन",
+      "motion_kind": "verified_static",
+      "asset_id": "CHINA_RATION",
+      "source": "https://commons.wikimedia.org/wiki/File:PLA_Field_Ration.jpg",
+      "id": "hi-139",
+      "start": 937.5333333333333,
+      "duration": 8.733333333333348,
+      "visual_purpose": "Heating is discussed without unsupported temperature numbers",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-149"
+      ],
+      "narration_quote_asr_original": "Частина комплектів також передбачає автономне підігрівання. Цікаво, що тут технологічне змагання відходить на другий план.",
+      "end": 946.2666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "मैदानी परिस्थितियों में ऊर्जा",
+      "eyebrow": "",
+      "asset_ids": [
+        "MRE",
+        "CHINA_RATION"
+      ],
+      "id": "hi-140",
+      "start": 946.2666666666667,
+      "duration": 9.433333333333394,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Головне – забезпечити солдата достатньою кількістю енергії та їжію, яку можна споживати в полювих умовах.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-151.mp4",
+      "fit": "cover",
+      "motion_kind": "verified_video",
+      "source": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "archive_edit": {
+        "source": "us-mre",
+        "in": 24,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-150"
+      ],
+      "narration_quote_asr_original": "Головне – забезпечити солдата достатньою кількістю енергії та їжію, яку можна споживати в полювих умовах.",
+      "archive_bank": "source-151",
+      "end": 955.7,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "मैदानी परिस्थितियों में ऊर्जा",
+      "eyebrow": "",
+      "asset_ids": [
+        "MRE",
+        "CHINA_RATION"
+      ],
+      "id": "hi-141",
+      "start": 955.7,
+      "duration": 7.7666666666666515,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: І, звичайно, навіть найсучасніший сухпайок не гарантує, що він усім сподобається.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-152.mp4",
+      "fit": "cover",
+      "motion_kind": "verified_video",
+      "source": "https://www.dvidshub.net/video/887932/basic-combat-training-meals-ready-eat-mre",
+      "archive_edit": {
+        "source": "us-mre",
+        "in": 33,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-151"
+      ],
+      "narration_quote_asr_original": "І, звичайно, навіть найсучасніший сухпайок не гарантує, що він усім сподобається.",
+      "archive_bank": "source-152",
+      "end": 963.4666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "eyebrow": "",
+      "title": "छोटे ड्रोन",
+      "subtitle": "",
+      "id": "hi-142",
+      "start": 963.4666666666667,
+      "duration": 8.199999999999932,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: А тепер предмет, який ще кілька десятиліть тому важко було уявити серед звичного спорядження піхотного підрозділу.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-153.mp4",
+      "fit": "cover",
+      "motion_kind": "verified_video",
+      "source": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "archive_edit": {
+        "source": "us-drone",
+        "in": 168,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-152"
+      ],
+      "narration_quote_asr_original": "А тепер предмет, який ще кілька десятиліть тому важко було уявити серед звичного спорядження піхотного підрозділу.",
+      "archive_bank": "source-153",
+      "end": 971.6666666666666,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "छोटा ड्रोन",
+      "motion_kind": "verified_video",
+      "asset_id": "BLACKHORNET",
+      "source": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "id": "hi-143",
+      "start": 971.6666666666666,
+      "duration": 7.933333333333394,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Невеликий беспілотник. Сполучені штати використовують різні розвідувані системи, зокрема надзвичайно компактні апарати сімейства",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-154.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-drone",
+        "in": 125,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-153"
+      ],
+      "narration_quote_asr_original": "Невеликий беспілотник. Сполучені штати використовують різні розвідувані системи, зокрема надзвичайно компактні апарати сімейства",
+      "archive_bank": "source-154",
+      "end": 979.6,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "BLACK HORNET",
+      "motion_kind": "verified_video",
+      "asset_id": "BLACKHORNET",
+      "source": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "id": "hi-144",
+      "start": 979.6,
+      "duration": 8.966666666666697,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Black Hornet. Їхня ідея проста – отримувати зображені місцевості без необхідності особисто наближатися до кожної точки спостереження.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-155.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-drone",
+        "in": 180,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-154"
+      ],
+      "narration_quote_asr_original": "Black Hornet. Їхня ідея проста – отримувати зображені місцевості без необхідності особисто наближатися до кожної точки спостереження.",
+      "archive_bank": "source-155",
+      "end": 988.5666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "ड्रोन तकनीक",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "उत्पादन",
+          "detail": ""
+        },
+        {
+          "title": "इस्तेमाल",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-145",
+      "start": 988.5666666666667,
+      "duration": 7.966666666666583,
+      "visual_purpose": "Chinese small-drone ecosystem rather than showing a US drone as Chinese",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-155"
+      ],
+      "narration_quote_asr_original": "Китай – один із найбільших світових центрів робництва беспілотних технологій. Його військові також використовують різні малі розвідувальні апарати.",
+      "end": 996.5333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "सिर्फ उड़ने वाली मशीन नहीं",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-146",
+      "start": 996.5333333333333,
+      "duration": 5.56666666666672,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Але тут є важлива особливість. Беспілотник – це не лише літальний апарат.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-157.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "archive_edit": {
+        "source": "us-drone",
+        "in": 39,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-156"
+      ],
+      "narration_quote_asr_original": "Але тут є важлива особливість. Беспілотник – це не лише літальний апарат.",
+      "archive_bank": "source-157",
+      "end": 1002.1,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "सिर्फ उड़ने वाली मशीन नहीं",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-147",
+      "start": 1002.1,
+      "duration": 8.066666666666606,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Це ще й система зв'язку, живлення, підготовки операторів та обробки інформації.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-158.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "archive_edit": {
+        "source": "us-drone",
+        "in": 62,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-157"
+      ],
+      "narration_quote_asr_original": "Це ще й система зв'язку, живлення, підготовки операторів та обробки інформації.",
+      "archive_bank": "source-158",
+      "end": 1010.1666666666666,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "आकार के साथ पूरी प्रणाली",
+      "motion_kind": "verified_video",
+      "asset_id": "BLACKHORNET",
+      "source": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "id": "hi-148",
+      "start": 1010.1666666666666,
+      "duration": 6.6666666666667425,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Тому порівняння тільки за розміром або тривалістю полету не дає повної картини.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-159.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-drone",
+        "in": 77,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-158"
+      ],
+      "narration_quote_asr_original": "Тому порівняння тільки за розміром або тривалістю полету не дає повної картини.",
+      "archive_bank": "source-159",
+      "end": 1016.8333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "आकार के साथ पूरी प्रणाली",
+      "motion_kind": "verified_video",
+      "asset_id": "BLACKHORNET",
+      "source": "https://www.dvidshub.net/video/800031/us-army-soldiers-use-black-hornet-unmanned-aerial-system",
+      "id": "hi-149",
+      "start": 1016.8333333333334,
+      "duration": 8.133333333333326,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Саме ця категорія змінюється настільки швидко, що навіть дані кілька річної дамності можуть вже не відображати поточну ситуацію.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-160.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-drone",
+        "in": 149,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-159"
+      ],
+      "narration_quote_asr_original": "Саме ця категорія змінюється настільки швидко, що навіть дані кілька річної дамності можуть вже не відображати поточну ситуацію.",
+      "archive_bank": "source-160",
+      "end": 1024.9666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "सैनिक और उसके उपकरण",
+      "motion_kind": "verified_video",
+      "asset_id": "US_TRAINING",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "id": "hi-150",
+      "start": 1024.9666666666667,
+      "duration": 6.1666666666667425,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Ми порівняли автомати, приціли, бронежилети, аптечки та беспілотники.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-161.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 580,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-160"
+      ],
+      "narration_quote_asr_original": "Ми порівняли автомати, приціли, бронежилети, аптечки та беспілотники.",
+      "archive_bank": "source-161",
+      "end": 1031.1333333333334,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "सैनिक और उसके उपकरण",
+      "motion_kind": "verified_video",
+      "asset_id": "US_TRAINING",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "id": "hi-151",
+      "start": 1031.1333333333334,
+      "duration": 7.733333333333121,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Але все це має одну спільну рису. Спорядження саме по собі невиконує завдання. Його використовує людина.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-162.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 600,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-161"
+      ],
+      "narration_quote_asr_original": "Але все це має одну спільну рису. Спорядження саме по собі невиконує завдання. Його використовує людина.",
+      "archive_bank": "source-162",
+      "end": 1038.8666666666666,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "US",
+      "title": "प्रशिक्षण",
+      "motion_kind": "verified_video",
+      "asset_id": "US_TRAINING",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "id": "hi-152",
+      "start": 1038.8666666666666,
+      "duration": 7.53333333333353,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Американська армія комплектується на добровільній основі та має систему базової і спеціалізованої підготовки.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-163.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 842,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-162"
+      ],
+      "narration_quote_asr_original": "Американська армія комплектується на добровільній основі та має систему базової і спеціалізованої підготовки.",
+      "archive_bank": "source-163",
+      "end": 1046.4,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "country": "CN",
+      "title": "प्रशिक्षण · चीन",
+      "motion_kind": "verified_video",
+      "asset_id": "CHINA_TRAINING",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "id": "hi-153",
+      "start": 1046.4,
+      "duration": 8.766666666666652,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Китай поєднує різні механізми комплектування, зокрема строкову службу та професійний військовий персонал.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-164.mp4",
+      "fit": "cover",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 23,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-163"
+      ],
+      "narration_quote_asr_original": "Китай поєднує різні механізми комплектування, зокрема строкову службу та професійний військовий персонал.",
+      "archive_bank": "source-164",
+      "end": 1055.1666666666667,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "प्रशिक्षण की गुणवत्ता",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "विशेषज्ञता",
+          "detail": ""
+        },
+        {
+          "title": "सैन्य इकाई",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-154",
+      "start": 1055.1666666666667,
+      "duration": 11.199999999999818,
+      "visual_purpose": "No misleading week-count chart",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-164"
+      ],
+      "narration_quote_asr_original": "Тривалість із місць навчання залежить від спеціальності та підрозділу. Тому порівнювати якість підготовки лише за кількістю тижню було помилкою.",
+      "end": 1066.3666666666666,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "व्यवस्थित प्रशिक्षण",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-155",
+      "start": 1066.3666666666666,
+      "duration": 10.266666666666879,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Важливі – досвід інструкторів, регулярність навчань, складність завдань і здатність підрозділу дійти, які єдина система.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-166.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 850,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-165"
+      ],
+      "narration_quote_asr_original": "Важливі – досвід інструкторів, регулярність навчань, складність завдань і здатність підрозділу дійти, які єдина система.",
+      "archive_bank": "source-166",
+      "end": 1076.6333333333334,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "compare",
+      "title": "मिलते-जुलते उपकरण",
+      "eyebrow": "",
+      "sides": [
+        {
+          "label": "अमेरिका",
+          "title": "M7",
+          "image": "assets/source_photos/M7.png",
+          "detail": ""
+        },
+        {
+          "label": "चीन",
+          "title": "QBZ-191",
+          "image": "assets/source_photos/QBZ191.png",
+          "detail": ""
+        }
+      ],
+      "asset_ids": [
+        "M7",
+        "QBZ191"
+      ],
+      "id": "hi-156",
+      "start": 1076.6333333333334,
+      "duration": 14.133333333333212,
+      "visual_purpose": "Return to the initial comparison, no new claims",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-166",
+        "shot-167"
+      ],
+      "narration_quote_asr_original": "Отже, що ми побачили? На перший повряд, американські і китайські піхотинці мають дуже схоже спорядження.",
+      "end": 1090.7666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "compare",
+      "title": "प्रणाली का आधुनिकीकरण",
+      "eyebrow": "",
+      "sides": [
+        {
+          "label": "अमेरिका",
+          "title": "M7",
+          "image": "assets/source_photos/M7.png",
+          "detail": ""
+        },
+        {
+          "label": "अमेरिका",
+          "title": "M250",
+          "image": "assets/source_photos/M250.png",
+          "detail": ""
+        }
+      ],
+      "asset_ids": [
+        "M7",
+        "M250"
+      ],
+      "id": "hi-157",
+      "start": 1090.7666666666667,
+      "duration": 4.099999999999909,
+      "visual_purpose": "The US modernization approach",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-168"
+      ],
+      "narration_quote_asr_original": "Але за цією схожестю стоять різні підходи.",
+      "end": 1094.8666666666666,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "प्रणाली का आधुनिकीकरण",
+      "eyebrow": "",
+      "asset_ids": [
+        "M7",
+        "M250"
+      ],
+      "id": "hi-158",
+      "start": 1094.8666666666666,
+      "duration": 7.6666666666667425,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Сполучені штати розвивають нове покоління стрелецької зброї, складну електроніку та інтегровані системи оснащення.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-170.mp4",
+      "fit": "cover",
+      "motion_kind": "verified_video",
+      "source": "https://www.dvidshub.net/video/919770/next-generation-squad-weapons-testing-and-demonstration",
+      "archive_edit": {
+        "source": "ngsw",
+        "in": 120,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-169"
+      ],
+      "narration_quote_asr_original": "Сполучені штати розвивають нове покоління стрелецької зброї, складну електроніку та інтегровані системи оснащення.",
+      "archive_bank": "source-170",
+      "end": 1102.5333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "आधुनिकीकरण",
+      "eyebrow": "",
+      "asset_ids": [
+        "QBZ95",
+        "QBZ191"
+      ],
+      "id": "hi-159",
+      "start": 1102.5333333333333,
+      "duration": 11.100000000000136,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Китай поступово модернізує величезні збройні сили, поєдноючи власні розробки з уже наявними стандартами озброєння.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-171.mp4",
+      "fit": "cover",
+      "motion_kind": "verified_video",
+      "source": "https://eng.chinamil.com.cn/MEDIA/Videos/10200163.html",
+      "archive_edit": {
+        "source": "cn-equipment",
+        "in": 15,
+        "country": "CN"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-170"
+      ],
+      "narration_quote_asr_original": "Китай поступово модернізує величезні збройні сили, поєдноючи власні розробки з уже наявними стандартами озброєння.",
+      "archive_bank": "source-171",
+      "end": 1113.6333333333334,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "अंतर समझना ज़रूरी है",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "नया हथियार",
+          "detail": ""
+        },
+        {
+          "title": "सेना के उपकरण",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-160",
+      "start": 1113.6333333333334,
+      "duration": 7.8333333333332575,
+      "visual_purpose": "New model capabilities are not universal availability",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-171"
+      ],
+      "narration_quote_asr_original": "І найважливіше – не варто плутати можливості найновіше озраска з реальним оснащенням усієї армії.",
+      "end": 1121.4666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "image": "assets/source_photos/M157_DETAIL.png",
+      "country": "US",
+      "title": "उपलब्धता का मतलब व्यापक वितरण नहीं",
+      "motion_kind": "verified_static",
+      "asset_id": "M7",
+      "source": "https://commons.wikimedia.org/wiki/File:M7_Rifle.png",
+      "id": "hi-161",
+      "start": 1121.4666666666667,
+      "duration": 6.7333333333333485,
+      "visual_purpose": "A real optic photo does not establish universal issue",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-172"
+      ],
+      "narration_quote_asr_original": "Сучасний приціл на виставці ще не означає, що він є у кожного піхотинця,",
+      "end": 1128.2,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "studio",
+      "video": "assets/models/m4a1/spin.mp4",
+      "country": "US",
+      "title": "M4A1",
+      "motion_kind": "true_3d",
+      "asset_id": "M4A1_3D",
+      "source": "https://opengameart.org/content/m4a1-assault-rifle",
+      "in": 0,
+      "fit": "contain",
+      "id": "hi-162",
+      "start": 1128.2,
+      "duration": 4.166666666666515,
+      "visual_purpose": "Old models do not disappear immediately",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "loop": true,
+      "object_id": "M4A1",
+      "original_scene_ids": [
+        "shot-173"
+      ],
+      "narration_quote_asr_original": "а нова гвинтівка не робить старі моделі непотрібними за один день.",
+      "bank_duration": 24,
+      "source_in": 0,
+      "rotation_degrees_per_second": 15,
+      "end": 1132.3666666666666,
+      "eyebrow": "",
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "असली अंतर",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-163",
+      "start": 1132.3666666666666,
+      "duration": 6.400000000000091,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Тому справжня різниця між арміями полягає не лише в характеристиках окремих предметів.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "video": "assets/archive/source-175.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 870,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-174"
+      ],
+      "narration_quote_asr_original": "Тому справжня різниця між арміями полягає не лише в характеристиках окремих предметів.",
+      "archive_bank": "source-175",
+      "end": 1138.7666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "footage",
+      "title": "असली अंतर",
+      "eyebrow": "",
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "verified_video",
+      "id": "hi-164",
+      "start": 1138.7666666666667,
+      "duration": 7.900000000000091,
+      "visual_purpose": "Actual moving archive selected for this supplied narration: Вона також у масштабах виробництва, логістиці, підготовці та здатності забезпечувати військових необхідним спорядженням.",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": false,
+      "video": "assets/archive/source-176.mp4",
+      "fit": "cover",
+      "source": "https://www.dvidshub.net/video/961538/b-roll-r2bwc-m4-and-m17",
+      "archive_edit": {
+        "source": "us-m17-m4",
+        "in": 505,
+        "country": "US"
+      },
+      "baked_captions": false,
+      "original_scene_ids": [
+        "shot-175"
+      ],
+      "narration_quote_asr_original": "Вона також у масштабах виробництва, логістиці, підготовці та здатності забезпечувати військових необхідним спорядженням.",
+      "archive_bank": "source-176",
+      "end": 1146.6666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "diagram",
+      "title": "क्या ज़्यादा महत्वपूर्ण है?",
+      "eyebrow": "",
+      "nodes": [
+        {
+          "title": "हथियार",
+          "detail": ""
+        },
+        {
+          "title": "सुरक्षा",
+          "detail": ""
+        },
+        {
+          "title": "इलेक्ट्रॉनिक्स",
+          "detail": ""
+        }
+      ],
+      "asset_id": "ORIGINAL_DIAGRAM",
+      "motion_kind": "motion_graphics",
+      "id": "hi-165",
+      "start": 1146.6666666666667,
+      "duration": 9.299999999999955,
+      "visual_purpose": "The actual audience question",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-176"
+      ],
+      "narration_quote_asr_original": "А як ви вважаєте, що сьогодні важливіше для сучасного солдата? Потужніша зброя, кращий захист чи електроніка?",
+      "end": 1155.9666666666667,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    },
+    {
+      "type": "outro",
+      "eyebrow": "",
+      "title": "आपकी राय?",
+      "subtitle": "हथियार · सुरक्षा · इलेक्ट्रॉनिक्स",
+      "id": "hi-166",
+      "start": 1155.9666666666667,
+      "duration": 10.36666666666656,
+      "visual_purpose": "The supplied closing call to comment/subscribe",
+      "alignment_basis": "actual supplied audio word/segment timestamps",
+      "callouts": [],
+      "animate_title": true,
+      "original_scene_ids": [
+        "shot-177",
+        "shot-178"
+      ],
+      "narration_quote_asr_original": "Напишіть свою думку в коментарях. І якщо вам цікаві такі порівняння, підписуйтеся.",
+      "end": 1166.3333333333333,
+      "camera_motion": false,
+      "entrance_once": true,
+      "settle_after": 1.2
+    }
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "title": "परिचय"
+    },
+    {
+      "start": 60.1,
+      "title": "असॉल्ट राइफल"
+    },
+    {
+      "start": 199.16666666666666,
+      "title": "ऑप्टिकल साइट्स"
+    },
+    {
+      "start": 278.06666666666666,
+      "title": "ग्रेनेड लॉन्चर"
+    },
+    {
+      "start": 324.8333333333333,
+      "title": "मशीन गन"
+    },
+    {
+      "start": 401.03333333333336,
+      "title": "पिस्तौल"
+    },
+    {
+      "start": 450.1,
+      "title": "मार्क्समैन राइफल"
+    },
+    {
+      "start": 502.96666666666664,
+      "title": "टैंक रोधी हथियार"
+    },
+    {
+      "start": 572.7333333333333,
+      "title": "हेलमेट और बुलेटप्रूफ जैकेट"
+    },
+    {
+      "start": 651.7,
+      "title": "उपकरणों का वजन"
+    },
+    {
+      "start": 717.8333333333334,
+      "title": "नाइट विज़न"
+    },
+    {
+      "start": 788.2666666666667,
+      "title": "मेडिकल किट"
+    },
+    {
+      "start": 836.6333333333333,
+      "title": "वर्दी और जलवायु"
+    },
+    {
+      "start": 905.1333333333333,
+      "title": "फील्ड राशन"
+    },
+    {
+      "start": 963.4666666666667,
+      "title": "ड्रोन"
+    },
+    {
+      "start": 1024.9333333333334,
+      "title": "सैनिकों का प्रशिक्षण"
+    },
+    {
+      "start": 1076.6666666666667,
+      "title": "निष्कर्ष"
+    }
+  ]
+}

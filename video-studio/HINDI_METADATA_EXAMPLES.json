@@ -1,0 +1,183 @@
+{
+  "channel": "ARSENAL 360",
+  "channel_hindi": "शस्त्र 360",
+  "review_date": "2026-11-13",
+  "status": "Editorial starting hypotheses, not proven SEO rankings",
+  "base_tags": [
+    "military comparison in hindi",
+    "military power comparison",
+    "defence analysis hindi",
+    "Arsenal 360",
+    "Shastra 360",
+    "शस्त्र 360"
+  ],
+  "tag_rule": "Use small relevant subset plus episode-specific country/model terms; no tags from unrelated episodes or competitor brands",
+  "examples": [
+    {
+      "source_episode": "001-usa-china-2026",
+      "pair": "USA vs China",
+      "pair_ru": "США — Китай",
+      "status": "Hindi edition requested by user; metadata prepared, not published",
+      "title": "USA vs China 2026: एक सैनिक क्या-क्या लेकर चलता है? | हिंदी",
+      "title_codepoints": 59,
+      "language": "hi",
+      "hashtags": [
+        "#USAVsChina",
+        "#MilitaryComparison",
+        "#Arsenal360"
+      ],
+      "topic_tags": [
+        "usa vs china soldier equipment",
+        "soldier gear comparison hindi",
+        "M4A1 vs QBZ 191",
+        "american vs chinese soldier"
+      ]
+    },
+    {
+      "source_episode": "002-usa-iran",
+      "pair": "USA vs Iran",
+      "pair_ru": "США — Иран",
+      "status": "proposed; not published; adapt only on user command with supplied Hindi voice/text",
+      "title": "USA vs Iran 2026: हथियारों की पूरी तुलना | हिंदी",
+      "title_codepoints": 48,
+      "language": "hi",
+      "hashtags": [
+        "#USAVsIran",
+        "#MilitaryComparison",
+        "#Arsenal360"
+      ],
+      "topic_tags": [
+        "usa vs iran military comparison",
+        "usa vs iran military power",
+        "usa vs iran in hindi"
+      ]
+    },
+    {
+      "source_episode": "003-poland-germany",
+      "pair": "Germany vs Poland",
+      "pair_ru": "Германия — Польша",
+      "status": "proposed; not published; adapt only on user command with supplied Hindi voice/text",
+      "title": "Germany vs Poland 2026: कौन ज़्यादा ताकतवर है?",
+      "title_codepoints": 46,
+      "language": "hi",
+      "hashtags": [
+        "#GermanyVsPoland",
+        "#MilitaryComparison",
+        "#Arsenal360"
+      ],
+      "topic_tags": [
+        "germany vs poland military comparison",
+        "germany vs poland military power",
+        "germany vs poland in hindi"
+      ]
+    },
+    {
+      "source_episode": "004-south-north-korea",
+      "pair": "South Korea vs North Korea",
+      "pair_ru": "Южная Корея — КНДР",
+      "status": "proposed; not published; adapt only on user command with supplied Hindi voice/text",
+      "title": "South Korea vs North Korea 2026: सैन्य ताकत की तुलना",
+      "title_codepoints": 52,
+      "language": "hi",
+      "hashtags": [
+        "#SouthKoreaVsNorthKorea",
+        "#MilitaryComparison",
+        "#Arsenal360"
+      ],
+      "topic_tags": [
+        "south korea vs north korea military comparison",
+        "south korea vs north korea military power",
+        "south korea vs north korea in hindi"
+      ]
+    },
+    {
+      "source_episode": "005-israel-iran",
+      "pair": "Israel vs Iran",
+      "pair_ru": "Израиль — Иран",
+      "status": "proposed; not published; adapt only on user command with supplied Hindi voice/text",
+      "title": "Israel vs Iran 2026: मिसाइलें, वायुसेना और एयर डिफेंस",
+      "title_codepoints": 53,
+      "language": "hi",
+      "hashtags": [
+        "#IsraelVsIran",
+        "#MilitaryComparison",
+        "#Arsenal360"
+      ],
+      "topic_tags": [
+        "israel vs iran military comparison",
+        "israel vs iran military power",
+        "israel vs iran in hindi"
+      ]
+    },
+    {
+      "source_episode": "006-india-pakistan",
+      "pair": "India vs Pakistan",
+      "pair_ru": "Индия — Пакистан",
+      "status": "proposed; not published; adapt only on user command with supplied Hindi voice/text",
+      "title": "India vs Pakistan 2026: किसकी सैन्य ताकत ज़्यादा है?",
+      "title_codepoints": 52,
+      "language": "hi",
+      "hashtags": [
+        "#IndiaVsPakistan",
+        "#MilitaryComparison",
+        "#Arsenal360"
+      ],
+      "topic_tags": [
+        "india vs pakistan military comparison",
+        "india vs pakistan military power",
+        "india vs pakistan in hindi"
+      ]
+    },
+    {
+      "source_episode": "007-france-uk",
+      "pair": "France vs UK",
+      "pair_ru": "Франция — Великобритания",
+      "status": "proposed; not published; adapt only on user command with supplied Hindi voice/text",
+      "title": "France vs UK 2026: हथियारों की पूरी तुलना | हिंदी",
+      "title_codepoints": 49,
+      "language": "hi",
+      "hashtags": [
+        "#FranceVsUK",
+        "#MilitaryComparison",
+        "#Arsenal360"
+      ],
+      "topic_tags": [
+        "france vs uk military comparison",
+        "france vs uk military power",
+        "france vs uk in hindi"
+      ]
+    },
+    {
+      "source_episode": "008-japan-china",
+      "pair": "Japan vs China",
+      "pair_ru": "Япония — Китай",
+      "status": "proposed; not published; adapt only on user command with supplied Hindi voice/text",
+      "title": "Japan vs China 2026: किसकी सैन्य ताकत ज़्यादा है?",
+      "title_codepoints": 49,
+      "language": "hi",
+      "hashtags": [
+        "#JapanVsChina",
+        "#MilitaryComparison",
+        "#Arsenal360"
+      ],
+      "topic_tags": [
+        "japan vs china military comparison",
+        "japan vs china military power",
+        "japan vs china in hindi"
+      ]
+    }
+  ],
+  "japan_china_tag_example": [
+    "Japan vs China military comparison",
+    "Japan vs China military power",
+    "Japan China military comparison in Hindi",
+    "जापान चीन सैन्य तुलना",
+    "military comparison in hindi",
+    "F-35",
+    "J-20",
+    "Type 10",
+    "Type 99A",
+    "Arsenal 360",
+    "शस्त्र 360"
+  ]
+}

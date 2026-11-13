@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "review_scope": "Actual encoded per-scene reference frame inspected for every final shot, plus separate native 3D pose checks and static photo/card checks. These streams are copied into final MP4 without re-encoding.",
+  "scene_count": 167,
+  "original_visual_beat_coverage": 180,
+  "sheets": [
+    "encoded-00.jpg",
+    "encoded-01.jpg",
+    "encoded-02.jpg",
+    "encoded-03.jpg",
+    "encoded-04.jpg",
+    "encoded-05.jpg",
+    "encoded-06.jpg"
+  ],
+  "editorial_checks": [
+    "Hindi shaping and mixed Latin equipment designations",
+    "correct original equipment/photo/source identity retained",
+    "no Ukrainian editorial labels",
+    "photographic equipment fact overlays retained",
+    "source-credit glyphs and Latin author transliteration",
+    "section transitions and closing viewer question"
+  ],
+  "source_episode_config_unchanged": true,
+  "continuous_human_watch_and_listen": false
+}

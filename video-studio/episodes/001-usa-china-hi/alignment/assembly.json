@@ -1,0 +1,11 @@
+{
+  "resume_audio_seconds": [
+    650,
+    750
+  ],
+  "first_part_beam": 3,
+  "second_part_beam": 1,
+  "timestamps": "Absolute times in untouched user audio; overlap removed by word-start boundary",
+  "last_word_end": 1166.26,
+  "segments": 282
+}

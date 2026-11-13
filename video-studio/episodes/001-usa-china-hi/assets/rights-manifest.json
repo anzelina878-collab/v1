@@ -1,0 +1,690 @@
+{
+  "M4A1": {
+    "id": "M4A1",
+    "kind": "real_photo",
+    "path": "assets/originals/M4A1.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PEO_M4_Carbine_RAS_M68_CCO.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/PEO_M4_Carbine_RAS_M68_CCO.png",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Photo Courtesy of PEO Soldier",
+    "credit": "https://web.archive.org/web/20160530193324/http://www.flickr.com/photos/peosoldier/4639044647/\n\nThis file was derived from:  PEO M4 Carbine RAS M68 CCO.jpg",
+    "description": "M4 carbine with M68 CCO.",
+    "sha256": "773199fb282e825b31c62a8048f80a16eb67899487db8951b3a09fd749cab507",
+    "derivatives": [
+      {
+        "path": "assets/prepared/M4A1.png",
+        "modification": "original_alpha",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "M7": {
+    "id": "M7",
+    "kind": "real_photo",
+    "path": "assets/originals/M7.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:M7_Rifle.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/M7_Rifle.png",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Todd Mozes",
+    "credit": "https://www.army.mil/article/285678/project_manager_soldier_lethality_announces_type_classification_approval_for_next_generation_squad_weapons_ngsw",
+    "description": "The M7 rifle for the U.S. Army",
+    "sha256": "4768dfd19db4e32319aec63c84f9c319d192cc03dc5249e56c6e8a1335770011",
+    "derivatives": [
+      {
+        "path": "assets/prepared/M7.png",
+        "modification": "original_alpha",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "M8": {
+    "id": "M8",
+    "kind": "real_photo",
+    "path": "assets/originals/M8.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:M8_carbine_with_suppressor.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/M8_carbine_with_suppressor.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "US Army",
+    "credit": "Photo: https://paemaneuverground.army.mil/News/Article-Display/Article/4451814/us-army-announces-xm8-carbine-delivery-order/ Info: https://www.army.mil/article/291602/us_army_accepts_first_delivery_of_xm8_carbine",
+    "description": "The U.S. Army announced on April 3 of 2026 it has accepted the first delivery from Sig Sauer of the XM8 Carbine, a new, lightweight variant of the M7 Rifle.",
+    "sha256": "261620803027c43e00bc6ba6e226f7d64b85017c7aa0c8716a9a1b66f79e30ed",
+    "derivatives": [
+      {
+        "path": "assets/prepared/M8.png",
+        "modification": "connected_neutral_background_removal",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "QBZ95": {
+    "id": "QBZ95",
+    "kind": "real_photo",
+    "path": "assets/originals/QBZ95.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:QBZ95_automatic_rifle_mod_noBG.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/QBZ95_automatic_rifle_mod_noBG.png",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "https://commons.wikimedia.org/wiki/User:Tyg728",
+    "credit": "https://commons.wikimedia.org/wiki/File:QBZ95_automatic_rifle_20170902.jpg",
+    "description": "QBZ95 automatic rifle (\"Type 95\")",
+    "sha256": "c0cbbd80f4a9eeef7c91a8211c3170cb54e1401e0b579204657e0495c499a3fe",
+    "derivatives": [
+      {
+        "path": "assets/prepared/QBZ95.png",
+        "modification": "original_alpha",
+        "license": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  "QBZ191": {
+    "id": "QBZ191",
+    "kind": "real_photo",
+    "path": "assets/originals/QBZ191.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:QBZ191Zhuhai_(cropped).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/QBZ191Zhuhai_%28cropped%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Dan3031949",
+    "credit": "Own work",
+    "description": "​珠海航展的QBZ-191",
+    "sha256": "2bd318da967b64fe23308eeaa15a90c9e4cd4f1cf2011563680cbcf1767e5e6f",
+    "derivatives": [
+      {
+        "path": "assets/prepared/QBZ191.png",
+        "modification": "foreground_segmentation_review_required",
+        "license": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  "QBU191": {
+    "id": "QBU191",
+    "kind": "real_photo",
+    "path": "assets/originals/QBU191.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:QBU191_20250921.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/QBU191_20250921.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Yiyuanju",
+    "credit": "Own work",
+    "description": "​191型精确步枪（QBU191）",
+    "sha256": "f5149620fed2c123db6bc60f894f5b9f353ab5a924b5345b6b4a23d45a36db9c",
+    "derivatives": [
+      {
+        "path": "assets/prepared/QBU191.png",
+        "modification": "foreground_segmentation_review_required",
+        "license": "CC BY-SA 4.0"
+      }
+    ],
+    "creator_original": "颐园居",
+    "creator_note": "Pinyin transliteration for Latin on-screen credit; original creator and source-page identity retained."
+  },
+  "M157": {
+    "id": "M157",
+    "kind": "real_photo",
+    "path": "assets/originals/M157.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Next_Generation_Squad_Weapon_Program.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Next_Generation_Squad_Weapon_Program.png",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "U.S. Army Acquisition Support Center",
+    "credit": "https://asc.army.mil/web/portfolio-item/fws-cs-2/",
+    "description": "Next Generation Squad Weapon Program graphic showing weapons and weapon systems",
+    "sha256": "a7cbccbe0a92663d6449712f3a3245ccd8086533a214e6d8e1befebb27df3e8f",
+    "derivatives": [
+      {
+        "path": "assets/prepared/M157.png",
+        "modification": "resize_only",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "M320": {
+    "id": "M320",
+    "kind": "real_photo",
+    "path": "assets/originals/M320.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PEO_M320_Grenade_Launcher.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/PEO_M320_Grenade_Launcher.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Photo Courtesy of PEO Soldier",
+    "credit": "https://www.flickr.com/photos/peosoldier/3758687841/in/set-72157621946887368/",
+    "description": "M320 40mm Grenade Launcher Module\nThe M320, a 40mm grenade launcher, is the replacement to all M203 series of\ngrenade launchers on M16 Rifles and M4 Carbines. An interoperable system, it\nattaches under the barrel of the rifle or carbine and can convert to a stand-alone\nweapon.\nThe integral day/night sighting system, unrestricted breech mechanism, and double-action firing trigger deliver superior overmatch capabilities. Located on the side of the launcher, the new sighting system design lessens interference with rifle and carbine sights, reduces attaching operations to one action, and eliminates the need to re-zero after reattaching to a weapon.\nThe M320 barrel opens to the side, allows for an unrestricted breech enabling the\nfiring of all standard U.S. 40mm low-velocity ammunition as well as longer-than standard ammunition. The new pistol grip design eliminates the need to use the magazine as a hand grip. If the weapon misfires, the operator can pull the trigger again, compared with the M203, which requires cycling of the breech to re-cock the firing pin and pulling the trigger again. With the advancement of composite materials, the latest in lightweight material.\n\ncomposites are used to improve durability.",
+    "sha256": "281d327c9765b8cf74004d9be712d38698453b79a0fa70006208f1ea72373033",
+    "derivatives": [
+      {
+        "path": "assets/prepared/M320.png",
+        "modification": "connected_neutral_background_removal",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "M249": {
+    "id": "M249",
+    "kind": "real_photo",
+    "path": "assets/originals/M249.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PEO_M249_Para_ACOG.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/PEO_M249_Para_ACOG.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Photo Courtesy of PEO Soldier",
+    "credit": "https://www.flickr.com/photos/peosoldier/4639655696/",
+    "description": "The M249 Squad Automatic Weapon (SAW) fills the automatic rifle role in infantry squads and provides light machine gun capabilities in combat service and combat service support units.",
+    "sha256": "51b1682daf3d959cdfb9a28a4b9950a0382dcd0759c201a3399e40df81e477ca",
+    "derivatives": [
+      {
+        "path": "assets/prepared/M249.png",
+        "modification": "connected_neutral_background_removal",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "M250": {
+    "id": "M250",
+    "kind": "real_photo",
+    "path": "assets/originals/M250.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:M250_Automatic_Rifle.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/M250_Automatic_Rifle.png",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Todd Mozes",
+    "credit": "https://www.army.mil/article/285678/project_manager_soldier_lethality_announces_type_classification_approval_for_next_generation_squad_weapons_ngsw",
+    "description": "The M250 automatic rifle for the U.S. Army",
+    "sha256": "38e8da4eaf4226e28f9436209332ac5c32e1d005edf15031b0ed41440f4b8fff",
+    "derivatives": [
+      {
+        "path": "assets/prepared/M250.png",
+        "modification": "original_alpha",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "QBB95": {
+    "id": "QBB95",
+    "kind": "real_photo",
+    "path": "assets/originals/QBB95.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Machine_gun_Type95.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Machine_gun_Type95.jpg",
+    "license": "Attribution",
+    "license_url": "https://commons.wikimedia.org/wiki/File:Machine_gun_Type95.jpg",
+    "creator": "National War College",
+    "credit": "National War College clipart collection; Commons Attribution permission retained",
+    "description": "",
+    "sha256": "02f5a56c34144c0e2b81c2e3bfb276f43197c8cc757a95054fc2486a5b77215a",
+    "derivatives": [
+      {
+        "path": "assets/prepared/QBB95.png",
+        "modification": "connected_neutral_background_removal",
+        "license": "Attribution"
+      }
+    ],
+    "rights_verification": "Original source-page permission transcribed from preserved qbb-license.html; collection explicitly requests National War College credit."
+  },
+  "M17": {
+    "id": "M17",
+    "kind": "real_photo",
+    "path": "assets/originals/M17.gif",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sig_Sauer_M17_transparent.gif",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sig_Sauer_M17_transparent.gif",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Abovfold",
+    "credit": "Own work, derived from a United States Army photograph which is in the public domain, edited with Adobe Photoshop.",
+    "description": "Standard issue United States Army M17 Handgun",
+    "sha256": "08669ab60b18cd1accea802338280c602864cebeec867056486ade6339bb7605",
+    "derivatives": [
+      {
+        "path": "assets/prepared/M17.png",
+        "modification": "original_alpha",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "M9": {
+    "id": "M9",
+    "kind": "real_photo",
+    "path": "assets/originals/M9.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:M9-pistolet.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/M9-pistolet.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "",
+    "credit": "",
+    "description": "",
+    "sha256": "65ae7bd4e91a02e91455037f2c4d4a175977a062d29dbb16c3f494d1118ffacb",
+    "derivatives": [
+      {
+        "path": "assets/prepared/M9.png",
+        "modification": "connected_neutral_background_removal",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "QSZ92": {
+    "id": "QSZ92",
+    "kind": "real_photo",
+    "path": "assets/originals/QSZ92.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:QSZ92_-_5.8mm_Pistol_20170919.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/QSZ92_-_5.8mm_Pistol_20170919.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Tyg728",
+    "credit": "Own work",
+    "description": "​QSZ92-5.8mm手枪",
+    "sha256": "da00ee2fd4aa325ffca2bfe1ae30ff23c8ee0df2fff0fc5f257787e927d071d2",
+    "derivatives": [
+      {
+        "path": "assets/prepared/QSZ92.png",
+        "modification": "foreground_segmentation_review_required",
+        "license": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  "QSZ193": {
+    "id": "QSZ193",
+    "kind": "real_photo",
+    "path": "assets/originals/QSZ193.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:QSZ-193.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/QSZ-193.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "creator": "u/Key-Needleworker-702 on reddit",
+    "credit": "https://www.reddit.com/r/PeopleLiberationArmy/comments/1ucf927/rpeopleliberationarmy_originals_hk_garrison_ngong/",
+    "description": "QSZ-193 pistol, HK garrison",
+    "sha256": "d48d852da1f45d054ce8efa16960842f92c0155def63a8d9e94c3ec15ce4e528",
+    "derivatives": [
+      {
+        "path": "assets/prepared/QSZ193.png",
+        "modification": "foreground_segmentation_review_required",
+        "license": "CC BY 4.0"
+      }
+    ]
+  },
+  "JAVELIN": {
+    "id": "JAVELIN",
+    "kind": "real_photo",
+    "path": "assets/originals/JAVELIN.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Javelin_with_checkout_equipment.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Javelin_with_checkout_equipment.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "U.S. Army Missile Command, Redstone Arsenal",
+    "credit": "The Official Web-site of the United States Army",
+    "description": "Javelin with checkout equipment",
+    "sha256": "aa9974e933653253f8ade648fe618eef1d645606284eb624225076060ed74717",
+    "derivatives": [
+      {
+        "path": "assets/prepared/JAVELIN.png",
+        "modification": "foreground_segmentation_review_required",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "IHPS": {
+    "id": "IHPS",
+    "kind": "real_photo",
+    "path": "assets/originals/IHPS.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:IHPS_helmet.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/IHPS_helmet.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "US Army",
+    "credit": "https://www.dla.mil/Portals/104/Documents/TroopSupport/CloTex/2021%20JAPBI/Ballistic%20Helmets.pdf?ver=fiwt_05tLaTfojmK4ZhiDQ%3D%3D",
+    "description": "IHPS (Integrated Head Protection System)",
+    "sha256": "cb812115bc679b2499074af3acf308084646c628b2721989746e4747c699286f",
+    "derivatives": [
+      {
+        "path": "assets/prepared/IHPS.png",
+        "modification": "foreground_segmentation_review_required",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "MRE": {
+    "id": "MRE",
+    "kind": "real_photo",
+    "path": "assets/originals/MRE.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:MRE_7862.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/MRE_7862.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Ashley Pomeroy",
+    "credit": "Own work",
+    "description": "A pair of MREs.",
+    "sha256": "6e80a5257c38437376659f27ff4ca2454597566a184221315fb7ccfb5337f1f8",
+    "derivatives": [
+      {
+        "path": "assets/prepared/MRE.png",
+        "modification": "resize_only",
+        "license": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  "M110A1": {
+    "id": "M110A1",
+    "kind": "real_photo",
+    "path": "assets/originals/M110A1.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:211028-Z-IB607-1011_-_44th_IBCT_M110A1_Range_(Image_10_of_30).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/211028-Z-IB607-1011_-_44th_IBCT_M110A1_Range_%28Image_10_of_30%29.jpg/1280px-211028-Z-IB607-1011_-_44th_IBCT_M110A1_Range_%28Image_10_of_30%29.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Spc. Michael Schwenk",
+    "description": "U.S. Army Sgt. Divante Scott, 1-114th Infantry Regiment, 44th Infantry Brigade Combat Team, New Jersey Army National Guard, fires the M110A1 Squad Designated Marksman Rifle (SDMR) at Joint Base McGuire-Dix-Lakehurst, N.J., Oct. 28, 2021. The 44th IBCT are the first New Jersey National Guard Soldiers to train and field the new M110A1 SDMR weapon. The M110A1 is a 7.62 mm rifle, which gives Soldiers greater range and accuracy than the standard M4 rifle. (U.S. Army National Guard photo by Spc. Michael Schwenk)",
+    "sha256": "d25b971a54a7b051e87194c9a36d896cfc5e97034bfde2d97097b822fb6d2f62",
+    "derivatives": [
+      {
+        "path": "assets/prepared/M110A1.png",
+        "modification": "resize_only",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "QBU88": {
+    "id": "QBU88",
+    "kind": "real_photo",
+    "path": "assets/originals/QBU88.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Qbu-88-0.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Qbu-88-0.jpg/1920px-Qbu-88-0.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "creator": "afaik it's the IMFDB user Kin93",
+    "description": "Chinese bullpup designated marksman rifle",
+    "sha256": "9d1c0d15a56e82700c055d896b8a16da3a426cee87aa0e6130d4733fdec41f92",
+    "derivatives": [
+      {
+        "path": "assets/prepared/QBU88.png",
+        "modification": "connected_neutral_background_removal",
+        "license": "CC BY 4.0"
+      }
+    ]
+  },
+  "CARLGUSTAF": {
+    "id": "CARLGUSTAF",
+    "kind": "real_photo",
+    "path": "assets/originals/CARLGUSTAF.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Carl_Gustav_M4_(1)_(brightened,_no_background)_(leveled).png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Carl_Gustav_M4_%281%29_%28brightened%2C_no_background%29_%28leveled%29.png/1920px-Carl_Gustav_M4_%281%29_%28brightened%2C_no_background%29_%28leveled%29.png",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "User:Reise Reise",
+    "description": "Carl Gustav M4, IDET/PYROS/ISET 2019, Brno. Background removed, slightly brightened from the original by User:Reise Reise.",
+    "sha256": "a459442cf63980db5be3c842e61f7a28bae45eafd302105cae03479db29ce658",
+    "derivatives": [
+      {
+        "path": "assets/prepared/CARLGUSTAF.png",
+        "modification": "original_alpha",
+        "license": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  "HJ12": {
+    "id": "HJ12",
+    "kind": "real_photo",
+    "path": "assets/originals/HJ12.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:HJ-12_20250921.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HJ-12_20250921.jpg/1920px-HJ-12_20250921.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Yiyuanju",
+    "description": "​“红箭”12反坦克导弹",
+    "sha256": "4e793738ef265388da13a4a584ffca59a8129cb1698287a321e5e9f9d8fb0ab3",
+    "derivatives": [
+      {
+        "path": "assets/prepared/HJ12.png",
+        "modification": "foreground_segmentation_review_required",
+        "license": "CC BY-SA 4.0"
+      }
+    ],
+    "creator_original": "颐园居",
+    "creator_note": "Pinyin transliteration for Latin on-screen credit; original creator and source-page identity retained."
+  },
+  "NV": {
+    "id": "NV",
+    "kind": "real_photo",
+    "path": "assets/originals/ENVGB.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ENVG-B_outfitted_Image_1_of_5.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/ENVG-B_outfitted_Image_1_of_5.jpg/1280px-ENVG-B_outfitted_Image_1_of_5.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Spc. Pierre Osias",
+    "description": "A Soldier from the 2nd Brigade Combat Team, 10th Mountain Division, is fully outfitted in the L3Harris ENVG-B in preparation to test it out  on Range 22 at Fort Drum, N.Y., Mar. 10, 2022. The ENVG-B is an enhanced night vision  binocular mounted on the advanced combat helmet of a Soldier and provides them with multiple variations of night vision optics. (U.S. Army photo by Spc. Pierre Osias)",
+    "sha256": "12afbb77ed563a766eea99044623f3fefbec26af7e4cdfb261a75b6d941a655a",
+    "derivatives": [
+      {
+        "path": "assets/prepared/NV.png",
+        "modification": "Close crop of the verified ENVG-B on the same US Army soldier; not the older unverified demonstration optic",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "OCP": {
+    "id": "OCP",
+    "kind": "real_photo",
+    "path": "assets/originals/OCP.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:OCP_Swatch.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/OCP_Swatch.jpg/1920px-OCP_Swatch.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Nvllola",
+    "description": "A swatch of OCP",
+    "sha256": "c9f7653ddc8e3355a51b54fc1450db170ba00c1b0f3fb82cb508c587b98edbcf",
+    "derivatives": [
+      {
+        "path": "assets/prepared/OCP.png",
+        "modification": "resize_only",
+        "license": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  "MRE2": {
+    "id": "MRE2",
+    "kind": "real_photo",
+    "path": "assets/originals/MRE2.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:MRE_Menu_2_P8152664.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MRE_Menu_2_P8152664.jpg/1920px-MRE_Menu_2_P8152664.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Ashley Pomeroy",
+    "description": "The contents of MRE Menu 2, Beef Shredded",
+    "sha256": "0ddaf0b531a8a8aef3c783aa79935591dc0175c789b159896a3883265c6f6afe",
+    "derivatives": [
+      {
+        "path": "assets/prepared/MRE2.png",
+        "modification": "resize_only",
+        "license": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  "BLACKHORNET": {
+    "id": "BLACKHORNET",
+    "kind": "real_photo",
+    "path": "assets/originals/BLACKHORNET.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Black_Hornet_Nano_Helicopter_UAV.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Black_Hornet_Nano_Helicopter_UAV.jpg/1920px-Black_Hornet_Nano_Helicopter_UAV.jpg",
+    "license": "OGL v1.0",
+    "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+    "creator": "Richard Watt",
+    "description": "A Black Hornet nano helicopter unmanned aerial vehicle (UAV).\nThe Black Hornet Nano Unmanned Air Vehicle measures around 4 inches by 1 inch (10cm x 2.5cm) and provides troops on the ground with vital situational awareness.\nThe Black Hornet is equipped with a tiny camera which gives troops reliable full-motion video and still images. Soldiers are using it to peer around corners or over walls and other obstacles to identify any hidden dangers and the images are displayed on a handheld terminal.\n\nObject Name: Army HQ 2013-022-013 1 Mech X media day\nOrganization: ARMY\nSupplemental Categories: Equipment, Aircraft, Remotely Piloted, Black Hornet\nKeywords: Army, Equipment, Aircraft, Unmanned, Unmanned Aerial Vehicle, UAV, RPAS, Remotely, Piloted, Air, System, Nano, Black Hornet, Black, Hornet\nCountry: UK",
+    "sha256": "e665d9a9d69d3f44e4929a4adfd2e1a6e51d4b18dfcde6fb037e8f99637bf74b",
+    "derivatives": [
+      {
+        "path": "assets/prepared/BLACKHORNET.png",
+        "modification": "resize_only",
+        "license": "OGL v1.0"
+      }
+    ]
+  },
+  "US_TRAINING": {
+    "id": "US_TRAINING",
+    "kind": "real_photo",
+    "path": "assets/originals/US_TRAINING.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:USAMU_Trains_Soldiers_on_M7_Rifle_01.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/USAMU_Trains_Soldiers_on_M7_Rifle_01.jpg/1920px-USAMU_Trains_Soldiers_on_M7_Rifle_01.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Lt. Col. Michelle Lunato",
+    "description": "Sgt. 1st Class Justin Bainbridge, an instructor with the U.S. Army Marksmanship Unit, provides familiarization training on the M7 Rifle to Capt. Mary Taylor, commander for Headquarters and Headquarters Detachment of the U.S. Army Marksmanship Unit. Bainbridge is the team chief for the USAMU’s Instructor Training Group, which provides customizable marksmanship training to units across the force as mobile training teams.The USAMU ITG plays a critical role in ensuring Soldiers are ready to employ the NGSW with confidence and precision when they provide detailed training to fielding units.",
+    "sha256": "842907d30f6b75f73ad3f3a212ed6adc762214fae7bf2124452d709b01d4fb0a",
+    "derivatives": [
+      {
+        "path": "assets/prepared/US_TRAINING.png",
+        "modification": "resize_only",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "US_MARCH": {
+    "id": "US_MARCH",
+    "kind": "real_photo",
+    "path": "assets/originals/US_MARCH.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:US_82nd_Airborne_Division_paratrooper_repacking_his_parachute_on_drop_zone_Swift_Response_2024.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/US_82nd_Airborne_Division_paratrooper_repacking_his_parachute_on_drop_zone_Swift_Response_2024.jpg/1920px-US_82nd_Airborne_Division_paratrooper_repacking_his_parachute_on_drop_zone_Swift_Response_2024.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Staff Sgt. Taylor Lakey-Tamacori",
+    "description": "An American Soldier repacks his parachute following a joint forcible entry (JFE) jump during Swift Response 24, Nurmsi, Estonia, May 11, 2024. Swift Response 24 includes six near-simultaneous JFEs, or airborne operations, into Estonia, Moldova, North Macedonia, Poland, Romania and Sweden. (photo by U.S. Army Staff Sgt. Taylor Lakey-Tamacori)",
+    "sha256": "baed786a62f4f5b5caf89ede8db7b1a9db9440ac7d1cc17f897d75288a1a7711",
+    "derivatives": [
+      {
+        "path": "assets/prepared/US_MARCH.png",
+        "modification": "resize_only",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "CHINA_QBZ": {
+    "id": "CHINA_QBZ",
+    "kind": "real_photo",
+    "path": "assets/originals/CHINA_QBZ.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PLASHOOTER2021%CC%A0closeup02.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/PLASHOOTER2021%CC%A0closeup02.jpg/1920px-PLASHOOTER2021%CC%A0closeup02.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "creator": "mil.ru",
+    "description": "​正在参加国际军事比赛2021战术射击项目的中国人民解放军陆军军人（截取自俄罗斯国防部所发布的比赛视频）",
+    "sha256": "be955f86f4d47eeec5a8b0d5ea3219c6e2ff09a854b54f3432adefcda3129df7",
+    "derivatives": [
+      {
+        "path": "assets/prepared/CHINA_QBZ.png",
+        "modification": "resize_only",
+        "license": "CC BY 4.0"
+      }
+    ]
+  },
+  "XINGKONG": {
+    "id": "XINGKONG",
+    "kind": "real_photo",
+    "path": "assets/originals/XINGKONG.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png/1280px-Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "creator": "Tahazu",
+    "description": "A comparison of the Type 21 (left) and Type 19 (right) field blouse in the Jungle variant of the Xingkong (Starry Sky) camouflage pattern.",
+    "sha256": "358ba655d8cd4048933ef451093c36d95755fb14aaac9ef0e78b70a5472e254f",
+    "derivatives": [
+      {
+        "path": "assets/prepared/XINGKONG.png",
+        "modification": "cropped to right-hand Type 19 blouse, per source caption",
+        "license": "CC0"
+      }
+    ]
+  },
+  "ENVGB": {
+    "id": "ENVGB",
+    "kind": "real_photo",
+    "path": "assets/originals/ENVGB.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ENVG-B_outfitted_Image_1_of_5.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/ENVG-B_outfitted_Image_1_of_5.jpg/1280px-ENVG-B_outfitted_Image_1_of_5.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "creator": "Spc. Pierre Osias",
+    "description": "A Soldier from the 2nd Brigade Combat Team, 10th Mountain Division, is fully outfitted in the L3Harris ENVG-B in preparation to test it out  on Range 22 at Fort Drum, N.Y., Mar. 10, 2022. The ENVG-B is an enhanced night vision  binocular mounted on the advanced combat helmet of a Soldier and provides them with multiple variations of night vision optics. (U.S. Army photo by Spc. Pierre Osias)",
+    "sha256": "12afbb77ed563a766eea99044623f3fefbec26af7e4cdfb261a75b6d941a655a",
+    "derivatives": [
+      {
+        "path": "assets/prepared/ENVGB.png",
+        "modification": "Head-and-shoulders crop so ENVG-B stays visible above the caption; original US Army photo",
+        "license": "Public domain"
+      }
+    ]
+  },
+  "MSV": {
+    "id": "MSV",
+    "kind": "real_photo",
+    "path": "assets/originals/MSV.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:MSV_Kit.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MSV_Kit.jpg/1280px-MSV_Kit.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Lawrence1215",
+    "description": "A typical soldiers combat load on the MSV gen II vest.",
+    "sha256": "2730c2099f30e18a523c30c282724de8b18af6e2b6bd041a3d2af83e89b2e31e",
+    "derivatives": [
+      {
+        "path": "assets/prepared/MSV.png",
+        "modification": "resized",
+        "license": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  "CHINA_TRAINING": {
+    "id": "CHINA_TRAINING",
+    "kind": "real_photo",
+    "path": "assets/originals/CHINA_TRAINING.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PLA-TACSHOOTER2021.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/PLA-TACSHOOTER2021.png/1280px-PLA-TACSHOOTER2021.png",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "creator": "mil.ru",
+    "description": "PLA serviceman attending Tactical Shooter contest of 2021 International Army Games. (Cropped from the video published by mil.ru)",
+    "sha256": "0db16ff1d3f8836e37cafc982299b65c0c8333207057c98ec6ce7ea9696749d4",
+    "derivatives": [
+      {
+        "path": "assets/prepared/CHINA_TRAINING.png",
+        "modification": "resized",
+        "license": "CC BY 4.0"
+      }
+    ]
+  },
+  "CHINA_RATION": {
+    "id": "CHINA_RATION",
+    "kind": "real_photo",
+    "path": "assets/originals/CHINA_RATION.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PLA_Field_Ration.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/PLA_Field_Ration.jpg/1280px-PLA_Field_Ration.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "TurnOnTheNight",
+    "description": "Long-Range Flight Ration(PLAAF, Top)\nType 13 Instant Ration(Down-Left)\n\nSelf-Heating Ration(PLARF, Down-Right)",
+    "sha256": "e5347ed82f43e605e8ba3ebf55a25e89743a6fa4fa41b28b3c0262d5b687b533",
+    "derivatives": [
+      {
+        "path": "assets/prepared/CHINA_RATION.png",
+        "modification": "resized; generic PLA ration overview, variant not asserted",
+        "license": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  "IFAK": {
+    "id": "IFAK",
+    "kind": "real_photo",
+    "path": "assets/originals/IFAK.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:IFAK_II.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/IFAK_II.jpg/1280px-IFAK_II.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Vslv",
+    "description": "аптечка IFAK II. 1. Вид спереди, подсумки с турникетами отстёгнуты. 2. Вид сзади, подсумки с турникетами пристёгнуты. 3. Аптечка распакована",
+    "sha256": "ef23e3007063c17499801ed42587a63c747a2503fb2b67d63c29d915c6195fca",
+    "derivatives": [
+      {
+        "path": "assets/prepared/IFAK.png",
+        "modification": "resized",
+        "license": "CC BY-SA 4.0"
+      }
+    ]
+  }
+}

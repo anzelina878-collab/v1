@@ -1,0 +1,33 @@
+{
+  "reports": [
+    {
+      "language": "uk",
+      "exact_normalized_token_agreement": 0.8989388580090955,
+      "script_tokens": 1979,
+      "asr_tokens": 1966,
+      "method": "Normalized script/ASR token anchors with monotonic interpolation; bilingual paragraphs reviewed separately; original timing hints ignored"
+    },
+    {
+      "language": "hi",
+      "exact_normalized_token_agreement": 0.5158473479948253,
+      "script_tokens": 3092,
+      "asr_tokens": 2852,
+      "method": "Normalized script/ASR token anchors with monotonic interpolation; bilingual paragraphs reviewed separately; original timing hints ignored",
+      "timing_refinement_windows": 8,
+      "timing_refinement_rows": 33,
+      "timing_refinement_probability_medians": [
+        0.763074241578579,
+        0.7498859067757925,
+        0.7954356418206141,
+        0.7850632429122925,
+        0.774259266257286,
+        0.7813562154769897,
+        0.7981192032496134,
+        0.7684427178823031
+      ],
+      "agreement_scope": "Exact token agreement is from independent ASR before teacher-forced refinement; supplied forced words do not inflate this metric."
+    }
+  ],
+  "audio_duration": 1166.328,
+  "original_files_unchanged": true
+}

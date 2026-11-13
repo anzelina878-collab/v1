@@ -1,0 +1,10 @@
+[
+ {"start":215.34,"end":230.44,"rows":[40,41,42],"reason":"ASR missed the fire-control-system sentence; adjacent spoken clauses bound this range"},
+ {"start":498.9,"end":517.1,"rows":[97,99,100,101],"reason":"ASR dropped the transition from marksman rifles to antitank weapons; Javelin word ends at 517.1"},
+ {"start":611.2,"end":627.66,"rows":[125,126,127],"reason":"ASR omitted modular protection comparison between two recognized clauses"},
+ {"start":651.7,"end":679.58,"rows":[133,134,135,136,137],"reason":"Long ASR segment omitted equipment weight clauses; next mission-weight clause begins at 679.58"},
+ {"start":747.62,"end":767.64,"rows":[153,154,155,156,157],"reason":"Resume overlap: preserve the independently recognized China night-vision passage"},
+ {"start":767.64,"end":779.78,"rows":[158,159],"reason":"ASR repetition during procurement-information passage, bounded by recognized neighboring clauses"},
+ {"start":823.88,"end":845.32,"rows":[171,172,174],"reason":"ASR omitted medical-system comparison and transition to different geographical environments"},
+ {"start":1031.14,"end":1060.98,"rows":[215,216,217,218,219,220,221,222],"reason":"ASR repetition during training/recruitment explanation, bounded by recognized clauses"}
+]

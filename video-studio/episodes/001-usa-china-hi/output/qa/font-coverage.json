@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "raqm_available": true,
+  "visible_strings_checked_per_weight": 621,
+  "weights": [
+    "Regular",
+    "Bold"
+  ],
+  "missing_characters": [],
+  "shaping_proof": "Devanagari conjuncts and mixed Latin/Hindi labels visually inspected; font-proof.jpg",
+  "font": "ArsenalHindi merged Noto Sans Devanagari + Noto Sans"
+}
