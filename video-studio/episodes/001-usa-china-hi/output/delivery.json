@@ -1,0 +1,38 @@
+{
+  "episode": "001-usa-china-hi",
+  "title": "USA vs China 2026: एक सैनिक क्या-क्या लेकर चलता है? | हिंदी",
+  "brand": "ARSENAL 360 / शस्त्र 360",
+  "language": "hi",
+  "duration": 1166.3333333333333,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 34990,
+  "source_commit": "ce385fadcd803a0b84ed3bd24981651f1bb54724",
+  "files": [
+    {
+      "name": "final_video_hi_v1.mp4",
+      "sha256": "b4cec74a7c9fd4dd9b59f2b2bf2e65f47440986b2563d78e0c07a28654ca53d8",
+      "bytes": 264839002,
+      "path": "video-studio/episodes/001-usa-china-hi/output/final_video_hi_v1.mp4"
+    },
+    {
+      "name": "project_source_hi_v1.zip",
+      "sha256": "74d4ffcf5d8b6cc15b1fe5c4e2e6ca57c3f62aad80db2210b26d3a9299d954c5",
+      "bytes": 401854976,
+      "path": "video-studio/episodes/001-usa-china-hi/output/project_source_hi_v1.zip"
+    }
+  ],
+  "verification": {
+    "full_video_and_audio_decode": "passed",
+    "audio_waveform_correlation_zero_lag": 0.9999119612321402,
+    "original_visual_beat_coverage": 180,
+    "hindi_scene_count": 167,
+    "static_photos_and_settled_cards": "passed",
+    "native_24_second_360_banks": "passed",
+    "portable_source_runtime": "passed including photographic fact overlay and ICC-tagged photo",
+    "exact_original_user_input_hashes": "passed",
+    "public_download_integrity_required_before_main_update": true,
+    "continuous_human_watch_and_listen": "not performed; discrete semantic, source, storyboard, encoded-control and technical checks recorded in project"
+  }
+}
