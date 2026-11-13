@@ -1,0 +1,46 @@
+name: Repair time-arrow 3D scenes
+on:
+  push:
+    branches: [cosmos-universum-v2]
+    paths: [.github/workflows/repair-zeitpfeil-3d.yml]
+permissions:
+  contents: read
+  actions: write
+jobs:
+  stop_obsolete_runs:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh api --method POST repos/$GH_REPO/actions/runs/43427776880/cancel || true
+          gh api --method POST repos/$GH_REPO/actions/runs/43424351769/cancel || true
+  render:
+    needs: stop_obsolete_runs
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        scene: [gas, gas_detail, coins, heat, clock, pendulum, chess]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: cosmos/002-zeitpfeil
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq blender ffmpeg
+      - name: Render corrected native 1080p scene
+        working-directory: cosmos/002-zeitpfeil
+        run: |
+          blender -b -t 2 -P make3d_recovery.py -- ${{ matrix.scene }} > render.log 2>&1
+          ffmpeg -y -v warning -framerate 25/2 -i 3d/${{ matrix.scene }}/frame_%04d.jpg -vf framerate=fps=25,hqdn3d=4:3:6:4 -t 7.84 -an -c:v libx264 -preset veryfast -crf 17 -threads 2 -filter_threads 2 -pix_fmt yuv420p ${{ matrix.scene }}.mp4
+          ffmpeg -v error -ss 4 -i ${{ matrix.scene }}.mp4 -frames:v 1 pilot.jpg
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: zeitpfeil-recovered-${{ matrix.scene }}
+          path: |
+            cosmos/002-zeitpfeil/${{ matrix.scene }}.mp4
+            cosmos/002-zeitpfeil/pilot.jpg
+            cosmos/002-zeitpfeil/render.log
+          retention-days: 7
