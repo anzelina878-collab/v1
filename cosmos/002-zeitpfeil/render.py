@@ -59,7 +59,10 @@ def prepare(plan,shots):
    fast=R/'make3d_recovery.py'
    command(['blender','-b','-t','2','-P',str(fast),'--',a['scene']],R/'logs'/(name+'-recovery.log'))
    command(['ffmpeg','-y','-v','warning','-framerate','25/2','-i',str(R/'3d'/a['scene']/'frame_%04d.jpg'),'-vf','framerate=fps=25','-t','7.84','-an','-c:v','libx264','-preset','veryfast','-crf','17','-threads','2','-filter_threads','2','-pix_fmt','yuv420p',str(dest)],R/'logs'/(name+'-recovery-encode.log'));return dest
-  shutil.copy(candidate,dest);archive.unlink();return dest
+  if a['scene']!='orbit':
+   command(['ffmpeg','-y','-v','warning','-threads','2','-i',str(candidate),'-vf','nlmeans=s=8:p=5:r=9,hqdn3d=3:2:4:3','-an','-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-filter_threads','2','-pix_fmt','yuv420p',str(dest)],R/'logs'/(name+'-clean.log'))
+  else:shutil.copy(candidate,dest)
+  archive.unlink();return dest
  for key in sorted(needed):ensure(key)
  return assets
 
