@@ -1,5 +1,9 @@
 # KOSMION — episode two: the arrow of time
 
+[Download the complete 1080p MP4](https://github.com/anzelina878-collab/v1/releases/download/cosmos-002-zeitpfeil/Zeitpfeil_KOSMION_1080p.mp4) · 25:03 · One complete film.
+
+Validation: [QUALITY_REPORT.md](QUALITY_REPORT.md).
+
 The user supplied a German narration lasting 25:03.024. The picture is aligned to that recording; the narration stays private until muxed into the final, explicitly requested film. No raw narration, its fingerprint, or narration download link is included in this repository.
 
 The accepted Universum V3 is the visual reference. This episode adds small in-picture creator credits on archival footage and photographs, more refined ivory/gold typography, and purpose-built spatial explanations.
