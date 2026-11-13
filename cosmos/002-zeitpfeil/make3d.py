@@ -6,7 +6,9 @@ bpy.ops.object.select_all(action='SELECT');bpy.ops.object.delete(use_global=Fals
 s=bpy.context.scene;s.render.engine='CYCLES';s.cycles.samples=8;s.cycles.use_denoising=True;s.cycles.max_bounces=4;s.cycles.diffuse_bounces=2;s.cycles.glossy_bounces=2;s.cycles.transmission_bounces=2
 s.render.resolution_x=1920;s.render.resolution_y=1080;s.render.resolution_percentage=100;s.render.fps=25;s.render.fps_base=2;s.frame_start=1;s.frame_end=100;s.view_settings.view_transform='AgX'
 s.world.use_nodes=True;s.world.node_tree.nodes['Background'].inputs[0].default_value=(.008,.015,.028,1);s.world.node_tree.nodes['Background'].inputs[1].default_value=.22
-random.seed(23)
+detail=(mode=='gas_detail')
+if detail:mode='gas'
+random.seed(47 if detail else 23)
 def material(name,color,metal=0,em=0,rough=.3,texture=False):
  m=bpy.data.materials.new(name);m.use_nodes=True;n=m.node_tree.nodes;b=n.get('Principled BSDF');b.inputs['Base Color'].default_value=(*color,1);b.inputs['Metallic'].default_value=metal;b.inputs['Roughness'].default_value=rough;b.inputs['Emission Color'].default_value=(*color,1);b.inputs['Emission Strength'].default_value=em
  if texture:
@@ -46,8 +48,8 @@ elif mode=='gas':
   for x in [-3,3]:curve([(x,-1.5,z),(x,1.5,z)],.025,gold)
  barrier=cube((0,0,0),(.025,3,2.6),blue,.01);key(barrier,'location',1,(0,0,0));key(barrier,'location',12,(0,0,0));key(barrier,'location',25,(0,0,4.2));key(barrier,'scale',25,(1,1,1));key(barrier,'scale',30,(0,0,0))
  objs=[];pos=[];vel=[]
- for j in range(105):
-  p=Vector((random.uniform(-2.8,-.15),random.uniform(-1.3,1.3),random.uniform(-1.1,1.1)));v=Vector(tuple(random.uniform(-.12,.12) for _ in range(3)));pos.append(p);vel.append(v);objs.append(sphere(p,.055,glow if j%4==0 else gold))
+ for j in range(60 if detail else 105):
+  p=Vector((random.uniform(-2.8,-.15),random.uniform(-1.3,1.3),random.uniform(-1.1,1.1)));v=Vector(tuple(random.uniform(-.12,.12) for _ in range(3)));pos.append(p);vel.append(v);objs.append(sphere(p,.075 if detail else .055,glow if j%4==0 else gold))
  for f in range(1,101):
   for j,o in enumerate(objs):
    p=pos[j];v=vel[j];p+=v
@@ -61,7 +63,7 @@ elif mode=='gas':
     if 0<d<.11:
      normal=delta/d;relative=(vel[i]-vel[j]).dot(normal)
      if relative<0:vel[i]-=normal*relative;vel[j]+=normal*relative
- floor();target=(0,0,0);camera=(6,-10,4.6);end=(5.4,-10.4,4.2)
+ floor();target=(0,0,0);camera=((-5,-8,3.2) if detail else (6,-10,4.6));end=((-4,-8.5,3.0) if detail else (5.4,-10.4,4.2))
 elif mode=='coins':
  floor()
  for row in range(4):
@@ -86,6 +88,19 @@ elif mode=='heat':
   o=sphere((-.3,random.uniform(-.75,.75),random.uniform(-1.3,.1)),.025,glow)
   y=o.location.y;z=o.location.z;key(o,'location',1,(-.3+random.random()*.6,y,z));key(o,'location',80,(.3,y,z));key(o,'scale',80,(1,1,1));key(o,'scale',100,(0,0,0))
  target=(0,0,-.6);camera=(5,-9,4);end=(4,-9.5,4.2)
+elif mode=='chess':
+ floor();wood=material('Walnut',(.12,.048,.018),.15,rough=.3,texture=True)
+ cube((0,0,-1.65),(5.15,5.15,.15),wood,.06)
+ for row in range(8):
+  for col in range(8):cube(((col-3.5)*.6,(row-3.5)*.6,-1.55),(.595,.595,.045),white if (row+col)%2==0 else navy,.008)
+ for side,ma in [(-1,white),(1,navy)]:
+  for row in [0,1]:
+   for col in range(8):
+    root=bpy.data.objects.new('Chess piece',None);bpy.context.collection.objects.link(root);x=(col-3.5)*.6;y=side*(2.1-row*.6);root.location=(x,y,-1.48)
+    o=cylinder((0,0,.05),.19,.1,ma);o.parent=root;o=cylinder((0,0,.24),.085,.32 if row else .45,ma);o.parent=root;o=sphere((0,0,.43 if row else .57),.12 if row else .15,ma);o.parent=root
+    if side==-1 and row==1 and col==3:
+     key(root,'location',1,(x,y,-1.48));key(root,'location',25,(x,y,-1.48));key(root,'location',60,(x,y+1.2,-1.48));key(root,'location',100,(x,y+1.2,-1.48))
+ target=(0,0,-1);camera=(5,-7,6);end=(4.3,-7.5,6.4)
 elif mode=='clock':
  floor();root=bpy.data.objects.new('Clock',None);bpy.context.collection.objects.link(root)
  cylinder((0,0,-.8),2.0,.2,gold);cylinder((0,0,-.68),1.83,.1,navy)
