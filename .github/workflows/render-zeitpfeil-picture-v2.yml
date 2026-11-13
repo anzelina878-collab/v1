@@ -1,0 +1,37 @@
+name: Render verified time-arrow picture
+on:
+  push:
+    branches: [cosmos-universum-v2]
+    paths: [.github/workflows/render-zeitpfeil-picture-v2.yml]
+permissions:
+  contents: read
+  actions: read
+jobs:
+  picture:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        part: [0, 1, 2, 3, 4]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: cosmos/002-zeitpfeil
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Render and verify silent picture
+        working-directory: cosmos/002-zeitpfeil
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: python3 render.py --part ${{ matrix.part }} --prepare --upload --jobs 2 > picture-render.log 2>&1
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: zeitpfeil-picture-report-${{ matrix.part }}
+          path: |
+            cosmos/002-zeitpfeil/picture-render.log
+            cosmos/002-zeitpfeil/picture_*.verification.json
+            cosmos/002-zeitpfeil/picture_*.upload.json
+            cosmos/002-zeitpfeil/logs/*recovery*.log
+          retention-days: 7
