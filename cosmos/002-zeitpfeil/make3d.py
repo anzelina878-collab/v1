@@ -55,20 +55,26 @@ elif mode=='gas':
     if p[k]<lo:p[k]=2*lo-p[k];v[k]*=-1
     if p[k]>hi:p[k]=2*hi-p[k];v[k]*=-1
    key(o,'location',f,p)
+  for i in range(len(objs)):
+   for j in range(i):
+    delta=pos[i]-pos[j];d=delta.length
+    if 0<d<.11:
+     normal=delta/d;relative=(vel[i]-vel[j]).dot(normal)
+     if relative<0:vel[i]-=normal*relative;vel[j]+=normal*relative
  floor();target=(0,0,0);camera=(6,-10,4.6);end=(5.4,-10.4,4.2)
 elif mode=='coins':
  floor()
  for row in range(4):
   for col in range(5):
-   root=bpy.data.objects.new('One coin',None);bpy.context.collection.objects.link(root);x=(col-2)*1.06;y=(row-1.5)*1.06;root.location=(x,y,-1.2)
+   root=bpy.data.objects.new('One coin',None);bpy.context.collection.objects.link(root);x=(col-2)*1.06;y=(row-1.5)*1.06;root.location=(x,y,-1.68)
    o=cylinder((0,0,0),.42,.065,gold);o.parent=root
    # Different physical reliefs make the two sides recognisable without any lettering.
    o=cylinder((0,0,.043),.18,.025,white);o.parent=root
    for k in range(5):
     a=k*math.tau/5;o=sphere((.23*math.cos(a),.23*math.sin(a),.052),.038,gold);o.parent=root
    o=cylinder((0,0,-.044),.24,.025,blue);o.parent=root
-   for f,z,rot in [(1,-1.2,0),(22,-.3,math.pi*2),(55,-1.2,math.pi*(4+(row+col)%2)),(100,-1.2,math.pi*(4+(row+col)%2))]:key(root,'location',f,(x,y,z));key(root,'rotation_euler',f,(rot,0,.06*(row-col)))
- target=(0,0,-1.2);camera=(5,-7,7);end=(3.8,-7,7.5)
+   for f,z,rot in [(1,-1.68,0),(22,-.3,math.pi*2),(55,-1.68,math.pi*(4+(row+col)%2)),(100,-1.68,math.pi*(4+(row+col)%2))]:key(root,'location',f,(x,y,z));key(root,'rotation_euler',f,(rot,0,.06*(row-col)))
+ target=(0,0,-1.68);camera=(5,-7,7);end=(3.8,-7,7.5)
 elif mode=='heat':
  floor();mats=[]
  for x,color in [(-1.5,(1,.18,.025)),(1.5,(.025,.2,.8))]:
