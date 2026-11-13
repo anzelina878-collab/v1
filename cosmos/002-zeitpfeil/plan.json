@@ -98,20 +98,6 @@
       "media": "video"
     },
     {
-      "key": "clock_archive_0",
-      "path": "assets/clock_archive_0.mp4",
-      "url": "https://images-assets.nasa.gov/video/JPL-20190618-TECHf-0001-Deep_Space_Atomic_Clock_Videofile/JPL-20190618-TECHf-0001-Deep_Space_Atomic_Clock_Videofile~large.mp4",
-      "page": "https://images.nasa.gov/details/JPL-20190618-TECHf-0001-Deep_Space_Atomic_Clock_Videofile",
-      "credit": "NASA/JPL-Caltech",
-      "duration": 18,
-      "width": 1920,
-      "height": 1080,
-      "kind": "archive",
-      "source_in": 15,
-      "screen_credit": "Archiv: NASA / JPL-Caltech · Deep Space Atomic Clock",
-      "media": "video"
-    },
-    {
       "key": "clock_archive_1",
       "path": "assets/clock_archive_1.mp4",
       "url": "https://images-assets.nasa.gov/video/JPL-20190618-TECHf-0001-Deep_Space_Atomic_Clock_Videofile/JPL-20190618-TECHf-0001-Deep_Space_Atomic_Clock_Videofile~large.mp4",
@@ -901,7 +887,7 @@
     },
     {
       "asset": "deep_field",
-      "in": 13,
+      "in": 14,
       "duration": 12,
       "rate": 1,
       "zoom": 1,
@@ -913,7 +899,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "credit": "Visualisierung: STScI · Frank Summers und Team",
-      "render_key": "9b8ffe1e350b912ded56"
+      "render_key": "807ffc19f465cb94e13a"
     },
     {
       "asset": "orbit",
@@ -1204,7 +1190,7 @@
       "render_key": "552cd6238de35d1f3450"
     },
     {
-      "asset": "clock_archive_0",
+      "asset": "clock_archive_1",
       "in": 1,
       "duration": 12,
       "rate": 1,
@@ -1217,7 +1203,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "credit": "Archiv: NASA / JPL-Caltech · Deep Space Atomic Clock",
-      "render_key": "286c95b4f6155a80748b"
+      "render_key": "56739d8079f244d6bfb4"
     },
     {
       "asset": "orbit",
@@ -2125,7 +2111,7 @@
     },
     {
       "asset": "plant",
-      "in": 5,
+      "in": 12,
       "duration": 8,
       "rate": 1,
       "zoom": 1,
@@ -2137,7 +2123,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "credit": "Zeitraffer: NASA · Pflanzenexperiment auf der Raumstation",
-      "render_key": "c5d465cb93fba7b6d342"
+      "render_key": "0509107d3d258ecd6992"
     },
     {
       "asset": "iss",
@@ -2165,7 +2151,7 @@
     },
     {
       "asset": "plant",
-      "in": 16,
+      "in": 20,
       "duration": 8,
       "rate": 1,
       "zoom": 1,
@@ -2177,7 +2163,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "credit": "Zeitraffer: NASA · Pflanzenexperiment auf der Raumstation",
-      "render_key": "fd1efa118035affecf69"
+      "render_key": "3b266d0afefa2852759f"
     },
     {
       "asset": "memory_moon",
@@ -2725,7 +2711,7 @@
     },
     {
       "asset": "deep_field",
-      "in": 13,
+      "in": 14,
       "duration": 12,
       "rate": 1,
       "zoom": 1,
@@ -2745,7 +2731,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "credit": "Visualisierung: STScI · Frank Summers und Team",
-      "render_key": "58b6e16a6224349878a9"
+      "render_key": "ba6c6df1039f0ca3e3c0"
     },
     {
       "asset": "webb_mirrors_cut1",
@@ -3173,7 +3159,7 @@
     },
     {
       "asset": "deep_field",
-      "in": 63,
+      "in": 51,
       "duration": 12,
       "rate": 1,
       "zoom": 1,
@@ -3185,7 +3171,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "credit": "Visualisierung: STScI · Frank Summers und Team",
-      "render_key": "f795e49113615f43caf9"
+      "render_key": "391e1e250cecf0302451"
     },
     {
       "asset": "galaxy_traverse",
@@ -3268,7 +3254,7 @@
       "render_key": "37daa51f84424d88041b"
     },
     {
-      "asset": "clock_archive_0",
+      "asset": "clock_archive_1",
       "in": 1,
       "duration": 12,
       "rate": 1,
@@ -3289,7 +3275,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "credit": "Archiv: NASA / JPL-Caltech · Deep Space Atomic Clock",
-      "render_key": "464f5df5d30b1c2fa1b9"
+      "render_key": "7d1af705bd2b312ced02"
     },
     {
       "asset": "clock",
@@ -3749,7 +3735,7 @@
     },
     {
       "asset": "plant",
-      "in": 16,
+      "in": 20,
       "duration": 8,
       "rate": 1,
       "zoom": 1,
@@ -3761,7 +3747,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "credit": "Zeitraffer: NASA · Pflanzenexperiment auf der Raumstation",
-      "render_key": "646b86130763d6a34ba0"
+      "render_key": "fbcec1ace0d63bfb20a2"
     },
     {
       "asset": "orion_visible",
@@ -3845,7 +3831,7 @@
     },
     {
       "asset": "deep_field",
-      "in": 63,
+      "in": 51,
       "duration": 12,
       "rate": 1,
       "zoom": 1,
@@ -3857,7 +3843,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "credit": "Visualisierung: STScI · Frank Summers und Team",
-      "render_key": "65989c601cdbd9f7d7bd"
+      "render_key": "2486e085f9d33243eb84"
     },
     {
       "asset": "memory_moon",
@@ -3924,7 +3910,7 @@
     },
     {
       "asset": "deep_field",
-      "in": 13,
+      "in": 14,
       "duration": 12,
       "rate": 1,
       "zoom": 1,
@@ -3944,7 +3930,7 @@
       "fade_in": 0,
       "fade_out": 0,
       "credit": "Visualisierung: STScI · Frank Summers und Team",
-      "render_key": "83128d0027e5f776487d"
+      "render_key": "8a07769593d6a0b745d7"
     },
     {
       "asset": "galaxy_traverse",
