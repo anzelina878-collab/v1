@@ -1,0 +1,50 @@
+name: Publish revised complete KOSMION Kardaschow film
+on:
+  push:
+    branches: [cosmos-universum-v2]
+    paths: [.github/workflows/publish-kardaschow-v2.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and verify completed full movie
+        env:
+          FILM_STAGE: '{"chunks":[{"url":"https://filebin.net/b11a614b12c72ea0d674884e7bad1c10/finished_movie_bytes_00.bin","bytes":335544320,"sha256":"ce1c04d8941a61cdbb736d9743395172e5a079872d885ace4c1d783aeeaa2384"},{"url":"https://filebin.net/b11a614b12c72ea0d674884e7bad1c10/finished_movie_bytes_01.bin","bytes":335544320,"sha256":"204654fce20f93e384ac598ec295b142d199a1306d32785ffa56b271e104e8ac"},{"url":"https://filebin.net/b11a614b12c72ea0d674884e7bad1c10/finished_movie_bytes_02.bin","bytes":243786904,"sha256":"efcfaf708f93f54350562f5d692bca73043d8e64191086ab612cdfcdf7e3b5a9"}],"bytes":914875544,"sha256":"db9cf47dad7547a2ef0182348df903973d349399368dd4de9dc297f65c3b00f4"}'
+        run: |
+          python3 - <<'PYCODE'
+          import urllib.request,http.cookiejar,pathlib,hashlib,os,json
+          cfg=json.loads(os.environ['FILM_STAGE']);dest=pathlib.Path('Kardaschow_KOSMION_V2_1080p.mp4');whole=hashlib.sha256()
+          with open(dest,'wb') as output:
+              for part in cfg['chunks']:
+                  jar=http.cookiejar.CookieJar();op=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar));url=part['url']
+                  with op.open(urllib.request.Request(url,headers={'Range':'bytes=0-31'}),timeout=90) as response:response.read(64)
+                  h=hashlib.sha256();count=0
+                  with op.open(url,timeout=240) as response:
+                      while data:=response.read(1024*1024):output.write(data);h.update(data);whole.update(data);count+=len(data)
+                  assert count==part['bytes'];assert h.hexdigest()==part['sha256']
+          assert dest.stat().st_size==cfg['bytes'];assert whole.hexdigest()==cfg['sha256']
+          print('One complete final MP4 verified:',dest.stat().st_size,whole.hexdigest())
+          PYCODE
+      - name: Publish one finished MP4
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          cat > release-notes.md <<'NOTES'
+          Wir sind nicht einmal eine Typ-1-Zivilisation
+
+          Vollständige deutsche Dokumentation: 35:39, 1920 × 1080, 25 Bilder pro Sekunde, H.264 und AAC.
+
+          Überarbeiteter vollständiger MP4-Film mit der gelieferten Erzählstimme: kosmische Bildsprache, ausführlichere räumliche Erklärungen, ausgewählte echte Archivaufnahmen und sparsame Typografie. Lange Industriemontagen wurden entfernt. Kleine Bildnachweise stehen direkt in den ausgewählten Archivaufnahmen.
+
+          Quellen und Lizenzen: [SOURCES.md](https://github.com/anzelina878-collab/v1/blob/cosmos-003-kardaschow-v2/cosmos/003-kardaschow-v2/SOURCES.md).
+          Qualitätsprüfung: [QUALITY_REPORT.md](https://github.com/anzelina878-collab/v1/blob/cosmos-003-kardaschow-v2/cosmos/003-kardaschow-v2/QUALITY_REPORT.md).
+          Stockmaterial nach Pexels-Lizenz; einzelne Archivbilder, ESO-Aufnahmen und Texturen unter den in SOURCES.md aufgeführten Lizenzen. Bearbeitung durch Auswahl, Ausschnitt, Skalierung und Montage. Einzelne Urheber stehen in den Bildnachweisen.
+          NOTES
+          gh release create cosmos-003-kardaschow-v2 --target "${{ github.sha }}" --title "KOSMION · Kardaschow · Überarbeitete kosmische Fassung · 1080p" --notes-file release-notes.md
+          gh release upload cosmos-003-kardaschow-v2 Kardaschow_KOSMION_V2_1080p.mp4 --clobber
