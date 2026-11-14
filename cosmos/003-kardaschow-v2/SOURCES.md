@@ -279,6 +279,8 @@ Selected ranges (local source seconds → movie seconds):
 - 35.400–43.160 → 1453.480–1461.240; playback rate 1
 - 43.240–50.920 → 1950.720–1958.400; playback rate 1
 
+- 55.000–63.400 → 144.800–153.200; playback rate 1
+
 ## dyson
 
 Creator / credit: Lumidek at English Wikipedia.
@@ -2033,22 +2035,6 @@ Selected ranges (local source seconds → movie seconds):
 - 2.000–5.000 → 41.000–44.000; playback rate 1
 - 5.080–12.520 → 1710.000–1717.440; playback rate 1
 
-## wise_field
-
-Creator / credit: NASA/JPL-Caltech/UCLA.
-
-Type: observation; source resolution: 1920 × 1080.
-
-License: NASA media guidelines / public domain where applicable. https://www.nasa.gov/nasa-brand-center/images-and-media/
-
-Source: https://images.nasa.gov/details/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel
-
-Media URL: https://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE%20End%20of%20Mission%20Media%20Reel/JPL-20240808-NEOWISf-0001-NEOWISE%20End%20of%20Mission%20Media%20Reel~large.mp4
-
-Resource reel cut starts at 163 seconds.
-
-Selected ranges (local source seconds → movie seconds):
-- 0.200–8.600 → 144.800–153.200; playback rate 1
 
 ## wise_orbit
 
