@@ -37,3 +37,5 @@ approved visual style and Ukrainian originals. Start an adaptation only on the
 user's command with their Hindi text/voiceover. Match metadata to actual content;
 proposed tags are not verified competitor Studio tags. Preparing metadata does
 not itself publish or modify finished films.
+
+For new Hindi narration and metadata also follow `HINDI_VOICE_STYLE.md`, which records the user’s country-name and decimal-pronunciation preferences, plus the no-frozen-archive-tail feedback. Existing delivered films are preserved.
