@@ -5,3 +5,7 @@ Full German documentary with the original supplied narration. 35:39, 1920 × 108
 The first released version remains available separately. Delivery of this revision is one complete MP4 through GitHub Releases.
 
 Sources and licenses: [SOURCES.md](SOURCES.md). Production rules: [SKILL.md](SKILL.md). Visual plan: plan.json. No standalone narration, complete script, transcript, subtitles or raw voice fingerprint is published.
+
+Download one complete revised MP4: [Kardaschow_KOSMION_V2_1080p.mp4](https://github.com/anzelina878-collab/v1/releases/download/cosmos-003-kardaschow-v2/Kardaschow_KOSMION_V2_1080p.mp4).
+
+Validation: [QUALITY_REPORT.md](QUALITY_REPORT.md).
