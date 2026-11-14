@@ -51,9 +51,9 @@ def texture(name,url):
 def earth(night=False):
  m=mat('NASA Earth surface',(.04,.13,.3),.05,.46);n=m.node_tree.nodes;p=n.get('Principled BSDF');t=n.new('ShaderNodeTexImage')
  if night:
-  t.image=texture('earth_night.jpg','https://eoimages.gsfc.nasa.gov/images/imagerecords/79000/79765/dnb_land_ocean_ice.2012.3600x1800.jpg');m.node_tree.links.new(t.outputs['Color'],p.inputs['Base Color']);m.node_tree.links.new(t.outputs['Color'],p.inputs['Emission Color']);p.inputs['Emission Strength'].default_value=.8
+  t.image=texture('earth_night.jpg','https://www.solarsystemscope.com/textures/download/2k_earth_nightmap.jpg');m.node_tree.links.new(t.outputs['Color'],p.inputs['Base Color']);m.node_tree.links.new(t.outputs['Color'],p.inputs['Emission Color']);p.inputs['Emission Strength'].default_value=.8
  else:
-  t.image=texture('earth_day.png','https://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57752/land_ocean_ice_2048.png');m.node_tree.links.new(t.outputs['Color'],p.inputs['Base Color'])
+  t.image=texture('earth_day.png','https://svs.gsfc.nasa.gov/vis/a000000/a002900/a002915/bluemarble-2048.png');m.node_tree.links.new(t.outputs['Color'],p.inputs['Base Color'])
  o=sphere('Earth',(-.2,0,0),2,m,96);o.rotation_euler=(math.radians(78),0,.4);rotate(o,2,.55)
  # Restrained physical silhouette, no glow shell masking the map.
  light((-6,-4,4),1050 if night else 1700,(.65,.8,1),5);light((5,1,1),400,(.2,.4,1),4);camera((0,-9,2),(2,-10,2.7),(-.2,0,0),48)
