@@ -78,7 +78,7 @@ def render(plan,shots,assets,output,jobs):
   else:
    cmd+=['-ss',str(s['in']),'-t',str(duration+.1),'-i',str(src)]
    vf+=['setpts=PTS-STARTPTS','scale=1920:1080:force_original_aspect_ratio=increase:flags=lanczos','crop=1920:1080',f'fps={fps}']
-  vf+=['setsar=1','eq=contrast=1.01:saturation=1.015']
+  vf+=['tpad=stop_mode=clone:stop_duration=1','setsar=1','eq=contrast=1.01:saturation=1.015']
   if s['fade_in']:vf.append(f"fade=t=in:st=0:d={s['fade_in']}")
   if s['fade_out']:vf.append(f"fade=t=out:st={max(0,duration-s['fade_out'])}:d={s['fade_out']}")
   for j,l in enumerate(s.get('labels',[])):
