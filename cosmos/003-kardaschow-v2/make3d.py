@@ -115,10 +115,14 @@ def background():
 
 # Enhanced spatial scenes for the revised episode. All orbit and scale layouts are explanatory.
 def atmosphere(o, radius=2.025):
- m=bpy.data.materials.new('Thin atmospheric limb');m.use_nodes=True;n=m.node_tree.nodes;n.clear();l=m.node_tree.links
- facing=n.new('ShaderNodeLayerWeight');facing.inputs['Blend'].default_value=.2
- ramp=n.new('ShaderNodeValToRGB');ramp.color_ramp.elements[0].position=.15;ramp.color_ramp.elements[0].color=(0,0,0,1);ramp.color_ramp.elements[1].position=.98;ramp.color_ramp.elements[1].color=(1,1,1,1)
- l.new(facing.outputs['Facing'],ramp.inputs[0]);tr=n.new('ShaderNodeBsdfTransparent');em=n.new('ShaderNodeEmission');em.inputs['Color'].default_value=(.12,.36,1,1);em.inputs['Strength'].default_value=1.6;mix=n.new('ShaderNodeMixShader');l.new(ramp.outputs[0],mix.inputs[0]);l.new(tr.outputs[0],mix.inputs[1]);l.new(em.outputs[0],mix.inputs[2]);out=n.new('ShaderNodeOutputMaterial');l.new(mix.outputs[0],out.inputs[0]);sphere('Atmospheric scattering',o.location,radius,m,96)
+ # Surface-integrated limb light avoids dithered transparent shells.
+ m=o.data.materials[0];n=m.node_tree.nodes;l=m.node_tree.links;p=n.get('Principled BSDF')
+ facing=n.new('ShaderNodeLayerWeight');ramp=n.new('ShaderNodeValToRGB');ramp.color_ramp.elements[0].position=.72;ramp.color_ramp.elements[0].color=(0,0,0,1);ramp.color_ramp.elements[1].position=.99;ramp.color_ramp.elements[1].color=(.04,.22,.8,1);l.new(facing.outputs['Facing'],ramp.inputs[0])
+ old=next((x.from_socket for x in list(l) if x.to_socket==p.inputs['Emission Color']),None)
+ mix=n.new('ShaderNodeMixRGB');mix.blend_type='ADD';mix.inputs[0].default_value=1
+ if old:l.new(old,mix.inputs[1])
+ else:mix.inputs[1].default_value=(0,0,0,1)
+ l.new(ramp.outputs[0],mix.inputs[2]);l.new(mix.outputs[0],p.inputs['Emission Color']);p.inputs['Emission Strength'].default_value=.8
 
 def enhanced_earth(night=False):
  earth(night);o=bpy.data.objects['Earth'];atmosphere(o)
@@ -190,7 +194,7 @@ def model_shell():
 
 def model_sunlight():
  sun(2.0);bpy.data.objects['Star'].location=(-6,4,0);enhanced_earth(False);o=bpy.data.objects['Earth'];o.location=(3,0,0);o.scale=(.6,)*3
- for name in ['Atmospheric scattering']:
+ for name in []:
   o=bpy.data.objects[name];o.location=(3,0,0);o.scale=(.6,)*3
  ray=emiss('Starlight rays',(1,.65,.2),1.7)
  for j in range(9):
