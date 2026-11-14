@@ -1,0 +1,10 @@
+{
+  "inputs/script.hi.txt": {
+    "bytes": 51584,
+    "sha256": "542c3171df1027e61c750f6a21269a5f77999e251190c1ec95318323125591f3"
+  },
+  "audio/voiceover.mp3": {
+    "bytes": 17187168,
+    "sha256": "d29f1bee1d00da3cc9140935c876d498ba195c02c1f4895f279ed104816e8c72"
+  }
+}

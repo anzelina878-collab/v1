@@ -1,0 +1,602 @@
+{
+  "independent_asr_exact_normalized_token_match": 0.3741460851287441,
+  "robust_anchor_token_fraction": 0.2929584866001051,
+  "forced_alignment_windows": [
+    {
+      "start": 0,
+      "end": 17.603333333333335,
+      "median_probability": 0.7118758022785187,
+      "p10_probability": 0.5877005824730509
+    },
+    {
+      "start": 15.603333333333335,
+      "end": 33.47266666666667,
+      "median_probability": 0.7145689403017361,
+      "p10_probability": 0.5083736535161734
+    },
+    {
+      "start": 31.47266666666667,
+      "end": 52.279318181818184,
+      "median_probability": 0.7340211123228073,
+      "p10_probability": 0.4273999159038067
+    },
+    {
+      "start": 50.279318181818184,
+      "end": 71.49522727272728,
+      "median_probability": 0.7640865633885066,
+      "p10_probability": 0.5935993199901922
+    },
+    {
+      "start": 69.49522727272728,
+      "end": 92.52,
+      "median_probability": 0.7727225460644279,
+      "p10_probability": 0.5947004852443933
+    },
+    {
+      "start": 90.52,
+      "end": 111.60222222222222,
+      "median_probability": 0.7624917247078635,
+      "p10_probability": 0.49733433180954306
+    },
+    {
+      "start": 109.60222222222222,
+      "end": 134.32326530612244,
+      "median_probability": 0.7965992867946625,
+      "p10_probability": 0.5187664242461324
+    },
+    {
+      "start": 132.32326530612244,
+      "end": 149.83755102040814,
+      "median_probability": 0.7411880617340405,
+      "p10_probability": 0.48018904419150205
+    },
+    {
+      "start": 147.83755102040814,
+      "end": 168.3069387755102,
+      "median_probability": 0.7361342534422874,
+      "p10_probability": 0.49575169265270236
+    },
+    {
+      "start": 166.3069387755102,
+      "end": 187.1457142857143,
+      "median_probability": 0.7350655317306518,
+      "p10_probability": 0.4370724787935615
+    },
+    {
+      "start": 185.1457142857143,
+      "end": 208.2008163265306,
+      "median_probability": 0.7722547650337219,
+      "p10_probability": 0.5317998990416527
+    },
+    {
+      "start": 206.2008163265306,
+      "end": 229.26,
+      "median_probability": 0.8059257467587788,
+      "p10_probability": 0.5482592171989381
+    },
+    {
+      "start": 227.26,
+      "end": 247.9432743362832,
+      "median_probability": 0.7327929325401783,
+      "p10_probability": 0.552914851478168
+    },
+    {
+      "start": 245.9432743362832,
+      "end": 261.50353982300885,
+      "median_probability": 0.7972752600908279,
+      "p10_probability": 0.4885657593607903
+    },
+    {
+      "start": 259.50353982300885,
+      "end": 281.6700884955752,
+      "median_probability": 0.756202985222141,
+      "p10_probability": 0.6128772966936231
+    },
+    {
+      "start": 279.6700884955752,
+      "end": 297.66424778761063,
+      "median_probability": 0.7479950934648514,
+      "p10_probability": 0.49858376915965763
+    },
+    {
+      "start": 295.66424778761063,
+      "end": 319.7,
+      "median_probability": 0.7881956912266712,
+      "p10_probability": 0.5384989002874742
+    },
+    {
+      "start": 317.7,
+      "end": 340.10571428571427,
+      "median_probability": 0.7540808575493949,
+      "p10_probability": 0.5353086610635122
+    },
+    {
+      "start": 338.10571428571427,
+      "end": 361.44,
+      "median_probability": 0.7227672789390984,
+      "p10_probability": 0.524880687892437
+    },
+    {
+      "start": 359.44,
+      "end": 381.14,
+      "median_probability": 0.7466558317343394,
+      "p10_probability": 0.5301213778555394
+    },
+    {
+      "start": 379.14,
+      "end": 402.1906666666667,
+      "median_probability": 0.7676845908164978,
+      "p10_probability": 0.5383799502493015
+    },
+    {
+      "start": 400.1906666666667,
+      "end": 422.3457142857143,
+      "median_probability": 0.7767127777139347,
+      "p10_probability": 0.5456331376044545
+    },
+    {
+      "start": 420.3457142857143,
+      "end": 440.59,
+      "median_probability": 0.7907536923885345,
+      "p10_probability": 0.5086775154688141
+    },
+    {
+      "start": 438.59,
+      "end": 458.47,
+      "median_probability": 0.7505111634731293,
+      "p10_probability": 0.5491974616848996
+    },
+    {
+      "start": 456.47,
+      "end": 479.75,
+      "median_probability": 0.7542094091574351,
+      "p10_probability": 0.5350295744836331
+    },
+    {
+      "start": 477.75,
+      "end": 501.44666666666666,
+      "median_probability": 0.7687228683914458,
+      "p10_probability": 0.5268685450469742
+    },
+    {
+      "start": 499.44666666666666,
+      "end": 523.3194871794872,
+      "median_probability": 0.7440375472818103,
+      "p10_probability": 0.545261000841856
+    },
+    {
+      "start": 521.3194871794872,
+      "end": 538.5094871794871,
+      "median_probability": 0.7269336410931179,
+      "p10_probability": 0.5227132248761336
+    },
+    {
+      "start": 536.5094871794871,
+      "end": 552.9205128205127,
+      "median_probability": 0.6906631588935852,
+      "p10_probability": 0.5274067639240198
+    },
+    {
+      "start": 550.9205128205127,
+      "end": 575.47,
+      "median_probability": 0.7192151865788868,
+      "p10_probability": 0.5275047576241195
+    },
+    {
+      "start": 573.47,
+      "end": 596.1481818181818,
+      "median_probability": 0.7841034730275472,
+      "p10_probability": 0.5120615497054088
+    },
+    {
+      "start": 594.1481818181818,
+      "end": 615.97,
+      "median_probability": 0.7016071856021882,
+      "p10_probability": 0.5162668307622273
+    },
+    {
+      "start": 613.97,
+      "end": 635.232,
+      "median_probability": 0.7560673852761587,
+      "p10_probability": 0.5519456743573149
+    },
+    {
+      "start": 633.232,
+      "end": 654.3366666666667,
+      "median_probability": 0.7050397310938155,
+      "p10_probability": 0.513328452296555
+    },
+    {
+      "start": 652.3366666666667,
+      "end": 671.7366666666667,
+      "median_probability": 0.7630481918652853,
+      "p10_probability": 0.5638326704302536
+    },
+    {
+      "start": 669.7366666666667,
+      "end": 689.736,
+      "median_probability": 0.7984989583492279,
+      "p10_probability": 0.5888345726662212
+    },
+    {
+      "start": 687.736,
+      "end": 710.46,
+      "median_probability": 0.7372421522935231,
+      "p10_probability": 0.48208273163154014
+    },
+    {
+      "start": 708.46,
+      "end": 731.83,
+      "median_probability": 0.7557778120040893,
+      "p10_probability": 0.6209000570233911
+    },
+    {
+      "start": 729.83,
+      "end": 748.65,
+      "median_probability": 0.7240545898675919,
+      "p10_probability": 0.5481098058074713
+    },
+    {
+      "start": 746.65,
+      "end": 770.87,
+      "median_probability": 0.7359953158535064,
+      "p10_probability": 0.5503695805157934
+    },
+    {
+      "start": 768.87,
+      "end": 793.63,
+      "median_probability": 0.7513712206282295,
+      "p10_probability": 0.462760684238674
+    },
+    {
+      "start": 791.63,
+      "end": 810.2984353741497,
+      "median_probability": 0.7892437492098127,
+      "p10_probability": 0.5404343707486987
+    },
+    {
+      "start": 808.2984353741497,
+      "end": 827.4527210884354,
+      "median_probability": 0.770192705307688,
+      "p10_probability": 0.4770447671413422
+    },
+    {
+      "start": 825.4527210884354,
+      "end": 845.4238775510204,
+      "median_probability": 0.7709128459294636,
+      "p10_probability": 0.45163487615172926
+    },
+    {
+      "start": 843.4238775510204,
+      "end": 863.3950340136054,
+      "median_probability": 0.6976450117571014,
+      "p10_probability": 0.5862647840380668
+    },
+    {
+      "start": 861.3950340136054,
+      "end": 880.5928571428572,
+      "median_probability": 0.7498259544372559,
+      "p10_probability": 0.5372669829676548
+    },
+    {
+      "start": 878.5928571428572,
+      "end": 900.9175,
+      "median_probability": 0.7419981275995573,
+      "p10_probability": 0.4411776687018573
+    },
+    {
+      "start": 898.9175,
+      "end": 923.4028767123287,
+      "median_probability": 0.7329731384913126,
+      "p10_probability": 0.2714745549431869
+    },
+    {
+      "start": 921.4028767123287,
+      "end": 946.1666666666667,
+      "median_probability": 0.7737877879823957,
+      "p10_probability": 0.629363916960678
+    },
+    {
+      "start": 944.1666666666667,
+      "end": 962.4271428571428,
+      "median_probability": 0.7593013504520059,
+      "p10_probability": 0.535751867317174
+    },
+    {
+      "start": 960.4271428571428,
+      "end": 984.1447619047618,
+      "median_probability": 0.7721144556999207,
+      "p10_probability": 0.564480854340696
+    },
+    {
+      "start": 982.1447619047618,
+      "end": 1005.5833333333334,
+      "median_probability": 0.7781122148036956,
+      "p10_probability": 0.5969729963690042
+    },
+    {
+      "start": 1003.5833333333334,
+      "end": 1024.8077777777778,
+      "median_probability": 0.7450584669907888,
+      "p10_probability": 0.4978790601901711
+    },
+    {
+      "start": 1022.8077777777778,
+      "end": 1047.1117142857142,
+      "median_probability": 0.792475426197052,
+      "p10_probability": 0.5432251410186291
+    },
+    {
+      "start": 1045.1117142857142,
+      "end": 1066.3665714285714,
+      "median_probability": 0.7486133206458319,
+      "p10_probability": 0.5676714038476348
+    },
+    {
+      "start": 1064.3665714285714,
+      "end": 1085.02,
+      "median_probability": 0.7817907904585202,
+      "p10_probability": 0.5066551716299728
+    },
+    {
+      "start": 1083.02,
+      "end": 1101.03,
+      "median_probability": 0.770336496510676,
+      "p10_probability": 0.48148193590459415
+    },
+    {
+      "start": 1099.03,
+      "end": 1123.7814285714287,
+      "median_probability": 0.6916751563549042,
+      "p10_probability": 0.36739188891763874
+    },
+    {
+      "start": 1121.7814285714287,
+      "end": 1144.3700000000001,
+      "median_probability": 0.7441108928372462,
+      "p10_probability": 0.5263801342162948
+    },
+    {
+      "start": 1142.3700000000001,
+      "end": 1165.21,
+      "median_probability": 0.7487512664361433,
+      "p10_probability": 0.5131205061281269
+    },
+    {
+      "start": 1163.21,
+      "end": 1181.7749999999999,
+      "median_probability": 0.7498816415667534,
+      "p10_probability": 0.5931959156745247
+    },
+    {
+      "start": 1179.7749999999999,
+      "end": 1200.743043478261,
+      "median_probability": 0.7501318752765656,
+      "p10_probability": 0.5436272907191917
+    },
+    {
+      "start": 1198.743043478261,
+      "end": 1221.2785714285715,
+      "median_probability": 0.732947909583648,
+      "p10_probability": 0.5539463210850954
+    },
+    {
+      "start": 1219.2785714285715,
+      "end": 1238.147894736842,
+      "median_probability": 0.6870881009433005,
+      "p10_probability": 0.5182584404448668
+    },
+    {
+      "start": 1236.147894736842,
+      "end": 1259.7734146341463,
+      "median_probability": 0.775911831855774,
+      "p10_probability": 0.5251424196753599
+    },
+    {
+      "start": 1257.7734146341463,
+      "end": 1278.8329268292682,
+      "median_probability": 0.7479859239525265,
+      "p10_probability": 0.5488400139659644
+    },
+    {
+      "start": 1276.8329268292682,
+      "end": 1298.49,
+      "median_probability": 0.7579201676628806,
+      "p10_probability": 0.3376587466647228
+    },
+    {
+      "start": 1296.49,
+      "end": 1320.5663636363636,
+      "median_probability": 0.7241037786006927,
+      "p10_probability": 0.5788323181495071
+    },
+    {
+      "start": 1318.5663636363636,
+      "end": 1339.11,
+      "median_probability": 0.7928988188505173,
+      "p10_probability": 0.5998125453293324
+    },
+    {
+      "start": 1337.11,
+      "end": 1354.8385714285714,
+      "median_probability": 0.7464638551076253,
+      "p10_probability": 0.6011175739765168
+    },
+    {
+      "start": 1352.8385714285714,
+      "end": 1369.6619444444443,
+      "median_probability": 0.7314026777832103,
+      "p10_probability": 0.5207006889794554
+    },
+    {
+      "start": 1367.6619444444443,
+      "end": 1390.13,
+      "median_probability": 0.7649746366909572,
+      "p10_probability": 0.5646216360231241
+    },
+    {
+      "start": 1388.13,
+      "end": 1408.99,
+      "median_probability": 0.7212254405021667,
+      "p10_probability": 0.5586304604425095
+    },
+    {
+      "start": 1406.99,
+      "end": 1428.83,
+      "median_probability": 0.7335432469844818,
+      "p10_probability": 0.5290721940497558
+    },
+    {
+      "start": 1426.83,
+      "end": 1432.272,
+      "median_probability": 0.6347400088395392,
+      "p10_probability": 0.3355511541478336
+    }
+  ],
+  "forced_words_not_counted_as_independent_asr": true,
+  "spoken_paragraphs": 242,
+  "spoken_section_headings": 9,
+  "audio_duration": 1432.272,
+  "voice_altered": false,
+  "visual_section_titles": 10,
+  "summary_heading": "Not spoken verbatim; actual summary-opening phrase is the synchronization cue",
+  "chapter_transition_refinement": [
+    {
+      "title": "वायु सेना",
+      "spoken_heading": true,
+      "cue_time": 104.61999999999999,
+      "median_probability": 0.715028389543295,
+      "window": [
+        98.47999999999999,
+        111.30222222222223
+      ],
+      "heading_word_times": [
+        104.61999999999999,
+        105.32
+      ]
+    },
+    {
+      "title": "टैंक और बख़्तरबंद वाहन",
+      "spoken_heading": true,
+      "cue_time": 331.84,
+      "median_probability": 0.7622535362839699,
+      "window": [
+        327.9,
+        340.0057142857143
+      ],
+      "heading_word_times": [
+        331.84,
+        332.53999999999996,
+        332.76,
+        333.44
+      ]
+    },
+    {
+      "title": "मिसाइल हथियार",
+      "spoken_heading": true,
+      "cue_time": 483.33,
+      "median_probability": 0.766903140892585,
+      "window": [
+        478.19,
+        493.23
+      ],
+      "heading_word_times": [
+        483.33,
+        484.05
+      ]
+    },
+    {
+      "title": "पैदल सेना के हथियार",
+      "spoken_heading": true,
+      "cue_time": 676.2166666666667,
+      "median_probability": 0.8309805520943233,
+      "window": [
+        670.2166666666667,
+        684.0166666666667
+      ],
+      "heading_word_times": [
+        676.2166666666667,
+        676.8766666666667,
+        677.2166666666667,
+        677.3566666666667
+      ]
+    },
+    {
+      "title": "तोपखाना",
+      "spoken_heading": true,
+      "cue_time": 733.85,
+      "median_probability": 0.7422192998230457,
+      "window": [
+        730.61,
+        742.35
+      ],
+      "heading_word_times": [
+        733.85
+      ]
+    },
+    {
+      "title": "ड्रोन",
+      "spoken_heading": true,
+      "cue_time": 826.2784353741497,
+      "median_probability": 0.7486400008201599,
+      "window": [
+        819.6784353741497,
+        836.0127210884353
+      ],
+      "heading_word_times": [
+        826.2784353741497
+      ]
+    },
+    {
+      "title": "वायु रक्षा",
+      "spoken_heading": true,
+      "cue_time": 943.1828767123288,
+      "median_probability": 0.7807798663775126,
+      "window": [
+        934.8628767123288,
+        950.8066666666667
+      ],
+      "heading_word_times": [
+        943.1828767123288,
+        944.0828767123288
+      ]
+    },
+    {
+      "title": "हेलीकॉप्टर",
+      "spoken_heading": true,
+      "cue_time": 1057.4117142857142,
+      "median_probability": 0.7364934235811234,
+      "window": [
+        1049.8117142857143,
+        1065.8465714285715
+      ],
+      "heading_word_times": [
+        1057.4117142857142
+      ]
+    },
+    {
+      "title": "नौसेना",
+      "spoken_heading": true,
+      "cue_time": 1138.3214285714287,
+      "median_probability": 0.7114027043183645,
+      "window": [
+        1128.8014285714287,
+        1144.0700000000002
+      ],
+      "heading_word_times": [
+        1138.3214285714287
+      ]
+    },
+    {
+      "title": "निष्कर्ष। किसका सैन्य शस्त्रागार ज़्यादा ताकतवर है?",
+      "spoken_heading": false,
+      "cue_time": 1295.6729268292681,
+      "median_probability": 0.8316118270158768,
+      "window": [
+        1292.5729268292682,
+        1297.93
+      ],
+      "heading_word_times": []
+    }
+  ]
+}

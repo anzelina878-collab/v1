@@ -1,0 +1,3690 @@
+{
+  "schema": "arsenal.hindi-episode002.v1",
+  "title": "संयुक्त राज्य अमेरिका बनाम ईरान: सैन्य शस्त्रागार की पूरी तुलना",
+  "language": "hi",
+  "brand": "ARSENAL 360 / शस्त्र 360",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 1432.3,
+  "audio": "audio/voiceover.mp3",
+  "scenes": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "duration": 3.8,
+      "kind": "archive",
+      "asset_id": "ford",
+      "title": "GERALD R. FORD · CVN-78",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "source_in": 0.0,
+      "id": "hi002-000",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-001"
+      ],
+      "narration_hi": "कल्पना कीजिए, आपके सामने दो युद्धपोत हैं।\nपहला एक अमेरिकी विमानवाहक पोत है, जिसकी लंबाई तीन सौ मीटर से भी ज़्यादा है। उसके उड़ान डेक पर दर्जनों विमान हैं। और अंदर हज़ारों लोग, जटिल नियंत्रण प्रणालियाँ और उसका अपना ऊर्जा संयंत्र मौजूद है।"
+    },
+    {
+      "start": 3.8,
+      "end": 7.066666666666666,
+      "duration": 3.2666666666666666,
+      "kind": "turntable",
+      "asset_id": "model-ford-illustrative",
+      "title": "GERALD R. FORD",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "सरल 3D रेखाचित्र",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-001",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-002"
+      ],
+      "source_in": 0,
+      "narration_hi": "पहला एक अमेरिकी विमानवाहक पोत है, जिसकी लंबाई तीन सौ मीटर से भी ज़्यादा है। उसके उड़ान डेक पर दर्जनों विमान हैं। और अंदर हज़ारों लोग, जटिल नियंत्रण प्रणालियाँ और उसका अपना ऊर्जा संयंत्र मौजूद है।"
+    },
+    {
+      "start": 7.066666666666666,
+      "end": 10.2,
+      "duration": 3.1333333333333333,
+      "kind": "photo",
+      "asset_id": "ford",
+      "title": "GERALD R. FORD · CVN-78",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "id": "hi002-002",
+      "original_scene_ids": [
+        "v2-shot-003"
+      ],
+      "narration_hi": "पहला एक अमेरिकी विमानवाहक पोत है, जिसकी लंबाई तीन सौ मीटर से भी ज़्यादा है। उसके उड़ान डेक पर दर्जनों विमान हैं। और अंदर हज़ारों लोग, जटिल नियंत्रण प्रणालियाँ और उसका अपना ऊर्जा संयंत्र मौजूद है।"
+    },
+    {
+      "start": 10.2,
+      "end": 13.9,
+      "duration": 3.7,
+      "kind": "archive",
+      "asset_id": "ford-deck",
+      "title": "GERALD R. FORD · उड़ान डेक",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "source_in": 8.0,
+      "id": "hi002-003",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-004"
+      ],
+      "narration_hi": "पहला एक अमेरिकी विमानवाहक पोत है, जिसकी लंबाई तीन सौ मीटर से भी ज़्यादा है। उसके उड़ान डेक पर दर्जनों विमान हैं। और अंदर हज़ारों लोग, जटिल नियंत्रण प्रणालियाँ और उसका अपना ऊर्जा संयंत्र मौजूद है।"
+    },
+    {
+      "start": 13.9,
+      "end": 17.533333333333335,
+      "duration": 3.6333333333333333,
+      "kind": "archive",
+      "asset_id": "ford-crew",
+      "title": "GERALD R. FORD · चालक दल",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "source_in": 50.0,
+      "id": "hi002-004",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-005"
+      ],
+      "narration_hi": "पहला एक अमेरिकी विमानवाहक पोत है, जिसकी लंबाई तीन सौ मीटर से भी ज़्यादा है। उसके उड़ान डेक पर दर्जनों विमान हैं। और अंदर हज़ारों लोग, जटिल नियंत्रण प्रणालियाँ और उसका अपना ऊर्जा संयंत्र मौजूद है।"
+    },
+    {
+      "start": 17.533333333333335,
+      "end": 19.8,
+      "duration": 2.2666666666666666,
+      "kind": "turntable",
+      "asset_id": "model-ghadir-illustrative",
+      "title": "GHADIR",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "सरल 3D रेखाचित्र",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-005",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-006"
+      ],
+      "source_in": 0,
+      "narration_hi": "पहला एक अमेरिकी विमानवाहक पोत है, जिसकी लंबाई तीन सौ मीटर से भी ज़्यादा है। उसके उड़ान डेक पर दर्जनों विमान हैं। और अंदर हज़ारों लोग, जटिल नियंत्रण प्रणालियाँ और उसका अपना ऊर्जा संयंत्र मौजूद है।\nदूसरी एक छोटी ईरानी पनडुब्बी है, जिसे फ़ारस की खाड़ी के उथले पानी में काम करने के लिए बनाया गया है।"
+    },
+    {
+      "start": 19.8,
+      "end": 22.0,
+      "duration": 2.2,
+      "kind": "photo",
+      "asset_id": "ghadir",
+      "title": "GHADIR",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-006",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-007"
+      ],
+      "narration_hi": "दूसरी एक छोटी ईरानी पनडुब्बी है, जिसे फ़ारस की खाड़ी के उथले पानी में काम करने के लिए बनाया गया है।"
+    },
+    {
+      "start": 22.0,
+      "end": 23.5,
+      "duration": 1.5,
+      "kind": "photo",
+      "asset_id": "model-ghadir-illustrative",
+      "title": "GHADIR",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "visual_origin": "true_3d_render",
+      "note": "सरल 3D रेखाचित्र",
+      "id": "hi002-007",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-008"
+      ],
+      "narration_hi": "दूसरी एक छोटी ईरानी पनडुब्बी है, जिसे फ़ारस की खाड़ी के उथले पानी में काम करने के लिए बनाया गया है।\nदोनों सैन्य उपकरण हैं।"
+    },
+    {
+      "start": 23.5,
+      "end": 26.933333333333334,
+      "duration": 3.433333333333333,
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "दो युद्धपोत · अलग-अलग काम",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "sides": [
+        [
+          "ford",
+          "GERALD R. FORD",
+          "US"
+        ],
+        [
+          "model-ghadir-illustrative",
+          "GHADIR",
+          "IR"
+        ]
+      ],
+      "id": "hi002-008",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-009"
+      ],
+      "narration_hi": "दोनों सैन्य उपकरण हैं।\nलेकिन उन्हें देखकर लगता है, मानो वे दो बिल्कुल अलग दुनियाओं से आए हों।"
+    },
+    {
+      "start": 26.933333333333334,
+      "end": 30.766666666666666,
+      "duration": 3.8333333333333335,
+      "kind": "photo",
+      "asset_id": "ford",
+      "title": "GERALD R. FORD",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-009",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-010"
+      ],
+      "narration_hi": "लेकिन उन्हें देखकर लगता है, मानो वे दो बिल्कुल अलग दुनियाओं से आए हों।"
+    },
+    {
+      "start": 30.766666666666666,
+      "end": 33.166666666666664,
+      "duration": 2.4,
+      "kind": "archive",
+      "asset_id": "f35",
+      "title": "F-35 LIGHTNING II",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "source_in": 0.0,
+      "id": "hi002-010",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-011"
+      ],
+      "narration_hi": "लेकिन उन्हें देखकर लगता है, मानो वे दो बिल्कुल अलग दुनियाओं से आए हों।\nअब आसमान की ओर देखिए।\nएक तरफ़ अमेरिकी F-35 है। पाँचवीं पीढ़ी का ऐसा लड़ाकू विमान, जो कई सेंसरों से जानकारी जुटा सकता है और उसे दूसरी सैन्य इकाइयों के साथ साझा कर सकता है।"
+    },
+    {
+      "start": 33.166666666666664,
+      "end": 36.06666666666667,
+      "duration": 2.9,
+      "kind": "photo",
+      "asset_id": "product-f35",
+      "title": "F-35 LIGHTNING II",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-011",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-012"
+      ],
+      "narration_hi": "एक तरफ़ अमेरिकी F-35 है। पाँचवीं पीढ़ी का ऐसा लड़ाकू विमान, जो कई सेंसरों से जानकारी जुटा सकता है और उसे दूसरी सैन्य इकाइयों के साथ साझा कर सकता है।"
+    },
+    {
+      "start": 36.06666666666667,
+      "end": 39.1,
+      "duration": 3.033333333333333,
+      "kind": "photo",
+      "asset_id": "f35",
+      "title": "F-35 LIGHTNING II",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-012",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-013"
+      ],
+      "narration_hi": "एक तरफ़ अमेरिकी F-35 है। पाँचवीं पीढ़ी का ऐसा लड़ाकू विमान, जो कई सेंसरों से जानकारी जुटा सकता है और उसे दूसरी सैन्य इकाइयों के साथ साझा कर सकता है।"
+    },
+    {
+      "start": 39.1,
+      "end": 42.6,
+      "duration": 3.5,
+      "kind": "photo",
+      "asset_id": "product-f35",
+      "title": "F-35 · सेंसर और सूचना साझाकरण",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-013",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-014"
+      ],
+      "narration_hi": "एक तरफ़ अमेरिकी F-35 है। पाँचवीं पीढ़ी का ऐसा लड़ाकू विमान, जो कई सेंसरों से जानकारी जुटा सकता है और उसे दूसरी सैन्य इकाइयों के साथ साझा कर सकता है।\nदूसरी तरफ़ ईरान का F-14 Tomcat है। एक ऐसा विमान, जिसका इतिहास उन्नीस सौ सत्तर के दशक में शुरू हुआ था।"
+    },
+    {
+      "start": 42.6,
+      "end": 46.03333333333333,
+      "duration": 3.433333333333333,
+      "kind": "turntable",
+      "asset_id": "model-f14",
+      "title": "F-14 TOMCAT",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-014",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-015"
+      ],
+      "source_in": 0,
+      "narration_hi": "दूसरी तरफ़ ईरान का F-14 Tomcat है। एक ऐसा विमान, जिसका इतिहास उन्नीस सौ सत्तर के दशक में शुरू हुआ था।"
+    },
+    {
+      "start": 46.03333333333333,
+      "end": 49.2,
+      "duration": 3.1666666666666665,
+      "kind": "photo",
+      "asset_id": "f14",
+      "title": "F-14 TOMCAT",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-015",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-016"
+      ],
+      "narration_hi": "दूसरी तरफ़ ईरान का F-14 Tomcat है। एक ऐसा विमान, जिसका इतिहास उन्नीस सौ सत्तर के दशक में शुरू हुआ था।"
+    },
+    {
+      "start": 49.2,
+      "end": 51.43333333333333,
+      "duration": 2.2333333333333334,
+      "kind": "photo",
+      "asset_id": "model-f14",
+      "title": "F-14 TOMCAT",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "visual_origin": "true_3d_render",
+      "note": "3D दृश्य · स्थिर कोण",
+      "id": "hi002-016",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-017"
+      ],
+      "narration_hi": "दूसरी तरफ़ ईरान का F-14 Tomcat है। एक ऐसा विमान, जिसका इतिहास उन्नीस सौ सत्तर के दशक में शुरू हुआ था।\nएक देश ने रडार पर कम दिखाई देने वाले विमानों और विमानवाहक पोतों के युद्धक समूहों में निवेश क्यों किया, जबकि दूसरा दशकों तक बैलिस्टिक मिसाइलें, ड्रोन और छोटी लड़ाकू नौकाएँ विकसित करता रहा?"
+    },
+    {
+      "start": 51.43333333333333,
+      "end": 54.166666666666664,
+      "duration": 2.7333333333333334,
+      "kind": "turntable",
+      "asset_id": "model-f22",
+      "title": "F-22 RAPTOR",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-017",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-018"
+      ],
+      "source_in": 0,
+      "narration_hi": "एक देश ने रडार पर कम दिखाई देने वाले विमानों और विमानवाहक पोतों के युद्धक समूहों में निवेश क्यों किया, जबकि दूसरा दशकों तक बैलिस्टिक मिसाइलें, ड्रोन और छोटी लड़ाकू नौकाएँ विकसित करता रहा?"
+    },
+    {
+      "start": 54.166666666666664,
+      "end": 55.96666666666667,
+      "duration": 1.8,
+      "kind": "photo",
+      "asset_id": "ford",
+      "title": "अमेरिकी विमानवाहक पोत का युद्धक समूह",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-018",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-019"
+      ],
+      "narration_hi": "एक देश ने रडार पर कम दिखाई देने वाले विमानों और विमानवाहक पोतों के युद्धक समूहों में निवेश क्यों किया, जबकि दूसरा दशकों तक बैलिस्टिक मिसाइलें, ड्रोन और छोटी लड़ाकू नौकाएँ विकसित करता रहा?"
+    },
+    {
+      "start": 55.96666666666667,
+      "end": 59.7,
+      "duration": 3.7333333333333334,
+      "kind": "archive",
+      "asset_id": "iran-missiles",
+      "title": "ईरानी मिसाइल बल",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "source_in": 0.0,
+      "id": "hi002-019",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-020"
+      ],
+      "narration_hi": "एक देश ने रडार पर कम दिखाई देने वाले विमानों और विमानवाहक पोतों के युद्धक समूहों में निवेश क्यों किया, जबकि दूसरा दशकों तक बैलिस्टिक मिसाइलें, ड्रोन और छोटी लड़ाकू नौकाएँ विकसित करता रहा?"
+    },
+    {
+      "start": 59.7,
+      "end": 61.233333333333334,
+      "duration": 1.5333333333333334,
+      "kind": "photo",
+      "asset_id": "product-shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-020",
+      "quality_choice": "Real licensed cutout preferred to coarse illustrative geometry",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-021"
+      ],
+      "narration_hi": "एक देश ने रडार पर कम दिखाई देने वाले विमानों और विमानवाहक पोतों के युद्धक समूहों में निवेश क्यों किया, जबकि दूसरा दशकों तक बैलिस्टिक मिसाइलें, ड्रोन और छोटी लड़ाकू नौकाएँ विकसित करता रहा?"
+    },
+    {
+      "start": 61.233333333333334,
+      "end": 62.96666666666667,
+      "duration": 1.7333333333333334,
+      "kind": "archive",
+      "asset_id": "iran-boats",
+      "title": "ईरानी तेज़ रफ़्तार नौकाएँ",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "source_in": 1.0,
+      "id": "hi002-021",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-022"
+      ],
+      "narration_hi": "एक देश ने रडार पर कम दिखाई देने वाले विमानों और विमानवाहक पोतों के युद्धक समूहों में निवेश क्यों किया, जबकि दूसरा दशकों तक बैलिस्टिक मिसाइलें, ड्रोन और छोटी लड़ाकू नौकाएँ विकसित करता रहा?"
+    },
+    {
+      "start": 62.96666666666667,
+      "end": 67.43333333333334,
+      "duration": 4.466666666666667,
+      "kind": "turntable",
+      "asset_id": "model-f22",
+      "title": "F-22 RAPTOR",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-022",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-023"
+      ],
+      "source_in": 0,
+      "narration_hi": "एक देश ने रडार पर कम दिखाई देने वाले विमानों और विमानवाहक पोतों के युद्धक समूहों में निवेश क्यों किया, जबकि दूसरा दशकों तक बैलिस्टिक मिसाइलें, ड्रोन और छोटी लड़ाकू नौकाएँ विकसित करता रहा?\nऔर सबसे बड़ा सवाल: क्या तकनीकी रूप से महँगा हथियार हमेशा ज़्यादा प्रभावी भी होता है?"
+    },
+    {
+      "start": 67.43333333333334,
+      "end": 70.5,
+      "duration": 3.066666666666667,
+      "kind": "photo",
+      "asset_id": "product-abrams",
+      "title": "M1 ABRAMS",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-023",
+      "quality_choice": "Real licensed cutout preferred to coarse illustrative geometry",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-024"
+      ],
+      "narration_hi": "और सबसे बड़ा सवाल: क्या तकनीकी रूप से महँगा हथियार हमेशा ज़्यादा प्रभावी भी होता है?\nआज शस्त्र 360 पर हम संयुक्त राज्य अमेरिका और ईरान के सैन्य शस्त्रागारों की तुलना करेंगे।"
+    },
+    {
+      "start": 70.5,
+      "end": 73.63333333333334,
+      "duration": 3.1333333333333333,
+      "kind": "ident",
+      "asset_id": "channel-ident",
+      "title": "ARSENAL 360 / शस्त्र 360",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-024",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-025"
+      ],
+      "narration_hi": "आज शस्त्र 360 पर हम संयुक्त राज्य अमेरिका और ईरान के सैन्य शस्त्रागारों की तुलना करेंगे।"
+    },
+    {
+      "start": 73.63333333333334,
+      "end": 76.66666666666667,
+      "duration": 3.033333333333333,
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "संयुक्त राज्य अमेरिका बनाम ईरान",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "sides": [
+        [
+          "model-f22",
+          "F-22 RAPTOR",
+          "US"
+        ],
+        [
+          "model-f14",
+          "F-14 TOMCAT",
+          "IR"
+        ]
+      ],
+      "id": "hi002-025",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-026"
+      ],
+      "narration_hi": "आज शस्त्र 360 पर हम संयुक्त राज्य अमेरिका और ईरान के सैन्य शस्त्रागारों की तुलना करेंगे।\nवायु सेना। टैंक। मिसाइलें। पैदल सेना। तोपखाना। ड्रोन। वायु रक्षा। हेलीकॉप्टर। और नौसेना।"
+    },
+    {
+      "start": 76.66666666666667,
+      "end": 78.06666666666666,
+      "duration": 1.4,
+      "kind": "photo",
+      "asset_id": "model-f22",
+      "title": "वायु सेना · F-22",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "visual_origin": "true_3d_render",
+      "note": "3D दृश्य · स्थिर कोण",
+      "id": "hi002-026",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-027"
+      ],
+      "narration_hi": "वायु सेना। टैंक। मिसाइलें। पैदल सेना। तोपखाना। ड्रोन। वायु रक्षा। हेलीकॉप्टर। और नौसेना।"
+    },
+    {
+      "start": 78.06666666666666,
+      "end": 79.3,
+      "duration": 1.2333333333333334,
+      "kind": "photo",
+      "asset_id": "product-abrams",
+      "title": "बख़्तरबंद वाहन · M1 ABRAMS",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-027",
+      "quality_choice": "Real licensed cutout preferred to coarse illustrative geometry",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-028"
+      ],
+      "narration_hi": "वायु सेना। टैंक। मिसाइलें। पैदल सेना। तोपखाना। ड्रोन। वायु रक्षा। हेलीकॉप्टर। और नौसेना।"
+    },
+    {
+      "start": 79.3,
+      "end": 80.43333333333334,
+      "duration": 1.1333333333333333,
+      "kind": "photo",
+      "asset_id": "product-fateh",
+      "title": "मिसाइलें · FATEH-110",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-028",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-029"
+      ],
+      "narration_hi": "वायु सेना। टैंक। मिसाइलें। पैदल सेना। तोपखाना। ड्रोन। वायु रक्षा। हेलीकॉप्टर। और नौसेना।"
+    },
+    {
+      "start": 80.43333333333334,
+      "end": 81.7,
+      "duration": 1.2666666666666666,
+      "kind": "photo",
+      "asset_id": "product-shahed136",
+      "title": "ड्रोन · SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-029",
+      "quality_choice": "Real licensed cutout preferred to coarse illustrative geometry",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-030"
+      ],
+      "narration_hi": "वायु सेना। टैंक। मिसाइलें। पैदल सेना। तोपखाना। ड्रोन। वायु रक्षा। हेलीकॉप्टर। और नौसेना।"
+    },
+    {
+      "start": 81.7,
+      "end": 82.96666666666667,
+      "duration": 1.2666666666666666,
+      "kind": "photo",
+      "asset_id": "patriot",
+      "title": "वायु रक्षा · PATRIOT",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-030",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-031"
+      ],
+      "narration_hi": "वायु सेना। टैंक। मिसाइलें। पैदल सेना। तोपखाना। ड्रोन। वायु रक्षा। हेलीकॉप्टर। और नौसेना।"
+    },
+    {
+      "start": 82.96666666666667,
+      "end": 84.0,
+      "duration": 1.0333333333333334,
+      "kind": "photo",
+      "asset_id": "model-apache",
+      "title": "हेलीकॉप्टर · AH-64",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "visual_origin": "true_3d_render",
+      "note": "3D दृश्य · स्थिर कोण",
+      "id": "hi002-031",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-032"
+      ],
+      "narration_hi": "वायु सेना। टैंक। मिसाइलें। पैदल सेना। तोपखाना। ड्रोन। वायु रक्षा। हेलीकॉप्टर। और नौसेना।"
+    },
+    {
+      "start": 84.0,
+      "end": 85.56666666666666,
+      "duration": 1.5666666666666667,
+      "kind": "photo",
+      "asset_id": "model-ford-illustrative",
+      "title": "नौसेना · GERALD R. FORD",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "visual_origin": "true_3d_render",
+      "note": "सरल 3D रेखाचित्र",
+      "id": "hi002-032",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-033"
+      ],
+      "narration_hi": "वायु सेना। टैंक। मिसाइलें। पैदल सेना। तोपखाना। ड्रोन। वायु रक्षा। हेलीकॉप्टर। और नौसेना।"
+    },
+    {
+      "start": 85.56666666666666,
+      "end": 88.56666666666666,
+      "duration": 3.0,
+      "kind": "turntable",
+      "asset_id": "model-m4",
+      "title": "M4A1",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-033",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-034"
+      ],
+      "source_in": 0,
+      "narration_hi": "वायु सेना। टैंक। मिसाइलें। पैदल सेना। तोपखाना। ड्रोन। वायु रक्षा। हेलीकॉप्टर। और नौसेना।\nहम हथियारों के सबसे चर्चित नमूनों, उनकी क्षमताओं, खूबियों और सीमाओं को समझेंगे।"
+    },
+    {
+      "start": 88.56666666666666,
+      "end": 91.96666666666667,
+      "duration": 3.4,
+      "kind": "photo",
+      "asset_id": "model-f22",
+      "title": "तकनीक · क्षमताएँ · सीमाएँ",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "visual_origin": "true_3d_render",
+      "note": "3D दृश्य · स्थिर कोण",
+      "id": "hi002-034",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-035"
+      ],
+      "narration_hi": "हम हथियारों के सबसे चर्चित नमूनों, उनकी क्षमताओं, खूबियों और सीमाओं को समझेंगे।"
+    },
+    {
+      "start": 91.96666666666667,
+      "end": 99.86666666666666,
+      "duration": 7.9,
+      "kind": "turntable",
+      "asset_id": "model-f22",
+      "title": "F-22 RAPTOR",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-035",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-036-v4-2719"
+      ],
+      "source_in": 0,
+      "narration_hi": "हम हथियारों के सबसे चर्चित नमूनों, उनकी क्षमताओं, खूबियों और सीमाओं को समझेंगे।\nऔर अंत में जानेंगे कि सैन्य बजट में बहुत बड़ा अंतर होने के बावजूद, केवल यही अंतर पूरी तस्वीर क्यों नहीं दिखाता।"
+    },
+    {
+      "id": "hi002-036",
+      "kind": "photo",
+      "title": "F-22 RAPTOR",
+      "subtitle": "",
+      "settle_after": 1.2,
+      "start": 99.86666666666666,
+      "end": 103.93333333333334,
+      "duration": 4.066666666666666,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-section-aviation"
+      ],
+      "asset_id": "model-f22",
+      "country": "US",
+      "role": "original-section-reserve",
+      "narration_hi": "और अंत में जानेंगे कि सैन्य बजट में बहुत बड़ा अंतर होने के बावजूद, केवल यही अंतर पूरी तस्वीर क्यों नहीं दिखाता।\nशुरुआत उस श्रेणी से करते हैं, जहाँ तकनीक का फ़ासला ख़ासतौर पर साफ़ दिखाई देता है।"
+    },
+    {
+      "kind": "section",
+      "title": "वायु सेना",
+      "subtitle": "",
+      "start": 103.93333333333334,
+      "end": 106.43333333333334,
+      "duration": 2.5,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 1,
+      "spoken_start": 104.63333333333334,
+      "id": "hi002-037",
+      "narration_hi": "शुरुआत उस श्रेणी से करते हैं, जहाँ तकनीक का फ़ासला ख़ासतौर पर साफ़ दिखाई देता है।\nअमेरिकी वायु सेना का मतलब केवल लड़ाकू विमान नहीं है।"
+    },
+    {
+      "start": 106.43333333333334,
+      "end": 118.86666666666666,
+      "duration": 12.433333333333334,
+      "kind": "turntable",
+      "asset_id": "model-f22",
+      "title": "F-22 RAPTOR",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-038",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-036-v4-3131"
+      ],
+      "source_in": 0,
+      "narration_hi": "अमेरिकी वायु सेना का मतलब केवल लड़ाकू विमान नहीं है।\nयह एक विशाल व्यवस्था है, जिसमें विमान, उपग्रह, रडार, ईंधन भरने वाले विमान और कमान केंद्र मिलकर काम करते हैं।\nइस व्यवस्था के सबसे चर्चित विमानों में से एक है F-35 Lightning II।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "f35",
+      "title": "F-35 LIGHTNING II",
+      "country": "US",
+      "source_in": 0.0,
+      "start": 118.86666666666666,
+      "end": 133.2,
+      "duration": 14.333333333333334,
+      "id": "hi002-039",
+      "visual_purpose": "archive: f35; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-037"
+      ],
+      "narration_hi": "इस व्यवस्था के सबसे चर्चित विमानों में से एक है F-35 Lightning II।\nयह पाँचवीं पीढ़ी का बहुउद्देश्यीय लड़ाकू विमान है, जिसे रडार पर दिखाई देने की संभावना कम करने वाली तकनीकों के साथ बनाया गया है।"
+    },
+    {
+      "start": 133.2,
+      "end": 144.56666666666666,
+      "duration": 11.366666666666667,
+      "kind": "photo",
+      "asset_id": "product-f35",
+      "title": "F-35",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-040",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-038"
+      ],
+      "narration_hi": "यह पाँचवीं पीढ़ी का बहुउद्देश्यीय लड़ाकू विमान है, जिसे रडार पर दिखाई देने की संभावना कम करने वाली तकनीकों के साथ बनाया गया है।\nइसकी सबसे बड़ी ख़ासियत रिकॉर्ड तोड़ रफ़्तार नहीं है।\nबल्कि अलग-अलग सेंसरों की जानकारी को एक साथ जोड़ने की क्षमता है, जिससे पायलट को हवाई स्थिति की ज़्यादा पूरी तस्वीर मिलती है।\nइसके साथ एक और विमान है, F-22 Raptor।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "f22",
+      "title": "F-22 RAPTOR",
+      "country": "US",
+      "source_in": 8.0,
+      "start": 144.56666666666666,
+      "end": 167.23333333333332,
+      "duration": 22.666666666666668,
+      "id": "hi002-041",
+      "visual_purpose": "archive: f22; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-039"
+      ],
+      "narration_hi": "इसके साथ एक और विमान है, F-22 Raptor।\nज़्यादा बहुउद्देश्यीय F-35 के मुक़ाबले, इस विमान को मुख्य रूप से हवा में श्रेष्ठता हासिल करने के लिए विकसित किया गया था।\nतेज़ी से दिशा बदलने की क्षमता, शक्तिशाली इंजन, कम रडार दृश्यता और आधुनिक इलेक्ट्रॉनिक्स ने इसे अपनी पीढ़ी के सबसे प्रसिद्ध लड़ाकू विमानों में शामिल कर दिया।\nलेकिन अमेरिकी सैन्य विमानन केवल कम रडार दृश्यता वाले विमानों तक सीमित नहीं है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "f15ex",
+      "title": "अमेरिकी वायु सेना",
+      "country": "US",
+      "note": "",
+      "start": 167.23333333333332,
+      "end": 172.56666666666666,
+      "duration": 5.333333333333333,
+      "id": "hi002-042",
+      "visual_purpose": "photo: АВІАЦІЯ США; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-040"
+      ],
+      "narration_hi": "लेकिन अमेरिकी सैन्य विमानन केवल कम रडार दृश्यता वाले विमानों तक सीमित नहीं है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "f15ex",
+      "title": "F-15EX EAGLE II",
+      "country": "US",
+      "source_in": 0.0,
+      "start": 172.56666666666666,
+      "end": 186.6,
+      "duration": 14.033333333333333,
+      "id": "hi002-043",
+      "visual_purpose": "archive: f15ex; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-041"
+      ],
+      "narration_hi": "लेकिन अमेरिकी सैन्य विमानन केवल कम रडार दृश्यता वाले विमानों तक सीमित नहीं है।\nF-15EX Eagle II एक बिल्कुल अलग सोच को सामने लाता है।\nयह F-35 की तरह रडार से छिपने की क्षमता नहीं रखता, लेकिन भारी युद्धक भार और कई तरह के हथियार ले जा सकता है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "b2",
+      "title": "B-2 SPIRIT",
+      "country": "US",
+      "source_in": 0.0,
+      "start": 186.6,
+      "end": 193.06666666666666,
+      "duration": 6.466666666666667,
+      "id": "hi002-044",
+      "visual_purpose": "archive: b2; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-042-a"
+      ],
+      "narration_hi": "यह F-35 की तरह रडार से छिपने की क्षमता नहीं रखता, लेकिन भारी युद्धक भार और कई तरह के हथियार ले जा सकता है।\nलंबी दूरी पर हमले करने के लिए संयुक्त राज्य अमेरिका के पास रणनीतिक बमवर्षक भी हैं।\nमिसाल के तौर पर B-2 Spirit। इसकी असामान्य बनावट किसी विशाल उड़ते हुए पंख जैसी दिखती है।"
+    },
+    {
+      "kind": "turntable",
+      "asset_id": "model-b2",
+      "title": "B-2 SPIRIT",
+      "country": "US",
+      "start": 193.06666666666666,
+      "end": 198.83333333333334,
+      "duration": 5.766666666666667,
+      "id": "hi002-045",
+      "visual_purpose": "archive: b2; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-042-b"
+      ],
+      "source_in": 0,
+      "narration_hi": "मिसाल के तौर पर B-2 Spirit। इसकी असामान्य बनावट किसी विशाल उड़ते हुए पंख जैसी दिखती है।\nऔर उससे नया B-21 Raider कम रडार दृश्यता वाले रणनीतिक विमानन की अगली पीढ़ी के रूप में विकसित किया जा रहा है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "b21",
+      "title": "B-21 RAIDER",
+      "country": "US",
+      "source_in": 0.0,
+      "start": 198.83333333333334,
+      "end": 206.83333333333334,
+      "duration": 8.0,
+      "id": "hi002-046",
+      "visual_purpose": "archive: b21; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-043"
+      ],
+      "narration_hi": "और उससे नया B-21 Raider कम रडार दृश्यता वाले रणनीतिक विमानन की अगली पीढ़ी के रूप में विकसित किया जा रहा है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "kc46",
+      "title": "हवा में ईंधन भरने वाले विमान",
+      "country": "US",
+      "note": "",
+      "start": 206.83333333333334,
+      "end": 216.13333333333333,
+      "duration": 9.3,
+      "id": "hi002-047",
+      "visual_purpose": "photo: ЛІТАКИ-ЗАПРАВНИКИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-044"
+      ],
+      "narration_hi": "और उससे नया B-21 Raider कम रडार दृश्यता वाले रणनीतिक विमानन की अगली पीढ़ी के रूप में विकसित किया जा रहा है।\nलेकिन एक और महत्वपूर्ण हिस्सा है, जिसके बिना ये सभी विमान अपने ठिकानों से इतनी दूर काम नहीं कर सकते।\nये हैं हवा में ईंधन भरने वाले विमान।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "kc46",
+      "title": "KC-46 PEGASUS",
+      "country": "US",
+      "source_in": 25.0,
+      "start": 216.13333333333333,
+      "end": 228.43333333333334,
+      "duration": 12.3,
+      "id": "hi002-048",
+      "visual_purpose": "archive: kc46; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-045"
+      ],
+      "narration_hi": "ये हैं हवा में ईंधन भरने वाले विमान।\nKC-46 Pegasus दूसरे विमानों को उड़ान के दौरान ही ईंधन दे सकता है।\nऐसी क्षमताएँ ही अलग-अलग लड़ाकू विमानों को एक वैश्विक सैन्य व्यवस्था का हिस्सा बनाती हैं।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "f14",
+      "title": "ईरानी वायु सेना",
+      "country": "IR",
+      "note": "",
+      "start": 228.43333333333334,
+      "end": 232.96666666666667,
+      "duration": 4.533333333333333,
+      "id": "hi002-049",
+      "visual_purpose": "photo: АВІАЦІЯ ІРАНУ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-046"
+      ],
+      "narration_hi": "ऐसी क्षमताएँ ही अलग-अलग लड़ाकू विमानों को एक वैश्विक सैन्य व्यवस्था का हिस्सा बनाती हैं।\nअब बात ईरान की।\nउसकी वायु सेना बिल्कुल अलग परिस्थितियों में विकसित हुई।"
+    },
+    {
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "अमेरिकी विरासत",
+      "sides": [
+        [
+          "model-f14",
+          "F-14 TOMCAT",
+          "IR"
+        ],
+        [
+          "product-f4",
+          "F-4 PHANTOM II",
+          "IR"
+        ]
+      ],
+      "start": 232.96666666666667,
+      "end": 247.83333333333334,
+      "duration": 14.866666666666667,
+      "id": "hi002-050",
+      "visual_purpose": "compare: АМЕРИКАНСЬКА СПАДЩИНА; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-047"
+      ],
+      "narration_hi": "उसकी वायु सेना बिल्कुल अलग परिस्थितियों में विकसित हुई।\nउन्नीस सौ उन्यासी की क्रांति से पहले ईरान अमेरिकी विमान खरीदता था। इनमें F-14 Tomcat और F-4 Phantom II भी शामिल थे।\nसत्ता परिवर्तन के बाद संयुक्त राज्य अमेरिका के साथ उसका सहयोग समाप्त हो गया।"
+    },
+    {
+      "start": 247.83333333333334,
+      "end": 280.26666666666665,
+      "duration": 32.43333333333333,
+      "kind": "turntable",
+      "asset_id": "model-f14",
+      "title": "F-14 TOMCAT",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-051",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-048"
+      ],
+      "source_in": 0,
+      "narration_hi": "सत्ता परिवर्तन के बाद संयुक्त राज्य अमेरिका के साथ उसका सहयोग समाप्त हो गया।\nस्पेयर पार्ट्स हासिल करना बेहद मुश्किल हो गया। ईरान को अपने पुराने विमानों को चालू हालत में रखने का काम ख़ुद करना पड़ा।\nयही कारण है कि F-14 ईरानी सैन्य विमानन के प्रतीकों में से एक बन गया।\nअमेरिकी नौसेना ने बहुत पहले Tomcat को सेवा से हटा दिया था। लेकिन ईरान मरम्मत, आधुनिकीकरण और अपने स्तर पर पुर्ज़े बनाकर कई वर्षों तक इन विमानों को बनाए रखता रहा।\nहालाँकि, किसी विमान का ऐतिहासिक रूप से शस्त्रागार में होना यह साबित नहीं करता कि उस प्रकार के सभी विमान आज भी युद्ध के लिए तैयार हैं।"
+    },
+    {
+      "start": 280.26666666666665,
+      "end": 289.23333333333335,
+      "duration": 8.966666666666667,
+      "kind": "photo",
+      "asset_id": "model-f14",
+      "title": "F-14 TOMCAT",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "visual_origin": "true_3d_render",
+      "note": "3D दृश्य · स्थिर कोण",
+      "id": "hi002-052",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-049"
+      ],
+      "narration_hi": "हालाँकि, किसी विमान का ऐतिहासिक रूप से शस्त्रागार में होना यह साबित नहीं करता कि उस प्रकार के सभी विमान आज भी युद्ध के लिए तैयार हैं।\nदो हज़ार पच्चीस और दो हज़ार छब्बीस की लड़ाइयों के बाद, ईरान की कुछ विमानन इकाइयों की वास्तविक स्थिति का आकलन विशेष सावधानी से करना ज़रूरी है।\nईरानी वायु सेना के अन्य परिचित विमानों में सोवियत मूल के MiG-29 और Su-24 भी शामिल हैं।"
+    },
+    {
+      "kind": "turntable",
+      "asset_id": "model-mig29",
+      "title": "MiG-29",
+      "start": 289.23333333333335,
+      "end": 292.93333333333334,
+      "duration": 3.7,
+      "id": "hi002-053",
+      "visual_purpose": "compare: РАДЯНСЬКІ ПЛАТФОРМИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "country": "IR",
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-050-a"
+      ],
+      "source_in": 0,
+      "narration_hi": "ईरानी वायु सेना के अन्य परिचित विमानों में सोवियत मूल के MiG-29 और Su-24 भी शामिल हैं।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "su24",
+      "title": "Su-24 · प्रकार",
+      "start": 292.93333333333334,
+      "end": 296.6666666666667,
+      "duration": 3.7333333333333334,
+      "id": "hi002-054",
+      "visual_purpose": "compare: РАДЯНСЬКІ ПЛАТФОРМИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "country": "IR",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-050-b"
+      ],
+      "narration_hi": "ईरानी वायु सेना के अन्य परिचित विमानों में सोवियत मूल के MiG-29 और Su-24 भी शामिल हैं।\nईरान ने पुराने विमानों के अपने आधुनिक संस्करण भी पेश किए। इनमें Kowsar शामिल है, जिसकी बनावट का संबंध अमेरिकी F-5 से है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "kowsar",
+      "title": "KOWSAR",
+      "country": "IR",
+      "note": "",
+      "start": 296.6666666666667,
+      "end": 312.5,
+      "duration": 15.833333333333334,
+      "id": "hi002-055",
+      "visual_purpose": "photo: KOWSAR; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-051"
+      ],
+      "narration_hi": "ईरान ने पुराने विमानों के अपने आधुनिक संस्करण भी पेश किए। इनमें Kowsar शामिल है, जिसकी बनावट का संबंध अमेरिकी F-5 से है।\nलेकिन किसी पुराने लड़ाकू विमान को आधुनिक बना देने से वह पाँचवीं पीढ़ी के आधुनिक विमान का सीधा समकक्ष नहीं बन जाता।"
+    },
+    {
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "अलग-अलग तकनीकी आधार",
+      "sides": [
+        [
+          "model-f22",
+          "F-22",
+          "US"
+        ],
+        [
+          "model-f14",
+          "F-14",
+          "IR"
+        ]
+      ],
+      "start": 312.5,
+      "end": 326.03333333333336,
+      "duration": 13.533333333333333,
+      "id": "hi002-056",
+      "visual_purpose": "compare: РІЗНІ ТЕХНОЛОГІЧНІ БАЗИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-052"
+      ],
+      "narration_hi": "लेकिन किसी पुराने लड़ाकू विमान को आधुनिक बना देने से वह पाँचवीं पीढ़ी के आधुनिक विमान का सीधा समकक्ष नहीं बन जाता।\nहवाई क्षेत्र में अमेरिकी तकनीक की बढ़त साफ़ दिखाई देती है।\nलेकिन यहीं एक दिलचस्प सवाल उठता है।\nअगर कोई देश उसी स्तर की वायु सेना नहीं बना सकता, तो क्या उसे हर हाल में अपने प्रतिद्वंद्वी की बराबरी करने की कोशिश करनी चाहिए?"
+    },
+    {
+      "start": 326.03333333333336,
+      "end": 328.96666666666664,
+      "duration": 2.933333333333333,
+      "kind": "photo",
+      "asset_id": "product-abrams",
+      "title": "M1 ABRAMS",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-057",
+      "quality_choice": "Real licensed cutout preferred to coarse illustrative geometry",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-053-v4-9556"
+      ],
+      "narration_hi": "अगर कोई देश उसी स्तर की वायु सेना नहीं बना सकता, तो क्या उसे हर हाल में अपने प्रतिद्वंद्वी की बराबरी करने की कोशिश करनी चाहिए?\nईरान ने दूसरा रास्ता चुना।\nलेकिन उससे पहले देखते हैं कि ज़मीन पर स्थिति कैसी है।"
+    },
+    {
+      "id": "hi002-058",
+      "kind": "photo",
+      "title": "M1 ABRAMS",
+      "subtitle": "",
+      "settle_after": 1.2,
+      "start": 328.96666666666664,
+      "end": 331.1333333333333,
+      "duration": 2.1666666666666665,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-section-armor"
+      ],
+      "asset_id": "product-abrams",
+      "country": "US",
+      "role": "original-section-reserve",
+      "narration_hi": "लेकिन उससे पहले देखते हैं कि ज़मीन पर स्थिति कैसी है।"
+    },
+    {
+      "kind": "section",
+      "title": "टैंक और बख़्तरबंद वाहन",
+      "subtitle": "",
+      "start": 331.1333333333333,
+      "end": 334.3333333333333,
+      "duration": 3.1999999999999886,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 2,
+      "spoken_start": 331.8333333333333,
+      "id": "hi002-059",
+      "narration_hi": "लेकिन उससे पहले देखते हैं कि ज़मीन पर स्थिति कैसी है।\nसंयुक्त राज्य अमेरिका के सबसे प्रसिद्ध टैंकों में से एक है M1 Abrams।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "abrams",
+      "title": "M1 ABRAMS",
+      "country": "US",
+      "source_in": 15.533333333333303,
+      "start": 334.3333333333333,
+      "end": 349.06666666666666,
+      "duration": 14.733333333333333,
+      "id": "hi002-060",
+      "visual_purpose": "archive: abrams; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-054"
+      ],
+      "narration_hi": "संयुक्त राज्य अमेरिका के सबसे प्रसिद्ध टैंकों में से एक है M1 Abrams।\nइसके आधुनिक संस्करणों में एक सौ बीस मिलीमीटर की शक्तिशाली तोप, जटिल फ़ायर कंट्रोल सिस्टम और कई परतों वाला बख़्तरबंद सुरक्षा कवच शामिल हैं।\nAbrams की एक ख़ासियत उसका गैस टरबाइन इंजन है, जिसकी शक्ति लगभग डेढ़ हज़ार हॉर्सपावर है।"
+    },
+    {
+      "start": 349.06666666666666,
+      "end": 378.23333333333335,
+      "duration": 29.166666666666668,
+      "kind": "photo",
+      "asset_id": "product-abrams",
+      "title": "M1 ABRAMS",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-061",
+      "quality_choice": "Real licensed cutout preferred to coarse illustrative geometry",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-055"
+      ],
+      "narration_hi": "Abrams की एक ख़ासियत उसका गैस टरबाइन इंजन है, जिसकी शक्ति लगभग डेढ़ हज़ार हॉर्सपावर है।\nइतनी भारी मशीन को भी इससे अच्छी गतिशीलता मिलती है।\nलेकिन इसका दूसरा पहलू भी है।\nगैस टरबाइन इंजन के लिए पर्याप्त ईंधन, नियमित रखरखाव और मज़बूत लॉजिस्टिक्स की ज़रूरत पड़ती है।\nटैंक केवल कवच और तोप का नाम नहीं है।\nउसके पीछे सैकड़ों लोग, सहायक वाहन और स्पेयर पार्ट्स की आपूर्ति भी होती है, जो उसे लड़ने योग्य बनाए रखते हैं।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "karrar",
+      "title": "KARRAR",
+      "country": "IR",
+      "note": "",
+      "start": 378.23333333333335,
+      "end": 394.53333333333336,
+      "duration": 16.3,
+      "id": "hi002-062",
+      "visual_purpose": "photo: KARRAR; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-056"
+      ],
+      "narration_hi": "उसके पीछे सैकड़ों लोग, सहायक वाहन और स्पेयर पार्ट्स की आपूर्ति भी होती है, जो उसे लड़ने योग्य बनाए रखते हैं।\nईरान का तरीक़ा अलग है।\nउसके अपने विकसित किए गए सबसे चर्चित टैंकों में से एक है Karrar।\nइसे ईरानी टैंक निर्माण के विकास का परिणाम बताकर पेश किया गया था।\nदिखावट और कई डिज़ाइन समाधानों के मामले में यह सोवियत और रूसी टैंकों के परिवार से मिलता-जुलता है।"
+    },
+    {
+      "kind": "graphic",
+      "asset_id": "original-graphic",
+      "title": "दावे और पुष्टि अलग हैं",
+      "nodes": [
+        "विशेषताएँ",
+        "उत्पादन",
+        "वास्तविक उपकरण"
+      ],
+      "start": 394.53333333333336,
+      "end": 408.1333333333333,
+      "duration": 13.6,
+      "id": "hi002-063",
+      "visual_purpose": "graphic: ЗАЯВЛЕНО ≠ ПІДТВЕРДЖЕНО; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-057"
+      ],
+      "narration_hi": "दिखावट और कई डिज़ाइन समाधानों के मामले में यह सोवियत और रूसी टैंकों के परिवार से मिलता-जुलता है।\nलेकिन आधिकारिक दावों और स्वतंत्र रूप से पुष्टि की गई क्षमताओं के बीच अंतर रखना ज़रूरी है।\nइसके उत्पादन का सटीक पैमाना और अलग-अलग टैंकों में वास्तव में लगे उपकरण अब भी आकलन का विषय हैं।\nईरान के टैंक बेड़े में ऐतिहासिक रूप से T-72 की महत्वपूर्ण भूमिका रही है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "t72",
+      "title": "T-72 · वाहन का प्रकार",
+      "country": "IR",
+      "note": "प्रकार का उदाहरण; विशिष्ट ईरानी वाहन नहीं",
+      "start": 408.1333333333333,
+      "end": 417.7,
+      "duration": 9.566666666666666,
+      "id": "hi002-064",
+      "visual_purpose": "photo: Т-72 · ТИП ТЕХНІКИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-058"
+      ],
+      "narration_hi": "ईरान के टैंक बेड़े में ऐतिहासिक रूप से T-72 की महत्वपूर्ण भूमिका रही है।\nयह सोवियत मूल की तकनीक है, जिसे ईरान ने खरीदा और आधुनिक बनाया।\nअब पैदल सेना के लड़ाकू वाहनों की तुलना करते हैं।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "bradley",
+      "title": "M2 BRADLEY",
+      "country": "US",
+      "note": "",
+      "start": 417.7,
+      "end": 432.6333333333333,
+      "duration": 14.933333333333334,
+      "id": "hi002-065",
+      "visual_purpose": "photo: M2 BRADLEY; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-059"
+      ],
+      "narration_hi": "अब पैदल सेना के लड़ाकू वाहनों की तुलना करते हैं।\nअमेरिकी M2 Bradley में एक ऑटोमैटिक तोप और TOW टैंक रोधी मिसाइलें लगी होती हैं।\nइसका काम सैनिकों को ले जाना, उन्हें फ़ायर सपोर्ट देना और टैंकों के साथ मिलकर काम करना है।\nईरान ने सोवियत मूल के BMP-2 का इस्तेमाल किया है, जिसमें तीस मिलीमीटर की ऑटोमैटिक तोप लगी होती है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "bmp2",
+      "title": "BMP-2 · वाहन का प्रकार",
+      "country": "IR",
+      "note": "प्रकार का उदाहरण; विशिष्ट ईरानी वाहन नहीं",
+      "start": 432.6333333333333,
+      "end": 440.43333333333334,
+      "duration": 7.8,
+      "id": "hi002-066",
+      "visual_purpose": "photo: БМП-2 · ТИП ТЕХНІКИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-060"
+      ],
+      "narration_hi": "ईरान ने सोवियत मूल के BMP-2 का इस्तेमाल किया है, जिसमें तीस मिलीमीटर की ऑटोमैटिक तोप लगी होती है।\nअमेरिकी शस्त्रागार में पहियों वाले Stryker बख़्तरबंद वाहन और सुरक्षा कवच वाले JLTV सामरिक वाहन भी शामिल हैं।"
+    },
+    {
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "पहियों वाले बख़्तरबंद वाहन",
+      "sides": [
+        [
+          "product-stryker",
+          "STRYKER",
+          "US"
+        ],
+        [
+          "product-jltv",
+          "JLTV",
+          "US"
+        ]
+      ],
+      "start": 440.43333333333334,
+      "end": 448.3,
+      "duration": 7.866666666666666,
+      "id": "hi002-067",
+      "visual_purpose": "compare: КОЛІСНА БРОНЕТЕХНІКА; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-061"
+      ],
+      "narration_hi": "अमेरिकी शस्त्रागार में पहियों वाले Stryker बख़्तरबंद वाहन और सुरक्षा कवच वाले JLTV सामरिक वाहन भी शामिल हैं।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "safir",
+      "title": "SAFIR",
+      "country": "IR",
+      "note": "",
+      "start": 448.3,
+      "end": 455.0,
+      "duration": 6.7,
+      "id": "hi002-068",
+      "visual_purpose": "photo: SAFIR; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-062"
+      ],
+      "narration_hi": "अमेरिकी शस्त्रागार में पहियों वाले Stryker बख़्तरबंद वाहन और सुरक्षा कवच वाले JLTV सामरिक वाहन भी शामिल हैं।\nवहीं ईरान ने अपने बख़्तरबंद कार्मिक वाहन और हल्के सैन्य वाहन विकसित किए। इनमें Safir भी शामिल है।\nयहाँ एक बुनियादी अंतर दिखाई देता है।"
+    },
+    {
+      "start": 455.0,
+      "end": 471.8333333333333,
+      "duration": 16.833333333333332,
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "बख़्तरबंद वाहन · दो दृष्टिकोण",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "sides": [
+        [
+          "product-abrams",
+          "M1 ABRAMS",
+          "US"
+        ],
+        [
+          "karrar",
+          "KARRAR",
+          "IR"
+        ]
+      ],
+      "id": "hi002-069",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-063"
+      ],
+      "narration_hi": "यहाँ एक बुनियादी अंतर दिखाई देता है।\nअमेरिकी उपकरण अक्सर ज़्यादा जटिल, भारी और सेनाओं की समग्र कमान व्यवस्था से ज़्यादा गहराई से जुड़े होते हैं।\nईरान ने उपलब्धता, मरम्मत और अपने स्तर पर उपकरण बनाने की क्षमता पर ज़्यादा ज़ोर दिया।\nलेकिन सबसे अच्छा टैंक भी उन ख़तरों से नहीं बचा सकता, जो सैकड़ों किलोमीटर दूर से आते हैं।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "abrams",
+      "title": "बख़्तरबंद वाहनों से मिसाइलों तक",
+      "country": "US",
+      "note": "",
+      "start": 471.8333333333333,
+      "end": 478.6666666666667,
+      "duration": 6.833333333333333,
+      "id": "hi002-070",
+      "visual_purpose": "photo: ВІД БРОНІ ДО РАКЕТ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-064-v4-13867"
+      ],
+      "narration_hi": "लेकिन सबसे अच्छा टैंक भी उन ख़तरों से नहीं बचा सकता, जो सैकड़ों किलोमीटर दूर से आते हैं।"
+    },
+    {
+      "id": "hi002-071",
+      "kind": "photo",
+      "title": "FATEH",
+      "subtitle": "",
+      "settle_after": 1.2,
+      "start": 478.6666666666667,
+      "end": 482.6333333333333,
+      "duration": 3.966666666666667,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-section-missiles"
+      ],
+      "asset_id": "product-fateh",
+      "country": "IR",
+      "role": "original-section-reserve",
+      "narration_hi": "लेकिन सबसे अच्छा टैंक भी उन ख़तरों से नहीं बचा सकता, जो सैकड़ों किलोमीटर दूर से आते हैं।\nऔर यहीं हम ईरानी शस्त्रागार की सबसे महत्वपूर्ण श्रेणी तक पहुँचते हैं।"
+    },
+    {
+      "kind": "section",
+      "title": "मिसाइल हथियार",
+      "subtitle": "",
+      "start": 482.6333333333333,
+      "end": 485.1333333333333,
+      "duration": 2.5,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 3,
+      "spoken_start": 483.3333333333333,
+      "id": "hi002-072",
+      "narration_hi": "और यहीं हम ईरानी शस्त्रागार की सबसे महत्वपूर्ण श्रेणी तक पहुँचते हैं।\nअगर विमानन में संयुक्त राज्य अमेरिका को बड़ी तकनीकी बढ़त हासिल है, तो मिसाइलों में विकास की एक बिल्कुल अलग सोच दिखाई देती है।"
+    },
+    {
+      "start": 485.1333333333333,
+      "end": 492.73333333333335,
+      "duration": 7.6,
+      "kind": "photo",
+      "asset_id": "product-fateh",
+      "title": "FATEH",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-073",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-065"
+      ],
+      "narration_hi": "अगर विमानन में संयुक्त राज्य अमेरिका को बड़ी तकनीकी बढ़त हासिल है, तो मिसाइलों में विकास की एक बिल्कुल अलग सोच दिखाई देती है।\nशुरुआत अमेरिकी क्रूज़ मिसाइल Tomahawk से करते हैं।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "tomahawk",
+      "title": "TOMAHAWK",
+      "country": "US",
+      "source_in": 8.0,
+      "start": 492.73333333333335,
+      "end": 499.96666666666664,
+      "duration": 7.233333333333333,
+      "id": "hi002-074",
+      "visual_purpose": "archive: tomahawk; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-066"
+      ],
+      "narration_hi": "शुरुआत अमेरिकी क्रूज़ मिसाइल Tomahawk से करते हैं।\nइसे युद्धपोतों और पनडुब्बियों से लॉन्च किया जा सकता है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "tomahawk",
+      "title": "TOMAHAWK",
+      "country": "US",
+      "note": "",
+      "start": 499.96666666666664,
+      "end": 511.6666666666667,
+      "duration": 11.7,
+      "id": "hi002-075",
+      "visual_purpose": "photo: TOMAHAWK; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-067"
+      ],
+      "narration_hi": "इसे युद्धपोतों और पनडुब्बियों से लॉन्च किया जा सकता है।\nTomahawk लक्ष्य तक पहुँचने के लिए एक जटिल मार्ग पर चलते हुए लंबी दूरी तय कर सकती है।\nयह प्रणाली अपने तटों से बहुत दूर तक हमला करने की अमेरिकी क्षमता के प्रतीकों में से एक बन गई।\nज़मीन पर HIMARS और M270 जैसी मिसाइल तथा रॉकेट प्रणालियाँ महत्वपूर्ण भूमिका निभाती हैं।"
+    },
+    {
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "ज़मीनी लॉन्च प्लेटफ़ॉर्म",
+      "sides": [
+        [
+          "product-himars",
+          "HIMARS",
+          "US"
+        ],
+        [
+          "product-m270",
+          "M270",
+          "US"
+        ]
+      ],
+      "start": 511.6666666666667,
+      "end": 522.6666666666666,
+      "duration": 11.0,
+      "id": "hi002-076",
+      "visual_purpose": "compare: НАЗЕМНІ ПУСКОВІ ПЛАТФОРМИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-068"
+      ],
+      "narration_hi": "ज़मीन पर HIMARS और M270 जैसी मिसाइल तथा रॉकेट प्रणालियाँ महत्वपूर्ण भूमिका निभाती हैं।\nवे अलग-अलग तरह के निर्देशित गोला-बारूद का इस्तेमाल कर सकती हैं।"
+    },
+    {
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "निर्देशित गोला-बारूद",
+      "sides": [
+        [
+          "product-atacms",
+          "ATACMS",
+          "US"
+        ],
+        [
+          "product-prsm",
+          "PrSM",
+          "US"
+        ]
+      ],
+      "start": 522.6666666666666,
+      "end": 535.6,
+      "duration": 12.933333333333334,
+      "id": "hi002-077",
+      "visual_purpose": "compare: КЕРОВАНІ БОЄПРИПАСИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-069"
+      ],
+      "narration_hi": "वे अलग-अलग तरह के निर्देशित गोला-बारूद का इस्तेमाल कर सकती हैं।\nइनमें ATACMS और उससे नई Precision Strike Missile, यानी PrSM, शामिल हैं।\nPrSM को लंबी दूरी और अधिक सटीक हमलों की क्षमताएँ बढ़ाने के लिए विकसित किया गया था।"
+    },
+    {
+      "kind": "graphic",
+      "asset_id": "original-graphic",
+      "title": "मध्यम दूरी की मिसाइल संधि",
+      "nodes": [
+        "संयुक्त राज्य अमेरिका और सोवियत संघ",
+        "समझौते पर हस्ताक्षर · 1987"
+      ],
+      "start": 535.6,
+      "end": 551.9333333333333,
+      "duration": 16.333333333333332,
+      "id": "hi002-078",
+      "visual_purpose": "graphic: ДОГОВІР РСМД; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-070"
+      ],
+      "narration_hi": "PrSM को लंबी दूरी और अधिक सटीक हमलों की क्षमताएँ बढ़ाने के लिए विकसित किया गया था।\nऔर यहाँ इतिहास की एक बात याद रखना ज़रूरी है।\nकई दशकों तक संयुक्त राज्य अमेरिका मध्यम और कम दूरी की मिसाइलों को समाप्त करने वाली संधि से बँधा हुआ था।\nसंयुक्त राज्य अमेरिका और सोवियत संघ के बीच यह समझौता उन्नीस सौ सत्तासी में हुआ था।\nइसमें ज़मीन से दागी जाने वाली कुछ श्रेणियों की उन मिसाइलों पर प्रतिबंध था, जिनकी मारक दूरी पाँच सौ से पाँच हज़ार पाँच सौ किलोमीटर के बीच थी।"
+    },
+    {
+      "kind": "graphic",
+      "asset_id": "original-graphic",
+      "title": "मिसाइल संधि के प्रतिबंध",
+      "nodes": [
+        "ज़मीन आधारित मिसाइलें",
+        "500–5 500 किमी"
+      ],
+      "start": 551.9333333333333,
+      "end": 560.9666666666667,
+      "duration": 9.033333333333333,
+      "id": "hi002-079",
+      "visual_purpose": "graphic: ОБМЕЖЕННЯ РСМД; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-071"
+      ],
+      "narration_hi": "इसमें ज़मीन से दागी जाने वाली कुछ श्रेणियों की उन मिसाइलों पर प्रतिबंध था, जिनकी मारक दूरी पाँच सौ से पाँच हज़ार पाँच सौ किलोमीटर के बीच थी।\nदो हज़ार उन्नीस में इस संधि का प्रभाव समाप्त हो गया।"
+    },
+    {
+      "kind": "graphic",
+      "asset_id": "original-graphic",
+      "title": "संधि का अंत",
+      "nodes": [
+        "2019",
+        "नई ज़मीनी प्रणालियाँ"
+      ],
+      "start": 560.9666666666667,
+      "end": 571.3666666666667,
+      "duration": 10.4,
+      "id": "hi002-080",
+      "visual_purpose": "graphic: ЗАВЕРШЕННЯ ДІЇ ДОГОВОРУ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-072"
+      ],
+      "narration_hi": "दो हज़ार उन्नीस में इस संधि का प्रभाव समाप्त हो गया।\nइसके बाद संयुक्त राज्य अमेरिका को संबंधित श्रेणियों की नई ज़मीनी प्रणालियाँ विकसित करने का अवसर मिला।\nअब ईरान की ओर देखते हैं।"
+    },
+    {
+      "start": 571.3666666666667,
+      "end": 579.0666666666667,
+      "duration": 7.7,
+      "kind": "archive",
+      "asset_id": "iran-missiles",
+      "title": "ईरानी मिसाइल बल",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "source_in": 8.0,
+      "id": "hi002-081",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-073"
+      ],
+      "narration_hi": "अब ईरान की ओर देखते हैं।\nदशकों तक मिसाइल बल उसके सैन्य उद्योग के प्रमुख क्षेत्रों में से एक रहे हैं।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "fateh",
+      "title": "FATEH-110",
+      "country": "IR",
+      "note": "",
+      "start": 579.0666666666667,
+      "end": 584.3666666666667,
+      "duration": 5.3,
+      "id": "hi002-082",
+      "visual_purpose": "photo: FATEH-110; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-074"
+      ],
+      "narration_hi": "दशकों तक मिसाइल बल उसके सैन्य उद्योग के प्रमुख क्षेत्रों में से एक रहे हैं।\nFateh-110 कम दूरी की ठोस ईंधन वाली बैलिस्टिक मिसाइलों का एक परिवार है।\nZolfaghar इसी विचार का बढ़ी हुई मारक दूरी वाला विकास है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "zolfaghar",
+      "title": "ZOLFAGHAR",
+      "country": "IR",
+      "note": "",
+      "start": 584.3666666666667,
+      "end": 588.7333333333333,
+      "duration": 4.366666666666666,
+      "id": "hi002-083",
+      "visual_purpose": "photo: ZOLFAGHAR; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-075"
+      ],
+      "narration_hi": "Zolfaghar इसी विचार का बढ़ी हुई मारक दूरी वाला विकास है।\nShahab-3 एक बैलिस्टिक मिसाइल है, जिसकी तकनीकी उत्पत्ति का संबंध उत्तर कोरिया से है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "shahab",
+      "title": "SHAHAB-3",
+      "country": "IR",
+      "note": "",
+      "start": 588.7333333333333,
+      "end": 595.0333333333333,
+      "duration": 6.3,
+      "id": "hi002-084",
+      "visual_purpose": "photo: SHAHAB-3; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-076"
+      ],
+      "narration_hi": "Shahab-3 एक बैलिस्टिक मिसाइल है, जिसकी तकनीकी उत्पत्ति का संबंध उत्तर कोरिया से है।\nऔर Sejjil एक दो चरणों वाली ठोस ईंधन प्रणाली है। खुले स्रोतों में इसकी मारक दूरी लगभग दो हज़ार किलोमीटर बताई जाती है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "sejjil",
+      "title": "SEJJIL",
+      "country": "IR",
+      "note": "",
+      "start": 595.0333333333333,
+      "end": 603.8,
+      "duration": 8.766666666666667,
+      "id": "hi002-085",
+      "visual_purpose": "photo: SEJJIL; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-077"
+      ],
+      "narration_hi": "और Sejjil एक दो चरणों वाली ठोस ईंधन प्रणाली है। खुले स्रोतों में इसकी मारक दूरी लगभग दो हज़ार किलोमीटर बताई जाती है।\nठोस ईंधन इतना महत्वपूर्ण क्यों है?"
+    },
+    {
+      "start": 603.8,
+      "end": 615.2666666666667,
+      "duration": 11.466666666666667,
+      "kind": "photo",
+      "asset_id": "product-sejjil",
+      "title": "SEJJIL",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-086",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-078"
+      ],
+      "narration_hi": "ठोस ईंधन इतना महत्वपूर्ण क्यों है?\nक्योंकि कई पुराने तरल ईंधन वाले डिज़ाइनों के मुक़ाबले, इससे मिसाइल का भंडारण और उसे तैयार करना आसान होता है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "soumar",
+      "title": "SOUMAR",
+      "country": "IR",
+      "note": "",
+      "start": 615.2666666666667,
+      "end": 619.8666666666667,
+      "duration": 4.6,
+      "id": "hi002-087",
+      "visual_purpose": "photo: SOUMAR; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-079"
+      ],
+      "narration_hi": "क्योंकि कई पुराने तरल ईंधन वाले डिज़ाइनों के मुक़ाबले, इससे मिसाइल का भंडारण और उसे तैयार करना आसान होता है।\nईरान ने क्रूज़ मिसाइलें भी विकसित कीं। इनमें Soumar परिवार भी शामिल है।\nलेकिन घोषित मारक दूरी को युद्ध में प्रभावी होने की गारंटी नहीं मानना चाहिए।"
+    },
+    {
+      "start": 619.8666666666667,
+      "end": 634.9666666666667,
+      "duration": 15.1,
+      "kind": "photo",
+      "asset_id": "product-fateh",
+      "title": "FATEH",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-088",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-080"
+      ],
+      "narration_hi": "लेकिन घोषित मारक दूरी को युद्ध में प्रभावी होने की गारंटी नहीं मानना चाहिए।\nवास्तविक क्षमता पर सटीकता, विश्वसनीयता, मार्गदर्शन प्रणालियाँ, उत्पादन की स्थिति और विरोधी के प्रतिरोध का असर पड़ता है।"
+    },
+    {
+      "start": 634.9666666666667,
+      "end": 645.3666666666667,
+      "duration": 10.4,
+      "kind": "photo",
+      "asset_id": "sejjil",
+      "title": "SEJJIL",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-089",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-081"
+      ],
+      "narration_hi": "वास्तविक क्षमता पर सटीकता, विश्वसनीयता, मार्गदर्शन प्रणालियाँ, उत्पादन की स्थिति और विरोधी के प्रतिरोध का असर पड़ता है।\nदो हज़ार छब्बीस की लड़ाइयों ने यह भी दिखाया कि केवल मिसाइलों की विशेषताएँ ही नहीं, उनका भंडार और उसे दोबारा भरने की रफ़्तार भी कितनी महत्वपूर्ण है।\nऔर यही मुख्य अंतर है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "tomahawk",
+      "title": "TOMAHAWK",
+      "country": "US",
+      "source_in": 14.233333333333348,
+      "start": 645.3666666666667,
+      "end": 653.4333333333333,
+      "duration": 8.066666666666666,
+      "id": "hi002-090",
+      "visual_purpose": "archive: tomahawk; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-082"
+      ],
+      "narration_hi": "और यही मुख्य अंतर है।\nसंयुक्त राज्य अमेरिका मिसाइलों को अपनी वायु सेना, नौसेना और वैश्विक ख़ुफ़िया व निगरानी नेटवर्क के साथ जोड़ता है।\nईरान ऐतिहासिक रूप से अपनी कमज़ोर वायु सेना की भरपाई ज़मीन आधारित मिसाइल बलों के विकास से करने की कोशिश करता रहा है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "fateh",
+      "title": "ज़मीन आधारित मिसाइल बल",
+      "country": "IR",
+      "note": "",
+      "start": 653.4333333333333,
+      "end": 661.0666666666667,
+      "duration": 7.633333333333334,
+      "id": "hi002-091",
+      "visual_purpose": "photo: НАЗЕМНІ РАКЕТНІ СИЛИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-083"
+      ],
+      "narration_hi": "ईरान ऐतिहासिक रूप से अपनी कमज़ोर वायु सेना की भरपाई ज़मीन आधारित मिसाइल बलों के विकास से करने की कोशिश करता रहा है।\nएक देश ने दुनिया भर में काम करने के लिए व्यवस्था बनाई।"
+    },
+    {
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "अलग-अलग सैन्य व्यवस्थाएँ",
+      "sides": [
+        [
+          "product-tomahawk",
+          "वैश्विक क्षमताएँ",
+          "US"
+        ],
+        [
+          "product-fateh",
+          "क्षेत्रीय स्तर पर विरोधी को रोकना",
+          "IR"
+        ]
+      ],
+      "start": 661.0666666666667,
+      "end": 670.7,
+      "duration": 9.633333333333333,
+      "id": "hi002-092",
+      "visual_purpose": "compare: РІЗНІ ВІЙСЬКОВІ СИСТЕМИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-084"
+      ],
+      "narration_hi": "एक देश ने दुनिया भर में काम करने के लिए व्यवस्था बनाई।\nदूसरे ने अपने क्षेत्र में ज़्यादा शक्तिशाली विरोधी को रोकने और पीछे रखने के लिए।"
+    },
+    {
+      "start": 670.7,
+      "end": 674.4333333333333,
+      "duration": 3.7333333333333334,
+      "kind": "photo",
+      "asset_id": "model-m4",
+      "title": "M4A1",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "visual_origin": "true_3d_render",
+      "note": "3D दृश्य · स्थिर कोण",
+      "id": "hi002-093",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-085-v4-19441"
+      ],
+      "narration_hi": "दूसरे ने अपने क्षेत्र में ज़्यादा शक्तिशाली विरोधी को रोकने और पीछे रखने के लिए।\nलेकिन जब हम रणनीतिक मिसाइलों से एक सामान्य सैनिक के हथियारों पर आते हैं, तो क्या बदलता है?"
+    },
+    {
+      "id": "hi002-094",
+      "kind": "photo",
+      "title": "M4A1",
+      "subtitle": "",
+      "settle_after": 1.2,
+      "start": 674.4333333333333,
+      "end": 675.5,
+      "duration": 1.0666666666666667,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-section-infantry"
+      ],
+      "asset_id": "model-m4",
+      "country": "US",
+      "role": "original-section-reserve",
+      "narration_hi": "लेकिन जब हम रणनीतिक मिसाइलों से एक सामान्य सैनिक के हथियारों पर आते हैं, तो क्या बदलता है?"
+    },
+    {
+      "kind": "section",
+      "title": "पैदल सेना के हथियार",
+      "subtitle": "",
+      "start": 675.5,
+      "end": 678.3666666666667,
+      "duration": 2.8666666666666742,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 4,
+      "spoken_start": 676.2,
+      "id": "hi002-095",
+      "narration_hi": "लेकिन जब हम रणनीतिक मिसाइलों से एक सामान्य सैनिक के हथियारों पर आते हैं, तो क्या बदलता है?\nलंबे समय तक अमेरिकी पैदल सैनिक का मुख्य हथियार M4A1 कार्बाइन रहा है।"
+    },
+    {
+      "start": 678.3666666666667,
+      "end": 683.5,
+      "duration": 5.133333333333334,
+      "kind": "turntable",
+      "asset_id": "model-m4",
+      "title": "M4A1",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-096",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-086"
+      ],
+      "source_in": 0,
+      "narration_hi": "लंबे समय तक अमेरिकी पैदल सैनिक का मुख्य हथियार M4A1 कार्बाइन रहा है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "m7",
+      "title": "M7",
+      "country": "US",
+      "note": "",
+      "start": 683.5,
+      "end": 696.5666666666667,
+      "duration": 13.066666666666666,
+      "id": "hi002-097",
+      "visual_purpose": "photo: M7; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-087"
+      ],
+      "narration_hi": "लंबे समय तक अमेरिकी पैदल सैनिक का मुख्य हथियार M4A1 कार्बाइन रहा है।\nइसी दौरान अमेरिकी सेना धीरे-धीरे नई M7 राइफल को भी अपना रही है।\nइसमें छह और आठ मिलीमीटर कैलिबर का कारतूस इस्तेमाल होता है। इसे एक नई निशाना साधने वाली प्रणाली के साथ विकसित किया गया था।"
+    },
+    {
+      "start": 696.5666666666667,
+      "end": 702.4666666666667,
+      "duration": 5.9,
+      "kind": "photo",
+      "asset_id": "product-m7",
+      "title": "M7",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-098",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-088"
+      ],
+      "narration_hi": "इसमें छह और आठ मिलीमीटर कैलिबर का कारतूस इस्तेमाल होता है। इसे एक नई निशाना साधने वाली प्रणाली के साथ विकसित किया गया था।\nअमेरिकी सोच में ऑप्टिक्स, नाइट विज़न, संचार और व्यक्तिगत सुरक्षा पर बहुत ज़ोर दिया जाता है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "g3",
+      "title": "G3 · पैदल सेना के हथियार",
+      "country": "IR",
+      "note": "",
+      "start": 702.4666666666667,
+      "end": 716.5666666666667,
+      "duration": 14.1,
+      "id": "hi002-099",
+      "visual_purpose": "photo: G3 · ПІХОТНЕ ОЗБРОЄННЯ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-089"
+      ],
+      "narration_hi": "अमेरिकी सोच में ऑप्टिक्स, नाइट विज़न, संचार और व्यक्तिगत सुरक्षा पर बहुत ज़ोर दिया जाता है।\nईरान में G3 राइफलें और कलाश्निकोव प्लेटफ़ॉर्म पर आधारित अलग-अलग हथियार व्यापक रूप से इस्तेमाल हुए हैं।\nईरानी उद्योग ने छोटे हथियारों के अपने संशोधित संस्करण भी विकसित किए।\nलेकिन केवल राइफलों की तुलना करना एक ग़लती होगी।\nआधुनिक पैदल सैनिक संचार की गुणवत्ता, प्रशिक्षण, बख़्तरबंद सुरक्षा, चिकित्सा व्यवस्था और दूसरी इकाइयों से मिलने वाले समर्थन पर निर्भर करता है।"
+    },
+    {
+      "start": 716.5666666666667,
+      "end": 731.1,
+      "duration": 14.533333333333333,
+      "kind": "archive",
+      "asset_id": "us-infantry",
+      "title": "अमेरिकी पैदल सेना",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "source_in": 0.0,
+      "id": "hi002-100",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-090-v4-20941"
+      ],
+      "narration_hi": "आधुनिक पैदल सैनिक संचार की गुणवत्ता, प्रशिक्षण, बख़्तरबंद सुरक्षा, चिकित्सा व्यवस्था और दूसरी इकाइयों से मिलने वाले समर्थन पर निर्भर करता है।\nसबसे आधुनिक राइफल भी इन चीज़ों की कमी की भरपाई नहीं कर सकती।"
+    },
+    {
+      "id": "hi002-101",
+      "kind": "photo",
+      "title": "RAAD-2",
+      "subtitle": "",
+      "settle_after": 1.2,
+      "start": 731.1,
+      "end": 733.1666666666666,
+      "duration": 2.066666666666667,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-section-artillery"
+      ],
+      "asset_id": "raad2",
+      "country": "IR",
+      "role": "original-section-reserve",
+      "narration_hi": "सबसे आधुनिक राइफल भी इन चीज़ों की कमी की भरपाई नहीं कर सकती।\nऔर अगली श्रेणी इसे अच्छी तरह दिखाती है।"
+    },
+    {
+      "kind": "section",
+      "title": "तोपखाना",
+      "subtitle": "",
+      "start": 733.1666666666666,
+      "end": 735.7,
+      "duration": 2.5333333333334167,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 5,
+      "spoken_start": 733.8666666666667,
+      "id": "hi002-102",
+      "narration_hi": "और अगली श्रेणी इसे अच्छी तरह दिखाती है।\nअमेरिकी स्वचालित तोपखाने का एक उदाहरण M109A7 Paladin है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "paladin",
+      "title": "M109A7 PALADIN",
+      "country": "US",
+      "source_in": 0.5333333333334167,
+      "start": 735.7,
+      "end": 753.5,
+      "duration": 17.8,
+      "id": "hi002-103",
+      "visual_purpose": "archive: paladin; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-091"
+      ],
+      "narration_hi": "अमेरिकी स्वचालित तोपखाने का एक उदाहरण M109A7 Paladin है।\nयह ट्रैक वाले चेसिस पर लगी एक सौ पचपन मिलीमीटर की आधुनिक होवित्ज़र तोप है।\nइसे थल सेना को फ़ायर सपोर्ट देने और तोपखाने की एकीकृत नियंत्रण व्यवस्था में काम करने के लिए बनाया गया है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "m777",
+      "title": "M777",
+      "country": "US",
+      "source_in": 20.0,
+      "start": 753.5,
+      "end": 769.8333333333334,
+      "duration": 16.333333333333332,
+      "id": "hi002-104",
+      "visual_purpose": "archive: m777; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-092"
+      ],
+      "narration_hi": "इसे थल सेना को फ़ायर सपोर्ट देने और तोपखाने की एकीकृत नियंत्रण व्यवस्था में काम करने के लिए बनाया गया है।\nएक और प्रसिद्ध उदाहरण है, खींचकर ले जाई जाने वाली M777 होवित्ज़र।\nहल्की सामग्री के इस्तेमाल के कारण अपने कैलिबर के हिसाब से इसका वज़न अपेक्षाकृत कम है।\nइससे इसे एक जगह से दूसरी जगह पहुँचाना आसान होता है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "himars",
+      "title": "M142 HIMARS",
+      "country": "US",
+      "source_in": 0.0,
+      "start": 769.8333333333334,
+      "end": 779.5,
+      "duration": 9.666666666666666,
+      "id": "hi002-105",
+      "visual_purpose": "archive: himars; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-093"
+      ],
+      "narration_hi": "इससे इसे एक जगह से दूसरी जगह पहुँचाना आसान होता है।\nHIMARS की अपनी अलग भूमिका है।\nपहियों वाली यह रॉकेट प्रणाली निर्देशित रॉकेटों का इस्तेमाल कर सकती है, जिससे यह सटीक हमलों का एक साधन बनती है।"
+    },
+    {
+      "start": 779.5,
+      "end": 793.1333333333333,
+      "duration": 13.633333333333333,
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "ईरानी तोपखाना",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "sides": [
+        [
+          "raad2",
+          "RAAD-2",
+          "IR"
+        ],
+        [
+          "fajr5",
+          "FAJR-5",
+          "IR"
+        ]
+      ],
+      "id": "hi002-106",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-094"
+      ],
+      "narration_hi": "पहियों वाली यह रॉकेट प्रणाली निर्देशित रॉकेटों का इस्तेमाल कर सकती है, जिससे यह सटीक हमलों का एक साधन बनती है।\nईरान का तोपखाना अलग तरह से विकसित हुआ।\nइसकी चर्चित प्रणालियों में खींचकर ले जाई जाने वाली D-30 होवित्ज़र, Raad-2 स्वचालित तोपें और Fajr-5 रॉकेट प्रणालियाँ शामिल हैं।\nRaad-2 अपना स्वचालित तोपखाना बनाने की ईरानी कोशिशों का एक उदाहरण है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "raad2",
+      "title": "RAAD-2",
+      "country": "IR",
+      "note": "",
+      "start": 793.1333333333333,
+      "end": 798.0666666666667,
+      "duration": 4.933333333333334,
+      "id": "hi002-107",
+      "visual_purpose": "photo: RAAD-2; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-095"
+      ],
+      "narration_hi": "Raad-2 अपना स्वचालित तोपखाना बनाने की ईरानी कोशिशों का एक उदाहरण है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "fajr5",
+      "title": "FAJR-5",
+      "country": "IR",
+      "note": "",
+      "start": 798.0666666666667,
+      "end": 803.1333333333333,
+      "duration": 5.066666666666666,
+      "id": "hi002-108",
+      "visual_purpose": "photo: FAJR-5; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-096"
+      ],
+      "narration_hi": "Raad-2 अपना स्वचालित तोपखाना बनाने की ईरानी कोशिशों का एक उदाहरण है।\nऔर Fajr-5 शक्तिशाली रॉकेट गोला-बारूद पर केंद्रित सोच को दिखाती है।\nलेकिन यहाँ तुलना को केवल सटीकता बनाम संख्या के फ़ॉर्मूले में समेटना सही नहीं होगा।"
+    },
+    {
+      "start": 803.1333333333333,
+      "end": 810.2,
+      "duration": 7.066666666666666,
+      "kind": "photo",
+      "asset_id": "product-m777",
+      "title": "M777",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-109",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-097"
+      ],
+      "narration_hi": "लेकिन यहाँ तुलना को केवल सटीकता बनाम संख्या के फ़ॉर्मूले में समेटना सही नहीं होगा।\nदोनों देश कई तरह की तोपें इस्तेमाल करते हैं। उनकी प्रभावशीलता टोही, फ़ायर सुधार, लॉजिस्टिक्स और तोप चलाने वाले दलों के प्रशिक्षण पर निर्भर करती है।"
+    },
+    {
+      "start": 810.2,
+      "end": 820.8666666666667,
+      "duration": 10.666666666666666,
+      "kind": "photo",
+      "asset_id": "m777",
+      "title": "M777",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-110",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-098"
+      ],
+      "narration_hi": "दोनों देश कई तरह की तोपें इस्तेमाल करते हैं। उनकी प्रभावशीलता टोही, फ़ायर सुधार, लॉजिस्टिक्स और तोप चलाने वाले दलों के प्रशिक्षण पर निर्भर करती है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "mq9",
+      "title": "ड्रोन की भूमिका",
+      "country": "US",
+      "note": "",
+      "start": 820.8666666666667,
+      "end": 822.6,
+      "duration": 1.7333333333333334,
+      "id": "hi002-111",
+      "visual_purpose": "photo: РОЛЬ БЕЗПІЛОТНИКІВ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-099-v4-23891"
+      ],
+      "narration_hi": "दोनों देश कई तरह की तोपें इस्तेमाल करते हैं। उनकी प्रभावशीलता टोही, फ़ायर सुधार, लॉजिस्टिक्स और तोप चलाने वाले दलों के प्रशिक्षण पर निर्भर करती है।\nऔर आज इस पूरी व्यवस्था में सबसे महत्वपूर्ण भूमिकाओं में से एक ड्रोन निभाते हैं।"
+    },
+    {
+      "id": "hi002-112",
+      "kind": "photo",
+      "title": "SWITCHBLADE",
+      "subtitle": "",
+      "settle_after": 1.2,
+      "start": 822.6,
+      "end": 825.5666666666667,
+      "duration": 2.966666666666667,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-section-drones"
+      ],
+      "asset_id": "switchblade",
+      "country": "US",
+      "role": "original-section-reserve",
+      "narration_hi": "और आज इस पूरी व्यवस्था में सबसे महत्वपूर्ण भूमिकाओं में से एक ड्रोन निभाते हैं।"
+    },
+    {
+      "kind": "section",
+      "title": "ड्रोन",
+      "subtitle": "",
+      "start": 825.5666666666667,
+      "end": 828.0666666666667,
+      "duration": 2.5,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 6,
+      "spoken_start": 826.2666666666667,
+      "id": "hi002-113",
+      "narration_hi": "और आज इस पूरी व्यवस्था में सबसे महत्वपूर्ण भूमिकाओं में से एक ड्रोन निभाते हैं।\nअमेरिकी MQ-9 Reaper एक बड़ा मानवरहित विमान है, जिसे लंबे समय तक निगरानी और हमलावर अभियान चलाने के लिए बनाया गया है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "mq9",
+      "title": "MQ-9 REAPER",
+      "country": "US",
+      "source_in": 1.2333333333333485,
+      "start": 828.0666666666667,
+      "end": 839.9333333333333,
+      "duration": 11.866666666666667,
+      "id": "hi002-114",
+      "visual_purpose": "archive: mq9; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-100"
+      ],
+      "narration_hi": "अमेरिकी MQ-9 Reaper एक बड़ा मानवरहित विमान है, जिसे लंबे समय तक निगरानी और हमलावर अभियान चलाने के लिए बनाया गया है।\nयह घंटों तक हवा में रहकर ऑपरेटरों तक जानकारी पहुँचा सकता है।\nएक और अमेरिकी ड्रोन है RQ-4 Global Hawk।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "rq4",
+      "title": "RQ-4 GLOBAL HAWK",
+      "country": "US",
+      "source_in": 0.0,
+      "start": 839.9333333333333,
+      "end": 851.8666666666667,
+      "duration": 11.933333333333334,
+      "id": "hi002-115",
+      "visual_purpose": "archive: rq4; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-101"
+      ],
+      "narration_hi": "एक और अमेरिकी ड्रोन है RQ-4 Global Hawk।\nयह लंबे पंखों वाला ऊँचाई पर उड़ने वाला टोही ड्रोन है, जिसे बहुत बड़े क्षेत्रों की निगरानी के लिए विकसित किया गया है।\nऔर इसी श्रेणी के दूसरे छोर पर हैं छोटे Switchblade लोइटरिंग म्यूनिशन, यानी लक्ष्य की तलाश में मंडराने वाले हमलावर हथियार।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "switchblade",
+      "title": "SWITCHBLADE",
+      "country": "US",
+      "note": "",
+      "start": 851.8666666666667,
+      "end": 867.8,
+      "duration": 15.933333333333334,
+      "id": "hi002-116",
+      "visual_purpose": "photo: SWITCHBLADE; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-102"
+      ],
+      "narration_hi": "और इसी श्रेणी के दूसरे छोर पर हैं छोटे Switchblade लोइटरिंग म्यूनिशन, यानी लक्ष्य की तलाश में मंडराने वाले हमलावर हथियार।\nवे दिखाते हैं कि ड्रोन तकनीक किस तरह बड़े विमानों से आगे बढ़कर अपेक्षाकृत छोटी प्रणालियों तक पहुँच रही है।\nअब ईरान की बात करते हैं।"
+    },
+    {
+      "start": 867.8,
+      "end": 874.7,
+      "duration": 6.9,
+      "kind": "photo",
+      "asset_id": "product-shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-117",
+      "quality_choice": "Real licensed cutout preferred to coarse illustrative geometry",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-103"
+      ],
+      "narration_hi": "अब ईरान की बात करते हैं।\nइसी क्षेत्र में उसके सैन्य उद्योग ने दुनिया का काफ़ी ध्यान खींचा।\nShahed-129 एक बड़ा टोही और हमलावर ड्रोन है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "shahed129",
+      "title": "SHAHED-129",
+      "country": "IR",
+      "note": "",
+      "start": 874.7,
+      "end": 879.4666666666667,
+      "duration": 4.766666666666667,
+      "id": "hi002-118",
+      "visual_purpose": "photo: SHAHED-129; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-104"
+      ],
+      "narration_hi": "Shahed-129 एक बड़ा टोही और हमलावर ड्रोन है।\nMohajer-6 उससे छोटा ड्रोन है, जो निगरानी और हमले, दोनों तरह के काम कर सकता है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "mohajer6",
+      "title": "MOHAJER-6",
+      "country": "IR",
+      "note": "",
+      "start": 879.4666666666667,
+      "end": 885.1666666666666,
+      "duration": 5.7,
+      "id": "hi002-119",
+      "visual_purpose": "photo: MOHAJER-6; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-105"
+      ],
+      "narration_hi": "Mohajer-6 उससे छोटा ड्रोन है, जो निगरानी और हमले, दोनों तरह के काम कर सकता है।\nलेकिन सबसे ज़्यादा चर्चित हुआ Shahed-136।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "note": "",
+      "start": 885.1666666666666,
+      "end": 898.9,
+      "duration": 13.733333333333333,
+      "id": "hi002-120",
+      "visual_purpose": "photo: SHAHED-136; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-106"
+      ],
+      "narration_hi": "लेकिन सबसे ज़्यादा चर्चित हुआ Shahed-136।\nयह विशिष्ट तिकोने पंख और पिस्टन इंजन वाला एक लोइटरिंग म्यूनिशन है।"
+    },
+    {
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "अलग-अलग भूमिकाएँ",
+      "sides": [
+        [
+          "product-mq9",
+          "बार-बार इस्तेमाल होने वाला MQ-9",
+          "US"
+        ],
+        [
+          "product-shahed136",
+          "एक बार इस्तेमाल होने वाला SHAHED-136",
+          "IR"
+        ]
+      ],
+      "start": 898.9,
+      "end": 911.6666666666666,
+      "duration": 12.766666666666667,
+      "id": "hi002-121",
+      "visual_purpose": "compare: РІЗНЕ ПРИЗНАЧЕННЯ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-107"
+      ],
+      "narration_hi": "यह विशिष्ट तिकोने पंख और पिस्टन इंजन वाला एक लोइटरिंग म्यूनिशन है।\nइसकी अवधारणा MQ-9 से काफ़ी अलग है।\nReaper एक जटिल प्लेटफ़ॉर्म है, जिसे बार-बार इस्तेमाल किया जा सकता है और जो मिशन के बाद वापस लौट सकता है।\nShahed-136 एक बार इस्तेमाल होने वाली प्रणाली है, जिसे लक्ष्य पर प्रहार करने के लिए बनाया गया है।\nऐसे ईरानी डिज़ाइन ख़ासतौर पर तब चर्चित हुए, जब रूस ने यूक्रेन के ख़िलाफ़ युद्ध में उनका इस्तेमाल किया।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "note": "",
+      "start": 911.6666666666666,
+      "end": 918.5333333333333,
+      "duration": 6.866666666666666,
+      "id": "hi002-122",
+      "visual_purpose": "photo: SHAHED-136; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-108"
+      ],
+      "narration_hi": "ऐसे ईरानी डिज़ाइन ख़ासतौर पर तब चर्चित हुए, जब रूस ने यूक्रेन के ख़िलाफ़ युद्ध में उनका इस्तेमाल किया।"
+    },
+    {
+      "start": 918.5333333333333,
+      "end": 941.1333333333333,
+      "duration": 22.600000000000023,
+      "kind": "photo",
+      "asset_id": "product-shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-123",
+      "quality_choice": "Real licensed cutout preferred to coarse illustrative geometry",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-109",
+        "v2-shot-110-v4-26960"
+      ],
+      "narration_hi": "ऐसे ईरानी डिज़ाइन ख़ासतौर पर तब चर्चित हुए, जब रूस ने यूक्रेन के ख़िलाफ़ युद्ध में उनका इस्तेमाल किया।\nऔर इस अनुभव ने एक महत्वपूर्ण बात सामने रखी।\nड्रोन की तुलना केवल उनकी क़ीमत या मारक दूरी के आधार पर करना पर्याप्त नहीं है।\nउनकी संख्या, सटीकता, उन्हें रोकने की क्षमता, उत्पादन संसाधन और उनके इस्तेमाल के प्रभाव को भी ध्यान में रखना पड़ता है।\nऐसी दुनिया में, जहाँ अपेक्षाकृत सस्ते उपकरण भी गंभीर ख़तरे पैदा कर सकते हैं, वायु रक्षा का महत्व और बढ़ जाता है।"
+    },
+    {
+      "id": "hi002-124",
+      "kind": "photo",
+      "title": "THAAD",
+      "subtitle": "",
+      "settle_after": 1.2,
+      "start": 941.1333333333333,
+      "end": 942.4666666666667,
+      "duration": 1.3333333333333333,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-section-air-defense"
+      ],
+      "asset_id": "thaad",
+      "country": "US",
+      "role": "original-section-reserve",
+      "narration_hi": "ऐसी दुनिया में, जहाँ अपेक्षाकृत सस्ते उपकरण भी गंभीर ख़तरे पैदा कर सकते हैं, वायु रक्षा का महत्व और बढ़ जाता है।"
+    },
+    {
+      "kind": "section",
+      "title": "वायु रक्षा",
+      "subtitle": "",
+      "start": 942.4666666666667,
+      "end": 944.9666666666667,
+      "duration": 2.5,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 7,
+      "spoken_start": 943.1666666666666,
+      "id": "hi002-125",
+      "narration_hi": "ऐसी दुनिया में, जहाँ अपेक्षाकृत सस्ते उपकरण भी गंभीर ख़तरे पैदा कर सकते हैं, वायु रक्षा का महत्व और बढ़ जाता है।\nसंयुक्त राज्य अमेरिका की सबसे प्रसिद्ध वायु और मिसाइल रक्षा प्रणालियों में से एक है Patriot।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "patriot",
+      "title": "PATRIOT",
+      "country": "US",
+      "source_in": 20.56666666666672,
+      "start": 944.9666666666667,
+      "end": 957.2,
+      "duration": 12.233333333333333,
+      "id": "hi002-126",
+      "visual_purpose": "archive: patriot; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-111"
+      ],
+      "narration_hi": "संयुक्त राज्य अमेरिका की सबसे प्रसिद्ध वायु और मिसाइल रक्षा प्रणालियों में से एक है Patriot।\nइसके विन्यास और इस्तेमाल होने वाली मिसाइलों के प्रकार के अनुसार, यह अलग-अलग हवाई ख़तरों का सामना कर सकती है।"
+    },
+    {
+      "kind": "graphic",
+      "asset_id": "original-graphic",
+      "title": "PAC-3 · सीधी टक्कर",
+      "nodes": [
+        "इंटरसेप्टर",
+        "गतिज प्रहार",
+        "लक्ष्य"
+      ],
+      "start": 957.2,
+      "end": 975.3666666666667,
+      "duration": 18.166666666666668,
+      "id": "hi002-127",
+      "visual_purpose": "graphic: PAC-3 · ПРЯМЕ УРАЖЕННЯ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-112"
+      ],
+      "narration_hi": "इसके विन्यास और इस्तेमाल होने वाली मिसाइलों के प्रकार के अनुसार, यह अलग-अलग हवाई ख़तरों का सामना कर सकती है।\nPAC-3 परिवार की इंटरसेप्टर मिसाइलें विशेष ध्यान आकर्षित करती हैं।\nवे लक्ष्य से सीधे टकराकर, टक्कर की गतिज ऊर्जा से उसे नष्ट करने के सिद्धांत पर काम करती हैं।\nदूसरे शब्दों में, यहाँ केवल विस्फोट ही नहीं, बल्कि इंटरसेप्टर और लक्ष्य की सीधी टक्कर भी महत्वपूर्ण होती है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "thaad",
+      "title": "THAAD · परीक्षण",
+      "country": "US",
+      "source_in": 0.0,
+      "start": 975.3666666666667,
+      "end": 979.2333333333333,
+      "duration": 3.8666666666666667,
+      "id": "hi002-128",
+      "visual_purpose": "archive: thaad; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-113"
+      ],
+      "narration_hi": "दूसरे शब्दों में, यहाँ केवल विस्फोट ही नहीं, बल्कि इंटरसेप्टर और लक्ष्य की सीधी टक्कर भी महत्वपूर्ण होती है।\nइससे भी अलग तरह की प्रणाली है THAAD।\nइसे बहुत ऊँचाई पर बैलिस्टिक मिसाइलों को रोकने के लिए बनाया गया है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "thaad",
+      "title": "THAAD",
+      "country": "US",
+      "start": 979.2333333333333,
+      "end": 982.7666666666667,
+      "duration": 3.533333333333333,
+      "id": "hi002-129",
+      "visual_purpose": "photo: THAAD; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-114"
+      ],
+      "narration_hi": "इसे बहुत ऊँचाई पर बैलिस्टिक मिसाइलों को रोकने के लिए बनाया गया है।"
+    },
+    {
+      "kind": "graphic",
+      "asset_id": "original-graphic",
+      "title": "THAAD · सीधी टक्कर",
+      "nodes": [
+        "सीधी टक्कर",
+        "गतिज ऊर्जा"
+      ],
+      "start": 982.7666666666667,
+      "end": 993.2,
+      "duration": 10.433333333333334,
+      "id": "hi002-130",
+      "visual_purpose": "graphic: THAAD · HIT-TO-KILL; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-115"
+      ],
+      "narration_hi": "इसे बहुत ऊँचाई पर बैलिस्टिक मिसाइलों को रोकने के लिए बनाया गया है।\nइसके इंटरसेप्टर में सामान्य विस्फोटक वारहेड नहीं होता।\nलक्ष्य सीधी टक्कर की ऊर्जा से नष्ट किया जाता है।\nयह सीधे टकराकर लक्ष्य को नष्ट करने वाली तकनीक का उदाहरण है।"
+    },
+    {
+      "start": 993.2,
+      "end": 1004.8,
+      "duration": 11.6,
+      "kind": "photo",
+      "asset_id": "patriot",
+      "title": "PATRIOT",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-131",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-116"
+      ],
+      "narration_hi": "यह सीधे टकराकर लक्ष्य को नष्ट करने वाली तकनीक का उदाहरण है।\nलेकिन ऐसी प्रणालियाँ बेहद जटिल और महँगी होती हैं।\nइसके अलावा, इस्तेमाल के लिए तैयार इंटरसेप्टरों की संख्या भी उनकी तकनीकी विशेषताओं जितनी ही महत्वपूर्ण होती है।\nईरान अपनी कई स्तरों वाली वायु रक्षा व्यवस्था विकसित करता रहा है।"
+    },
+    {
+      "start": 1004.8,
+      "end": 1008.6333333333333,
+      "duration": 3.8333333333333335,
+      "kind": "archive",
+      "asset_id": "iran-sam",
+      "title": "ईरानी वायु रक्षा · अभ्यास",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "source_in": 2.0,
+      "id": "hi002-132",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-117"
+      ],
+      "narration_hi": "ईरान अपनी कई स्तरों वाली वायु रक्षा व्यवस्था विकसित करता रहा है।"
+    },
+    {
+      "start": 1008.6333333333333,
+      "end": 1018.1666666666666,
+      "duration": 9.533333333333333,
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "ईरानी वायु रक्षा प्रणालियाँ",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "sides": [
+        [
+          "s300",
+          "S-300PMU-2 · प्रकार",
+          "IR"
+        ],
+        [
+          "bavar",
+          "BAVAR-373",
+          "IR"
+        ]
+      ],
+      "id": "hi002-133",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-118"
+      ],
+      "narration_hi": "ईरान अपनी कई स्तरों वाली वायु रक्षा व्यवस्था विकसित करता रहा है।\nइसके चर्चित हिस्सों में रूसी S-300PMU-2 और ईरानी Bavar-373 तथा Khordad-15 प्रणालियाँ शामिल हैं।\nBavar-373 को ईरान की अपनी लंबी दूरी की प्रणाली के रूप में पेश किया गया था।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "bavar",
+      "title": "BAVAR-373",
+      "country": "IR",
+      "note": "",
+      "start": 1018.1666666666666,
+      "end": 1023.3666666666667,
+      "duration": 5.2,
+      "id": "hi002-134",
+      "visual_purpose": "photo: BAVAR-373; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-119"
+      ],
+      "narration_hi": "Bavar-373 को ईरान की अपनी लंबी दूरी की प्रणाली के रूप में पेश किया गया था।"
+    },
+    {
+      "kind": "graphic",
+      "asset_id": "original-graphic",
+      "title": "KHORDAD-15",
+      "nodes": [
+        "ईरानी वायु रक्षा व्यवस्था",
+        "हवाई लक्ष्य"
+      ],
+      "start": 1023.3666666666667,
+      "end": 1029.4,
+      "duration": 6.033333333333333,
+      "id": "hi002-135",
+      "visual_purpose": "graphic: KHORDAD-15; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-120"
+      ],
+      "narration_hi": "Bavar-373 को ईरान की अपनी लंबी दूरी की प्रणाली के रूप में पेश किया गया था।\nऔर Khordad-15 को अपेक्षाकृत कम दूरी पर हवाई लक्ष्यों का सामना करने वाली प्रणाली के रूप में।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "bavar",
+      "title": "BAVAR-373 · अभिलेखीय फोटो",
+      "country": "IR",
+      "note": "",
+      "start": 1029.4,
+      "end": 1050.6666666666667,
+      "duration": 21.266666666666666,
+      "id": "hi002-136",
+      "visual_purpose": "photo: BAVAR-373 · АРХІВНЕ ФОТО; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-121"
+      ],
+      "narration_hi": "और Khordad-15 को अपेक्षाकृत कम दूरी पर हवाई लक्ष्यों का सामना करने वाली प्रणाली के रूप में।\nहालाँकि, पिछले कुछ वर्षों की लड़ाइयों ने ईरान के वायु रक्षा नेटवर्क की वास्तविक स्थिति, हमलों के बीच टिके रहने की क्षमता और उसकी बहाली को लेकर गंभीर सवाल खड़े किए हैं।\nयहाँ भी काग़ज़ पर लिखी विशेषताओं और वास्तविक प्रभावशीलता के बीच अंतर दिखाई देता है।\nकेवल लॉन्चर मौजूद होने का मतलब यह नहीं कि एक पूरी रक्षा व्यवस्था भी मौजूद है।"
+    },
+    {
+      "start": 1050.6666666666667,
+      "end": 1056.7,
+      "duration": 6.033333333333333,
+      "kind": "photo",
+      "asset_id": "bavar",
+      "title": "BAVAR",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-137",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-122"
+      ],
+      "narration_hi": "केवल लॉन्चर मौजूद होने का मतलब यह नहीं कि एक पूरी रक्षा व्यवस्था भी मौजूद है।\nइसके लिए रडार, संचार, प्रशिक्षित ऑपरेटर, मिसाइलें और सभी हिस्सों की मिलकर काम करने की क्षमता चाहिए।"
+    },
+    {
+      "kind": "section",
+      "title": "हेलीकॉप्टर",
+      "subtitle": "",
+      "start": 1056.7,
+      "end": 1059.2,
+      "duration": 2.5,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 8,
+      "spoken_start": 1057.4,
+      "id": "hi002-138",
+      "narration_hi": "इसके लिए रडार, संचार, प्रशिक्षित ऑपरेटर, मिसाइलें और सभी हिस्सों की मिलकर काम करने की क्षमता चाहिए।\nअमेरिकी AH-64 Apache दुनिया के सबसे प्रसिद्ध हमलावर हेलीकॉप्टरों में से एक है।"
+    },
+    {
+      "id": "hi002-139",
+      "kind": "photo",
+      "title": "AH-64 APACHE",
+      "subtitle": "",
+      "settle_after": 1.2,
+      "start": 1059.2,
+      "end": 1061.6,
+      "duration": 2.4,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-section-helicopters"
+      ],
+      "asset_id": "model-apache",
+      "country": "US",
+      "role": "original-section-reserve",
+      "narration_hi": "अमेरिकी AH-64 Apache दुनिया के सबसे प्रसिद्ध हमलावर हेलीकॉप्टरों में से एक है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "apache",
+      "title": "AH-64 APACHE",
+      "country": "US",
+      "source_in": 3.0,
+      "start": 1061.6,
+      "end": 1067.2666666666667,
+      "duration": 5.666666666666667,
+      "id": "hi002-140",
+      "visual_purpose": "archive: apache; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-123-a-v4-30877"
+      ],
+      "narration_hi": "अमेरिकी AH-64 Apache दुनिया के सबसे प्रसिद्ध हमलावर हेलीकॉप्टरों में से एक है।\nइसमें एक ऑटोमैटिक तोप लगी होती है और यह निर्देशित मिसाइलों का इस्तेमाल कर सकता है।"
+    },
+    {
+      "kind": "turntable",
+      "asset_id": "model-apache",
+      "title": "AH-64 APACHE",
+      "country": "US",
+      "start": 1067.2666666666667,
+      "end": 1075.2666666666667,
+      "duration": 8.0,
+      "id": "hi002-141",
+      "visual_purpose": "archive: apache; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-123-b"
+      ],
+      "source_in": 0,
+      "narration_hi": "इसमें एक ऑटोमैटिक तोप लगी होती है और यह निर्देशित मिसाइलों का इस्तेमाल कर सकता है।\nइसके आधुनिक संस्करणों में निगरानी और हथियार नियंत्रण की विकसित प्रणालियाँ होती हैं।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "blackhawk",
+      "title": "UH-60 BLACK HAWK",
+      "country": "US",
+      "source_in": 0.0,
+      "start": 1075.2666666666667,
+      "end": 1079.0333333333333,
+      "duration": 3.7666666666666666,
+      "id": "hi002-142",
+      "visual_purpose": "archive: blackhawk; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-124-a"
+      ],
+      "narration_hi": "इसके आधुनिक संस्करणों में निगरानी और हथियार नियंत्रण की विकसित प्रणालियाँ होती हैं।\nUH-60 Black Hawk की भूमिका अलग है।\nयह सैनिकों को लाने-ले जाने और कई तरह के सैन्य काम करने वाला बहुउद्देश्यीय हेलीकॉप्टर है।"
+    },
+    {
+      "kind": "turntable",
+      "asset_id": "model-blackhawk",
+      "title": "UH-60 BLACK HAWK",
+      "country": "US",
+      "start": 1079.0333333333333,
+      "end": 1084.4333333333334,
+      "duration": 5.4,
+      "id": "hi002-143",
+      "visual_purpose": "archive: blackhawk; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-124-b"
+      ],
+      "source_in": 0,
+      "narration_hi": "यह सैनिकों को लाने-ले जाने और कई तरह के सैन्य काम करने वाला बहुउद्देश्यीय हेलीकॉप्टर है।\nऔर CH-47 Chinook को उसके दो बड़े मुख्य रोटरों से आसानी से पहचाना जा सकता है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "chinook",
+      "title": "CH-47 CHINOOK",
+      "country": "US",
+      "source_in": 8.0,
+      "start": 1084.4333333333334,
+      "end": 1088.8333333333333,
+      "duration": 4.4,
+      "id": "hi002-144",
+      "visual_purpose": "archive: chinook; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-125-a"
+      ],
+      "narration_hi": "और CH-47 Chinook को उसके दो बड़े मुख्य रोटरों से आसानी से पहचाना जा सकता है।"
+    },
+    {
+      "kind": "turntable",
+      "asset_id": "model-chinook",
+      "title": "CH-47 CHINOOK",
+      "country": "US",
+      "start": 1088.8333333333333,
+      "end": 1093.8666666666666,
+      "duration": 5.033333333333333,
+      "id": "hi002-145",
+      "visual_purpose": "archive: chinook; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य",
+      "visual_origin": "true_3d_render",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-125-b"
+      ],
+      "source_in": 0,
+      "narration_hi": "और CH-47 Chinook को उसके दो बड़े मुख्य रोटरों से आसानी से पहचाना जा सकता है।\nइसे भारी सामान और सैन्य उपकरण ढोने के लिए बनाया गया है।\nलेकिन यहाँ इतिहास एक दिलचस्प मोड़ लेता है।"
+    },
+    {
+      "start": 1093.8666666666666,
+      "end": 1100.3,
+      "duration": 6.433333333333334,
+      "kind": "photo",
+      "asset_id": "model-chinook",
+      "title": "CH-47 CHINOOK",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "visual_origin": "true_3d_render",
+      "note": "3D दृश्य · स्थिर कोण",
+      "id": "hi002-146",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-126"
+      ],
+      "narration_hi": "लेकिन यहाँ इतिहास एक दिलचस्प मोड़ लेता है।\nईरान को भी अमेरिकी हेलीकॉप्टर मिले थे।"
+    },
+    {
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "क्रांति से पहले की आपूर्ति",
+      "sides": [
+        [
+          "product-cobra",
+          "AH-1 · प्रकार",
+          "IR"
+        ],
+        [
+          "model-chinook",
+          "CH-47 · प्रकार",
+          "IR"
+        ]
+      ],
+      "start": 1100.3,
+      "end": 1107.8333333333333,
+      "duration": 7.533333333333333,
+      "id": "hi002-147",
+      "visual_purpose": "compare: ПОСТАЧАННЯ ДО РЕВОЛЮЦІЇ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-127"
+      ],
+      "narration_hi": "ईरान को भी अमेरिकी हेलीकॉप्टर मिले थे।\nउन्नीस सौ उन्यासी की क्रांति से पहले उसने AH-1 Cobra, CH-47 Chinook और Bell परिवार के हेलीकॉप्टर खरीदे थे।\nयही नहीं, Bell 214 को विकसित करते समय कठिन जलवायु और ऊँचे पहाड़ी इलाक़ों में काम करने की ईरानी ज़रूरतों को ध्यान में रखा गया था।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "bell214",
+      "title": "BELL 214",
+      "country": "IR",
+      "note": "",
+      "start": 1107.8333333333333,
+      "end": 1129.8666666666666,
+      "duration": 22.033333333333335,
+      "id": "hi002-148",
+      "visual_purpose": "photo: BELL 214; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-128"
+      ],
+      "narration_hi": "यही नहीं, Bell 214 को विकसित करते समय कठिन जलवायु और ऊँचे पहाड़ी इलाक़ों में काम करने की ईरानी ज़रूरतों को ध्यान में रखा गया था।\nयानी ईरान के हेलीकॉप्टरों के इतिहास का एक हिस्सा सीधे अमेरिकी उद्योग से जुड़ा हुआ है।\nलेकिन दशकों के प्रतिबंध, पुराने होते हेलीकॉप्टर और पुर्ज़ों तक सीमित पहुँच ने उनका संचालन काफ़ी मुश्किल बना दिया।\nऔर अगर हवा में संयुक्त राज्य अमेरिका को तकनीक की विविधता में बढ़त हासिल है, तो समुद्र में इन दोनों सैन्य सोचों का अंतर और भी साफ़ हो जाता है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "ford",
+      "title": "आसमान से समुद्र तक",
+      "country": "US",
+      "note": "",
+      "start": 1129.8666666666666,
+      "end": 1136.4333333333334,
+      "duration": 6.566666666666666,
+      "id": "hi002-149",
+      "visual_purpose": "photo: ВІД ПОВІТРЯ ДО МОРЯ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-129-v4-33075"
+      ],
+      "narration_hi": "और अगर हवा में संयुक्त राज्य अमेरिका को तकनीक की विविधता में बढ़त हासिल है, तो समुद्र में इन दोनों सैन्य सोचों का अंतर और भी साफ़ हो जाता है।"
+    },
+    {
+      "id": "hi002-150",
+      "kind": "photo",
+      "title": "GERALD R. FORD",
+      "subtitle": "",
+      "settle_after": 1.2,
+      "start": 1136.4333333333334,
+      "end": 1137.6333333333334,
+      "duration": 1.2,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-section-navy"
+      ],
+      "asset_id": "ford",
+      "country": "US",
+      "role": "original-section-reserve",
+      "narration_hi": "और अगर हवा में संयुक्त राज्य अमेरिका को तकनीक की विविधता में बढ़त हासिल है, तो समुद्र में इन दोनों सैन्य सोचों का अंतर और भी साफ़ हो जाता है।"
+    },
+    {
+      "kind": "section",
+      "title": "नौसेना",
+      "subtitle": "",
+      "start": 1137.6333333333334,
+      "end": 1140.1333333333334,
+      "duration": 2.5,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 9,
+      "spoken_start": 1138.3333333333333,
+      "id": "hi002-151",
+      "narration_hi": "और अगर हवा में संयुक्त राज्य अमेरिका को तकनीक की विविधता में बढ़त हासिल है, तो समुद्र में इन दोनों सैन्य सोचों का अंतर और भी साफ़ हो जाता है।\nशुरुआत अमेरिकी विमानवाहक पोत Gerald R. Ford से करते हैं।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "ford",
+      "title": "GERALD R. FORD · CVN-78",
+      "country": "US",
+      "source_in": 15.60000000000012,
+      "start": 1140.1333333333334,
+      "end": 1157.3666666666666,
+      "duration": 17.233333333333334,
+      "id": "hi002-152",
+      "visual_purpose": "archive: ford; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-130"
+      ],
+      "narration_hi": "शुरुआत अमेरिकी विमानवाहक पोत Gerald R. Ford से करते हैं।\nयह लगभग एक लाख टन विस्थापन वाला अमेरिकी परमाणु ऊर्जा से चलने वाला विमानवाहक पोत है।\nइसकी लंबाई तीन सौ तीस मीटर से अधिक है।\nइस पर दर्जनों विमान और हेलीकॉप्टर तैनात किए जा सकते हैं।\nइसकी तकनीकी ख़ासियतों में से एक विमानों को उड़ान भरवाने वाली इलेक्ट्रोमैग्नेटिक लॉन्च प्रणाली है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "ford",
+      "title": "GERALD R. FORD",
+      "country": "US",
+      "note": "",
+      "start": 1157.3666666666666,
+      "end": 1164.3666666666666,
+      "duration": 7.0,
+      "id": "hi002-153",
+      "visual_purpose": "photo: USS GERALD R. FORD; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-131"
+      ],
+      "narration_hi": "इसकी तकनीकी ख़ासियतों में से एक विमानों को उड़ान भरवाने वाली इलेक्ट्रोमैग्नेटिक लॉन्च प्रणाली है।\nलेकिन किसी विमानवाहक पोत को कभी अकेले नहीं देखना चाहिए।"
+    },
+    {
+      "start": 1164.3666666666666,
+      "end": 1175.0,
+      "duration": 10.633333333333333,
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "विमानवाहक पोत का युद्धक समूह",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "sides": [
+        [
+          "ford",
+          "GERALD R. FORD",
+          "US"
+        ],
+        [
+          "destroyer",
+          "ARLEIGH BURKE",
+          "US"
+        ]
+      ],
+      "id": "hi002-154",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-132"
+      ],
+      "narration_hi": "लेकिन किसी विमानवाहक पोत को कभी अकेले नहीं देखना चाहिए।\nउसके साथ दूसरे युद्धपोत, पनडुब्बियाँ, विमान और आपूर्ति करने वाले जहाज़ भी काम करते हैं।\nअमेरिकी नौसेना के महत्वपूर्ण हिस्सों में Arleigh Burke वर्ग के विध्वंसक युद्धपोत भी शामिल हैं।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "destroyer",
+      "title": "HARVEY C. BARNUM JR. · ARLEIGH BURKE",
+      "country": "US",
+      "source_in": 0.0,
+      "start": 1175.0,
+      "end": 1188.7666666666667,
+      "duration": 13.766666666666667,
+      "id": "hi002-155",
+      "visual_purpose": "archive: destroyer; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-133"
+      ],
+      "narration_hi": "अमेरिकी नौसेना के महत्वपूर्ण हिस्सों में Arleigh Burke वर्ग के विध्वंसक युद्धपोत भी शामिल हैं।\nइनमें बहुउद्देश्यीय रडार प्रणालियाँ और अलग-अलग भूमिकाओं वाली मिसाइलों के लिए ऊर्ध्वाधर लॉन्च सेल लगे होते हैं।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "virginia",
+      "title": "VIRGINIA",
+      "country": "US",
+      "note": "",
+      "start": 1188.7666666666667,
+      "end": 1199.7333333333333,
+      "duration": 10.966666666666667,
+      "id": "hi002-156",
+      "visual_purpose": "photo: VIRGINIA; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-134"
+      ],
+      "narration_hi": "इनमें बहुउद्देश्यीय रडार प्रणालियाँ और अलग-अलग भूमिकाओं वाली मिसाइलों के लिए ऊर्ध्वाधर लॉन्च सेल लगे होते हैं।\nपानी के नीचे Virginia वर्ग की परमाणु ऊर्जा से चलने वाली पनडुब्बियाँ काम करती हैं।\nइन्हें टोही और हथियारों के इस्तेमाल समेत कई तरह के मिशन के लिए बनाया गया है।\nअमेरिकी नौसेना अपने तटों से बहुत दूर लंबे समय तक अभियान चलाने के लिए तैयार की गई है।"
+    },
+    {
+      "start": 1199.7333333333333,
+      "end": 1205.4,
+      "duration": 5.666666666666667,
+      "kind": "turntable",
+      "asset_id": "model-ford-illustrative",
+      "title": "GERALD R. FORD",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "सरल 3D रेखाचित्र",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-157",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-135"
+      ],
+      "source_in": 0,
+      "narration_hi": "अमेरिकी नौसेना अपने तटों से बहुत दूर लंबे समय तक अभियान चलाने के लिए तैयार की गई है।\nअब ईरान को देखते हैं।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "hormuz",
+      "title": "फ़ारस की खाड़ी · होर्मुज़ जलडमरूमध्य",
+      "country": "IR",
+      "note": "",
+      "start": 1205.4,
+      "end": 1220.6333333333334,
+      "duration": 15.233333333333333,
+      "id": "hi002-158",
+      "visual_purpose": "photo: ПЕРСЬКА ЗАТОКА · ОРМУЗЬКА ПРОТОКА; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-136"
+      ],
+      "narration_hi": "अब ईरान को देखते हैं।\nउसकी भौगोलिक स्थिति बिल्कुल अलग है।\nफ़ारस की खाड़ी और होर्मुज़ जलडमरूमध्य अपेक्षाकृत सीमित समुद्री क्षेत्र हैं, लेकिन अंतरराष्ट्रीय जहाज़रानी के लिए उनका महत्व बहुत बड़ा है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "iran-boats",
+      "title": "ईरानी तेज़ रफ़्तार नौकाएँ",
+      "country": "IR",
+      "source_in": 0.0,
+      "start": 1220.6333333333334,
+      "end": 1228.8666666666666,
+      "duration": 8.233333333333333,
+      "id": "hi002-159",
+      "visual_purpose": "archive: iran-boats; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-137"
+      ],
+      "narration_hi": "फ़ारस की खाड़ी और होर्मुज़ जलडमरूमध्य अपेक्षाकृत सीमित समुद्री क्षेत्र हैं, लेकिन अंतरराष्ट्रीय जहाज़रानी के लिए उनका महत्व बहुत बड़ा है।\nइसीलिए ईरानी नौसैनिक बलों ने ऐतिहासिक रूप से छोटे युद्धपोतों, तेज़ रफ़्तार नौकाओं और तटीय अभियानों पर काफ़ी ध्यान दिया।\nउसके चर्चित सतही युद्धपोतों में Moudge परिवार के फ़्रिगेट शामिल हैं। Jamaran भी इसी परिवार का हिस्सा है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "jamaran",
+      "title": "JAMARAN",
+      "country": "IR",
+      "note": "",
+      "start": 1228.8666666666666,
+      "end": 1237.1333333333334,
+      "duration": 8.266666666666667,
+      "id": "hi002-160",
+      "visual_purpose": "photo: JAMARAN; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-138"
+      ],
+      "narration_hi": "उसके चर्चित सतही युद्धपोतों में Moudge परिवार के फ़्रिगेट शामिल हैं। Jamaran भी इसी परिवार का हिस्सा है।\nईरान ने रूस से प्रोजेक्ट 877 की डीज़ल-इलेक्ट्रिक पनडुब्बियाँ भी खरीदीं, जिन्हें Kilo के नाम से जाना जाता है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "kilo",
+      "title": "KILO · प्रोजेक्ट 877",
+      "country": "IR",
+      "note": "",
+      "start": 1237.1333333333334,
+      "end": 1244.3333333333333,
+      "duration": 7.2,
+      "id": "hi002-161",
+      "visual_purpose": "photo: KILO · ПРОЄКТ 877; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-139"
+      ],
+      "narration_hi": "ईरान ने रूस से प्रोजेक्ट 877 की डीज़ल-इलेक्ट्रिक पनडुब्बियाँ भी खरीदीं, जिन्हें Kilo के नाम से जाना जाता है।\nलेकिन इसके सबसे असामान्य उदाहरणों में से एक छोटी Ghadir पनडुब्बी है।"
+    },
+    {
+      "start": 1244.3333333333333,
+      "end": 1263.1,
+      "duration": 18.766666666666666,
+      "kind": "turntable",
+      "asset_id": "model-ghadir-illustrative",
+      "title": "GHADIR",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "सरल 3D रेखाचित्र",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-162",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-140"
+      ],
+      "source_in": 0,
+      "narration_hi": "लेकिन इसके सबसे असामान्य उदाहरणों में से एक छोटी Ghadir पनडुब्बी है।\nआकार के मामले में यह अमेरिकी Virginia से बहुत छोटी है।\nलेकिन इसे अलग वातावरण और अलग कामों के लिए बनाया गया था।\nसीमित तटीय समुद्री क्षेत्रों में छोटा आकार महत्वपूर्ण हो सकता है।\nईरानी समुद्री बलों की एक और विशेषता है, अलग-अलग हथियारों से लैस तेज़ रफ़्तार नौकाएँ।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "iran-boats",
+      "title": "ईरानी तटीय बल",
+      "country": "IR",
+      "start": 1263.1,
+      "end": 1269.7,
+      "duration": 6.6,
+      "id": "hi002-163",
+      "visual_purpose": "photo: ІРАНСЬКІ ПРИБЕРЕЖНІ СИЛИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-141"
+      ],
+      "narration_hi": "ईरानी समुद्री बलों की एक और विशेषता है, अलग-अलग हथियारों से लैस तेज़ रफ़्तार नौकाएँ।\nवे किसी विमानवाहक पोत के युद्धक समूह की जगह नहीं ले सकतीं।"
+    },
+    {
+      "start": 1269.7,
+      "end": 1282.2333333333333,
+      "duration": 12.533333333333333,
+      "kind": "turntable",
+      "asset_id": "model-ghadir-illustrative",
+      "title": "GHADIR",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "सरल 3D रेखाचित्र",
+      "visual_origin": "true_3d_render",
+      "id": "hi002-164",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-142"
+      ],
+      "source_in": 0,
+      "narration_hi": "वे किसी विमानवाहक पोत के युद्धक समूह की जगह नहीं ले सकतीं।\nलेकिन उन्हें उसके लिए बनाया भी नहीं गया है।\nलंबे समय तक ईरान की समुद्री रणनीति अपने ही क्षेत्र के आसपास केंद्रित रही।"
+    },
+    {
+      "start": 1282.2333333333333,
+      "end": 1292.8666666666666,
+      "duration": 10.633333333333333,
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "दो समुद्री रणनीतियाँ",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "sides": [
+        [
+          "model-ford-illustrative",
+          "GERALD R. FORD",
+          "US"
+        ],
+        [
+          "model-ghadir-illustrative",
+          "GHADIR",
+          "IR"
+        ]
+      ],
+      "id": "hi002-165",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-143-v4-37348"
+      ],
+      "narration_hi": "लंबे समय तक ईरान की समुद्री रणनीति अपने ही क्षेत्र के आसपास केंद्रित रही।\nजबकि अमेरिकी रणनीति अलग-अलग महासागरों में काम कर सकने की क्षमता पर केंद्रित रही।\nनौसेना के इस्तेमाल को लेकर ये दो बुनियादी रूप से अलग दृष्टिकोण हैं।"
+    },
+    {
+      "id": "hi002-166",
+      "kind": "photo",
+      "title": "तटीय बल",
+      "subtitle": "",
+      "settle_after": 1.2,
+      "start": 1292.8666666666666,
+      "end": 1294.9666666666667,
+      "duration": 2.1,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-section-summary"
+      ],
+      "asset_id": "ghadir",
+      "country": "IR",
+      "role": "original-section-reserve",
+      "narration_hi": "नौसेना के इस्तेमाल को लेकर ये दो बुनियादी रूप से अलग दृष्टिकोण हैं।\nअब समय है पूरी तस्वीर को एक साथ देखने का।"
+    },
+    {
+      "kind": "section",
+      "title": "निष्कर्ष",
+      "subtitle": "",
+      "start": 1294.9666666666667,
+      "end": 1297.4666666666667,
+      "duration": 2.5,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 10,
+      "spoken_start": 1295.6666666666667,
+      "id": "hi002-167",
+      "narration_hi": "अब समय है पूरी तस्वीर को एक साथ देखने का।\nतो हमने क्या देखा?\nआधुनिक लड़ाकू विमानन में संयुक्त राज्य अमेरिका को बड़ी तकनीकी बढ़त हासिल है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "f22",
+      "title": "F-22 RAPTOR",
+      "country": "US",
+      "source_in": 27.99999999999997,
+      "start": 1297.4666666666667,
+      "end": 1312.8666666666666,
+      "duration": 15.4,
+      "id": "hi002-168",
+      "visual_purpose": "archive: f22; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-145"
+      ],
+      "narration_hi": "आधुनिक लड़ाकू विमानन में संयुक्त राज्य अमेरिका को बड़ी तकनीकी बढ़त हासिल है।\nउसके लड़ाकू विमान, रणनीतिक बमवर्षक, हवा में ईंधन भरने वाले विमान और टोही प्रणालियाँ मिलकर ऐसी क्षमताएँ बनाती हैं, जिन्हें ईरान पूरी तरह दोहरा नहीं सकता।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "abrams",
+      "title": "M1 ABRAMS",
+      "country": "US",
+      "source_in": 28.799999999999955,
+      "start": 1312.8666666666666,
+      "end": 1320.1666666666667,
+      "duration": 7.3,
+      "id": "hi002-169",
+      "visual_purpose": "archive: abrams; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-146"
+      ],
+      "narration_hi": "उसके लड़ाकू विमान, रणनीतिक बमवर्षक, हवा में ईंधन भरने वाले विमान और टोही प्रणालियाँ मिलकर ऐसी क्षमताएँ बनाती हैं, जिन्हें ईरान पूरी तरह दोहरा नहीं सकता।\nबख़्तरबंद वाहनों में अमेरिकी शस्त्रागार की ख़ासियत आधुनिक नियंत्रण, सुरक्षा और सहायता प्रणालियाँ हैं।\nनौसेना में यह अंतर और भी साफ़ दिखाई देता है।"
+    },
+    {
+      "kind": "archive",
+      "asset_id": "ford",
+      "title": "GERALD R. FORD · CVN-78",
+      "country": "US",
+      "source_in": 0.0,
+      "start": 1320.1666666666667,
+      "end": 1329.8666666666666,
+      "duration": 9.7,
+      "id": "hi002-170",
+      "visual_purpose": "archive: ford; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-147"
+      ],
+      "narration_hi": "नौसेना में यह अंतर और भी साफ़ दिखाई देता है।\nसंयुक्त राज्य अमेरिका के पास विमानवाहक पोतों और परमाणु ऊर्जा से चलने वाली पनडुब्बियों वाला वैश्विक बेड़ा है।\nईरान ऐतिहासिक रूप से अपने क्षेत्र के कामों के लिए तटीय बलों, छोटे युद्धपोतों और पनडुब्बियों पर ध्यान देता रहा है।"
+    },
+    {
+      "kind": "photo",
+      "asset_id": "ghadir",
+      "title": "तटीय बल",
+      "country": "IR",
+      "note": "",
+      "start": 1329.8666666666666,
+      "end": 1337.9666666666667,
+      "duration": 8.1,
+      "id": "hi002-171",
+      "visual_purpose": "photo: ПРИБЕРЕЖНІ СИЛИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-148"
+      ],
+      "narration_hi": "ईरान ऐतिहासिक रूप से अपने क्षेत्र के कामों के लिए तटीय बलों, छोटे युद्धपोतों और पनडुब्बियों पर ध्यान देता रहा है।"
+    },
+    {
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "मिसाइलें और ड्रोन",
+      "sides": [
+        [
+          "product-fateh",
+          "FATEH-110",
+          "IR"
+        ],
+        [
+          "product-shahed136",
+          "SHAHED-136",
+          "IR"
+        ]
+      ],
+      "start": 1337.9666666666667,
+      "end": 1347.6333333333334,
+      "duration": 9.666666666666666,
+      "id": "hi002-172",
+      "visual_purpose": "compare: РАКЕТИ ТА БЕЗПІЛОТНИКИ; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-149"
+      ],
+      "narration_hi": "ईरान ऐतिहासिक रूप से अपने क्षेत्र के कामों के लिए तटीय बलों, छोटे युद्धपोतों और पनडुब्बियों पर ध्यान देता रहा है।\nलेकिन मिसाइलों और ड्रोन के क्षेत्र में ईरान ने ऐसा रास्ता चुना, जिसने प्रतिबंधों के बावजूद उसे अपनी तकनीक और महत्वपूर्ण उत्पादन क्षमता विकसित करने का अवसर दिया।"
+    },
+    {
+      "start": 1347.6333333333334,
+      "end": 1353.7,
+      "duration": 6.066666666666666,
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "अलग-अलग शस्त्रागार",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "sides": [
+        [
+          "model-f22",
+          "F-22 RAPTOR",
+          "US"
+        ],
+        [
+          "product-shahed136",
+          "SHAHED-136",
+          "IR"
+        ]
+      ],
+      "id": "hi002-173",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-150"
+      ],
+      "narration_hi": "लेकिन मिसाइलों और ड्रोन के क्षेत्र में ईरान ने ऐसा रास्ता चुना, जिसने प्रतिबंधों के बावजूद उसे अपनी तकनीक और महत्वपूर्ण उत्पादन क्षमता विकसित करने का अवसर दिया।\nऔर मुख्य जवाब यहीं छिपा है।\nइन देशों ने एक जैसे शस्त्रागार बनाए ही नहीं थे।\nअमेरिकी सैन्य व्यवस्था वैश्विक मौजूदगी, जटिल संयुक्त अभियानों और बड़े पैमाने की लॉजिस्टिक्स के लिए बनाई गई है।"
+    },
+    {
+      "start": 1353.7,
+      "end": 1369.0666666666666,
+      "duration": 15.366666666666667,
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "दो समुद्री रणनीतियाँ",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "sides": [
+        [
+          "model-ford-illustrative",
+          "GERALD R. FORD",
+          "US"
+        ],
+        [
+          "model-ghadir-illustrative",
+          "GHADIR",
+          "IR"
+        ]
+      ],
+      "id": "hi002-174",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-151"
+      ],
+      "narration_hi": "अमेरिकी सैन्य व्यवस्था वैश्विक मौजूदगी, जटिल संयुक्त अभियानों और बड़े पैमाने की लॉजिस्टिक्स के लिए बनाई गई है।\nईरानी व्यवस्था काफ़ी हद तक अपने क्षेत्र में विरोधी को रोकने, अपने स्तर पर उत्पादन और असममित सैन्य साधनों पर आधारित है।"
+    },
+    {
+      "start": 1369.0666666666666,
+      "end": 1389.1333333333334,
+      "duration": 20.066666666666666,
+      "kind": "photo",
+      "asset_id": "product-abrams",
+      "title": "M1 ABRAMS",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-175",
+      "quality_choice": "Real licensed cutout preferred to coarse illustrative geometry",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-152"
+      ],
+      "narration_hi": "ईरानी व्यवस्था काफ़ी हद तक अपने क्षेत्र में विरोधी को रोकने, अपने स्तर पर उत्पादन और असममित सैन्य साधनों पर आधारित है।\nदो हज़ार छब्बीस की घटनाएँ यह भी याद दिलाती हैं कि सबसे महँगी सैन्य प्रणालियाँ भी गोला-बारूद के भंडार, मरम्मत, उद्योग और लंबे दबाव को झेलने की क्षमता पर निर्भर करती हैं।\nइसीलिए इस सवाल का जवाब देने से पहले कि किसका शस्त्रागार ज़्यादा ताकतवर है, यह स्पष्ट करना ज़रूरी है कि हम किस पहलू की तुलना कर रहे हैं।"
+    },
+    {
+      "kind": "compare",
+      "asset_id": "original-comparison",
+      "title": "केवल पैमाना पूरी तस्वीर नहीं दिखाता",
+      "sides": [
+        [
+          "product-ford",
+          "वैश्विक क्षमताएँ",
+          "US"
+        ],
+        [
+          "model-ghadir-illustrative",
+          "विशिष्ट वातावरण",
+          "IR"
+        ]
+      ],
+      "start": 1389.1333333333334,
+      "end": 1402.4333333333334,
+      "duration": 13.3,
+      "id": "hi002-176",
+      "visual_purpose": "compare: МАСШТАБ НЕ ПОЯСНЮЄ ВСЬОГО; exact subject of the supplied narration",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-153"
+      ],
+      "narration_hi": "इसीलिए इस सवाल का जवाब देने से पहले कि किसका शस्त्रागार ज़्यादा ताकतवर है, यह स्पष्ट करना ज़रूरी है कि हम किस पहलू की तुलना कर रहे हैं।\nकुल तकनीकी स्तर, पैमाने और वैश्विक क्षमताओं के आधार पर अमेरिकी सशस्त्र बलों को बड़ी बढ़त हासिल है।\nलेकिन इसका मतलब यह नहीं कि हर सैन्य चुनौती का हल केवल विमानों की संख्या या युद्धपोतों की क़ीमत से निकल आता है।\nभूगोल, रणनीति, उत्पादन, प्रशिक्षण और विशिष्ट परिस्थितियाँ निर्णायक होती हैं।"
+    },
+    {
+      "start": 1402.4333333333334,
+      "end": 1414.4666666666667,
+      "duration": 12.033333333333333,
+      "kind": "archive",
+      "asset_id": "us-infantry",
+      "title": "प्रशिक्षण और सहायता",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "source_in": 0.0,
+      "id": "hi002-177",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-154"
+      ],
+      "narration_hi": "भूगोल, रणनीति, उत्पादन, प्रशिक्षण और विशिष्ट परिस्थितियाँ निर्णायक होती हैं।\nऔर यही वजह है कि सैन्य तकनीक की तुलना केवल विशेषताओं की सूची से कहीं ज़्यादा दिलचस्प होती है।\nआप क्या सोचते हैं?"
+    },
+    {
+      "id": "hi002-178",
+      "kind": "question",
+      "title": "कौन-सी श्रेणी सबसे दिलचस्प लगी?",
+      "nodes": [
+        "वायु सेना",
+        "मिसाइलें",
+        "ड्रोन",
+        "नौसेना"
+      ],
+      "settle_after": 1.4700000000000002,
+      "start": 1414.4666666666667,
+      "end": 1421.3333333333333,
+      "duration": 6.866666666666666,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-audience-question"
+      ],
+      "narration_hi": "आप क्या सोचते हैं?\nकौन-सी श्रेणी आपको सबसे दिलचस्प लगी: विमानन, मिसाइलें, ड्रोन या नौसेना?"
+    },
+    {
+      "id": "hi002-179",
+      "kind": "outro",
+      "title": "आपकी राय?",
+      "subtitle": "अगली तुलना में कौन-से देश हों?\nकमेंट में बताइए",
+      "settle_after": 1.2,
+      "start": 1421.3333333333333,
+      "end": 1426.7333333333333,
+      "duration": 5.4,
+      "entrance_once": true,
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v4-audience-comment"
+      ],
+      "narration_hi": "कौन-सी श्रेणी आपको सबसे दिलचस्प लगी: विमानन, मिसाइलें, ड्रोन या नौसेना?\nकमेंट में बताइए कि अगली तुलना में आप किन देशों के सैन्य शस्त्रागार देखना चाहेंगे।\nआप देख रहे थे शस्त्र 360।"
+    },
+    {
+      "start": 1426.7333333333333,
+      "end": 1432.3,
+      "duration": 5.566666666666666,
+      "kind": "ident",
+      "asset_id": "channel-ident",
+      "title": "ARSENAL 360 / शस्त्र 360",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "id": "hi002-180",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "v2-shot-158"
+      ],
+      "narration_hi": "आप देख रहे थे शस्त्र 360।\nसैन्य तकनीक की दुनिया — बारीकी से।"
+    }
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "spoken_start": 0,
+      "title": "परिचय",
+      "display_start": 0
+    },
+    {
+      "start": 104.63333333333334,
+      "spoken_start": 104.63333333333334,
+      "spoken_end": 105.79999999999998,
+      "display_start": 103.93333333333334,
+      "fully_visible_at": 104.58333333333334,
+      "display_end": 106.43333333333334,
+      "title": "वायु सेना"
+    },
+    {
+      "start": 331.8333333333333,
+      "spoken_start": 331.8333333333333,
+      "spoken_end": 333.82,
+      "display_start": 331.1333333333333,
+      "fully_visible_at": 331.7833333333333,
+      "display_end": 334.3333333333333,
+      "title": "टैंक और बख़्तरबंद वाहन"
+    },
+    {
+      "start": 483.3333333333333,
+      "spoken_start": 483.3333333333333,
+      "spoken_end": 484.49,
+      "display_start": 482.6333333333333,
+      "fully_visible_at": 483.2833333333333,
+      "display_end": 485.1333333333333,
+      "title": "मिसाइल हथियार"
+    },
+    {
+      "start": 676.2,
+      "spoken_start": 676.2,
+      "spoken_end": 677.8766666666667,
+      "display_start": 675.5,
+      "fully_visible_at": 676.15,
+      "display_end": 678.3666666666667,
+      "title": "पैदल सेना के हथियार"
+    },
+    {
+      "start": 733.8666666666667,
+      "spoken_start": 733.8666666666667,
+      "spoken_end": 735.19,
+      "display_start": 733.1666666666666,
+      "fully_visible_at": 733.8166666666666,
+      "display_end": 735.7,
+      "title": "तोपखाना"
+    },
+    {
+      "start": 826.2666666666667,
+      "spoken_start": 826.2666666666667,
+      "spoken_end": 826.8384353741496,
+      "display_start": 825.5666666666667,
+      "fully_visible_at": 826.2166666666667,
+      "display_end": 828.0666666666667,
+      "title": "ड्रोन"
+    },
+    {
+      "start": 943.1666666666666,
+      "spoken_start": 943.1666666666666,
+      "spoken_end": 944.4028767123287,
+      "display_start": 942.4666666666667,
+      "fully_visible_at": 943.1166666666667,
+      "display_end": 944.9666666666667,
+      "title": "वायु रक्षा"
+    },
+    {
+      "start": 1057.4,
+      "spoken_start": 1057.4,
+      "spoken_end": 1058.5317142857143,
+      "display_start": 1056.7,
+      "fully_visible_at": 1057.3500000000001,
+      "display_end": 1059.2,
+      "title": "हेलीकॉप्टर"
+    },
+    {
+      "start": 1138.3333333333333,
+      "spoken_start": 1138.3333333333333,
+      "spoken_end": 1139.2814285714287,
+      "display_start": 1137.6333333333334,
+      "fully_visible_at": 1138.2833333333335,
+      "display_end": 1140.1333333333334,
+      "title": "नौसेना"
+    },
+    {
+      "start": 1295.6666666666667,
+      "spoken_start": 1295.6666666666667,
+      "spoken_end": 1295.6729268292681,
+      "display_start": 1294.9666666666667,
+      "fully_visible_at": 1295.6166666666668,
+      "display_end": 1297.4666666666667,
+      "title": "निष्कर्ष"
+    }
+  ],
+  "motion_policy": {
+    "archive": "Normal speed, no tpad or looping; extend available licensed material or cut to a matching deliberate still/3D",
+    "native_3d": "720 directly rendered poses / 24 seconds; no optical-flow interpolation",
+    "photos": "locked",
+    "cards": "one entrance then hold",
+    "chapter_titles": "Fully revealed by spoken heading start"
+  }
+}

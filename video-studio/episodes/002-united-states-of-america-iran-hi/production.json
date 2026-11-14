@@ -1,0 +1,27 @@
+{
+  "episode": "002-united-states-of-america-iran-hi",
+  "language": "hi",
+  "brand": "ARSENAL 360 / शस्त्र 360",
+  "visual_base": "002-usa-iran/episode.v4.json",
+  "immutable_inputs": {
+    "inputs/script.hi.txt": {
+      "bytes": 51584,
+      "sha256": "542c3171df1027e61c750f6a21269a5f77999e251190c1ec95318323125591f3"
+    },
+    "audio/voiceover.mp3": {
+      "bytes": 17187168,
+      "sha256": "d29f1bee1d00da3cc9140935c876d498ba195c02c1f4895f279ed104816e8c72"
+    }
+  },
+  "duration": 1432.3,
+  "frames": 42969,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "scene_count": 181,
+  "voiceover_processing": "original start at 0, no speed change; AAC encode, silence pad only 0.028 sec to video frame boundary",
+  "status": "rendered and verified; no YouTube publication; final file records in output/delivery.json",
+  "chapters": "chapters.hi.txt",
+  "rights": "assets/rights-manifest.json",
+  "public_publication": "not requested; GitHub file delivery only"
+}

@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "original_narration_paragraphs": 242,
+  "hindi_narration_paragraphs": 242,
+  "timing_method": "Independent ASR exact/robust anchors followed by contextual teacher-forced word alignment; script text is original uploaded Hindi and is not rewritten",
+  "visual_base": "Approved original episode.v4.json, 172 scenes; retimed at corresponding 242 paragraph anchors",
+  "new_scene_count": 181,
+  "scene_kinds": {
+    "archive": 35,
+    "turntable": 18,
+    "photo": 88,
+    "compare": 19,
+    "ident": 2,
+    "section": 10,
+    "graphic": 7,
+    "question": 1,
+    "outro": 1
+  },
+  "chapter_cues": "Nine spoken category headings use their actual contextual word onsets. Intro written heading not narrated; summary written heading not narrated, therefore conclusion uses actual first summary phrase. Ten cards fully visible by respective cue.",
+  "quality_changes": [
+    "Native 24-second rotation banks replace interpolated old renders",
+    "Coarse Abrams and Shahed-136 illustrative meshes replaced with licensed real equipment cutouts",
+    "Old Ukrainian ident replaced with separate Hindi brand plate",
+    "All visible editorial text translated; exact technical codes preserved; source notices retained",
+    "Wide flag plate and unobtrusive source credit retained",
+    "All archive scenes fit moving source length at normal speed; no exhausted-source tpad or loop"
+  ],
+  "scope": "242 paragraph correspondence and inherited exact-model asset choices checked; all storyboard sheets reviewed. These checks are distinct from a complete real-time human watch/listen or a new fact verification of user narration.",
+  "new_ai_photo_or_video_seconds": 0,
+  "original_episode_modified": false,
+  "youtube_published": false,
+  "new_voice_created": false
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "title": "वायु सेना",
+    "spoken_heading": true,
+    "cue_time": 104.61999999999999,
+    "median_probability": 0.715028389543295,
+    "window": [
+      98.47999999999999,
+      111.30222222222223
+    ],
+    "heading_word_times": [
+      104.61999999999999,
+      105.32
+    ]
+  },
+  {
+    "title": "टैंक और बख़्तरबंद वाहन",
+    "spoken_heading": true,
+    "cue_time": 331.84,
+    "median_probability": 0.7622535362839699,
+    "window": [
+      327.9,
+      340.0057142857143
+    ],
+    "heading_word_times": [
+      331.84,
+      332.53999999999996,
+      332.76,
+      333.44
+    ]
+  },
+  {
+    "title": "मिसाइल हथियार",
+    "spoken_heading": true,
+    "cue_time": 483.33,
+    "median_probability": 0.766903140892585,
+    "window": [
+      478.19,
+      493.23
+    ],
+    "heading_word_times": [
+      483.33,
+      484.05
+    ]
+  },
+  {
+    "title": "पैदल सेना के हथियार",
+    "spoken_heading": true,
+    "cue_time": 676.2166666666667,
+    "median_probability": 0.8309805520943233,
+    "window": [
+      670.2166666666667,
+      684.0166666666667
+    ],
+    "heading_word_times": [
+      676.2166666666667,
+      676.8766666666667,
+      677.2166666666667,
+      677.3566666666667
+    ]
+  },
+  {
+    "title": "तोपखाना",
+    "spoken_heading": true,
+    "cue_time": 733.85,
+    "median_probability": 0.7422192998230457,
+    "window": [
+      730.61,
+      742.35
+    ],
+    "heading_word_times": [
+      733.85
+    ]
+  },
+  {
+    "title": "ड्रोन",
+    "spoken_heading": true,
+    "cue_time": 826.2784353741497,
+    "median_probability": 0.7486400008201599,
+    "window": [
+      819.6784353741497,
+      836.0127210884353
+    ],
+    "heading_word_times": [
+      826.2784353741497
+    ]
+  },
+  {
+    "title": "वायु रक्षा",
+    "spoken_heading": true,
+    "cue_time": 943.1828767123288,
+    "median_probability": 0.7807798663775126,
+    "window": [
+      934.8628767123288,
+      950.8066666666667
+    ],
+    "heading_word_times": [
+      943.1828767123288,
+      944.0828767123288
+    ]
+  },
+  {
+    "title": "हेलीकॉप्टर",
+    "spoken_heading": true,
+    "cue_time": 1057.4117142857142,
+    "median_probability": 0.7364934235811234,
+    "window": [
+      1049.8117142857143,
+      1065.8465714285715
+    ],
+    "heading_word_times": [
+      1057.4117142857142
+    ]
+  },
+  {
+    "title": "नौसेना",
+    "spoken_heading": true,
+    "cue_time": 1138.3214285714287,
+    "median_probability": 0.7114027043183645,
+    "window": [
+      1128.8014285714287,
+      1144.0700000000002
+    ],
+    "heading_word_times": [
+      1138.3214285714287
+    ]
+  },
+  {
+    "title": "निष्कर्ष। किसका सैन्य शस्त्रागार ज़्यादा ताकतवर है?",
+    "spoken_heading": false,
+    "cue_time": 1295.6729268292681,
+    "median_probability": 0.8316118270158768,
+    "window": [
+      1292.5729268292682,
+      1297.93
+    ],
+    "heading_word_times": []
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "strings_per_weight": 1011,
+  "weights": [
+    "Regular",
+    "Bold"
+  ],
+  "missing_characters": [],
+  "raqm_available": true,
+  "font": "Merged Noto Sans Devanagari / Noto Sans; Latin-only uses DejaVu Sans Condensed"
+}

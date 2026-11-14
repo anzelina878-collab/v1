@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "reviewed": [
+    "All eight planning storyboard sheets, covering every planned scene",
+    "All eight contact sheets extracted from the assembled final MP4, covering all 181 scenes",
+    "16 encoded pilot frames spanning the first 90 seconds",
+    "Native model pose contact sheet and enlarged F-22 proof; crude Abrams/Shahed meshes excluded from final"
+  ],
+  "checks": [
+    "Hindi shaping and complete readable chapter titles",
+    "Correct flags, technical names and unobtrusive credits",
+    "Consistent approved light studio layout, real cutouts and real documentary footage",
+    "No unintended placeholder or black asset frame in inspected controls",
+    "End question and separate Hindi brand plate"
+  ],
+  "scope": "Discrete visual review and automated encoded controls; no continuous human real-time watch/listen of 23:52 film",
+  "continuous_human_watch_and_listen": false
+}

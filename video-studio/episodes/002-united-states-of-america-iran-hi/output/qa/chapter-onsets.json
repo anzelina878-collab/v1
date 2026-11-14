@@ -1,0 +1,76 @@
+{
+  "status": "passed",
+  "method": "At each audio cue, decoded final movie title region compared to fully revealed intended title plate; cue from contextual forced word alignment. Summary written heading not spoken, so cue is first actual summary phrase.",
+  "chapters": [
+    {
+      "title": "वायु सेना",
+      "spoken_start": 104.63333333333334,
+      "card_start": 103.93333333333334,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3203703703703704
+    },
+    {
+      "title": "टैंक और बख़्तरबंद वाहन",
+      "spoken_start": 331.8333333333333,
+      "card_start": 331.1333333333333,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3063456790123458
+    },
+    {
+      "title": "मिसाइल हथियार",
+      "spoken_start": 483.3333333333333,
+      "card_start": 482.6333333333333,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3169876543209877
+    },
+    {
+      "title": "पैदल सेना के हथियार",
+      "spoken_start": 676.2,
+      "card_start": 675.5,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3104444444444445
+    },
+    {
+      "title": "तोपखाना",
+      "spoken_start": 733.8666666666667,
+      "card_start": 733.1666666666666,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.317753086419753
+    },
+    {
+      "title": "ड्रोन",
+      "spoken_start": 826.2666666666667,
+      "card_start": 825.5666666666667,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3331851851851853
+    },
+    {
+      "title": "वायु रक्षा",
+      "spoken_start": 943.1666666666666,
+      "card_start": 942.4666666666667,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3253086419753086
+    },
+    {
+      "title": "हेलीकॉप्टर",
+      "spoken_start": 1057.4,
+      "card_start": 1056.7,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3452592592592592
+    },
+    {
+      "title": "नौसेना",
+      "spoken_start": 1138.3333333333333,
+      "card_start": 1137.6333333333334,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3217283950617285
+    },
+    {
+      "title": "निष्कर्ष",
+      "spoken_start": 1295.6666666666667,
+      "card_start": 1294.9666666666667,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3219506172839506
+    }
+  ]
+}

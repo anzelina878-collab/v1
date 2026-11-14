@@ -1,0 +1,5 @@
+Pillow>=10.0,<13
+numpy>=1.24,<3
+# Pillow must have libraqm/HarfBuzz support for Devanagari shaping.
+# FFmpeg and ffprobe must be available on PATH.
+# Optional regeneration only: moderngl, glcontext; optional alignment: faster-whisper.

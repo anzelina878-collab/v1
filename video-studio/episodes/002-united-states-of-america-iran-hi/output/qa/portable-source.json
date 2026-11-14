@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "source_zip_crc": "passed",
+  "fresh_unpack": "All zip entry bytes SHA-256 checked against production sources; immutable media materialized via identical hardlinks to save disk, no symlinks; all code/config copied to fresh paths",
+  "build_episode_byte_identical": true,
+  "original_input_hashes": "passed",
+  "sample_kinds": [
+    "archive",
+    "turntable",
+    "photo",
+    "compare",
+    "ident",
+    "section",
+    "graphic",
+    "question",
+    "outro",
+    "compare-cutout",
+    "archive-iran"
+  ],
+  "sample_dimensions": [
+    1920,
+    1080
+  ],
+  "sample_fps": 30,
+  "sample_frames": 495,
+  "sample_full_decode": "passed",
+  "sample_sha256": "d1a303746182a255e63dd613096cfdb24daccfef7ff0ab3a5929d60333e9e451",
+  "production_renderer_sha256": "d78c46142c89bd376574f20b8fb7d8ef2be9eb799196e745190fa4eccc8ae40b",
+  "production_episode_sha256": "0711096b43687b23cf6715a3abeab9e7e364a37cff83678f9227e65b5cc97837",
+  "scope": "Fresh reconstructed runtime renders all nine scene kinds plus native/cutout comparison and Iranian documentary media. Completed reports added to final ZIP without changing production code/media."
+}
