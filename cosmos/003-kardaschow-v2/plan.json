@@ -3473,30 +3473,6 @@
       ]
     },
     {
-      "key": "wise_field",
-      "path": "assets/wise_field.mp4",
-      "media": "video",
-      "kind": "observation",
-      "duration": 14.0,
-      "width": 1920,
-      "height": 1080,
-      "url": "https://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE%20End%20of%20Mission%20Media%20Reel/JPL-20240808-NEOWISf-0001-NEOWISE%20End%20of%20Mission%20Media%20Reel~large.mp4",
-      "source_in": 163,
-      "credit": "NASA/JPL-Caltech/UCLA",
-      "page": "https://images.nasa.gov/details/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel",
-      "license": "NASA media guidelines / public domain where applicable",
-      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "screen_credit": "NASA / JPL-Caltech",
-      "allowed": [
-        [
-          0.2,
-          13.7
-        ]
-      ],
-      "max_uses": 2,
-      "provenance_note": "Selected clean excerpt from official NASA resource reel; scientific animations are illustrations, not authentic alien technology."
-    },
-    {
       "key": "wise_orbit",
       "path": "assets/wise_orbit.mp4",
       "media": "video",
@@ -3923,17 +3899,17 @@
     },
     {
       "id": "029",
-      "asset": "wise_field",
-      "in": 0.2,
+      "asset": "deep_field",
+      "in": 55.0,
       "start_frame": 3620,
       "frames": 210,
       "rate": 1,
       "zoom": 1,
       "fade_in": 0,
       "fade_out": 0,
-      "credit": "NASA / JPL-Caltech",
+      "credit": "NASA / STScI",
       "labels": [],
-      "render_key": "7ad28a2dbd81e7e187ef"
+      "render_key": "25af4ded62f8ebd925a1"
     },
     {
       "id": "030",
