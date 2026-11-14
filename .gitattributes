@@ -41,3 +41,5 @@ video-studio/episodes/008-japan-china/output/final_video_v1.mp4 filter=lfs diff=
 video-studio/episodes/008-japan-china/output/project_source_v1.zip filter=lfs diff=lfs merge=lfs -text
 video-studio/episodes/001-usa-china-hi/output/final_video_hi_v1.mp4 filter=lfs diff=lfs merge=lfs -text
 video-studio/episodes/001-usa-china-hi/output/project_source_hi_v1.zip filter=lfs diff=lfs merge=lfs -text
+video-studio/episodes/002-united-states-of-america-iran-hi/output/final_video_hi_v1.mp4 filter=lfs diff=lfs merge=lfs -text
+video-studio/episodes/002-united-states-of-america-iran-hi/output/project_source_hi_v1.zip filter=lfs diff=lfs merge=lfs -text

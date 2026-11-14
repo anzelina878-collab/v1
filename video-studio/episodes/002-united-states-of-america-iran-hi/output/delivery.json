@@ -1,0 +1,39 @@
+{
+  "episode": "002-united-states-of-america-iran-hi",
+  "title": "संयुक्त राज्य अमेरिका बनाम ईरान: सैन्य शस्त्रागार की पूरी तुलना",
+  "brand": "ARSENAL 360 / शस्त्र 360",
+  "language": "hi",
+  "duration": 1432.3,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 42969,
+  "source_commit": "726cc71c445e4c23e0164a688dae0bfe9d87ccf8",
+  "files": [
+    {
+      "name": "final_video_hi_v1.mp4",
+      "sha256": "72096bd8fffb4dbe2ac9053e7db3d05d4a8b76ee6018dc1d082076477092ddcc",
+      "bytes": 160371812,
+      "path": "video-studio/episodes/002-united-states-of-america-iran-hi/output/final_video_hi_v1.mp4"
+    },
+    {
+      "name": "project_source_hi_v1.zip",
+      "sha256": "7f5d8bbfb64aa84aa3b5b6ce8f1c0f25bd05f067c0f60ee421aab769326a7ca7",
+      "bytes": 246956476,
+      "path": "video-studio/episodes/002-united-states-of-america-iran-hi/output/project_source_hi_v1.zip"
+    }
+  ],
+  "verification": {
+    "full_video_and_audio_decode": "passed",
+    "audio_waveform_correlation_zero_lag": 0.9999076998422466,
+    "hindi_scene_count": 181,
+    "static_photos_and_settled_cards": "passed",
+    "native_24_second_360_banks": "passed",
+    "chapter_titles_at_audio_onset": "passed",
+    "moving_archive_ends": "passed",
+    "portable_source_runtime": "passed all nine scene kinds, native/cutout comparison and Iranian documentary media",
+    "exact_original_user_input_hashes": "passed",
+    "public_download_integrity_required_before_main_update": true,
+    "continuous_human_watch_and_listen": "not performed; discrete semantic, source, storyboard, encoded-control and technical checks recorded in project"
+  }
+}
