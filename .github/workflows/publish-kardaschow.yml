@@ -1,0 +1,49 @@
+name: Publish complete KOSMION Kardaschow film
+on:
+  push:
+    branches: [cosmos-universum-v2]
+    paths: [.github/workflows/publish-kardaschow.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and verify completed full movie
+        env:
+          FILM_URL: "https://filebin.net/fa6e12ae7d483960d2ac2f11978c0197/Kardaschow_KOSMION_1080p.mp4"
+          FILM_BYTES: "1294259478"
+          FILM_SHA256: "afe18ffdf6ba9626c0f8e2177b3f9e8893c5f67b68d5cde600337483b5f60d4d"
+        run: |
+          python3 - <<'PYCODE'
+          import urllib.request,http.cookiejar,pathlib,hashlib,os
+          jar=http.cookiejar.CookieJar();op=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar));url=os.environ['FILM_URL']
+          with op.open(urllib.request.Request(url,headers={'Range':'bytes=0-31'}),timeout=90) as response:response.read(64)
+          dest=pathlib.Path('Kardaschow_KOSMION_1080p.mp4');h=hashlib.sha256()
+          with op.open(url,timeout=240) as response,open(dest,'wb') as output:
+              while data:=response.read(1024*1024):output.write(data);h.update(data)
+          assert dest.stat().st_size==int(os.environ['FILM_BYTES'])
+          assert h.hexdigest()==os.environ['FILM_SHA256']
+          print('Complete final movie transfer verified:',dest.stat().st_size,h.hexdigest())
+          PYCODE
+      - name: Publish one finished MP4
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          cat > release-notes.md <<'NOTES'
+          Wir sind nicht einmal eine Typ-1-Zivilisation
+
+          Vollständige deutsche Dokumentation: 35:39, 1920 × 1080, 25 Bilder pro Sekunde, H.264 und AAC.
+
+          Ein fertiger MP4-Film mit der gelieferten Erzählstimme, realen Archivaufnahmen, räumlichen wissenschaftlichen Erklärungen und sparsamer Typografie. Kleine Bildnachweise stehen direkt in den ausgewählten Archivaufnahmen.
+
+          Quellen und Lizenzen: [SOURCES.md](https://github.com/anzelina878-collab/v1/blob/cosmos-003-kardaschow/cosmos/003-kardaschow/SOURCES.md).
+          Qualitätsprüfung: [QUALITY_REPORT.md](https://github.com/anzelina878-collab/v1/blob/cosmos-003-kardaschow/cosmos/003-kardaschow/QUALITY_REPORT.md).
+          Stockmaterial nach Pexels-Lizenz; einzelne Archivbilder, ESO-Aufnahmen und Texturen unter den in SOURCES.md aufgeführten Lizenzen. Bearbeitung durch Auswahl, Ausschnitt, Skalierung und Montage. Einzelne Urheber stehen in den Bildnachweisen.
+          NOTES
+          gh release create cosmos-003-kardaschow --target "${{ github.sha }}" --title "KOSMION · Wir sind nicht einmal Typ 1 · 1080p" --notes-file release-notes.md
+          gh release upload cosmos-003-kardaschow Kardaschow_KOSMION_1080p.mp4 --clobber
