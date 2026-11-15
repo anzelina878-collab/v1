@@ -15,7 +15,7 @@ jobs:
       fail-fast: false
       max-parallel: 5
       matrix:
-        scene: [voyager_close, voyager_wide, voyager_side, parker_close, star_close, star_wide, star_side, hills_close, hills_wide, hills_above]
+        scene: [voyager_close, voyager_wide, voyager_side, parker_close, star_close, star_wide, star_side, hills_close, hills_wide, hills_above, star_limb, star_depart, star_profile, star_hot]
     steps:
       - uses: actions/checkout@v4
       - name: Install render tools
@@ -27,7 +27,6 @@ jobs:
         run: |
           cd cosmos/004-milchstrasse
           python3 bootstrap.py
-          python3 calculate_hills.py
           xvfb-run -a blender -b -t 2 -P make3d.py -- ${{ matrix.scene }} > scene-render.log 2>&1
           ffmpeg -y -v warning -framerate 12 -i 3d/${{ matrix.scene }}/frame-%04d.jpg -vf framerate=fps=25 -t 24 -an -c:v libx264 -preset veryfast -crf 18 -threads 2 -filter_threads 2 -pix_fmt yuv420p ${{ matrix.scene }}.mp4
           ffmpeg -y -v error -ss 8 -i ${{ matrix.scene }}.mp4 -frames:v 1 pilot.jpg
