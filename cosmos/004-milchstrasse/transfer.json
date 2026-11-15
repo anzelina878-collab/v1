@@ -1,5 +1,10 @@
 {
   "source_url": "https://filebin.net/43c1af83e75c5d5825a1cb4f27be3ce2/visual_sources.zip",
   "source_sha256": "fadd5d16deb60295872c6babd85bd48c394298e3a67d632b9bc1d5b10bcb3a1a",
-  "picture_base": "https://filebin.net/2b1a7e4b98f2559f4828b5a496ebd4ac"
+  "picture_base": "https://filebin.net/2b1a7e4b98f2559f4828b5a496ebd4ac",
+  "picture_names": {
+    "0": "picture_00_final.mp4",
+    "1": "picture_01_final.mp4",
+    "3": "picture_03_final.mp4"
+  }
 }
