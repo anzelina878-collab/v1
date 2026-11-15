@@ -9,7 +9,7 @@ except:s.render.engine='BLENDER_EEVEE'
 s.eevee.taa_render_samples=24
 s.render.resolution_x=1920;s.render.resolution_y=1080;s.render.resolution_percentage=50 if pilot else 100;s.render.fps=12;s.frame_start=1;s.frame_end=289;s.render.image_settings.file_format='JPEG';s.render.image_settings.quality=96
 s.world=bpy.data.worlds.new('Space');s.world.use_nodes=True;s.world.node_tree.nodes['Background'].inputs[0].default_value=(.003,.004,.008,1);s.world.node_tree.nodes['Background'].inputs[1].default_value=.13;s.view_settings.view_transform='AgX'
-s.use_nodes=True;n=s.node_tree.nodes;n.clear();l=s.node_tree.links;rl=n.new('CompositorNodeRLayers');g=n.new('CompositorNodeGlare');g.glare_type='FOG_GLOW';g.quality='HIGH';g.threshold=2.2;g.size=7;l.new(rl.outputs['Image'],g.inputs['Image']);o=n.new('CompositorNodeComposite');l.new(g.outputs['Image'],o.inputs[0]);random.seed(94)
+s.use_nodes=True;n=s.node_tree.nodes;n.clear();l=s.node_tree.links;rl=n.new('CompositorNodeRLayers');g=n.new('CompositorNodeGlare');g.glare_type='FOG_GLOW';g.quality='HIGH';g.threshold=1.1;g.size=7;l.new(rl.outputs['Image'],g.inputs['Image']);o=n.new('CompositorNodeComposite');l.new(g.outputs['Image'],o.inputs[0]);random.seed(94)
 def em(name,c,p=1):
  m=bpy.data.materials.new(name);m.use_nodes=True;n=m.node_tree.nodes;n.clear();e=n.new('ShaderNodeEmission');e.inputs[0].default_value=(*c,1);e.inputs[1].default_value=p;o=n.new('ShaderNodeOutputMaterial');m.node_tree.links.new(e.outputs[0],o.inputs[0]);return m
 white=em('Cool stellar light',(.65,.79,1),3);warm=em('Warm stellar light',(1,.66,.33),3);line=em('Soft orbital guide',(.28,.43,.55),.65)
@@ -18,7 +18,7 @@ def sphere(name,loc,r,mat):
  for p in o.data.polygons:p.use_smooth=True
  return o
 def star_material(name,c):
- m=bpy.data.materials.new(name);m.use_nodes=True;n=m.node_tree.nodes;n.clear();l=m.node_tree.links;o=n.new('ShaderNodeOutputMaterial');e=n.new('ShaderNodeEmission');e.inputs[1].default_value=3.2;t=n.new('ShaderNodeTexNoise');t.inputs['Scale'].default_value=19;t.inputs['Detail'].default_value=5;r=n.new('ShaderNodeValToRGB');r.color_ramp.elements[0].position=.17;r.color_ramp.elements[0].color=(*[v*.16 for v in c],1);r.color_ramp.elements[1].position=.85;r.color_ramp.elements[1].color=(*c,1);l.new(t.outputs['Fac'],r.inputs[0]);l.new(r.outputs[0],e.inputs[0]);l.new(e.outputs[0],o.inputs[0]);return m
+ m=bpy.data.materials.new(name);m.use_nodes=True;n=m.node_tree.nodes;n.clear();l=m.node_tree.links;o=n.new('ShaderNodeOutputMaterial');e=n.new('ShaderNodeEmission');e.inputs[1].default_value=7.5;t=n.new('ShaderNodeTexNoise');t.inputs['Scale'].default_value=19;t.inputs['Detail'].default_value=5;r=n.new('ShaderNodeValToRGB');r.color_ramp.elements[0].position=.17;r.color_ramp.elements[0].color=(*[v*.16 for v in c],1);r.color_ramp.elements[1].position=.85;r.color_ramp.elements[1].color=(*c,1);l.new(t.outputs['Fac'],r.inputs[0]);l.new(r.outputs[0],e.inputs[0]);l.new(e.outputs[0],o.inputs[0]);return m
 starmat=star_material('Photosphere granulation',(1,.64,.25));bluestar=star_material('Hot stellar photosphere',(.55,.76,1))
 def curve(name,pts,r,mat):
  c=bpy.data.curves.new(name,'CURVE');c.dimensions='3D';c.bevel_depth=r;c.bevel_resolution=2;p=c.splines.new('POLY');p.points.add(len(pts)-1)
@@ -40,12 +40,17 @@ def camera(start,end,target=(0,0,0),lens=55):
 def light(loc,power,color=(1,.84,.65),size=5):
  bpy.ops.object.light_add(type='AREA',location=loc);o=bpy.context.object;o.data.energy=power;o.data.color=color;o.data.shape='DISK';o.data.size=size;o.rotation_euler=(-o.location).to_track_quat('-Z','Y').to_euler()
 def galaxy():
- pts=[];bulge=[]
- for i in range(8500):
-  r=random.uniform(.6,12);a=(i%4)*math.pi/2+math.log(r+.2)*2.4+random.gauss(0,.15);pts.append((r*math.cos(a),r*math.sin(a),random.gauss(0,.14)))
- for i in range(1400):
-  v=Vector((random.gauss(0,1.1),random.gauss(0,1.1),random.gauss(0,.45)));bulge.append(v)
- points('Spiral arms',pts,.015,white);points('Central stellar bulge',bulge,.018,warm)
+ # Layered spatial illustration derived from NASA's unlabelled Milky Way artist concept.
+ # Texture carries fine dust structure, while separated planes and central stellar light add depth.
+ image=bpy.data.images.load(str(R/'models/galaxy-concept.png'))
+ m=bpy.data.materials.new('NASA galactic stellar disk');m.use_nodes=True
+ try:m.surface_render_method='DITHERED'
+ except:m.blend_method='HASHED'
+ n=m.node_tree.nodes;n.clear();l=m.node_tree.links;o=n.new('ShaderNodeOutputMaterial');tex=n.new('ShaderNodeTexImage');tex.image=image;emission=n.new('ShaderNodeEmission');emission.inputs[1].default_value=1.5;l.new(tex.outputs['Color'],emission.inputs[0]);bw=n.new('ShaderNodeRGBToBW');l.new(tex.outputs['Color'],bw.inputs[0]);threshold=n.new('ShaderNodeMath');threshold.operation='GREATER_THAN';threshold.inputs[1].default_value=.008;l.new(bw.outputs[0],threshold.inputs[0]);opacity=n.new('ShaderNodeMath');opacity.operation='MULTIPLY';opacity.inputs[1].default_value=.15;l.new(threshold.outputs[0],opacity.inputs[0]);mix=n.new('ShaderNodeMixShader');transparent=n.new('ShaderNodeBsdfTransparent');l.new(opacity.outputs[0],mix.inputs[0]);l.new(transparent.outputs[0],mix.inputs[1]);l.new(emission.outputs[0],mix.inputs[2]);l.new(mix.outputs[0],o.inputs[0])
+ for j in range(13):
+  bpy.ops.mesh.primitive_plane_add(size=24,location=(0,0,(j-6)*.035));o=bpy.context.object;o.name='Stellar disk depth layer';o.scale=(1-abs(j-6)*.004,1-abs(j-6)*.004,1);o.data.materials.append(m)
+ sphere('Central stellar light',(0,0,0),.15,em('Warm central starlight',(1,.62,.33),2))
+
 def animate_path(obj,pts):
  for i,p in enumerate(pts):obj.location=p;obj.keyframe_insert('location',frame=1+i*288/(len(pts)-1))
 if mode.startswith('voyager') or mode.startswith('parker'):
@@ -60,9 +65,13 @@ if mode.startswith('voyager') or mode.startswith('parker'):
  else:camera((-9,-13,5),(-12,-7,7),lens=63)
  if model=='parker':sphere('Sun',(-13,9,0),6,starmat);camera((10,-18,7),(12,-16,5),(-3,1,0),48)
 elif mode.startswith('star'):
- o=sphere('Escaping star',(0,0,0),1.7,bluestar)
+ o=sphere('Escaping star',(0,0,0),.95 if mode=='star_hot' else 1.7,bluestar)
  if mode=='star_close':camera((4,-6,1),(3,-5,1.8),lens=63)
  elif mode=='star_wide':camera((8,-14,5),(12,-18,7),lens=55)
+ elif mode=='star_limb':camera((3.8,-4.5,.2),(3,-4,.8),lens=70)
+ elif mode=='star_depart':camera((9,-24,0),(10,-30,1),lens=55)
+ elif mode=='star_profile':camera((-7,-8,.2),(-4,-6,2),lens=55)
+ elif mode=='star_hot':camera((3,-6,1),(5,-7,2),lens=65)
  else:camera((-5,-8,2),(6,-9,3),lens=55)
  o.keyframe_insert('rotation_euler',frame=1);o.rotation_euler[2]=.25;o.keyframe_insert('rotation_euler',frame=289)
 elif mode.startswith('galaxy') or mode.startswith('escape') or mode=='halo' or mode=='fountain' or mode=='magnetic':
