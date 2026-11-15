@@ -17,17 +17,12 @@ def download(url,dest):
    if attempt==3:raise
    time.sleep(3*(attempt+1))
 def prepare(plan,shots):
- assets={a['key']:a for a in plan['assets']};needed={s['asset'] for s in shots};(R/'assets').mkdir(exist_ok=True);(R/'logs').mkdir(exist_ok=True);stage=json.load(open(R/'transfer.json'))
- # This bundle contains fonts and public archival/illustration sources only.
- if not (R/'fonts/Lato-Bold.ttf').exists():
-  jar=http.cookiejar.CookieJar();op=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar));url=stage['source_url']
-  with op.open(urllib.request.Request(url,headers={'Range':'bytes=0-31'}),timeout=90) as f:f.read(64)
-  dest=R/'visual_sources.zip'
-  with op.open(url,timeout=180) as source,open(dest,'wb') as out:
-   while b:=source.read(1024*1024):out.write(b)
-  assert hashlib.sha256(dest.read_bytes()).hexdigest()==stage['source_sha256']
-  with zipfile.ZipFile(dest) as z:z.extractall(R)
-  dest.unlink();print('Public visual sources verified.',flush=True)
+ assets={a['key']:a for a in plan['assets']};needed={s['asset'] for s in shots};(R/'assets').mkdir(exist_ok=True);(R/'logs').mkdir(exist_ok=True);
+ # Source media is fetched from its original public publisher; no anonymous bundle links.
+ (R/'fonts').mkdir(exist_ok=True)
+ for name in ['Lato-Regular.ttf','Lato-Bold.ttf']:
+  dest=R/'fonts'/name
+  if not dest.exists():download('https://raw.githubusercontent.com/google/fonts/main/ofl/lato/'+name,dest)
  repo=os.environ.get('GH_REPO','anzelina878-collab/v1')
  def ensure(k):
   a=assets[k];dest=R/a['path']
@@ -105,7 +100,5 @@ def render(plan,shots,assets,output,jobs):
  command(['ffmpeg','-v','error','-threads','2','-i',str(output),'-f','null','-'],logs/(output.stem+'-decode.log'));assert not (logs/(output.stem+'-decode.log')).read_text().strip();output.with_suffix('.verification.json').write_text(json.dumps(p,indent=2));print('VERIFIED',output.name,p['format']['duration'],output.stat().st_size,flush=True)
 
 def main():
- ap=argparse.ArgumentParser();ap.add_argument('--part',type=int,required=True);ap.add_argument('--prepare',action='store_true');ap.add_argument('--upload',action='store_true');ap.add_argument('--jobs',type=int,default=2);a=ap.parse_args();p=json.load(open(R/'plan.json'));spec=p['parts'][a.part];shots=p['shots'][spec['first']:spec['last']];assets=prepare(p,shots) if a.prepare else {x['key']:x for x in p['assets']};output=R/f'picture_{a.part:02}.mp4';render(p,shots,assets,output,a.jobs)
- if a.upload:
-  stage=json.load(open(R/'transfer.json'));response=output.with_suffix('.upload.json');command(['curl','--fail-with-body','--retry','3','-X','POST','-H','Content-Type: video/mp4','--data-binary','@'+str(output),stage['picture_base']+'/'+stage.get('picture_names',{}).get(str(a.part),output.name),'-o',str(response)],R/'logs'/('upload-'+output.stem+'.log'));d=json.load(open(response));assert d['file']['bytes']==output.stat().st_size;print('TRANSFERRED',output.name,d['file']['sha256'],flush=True)
+ ap=argparse.ArgumentParser();ap.add_argument('--part',type=int,required=True);ap.add_argument('--prepare',action='store_true');ap.add_argument('--jobs',type=int,default=2);a=ap.parse_args();p=json.load(open(R/'plan.json'));spec=p['parts'][a.part];shots=p['shots'][spec['first']:spec['last']];assets=prepare(p,shots) if a.prepare else {x['key']:x for x in p['assets']};output=R/f'picture_{a.part:02}.mp4';render(p,shots,assets,output,a.jobs)
 if __name__=='__main__':main()
