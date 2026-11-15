@@ -1,9 +1,9 @@
 # KOSMION · Milchstraße
 
-German documentary: Warum wir die Milchstraße nicht verlassen können.
+Warum wir die Milchstraße nicht verlassen können
 
-Production in progress. The deliverable is one complete Full HD MP4 with the supplied narration. Internal silent picture renders are implementation files, not separate deliverables.
+[Download the complete documentary — 32:40 · Full HD MP4](https://github.com/anzelina878-collab/v1/releases/download/cosmos-004-milchstrasse/Milchstrasse_KOSMION_1080p.mp4)
 
-Public files contain visual assembly code, scientific illustration data, source attribution and the picture edit. Supplied narration audio, narration text and speech alignment are kept private.
+One complete German documentary with the supplied narration, scientific spatial visualizations, selected archive and observations, and sparse German typography.
 
-See SOURCES.md for source media, attribution, licenses and selected source ranges.
+See [SOURCES.md](SOURCES.md) for source attribution and selected ranges, and [QUALITY_REPORT.md](QUALITY_REPORT.md) for the final checks. Raw narration, script and speech alignment remain private.
