@@ -19,8 +19,11 @@ jobs:
           python3 - <<'PYCODE'
           import urllib.request,http.cookiejar,pathlib,hashlib,os,json
           cfg=json.loads(os.environ['COMPLETED_MOVIE']);dest=pathlib.Path(cfg['filename']);jar=http.cookiejar.CookieJar();op=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar));h=hashlib.sha256();count=0
-          with op.open(urllib.request.Request(cfg['url'],headers={'Range':'bytes=0-31'}),timeout=90) as response:
-              header=response.read(32);assert header[4:8]==b'ftyp'
+          for attempt in range(3):
+              with op.open(urllib.request.Request(cfg['url'],headers={'Range':'bytes=0-31'}),timeout=90) as response:
+                  header=response.read(32)
+              if header[4:8]==b'ftyp':break
+          assert header[4:8]==b'ftyp'
           with op.open(cfg['url'],timeout=600) as response,open(dest,'wb') as output:
               while data:=response.read(1024*1024):output.write(data);h.update(data);count+=len(data)
           assert count==cfg['bytes']==dest.stat().st_size;assert h.hexdigest()==cfg['sha256']
