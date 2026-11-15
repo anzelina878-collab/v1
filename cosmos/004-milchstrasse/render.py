@@ -35,12 +35,22 @@ def prepare(plan,shots):
   if a['kind']=='original3d':
    location=plan['scene_sources'][a['scene']];found=None
    for attempt in range(420):
-    data=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/actions/runs/{location["run"]}/artifacts']));found=next((x for x in data['artifacts'] if x['name']==location['name']),None)
+    
+    try:data=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/actions/runs/{location["run"]}/artifacts']));found=next((x for x in data['artifacts'] if x['name']==location['name']),None)
+    except subprocess.CalledProcessError:
+     time.sleep(min(20,2+attempt));continue
     if found:break
     time.sleep(10)
    if not found:raise RuntimeError('Missing 3D scene '+k)
    archive=R/(k+'.zip')
-   with open(archive,'wb') as f:subprocess.run(['gh','api',f'repos/{repo}/actions/artifacts/{found["id"]}/zip'],stdout=f,check=True)
+   for retry in range(5):
+    try:
+     with open(archive,'wb') as f:subprocess.run(['gh','api',f'repos/{repo}/actions/artifacts/{found["id"]}/zip'],stdout=f,check=True)
+     if found.get('digest'):assert 'sha256:'+hashlib.sha256(archive.read_bytes()).hexdigest()==found['digest']
+     break
+    except (subprocess.CalledProcessError,AssertionError):
+     if retry==4:raise
+     time.sleep(3*(retry+1))
    folder=R/k
    with zipfile.ZipFile(archive) as z:z.extractall(folder)
    candidate=next(folder.rglob(a['scene']+'.mp4'),None)
