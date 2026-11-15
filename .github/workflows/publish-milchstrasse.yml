@@ -1,0 +1,45 @@
+name: Publish one complete KOSMION Milky Way documentary
+on:
+  push:
+    branches: [cosmos-004-milchstrasse]
+    paths: [.github/workflows/publish-milchstrasse.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Retrieve the verified complete final movie
+        env:
+          COMPLETED_MOVIE: '{"url":"https://filebin.net/572480ae509902c5526b10f5f8a37d9f/Milchstrasse_KOSMION_1080p.mp4","filename":"Milchstrasse_KOSMION_1080p.mp4","bytes":822025961,"sha256":"72af94157ef04f589303e6fbd8a7a74a0b04c02dff6b0ccce81ea125d85bb39b","duration":1960.04}'
+        run: |
+          python3 - <<'PYCODE'
+          import urllib.request,http.cookiejar,pathlib,hashlib,os,json
+          cfg=json.loads(os.environ['COMPLETED_MOVIE']);dest=pathlib.Path(cfg['filename']);jar=http.cookiejar.CookieJar();op=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar));h=hashlib.sha256();count=0
+          with op.open(urllib.request.Request(cfg['url'],headers={'Range':'bytes=0-31'}),timeout=90) as response:
+              header=response.read(32);assert header[4:8]==b'ftyp'
+          with op.open(cfg['url'],timeout=600) as response,open(dest,'wb') as output:
+              while data:=response.read(1024*1024):output.write(data);h.update(data);count+=len(data)
+          assert count==cfg['bytes']==dest.stat().st_size;assert h.hexdigest()==cfg['sha256']
+          print('One complete final MP4 verified:',count,h.hexdigest())
+          PYCODE
+      - name: Publish one finished MP4
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          cat > release-notes.md <<'NOTES'
+          Warum wir die Milchstraße nicht verlassen können
+
+          Vollständige deutsche Dokumentation: 32:40, 1920 × 1080, 25 Bilder pro Sekunde, H.264 und AAC.
+
+          Ein vollständiger MP4-Film mit der gelieferten Erzählstimme, wissenschaftlichen dreidimensionalen Visualisierungen, ausgewählten echten Archivaufnahmen und Beobachtungen sowie sparsamer deutscher Typografie. Kleine Bildnachweise stehen direkt in den ausgewählten Archivaufnahmen.
+
+          Quellen, Urheber und Lizenzen: [SOURCES.md](https://github.com/anzelina878-collab/v1/blob/cosmos-004-milchstrasse/cosmos/004-milchstrasse/SOURCES.md).
+          Qualitätsprüfung: [QUALITY_REPORT.md](https://github.com/anzelina878-collab/v1/blob/cosmos-004-milchstrasse/cosmos/004-milchstrasse/QUALITY_REPORT.md).
+          NOTES
+          gh release create cosmos-004-milchstrasse --target "${{ github.sha }}" --title "KOSMION · Milchstraße · Vollständiger Film · 1080p" --notes-file release-notes.md
+          gh release upload cosmos-004-milchstrasse Milchstrasse_KOSMION_1080p.mp4 --clobber
