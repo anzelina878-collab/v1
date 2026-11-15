@@ -1,0 +1,42 @@
+name: Render KOSMION Milky Way spatial scenes
+on:
+  push:
+    branches: [cosmos-004-milchstrasse]
+    paths: [.github/workflows/render-milchstrasse-3d.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  scene:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 85
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        scene: [voyager_close, voyager_wide, voyager_side, parker_close, star_close, star_wide, star_side, hills_close, hills_wide, hills_above]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install render tools
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq blender ffmpeg xvfb libgl1-mesa-dri
+      - name: Render original Full HD scene
+        env:
+          LIBGL_ALWAYS_SOFTWARE: '1'
+          XDG_CACHE_HOME: /tmp/kosmion-render-cache
+        run: |
+          cd cosmos/004-milchstrasse
+          python3 bootstrap.py
+          python3 calculate_hills.py
+          xvfb-run -a blender -b -t 2 -P make3d.py -- ${{ matrix.scene }} > scene-render.log 2>&1
+          ffmpeg -y -v warning -framerate 12 -i 3d/${{ matrix.scene }}/frame-%04d.jpg -vf framerate=fps=25 -t 24 -an -c:v libx264 -preset veryfast -crf 18 -threads 2 -filter_threads 2 -pix_fmt yuv420p ${{ matrix.scene }}.mp4
+          ffmpeg -y -v error -ss 8 -i ${{ matrix.scene }}.mp4 -frames:v 1 pilot.jpg
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: milchstrasse-scene-${{ matrix.scene }}
+          path: |
+            cosmos/004-milchstrasse/${{ matrix.scene }}.mp4
+            cosmos/004-milchstrasse/pilot.jpg
+            cosmos/004-milchstrasse/scene-render.log
+          retention-days: 7
