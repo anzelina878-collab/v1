@@ -1,0 +1,3368 @@
+{
+  "schema": "arsenal.hindi-episode004.v1",
+  "title": "दक्षिण कोरिया बनाम उत्तर कोरिया 2026: किसकी सैन्य ताकत ज़्यादा है?",
+  "language": "hi",
+  "brand": "ARSENAL 360 / शस्त्र 360",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 1002.3333333333334,
+  "audio": "audio/voiceover.mp3",
+  "scenes": [
+    {
+      "start": 0.0,
+      "end": 5.133333333333334,
+      "duration": 5.133333333333334,
+      "kind": "map",
+      "asset_id": "map-globe",
+      "title": "एक प्रायद्वीप · दो देश",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-000",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-001"
+      ],
+      "narration_hi": "एक प्रायद्वीप। दो देश। और दो बिल्कुल अलग सैन्य शस्त्रागार।"
+    },
+    {
+      "start": 5.133333333333334,
+      "end": 8.5,
+      "duration": 3.3666666666666667,
+      "kind": "archive",
+      "asset_id": "kr-f35-flight",
+      "title": "F-35 · संयुक्त उड़ान, 2025",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 3,
+      "source_in": 0.0,
+      "id": "hi004-001",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-002"
+      ],
+      "narration_hi": "एक प्रायद्वीप। दो देश। और दो बिल्कुल अलग सैन्य शस्त्रागार।\nदक्षिण में F-35 लड़ाकू विमान, K2 Black Panther टैंक, K9 Thunder तोपें और आधुनिक युद्धपोत हैं।"
+    },
+    {
+      "start": 8.5,
+      "end": 10.333333333333334,
+      "duration": 1.8333333333333333,
+      "kind": "photo",
+      "asset_id": "k2",
+      "title": "K2 BLACK PANTHER",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 3,
+      "id": "hi004-002",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-003"
+      ],
+      "narration_hi": "दक्षिण में F-35 लड़ाकू विमान, K2 Black Panther टैंक, K9 Thunder तोपें और आधुनिक युद्धपोत हैं।"
+    },
+    {
+      "start": 10.333333333333334,
+      "end": 12.333333333333334,
+      "duration": 2.0,
+      "kind": "archive",
+      "asset_id": "kr-k9-archive",
+      "title": "K9 THUNDER",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 3,
+      "source_in": 2.0,
+      "id": "hi004-003",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-004"
+      ],
+      "narration_hi": "दक्षिण में F-35 लड़ाकू विमान, K2 Black Panther टैंक, K9 Thunder तोपें और आधुनिक युद्धपोत हैं।"
+    },
+    {
+      "start": 12.333333333333334,
+      "end": 14.066666666666666,
+      "duration": 1.7333333333333334,
+      "kind": "archive",
+      "asset_id": "kr-navy",
+      "title": "ROKS SEJONG THE GREAT",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 3,
+      "source_in": 7.0,
+      "id": "hi004-004",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-005"
+      ],
+      "narration_hi": "दक्षिण में F-35 लड़ाकू विमान, K2 Black Panther टैंक, K9 Thunder तोपें और आधुनिक युद्धपोत हैं।\nउत्तर में विशाल तोपखाना बल, हज़ारों बख़्तरबंद वाहन, बैलिस्टिक मिसाइलें और परमाणु हथियार हैं।"
+    },
+    {
+      "start": 14.066666666666666,
+      "end": 17.133333333333333,
+      "duration": 3.066666666666667,
+      "kind": "photo",
+      "asset_id": "koksan",
+      "title": "M1989 KOKSAN",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-005",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-006"
+      ],
+      "narration_hi": "उत्तर में विशाल तोपखाना बल, हज़ारों बख़्तरबंद वाहन, बैलिस्टिक मिसाइलें और परमाणु हथियार हैं।"
+    },
+    {
+      "start": 17.133333333333333,
+      "end": 18.666666666666668,
+      "duration": 1.5333333333333334,
+      "kind": "photo",
+      "asset_id": "m2020",
+      "title": "M2020 / CHEONMA-2",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-006",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-007"
+      ],
+      "narration_hi": "उत्तर में विशाल तोपखाना बल, हज़ारों बख़्तरबंद वाहन, बैलिस्टिक मिसाइलें और परमाणु हथियार हैं।"
+    },
+    {
+      "start": 18.666666666666668,
+      "end": 19.933333333333334,
+      "duration": 1.2666666666666666,
+      "kind": "photo",
+      "asset_id": "hwasong17",
+      "title": "HWASONG-17",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-007",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-008"
+      ],
+      "narration_hi": "उत्तर में विशाल तोपखाना बल, हज़ारों बख़्तरबंद वाहन, बैलिस्टिक मिसाइलें और परमाणु हथियार हैं।"
+    },
+    {
+      "start": 19.933333333333334,
+      "end": 21.266666666666666,
+      "duration": 1.3333333333333333,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "रणनीतिक प्रतिरोध",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "मिसाइल बल",
+        "परमाणु शस्त्रागार"
+      ],
+      "id": "hi004-008",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-009"
+      ],
+      "narration_hi": "उत्तर में विशाल तोपखाना बल, हज़ारों बख़्तरबंद वाहन, बैलिस्टिक मिसाइलें और परमाणु हथियार हैं।"
+    },
+    {
+      "start": 21.266666666666666,
+      "end": 24.4,
+      "duration": 3.1333333333333333,
+      "kind": "turntable",
+      "asset_id": "model-f16",
+      "title": "F-16 · विमान परिवार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य · उपकरण परिवार",
+      "id": "hi004-009",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-010"
+      ],
+      "source_in": 0,
+      "narration_hi": "उत्तर में विशाल तोपखाना बल, हज़ारों बख़्तरबंद वाहन, बैलिस्टिक मिसाइलें और परमाणु हथियार हैं।\nदक्षिण कोरिया उन्नत तकनीक, सटीकता और आधुनिक कमान एवं नियंत्रण प्रणालियों में निवेश करता है।"
+    },
+    {
+      "start": 24.4,
+      "end": 27.633333333333333,
+      "duration": 3.2333333333333334,
+      "kind": "photo",
+      "asset_id": "kf21",
+      "title": "KF-21 · कार्यक्रम",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-010",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-011"
+      ],
+      "narration_hi": "दक्षिण कोरिया उन्नत तकनीक, सटीकता और आधुनिक कमान एवं नियंत्रण प्रणालियों में निवेश करता है।\nउत्तर कोरिया बड़ी संख्या, मज़बूत किलेबंद ठिकानों और शक्तिशाली मिसाइल हथियारों पर भरोसा करता है।"
+    },
+    {
+      "start": 27.633333333333333,
+      "end": 30.9,
+      "duration": 3.2666666666666666,
+      "kind": "archive",
+      "asset_id": "nk-parade",
+      "title": "प्योंगयांग · परेड अभ्यास, 2011",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 3,
+      "source_in": 0.0,
+      "id": "hi004-011",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-012"
+      ],
+      "narration_hi": "उत्तर कोरिया बड़ी संख्या, मज़बूत किलेबंद ठिकानों और शक्तिशाली मिसाइल हथियारों पर भरोसा करता है।"
+    },
+    {
+      "start": 30.9,
+      "end": 34.9,
+      "duration": 4.0,
+      "kind": "photo",
+      "asset_id": "hwasong17",
+      "title": "HWASONG-17",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-012",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-013"
+      ],
+      "narration_hi": "उत्तर कोरिया बड़ी संख्या, मज़बूत किलेबंद ठिकानों और शक्तिशाली मिसाइल हथियारों पर भरोसा करता है।"
+    },
+    {
+      "start": 34.9,
+      "end": 39.233333333333334,
+      "duration": 4.333333333333333,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "संख्या और तकनीक",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "f35",
+          "दक्षिण कोरिया",
+          "KR"
+        ],
+        [
+          "mig29",
+          "उत्तर कोरिया · विमान का प्रकार",
+          "KP"
+        ]
+      ],
+      "id": "hi004-013",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-014"
+      ],
+      "narration_hi": "लेकिन क्या नई तकनीक हमेशा संख्या पर भारी पड़ती है?\nऔर वह सेना आज भी कितनी ख़तरनाक है, जिसके उपकरणों का एक बड़ा हिस्सा शीत युद्ध के दौर में विकसित हुआ था?"
+    },
+    {
+      "start": 39.233333333333334,
+      "end": 42.63333333333333,
+      "duration": 3.4,
+      "kind": "photo",
+      "asset_id": "type58",
+      "title": "TYPE 58",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-014",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-015"
+      ],
+      "narration_hi": "और वह सेना आज भी कितनी ख़तरनाक है, जिसके उपकरणों का एक बड़ा हिस्सा शीत युद्ध के दौर में विकसित हुआ था?"
+    },
+    {
+      "start": 42.63333333333333,
+      "end": 46.7,
+      "duration": 4.066666666666666,
+      "kind": "archive",
+      "asset_id": "city-pyongyang-pan",
+      "title": "प्योंगयांग · शहर के अभिलेख",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "source_in": 0.0,
+      "id": "hi004-015",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-016"
+      ],
+      "narration_hi": "और वह सेना आज भी कितनी ख़तरनाक है, जिसके उपकरणों का एक बड़ा हिस्सा शीत युद्ध के दौर में विकसित हुआ था?"
+    },
+    {
+      "start": 46.7,
+      "end": 49.03333333333333,
+      "duration": 2.3333333333333335,
+      "kind": "turntable",
+      "asset_id": "model-f16",
+      "title": "वायु सेना · F-16",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य · उपकरण परिवार",
+      "id": "hi004-016",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-017"
+      ],
+      "source_in": 0,
+      "narration_hi": "आज हम दोनों देशों के लड़ाकू विमान, टैंक, मिसाइलें, तोपखाना, ड्रोन, वायु रक्षा और नौसेना की तुलना करेंगे।"
+    },
+    {
+      "start": 49.03333333333333,
+      "end": 49.6,
+      "duration": 0.5666666666666667,
+      "kind": "photo",
+      "asset_id": "k2",
+      "title": "टैंक · K2",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-017",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-018"
+      ],
+      "narration_hi": "आज हम दोनों देशों के लड़ाकू विमान, टैंक, मिसाइलें, तोपखाना, ड्रोन, वायु रक्षा और नौसेना की तुलना करेंगे।"
+    },
+    {
+      "start": 49.6,
+      "end": 50.2,
+      "duration": 0.6,
+      "kind": "photo",
+      "asset_id": "hyunmoo",
+      "title": "मिसाइलें · HYUNMOO",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-018",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-019"
+      ],
+      "narration_hi": "आज हम दोनों देशों के लड़ाकू विमान, टैंक, मिसाइलें, तोपखाना, ड्रोन, वायु रक्षा और नौसेना की तुलना करेंगे।"
+    },
+    {
+      "start": 50.2,
+      "end": 51.2,
+      "duration": 1.0,
+      "kind": "photo",
+      "asset_id": "k9",
+      "title": "तोपखाना · K9",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-019",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-020"
+      ],
+      "narration_hi": "आज हम दोनों देशों के लड़ाकू विमान, टैंक, मिसाइलें, तोपखाना, ड्रोन, वायु रक्षा और नौसेना की तुलना करेंगे।"
+    },
+    {
+      "start": 51.2,
+      "end": 52.06666666666667,
+      "duration": 0.8666666666666667,
+      "kind": "photo",
+      "asset_id": "rq101",
+      "title": "ड्रोन · RQ-101",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-020",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-021"
+      ],
+      "narration_hi": "आज हम दोनों देशों के लड़ाकू विमान, टैंक, मिसाइलें, तोपखाना, ड्रोन, वायु रक्षा और नौसेना की तुलना करेंगे।"
+    },
+    {
+      "start": 52.06666666666667,
+      "end": 54.0,
+      "duration": 1.9333333333333333,
+      "kind": "photo",
+      "asset_id": "kmsam",
+      "title": "वायु रक्षा",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-021",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-022"
+      ],
+      "narration_hi": "आज हम दोनों देशों के लड़ाकू विमान, टैंक, मिसाइलें, तोपखाना, ड्रोन, वायु रक्षा और नौसेना की तुलना करेंगे।"
+    },
+    {
+      "start": 54.0,
+      "end": 55.93333333333333,
+      "duration": 1.9333333333333333,
+      "kind": "photo",
+      "asset_id": "sejong",
+      "title": "नौसेना",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-022",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-023"
+      ],
+      "narration_hi": "आज हम दोनों देशों के लड़ाकू विमान, टैंक, मिसाइलें, तोपखाना, ड्रोन, वायु रक्षा और नौसेना की तुलना करेंगे।"
+    },
+    {
+      "start": 55.93333333333333,
+      "end": 59.96666666666667,
+      "duration": 4.033333333333333,
+      "kind": "map",
+      "asset_id": "map-korea",
+      "title": "कोरियाई प्रायद्वीप",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-023",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-024"
+      ],
+      "narration_hi": "आज हम दोनों देशों के लड़ाकू विमान, टैंक, मिसाइलें, तोपखाना, ड्रोन, वायु रक्षा और नौसेना की तुलना करेंगे।\nऔर अंत में समझेंगे कि कोरियाई प्रायद्वीप पर वास्तविक शक्ति संतुलन जितना दिखाई देता है, उससे कहीं ज़्यादा जटिल क्यों है।"
+    },
+    {
+      "start": 59.96666666666667,
+      "end": 63.96666666666667,
+      "duration": 4.0,
+      "kind": "archive",
+      "asset_id": "city-seoul",
+      "title": "सियोल · शहर के अभिलेख",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "source_in": 0.0,
+      "id": "hi004-024",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-025"
+      ],
+      "narration_hi": "और अंत में समझेंगे कि कोरियाई प्रायद्वीप पर वास्तविक शक्ति संतुलन जितना दिखाई देता है, उससे कहीं ज़्यादा जटिल क्यों है।\nआप देख रहे हैं शस्त्र 360। चलिए, शुरू करते हैं।"
+    },
+    {
+      "start": 63.96666666666667,
+      "end": 68.6,
+      "duration": 4.633333333333334,
+      "kind": "ident",
+      "title": "ARSENAL 360",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-025",
+      "subtitle": "शस्त्र 360",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-026"
+      ],
+      "narration_hi": "आप देख रहे हैं शस्त्र 360। चलिए, शुरू करते हैं।\nशुरुआत वायु सेना से करते हैं।"
+    },
+    {
+      "kind": "section",
+      "title": "वायु सेना",
+      "subtitle": "",
+      "start": 68.6,
+      "end": 72.83333333333333,
+      "duration": 4.233333333333334,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 1,
+      "spoken_start": 69.4,
+      "id": "hi004-026",
+      "narration_hi": "शुरुआत वायु सेना से करते हैं।\nदक्षिण कोरिया के पास आधुनिक बहुउद्देशीय F-35A Lightning II लड़ाकू विमान हैं।"
+    },
+    {
+      "start": 72.83333333333333,
+      "end": 81.93333333333334,
+      "duration": 9.1,
+      "kind": "archive",
+      "asset_id": "kr-f35-flight",
+      "title": "F-35 · संयुक्त उड़ान, 2025",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 10,
+      "source_in": 3.0666666666666664,
+      "id": "hi004-027",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-028"
+      ],
+      "narration_hi": "दक्षिण कोरिया के पास आधुनिक बहुउद्देशीय F-35A Lightning II लड़ाकू विमान हैं।\nये पाँचवीं पीढ़ी के विमान हैं। इनकी प्रमुख ताकत है रडार पर कम दिखाई देना, आधुनिक सेंसर और दूसरे युद्धक तंत्रों के साथ जानकारी साझा करने की क्षमता।"
+    },
+    {
+      "start": 81.93333333333334,
+      "end": 85.8,
+      "duration": 3.8666666666666667,
+      "kind": "photo",
+      "asset_id": "f35",
+      "title": "F-35A LIGHTNING II",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "वास्तविक तस्वीर · उपकरण का संबंधित प्रकार",
+      "id": "hi004-028",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-029"
+      ],
+      "narration_hi": "ये पाँचवीं पीढ़ी के विमान हैं। इनकी प्रमुख ताकत है रडार पर कम दिखाई देना, आधुनिक सेंसर और दूसरे युद्धक तंत्रों के साथ जानकारी साझा करने की क्षमता।"
+    },
+    {
+      "start": 85.8,
+      "end": 95.66666666666667,
+      "duration": 9.866666666666667,
+      "kind": "archive",
+      "asset_id": "kr-f15k",
+      "title": "F-15K SLAM EAGLE",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 12,
+      "source_in": 0.0,
+      "id": "hi004-029",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-030"
+      ],
+      "narration_hi": "ये पाँचवीं पीढ़ी के विमान हैं। इनकी प्रमुख ताकत है रडार पर कम दिखाई देना, आधुनिक सेंसर और दूसरे युद्धक तंत्रों के साथ जानकारी साझा करने की क्षमता।\nF-15K Slam Eagle भी महत्वपूर्ण भूमिका निभाते हैं।\nये भारी लड़ाकू विमान हैं, जो हवाई लड़ाई के साथ-साथ सटीक हमले करने में भी सक्षम हैं।\nइनके अलावा F-16 और हल्के लड़ाकू विमान FA-50 भी मौजूद हैं।"
+    },
+    {
+      "start": 95.66666666666667,
+      "end": 99.2,
+      "duration": 3.533333333333333,
+      "kind": "turntable",
+      "asset_id": "model-f16",
+      "title": "F-16 · विमान परिवार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य · उपकरण परिवार",
+      "id": "hi004-030",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-031"
+      ],
+      "source_in": 0,
+      "narration_hi": "इनके अलावा F-16 और हल्के लड़ाकू विमान FA-50 भी मौजूद हैं।"
+    },
+    {
+      "start": 99.2,
+      "end": 100.66666666666667,
+      "duration": 1.4666666666666666,
+      "kind": "photo",
+      "asset_id": "fa50",
+      "title": "FA-50 · विमान का प्रकार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-031",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-032"
+      ],
+      "narration_hi": "इनके अलावा F-16 और हल्के लड़ाकू विमान FA-50 भी मौजूद हैं।"
+    },
+    {
+      "start": 100.66666666666667,
+      "end": 111.23333333333333,
+      "duration": 10.566666666666666,
+      "kind": "archive",
+      "asset_id": "kr-kf21",
+      "title": "KF-21 · प्रोटोटाइप, एयर शो 2023",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 13,
+      "source_in": 0.0,
+      "id": "hi004-032",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-033"
+      ],
+      "narration_hi": "इनके अलावा F-16 और हल्के लड़ाकू विमान FA-50 भी मौजूद हैं।\nएक अलग और महत्वपूर्ण कार्यक्रम है KF-21 Boramae। यह दक्षिण कोरिया का अपना नई पीढ़ी का लड़ाकू विमान है, जो दो हज़ार छब्बीस में शुरुआती सेवा प्रवेश के चरण में है।"
+    },
+    {
+      "start": 111.23333333333333,
+      "end": 113.53333333333333,
+      "duration": 2.3,
+      "kind": "map",
+      "asset_id": "map-korea",
+      "title": "उत्तर कोरिया",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-033",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-034"
+      ],
+      "narration_hi": "एक अलग और महत्वपूर्ण कार्यक्रम है KF-21 Boramae। यह दक्षिण कोरिया का अपना नई पीढ़ी का लड़ाकू विमान है, जो दो हज़ार छब्बीस में शुरुआती सेवा प्रवेश के चरण में है।\nअब उत्तर कोरिया की ओर देखते हैं।"
+    },
+    {
+      "start": 113.53333333333333,
+      "end": 119.86666666666666,
+      "duration": 6.333333333333333,
+      "kind": "photo",
+      "asset_id": "mig29",
+      "title": "MiG-29 · विमान का प्रकार",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-034",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-035"
+      ],
+      "narration_hi": "अब उत्तर कोरिया की ओर देखते हैं।\nसोवियत संघ में विकसित MiG-29 आज भी उसके सबसे आधुनिक लड़ाकू विमानों में शामिल हैं।"
+    },
+    {
+      "start": 119.86666666666666,
+      "end": 122.83333333333333,
+      "duration": 2.966666666666667,
+      "kind": "photo",
+      "asset_id": "mig21",
+      "title": "MiG-21 · विमान का प्रकार",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-035",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-036"
+      ],
+      "narration_hi": "सोवियत संघ में विकसित MiG-29 आज भी उसके सबसे आधुनिक लड़ाकू विमानों में शामिल हैं।\nइसके अलावा MiG-21, MiG-23, Su-25 और पुरानी पीढ़ियों के दूसरे विमान भी इस्तेमाल किए जाते हैं।"
+    },
+    {
+      "start": 122.83333333333333,
+      "end": 124.13333333333334,
+      "duration": 1.3,
+      "kind": "photo",
+      "asset_id": "mig23",
+      "title": "MiG-23 · विमान का प्रकार",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-036",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-037"
+      ],
+      "narration_hi": "इसके अलावा MiG-21, MiG-23, Su-25 और पुरानी पीढ़ियों के दूसरे विमान भी इस्तेमाल किए जाते हैं।"
+    },
+    {
+      "start": 124.13333333333334,
+      "end": 127.93333333333334,
+      "duration": 3.8,
+      "kind": "photo",
+      "asset_id": "su25",
+      "title": "Su-25 · विमान का प्रकार",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-037",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-038"
+      ],
+      "narration_hi": "इसके अलावा MiG-21, MiG-23, Su-25 और पुरानी पीढ़ियों के दूसरे विमान भी इस्तेमाल किए जाते हैं।"
+    },
+    {
+      "start": 127.93333333333334,
+      "end": 139.1,
+      "duration": 11.166666666666666,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "हवाई लड़ाई",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "रडार और मिसाइलें",
+        "प्रशिक्षण",
+        "समन्वय"
+      ],
+      "id": "hi004-038",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-039"
+      ],
+      "narration_hi": "इसके अलावा MiG-21, MiG-23, Su-25 और पुरानी पीढ़ियों के दूसरे विमान भी इस्तेमाल किए जाते हैं।\nसमस्या केवल इन विमानों की उम्र नहीं है।\nआधुनिक हवाई लड़ाई रडार, मिसाइलों, इलेक्ट्रॉनिक्स, पायलटों के प्रशिक्षण और अलग-अलग सैन्य इकाइयों के बीच तालमेल पर निर्भर करती है।\nऔर इन्हीं क्षेत्रों में दक्षिण कोरिया को महत्वपूर्ण तकनीकी बढ़त हासिल है।"
+    },
+    {
+      "start": 139.1,
+      "end": 150.66666666666666,
+      "duration": 11.566666666666666,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "लड़ाकू विमानों की अलग पीढ़ियाँ",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "f35",
+          "F-35A · प्रकार",
+          "KR"
+        ],
+        [
+          "mig29",
+          "MiG-29 · प्रकार",
+          "KP"
+        ]
+      ],
+      "id": "hi004-039",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-040"
+      ],
+      "narration_hi": "और इन्हीं क्षेत्रों में दक्षिण कोरिया को महत्वपूर्ण तकनीकी बढ़त हासिल है।\nफिर भी, आधुनिक F-35 होने का मतलब यह नहीं कि विरोधी की वायु रक्षा का महत्व ख़त्म हो जाता है।"
+    },
+    {
+      "start": 150.66666666666666,
+      "end": 159.8,
+      "duration": 9.133333333333333,
+      "kind": "archive",
+      "asset_id": "kr-air",
+      "title": "वायु सेनाओं का संयुक्त प्रशिक्षण",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 10,
+      "source_in": 8.0,
+      "id": "hi004-040",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-041"
+      ],
+      "narration_hi": "फिर भी, आधुनिक F-35 होने का मतलब यह नहीं कि विरोधी की वायु रक्षा का महत्व ख़त्म हो जाता है।\nहवाई क्षेत्र पर नियंत्रण के लिए केवल लड़ाकू विमान पर्याप्त नहीं हैं। इसके लिए खुफिया निगरानी, इलेक्ट्रॉनिक युद्ध प्रणालियाँ और ज़मीनी समर्थन भी चाहिए।\nअब बात टैंकों की।"
+    },
+    {
+      "kind": "section",
+      "title": "टैंक",
+      "subtitle": "",
+      "start": 159.8,
+      "end": 163.03333333333333,
+      "duration": 3.23333333333332,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 2,
+      "spoken_start": 160.73333333333332,
+      "id": "hi004-041",
+      "narration_hi": "अब बात टैंकों की।\nदक्षिण कोरिया की सबसे बड़ी उपलब्धियों में से एक है K2 Black Panther।"
+    },
+    {
+      "start": 163.03333333333333,
+      "end": 166.83333333333334,
+      "duration": 3.8000000000000114,
+      "kind": "photo",
+      "asset_id": "k2",
+      "title": "K2 BLACK PANTHER",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-042",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-042",
+        "shot-043"
+      ],
+      "role": "original-section-reserve",
+      "narration_hi": "दक्षिण कोरिया की सबसे बड़ी उपलब्धियों में से एक है K2 Black Panther।"
+    },
+    {
+      "start": 166.83333333333334,
+      "end": 175.86666666666667,
+      "duration": 9.033333333333333,
+      "kind": "archive",
+      "asset_id": "kr-k2-archive",
+      "title": "K2 BLACK PANTHER · अभ्यास",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 12,
+      "source_in": 0.0,
+      "id": "hi004-043",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-044"
+      ],
+      "narration_hi": "दक्षिण कोरिया की सबसे बड़ी उपलब्धियों में से एक है K2 Black Panther।\nयह एक आधुनिक मुख्य युद्धक टैंक है। इसमें एक सौ बीस मिलीमीटर की स्मूथबोर तोप, स्वचालित लोडिंग प्रणाली और डिजिटल अग्नि नियंत्रण प्रणाली लगी है।"
+    },
+    {
+      "start": 175.86666666666667,
+      "end": 178.73333333333332,
+      "duration": 2.8666666666666667,
+      "kind": "photo",
+      "asset_id": "k2",
+      "title": "K2 BLACK PANTHER",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-044",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-045"
+      ],
+      "narration_hi": "यह एक आधुनिक मुख्य युद्धक टैंक है। इसमें एक सौ बीस मिलीमीटर की स्मूथबोर तोप, स्वचालित लोडिंग प्रणाली और डिजिटल अग्नि नियंत्रण प्रणाली लगी है।\nइसके चालक दल में तीन सदस्य होते हैं।\nआधुनिक निशाना साधने वाली प्रणालियाँ मुश्किल मौसम में भी लक्ष्य खोजने में मदद करती हैं। वहीं, विशेष सस्पेंशन टैंक को ऊबड़-खाबड़ ज़मीन के अनुसार अपनी स्थिति बदलने की क्षमता देता है।"
+    },
+    {
+      "start": 178.73333333333332,
+      "end": 190.16666666666666,
+      "duration": 11.433333333333334,
+      "kind": "archive",
+      "asset_id": "kr-k2-maneuver",
+      "title": "K2 BLACK PANTHER · गतिशीलता",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 11,
+      "source_in": 0.0,
+      "id": "hi004-045",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-046"
+      ],
+      "narration_hi": "आधुनिक निशाना साधने वाली प्रणालियाँ मुश्किल मौसम में भी लक्ष्य खोजने में मदद करती हैं। वहीं, विशेष सस्पेंशन टैंक को ऊबड़-खाबड़ ज़मीन के अनुसार अपनी स्थिति बदलने की क्षमता देता है।"
+    },
+    {
+      "start": 190.16666666666666,
+      "end": 195.2,
+      "duration": 5.033333333333333,
+      "kind": "archive",
+      "asset_id": "kr-k1",
+      "title": "K1A1 · दक्षिण कोरियाई सेना",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 9,
+      "source_in": 0.0,
+      "id": "hi004-046",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-047"
+      ],
+      "narration_hi": "आधुनिक निशाना साधने वाली प्रणालियाँ मुश्किल मौसम में भी लक्ष्य खोजने में मदद करती हैं। वहीं, विशेष सस्पेंशन टैंक को ऊबड़-खाबड़ ज़मीन के अनुसार अपनी स्थिति बदलने की क्षमता देता है।\nK2 के अलावा दक्षिण कोरिया K1 परिवार के टैंक भी इस्तेमाल करता है।\nपैदल सेना को सहायता देने के लिए K21 लड़ाकू वाहन हैं, जिनमें स्वचालित तोप लगी होती है।"
+    },
+    {
+      "start": 195.2,
+      "end": 200.8,
+      "duration": 5.6,
+      "kind": "photo",
+      "asset_id": "k21",
+      "title": "K21",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-047",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-048"
+      ],
+      "narration_hi": "पैदल सेना को सहायता देने के लिए K21 लड़ाकू वाहन हैं, जिनमें स्वचालित तोप लगी होती है।\nलेकिन उत्तर कोरिया के पास क्या है?"
+    },
+    {
+      "start": 200.8,
+      "end": 213.96666666666667,
+      "duration": 13.166666666666666,
+      "kind": "photo",
+      "asset_id": "t62",
+      "title": "T-62 · Chonma-ho की मूल बनावट",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "तस्वीर में T-62 है · Chonma-ho की मूल बनावट",
+      "id": "hi004-048",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-049"
+      ],
+      "narration_hi": "लेकिन उत्तर कोरिया के पास क्या है?\nउसकी बख़्तरबंद सेनाएँ काफ़ी हद तक सोवियत मूल के उपकरणों पर आधारित हैं।\nसबसे प्रसिद्ध टैंकों में Chonma-ho शामिल है, जिसे T-62 के आधार पर विकसित किया गया था।\nइसके अलावा Pokpung-ho और उत्तर कोरिया के कुछ नए टैंक भी जाने जाते हैं।"
+    },
+    {
+      "start": 213.96666666666667,
+      "end": 218.73333333333332,
+      "duration": 4.766666666666667,
+      "kind": "photo",
+      "asset_id": "pokpung",
+      "title": "POKPUNG-HO",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-049",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-050"
+      ],
+      "narration_hi": "इसके अलावा Pokpung-ho और उत्तर कोरिया के कुछ नए टैंक भी जाने जाते हैं।"
+    },
+    {
+      "start": 218.73333333333332,
+      "end": 235.73333333333332,
+      "duration": 17.0,
+      "kind": "photo",
+      "asset_id": "m2020",
+      "title": "M2020 / CHEONMA-2",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "M2020 अनौपचारिक नाम है · सार्वजनिक प्रदर्शन की तस्वीर",
+      "id": "hi004-050",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-051"
+      ],
+      "narration_hi": "इसके अलावा Pokpung-ho और उत्तर कोरिया के कुछ नए टैंक भी जाने जाते हैं।\nइनमें से एक को अनौपचारिक रूप से M2020 कहा जाता है।\nबाहरी रूप से यह आधुनिक युद्धक टैंकों जैसा दिखता है। लेकिन इसके कवच, इलेक्ट्रॉनिक्स और हथियारों की वास्तविक क्षमताओं के बारे में पर्याप्त विश्वसनीय जानकारी उपलब्ध नहीं है।"
+    },
+    {
+      "start": 235.73333333333332,
+      "end": 238.7,
+      "duration": 2.966666666666667,
+      "kind": "photo",
+      "asset_id": "pokpung",
+      "title": "उत्तर कोरिया के बख़्तरबंद वाहन",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-051",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-052"
+      ],
+      "narration_hi": "बाहरी रूप से यह आधुनिक युद्धक टैंकों जैसा दिखता है। लेकिन इसके कवच, इलेक्ट्रॉनिक्स और हथियारों की वास्तविक क्षमताओं के बारे में पर्याप्त विश्वसनीय जानकारी उपलब्ध नहीं है।\nउत्तर कोरिया के पास बड़ी संख्या में टैंक हैं।\nहालाँकि, इनमें से बहुत से टैंक इलेक्ट्रॉनिक्स और निगरानी प्रणालियों के मामले में आधुनिक दक्षिण कोरियाई टैंकों से पीछे हैं।"
+    },
+    {
+      "start": 238.7,
+      "end": 246.2,
+      "duration": 7.5,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "निगरानी और इलेक्ट्रॉनिक्स",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "k2",
+          "K2 BLACK PANTHER",
+          "KR"
+        ],
+        [
+          "m2020",
+          "M2020 / CHEONMA-2",
+          "KP"
+        ]
+      ],
+      "id": "hi004-052",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-053"
+      ],
+      "narration_hi": "हालाँकि, इनमें से बहुत से टैंक इलेक्ट्रॉनिक्स और निगरानी प्रणालियों के मामले में आधुनिक दक्षिण कोरियाई टैंकों से पीछे हैं।\nK2 को तेज़ी से लक्ष्य खोजने, सटीक गोलीबारी करने और दूसरी सैन्य इकाइयों के साथ मिलकर काम करने के लिए बनाया गया है।"
+    },
+    {
+      "start": 246.2,
+      "end": 253.53333333333333,
+      "duration": 7.333333333333333,
+      "kind": "photo",
+      "asset_id": "k2",
+      "title": "K2 BLACK PANTHER",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 9,
+      "id": "hi004-053",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-054"
+      ],
+      "narration_hi": "K2 को तेज़ी से लक्ष्य खोजने, सटीक गोलीबारी करने और दूसरी सैन्य इकाइयों के साथ मिलकर काम करने के लिए बनाया गया है।"
+    },
+    {
+      "start": 253.53333333333333,
+      "end": 266.1666666666667,
+      "duration": 12.633333333333333,
+      "kind": "archive",
+      "asset_id": "city-seoul",
+      "title": "सियोल · शहर के अभिलेख",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 14,
+      "source_in": 3.9666666666666686,
+      "id": "hi004-054",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-055"
+      ],
+      "narration_hi": "K2 को तेज़ी से लक्ष्य खोजने, सटीक गोलीबारी करने और दूसरी सैन्य इकाइयों के साथ मिलकर काम करने के लिए बनाया गया है।\nलेकिन कोरियाई प्रायद्वीप पर एक और महत्वपूर्ण बात है।\nपहाड़, संकरी सड़कें और घनी आबादी वाले इलाक़े बड़े बख़्तरबंद सैन्य दलों की आवाजाही और इस्तेमाल को सीमित करते हैं।"
+    },
+    {
+      "start": 266.1666666666667,
+      "end": 273.7,
+      "duration": 7.533333333333333,
+      "kind": "archive",
+      "asset_id": "kr-k1-fire",
+      "title": "थल सेना · संयुक्त अभ्यास",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 10,
+      "source_in": 0.0,
+      "id": "hi004-055",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-056"
+      ],
+      "narration_hi": "पहाड़, संकरी सड़कें और घनी आबादी वाले इलाक़े बड़े बख़्तरबंद सैन्य दलों की आवाजाही और इस्तेमाल को सीमित करते हैं।\nइसलिए सबसे आधुनिक टैंक भी पैदल सेना, सैन्य इंजीनियरों और तोपखाने की सहायता के बिना प्रभावी ढंग से काम नहीं कर सकता।\nअब उस श्रेणी की बात करते हैं, जो पूरे शक्ति संतुलन को बदल देती है।"
+    },
+    {
+      "start": 273.7,
+      "end": 277.1666666666667,
+      "duration": 3.466666666666667,
+      "kind": "photo",
+      "asset_id": "hyunmoo",
+      "title": "HYUNMOO · मिसाइल परिवार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-056",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-057"
+      ],
+      "role": "original-section-reserve",
+      "narration_hi": "अब उस श्रेणी की बात करते हैं, जो पूरे शक्ति संतुलन को बदल देती है।"
+    },
+    {
+      "kind": "section",
+      "title": "मिसाइलें",
+      "subtitle": "",
+      "start": 277.1666666666667,
+      "end": 280.1666666666667,
+      "duration": 3.0,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 3,
+      "spoken_start": 277.8666666666667,
+      "id": "hi004-057",
+      "narration_hi": "अब उस श्रेणी की बात करते हैं, जो पूरे शक्ति संतुलन को बदल देती है।\nमिसाइल हथियार।\nदक्षिण कोरिया अपने Hyunmoo मिसाइल परिवार को विकसित कर रहा है।"
+    },
+    {
+      "start": 280.1666666666667,
+      "end": 290.06666666666666,
+      "duration": 9.9,
+      "kind": "photo",
+      "asset_id": "hyunmoo",
+      "title": "HYUNMOO · मिसाइल परिवार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-058",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-059"
+      ],
+      "narration_hi": "दक्षिण कोरिया अपने Hyunmoo मिसाइल परिवार को विकसित कर रहा है।\nइसमें सैन्य ठिकानों पर सटीक हमले करने वाली बैलिस्टिक और क्रूज़ मिसाइल प्रणालियाँ शामिल हैं।\nभारी मिसाइल Hyunmoo-5 ख़ास तौर पर ध्यान खींचती है।"
+    },
+    {
+      "start": 290.06666666666666,
+      "end": 302.76666666666665,
+      "duration": 12.7,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "HYUNMOO-5",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "भारी मिसाइल",
+        "मज़बूत सुरक्षा वाले लक्ष्य",
+        "गैर-परमाणु प्रतिरोध"
+      ],
+      "id": "hi004-059",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-060"
+      ],
+      "narration_hi": "भारी मिसाइल Hyunmoo-5 ख़ास तौर पर ध्यान खींचती है।\nइसे मज़बूत सुरक्षा वाले लक्ष्यों पर हमला करने के लिए बनाया गया है। यह दक्षिण कोरिया की गैर-परमाणु प्रतिरोधक रणनीति का एक महत्वपूर्ण हिस्सा बन गई है।\nलेकिन उत्तर कोरिया के पास रणनीतिक मिसाइलों का कहीं अधिक व्यापक शस्त्रागार है।"
+    },
+    {
+      "start": 302.76666666666665,
+      "end": 315.76666666666665,
+      "duration": 13.0,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "उत्तर कोरिया की मिसाइल प्रणालियाँ",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "KN-23",
+        "KN-24",
+        "KN-25"
+      ],
+      "id": "hi004-060",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-061"
+      ],
+      "narration_hi": "लेकिन उत्तर कोरिया के पास रणनीतिक मिसाइलों का कहीं अधिक व्यापक शस्त्रागार है।\nउसकी प्रणालियों में KN-23, KN-24 और बेहद बड़े आकार की रॉकेट प्रणाली KN-25 शामिल हैं।\nअंतरमहाद्वीपीय मिसाइलें Hwasong-17 और Hwasong-18 एक अलग स्थान रखती हैं।"
+    },
+    {
+      "start": 315.76666666666665,
+      "end": 321.06666666666666,
+      "duration": 5.3,
+      "kind": "photo",
+      "asset_id": "hwasong17",
+      "title": "HWASONG-17",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-061",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-062"
+      ],
+      "narration_hi": "अंतरमहाद्वीपीय मिसाइलें Hwasong-17 और Hwasong-18 एक अलग स्थान रखती हैं।"
+    },
+    {
+      "start": 321.06666666666666,
+      "end": 333.03333333333336,
+      "duration": 11.966666666666667,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "HWASONG-18",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "ठोस ईंधन",
+        "रणनीतिक शस्त्रागार"
+      ],
+      "id": "hi004-062",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-063"
+      ],
+      "narration_hi": "अंतरमहाद्वीपीय मिसाइलें Hwasong-17 और Hwasong-18 एक अलग स्थान रखती हैं।\nHwasong-18 ठोस ईंधन का इस्तेमाल करती है। इससे मिसाइल के भंडारण और तैयारी के कुछ पहलू आसान हो जाते हैं।\nउत्तर कोरिया ने इससे भी नई रणनीतिक मिसाइल प्रणालियाँ प्रदर्शित की हैं।"
+    },
+    {
+      "start": 333.03333333333336,
+      "end": 340.5,
+      "duration": 7.466666666666667,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "परमाणु प्रतिरोध",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "उत्तर कोरिया का परमाणु शस्त्रागार",
+        "रणनीतिक संतुलन"
+      ],
+      "id": "hi004-063",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-064"
+      ],
+      "narration_hi": "उत्तर कोरिया ने इससे भी नई रणनीतिक मिसाइल प्रणालियाँ प्रदर्शित की हैं।\nलेकिन सबसे महत्वपूर्ण अंतर है परमाणु हथियारों की मौजूदगी।\nउत्तर कोरिया के पास अपना परमाणु शस्त्रागार है।\nदक्षिण कोरिया के पास अपने परमाणु हथियार नहीं हैं। लेकिन वह संयुक्त राज्य अमेरिका के साथ गठबंधन और अमेरिकी प्रतिरोधक सुरक्षा की गारंटी पर भरोसा करता है।"
+    },
+    {
+      "start": 340.5,
+      "end": 348.93333333333334,
+      "duration": 8.433333333333334,
+      "kind": "archive",
+      "asset_id": "kr-air",
+      "title": "दक्षिण कोरिया और अमेरिकी सेना का अभ्यास",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 8,
+      "source_in": 16.69999999999999,
+      "id": "hi004-064",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-065"
+      ],
+      "narration_hi": "दक्षिण कोरिया के पास अपने परमाणु हथियार नहीं हैं। लेकिन वह संयुक्त राज्य अमेरिका के साथ गठबंधन और अमेरिकी प्रतिरोधक सुरक्षा की गारंटी पर भरोसा करता है।"
+    },
+    {
+      "start": 348.93333333333334,
+      "end": 350.0,
+      "duration": 1.0666666666666667,
+      "kind": "photo",
+      "asset_id": "f16",
+      "title": "F-16 FIGHTING FALCON",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "वास्तविक तस्वीर · उपकरण का संबंधित प्रकार",
+      "id": "hi004-065",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-066"
+      ],
+      "narration_hi": "दक्षिण कोरिया के पास अपने परमाणु हथियार नहीं हैं। लेकिन वह संयुक्त राज्य अमेरिका के साथ गठबंधन और अमेरिकी प्रतिरोधक सुरक्षा की गारंटी पर भरोसा करता है।\nइसीलिए मिसाइलों की तुलना केवल उनकी मारक दूरी के आधार पर करना सही नहीं है।"
+    },
+    {
+      "start": 350.0,
+      "end": 355.3666666666667,
+      "duration": 5.366666666666666,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "मिसाइल बलों की अलग भूमिकाएँ",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "hyunmoo",
+          "HYUNMOO · परिवार",
+          "KR"
+        ],
+        [
+          "hwasong17",
+          "HWASONG-17",
+          "KP"
+        ]
+      ],
+      "id": "hi004-066",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-067"
+      ],
+      "narration_hi": "इसीलिए मिसाइलों की तुलना केवल उनकी मारक दूरी के आधार पर करना सही नहीं है।\nदक्षिण कोरिया सटीक हमले करने वाले पारंपरिक हथियार विकसित कर रहा है।"
+    },
+    {
+      "start": 355.3666666666667,
+      "end": 360.43333333333334,
+      "duration": 5.066666666666666,
+      "kind": "photo",
+      "asset_id": "hyunmoo",
+      "title": "HYUNMOO · मिसाइल परिवार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-067",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-068"
+      ],
+      "narration_hi": "दक्षिण कोरिया सटीक हमले करने वाले पारंपरिक हथियार विकसित कर रहा है।"
+    },
+    {
+      "start": 360.43333333333334,
+      "end": 373.56666666666666,
+      "duration": 13.133333333333333,
+      "kind": "photo",
+      "asset_id": "hwasong17",
+      "title": "HWASONG-17",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-068",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-069"
+      ],
+      "narration_hi": "दक्षिण कोरिया सटीक हमले करने वाले पारंपरिक हथियार विकसित कर रहा है।\nउत्तर कोरिया अपनी मिसाइल सेनाओं का इस्तेमाल परमाणु प्रतिरोध के साधन के रूप में भी करता है।\nऔर यही बात उसके मिसाइल शस्त्रागार को बेहद ख़तरनाक बनाती है, भले ही वह दूसरी श्रेणियों में तकनीकी रूप से पीछे हो।"
+    },
+    {
+      "kind": "section",
+      "title": "पैदल सेना",
+      "subtitle": "",
+      "start": 373.56666666666666,
+      "end": 376.56666666666666,
+      "duration": 3.0,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 4,
+      "spoken_start": 374.26666666666665,
+      "id": "hi004-069",
+      "narration_hi": "और यही बात उसके मिसाइल शस्त्रागार को बेहद ख़तरनाक बनाती है, भले ही वह दूसरी श्रेणियों में तकनीकी रूप से पीछे हो।\nअब पैदल सेना की ओर बढ़ते हैं।\nदक्षिण कोरियाई सैनिक K2 परिवार की असॉल्ट राइफलों का इस्तेमाल करते हैं।"
+    },
+    {
+      "start": 376.56666666666666,
+      "end": 380.8333333333333,
+      "duration": 4.2666666666666515,
+      "kind": "photo",
+      "asset_id": "k2rifle",
+      "title": "K2 · असॉल्ट राइफल",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-070",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-070",
+        "shot-071"
+      ],
+      "role": "original-section-reserve",
+      "narration_hi": "दक्षिण कोरियाई सैनिक K2 परिवार की असॉल्ट राइफलों का इस्तेमाल करते हैं।\nइन्हें K2 Black Panther टैंक के साथ भ्रमित मत कीजिए।"
+    },
+    {
+      "start": 380.8333333333333,
+      "end": 389.46666666666664,
+      "duration": 8.633333333333333,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "एक नाम · अलग उपकरण",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "k2rifle",
+          "K2 · राइफल",
+          "KR"
+        ],
+        [
+          "k2",
+          "K2 · टैंक",
+          "KR"
+        ]
+      ],
+      "id": "hi004-071",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-072"
+      ],
+      "narration_hi": "इन्हें K2 Black Panther टैंक के साथ भ्रमित मत कीजिए।\nये पाँच और छप्पन मिलीमीटर कैलिबर के हथियार हैं, जिन्हें नियमित सेना के लिए विकसित किया गया था।"
+    },
+    {
+      "start": 389.46666666666664,
+      "end": 392.06666666666666,
+      "duration": 2.6,
+      "kind": "photo",
+      "asset_id": "k3",
+      "title": "K3",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-072",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-073"
+      ],
+      "narration_hi": "ये पाँच और छप्पन मिलीमीटर कैलिबर के हथियार हैं, जिन्हें नियमित सेना के लिए विकसित किया गया था।\nइसके अलावा K3 और K12 मशीनगन तथा Raybolt टैंक रोधी मिसाइल प्रणालियाँ भी इस्तेमाल की जाती हैं।"
+    },
+    {
+      "start": 392.06666666666666,
+      "end": 395.0,
+      "duration": 2.933333333333333,
+      "kind": "photo",
+      "asset_id": "k12",
+      "title": "K12",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-073",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-074"
+      ],
+      "narration_hi": "इसके अलावा K3 और K12 मशीनगन तथा Raybolt टैंक रोधी मिसाइल प्रणालियाँ भी इस्तेमाल की जाती हैं।"
+    },
+    {
+      "start": 395.0,
+      "end": 396.3666666666667,
+      "duration": 1.3666666666666667,
+      "kind": "photo",
+      "asset_id": "raybolt",
+      "title": "RAYBOLT",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-074",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-075"
+      ],
+      "narration_hi": "इसके अलावा K3 और K12 मशीनगन तथा Raybolt टैंक रोधी मिसाइल प्रणालियाँ भी इस्तेमाल की जाती हैं।"
+    },
+    {
+      "start": 396.3666666666667,
+      "end": 402.9,
+      "duration": 6.533333333333333,
+      "kind": "archive",
+      "asset_id": "kr-infantry-field",
+      "title": "पैदल सेना · संयुक्त अभ्यास",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 9,
+      "source_in": 8.0,
+      "id": "hi004-075",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-076"
+      ],
+      "narration_hi": "इसके अलावा K3 और K12 मशीनगन तथा Raybolt टैंक रोधी मिसाइल प्रणालियाँ भी इस्तेमाल की जाती हैं।\nआधुनिक संचार उपकरण, ऑप्टिकल साइट और रात में देखने वाले उपकरण भी महत्वपूर्ण भूमिका निभाते हैं।"
+    },
+    {
+      "start": 402.9,
+      "end": 422.2,
+      "duration": 19.3,
+      "kind": "photo",
+      "asset_id": "type58",
+      "title": "TYPE 58 · कलाश्निकोव परिवार",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-076",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-077"
+      ],
+      "narration_hi": "आधुनिक संचार उपकरण, ऑप्टिकल साइट और रात में देखने वाले उपकरण भी महत्वपूर्ण भूमिका निभाते हैं।\nउत्तर कोरिया की पैदल सेना मुख्य रूप से सोवियत मूल के हथियार और उनके स्थानीय संस्करण इस्तेमाल करती है।\nइनमें Type 58 और Type 68 असॉल्ट राइफलें शामिल हैं, जिनकी बनावट कलाश्निकोव प्रणाली से जुड़ी है।\nउत्तर कोरियाई सेना के पास अलग-अलग पीढ़ियों की मशीनगन, ग्रेनेड लॉन्चर और टैंक रोधी हथियार भी हैं।"
+    },
+    {
+      "start": 422.2,
+      "end": 433.96666666666664,
+      "duration": 11.766666666666667,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "संयुक्त युद्धक तंत्र में पैदल सेना",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "संचार और निगरानी",
+        "रसद और सहायता",
+        "तालमेल"
+      ],
+      "id": "hi004-077",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-078"
+      ],
+      "narration_hi": "उत्तर कोरियाई सेना के पास अलग-अलग पीढ़ियों की मशीनगन, ग्रेनेड लॉन्चर और टैंक रोधी हथियार भी हैं।\nलेकिन मुख्य अंतर केवल राइफलों में नहीं है।\nआधुनिक पैदल सेना संचार, खुफिया निगरानी, चिकित्सा सहायता और बख़्तरबंद वाहनों तथा तोपखाने के साथ तालमेल पर निर्भर करती है।\nदक्षिण कोरिया के पास अपनी इकाइयों को आधुनिक इलेक्ट्रॉनिक उपकरण देने की बेहतर क्षमता है।"
+    },
+    {
+      "start": 433.96666666666664,
+      "end": 439.46666666666664,
+      "duration": 5.5,
+      "kind": "archive",
+      "asset_id": "kr-infantry",
+      "title": "पैदल सेना · संयुक्त अभ्यास",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 9,
+      "source_in": 22.0,
+      "id": "hi004-078",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-079"
+      ],
+      "narration_hi": "दक्षिण कोरिया के पास अपनी इकाइयों को आधुनिक इलेक्ट्रॉनिक उपकरण देने की बेहतर क्षमता है।"
+    },
+    {
+      "start": 439.46666666666664,
+      "end": 443.23333333333335,
+      "duration": 3.7666666666666666,
+      "kind": "archive",
+      "asset_id": "nk-parade",
+      "title": "प्योंगयांग · परेड अभ्यास, 2011",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 7,
+      "source_in": 3.0,
+      "id": "hi004-079",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-080"
+      ],
+      "narration_hi": "दक्षिण कोरिया के पास अपनी इकाइयों को आधुनिक इलेक्ट्रॉनिक उपकरण देने की बेहतर क्षमता है।\nउत्तर कोरिया सैनिकों की बड़ी संख्या पर विशेष ज़ोर देता है।\nलेकिन सैनिकों की संख्या और उनकी वास्तविक युद्धक क्षमता एक ही चीज़ नहीं हैं।"
+    },
+    {
+      "start": 443.23333333333335,
+      "end": 448.96666666666664,
+      "duration": 5.733333333333333,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "उपकरण और प्रशिक्षण",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "k2rifle",
+          "K2",
+          "KR"
+        ],
+        [
+          "type58",
+          "TYPE 58",
+          "KP"
+        ]
+      ],
+      "id": "hi004-080",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-081"
+      ],
+      "narration_hi": "लेकिन सैनिकों की संख्या और उनकी वास्तविक युद्धक क्षमता एक ही चीज़ नहीं हैं।"
+    },
+    {
+      "start": 448.96666666666664,
+      "end": 451.7,
+      "duration": 2.7333333333333334,
+      "kind": "photo",
+      "asset_id": "chunmoo",
+      "title": "K239 CHUNMOO",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-081",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-082"
+      ],
+      "role": "original-section-reserve",
+      "narration_hi": "लेकिन सैनिकों की संख्या और उनकी वास्तविक युद्धक क्षमता एक ही चीज़ नहीं हैं।\nअब सबसे महत्वपूर्ण श्रेणियों में से एक की बात करते हैं।"
+    },
+    {
+      "kind": "section",
+      "title": "तोपखाना",
+      "subtitle": "",
+      "start": 451.7,
+      "end": 454.7,
+      "duration": 3.0,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 5,
+      "spoken_start": 452.4,
+      "id": "hi004-082",
+      "narration_hi": "अब सबसे महत्वपूर्ण श्रेणियों में से एक की बात करते हैं।\nतोपखाना।\nदक्षिण कोरिया K9 Thunder स्वचालित होवित्ज़र का इस्तेमाल करता है।"
+    },
+    {
+      "start": 454.7,
+      "end": 477.3666666666667,
+      "duration": 22.666666666666668,
+      "kind": "archive",
+      "asset_id": "kr-k9-archive",
+      "title": "K9 THUNDER · दक्षिण कोरियाई सेना",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 26,
+      "source_in": 5.200000000000006,
+      "id": "hi004-083",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-083"
+      ],
+      "narration_hi": "दक्षिण कोरिया K9 Thunder स्वचालित होवित्ज़र का इस्तेमाल करता है।\nयह एक सौ पचपन मिलीमीटर की तोप प्रणाली है, जो गतिशीलता, स्वचालित अग्नि नियंत्रण और तेज़ी से अपनी जगह बदलने की क्षमता को एक साथ लाती है।\nK9 दक्षिण कोरिया के सबसे सफल रक्षा निर्यात उत्पादों में से एक बन गई है।\nदुनिया के कई देश इसे ख़रीदते हैं या लाइसेंस के तहत इसका निर्माण करते हैं।"
+    },
+    {
+      "start": 477.3666666666667,
+      "end": 482.0,
+      "duration": 4.633333333333334,
+      "kind": "photo",
+      "asset_id": "chunmoo",
+      "title": "K239 CHUNMOO",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-084",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-084"
+      ],
+      "narration_hi": "दुनिया के कई देश इसे ख़रीदते हैं या लाइसेंस के तहत इसका निर्माण करते हैं।\nदक्षिण कोरिया के पास K239 Chunmoo रॉकेट प्रणालियाँ भी हैं।\nकॉन्फ़िगरेशन के अनुसार इनमें निर्देशित और बिना मार्गदर्शन वाले रॉकेट इस्तेमाल किए जा सकते हैं।"
+    },
+    {
+      "start": 482.0,
+      "end": 487.5,
+      "duration": 5.5,
+      "kind": "photo",
+      "asset_id": "chunmoo-extra",
+      "title": "K239 CHUNMOO",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-085",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-085"
+      ],
+      "narration_hi": "कॉन्फ़िगरेशन के अनुसार इनमें निर्देशित और बिना मार्गदर्शन वाले रॉकेट इस्तेमाल किए जा सकते हैं।"
+    },
+    {
+      "start": 487.5,
+      "end": 503.4,
+      "duration": 15.9,
+      "kind": "photo",
+      "asset_id": "koksan",
+      "title": "M1989 KOKSAN",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-086",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-086"
+      ],
+      "narration_hi": "कॉन्फ़िगरेशन के अनुसार इनमें निर्देशित और बिना मार्गदर्शन वाले रॉकेट इस्तेमाल किए जा सकते हैं।\nलेकिन तोपखाना वही श्रेणी है, जिसमें उत्तर कोरिया बेहद गंभीर ख़तरा पैदा करता है।\nउसके शस्त्रागार में बड़ी संख्या में खींचकर ले जाई जाने वाली और स्वचालित तोपें हैं।\nसबसे प्रसिद्ध प्रणालियों में से एक है एक सौ सत्तर मिलीमीटर की लंबी दूरी की Koksan तोप।"
+    },
+    {
+      "start": 503.4,
+      "end": 513.4333333333333,
+      "duration": 10.033333333333333,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "KN-25",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "रॉकेट तोपखाना",
+        "मिसाइल क्षमता"
+      ],
+      "id": "hi004-087",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-087"
+      ],
+      "narration_hi": "सबसे प्रसिद्ध प्रणालियों में से एक है एक सौ सत्तर मिलीमीटर की लंबी दूरी की Koksan तोप।\nउत्तर कोरिया बड़े मल्टीपल रॉकेट लॉन्चर भी इस्तेमाल करता है।\nख़ास तौर पर छह सौ मिलीमीटर की वे प्रणालियाँ ध्यान देने योग्य हैं, जो KN-25 से जुड़ी हैं।\nये पारंपरिक रॉकेट तोपखाने और मिसाइल हथियारों के बीच की श्रेणी में आती हैं।"
+    },
+    {
+      "start": 513.4333333333333,
+      "end": 518.6,
+      "duration": 5.166666666666667,
+      "kind": "map",
+      "asset_id": "map-korea",
+      "title": "भूगोल और तोपखाने का ख़तरा",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-088",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-088"
+      ],
+      "narration_hi": "ये पारंपरिक रॉकेट तोपखाने और मिसाइल हथियारों के बीच की श्रेणी में आती हैं।"
+    },
+    {
+      "start": 518.6,
+      "end": 533.6666666666666,
+      "duration": 15.066666666666666,
+      "kind": "archive",
+      "asset_id": "city-seoul",
+      "title": "सियोल · शहर के अभिलेख",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 14,
+      "source_in": 14.53333333333336,
+      "id": "hi004-089",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-089"
+      ],
+      "narration_hi": "ये पारंपरिक रॉकेट तोपखाने और मिसाइल हथियारों के बीच की श्रेणी में आती हैं।\nउत्तर कोरिया का तोपखाना इसलिए ख़तरनाक है, क्योंकि उसके पास बड़ी संख्या में प्रणालियाँ हैं और उनके कुछ ठिकाने दक्षिण कोरिया के घनी आबादी वाले इलाक़ों के क़रीब हैं।\nसियोल असैन्यीकृत क्षेत्र से अपेक्षाकृत कम दूरी पर स्थित है।"
+    },
+    {
+      "start": 533.6666666666666,
+      "end": 546.0,
+      "duration": 12.333333333333334,
+      "kind": "photo",
+      "asset_id": "k9",
+      "title": "K9 THUNDER",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 12,
+      "id": "hi004-090",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-090"
+      ],
+      "narration_hi": "सियोल असैन्यीकृत क्षेत्र से अपेक्षाकृत कम दूरी पर स्थित है।\nइसलिए तोपखाने से पैदा होने वाला ख़तरा केवल सैन्य मुद्दा नहीं है। इसका मानवीय महत्व भी है।\nदक्षिण कोरिया के पास अधिक आधुनिक अग्नि नियंत्रण प्रणालियाँ और सटीक गोला-बारूद हैं।\nलेकिन उत्तर कोरिया के तोपखाने की बड़ी संख्या एक ऐसा कारक है, जिसे नज़रअंदाज़ नहीं किया जा सकता।"
+    },
+    {
+      "start": 546.0,
+      "end": 551.0,
+      "duration": 5.0,
+      "kind": "photo",
+      "asset_id": "koksan",
+      "title": "M1989 KOKSAN",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-091",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-091"
+      ],
+      "narration_hi": "लेकिन उत्तर कोरिया के तोपखाने की बड़ी संख्या एक ऐसा कारक है, जिसे नज़रअंदाज़ नहीं किया जा सकता।"
+    },
+    {
+      "kind": "section",
+      "title": "ड्रोन",
+      "subtitle": "",
+      "start": 551.0,
+      "end": 554.0,
+      "duration": 3.0,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 6,
+      "spoken_start": 551.7,
+      "id": "hi004-092",
+      "narration_hi": "लेकिन उत्तर कोरिया के तोपखाने की बड़ी संख्या एक ऐसा कारक है, जिसे नज़रअंदाज़ नहीं किया जा सकता।\nड्रोन के बिना आधुनिक युद्ध की कल्पना करना मुश्किल है।"
+    },
+    {
+      "start": 554.0,
+      "end": 559.9666666666667,
+      "duration": 5.966666666666697,
+      "kind": "photo",
+      "asset_id": "rq101",
+      "title": "RQ-101 SONGGOLMAE",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-093",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-092",
+        "shot-093"
+      ],
+      "role": "original-section-reserve",
+      "narration_hi": "ड्रोन के बिना आधुनिक युद्ध की कल्पना करना मुश्किल है।\nदक्षिण कोरिया अपने निगरानी और हमलावर मानवरहित प्लेटफ़ॉर्म विकसित कर रहा है।"
+    },
+    {
+      "start": 559.9666666666667,
+      "end": 567.2333333333333,
+      "duration": 7.266666666666667,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "प्लेटफ़ॉर्म का तालमेल · विकास की दिशा",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "rq101",
+          "निगरानी ड्रोन",
+          "KR"
+        ],
+        [
+          "f16",
+          "लड़ाकू विमान",
+          "KR"
+        ]
+      ],
+      "id": "hi004-094",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-094"
+      ],
+      "narration_hi": "दक्षिण कोरिया अपने निगरानी और हमलावर मानवरहित प्लेटफ़ॉर्म विकसित कर रहा है।\nएक महत्वपूर्ण दिशा ऐसी प्रणालियाँ बनाना है, जो लड़ाकू विमानों और ज़मीनी सैन्य इकाइयों के साथ मिलकर काम कर सकें।\nड्रोन निगरानी कर सकते हैं, लक्ष्यों के निर्देशांक भेज सकते हैं और हमलों के परिणामों का आकलन करने में मदद कर सकते हैं।"
+    },
+    {
+      "start": 567.2333333333333,
+      "end": 574.5333333333333,
+      "duration": 7.3,
+      "kind": "archive",
+      "asset_id": "kr-drone",
+      "title": "कोरिया में ड्रोन अभ्यास · अभिलेख",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 8,
+      "source_in": 1.0,
+      "id": "hi004-095",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-095"
+      ],
+      "narration_hi": "ड्रोन निगरानी कर सकते हैं, लक्ष्यों के निर्देशांक भेज सकते हैं और हमलों के परिणामों का आकलन करने में मदद कर सकते हैं।"
+    },
+    {
+      "start": 574.5333333333333,
+      "end": 578.3666666666667,
+      "duration": 3.8333333333333335,
+      "kind": "map",
+      "asset_id": "map-korea",
+      "title": "उत्तर कोरिया · ड्रोन कार्यक्रम",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-096",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-096"
+      ],
+      "narration_hi": "ड्रोन निगरानी कर सकते हैं, लक्ष्यों के निर्देशांक भेज सकते हैं और हमलों के परिणामों का आकलन करने में मदद कर सकते हैं।\nलेकिन उत्तर कोरिया भी इस क्षेत्र को तेज़ी से विकसित कर रहा है।"
+    },
+    {
+      "start": 578.3666666666667,
+      "end": 582.7333333333333,
+      "duration": 4.366666666666666,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "SAETBYOL-4 और SAETBYOL-9",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "निगरानी प्लेटफ़ॉर्म",
+        "हमलावर प्लेटफ़ॉर्म"
+      ],
+      "id": "hi004-097",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-097"
+      ],
+      "narration_hi": "लेकिन उत्तर कोरिया भी इस क्षेत्र को तेज़ी से विकसित कर रहा है।\nउसने बड़े ड्रोन Saetbyol-4 और Saetbyol-9 प्रदर्शित किए हैं।\nबाहरी रूप से ये अमेरिकी निगरानी और हमलावर ड्रोन जैसे दिखाई देते हैं।"
+    },
+    {
+      "start": 582.7333333333333,
+      "end": 598.9,
+      "duration": 16.166666666666668,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "अमेरिकी प्लेटफ़ॉर्म · आकार की तुलना",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "rq4",
+          "RQ-4 GLOBAL HAWK",
+          "US"
+        ],
+        [
+          "mq9",
+          "MQ-9 REAPER",
+          "US"
+        ]
+      ],
+      "id": "hi004-098",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-098"
+      ],
+      "narration_hi": "बाहरी रूप से ये अमेरिकी निगरानी और हमलावर ड्रोन जैसे दिखाई देते हैं।\nलेकिन बनावट में समानता होने का मतलब यह नहीं कि उनकी तकनीकी क्षमताएँ भी एक जैसी हैं।\nउत्तर कोरियाई ड्रोन की वास्तविक क्षमताओं के बारे में अभी पर्याप्त जानकारी उपलब्ध नहीं है।\nउत्तर कोरिया ने निगरानी के लिए छोटे मानवरहित विमानों का भी इस्तेमाल किया है।"
+    },
+    {
+      "start": 598.9,
+      "end": 603.4,
+      "duration": 4.5,
+      "kind": "map",
+      "asset_id": "map-korea",
+      "title": "उत्तर कोरिया · छोटे निगरानी ड्रोन",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-099",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-099"
+      ],
+      "narration_hi": "उत्तर कोरिया ने निगरानी के लिए छोटे मानवरहित विमानों का भी इस्तेमाल किया है।\nइस श्रेणी में केवल ड्रोन के आकार को देखना पर्याप्त नहीं है।"
+    },
+    {
+      "start": 603.4,
+      "end": 615.6333333333333,
+      "duration": 12.233333333333333,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "ड्रोन की क्षमताएँ",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "ऑप्टिक्स",
+        "संचार और नेविगेशन",
+        "उत्पादन"
+      ],
+      "id": "hi004-100",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-100"
+      ],
+      "narration_hi": "इस श्रेणी में केवल ड्रोन के आकार को देखना पर्याप्त नहीं है।\nकैमरों की गुणवत्ता, संचार चैनलों की सुरक्षा, नेविगेशन और बड़ी संख्या में उत्पादन की क्षमता भी महत्वपूर्ण हैं।"
+    },
+    {
+      "start": 615.6333333333333,
+      "end": 619.7,
+      "duration": 4.066666666666666,
+      "kind": "photo",
+      "asset_id": "rq101",
+      "title": "RQ-101 SONGGOLMAE",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-101",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-101"
+      ],
+      "narration_hi": "कैमरों की गुणवत्ता, संचार चैनलों की सुरक्षा, नेविगेशन और बड़ी संख्या में उत्पादन की क्षमता भी महत्वपूर्ण हैं।\nदक्षिण कोरिया के पास अधिक मज़बूत तकनीकी और औद्योगिक आधार है।"
+    },
+    {
+      "start": 619.7,
+      "end": 626.3,
+      "duration": 6.6,
+      "kind": "map",
+      "asset_id": "map-korea",
+      "title": "कोरियाई प्रायद्वीप · ड्रोन",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-102",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-102"
+      ],
+      "narration_hi": "दक्षिण कोरिया के पास अधिक मज़बूत तकनीकी और औद्योगिक आधार है।\nलेकिन उत्तर कोरिया की मानवरहित प्रणालियों का विकास बताता है कि इस क्षेत्र को अब कम महत्वपूर्ण नहीं माना जा सकता।"
+    },
+    {
+      "kind": "section",
+      "title": "वायु रक्षा",
+      "subtitle": "",
+      "start": 626.3,
+      "end": 630.2,
+      "duration": 3.900000000000091,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 7,
+      "spoken_start": 627.6,
+      "id": "hi004-103",
+      "narration_hi": "लेकिन उत्तर कोरिया की मानवरहित प्रणालियों का विकास बताता है कि इस क्षेत्र को अब कम महत्वपूर्ण नहीं माना जा सकता।\nअब बात वायु रक्षा की।\nदक्षिण कोरिया अपने हवाई क्षेत्र की सुरक्षा के लिए कई स्तरों वाली रक्षा प्रणाली इस्तेमाल करता है।"
+    },
+    {
+      "start": 630.2,
+      "end": 634.2,
+      "duration": 4.0,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "दक्षिण कोरिया की बहुस्तरीय वायु रक्षा",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "patriot",
+          "PATRIOT · प्रकार",
+          "KR"
+        ],
+        [
+          "kmsam",
+          "KM-SAM",
+          "KR"
+        ]
+      ],
+      "id": "hi004-104",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-104"
+      ],
+      "narration_hi": "दक्षिण कोरिया अपने हवाई क्षेत्र की सुरक्षा के लिए कई स्तरों वाली रक्षा प्रणाली इस्तेमाल करता है।"
+    },
+    {
+      "start": 634.2,
+      "end": 644.4333333333333,
+      "duration": 10.233333333333333,
+      "kind": "archive",
+      "asset_id": "kr-patriot",
+      "title": "PATRIOT · कोरिया में अभ्यास",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 12,
+      "source_in": 0.0,
+      "id": "hi004-105",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-105"
+      ],
+      "narration_hi": "दक्षिण कोरिया अपने हवाई क्षेत्र की सुरक्षा के लिए कई स्तरों वाली रक्षा प्रणाली इस्तेमाल करता है।\nइसका एक हिस्सा अमेरिकी Patriot प्रणाली है।\nयह ज़मीन से हवा में मार करने वाली मिसाइल प्रणाली है, जिसे विमानों और कुछ प्रकार की मिसाइलों से लड़ने के लिए बनाया गया है।\nदक्षिण कोरिया ने अपना KM-SAM सिस्टम भी विकसित किया है, जिसे Cheongung के नाम से जाना जाता है।"
+    },
+    {
+      "start": 644.4333333333333,
+      "end": 657.4666666666667,
+      "duration": 13.033333333333333,
+      "kind": "photo",
+      "asset_id": "kmsam",
+      "title": "KM-SAM / CHEONGUNG",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-106",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-106"
+      ],
+      "narration_hi": "दक्षिण कोरिया ने अपना KM-SAM सिस्टम भी विकसित किया है, जिसे Cheongung के नाम से जाना जाता है।\nइसे वायु रक्षा के लिए बनाया गया है। इसके कुछ संस्करण मिसाइल रोधी रक्षा की भूमिका भी निभाते हैं।\nएक और महत्वपूर्ण परियोजना है L-SAM। यह अधिक ऊँचाई पर बैलिस्टिक लक्ष्यों को रोकने वाली प्रणाली है।"
+    },
+    {
+      "start": 657.4666666666667,
+      "end": 664.3666666666667,
+      "duration": 6.9,
+      "kind": "photo",
+      "asset_id": "lsam",
+      "title": "L-SAM",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-107",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-107"
+      ],
+      "narration_hi": "एक और महत्वपूर्ण परियोजना है L-SAM। यह अधिक ऊँचाई पर बैलिस्टिक लक्ष्यों को रोकने वाली प्रणाली है।"
+    },
+    {
+      "start": 664.3666666666667,
+      "end": 674.1333333333333,
+      "duration": 9.766666666666667,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "बहुस्तरीय रक्षा",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "लक्ष्यों के अलग प्रकार",
+        "एक साथ कई ख़तरे"
+      ],
+      "id": "hi004-108",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-108"
+      ],
+      "narration_hi": "एक और महत्वपूर्ण परियोजना है L-SAM। यह अधिक ऊँचाई पर बैलिस्टिक लक्ष्यों को रोकने वाली प्रणाली है।\nलेकिन कई स्तरों वाली रक्षा भी हर मिसाइल को रोकने की गारंटी नहीं देती।\nख़ास तौर पर तब, जब अलग-अलग प्रकार के हथियारों का एक साथ इस्तेमाल किया जाए।\nउत्तर कोरिया के पास बड़ी संख्या में सोवियत मूल की वायु रक्षा प्रणालियाँ हैं।"
+    },
+    {
+      "start": 674.1333333333333,
+      "end": 683.8333333333334,
+      "duration": 9.7,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "पुरानी पीढ़ी की प्रणालियाँ",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "s75",
+          "S-75 · प्रकार",
+          "KP"
+        ],
+        [
+          "s200",
+          "S-200 · प्रकार",
+          "KP"
+        ]
+      ],
+      "id": "hi004-109",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-109"
+      ],
+      "narration_hi": "उत्तर कोरिया के पास बड़ी संख्या में सोवियत मूल की वायु रक्षा प्रणालियाँ हैं।\nइनमें S-75, S-125 और S-200 परिवार की प्रणालियाँ शामिल हैं।"
+    },
+    {
+      "start": 683.8333333333334,
+      "end": 695.5333333333333,
+      "duration": 11.7,
+      "kind": "photo",
+      "asset_id": "kn06",
+      "title": "KN-06 / PON’GAE-5",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-110",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-110"
+      ],
+      "narration_hi": "इनमें S-75, S-125 और S-200 परिवार की प्रणालियाँ शामिल हैं।\nउत्तर कोरिया की अपनी KN-06 प्रणाली भी जानी जाती है।\nउसने कुछ नई वायु रक्षा प्रणालियाँ भी प्रदर्शित की हैं। लेकिन उनकी वास्तविक क्षमताओं की स्वतंत्र रूप से पुष्टि करना मुश्किल है।\nदक्षिण कोरिया को आधुनिक रडार, प्रणालियों के आपसी तालमेल और तकनीकी आधार के मामले में बढ़त हासिल है।"
+    },
+    {
+      "start": 695.5333333333333,
+      "end": 708.8666666666667,
+      "duration": 13.333333333333334,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "वायु रक्षा",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "kmsam",
+          "KM-SAM",
+          "KR"
+        ],
+        [
+          "kn06",
+          "KN-06",
+          "KP"
+        ]
+      ],
+      "id": "hi004-111",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-111"
+      ],
+      "narration_hi": "दक्षिण कोरिया को आधुनिक रडार, प्रणालियों के आपसी तालमेल और तकनीकी आधार के मामले में बढ़त हासिल है।\nउत्तर कोरिया बड़ी संख्या में पुराने सिस्टम, मज़बूत किलेबंद ठिकानों और नई प्रणालियों के मिश्रण पर निर्भर करता है।"
+    },
+    {
+      "start": 708.8666666666667,
+      "end": 712.6333333333333,
+      "duration": 3.7666666666666515,
+      "kind": "photo",
+      "asset_id": "apache",
+      "title": "AH-64 · हेलीकॉप्टर परिवार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-112",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-112",
+        "shot-113"
+      ],
+      "role": "original-section-reserve",
+      "narration_hi": "उत्तर कोरिया बड़ी संख्या में पुराने सिस्टम, मज़बूत किलेबंद ठिकानों और नई प्रणालियों के मिश्रण पर निर्भर करता है।\nदक्षिण कोरिया AH-64E Apache Guardian हमलावर हेलीकॉप्टर इस्तेमाल करता है।"
+    },
+    {
+      "kind": "section",
+      "title": "हेलीकॉप्टर",
+      "subtitle": "",
+      "start": 712.6333333333333,
+      "end": 715.6333333333333,
+      "duration": 3.0,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 8,
+      "spoken_start": 713.3333333333334,
+      "id": "hi004-113",
+      "narration_hi": "दक्षिण कोरिया AH-64E Apache Guardian हमलावर हेलीकॉप्टर इस्तेमाल करता है।\nइनमें आधुनिक सेंसर, टैंक रोधी हथियार और संचार प्रणालियाँ लगी हैं।"
+    },
+    {
+      "start": 715.6333333333333,
+      "end": 719.8333333333334,
+      "duration": 4.2,
+      "kind": "archive",
+      "asset_id": "kr-apache",
+      "title": "AH-64E · हेलीकॉप्टर का प्रकार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 8,
+      "source_in": 0.2999999999999545,
+      "id": "hi004-114",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-114"
+      ],
+      "narration_hi": "इनमें आधुनिक सेंसर, टैंक रोधी हथियार और संचार प्रणालियाँ लगी हैं।\nApache को ज़मीनी सेनाओं की सहायता और बख़्तरबंद वाहनों से लड़ने के लिए बनाया गया है।"
+    },
+    {
+      "start": 719.8333333333334,
+      "end": 724.7,
+      "duration": 4.866666666666666,
+      "kind": "turntable",
+      "asset_id": "model-apache",
+      "title": "AH-64 · हेलीकॉप्टर परिवार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य · उपकरण परिवार",
+      "id": "hi004-115",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-115"
+      ],
+      "source_in": 0,
+      "narration_hi": "Apache को ज़मीनी सेनाओं की सहायता और बख़्तरबंद वाहनों से लड़ने के लिए बनाया गया है।"
+    },
+    {
+      "start": 724.7,
+      "end": 730.0,
+      "duration": 5.3,
+      "kind": "photo",
+      "asset_id": "lah",
+      "title": "LAH-1 MIRON",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-116",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-116"
+      ],
+      "narration_hi": "Apache को ज़मीनी सेनाओं की सहायता और बख़्तरबंद वाहनों से लड़ने के लिए बनाया गया है।\nदक्षिण कोरिया ने अपना हल्का सशस्त्र हेलीकॉप्टर LAH भी विकसित किया है।"
+    },
+    {
+      "start": 730.0,
+      "end": 736.2666666666667,
+      "duration": 6.266666666666667,
+      "kind": "turntable",
+      "asset_id": "model-blackhawk",
+      "title": "BLACK HAWK · हेलीकॉप्टर परिवार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "3D दृश्य · उपकरण परिवार",
+      "id": "hi004-117",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-117"
+      ],
+      "source_in": 0,
+      "narration_hi": "दक्षिण कोरिया ने अपना हल्का सशस्त्र हेलीकॉप्टर LAH भी विकसित किया है।\nसैनिकों और सामान की ढुलाई के लिए Black Hawk परिवार तथा दूसरे हेलीकॉप्टर इस्तेमाल किए जाते हैं।"
+    },
+    {
+      "start": 736.2666666666667,
+      "end": 738.0666666666667,
+      "duration": 1.8,
+      "kind": "map",
+      "asset_id": "map-korea",
+      "title": "उत्तर कोरिया",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-118",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-118"
+      ],
+      "narration_hi": "सैनिकों और सामान की ढुलाई के लिए Black Hawk परिवार तथा दूसरे हेलीकॉप्टर इस्तेमाल किए जाते हैं।\nउत्तर कोरिया की स्थिति अलग है।"
+    },
+    {
+      "start": 738.0666666666667,
+      "end": 745.3,
+      "duration": 7.233333333333333,
+      "kind": "photo",
+      "asset_id": "mi2",
+      "title": "Mi-2 · हेलीकॉप्टर का प्रकार",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-119",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-119"
+      ],
+      "narration_hi": "उत्तर कोरिया की स्थिति अलग है।\nवह सोवियत मूल के हेलीकॉप्टर इस्तेमाल करता है। इनमें Mi-2, Mi-8 और कुछ Mi-24 हमलावर हेलीकॉप्टर शामिल हैं।"
+    },
+    {
+      "start": 745.3,
+      "end": 747.1333333333333,
+      "duration": 1.8333333333333333,
+      "kind": "photo",
+      "asset_id": "mi24",
+      "title": "Mi-24 · हेलीकॉप्टर का प्रकार",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-120",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-120"
+      ],
+      "narration_hi": "वह सोवियत मूल के हेलीकॉप्टर इस्तेमाल करता है। इनमें Mi-2, Mi-8 और कुछ Mi-24 हमलावर हेलीकॉप्टर शामिल हैं।\nउसके पास अमेरिकी MD 500 हेलीकॉप्टर भी हैं, जो कई दशक पहले उत्तर कोरिया पहुँचे थे।"
+    },
+    {
+      "start": 747.1333333333333,
+      "end": 752.1333333333333,
+      "duration": 5.0,
+      "kind": "photo",
+      "asset_id": "md500",
+      "title": "MD 500 · हेलीकॉप्टर परिवार",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "तस्वीर में MD 500 परिवार का नागरिक हेलीकॉप्टर है",
+      "id": "hi004-121",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-121"
+      ],
+      "narration_hi": "उसके पास अमेरिकी MD 500 हेलीकॉप्टर भी हैं, जो कई दशक पहले उत्तर कोरिया पहुँचे थे।"
+    },
+    {
+      "start": 752.1333333333333,
+      "end": 755.4333333333333,
+      "duration": 3.3,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "हेलीकॉप्टरों की अलग पीढ़ियाँ",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "apache",
+          "AH-64 · प्रकार",
+          "KR"
+        ],
+        [
+          "mi24",
+          "Mi-24 · प्रकार",
+          "KP"
+        ]
+      ],
+      "id": "hi004-122",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-122"
+      ],
+      "narration_hi": "उसके पास अमेरिकी MD 500 हेलीकॉप्टर भी हैं, जो कई दशक पहले उत्तर कोरिया पहुँचे थे।\nइनमें से ज़्यादातर प्लेटफ़ॉर्म पुरानी पीढ़ियों के हैं।"
+    },
+    {
+      "start": 755.4333333333333,
+      "end": 762.1,
+      "duration": 6.666666666666667,
+      "kind": "archive",
+      "asset_id": "kr-apache-rok",
+      "title": "AH-64E · दक्षिण कोरियाई सेना",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 8,
+      "source_in": 37.0,
+      "id": "hi004-123",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-123"
+      ],
+      "narration_hi": "इनमें से ज़्यादातर प्लेटफ़ॉर्म पुरानी पीढ़ियों के हैं।\nदक्षिण कोरियाई Apache में लक्ष्य खोजने और हथियारों को नियंत्रित करने की अधिक आधुनिक प्रणालियाँ हैं।\nहालाँकि, हेलीकॉप्टरों की प्रभावशीलता विरोधी की वायु रक्षा, इलाक़े की बनावट और मिशन की परिस्थितियों पर निर्भर करती है।"
+    },
+    {
+      "start": 762.1,
+      "end": 768.9333333333333,
+      "duration": 6.833333333333333,
+      "kind": "map",
+      "asset_id": "map-korea",
+      "title": "भूगोल और अभियान की परिस्थितियाँ",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-124",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-124"
+      ],
+      "narration_hi": "हालाँकि, हेलीकॉप्टरों की प्रभावशीलता विरोधी की वायु रक्षा, इलाक़े की बनावट और मिशन की परिस्थितियों पर निर्भर करती है।"
+    },
+    {
+      "start": 768.9333333333333,
+      "end": 772.6666666666666,
+      "duration": 3.7333333333333334,
+      "kind": "photo",
+      "asset_id": "dosan",
+      "title": "DOSAN AHN CHANGHO",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-125",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-125"
+      ],
+      "role": "original-section-reserve",
+      "narration_hi": "हालाँकि, हेलीकॉप्टरों की प्रभावशीलता विरोधी की वायु रक्षा, इलाक़े की बनावट और मिशन की परिस्थितियों पर निर्भर करती है।\nअब समुद्र की ओर चलते हैं।\nदक्षिण कोरिया के पास एक आधुनिक नौसेना है, जो अपने तट से दूर भी अभियान चला सकती है।"
+    },
+    {
+      "kind": "section",
+      "title": "नौसेना",
+      "subtitle": "",
+      "start": 772.6666666666666,
+      "end": 775.6666666666666,
+      "duration": 3.0,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 9,
+      "spoken_start": 773.3666666666667,
+      "id": "hi004-126",
+      "narration_hi": "दक्षिण कोरिया के पास एक आधुनिक नौसेना है, जो अपने तट से दूर भी अभियान चला सकती है।"
+    },
+    {
+      "start": 775.6666666666666,
+      "end": 792.9666666666667,
+      "duration": 17.3,
+      "kind": "archive",
+      "asset_id": "kr-navy-alt",
+      "title": "ROKS SEJONG THE GREAT · DDG-991",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 22,
+      "source_in": 8.5,
+      "id": "hi004-127",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-126"
+      ],
+      "narration_hi": "दक्षिण कोरिया के पास एक आधुनिक नौसेना है, जो अपने तट से दूर भी अभियान चला सकती है।\nउसके सबसे शक्तिशाली युद्धपोतों में Sejong the Great श्रेणी के विध्वंसक शामिल हैं।\nइनमें Aegis युद्ध प्रबंधन प्रणाली और बड़ी संख्या में मिसाइल हथियार लगे हैं।\nऐसे युद्धपोत वायु रक्षा के साथ-साथ अलग-अलग समुद्री ख़तरों से निपटने का काम कर सकते हैं।"
+    },
+    {
+      "start": 792.9666666666667,
+      "end": 798.5,
+      "duration": 5.533333333333333,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "सतही जहाज़ और पनडुब्बी बल",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "sejong",
+          "विध्वंसक",
+          "KR"
+        ],
+        [
+          "dosan",
+          "पनडुब्बियाँ",
+          "KR"
+        ]
+      ],
+      "id": "hi004-128",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-127"
+      ],
+      "narration_hi": "ऐसे युद्धपोत वायु रक्षा के साथ-साथ अलग-अलग समुद्री ख़तरों से निपटने का काम कर सकते हैं।\nदक्षिण कोरिया के पास फ़्रिगेट, उभयचर अभियान वाले जहाज़ और आधुनिक पनडुब्बियाँ भी हैं।\nDosan Ahn Changho श्रेणी की पनडुब्बियाँ विशेष ध्यान देने योग्य हैं।"
+    },
+    {
+      "start": 798.5,
+      "end": 808.5,
+      "duration": 10.0,
+      "kind": "photo",
+      "asset_id": "dosan",
+      "title": "DOSAN AHN CHANGHO",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-129",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-128"
+      ],
+      "narration_hi": "Dosan Ahn Changho श्रेणी की पनडुब्बियाँ विशेष ध्यान देने योग्य हैं।\nये दक्षिण कोरिया की डीज़ल-इलेक्ट्रिक पनडुब्बियाँ हैं, जिनमें आधुनिक युद्धक प्रणालियाँ लगी हैं।"
+    },
+    {
+      "start": 808.5,
+      "end": 818.7,
+      "duration": 10.2,
+      "kind": "map",
+      "asset_id": "map-korea",
+      "title": "उत्तर कोरिया के तटीय बल",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-130",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-129"
+      ],
+      "narration_hi": "ये दक्षिण कोरिया की डीज़ल-इलेक्ट्रिक पनडुब्बियाँ हैं, जिनमें आधुनिक युद्धक प्रणालियाँ लगी हैं।\nअब उत्तर कोरिया की ओर देखते हैं।\nलंबे समय तक उसकी नौसेना मुख्य रूप से छोटे मिसाइल जहाज़ों, टॉरपीडो नौकाओं और गश्ती जहाज़ों पर आधारित रही है।\nपनडुब्बियाँ और छोटी पनडुब्बियाँ भी महत्वपूर्ण भूमिका निभाती हैं।"
+    },
+    {
+      "start": 818.7,
+      "end": 822.7333333333333,
+      "duration": 4.033333333333333,
+      "kind": "photo",
+      "asset_id": "sango",
+      "title": "SANG-O · अभिलेख 1996",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-131",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-130"
+      ],
+      "narration_hi": "पनडुब्बियाँ और छोटी पनडुब्बियाँ भी महत्वपूर्ण भूमिका निभाती हैं।"
+    },
+    {
+      "start": 822.7333333333333,
+      "end": 834.0666666666667,
+      "duration": 11.333333333333334,
+      "kind": "photo",
+      "asset_id": "choehyon",
+      "title": "CHOE HYON",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-132",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-131"
+      ],
+      "narration_hi": "पनडुब्बियाँ और छोटी पनडुब्बियाँ भी महत्वपूर्ण भूमिका निभाती हैं।\nहालाँकि, पिछले कुछ वर्षों में उत्तर कोरिया ने बड़े युद्धपोत भी प्रदर्शित करने शुरू किए हैं।\nइनमें Choe Hyon श्रेणी के नए विध्वंसक शामिल हैं, जिनमें अलग-अलग मिसाइल प्रणालियाँ लगी हैं।\nउत्तर कोरिया की नौसेना के लिए यह एक महत्वपूर्ण क़दम है।"
+    },
+    {
+      "start": 834.0666666666667,
+      "end": 837.5333333333333,
+      "duration": 3.466666666666667,
+      "kind": "photo",
+      "asset_id": "choehyon-detail",
+      "title": "CHOE HYON · डेक",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-133",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-132"
+      ],
+      "narration_hi": "उत्तर कोरिया की नौसेना के लिए यह एक महत्वपूर्ण क़दम है।"
+    },
+    {
+      "start": 837.5333333333333,
+      "end": 848.3333333333334,
+      "duration": 10.8,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "युद्धपोत और युद्धक तालमेल",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "sejong",
+          "SEJONG THE GREAT",
+          "KR"
+        ],
+        [
+          "choehyon",
+          "CHOE HYON",
+          "KP"
+        ]
+      ],
+      "id": "hi004-134",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-133"
+      ],
+      "narration_hi": "उत्तर कोरिया की नौसेना के लिए यह एक महत्वपूर्ण क़दम है।\nलेकिन नया युद्धपोत सामने आने का मतलब यह नहीं कि उसके चालक दल का प्रशिक्षण, इलेक्ट्रॉनिक्स और दूसरी युद्धक प्रणालियों के साथ तालमेल आधुनिक दक्षिण कोरियाई विध्वंसकों के बराबर है।"
+    },
+    {
+      "start": 848.3333333333334,
+      "end": 852.2,
+      "duration": 3.8666666666666667,
+      "kind": "archive",
+      "asset_id": "kr-navy",
+      "title": "ROKS SEJONG THE GREAT · DDG-991",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 9,
+      "source_in": 8.566666666666666,
+      "id": "hi004-135",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-134"
+      ],
+      "narration_hi": "लेकिन नया युद्धपोत सामने आने का मतलब यह नहीं कि उसके चालक दल का प्रशिक्षण, इलेक्ट्रॉनिक्स और दूसरी युद्धक प्रणालियों के साथ तालमेल आधुनिक दक्षिण कोरियाई विध्वंसकों के बराबर है।\nदक्षिण कोरिया का जहाज़ निर्माण उद्योग कहीं अधिक विकसित है।"
+    },
+    {
+      "start": 852.2,
+      "end": 856.6,
+      "duration": 4.4,
+      "kind": "photo",
+      "asset_id": "dosan",
+      "title": "DOSAN AHN CHANGHO",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-136",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-135"
+      ],
+      "narration_hi": "दक्षिण कोरिया का जहाज़ निर्माण उद्योग कहीं अधिक विकसित है।\nवह बड़े आधुनिक युद्धपोत और पनडुब्बियाँ ख़ुद बना सकता है।\nइसके विपरीत, उत्तर कोरिया तटीय रक्षा, पनडुब्बी बलों और मिसाइल हथियारों पर अधिक ध्यान देता है।"
+    },
+    {
+      "start": 856.6,
+      "end": 861.7333333333333,
+      "duration": 5.133333333333334,
+      "kind": "map",
+      "asset_id": "map-korea",
+      "title": "उत्तर कोरिया · तटीय रक्षा",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-137",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-136"
+      ],
+      "narration_hi": "इसके विपरीत, उत्तर कोरिया तटीय रक्षा, पनडुब्बी बलों और मिसाइल हथियारों पर अधिक ध्यान देता है।"
+    },
+    {
+      "kind": "section",
+      "title": "निष्कर्ष",
+      "subtitle": "",
+      "start": 861.7333333333333,
+      "end": 864.7333333333333,
+      "duration": 3.0,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 10,
+      "spoken_start": 862.4333333333333,
+      "id": "hi004-138",
+      "narration_hi": "इसके विपरीत, उत्तर कोरिया तटीय रक्षा, पनडुब्बी बलों और मिसाइल हथियारों पर अधिक ध्यान देता है।\nहमने उन दो देशों के सैन्य शस्त्रागार की तुलना की है, जो सत्तर से अधिक वर्षों से एक ऐसे संघर्ष की स्थिति में जी रहे हैं, जिसका अंतिम समाधान नहीं हुआ है।"
+    },
+    {
+      "start": 864.7333333333333,
+      "end": 872.6666666666666,
+      "duration": 7.93333333333328,
+      "kind": "photo",
+      "asset_id": "k2",
+      "title": "K2 BLACK PANTHER",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-139",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-137",
+        "shot-138"
+      ],
+      "role": "original-section-reserve",
+      "narration_hi": "हमने उन दो देशों के सैन्य शस्त्रागार की तुलना की है, जो सत्तर से अधिक वर्षों से एक ऐसे संघर्ष की स्थिति में जी रहे हैं, जिसका अंतिम समाधान नहीं हुआ है।"
+    },
+    {
+      "start": 872.6666666666666,
+      "end": 877.3,
+      "duration": 4.633333333333334,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "किसका शस्त्रागार ज़्यादा ताकतवर है?",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "k2",
+          "दक्षिण कोरिया",
+          "KR"
+        ],
+        [
+          "m2020",
+          "उत्तर कोरिया",
+          "KP"
+        ]
+      ],
+      "id": "hi004-140",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-139"
+      ],
+      "narration_hi": "हमने उन दो देशों के सैन्य शस्त्रागार की तुलना की है, जो सत्तर से अधिक वर्षों से एक ऐसे संघर्ष की स्थिति में जी रहे हैं, जिसका अंतिम समाधान नहीं हुआ है।\nऔर अब मुख्य सवाल।\nकिसका शस्त्रागार ज़्यादा ताकतवर है?\nअगर पारंपरिक हथियारों की आधुनिकता को देखें, तो दक्षिण कोरिया के पास महत्वपूर्ण तकनीकी बढ़त है।"
+    },
+    {
+      "start": 877.3,
+      "end": 882.9,
+      "duration": 5.6,
+      "kind": "archive",
+      "asset_id": "kr-f35-flight",
+      "title": "F-35 · संयुक्त अभ्यास",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 8,
+      "source_in": 13.066666666666666,
+      "id": "hi004-141",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-140"
+      ],
+      "narration_hi": "अगर पारंपरिक हथियारों की आधुनिकता को देखें, तो दक्षिण कोरिया के पास महत्वपूर्ण तकनीकी बढ़त है।\nउसके F-35, F-15K, K2 Black Panther, K9 Thunder और आधुनिक विध्वंसक उसके रक्षा उद्योग के ऊँचे स्तर को दिखाते हैं।"
+    },
+    {
+      "start": 882.9,
+      "end": 884.3,
+      "duration": 1.4,
+      "kind": "photo",
+      "asset_id": "f35",
+      "title": "F-35A · विमान का प्रकार",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-142",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-141"
+      ],
+      "narration_hi": "उसके F-35, F-15K, K2 Black Panther, K9 Thunder और आधुनिक विध्वंसक उसके रक्षा उद्योग के ऊँचे स्तर को दिखाते हैं।"
+    },
+    {
+      "start": 884.3,
+      "end": 885.3333333333334,
+      "duration": 1.0333333333333334,
+      "kind": "photo",
+      "asset_id": "f15k",
+      "title": "F-15K SLAM EAGLE",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-143",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-142"
+      ],
+      "narration_hi": "उसके F-35, F-15K, K2 Black Panther, K9 Thunder और आधुनिक विध्वंसक उसके रक्षा उद्योग के ऊँचे स्तर को दिखाते हैं।"
+    },
+    {
+      "start": 885.3333333333334,
+      "end": 886.6666666666666,
+      "duration": 1.3333333333333333,
+      "kind": "photo",
+      "asset_id": "k2",
+      "title": "K2 BLACK PANTHER",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-144",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-143"
+      ],
+      "narration_hi": "उसके F-35, F-15K, K2 Black Panther, K9 Thunder और आधुनिक विध्वंसक उसके रक्षा उद्योग के ऊँचे स्तर को दिखाते हैं।"
+    },
+    {
+      "start": 886.6666666666666,
+      "end": 888.4333333333333,
+      "duration": 1.7666666666666666,
+      "kind": "photo",
+      "asset_id": "k9",
+      "title": "K9 THUNDER",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-145",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-144"
+      ],
+      "narration_hi": "उसके F-35, F-15K, K2 Black Panther, K9 Thunder और आधुनिक विध्वंसक उसके रक्षा उद्योग के ऊँचे स्तर को दिखाते हैं।"
+    },
+    {
+      "start": 888.4333333333333,
+      "end": 892.2666666666667,
+      "duration": 3.8333333333333335,
+      "kind": "photo",
+      "asset_id": "sejong",
+      "title": "SEJONG THE GREAT",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-146",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-145"
+      ],
+      "narration_hi": "उसके F-35, F-15K, K2 Black Panther, K9 Thunder और आधुनिक विध्वंसक उसके रक्षा उद्योग के ऊँचे स्तर को दिखाते हैं।"
+    },
+    {
+      "start": 892.2666666666667,
+      "end": 898.2333333333333,
+      "duration": 5.966666666666667,
+      "kind": "archive",
+      "asset_id": "kr-kf21",
+      "title": "KF-21 · प्रोटोटाइप",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 8,
+      "source_in": 12.099999999999994,
+      "id": "hi004-147",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-146"
+      ],
+      "narration_hi": "उसके F-35, F-15K, K2 Black Panther, K9 Thunder और आधुनिक विध्वंसक उसके रक्षा उद्योग के ऊँचे स्तर को दिखाते हैं।\nएक महत्वपूर्ण बात यह भी है कि दक्षिण कोरिया इन उपकरणों का एक बड़ा हिस्सा ख़ुद बना सकता है।\nलेकिन उत्तर कोरिया आज भी एक गंभीर सैन्य ख़तरा है।"
+    },
+    {
+      "start": 898.2333333333333,
+      "end": 903.6333333333333,
+      "duration": 5.399999999999977,
+      "kind": "photo",
+      "asset_id": "pokpung",
+      "title": "उत्तर कोरिया के बख़्तरबंद वाहन",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-148",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-147",
+        "shot-148"
+      ],
+      "narration_hi": "लेकिन उत्तर कोरिया आज भी एक गंभीर सैन्य ख़तरा है।\nउसके पास बड़ी ज़मीनी सेना, विशाल तोपखाना बल और विकसित मिसाइल कार्यक्रम है।"
+    },
+    {
+      "start": 903.6333333333333,
+      "end": 905.5666666666667,
+      "duration": 1.9333333333333333,
+      "kind": "photo",
+      "asset_id": "koksan",
+      "title": "M1989 KOKSAN",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-149",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-149"
+      ],
+      "narration_hi": "उसके पास बड़ी ज़मीनी सेना, विशाल तोपखाना बल और विकसित मिसाइल कार्यक्रम है।"
+    },
+    {
+      "start": 905.5666666666667,
+      "end": 906.4666666666667,
+      "duration": 0.9,
+      "kind": "photo",
+      "asset_id": "hwasong17",
+      "title": "HWASONG-17",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-150",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-150"
+      ],
+      "narration_hi": "उसके पास बड़ी ज़मीनी सेना, विशाल तोपखाना बल और विकसित मिसाइल कार्यक्रम है।"
+    },
+    {
+      "start": 906.4666666666667,
+      "end": 915.7333333333333,
+      "duration": 9.266666666666667,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "परमाणु प्रतिरोध",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "उत्तर कोरिया का परमाणु शस्त्रागार",
+        "रणनीतिक संतुलन"
+      ],
+      "id": "hi004-151",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-151"
+      ],
+      "narration_hi": "उसके पास बड़ी ज़मीनी सेना, विशाल तोपखाना बल और विकसित मिसाइल कार्यक्रम है।\nऔर सबसे महत्वपूर्ण बात — उसका अपना परमाणु शस्त्रागार।\nयही बात इस टकराव को दो सेनाओं की सामान्य तुलना से बिल्कुल अलग बनाती है।\nयहाँ केवल टैंक, विमान और जहाज़ गिनकर किसी एक को अंतिम विजेता घोषित नहीं किया जा सकता।"
+    },
+    {
+      "start": 915.7333333333333,
+      "end": 933.2666666666667,
+      "duration": 17.533333333333335,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "शक्ति संतुलन",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "सहयोगी देश",
+        "भूगोल",
+        "उद्योग और रसद"
+      ],
+      "id": "hi004-152",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-152"
+      ],
+      "narration_hi": "यहाँ केवल टैंक, विमान और जहाज़ गिनकर किसी एक को अंतिम विजेता घोषित नहीं किया जा सकता।\nवास्तविक शक्ति संतुलन पर सहयोगी देश, भूगोल, अर्थव्यवस्था, गोला-बारूद का भंडार, सैनिकों का प्रशिक्षण और सेना को लगातार सहायता देने की औद्योगिक क्षमता भी असर डालती है।"
+    },
+    {
+      "start": 933.2666666666667,
+      "end": 937.9333333333333,
+      "duration": 4.666666666666667,
+      "kind": "archive",
+      "asset_id": "kr-air",
+      "title": "वायु सेनाओं का संयुक्त अभ्यास",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 8,
+      "source_in": 24.69999999999999,
+      "id": "hi004-153",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-153"
+      ],
+      "narration_hi": "वास्तविक शक्ति संतुलन पर सहयोगी देश, भूगोल, अर्थव्यवस्था, गोला-बारूद का भंडार, सैनिकों का प्रशिक्षण और सेना को लगातार सहायता देने की औद्योगिक क्षमता भी असर डालती है।\nदक्षिण कोरिया का संयुक्त राज्य अमेरिका के साथ सैन्य गठबंधन है।"
+    },
+    {
+      "start": 937.9333333333333,
+      "end": 944.4333333333333,
+      "duration": 6.5,
+      "kind": "archive",
+      "asset_id": "city-pyongyang",
+      "title": "प्योंगयांग · शहर के अभिलेख",
+      "country": "KP",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 8,
+      "source_in": 0.0,
+      "id": "hi004-154",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-154"
+      ],
+      "narration_hi": "दक्षिण कोरिया का संयुक्त राज्य अमेरिका के साथ सैन्य गठबंधन है।\nउत्तर कोरिया अपने रणनीतिक प्रतिरोधक साधन विकसित कर रहा है और रूस के साथ सैन्य सहयोग बढ़ा रहा है।\nआख़िर में हमारे सामने दो बिल्कुल अलग सैन्य मॉडल दिखाई देते हैं।"
+    },
+    {
+      "start": 944.4333333333333,
+      "end": 959.6666666666666,
+      "duration": 15.233333333333333,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "दो सैन्य रणनीतियाँ",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "k2",
+          "तकनीक और सटीकता",
+          "KR"
+        ],
+        [
+          "hwasong17",
+          "मिसाइल प्रतिरोध",
+          "KP"
+        ]
+      ],
+      "id": "hi004-155",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-155"
+      ],
+      "narration_hi": "आख़िर में हमारे सामने दो बिल्कुल अलग सैन्य मॉडल दिखाई देते हैं।\nएक उन्नत तकनीक, सटीकता और आधुनिक उत्पादन पर भरोसा करता है।\nदूसरा बड़ी संख्या, तोपखाने, मिसाइलों और परमाणु प्रतिरोध पर निर्भर करता है।"
+    },
+    {
+      "start": 959.6666666666666,
+      "end": 965.2666666666667,
+      "duration": 5.6,
+      "kind": "map",
+      "asset_id": "map-globe",
+      "title": "कोरियाई प्रायद्वीप",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi004-156",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-156"
+      ],
+      "narration_hi": "दूसरा बड़ी संख्या, तोपखाने, मिसाइलों और परमाणु प्रतिरोध पर निर्भर करता है।\nऔर इन्हीं सभी कारकों का मेल कोरियाई प्रायद्वीप को दुनिया के सबसे ख़तरनाक सैन्य क्षेत्रों में से एक बनाता है।"
+    },
+    {
+      "kind": "section",
+      "title": "आपकी राय",
+      "subtitle": "",
+      "start": 965.2666666666667,
+      "end": 968.2666666666667,
+      "duration": 3.0,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "camera_motion": false,
+      "chapter": 11,
+      "spoken_start": 965.9666666666667,
+      "id": "hi004-157",
+      "narration_hi": "और इन्हीं सभी कारकों का मेल कोरियाई प्रायद्वीप को दुनिया के सबसे ख़तरनाक सैन्य क्षेत्रों में से एक बनाता है।\nअब आपकी बारी।\nआपके हिसाब से आधुनिक सेना के लिए क्या ज़्यादा महत्वपूर्ण है?"
+    },
+    {
+      "start": 968.2666666666667,
+      "end": 973.9,
+      "duration": 5.633333333333334,
+      "kind": "question",
+      "asset_id": "original",
+      "title": "आधुनिक सेना के लिए क्या ज़्यादा महत्वपूर्ण है?",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "हथियारों की संख्या",
+        "तकनीकी बढ़त"
+      ],
+      "id": "hi004-158",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-157"
+      ],
+      "narration_hi": "आपके हिसाब से आधुनिक सेना के लिए क्या ज़्यादा महत्वपूर्ण है?\nबड़ी संख्या में हथियार या तकनीकी बढ़त?"
+    },
+    {
+      "start": 973.9,
+      "end": 982.2666666666667,
+      "duration": 8.366666666666667,
+      "kind": "question",
+      "asset_id": "original",
+      "title": "किस श्रेणी ने आपको सबसे ज़्यादा हैरान किया?",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.4700000000000002,
+      "note": "",
+      "nodes": [
+        "वायु सेना",
+        "टैंक",
+        "तोपखाना",
+        "मिसाइलें"
+      ],
+      "id": "hi004-159",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-158"
+      ],
+      "narration_hi": "बड़ी संख्या में हथियार या तकनीकी बढ़त?\nऔर इस तुलना की किस श्रेणी ने आपको सबसे ज़्यादा हैरान किया?\nलड़ाकू विमान, टैंक, तोपखाना या मिसाइलें?\nअपनी राय कमेंट में लिखिए।"
+    },
+    {
+      "start": 982.2666666666667,
+      "end": 990.6,
+      "duration": 8.333333333333334,
+      "kind": "outro",
+      "asset_id": "original",
+      "title": "आपकी राय?",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "subtitle": "कमेंट में लिखिए\nअगली तुलना किन देशों की हो?",
+      "id": "hi004-160",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-159"
+      ],
+      "narration_hi": "अपनी राय कमेंट में लिखिए।\nसाथ ही उन देशों के नाम भी बताइए, जिनके सैन्य शस्त्रागार की तुलना आप अगले वीडियो में देखना चाहते हैं।\nअगर आपको सैन्य तकनीक की विस्तृत तुलनाएँ पसंद हैं, तो वीडियो को लाइक कीजिए और चैनल को सब्सक्राइब कीजिए।"
+    },
+    {
+      "start": 990.6,
+      "end": 1002.3333333333334,
+      "duration": 11.733333333333348,
+      "kind": "ident",
+      "asset_id": "original",
+      "title": "ARSENAL 360",
+      "country": "KR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "subtitle": "शस्त्र 360",
+      "id": "hi004-161",
+      "camera_motion": false,
+      "original_scene_ids": [
+        "shot-160",
+        "shot-161"
+      ],
+      "narration_hi": "अगर आपको सैन्य तकनीक की विस्तृत तुलनाएँ पसंद हैं, तो वीडियो को लाइक कीजिए और चैनल को सब्सक्राइब कीजिए।\nआपके साथ था शस्त्र 360।\nसैन्य तकनीक की दुनिया।\nअगले वीडियो में फिर मिलेंगे!"
+    }
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "spoken_start": 0,
+      "title": "परिचय",
+      "display_start": 0
+    },
+    {
+      "start": 69.4,
+      "spoken_start": 69.4,
+      "spoken_end": 71.215,
+      "display_start": 68.7,
+      "fully_visible_at": 69.35000000000001,
+      "display_end": 71.7,
+      "title": "वायु सेना"
+    },
+    {
+      "start": 160.73333333333332,
+      "spoken_start": 160.73333333333332,
+      "spoken_end": 162.53608695652176,
+      "display_start": 160.03333333333333,
+      "fully_visible_at": 160.68333333333334,
+      "display_end": 163.03333333333333,
+      "title": "टैंक"
+    },
+    {
+      "start": 277.8666666666667,
+      "spoken_start": 277.8666666666667,
+      "spoken_end": 279.6666666666667,
+      "display_start": 277.1666666666667,
+      "fully_visible_at": 277.81666666666666,
+      "display_end": 280.1666666666667,
+      "title": "मिसाइलें"
+    },
+    {
+      "start": 374.26666666666665,
+      "spoken_start": 374.26666666666665,
+      "spoken_end": 376.0666666666667,
+      "display_start": 373.56666666666666,
+      "fully_visible_at": 374.21666666666664,
+      "display_end": 376.56666666666666,
+      "title": "पैदल सेना"
+    },
+    {
+      "start": 452.4,
+      "spoken_start": 452.4,
+      "spoken_end": 454.20000000000016,
+      "display_start": 451.7,
+      "fully_visible_at": 452.34999999999997,
+      "display_end": 454.7,
+      "title": "तोपखाना"
+    },
+    {
+      "start": 551.7,
+      "spoken_start": 551.7,
+      "spoken_end": 553.4999999999999,
+      "display_start": 551.0,
+      "fully_visible_at": 551.65,
+      "display_end": 554.0,
+      "title": "ड्रोन"
+    },
+    {
+      "start": 627.6,
+      "spoken_start": 627.6,
+      "spoken_end": 629.41,
+      "display_start": 626.9,
+      "fully_visible_at": 627.55,
+      "display_end": 629.9,
+      "title": "वायु रक्षा"
+    },
+    {
+      "start": 713.3333333333334,
+      "spoken_start": 713.3333333333334,
+      "spoken_end": 715.1318181818181,
+      "display_start": 712.6333333333333,
+      "fully_visible_at": 713.2833333333333,
+      "display_end": 715.6333333333333,
+      "title": "हेलीकॉप्टर"
+    },
+    {
+      "start": 773.3666666666667,
+      "spoken_start": 773.3666666666667,
+      "spoken_end": 775.165294117647,
+      "display_start": 772.6666666666666,
+      "fully_visible_at": 773.3166666666666,
+      "display_end": 775.6666666666666,
+      "title": "नौसेना"
+    },
+    {
+      "start": 862.4333333333333,
+      "spoken_start": 862.4333333333333,
+      "spoken_end": 864.23,
+      "display_start": 861.7333333333333,
+      "fully_visible_at": 862.3833333333333,
+      "display_end": 864.7333333333333,
+      "title": "निष्कर्ष"
+    },
+    {
+      "start": 965.9666666666667,
+      "spoken_start": 965.9666666666667,
+      "spoken_end": 967.7699999999999,
+      "display_start": 965.2666666666667,
+      "fully_visible_at": 965.9166666666666,
+      "display_end": 968.2666666666667,
+      "title": "आपकी राय"
+    }
+  ],
+  "motion_policy": {
+    "archive": "Normal speed, no tpad or looping; extend available licensed material or cut to a matching deliberate still/3D",
+    "native_3d": "Original approved 720 directly rendered poses / 24 seconds; no optical-flow interpolation",
+    "photos": "locked",
+    "cards": "one entrance then hold",
+    "chapter_titles": "Fully revealed by spoken heading start"
+  }
+}

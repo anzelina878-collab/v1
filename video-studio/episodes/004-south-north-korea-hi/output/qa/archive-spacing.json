@@ -1,0 +1,67 @@
+{
+  "status": "passed",
+  "policy": "Repeat only more than 60 seconds after previous use ended",
+  "minimum_gap_seconds": 64.33333333333333,
+  "repeat_checks": [
+    {
+      "source": "kr-f35-flight",
+      "scene": "hi004-027",
+      "previous_scene": "hi004-001",
+      "gap_from_previous_end": 64.33333333333333
+    },
+    {
+      "source": "city-seoul",
+      "scene": "hi004-054",
+      "previous_scene": "hi004-024",
+      "gap_from_previous_end": 189.56666666666666
+    },
+    {
+      "source": "kr-air",
+      "scene": "hi004-064",
+      "previous_scene": "hi004-040",
+      "gap_from_previous_end": 180.7
+    },
+    {
+      "source": "nk-parade",
+      "scene": "hi004-079",
+      "previous_scene": "hi004-011",
+      "gap_from_previous_end": 408.56666666666666
+    },
+    {
+      "source": "kr-k9-archive",
+      "scene": "hi004-083",
+      "previous_scene": "hi004-003",
+      "gap_from_previous_end": 442.3666666666667
+    },
+    {
+      "source": "city-seoul",
+      "scene": "hi004-089",
+      "previous_scene": "hi004-054",
+      "gap_from_previous_end": 252.43333333333334
+    },
+    {
+      "source": "kr-navy",
+      "scene": "hi004-135",
+      "previous_scene": "hi004-004",
+      "gap_from_previous_end": 834.2666666666667
+    },
+    {
+      "source": "kr-f35-flight",
+      "scene": "hi004-141",
+      "previous_scene": "hi004-027",
+      "gap_from_previous_end": 795.3666666666666
+    },
+    {
+      "source": "kr-kf21",
+      "scene": "hi004-147",
+      "previous_scene": "hi004-032",
+      "gap_from_previous_end": 781.0333333333333
+    },
+    {
+      "source": "kr-air",
+      "scene": "hi004-153",
+      "previous_scene": "hi004-064",
+      "gap_from_previous_end": 584.3333333333333
+    }
+  ]
+}

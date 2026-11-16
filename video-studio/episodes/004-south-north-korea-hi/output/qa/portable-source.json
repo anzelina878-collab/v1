@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "source_zip_crc": "passed",
+  "fresh_unpack": "Actual byte extraction of every file into fresh paths, no symlinks or external episode dependencies",
+  "build_episode_byte_identical": true,
+  "original_input_hashes": "passed",
+  "sample_kinds": [
+    "map-globe",
+    "archive",
+    "photo",
+    "graphic",
+    "turntable",
+    "compare",
+    "map-region",
+    "ident",
+    "section",
+    "question",
+    "outro",
+    "photo-north",
+    "compare-us"
+  ],
+  "sample_dimensions": [
+    1920,
+    1080
+  ],
+  "sample_fps": 30,
+  "sample_frames": 585,
+  "sample_full_decode": "passed",
+  "sample_sha256": "2cff553e3a85c02eb1ecef172036a25438e1cd8536fcbb9a804058038dbc3d04",
+  "production_renderer_sha256": "cdcac3ce1d904d8308bbc9d4fc1181d024ae5cecc1a6a26e97a56f5fd999186b",
+  "production_episode_sha256": "1d35e6ddf8e09d2082e0175fa9e984e1a1fdaa1e772c9c67da6f26ff6c7180db",
+  "scope": "All ten scene kinds, both geographic projections, both Korean flags and American shape-comparison sample rendered in freshly extracted runtime. Final bundle adds completed QA/metadata only."
+}

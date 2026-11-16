@@ -1,0 +1,33 @@
+{
+  "status": "discrete_editorial_controls_reviewed",
+  "visual_base": "Approved Ukrainian episode 004; original technical identity/proxy-type notes preserved and translated",
+  "original_narration_paragraphs": 182,
+  "hindi_narration_paragraphs": 182,
+  "new_scene_count": 162,
+  "scene_kinds": {
+    "map": 12,
+    "archive": 31,
+    "photo": 69,
+    "graphic": 13,
+    "turntable": 5,
+    "compare": 16,
+    "ident": 2,
+    "section": 11,
+    "question": 2,
+    "outro": 1
+  },
+  "voice_and_uploaded_text": "Original bytes unchanged, no voice generation or speed alteration",
+  "heading_policy": "Written headings and Russian parentheses not spoken. Eleven short Hindi topic cards synchronized to actual named category word; summary/CTA at their actual opening phrase",
+  "no_equipment_versus_in_section_titles": true,
+  "cyrillic_policy": "Entire active episode JSON, displayed credits, maps and new brand text checked. Original license/provenance documents retained unchanged; Latin author transliteration only in screen credits",
+  "legacy_ident": "Old Cyrillic video removed from active manifest; generated Hindi/Latin cards replace it. Two adjacent final brand cards merged into one continuous entrance and hold",
+  "archive_policy": "Normal speed, available moving source only, no tpad, slowdown or loops. More than 60 seconds from previous end to reuse; small source-boundary overlaps caused by retiming are separated by those verified screen-time gaps.",
+  "model_policy": "Only original detailed F-16 / Apache / Black Hawk banks, 720 real geometric poses per 24-second revolution; real equipment cutouts elsewhere",
+  "photos_and_cards": "Photos locked. Information cards enter once then hold, no recurring animation",
+  "ai_generated_image_or_video_seconds": 0,
+  "original_ukrainian_episode_modified": false,
+  "youtube_published": false,
+  "scope": "All planning sheets reviewed for identity, role, text and layout; discrete encoded controls and full technical verification recorded separately. Continuous human real-time watch/listen is not performed.",
+  "encoded_final_scene_contacts": 162,
+  "full_movie_technical_report": "verification.json"
+}

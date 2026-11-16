@@ -1,0 +1,511 @@
+{
+  "independent_asr_exact_normalized_token_match": 0.46472564389697646,
+  "robust_anchor_token_fraction": 0.3631952220977977,
+  "forced_alignment_windows": [
+    {
+      "start": 0,
+      "end": 22.88,
+      "median_probability": 0.6988290412859484,
+      "p10_probability": 0.40583486333489416
+    },
+    {
+      "start": 20.88,
+      "end": 40.4,
+      "median_probability": 0.7378647923469543,
+      "p10_probability": 0.5561108695529401
+    },
+    {
+      "start": 38.4,
+      "end": 56.875,
+      "median_probability": 0.7774831612904867,
+      "p10_probability": 0.5738304813537333
+    },
+    {
+      "start": 54.875,
+      "end": 77.5,
+      "median_probability": 0.711467808810994,
+      "p10_probability": 0.38322232970967895
+    },
+    {
+      "start": 75.5,
+      "end": 96.49714285714286,
+      "median_probability": 0.7733114361763,
+      "p10_probability": 0.5338572654740087
+    },
+    {
+      "start": 94.49714285714286,
+      "end": 114.62,
+      "median_probability": 0.706786471605301,
+      "p10_probability": 0.49846652678790554
+    },
+    {
+      "start": 112.62,
+      "end": 131.75,
+      "median_probability": 0.793299525976181,
+      "p10_probability": 0.49941749684512615
+    },
+    {
+      "start": 129.75,
+      "end": 151.27608695652174,
+      "median_probability": 0.722286795079708,
+      "p10_probability": 0.5605838571985563
+    },
+    {
+      "start": 149.27608695652174,
+      "end": 166.69565217391306,
+      "median_probability": 0.697875996430715,
+      "p10_probability": 0.5353525400161743
+    },
+    {
+      "start": 164.69565217391306,
+      "end": 179.10652173913044,
+      "median_probability": 0.6867390779985322,
+      "p10_probability": 0.505393914381663
+    },
+    {
+      "start": 177.10652173913044,
+      "end": 196.03043478260872,
+      "median_probability": 0.7221803665161133,
+      "p10_probability": 0.5193552063850478
+    },
+    {
+      "start": 194.03043478260872,
+      "end": 215.23882352941177,
+      "median_probability": 0.7355251684784889,
+      "p10_probability": 0.5184241305291653
+    },
+    {
+      "start": 213.23882352941177,
+      "end": 236.65333333333334,
+      "median_probability": 0.7889232599309512,
+      "p10_probability": 0.5409032049030066
+    },
+    {
+      "start": 234.65333333333334,
+      "end": 258.82666666666665,
+      "median_probability": 0.7849154807627201,
+      "p10_probability": 0.5162918918136069
+    },
+    {
+      "start": 256.82666666666665,
+      "end": 281.282,
+      "median_probability": 0.7685191283623377,
+      "p10_probability": 0.5128353892586062
+    },
+    {
+      "start": 279.282,
+      "end": 303.86,
+      "median_probability": 0.738792498409748,
+      "p10_probability": 0.49644012770482476
+    },
+    {
+      "start": 301.86,
+      "end": 321.9326315789474,
+      "median_probability": 0.729949414730072,
+      "p10_probability": 0.558463363496121
+    },
+    {
+      "start": 319.9326315789474,
+      "end": 341.53333333333336,
+      "median_probability": 0.7558666065335273,
+      "p10_probability": 0.506053456477821
+    },
+    {
+      "start": 339.53333333333336,
+      "end": 361.4666666666667,
+      "median_probability": 0.8010312219460805,
+      "p10_probability": 0.5565341344475747
+    },
+    {
+      "start": 359.4666666666667,
+      "end": 381.5293023255814,
+      "median_probability": 0.7729942372689644,
+      "p10_probability": 0.5496814541518689
+    },
+    {
+      "start": 379.5293023255814,
+      "end": 403.38,
+      "median_probability": 0.7140233715375265,
+      "p10_probability": 0.4984414481690952
+    },
+    {
+      "start": 401.38,
+      "end": 423.74,
+      "median_probability": 0.7230559426049392,
+      "p10_probability": 0.4645141857779689
+    },
+    {
+      "start": 415.22,
+      "end": 425.42,
+      "median_probability": 0.6549879719813665,
+      "p10_probability": 0.5566131091425344
+    },
+    {
+      "start": 421.76000000000005,
+      "end": 427.96000000000004,
+      "median_probability": 0.697172949223646,
+      "p10_probability": 0.5786424696445466
+    },
+    {
+      "start": 424.4800000000001,
+      "end": 435.4800000000001,
+      "median_probability": 0.7698749239659972,
+      "p10_probability": 0.6185412517349634
+    },
+    {
+      "start": 433.2200000000001,
+      "end": 442.2200000000001,
+      "median_probability": 0.6986291466487778,
+      "p10_probability": 0.6320730646492706
+    },
+    {
+      "start": 438.9800000000001,
+      "end": 446.38000000000005,
+      "median_probability": 0.7190174162387848,
+      "p10_probability": 0.6728959282239279
+    },
+    {
+      "start": 442.6400000000001,
+      "end": 451.2400000000001,
+      "median_probability": 0.7152683561401708,
+      "p10_probability": 0.5796530338376761
+    },
+    {
+      "start": 449.44964705882353,
+      "end": 473.76800000000003,
+      "median_probability": 0.7603672796062061,
+      "p10_probability": 0.5239920479928454
+    },
+    {
+      "start": 471.76800000000003,
+      "end": 493.31,
+      "median_probability": 0.7569545476386945,
+      "p10_probability": 0.4914377159128587
+    },
+    {
+      "start": 491.31,
+      "end": 514.11,
+      "median_probability": 0.7429058459986534,
+      "p10_probability": 0.4841156229376793
+    },
+    {
+      "start": 512.11,
+      "end": 534.86,
+      "median_probability": 0.7579801470041275,
+      "p10_probability": 0.5345900000693897
+    },
+    {
+      "start": 532.86,
+      "end": 556.8299999999999,
+      "median_probability": 0.7397620479265848,
+      "p10_probability": 0.5622676950693131
+    },
+    {
+      "start": 554.8299999999999,
+      "end": 579.15,
+      "median_probability": 0.8199181407690048,
+      "p10_probability": 0.5645444090167681
+    },
+    {
+      "start": 577.15,
+      "end": 600.1566666666666,
+      "median_probability": 0.8058332995112454,
+      "p10_probability": 0.5033522322773933
+    },
+    {
+      "start": 598.1566666666666,
+      "end": 620.33,
+      "median_probability": 0.7976784974336624,
+      "p10_probability": 0.6127516229947408
+    },
+    {
+      "start": 618.33,
+      "end": 638.6471428571429,
+      "median_probability": 0.807485452038236,
+      "p10_probability": 0.5619924088940025
+    },
+    {
+      "start": 636.6471428571429,
+      "end": 658.9266666666666,
+      "median_probability": 0.8464541077613831,
+      "p10_probability": 0.5283014178276062
+    },
+    {
+      "start": 656.9266666666666,
+      "end": 679.8833333333333,
+      "median_probability": 0.7505812758579851,
+      "p10_probability": 0.5353575057350098
+    },
+    {
+      "start": 677.8833333333333,
+      "end": 696.7918181818181,
+      "median_probability": 0.8013724533220132,
+      "p10_probability": 0.46869127308018504
+    },
+    {
+      "start": 694.7918181818181,
+      "end": 716.2071428571429,
+      "median_probability": 0.7883306093927887,
+      "p10_probability": 0.4985387936283727
+    },
+    {
+      "start": 714.2071428571429,
+      "end": 737.27,
+      "median_probability": 0.7174789852773149,
+      "p10_probability": 0.4531403065969547
+    },
+    {
+      "start": 735.27,
+      "end": 756.505294117647,
+      "median_probability": 0.7161909937858582,
+      "p10_probability": 0.35696932673454285
+    },
+    {
+      "start": 754.505294117647,
+      "end": 778.11,
+      "median_probability": 0.7405252626964024,
+      "p10_probability": 0.5069084391038632
+    },
+    {
+      "start": 776.11,
+      "end": 799.3776923076923,
+      "median_probability": 0.7443689512785034,
+      "p10_probability": 0.4738371052662842
+    },
+    {
+      "start": 797.3776923076923,
+      "end": 819.49,
+      "median_probability": 0.7144636035793357,
+      "p10_probability": 0.5070187610658733
+    },
+    {
+      "start": 817.49,
+      "end": 838.375,
+      "median_probability": 0.7128007235670728,
+      "p10_probability": 0.46882687632933084
+    },
+    {
+      "start": 836.375,
+      "end": 857.23,
+      "median_probability": 0.7764557903366429,
+      "p10_probability": 0.5588707662760638
+    },
+    {
+      "start": 855.23,
+      "end": 877.77,
+      "median_probability": 0.7652531862258911,
+      "p10_probability": 0.5613897850387729
+    },
+    {
+      "start": 875.77,
+      "end": 898.61,
+      "median_probability": 0.7549074617299166,
+      "p10_probability": 0.5558165391286215
+    },
+    {
+      "start": 896.61,
+      "end": 916.25,
+      "median_probability": 0.7783375245829423,
+      "p10_probability": 0.5874660389963537
+    },
+    {
+      "start": 914.25,
+      "end": 939.19,
+      "median_probability": 0.7607271298766136,
+      "p10_probability": 0.5813107694848441
+    },
+    {
+      "start": 937.19,
+      "end": 960.27,
+      "median_probability": 0.7880525171756745,
+      "p10_probability": 0.6008844047784806
+    },
+    {
+      "start": 958.27,
+      "end": 983.186,
+      "median_probability": 0.7855494703565326,
+      "p10_probability": 0.5516179452339809
+    },
+    {
+      "start": 981.186,
+      "end": 1002.312,
+      "median_probability": 0.8349725504716237,
+      "p10_probability": 0.5740804047825245
+    }
+  ],
+  "forced_words_not_counted_as_independent_asr": true,
+  "spoken_paragraphs": 182,
+  "spoken_section_headings": 0,
+  "audio_duration": 1002.312,
+  "voice_altered": false,
+  "visual_section_titles": 11,
+  "written_heading_policy": "Headings not narrated: use actual spoken chapter-opening phrases, not old timestamp hints",
+  "chapter_transition_refinement": [
+    {
+      "chapter": 1,
+      "title": "वायु सेना",
+      "spoken_heading": false,
+      "cue_time": 69.415,
+      "actual_phrase": "शुरुआत वायु सेना से करते हैं।",
+      "median_probability": 0.7140195270379385,
+      "window": [
+        62.655,
+        76.88000000000001
+      ],
+      "block_opening_time": 68.595,
+      "cue_word": "वायु",
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    },
+    {
+      "chapter": 2,
+      "title": "टैंक",
+      "spoken_heading": false,
+      "cue_time": 160.73608695652175,
+      "actual_phrase": "अब बात टैंकों की।",
+      "median_probability": 0.7043107662882123,
+      "window": [
+        150.17608695652174,
+        167.35565217391306
+      ],
+      "block_opening_time": 159.77608695652174,
+      "cue_word": "टैंकों",
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    },
+    {
+      "chapter": 3,
+      "title": "मिसाइलें",
+      "spoken_heading": false,
+      "cue_time": 277.8666666666667,
+      "actual_phrase": "अब उस श्रेणी की बात करते हैं, जो पूरे शक्ति संतुलन को बदल देती है।",
+      "median_probability": 0.7760761926571528,
+      "window": [
+        265.94666666666666,
+        280.542
+      ],
+      "block_opening_time": 273.68666666666667,
+      "cue_word": "मिसाइल",
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    },
+    {
+      "chapter": 4,
+      "title": "पैदल सेना",
+      "spoken_heading": false,
+      "cue_time": 374.2666666666667,
+      "actual_phrase": "अब पैदल सेना की ओर बढ़ते हैं।",
+      "median_probability": 0.7104970266421636,
+      "window": [
+        365.3866666666667,
+        381.3293023255814
+      ],
+      "block_opening_time": 373.6866666666667,
+      "cue_word": "पैदल",
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    },
+    {
+      "chapter": 5,
+      "title": "तोपखाना",
+      "spoken_heading": false,
+      "cue_time": 452.40000000000015,
+      "actual_phrase": "अब सबसे महत्वपूर्ण श्रेणियों में से एक की बात करते हैं।",
+      "median_probability": 0.7626518692821265,
+      "window": [
+        442.72000000000014,
+        453.80964705882354
+      ],
+      "block_opening_time": 448.98000000000013,
+      "cue_word": "तोपखाना",
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    },
+    {
+      "chapter": 6,
+      "title": "ड्रोन",
+      "spoken_heading": false,
+      "cue_time": 551.6999999999999,
+      "actual_phrase": "ड्रोन के बिना आधुनिक युद्ध की कल्पना करना मुश्किल है।",
+      "median_probability": 0.7731585517525673,
+      "window": [
+        545.04,
+        560.4699999999999
+      ],
+      "block_opening_time": 551.6999999999999,
+      "cue_word": "ड्रोन",
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    },
+    {
+      "chapter": 7,
+      "title": "वायु रक्षा",
+      "spoken_heading": false,
+      "cue_time": 627.61,
+      "actual_phrase": "अब बात वायु रक्षा की।",
+      "median_probability": 0.8051325604319572,
+      "window": [
+        619.15,
+        634.71
+      ],
+      "block_opening_time": 626.31,
+      "cue_word": "वायु",
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    },
+    {
+      "chapter": 8,
+      "title": "हेलीकॉप्टर",
+      "spoken_heading": false,
+      "cue_time": 713.3318181818181,
+      "actual_phrase": "दक्षिण कोरिया AH-64E Apache Guardian हमलावर हेलीकॉप्टर इस्तेमाल करता है।",
+      "median_probability": 0.7085914456595978,
+      "window": [
+        701.1718181818181,
+        720.3271428571429
+      ],
+      "block_opening_time": 708.8718181818182,
+      "cue_word": "हेलीकॉप्टर",
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    },
+    {
+      "chapter": 9,
+      "title": "नौसेना",
+      "spoken_heading": false,
+      "cue_time": 773.3652941176471,
+      "actual_phrase": "अब समुद्र की ओर चलते हैं।",
+      "median_probability": 0.7682219485441844,
+      "window": [
+        761.4852941176471,
+        777.4499999999999
+      ],
+      "block_opening_time": 768.9452941176471,
+      "cue_word": "नौसेना",
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    },
+    {
+      "chapter": 10,
+      "title": "निष्कर्ष",
+      "spoken_heading": false,
+      "cue_time": 862.4300000000001,
+      "actual_phrase": "हमने उन दो देशों के सैन्य शस्त्रागार की तुलना की है, जो सत्तर से अधिक वर्षों से एक ऐसे संघर्ष की स्थिति में जी रहे हैं, जिसका अंतिम समाधान नहीं हुआ है।",
+      "median_probability": 0.7710691193739573,
+      "window": [
+        856.09,
+        874.77
+      ],
+      "block_opening_time": 862.4300000000001,
+      "cue_word": null,
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    },
+    {
+      "chapter": 11,
+      "title": "आपकी राय",
+      "spoken_heading": false,
+      "cue_time": 965.9699999999999,
+      "actual_phrase": "अब आपकी बारी।",
+      "median_probability": 0.7807530739477703,
+      "window": [
+        959.1899999999999,
+        971.39
+      ],
+      "block_opening_time": 965.9699999999999,
+      "cue_word": null,
+      "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+    }
+  ],
+  "title_cue_policy": "Actual category word: do not let a short card finish during a preface before the topic is spoken"
+}

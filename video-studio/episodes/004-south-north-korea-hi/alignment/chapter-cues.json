@@ -1,0 +1,167 @@
+[
+  {
+    "chapter": 1,
+    "title": "वायु सेना",
+    "spoken_heading": false,
+    "cue_time": 69.415,
+    "actual_phrase": "शुरुआत वायु सेना से करते हैं।",
+    "median_probability": 0.7140195270379385,
+    "window": [
+      62.655,
+      76.88000000000001
+    ],
+    "block_opening_time": 68.595,
+    "cue_word": "वायु",
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  },
+  {
+    "chapter": 2,
+    "title": "टैंक",
+    "spoken_heading": false,
+    "cue_time": 160.73608695652175,
+    "actual_phrase": "अब बात टैंकों की।",
+    "median_probability": 0.7043107662882123,
+    "window": [
+      150.17608695652174,
+      167.35565217391306
+    ],
+    "block_opening_time": 159.77608695652174,
+    "cue_word": "टैंकों",
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  },
+  {
+    "chapter": 3,
+    "title": "मिसाइलें",
+    "spoken_heading": false,
+    "cue_time": 277.8666666666667,
+    "actual_phrase": "अब उस श्रेणी की बात करते हैं, जो पूरे शक्ति संतुलन को बदल देती है।",
+    "median_probability": 0.7760761926571528,
+    "window": [
+      265.94666666666666,
+      280.542
+    ],
+    "block_opening_time": 273.68666666666667,
+    "cue_word": "मिसाइल",
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  },
+  {
+    "chapter": 4,
+    "title": "पैदल सेना",
+    "spoken_heading": false,
+    "cue_time": 374.2666666666667,
+    "actual_phrase": "अब पैदल सेना की ओर बढ़ते हैं।",
+    "median_probability": 0.7104970266421636,
+    "window": [
+      365.3866666666667,
+      381.3293023255814
+    ],
+    "block_opening_time": 373.6866666666667,
+    "cue_word": "पैदल",
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  },
+  {
+    "chapter": 5,
+    "title": "तोपखाना",
+    "spoken_heading": false,
+    "cue_time": 452.40000000000015,
+    "actual_phrase": "अब सबसे महत्वपूर्ण श्रेणियों में से एक की बात करते हैं।",
+    "median_probability": 0.7626518692821265,
+    "window": [
+      442.72000000000014,
+      453.80964705882354
+    ],
+    "block_opening_time": 448.98000000000013,
+    "cue_word": "तोपखाना",
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  },
+  {
+    "chapter": 6,
+    "title": "ड्रोन",
+    "spoken_heading": false,
+    "cue_time": 551.6999999999999,
+    "actual_phrase": "ड्रोन के बिना आधुनिक युद्ध की कल्पना करना मुश्किल है।",
+    "median_probability": 0.7731585517525673,
+    "window": [
+      545.04,
+      560.4699999999999
+    ],
+    "block_opening_time": 551.6999999999999,
+    "cue_word": "ड्रोन",
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  },
+  {
+    "chapter": 7,
+    "title": "वायु रक्षा",
+    "spoken_heading": false,
+    "cue_time": 627.61,
+    "actual_phrase": "अब बात वायु रक्षा की।",
+    "median_probability": 0.8051325604319572,
+    "window": [
+      619.15,
+      634.71
+    ],
+    "block_opening_time": 626.31,
+    "cue_word": "वायु",
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  },
+  {
+    "chapter": 8,
+    "title": "हेलीकॉप्टर",
+    "spoken_heading": false,
+    "cue_time": 713.3318181818181,
+    "actual_phrase": "दक्षिण कोरिया AH-64E Apache Guardian हमलावर हेलीकॉप्टर इस्तेमाल करता है।",
+    "median_probability": 0.7085914456595978,
+    "window": [
+      701.1718181818181,
+      720.3271428571429
+    ],
+    "block_opening_time": 708.8718181818182,
+    "cue_word": "हेलीकॉप्टर",
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  },
+  {
+    "chapter": 9,
+    "title": "नौसेना",
+    "spoken_heading": false,
+    "cue_time": 773.3652941176471,
+    "actual_phrase": "अब समुद्र की ओर चलते हैं।",
+    "median_probability": 0.7682219485441844,
+    "window": [
+      761.4852941176471,
+      777.4499999999999
+    ],
+    "block_opening_time": 768.9452941176471,
+    "cue_word": "नौसेना",
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  },
+  {
+    "chapter": 10,
+    "title": "निष्कर्ष",
+    "spoken_heading": false,
+    "cue_time": 862.4300000000001,
+    "actual_phrase": "हमने उन दो देशों के सैन्य शस्त्रागार की तुलना की है, जो सत्तर से अधिक वर्षों से एक ऐसे संघर्ष की स्थिति में जी रहे हैं, जिसका अंतिम समाधान नहीं हुआ है।",
+    "median_probability": 0.7710691193739573,
+    "window": [
+      856.09,
+      874.77
+    ],
+    "block_opening_time": 862.4300000000001,
+    "cue_word": null,
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  },
+  {
+    "chapter": 11,
+    "title": "आपकी राय",
+    "spoken_heading": false,
+    "cue_time": 965.9699999999999,
+    "actual_phrase": "अब आपकी बारी।",
+    "median_probability": 0.7807530739477703,
+    "window": [
+      959.1899999999999,
+      971.39
+    ],
+    "block_opening_time": 965.9699999999999,
+    "cue_word": null,
+    "cue_policy": "First spoken category word, or opening phrase for summary/CTA"
+  }
+]

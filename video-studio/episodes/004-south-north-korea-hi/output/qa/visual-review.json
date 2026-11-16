@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "planning_sheets_reviewed": 7,
+  "encoded_final_movie_sheets_reviewed": 7,
+  "final_scene_count": 162,
+  "short_topic_titles_reviewed": 11,
+  "visual_checks": [
+    "Hindi shaping, model names and translated type/proxy caveats",
+    "Both Korean flags and correctly attributed American shape-comparison examples",
+    "All geographic labels translated; no Cyrillic editorial text or legacy brand bank",
+    "Approved real cutouts and detailed native 3D retained",
+    "One continuous final brand card, no duplicate title entry",
+    "No unintended missing asset / blank frame in inspected controls"
+  ],
+  "full_technical_checks": "See verification.json, native-3d-motion.json and chapter-onsets.json",
+  "continuous_human_watch_and_listen": false,
+  "scope": "All scene contact controls plus topic-title onset decoding; not a continuous real-time watch/listen of the entire film"
+}

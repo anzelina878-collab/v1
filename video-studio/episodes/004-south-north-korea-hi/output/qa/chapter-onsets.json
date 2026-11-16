@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "method": "At each audio cue, decoded final movie title region compared to fully revealed intended title plate; cue from contextual forced word alignment. Written headings are not narrated: titles use contextual alignment of the actual first phrase in each block.",
+  "chapters": [
+    {
+      "title": "वायु सेना",
+      "spoken_start": 69.4,
+      "card_start": 68.6,
+      "reveal_lead_seconds": 0.15,
+      "fully_visible_title_area_mae": 1.3205925925925925
+    },
+    {
+      "title": "टैंक",
+      "spoken_start": 160.73333333333332,
+      "card_start": 159.8,
+      "reveal_lead_seconds": 0.283333,
+      "fully_visible_title_area_mae": 1.3271851851851852
+    },
+    {
+      "title": "मिसाइलें",
+      "spoken_start": 277.8666666666667,
+      "card_start": 277.1666666666667,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3276296296296297
+    },
+    {
+      "title": "पैदल सेना",
+      "spoken_start": 374.26666666666665,
+      "card_start": 373.56666666666666,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.318395061728395
+    },
+    {
+      "title": "तोपखाना",
+      "spoken_start": 452.4,
+      "card_start": 451.7,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.317753086419753
+    },
+    {
+      "title": "ड्रोन",
+      "spoken_start": 551.7,
+      "card_start": 551.0,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3331851851851853
+    },
+    {
+      "title": "वायु रक्षा",
+      "spoken_start": 627.6,
+      "card_start": 626.3,
+      "reveal_lead_seconds": 0.65,
+      "fully_visible_title_area_mae": 1.3259753086419752
+    },
+    {
+      "title": "हेलीकॉप्टर",
+      "spoken_start": 713.3333333333334,
+      "card_start": 712.6333333333333,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3452592592592592
+    },
+    {
+      "title": "नौसेना",
+      "spoken_start": 773.3666666666667,
+      "card_start": 772.6666666666666,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3217283950617285
+    },
+    {
+      "title": "निष्कर्ष",
+      "spoken_start": 862.4333333333333,
+      "card_start": 861.7333333333333,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3219506172839506
+    },
+    {
+      "title": "आपकी राय",
+      "spoken_start": 965.9666666666667,
+      "card_start": 965.2666666666667,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3194567901234568
+    }
+  ]
+}

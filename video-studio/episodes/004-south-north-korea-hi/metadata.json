@@ -1,0 +1,115 @@
+{
+  "language": "hi",
+  "channel": "ARSENAL 360 / शस्त्र 360",
+  "title": "South Korea vs North Korea 2026: किसकी सैन्य ताकत ज़्यादा है?",
+  "description": "दक्षिण कोरिया और उत्तर कोरिया की सैन्य ताकत की तुलना: लड़ाकू विमान, टैंक, मिसाइलें, तोपखाना, ड्रोन, वायु रक्षा और नौसेना। आधुनिक तकनीक, बड़ी सैन्य संख्या और परमाणु प्रतिरोध को समझिए।\n\n00:00 परिचय\n01:09 वायु सेना\n02:40 टैंक\n04:37 मिसाइलें\n06:14 पैदल सेना\n07:32 तोपखाना\n09:11 ड्रोन\n10:27 वायु रक्षा\n11:53 हेलीकॉप्टर\n12:53 नौसेना\n14:22 निष्कर्ष\n16:05 आपकी राय\n\nSources and author credits: https://github.com/anzelina878-collab/v1/blob/main/video-studio/episodes/004-south-north-korea-hi/SOURCES.md",
+  "duration": 1002.3333333333334,
+  "chapters": [
+    {
+      "start": 0,
+      "spoken_start": 0,
+      "title": "परिचय",
+      "display_start": 0
+    },
+    {
+      "start": 69.4,
+      "spoken_start": 69.4,
+      "spoken_end": 71.215,
+      "display_start": 68.7,
+      "fully_visible_at": 69.35000000000001,
+      "display_end": 71.7,
+      "title": "वायु सेना"
+    },
+    {
+      "start": 160.73333333333332,
+      "spoken_start": 160.73333333333332,
+      "spoken_end": 162.53608695652176,
+      "display_start": 160.03333333333333,
+      "fully_visible_at": 160.68333333333334,
+      "display_end": 163.03333333333333,
+      "title": "टैंक"
+    },
+    {
+      "start": 277.8666666666667,
+      "spoken_start": 277.8666666666667,
+      "spoken_end": 279.6666666666667,
+      "display_start": 277.1666666666667,
+      "fully_visible_at": 277.81666666666666,
+      "display_end": 280.1666666666667,
+      "title": "मिसाइलें"
+    },
+    {
+      "start": 374.26666666666665,
+      "spoken_start": 374.26666666666665,
+      "spoken_end": 376.0666666666667,
+      "display_start": 373.56666666666666,
+      "fully_visible_at": 374.21666666666664,
+      "display_end": 376.56666666666666,
+      "title": "पैदल सेना"
+    },
+    {
+      "start": 452.4,
+      "spoken_start": 452.4,
+      "spoken_end": 454.20000000000016,
+      "display_start": 451.7,
+      "fully_visible_at": 452.34999999999997,
+      "display_end": 454.7,
+      "title": "तोपखाना"
+    },
+    {
+      "start": 551.7,
+      "spoken_start": 551.7,
+      "spoken_end": 553.4999999999999,
+      "display_start": 551.0,
+      "fully_visible_at": 551.65,
+      "display_end": 554.0,
+      "title": "ड्रोन"
+    },
+    {
+      "start": 627.6,
+      "spoken_start": 627.6,
+      "spoken_end": 629.41,
+      "display_start": 626.9,
+      "fully_visible_at": 627.55,
+      "display_end": 629.9,
+      "title": "वायु रक्षा"
+    },
+    {
+      "start": 713.3333333333334,
+      "spoken_start": 713.3333333333334,
+      "spoken_end": 715.1318181818181,
+      "display_start": 712.6333333333333,
+      "fully_visible_at": 713.2833333333333,
+      "display_end": 715.6333333333333,
+      "title": "हेलीकॉप्टर"
+    },
+    {
+      "start": 773.3666666666667,
+      "spoken_start": 773.3666666666667,
+      "spoken_end": 775.165294117647,
+      "display_start": 772.6666666666666,
+      "fully_visible_at": 773.3166666666666,
+      "display_end": 775.6666666666666,
+      "title": "नौसेना"
+    },
+    {
+      "start": 862.4333333333333,
+      "spoken_start": 862.4333333333333,
+      "spoken_end": 864.23,
+      "display_start": 861.7333333333333,
+      "fully_visible_at": 862.3833333333333,
+      "display_end": 864.7333333333333,
+      "title": "निष्कर्ष"
+    },
+    {
+      "start": 965.9666666666667,
+      "spoken_start": 965.9666666666667,
+      "spoken_end": 967.7699999999999,
+      "display_start": 965.2666666666667,
+      "fully_visible_at": 965.9166666666666,
+      "display_end": 968.2666666666667,
+      "title": "आपकी राय"
+    }
+  ],
+  "youtube_published": false
+}

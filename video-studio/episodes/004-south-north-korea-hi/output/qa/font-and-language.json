@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "weights": [
+    "Regular",
+    "Bold"
+  ],
+  "visible_strings_per_weight": 788,
+  "raqm_available": true,
+  "missing_characters": [],
+  "cyrillic_in_visible_editorial_text": false,
+  "cyrillic_in_entire_active_episode_json": false,
+  "map_labels_included": true,
+  "legacy_cyrillic_ident_removed": true,
+  "new_channel_brand": "ARSENAL 360 / शस्त्र 360",
+  "original_credits": "Full original author names kept in provenance, display-only transliteration where required"
+}
