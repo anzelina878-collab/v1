@@ -83,10 +83,12 @@ def render(plan,shots,assets,output,jobs):
    cmd+=['-loop','1','-i',str(src)]
    if a['width']/a['height']<1.5:
     vf+=['scale=1800:1000:force_original_aspect_ratio=decrease:flags=lanczos','pad=1920:1080:(ow-iw)/2:(oh-ih)/2:color=0x030710']
-   else:vf+=([f"crop={a['crop']}"] if a.get('crop') else [])+['scale=1920:1080:force_original_aspect_ratio=increase:flags=lanczos','crop=1920:1080']
+   else:vf+=([f"v360=input=equirect:output=flat:h_fov=100:v_fov=65:yaw={a.get('yaw',0)}:w=1920:h=1080"] if a.get('projection')=='equirect' else [])
+   vf+=([f"crop={a['crop']}"] if a.get('crop') else [])+['scale=1920:1080:force_original_aspect_ratio=increase:flags=lanczos','crop=1920:1080']
    vf+=[f"zoompan=z='min({1.055+s.get('photo_variant',0)*.16},{1+s.get('photo_variant',0)*.16}+on*0.00012)':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d={rawframes}:s=1920x1080:fps={fps}"]
   else:
    cmd+=['-ss',str(s['in']),'-t',str(duration*s.get('rate',1)+.1),'-i',str(src)]
+   vf+=([f"v360=input=equirect:output=flat:h_fov=100:v_fov=65:yaw={a.get('yaw',0)}:w=1920:h=1080"] if a.get('projection')=='equirect' else [])
    vf+=([f"crop={a['crop']}"] if a.get('crop') else [])
    vf+=[f"setpts=(PTS-STARTPTS)/{s.get('rate',1)}"]+(['scale=1920:1080:force_original_aspect_ratio=decrease:flags=lanczos','pad=1920:1080:(ow-iw)/2:(oh-ih)/2:color=black'] if a.get('contain') else ['scale=1920:1080:force_original_aspect_ratio=increase:flags=lanczos','crop=1920:1080'])+[f'fps={fps}']
   vf+=['tpad=stop_mode=clone:stop_duration=1','setsar=1','eq=contrast=1.01:saturation=1.015']
