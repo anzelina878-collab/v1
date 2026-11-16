@@ -565,7 +565,7 @@ Credit: NASA's Goddard Space Flight Center. However, indivdidual items should be
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1080 × 1080
 Kind: science3d
-Selected source ranges: 0.300–4.660 s; 4.700–10.700 s; 11.500–31.580 s
+Selected source ranges: 0.300–4.660 s; 4.700–10.700 s
 
 ## extra13326_1
 NASA SVS | Black Hole Accretion Disk Visualization — BH_AccretionDisk_Sim_360_Center_16x9_1080.mp4
@@ -852,3 +852,14 @@ License / usage: Original KOSMION production —
 Native dimensions: 1920 × 1080
 Kind: original3d
 Selected source ranges: 0.300–13.660 s
+
+## supporting_bh_orbit
+Orbiting a black hole, spatial scientific visualization
+
+Source: https://svs.gsfc.nasa.gov/14619/
+Media: https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014619/2-Orbiting_a_black_hole-HD.mp4
+Credit: NASA/JPL-Caltech/R. Hurt (IPAC)
+License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
+Native dimensions: 1920 × 1080
+Kind: science3d
+Selected source ranges: 0.300–14.758 s
