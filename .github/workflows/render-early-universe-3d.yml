@@ -1,0 +1,38 @@
+name: Render KOSMION early-universe spatial explanations
+on:
+  push:
+    branches: [cosmos-005-early-universe]
+    paths: [.github/workflows/render-early-universe-3d.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  scene:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 70
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        scene: [nuclei, helium, lithium, redshift]
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq blender ffmpeg xvfb libgl1-mesa-dri
+      - name: Render and encode original spatial illustration
+        env:
+          LIBGL_ALWAYS_SOFTWARE: '1'
+          XDG_CACHE_HOME: /tmp/kosmion-render-cache
+        run: |
+          cd cosmos/005-early-universe
+          xvfb-run -a blender -b -t 2 -P make3d.py -- ${{ matrix.scene }} > scene-render.log 2>&1
+          ffmpeg -y -v warning -framerate 25 -i 3d/${{ matrix.scene }}/frame-%04d.jpg -t 20 -an -c:v libx264 -preset veryfast -crf 18 -threads 2 -pix_fmt yuv420p ${{ matrix.scene }}.mp4
+          ffmpeg -y -v error -ss 8 -i ${{ matrix.scene }}.mp4 -frames:v 1 pilot.jpg
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: early-universe-scene-${{ matrix.scene }}
+          path: |
+            cosmos/005-early-universe/${{ matrix.scene }}.mp4
+            cosmos/005-early-universe/pilot.jpg
+            cosmos/005-early-universe/scene-render.log
+          retention-days: 7
