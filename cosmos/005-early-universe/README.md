@@ -1,7 +1,9 @@
-# KOSMION · Das frühe Universum
+# KOSMION · Frühes Universum
 
 Mit dem frühen Universum stimmt etwas nicht
 
-Production of one complete German documentary with the supplied narration. Authentic telescope observations, relevant archive, scientific spatial visualizations, supporting stock, restrained German typography and smooth picture transitions.
+[Download the complete documentary — 22:20 · Full HD MP4](https://github.com/anzelina878-collab/v1/releases/download/cosmos-005-early-universe/Fruehes_Universum_KOSMION_1080p.mp4)
 
-[SOURCES.md](SOURCES.md) records original publishers, authors, usage terms and selected ranges. Raw narration, script and speech timing remain private. Processing outputs are authenticated workflow artifacts, not separate public deliverables.
+One complete German documentary with the supplied narration, scientific spatial visualizations, selected archive and observations, and sparse German typography.
+
+See [SOURCES.md](SOURCES.md) for source attribution and selected ranges, and [QUALITY_REPORT.md](QUALITY_REPORT.md) for the final checks. Raw narration, script and speech alignment remain private.
