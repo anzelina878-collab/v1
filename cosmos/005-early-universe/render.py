@@ -1,5 +1,5 @@
 """Render silent, frame-accurate picture. Supplied narration never leaves the private workspace."""
-import pathlib,json,subprocess,argparse,hashlib,concurrent.futures,os,time,urllib.request,http.cookiejar,zipfile,shutil
+import pathlib,json,subprocess,argparse,hashlib,concurrent.futures,os,time,urllib.request,urllib.parse,http.cookiejar,zipfile,shutil
 R=pathlib.Path(__file__).resolve().parent
 
 def command(args,log):
@@ -13,8 +13,13 @@ def download(url,dest):
    with urllib.request.urlopen(req,timeout=150) as source,open(dest.with_suffix('.download'),'wb') as out:
     while b:=source.read(1024*1024):out.write(b)
    dest.with_suffix('.download').replace(dest);return
-  except Exception:
-   if attempt==3:raise
+  except Exception as error:
+   print('Publisher transfer retry',urllib.parse.urlsplit(url).netloc,type(error).__name__,flush=True)
+   try:
+    subprocess.run(['curl','--fail','--location','--retry','3','--connect-timeout','30','--max-time','300','--user-agent','Mozilla/5.0','--output',str(dest.with_suffix('.download')),url],check=True,stdout=subprocess.DEVNULL,stderr=subprocess.PIPE)
+    dest.with_suffix('.download').replace(dest);return
+   except subprocess.CalledProcessError:
+    if attempt==3:raise error
    time.sleep(3*(attempt+1))
 def prepare(plan,shots):
  assets={a['key']:a for a in plan['assets']};needed={s['asset'] for s in shots};(R/'assets').mkdir(exist_ok=True);(R/'logs').mkdir(exist_ok=True);
