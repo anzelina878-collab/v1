@@ -1,0 +1,46 @@
+name: Render reviewed KOSMION early-universe documentary picture
+on:
+  push:
+    branches: [cosmos-005-early-universe]
+    paths: [.github/workflows/render-early-universe-picture.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  picture:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        part: [0, 1, 2, 3, 4]
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Render and verify silent documentary picture
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          PICTURE_PART: ${{ matrix.part }}
+        run: |
+          cd cosmos/005-early-universe
+          python3 -u render.py --part ${{ matrix.part }} --prepare --jobs 2 > picture-render.log 2>&1
+          python3 - <<'PY'
+          import os,pathlib,json,hashlib
+          i=int(os.environ['PICTURE_PART']);p=pathlib.Path(f'picture_{i:02}.mp4');h=hashlib.sha256()
+          with p.open('rb') as f:
+              while b:=f.read(1048576):h.update(b)
+          pathlib.Path('picture-receipt.json').write_text(json.dumps(dict(part=i,bytes=p.stat().st_size,sha256=h.hexdigest()),indent=2))
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: early-universe-picture-${{ matrix.part }}
+          path: |
+            cosmos/005-early-universe/picture_*.mp4
+            cosmos/005-early-universe/picture_*.verification.json
+            cosmos/005-early-universe/picture-receipt.json
+            cosmos/005-early-universe/picture-render.log
+          retention-days: 2
