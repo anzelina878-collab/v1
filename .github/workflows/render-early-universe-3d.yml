@@ -24,7 +24,7 @@ jobs:
           XDG_CACHE_HOME: /tmp/kosmion-render-cache
         run: |
           cd cosmos/005-early-universe
-          xvfb-run -a blender -b -t 2 -P make3d.py -- ${{ matrix.scene }} > scene-render.log 2>&1
+          xvfb-run -a blender -b --python-exit-code 1 -t 2 -P make3d.py -- ${{ matrix.scene }} > scene-render.log 2>&1
           ffmpeg -y -v warning -framerate 25 -i 3d/${{ matrix.scene }}/frame-%04d.jpg -t 20 -an -c:v libx264 -preset veryfast -crf 18 -threads 2 -pix_fmt yuv420p ${{ matrix.scene }}.mp4
           ffmpeg -y -v error -ss 8 -i ${{ matrix.scene }}.mp4 -frames:v 1 pilot.jpg
       - uses: actions/upload-artifact@v4
