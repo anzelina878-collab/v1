@@ -1,0 +1,4325 @@
+{
+  "title": "Mit dem frühen Universum stimmt etwas nicht",
+  "fps": 25,
+  "width": 1920,
+  "height": 1080,
+  "duration": 1340.48,
+  "audio_duration": 1340.448,
+  "assets": [
+    {
+      "key": "CEERS1",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/CEERS1.mp4",
+      "page": "https://esawebb.org/videos/CEERS1/",
+      "title": "CEERS: Flight to Maisie's Galaxy | ESA/Webb",
+      "credit": "F. Summers, G. Bacon, J. DePasquale, L. Hustak, J. Olmsted, A. Pagan (STScI); S. Finkelstein, M. Bagley (UT Austin); R. Larson (RIT). Original music excluded.",
+      "screen_credit": "STScI · F. Summers · G. Bacon · CEERS-Team",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/CEERS1.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 76.7,
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          10.5,
+          67
+        ]
+      ]
+    },
+    {
+      "key": "weic2402a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/weic2402a.mp4",
+      "page": "https://esawebb.org/videos/weic2402a/",
+      "title": "Simulation - merging galaxies and hydrogen emission | ESA/Webb",
+      "credit": "S. Martin-Alvarez",
+      "screen_credit": "S. Martin-Alvarez",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/weic2402a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 42.294118,
+      "source_fps": "17/1",
+      "allowed": [
+        [
+          0.3,
+          41.694117999999996
+        ]
+      ]
+    },
+    {
+      "key": "weic2418a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/weic2418a.mp4",
+      "page": "https://esawebb.org/videos/weic2418a/",
+      "title": "Pan of Cosmic Gems (galaxy cluster SPT-CL J0615−5746) | ESA/Webb",
+      "credit": "ESA/Webb, NASA & CSA, L. Bradley (STScI), A. Adamo (Stockholm University) and the Cosmic Spring collaboration, N. Bartmann (ESA/Webb) Music Credits: Stellardrone - Twilight",
+      "screen_credit": "ESA/Webb, NASA & CSA, L. Bradley (STScI), A. Adamo (Stockholm University) and the Cosmic Spring collabora…",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/weic2418a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "weic2413a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/weic2413a.mp4",
+      "page": "https://esawebb.org/videos/weic2413a/",
+      "title": "Pan of ZS7 environment | ESA/Webb",
+      "credit": "ESA/Webb, NASA, CSA, J. Dunlop, D. Magee, P. G. Pérez-González, H. Übler, R. Maiolino, et. al, N. Bartmann (ESA/Webb)",
+      "screen_credit": "ESA/Webb, NASA, CSA, J. Dunlop, D. Magee, P. G. Pérez-González, H. Übler, R. Maiolino, et. al, N. Bartman…",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/weic2413a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "weic2209b",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/weic2209b.mp4",
+      "page": "https://esawebb.org/videos/weic2209b/",
+      "title": "Pan of Webb’s First Deep Field (NIRCam Image) | ESA/Webb",
+      "credit": "NASA, ESA, CSA, and STScI",
+      "screen_credit": "NASA, ESA, CSA, and STScI",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/weic2209b.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "weic2327a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/weic2327a.mp4",
+      "page": "https://esawebb.org/videos/weic2327a/",
+      "title": "Pan of MACS0416 | ESA/Webb",
+      "credit": "NASA, ESA, CSA, STScI, J. Diego (Instituto de Física de Cantabria, Spain), J. D’Silva (U. Western Australia), A. Koekemoer (STScI), J. Summers & R. Windhorst (ASU), and H. Yan (U. Missouri), N. Bartmann (ESA/Webb)",
+      "screen_credit": "NASA, ESA, CSA, STScI, J. Diego (Instituto de Física de Cantabria, Spain), J. D’Silva (U. Western Austral…",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/weic2327a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "weic2603a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/weic2603a.mp4",
+      "page": "https://esawebb.org/videos/weic2603a/",
+      "title": "Pan video: COSMOS Field (NIRCam image) | ESA/Webb",
+      "credit": "NASA, ESA, CSA, STScI, R. Naidu (MIT), J. DePasquale (STScI), N. Bartmann (ESA/Hubble)",
+      "screen_credit": "NASA, ESA, CSA, STScI, R. Naidu (MIT), J. DePasquale (STScI), N. Bartmann (ESA/Hubble)",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/weic2603a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "potm2507b",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/potm2507b.mp4",
+      "page": "https://esawebb.org/videos/potm2507b/",
+      "title": "Transition video (Webb image with Hubble Ultra Deep Field) | ESA/Webb",
+      "credit": "NASA, ESA, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University), and the HUDF09 Team, ESA/Webb, NASA & CSA, G. Östlin, P. G. Perez-Gonzalez, J. Melinder, the JADES Collaboration, the MIDIS collaboration, M. Zamani (ESA/Webb)",
+      "screen_credit": "NASA, ESA, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Lei…",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/potm2507b.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "potm2403a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/potm2403a.mp4",
+      "page": "https://esawebb.org/videos/potm2403a/",
+      "title": "Pan: I Zwicky 18 (I Zw 18) | ESA/Webb",
+      "credit": "ESA/Webb, NASA, CSA, A. Hirschauer, M. Meixner et al., N. Bartmann",
+      "screen_credit": "ESA/Webb, NASA, CSA, A. Hirschauer, M. Meixner et al., N. Bartmann",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/potm2403a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "potm2503a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/potm2503a.mp4",
+      "page": "https://esawebb.org/videos/potm2503a/",
+      "title": "Pan Video: Einstein ring in galaxy cluster SMACSJ0028.2-7537 | ESA/Webb",
+      "credit": "ESA/Webb, NASA & CSA, G. Mahler, N. Bartmann (ESA/Webb) Acknowledgement: M. A. McDonald",
+      "screen_credit": "ESA/Webb, NASA & CSA, G. Mahler, N. Bartmann (ESA/Webb) Acknowledgement: M. A. McDonald",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/potm2503a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "heic1902a",
+      "url": "https://cdn.esahubble.org/archives/videos/hd_1080p25_screen/heic1902a.mp4",
+      "page": "https://esahubble.org/videos/heic1902a/",
+      "title": "Artist’s impression of distant quasar | ESA/Hubble",
+      "credit": "ESA/Hubble, NASA, M. Kornmesser",
+      "screen_credit": "ESA/Hubble, NASA, M. Kornmesser",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esahubble.org/copyright/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/heic1902a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 18.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          17.4
+        ]
+      ]
+    },
+    {
+      "key": "heic2010b",
+      "url": "https://cdn.esahubble.org/archives/videos/hd_1080p25_screen/heic2010b.mp4",
+      "page": "https://esahubble.org/videos/heic2010b/",
+      "title": "Hubble Probes the Early Universe (artist’s impression) | ESA/Hubble",
+      "credit": "ESA/Hubble, M. Kornmesser.",
+      "screen_credit": "ESA/Hubble, M. Kornmesser.",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esahubble.org/copyright/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/heic2010b.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 18.965333,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          18.365333
+        ]
+      ]
+    },
+    {
+      "key": "heic1620b",
+      "url": "https://cdn.esahubble.org/archives/videos/hd_1080p25_screen/heic1620b.mp4",
+      "page": "https://esahubble.org/videos/heic1620b/",
+      "title": "Pan in time | ESA/Hubble",
+      "credit": "ESA/Hubble, M. Kornmesser",
+      "screen_credit": "ESA/Hubble, M. Kornmesser",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esahubble.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/heic1620b.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 40.08,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          3,
+          35
+        ]
+      ],
+      "crop": "1612:1080:306:0"
+    },
+    {
+      "key": "heic1620c",
+      "url": "https://cdn.esahubble.org/archives/videos/hd_1080p25_screen/heic1620c.mp4",
+      "page": "https://esahubble.org/videos/heic1620c/",
+      "title": "Zoom on galaxies | ESA/Hubble",
+      "credit": "ESA/Hubble, M. Kornmesser",
+      "screen_credit": "ESA/Hubble, M. Kornmesser",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esahubble.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/heic1620c.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 40.08,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          1,
+          35
+        ]
+      ]
+    },
+    {
+      "key": "heic1412c",
+      "url": "https://cdn.esahubble.org/archives/videos/hd_1080p25_screen/heic1412c.mp4",
+      "page": "https://esahubble.org/videos/heic1412c/",
+      "title": "Pan of GOODS field containing distant dwarf galaxies forming stars at an incredible rate | ESA/Hubble",
+      "credit": "NASA & ESA",
+      "screen_credit": "NASA & ESA",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esahubble.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/heic1412c.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 28.16,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          3.2,
+          24
+        ]
+      ]
+    },
+    {
+      "key": "heic2204b",
+      "url": "https://cdn.esahubble.org/archives/videos/hd_1080p25_screen/heic2204b.mp4",
+      "page": "https://esahubble.org/videos/heic2204b/",
+      "title": "Zoom Into GNz7q | ESA/Hubble",
+      "credit": "ESA/Hubble, NASA, Digitized Sky Survey 2, G. Brammer, S. Fujimoto, G. Illingworth, P. Oesch, R. Bouwens, I. Labbé, N. Risinger, E. Slawikkkn, M. Zamani, N. Bartmann (ESA/Hubble)",
+      "screen_credit": "ESA/Hubble, NASA, Digitized Sky Survey 2, G. Brammer, S. Fujimoto, G. Illingworth, P. Oesch, R. Bouwens, …",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esahubble.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/heic2204b.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 75.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          3,
+          51
+        ],
+        [
+          64,
+          72
+        ]
+      ]
+    },
+    {
+      "key": "heic2204c",
+      "url": "https://cdn.esahubble.org/archives/videos/hd_1080p25_screen/heic2204c.mp4",
+      "page": "https://esahubble.org/videos/heic2204c/",
+      "title": "Pan of the Hubble GOODS-North field | ESA/Hubble",
+      "credit": "NASA , ESA , G. Illingworth (University of California, Santa Cruz), P. Oesch (University of California, Santa Cruz; Yale University), R. Bouwens and I. Labbé (Leiden University), and the Science Team, S. Fujimoto et al. (Cosmic Dawn Center [DAWN] and University of Copenhagen), N. Bartmann (ESA/Hubble)",
+      "screen_credit": "NASA , ESA , G. Illingworth (University of California, Santa Cruz), P. Oesch (University of California, S…",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esahubble.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/heic2204c.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 20.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          19.4
+        ]
+      ]
+    },
+    {
+      "key": "heic0701f",
+      "url": "https://cdn.esahubble.org/archives/videos/hd_1080p25_screen/heic0701f.mp4",
+      "page": "https://esahubble.org/videos/heic0701f/",
+      "title": "3D rotating dark matter (artist's impression) | ESA/Hubble",
+      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen)",
+      "screen_credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen)",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esahubble.org/copyright/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/heic0701f.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.16,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          5,
+          24
+        ]
+      ]
+    },
+    {
+      "key": "heic1001b",
+      "url": "https://cdn.esahubble.org/archives/videos/hd_1080p25_screen/heic1001b.mp4",
+      "page": "https://esahubble.org/videos/heic1001b/",
+      "title": "Zooming and panning on distant galaxies in the deepest view of the Universe | ESA/Hubble",
+      "credit": "NASA ,  ESA , G. Illingworth (UCO/Lick Observatory and University of California, Santa Cruz) and the HUDF09 Team",
+      "screen_credit": "NASA ,  ESA , G. Illingworth (UCO/Lick Observatory and University of California, Santa Cruz) and the HUDF…",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esahubble.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/heic1001b.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 55.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          12,
+          53
+        ]
+      ]
+    },
+    {
+      "key": "alma-array-uhd1",
+      "url": "https://cdn.eso.org/videos/hd_1080p25_screen/alma-array-uhd1.mp4",
+      "page": "https://www.eso.org/public/videos/alma-array-uhd1/",
+      "title": "ALMA antennas | ESO",
+      "credit": "I. Nakamura/ESO",
+      "screen_credit": "I. Nakamura/ESO",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://www.eso.org/public/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/alma-array-uhd1.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 29.4,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          28.799999999999997
+        ]
+      ]
+    },
+    {
+      "key": "eso1738c",
+      "url": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1738c.mp4",
+      "page": "https://www.eso.org/public/videos/eso1738c/",
+      "title": "Panning across the MUSE view of the Hubble Ultra Deep Field | ESO",
+      "credit": "ESO/MUSE HUDF collaboration",
+      "screen_credit": "ESO/MUSE HUDF collaboration",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://www.eso.org/public/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/eso1738c.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.04,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.439999999999998
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC1.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC1.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_0.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 16.584,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          15.984
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_2",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC3.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC3.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_2.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 8.709,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          8.109
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_3",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC4.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC4.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_3.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 16.383,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          15.783
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_5",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC6.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC6.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_5.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 10.277,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          9.677
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_11",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_13.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_13.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_11.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 21.889,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          21.288999999999998
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_12",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_14.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_14.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_12.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 48.349,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          47.748999999999995
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_13",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_15.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_15.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_13.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 20.254,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          19.654
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_15",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_17.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_17.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_15.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 13.113,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          12.513
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_17",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_19.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_19.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_17.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 15.349,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          14.749
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_18",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_20.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_20.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_18.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 16.817,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          16.217
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_19",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_21.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_21.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_19.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 11.745,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          11.145
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_20",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_22.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_22.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_20.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 15.783,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          15.183
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_22",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_24.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_24.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_22.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 18.152,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          17.552
+        ]
+      ]
+    },
+    {
+      "key": "svs14393_24",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_26.webm",
+      "page": "https://svs.gsfc.nasa.gov/14393/",
+      "title": "NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_26.webm",
+      "credit": "NASA's Goddard Space Flight Center",
+      "screen_credit": "NASA's Goddard Space Flight Center",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/svs14393_24.mp4",
+      "width": 3840,
+      "height": 2160,
+      "duration": 12.446,
+      "source_fps": "19001/317",
+      "allowed": [
+        [
+          0.3,
+          11.846
+        ]
+      ]
+    },
+    {
+      "key": "svs11206_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a011200/a011206/Black_Hole_Sim_Disk_MPEG4_1920x1080_29.97.mp4",
+      "page": "https://svs.gsfc.nasa.gov/11206/",
+      "title": "NASA SVS | NASA-led Study Explains How Black Holes Shine in Hard X-rays — Black_Hole_Sim_Disk_MPEG4_1920x1080_29.97.mp4",
+      "credit": "NASA's Goddard Space Flight Center. However, individual images should be credited as indicated above.",
+      "screen_credit": "NASA's Goddard Space Flight Center. However, individual images should be credited as indicated above.",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/svs11206_0.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 33.333333,
+      "source_fps": "2997/100",
+      "allowed": [
+        [
+          0.3,
+          32.733333
+        ]
+      ]
+    },
+    {
+      "key": "svs11206_2",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a011200/a011206/Black_Hole_Sim_Both_MPEG4_1920x1080_29.97.mp4",
+      "page": "https://svs.gsfc.nasa.gov/11206/",
+      "title": "NASA SVS | NASA-led Study Explains How Black Holes Shine in Hard X-rays — Black_Hole_Sim_Both_MPEG4_1920x1080_29.97.mp4",
+      "credit": "NASA's Goddard Space Flight Center. However, individual images should be credited as indicated above.",
+      "screen_credit": "NASA's Goddard Space Flight Center. However, individual images should be credited as indicated above.",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/svs11206_2.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 33.333333,
+      "source_fps": "2997/100",
+      "allowed": [
+        [
+          0.3,
+          32.733333
+        ]
+      ]
+    },
+    {
+      "key": "svs10661_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010600/a010661/Galaxy_Evolution_wideshot-ProRes720p.webmhd.webm",
+      "page": "https://svs.gsfc.nasa.gov/10661/",
+      "title": "NASA SVS | JWST Science Simulations: Galaxy Formation — Galaxy_Evolution_wideshot-ProRes720p.webmhd.webm",
+      "credit": "NASA/Goddard Space Flight Center and the Advanced Visualization Laboratoy at the National Center for Supercomputing and B. O'Shea, M. Norman",
+      "screen_credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/svs10661_0.mp4",
+      "width": 1280,
+      "height": 720,
+      "duration": 19.953,
+      "source_fps": "2997/100",
+      "allowed": [
+        [
+          0.3,
+          16.8
+        ]
+      ]
+    },
+    {
+      "key": "svs10661_1",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010600/a010661/Galaxy_Evolution-tracking_shot-ProRes720p.webmhd.webm",
+      "page": "https://svs.gsfc.nasa.gov/10661/",
+      "title": "NASA SVS | JWST Science Simulations: Galaxy Formation — Galaxy_Evolution-tracking_shot-ProRes720p.webmhd.webm",
+      "credit": "NASA/Goddard Space Flight Center and the Advanced Visualization Laboratoy at the National Center for Supercomputing and B. O'Shea, M. Norman",
+      "screen_credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/svs10661_1.mp4",
+      "width": 1280,
+      "height": 720,
+      "duration": 41.942,
+      "source_fps": "2997/100",
+      "allowed": [
+        [
+          0.3,
+          37
+        ]
+      ]
+    },
+    {
+      "key": "svs10661_2",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010600/a010661/Galaxy_Evolution-tracking_shot2-ProRes720p.webmhd.webm",
+      "page": "https://svs.gsfc.nasa.gov/10661/",
+      "title": "NASA SVS | JWST Science Simulations: Galaxy Formation — Galaxy_Evolution-tracking_shot2-ProRes720p.webmhd.webm",
+      "credit": "NASA/Goddard Space Flight Center and the Advanced Visualization Laboratoy at the National Center for Supercomputing and B. O'Shea, M. Norman",
+      "screen_credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/svs10661_2.mp4",
+      "width": 1280,
+      "height": 720,
+      "duration": 42.075,
+      "source_fps": "2997/100",
+      "allowed": [
+        [
+          0.3,
+          37
+        ]
+      ]
+    },
+    {
+      "key": "svs10663_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010600/a010663/Re-Ionization-Galaxy_Evolution-tracking_shot-ProRes.webmhd.webm",
+      "page": "https://svs.gsfc.nasa.gov/10663/",
+      "title": "NASA SVS | Webb Science Simulations: Re-Ionization Era — Re-Ionization-Galaxy_Evolution-tracking_shot-ProRes.webmhd.webm",
+      "credit": "NASA/Goddard Space Flight Center and the Advanced Visualization Laboratory at the National Center for Supercomputing Applications",
+      "screen_credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/svs10663_0.mp4",
+      "width": 1280,
+      "height": 720,
+      "duration": 44.144,
+      "source_fps": "2997/50",
+      "allowed": [
+        [
+          3,
+          39
+        ]
+      ]
+    },
+    {
+      "key": "svs10663_1",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010600/a010663/Re-Ionization-Galaxy_Evolution_wideshot-ProRes.webmhd.webm",
+      "page": "https://svs.gsfc.nasa.gov/10663/",
+      "title": "NASA SVS | Webb Science Simulations: Re-Ionization Era — Re-Ionization-Galaxy_Evolution_wideshot-ProRes.webmhd.webm",
+      "credit": "NASA/Goddard Space Flight Center and the Advanced Visualization Laboratory at the National Center for Supercomputing Applications",
+      "screen_credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/svs10663_1.mp4",
+      "width": 1280,
+      "height": 720,
+      "duration": 36.52,
+      "source_fps": "2997/50",
+      "allowed": [
+        [
+          3,
+          32
+        ]
+      ]
+    },
+    {
+      "key": "svs14620_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014620/1-Orbiting_a_bare_black_hole-HD.mp4",
+      "page": "https://svs.gsfc.nasa.gov/14620/",
+      "title": "NASA SVS | Isolated Black Hole Visualization — 1-Orbiting_a_bare_black_hole-HD.mp4",
+      "credit": "NASA/JPL-Caltech/R. Hurt (IPAC)",
+      "screen_credit": "NASA/JPL-Caltech/R. Hurt (IPAC)",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/svs14620_0.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 15.015,
+      "source_fps": "30000/1001",
+      "allowed": [
+        [
+          0.3,
+          14.415000000000001
+        ]
+      ]
+    },
+    {
+      "key": "px_9121273",
+      "query": "telescope",
+      "title": "A Person Using a Telescope ",
+      "description": "A person stargazing with a telescope against a twilight sky.",
+      "page": "https://www.pexels.com/video/a-person-using-a-telescope-9121273/",
+      "url": "https://videos.pexels.com/video-files/9121273/9121273-hd_1920_1080_25fps.mp4",
+      "preview_url": "https://videos.pexels.com/video-files/9121273/9121273-sd_640_360_25fps.mp4",
+      "thumbnail": "https://images.pexels.com/videos/9121273/pexels-photo-9121273.jpeg?auto=compress&cs=tinysrgb&w=750",
+      "duration": 8.2,
+      "width": 1920,
+      "height": 1080,
+      "credit": "Pavel Danilyuk",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "kind": "stock",
+      "media": "video",
+      "path": "assets/px_9121273.mp4",
+      "screen_credit": "",
+      "queries": [
+        "telescope"
+      ],
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          7.6
+        ]
+      ]
+    },
+    {
+      "key": "px_5763515",
+      "query": "telescope",
+      "title": "Inside an Observatory",
+      "description": "Silent interior of an observatory dome with telescope aimed at the sky.",
+      "page": "https://www.pexels.com/video/inside-an-observatory-5763515/",
+      "url": "https://videos.pexels.com/video-files/5763515/5763515-hd_1920_1080_30fps.mp4",
+      "preview_url": "https://videos.pexels.com/video-files/5763515/5763515-sd_640_360_30fps.mp4",
+      "thumbnail": "https://images.pexels.com/videos/5763515/pexels-photo-5763515.jpeg?auto=compress&cs=tinysrgb&w=750",
+      "duration": 103.338333,
+      "width": 1920,
+      "height": 1080,
+      "credit": "Sabrile Soto",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "kind": "stock",
+      "media": "video",
+      "path": "assets/px_5763515.mp4",
+      "screen_credit": "",
+      "queries": [
+        "telescope"
+      ],
+      "source_fps": "30000/1001",
+      "allowed": [
+        [
+          0.3,
+          102.73833300000001
+        ]
+      ]
+    },
+    {
+      "key": "px_33637800",
+      "query": "city night",
+      "title": "Stunning Aerial Timelapse of City Lights at Night",
+      "description": "A breathtaking aerial view of an illuminated cityscape at night, showcasing a vibrant urban environment.",
+      "page": "https://www.pexels.com/video/stunning-aerial-timelapse-of-city-lights-at-night-33637800/",
+      "url": "https://videos.pexels.com/video-files/33637800/14294712_1920_1080_24fps.mp4",
+      "preview_url": "https://videos.pexels.com/video-files/33637800/14294709_640_360_24fps.mp4",
+      "thumbnail": "https://images.pexels.com/videos/33637800/aerial-africa-drone-timelapse-33637800.jpeg?auto=compress&cs=tinysrgb&w=750",
+      "duration": 15.640625,
+      "width": 1920,
+      "height": 1080,
+      "credit": "K",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "kind": "stock",
+      "media": "video",
+      "path": "assets/px_33637800.mp4",
+      "screen_credit": "",
+      "queries": [
+        "city night",
+        "city aerial"
+      ],
+      "source_fps": "24000/1001",
+      "allowed": [
+        [
+          0.3,
+          15.040625
+        ]
+      ]
+    },
+    {
+      "key": "px_10719866",
+      "query": "milky way",
+      "title": "Time Lapse of Night Sky with Stars and Clouds",
+      "description": "Mesmerizing time-lapse video capturing a starry sky view through silhouetted trees.",
+      "page": "https://www.pexels.com/video/time-lapse-of-night-sky-with-stars-and-clouds-10719866/",
+      "url": "https://videos.pexels.com/video-files/10719866/10719866-hd_1920_1080_25fps.mp4",
+      "preview_url": "https://videos.pexels.com/video-files/10719866/10719866-sd_640_360_25fps.mp4",
+      "thumbnail": "https://images.pexels.com/videos/10719866/pexels-photo-10719866.jpeg?auto=compress&cs=tinysrgb&w=750",
+      "duration": 35.0,
+      "width": 1920,
+      "height": 1080,
+      "credit": "Roy S.",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "kind": "stock",
+      "media": "video",
+      "path": "assets/px_10719866.mp4",
+      "screen_credit": "",
+      "queries": [
+        "milky way"
+      ],
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          34.4
+        ]
+      ]
+    },
+    {
+      "key": "px_13423306",
+      "query": "milky way",
+      "title": "Stars in Night Sky over Mountain Lake",
+      "description": "Stunning time-lapse of the Milky Way over a serene mountain lake reflection.",
+      "page": "https://www.pexels.com/video/stars-in-night-sky-over-mountain-lake-13423306/",
+      "url": "https://videos.pexels.com/video-files/13423306/13423306-hd_1920_1080_24fps.mp4",
+      "preview_url": "https://videos.pexels.com/video-files/13423306/13423306-sd_640_360_24fps.mp4",
+      "thumbnail": "https://images.pexels.com/videos/13423306/lake-milky-way-mountains-night-13423306.jpeg?auto=compress&cs=tinysrgb&w=750",
+      "duration": 21.478333,
+      "width": 1920,
+      "height": 1080,
+      "credit": "Dmitry Varennikov",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "kind": "stock",
+      "media": "video",
+      "path": "assets/px_13423306.mp4",
+      "screen_credit": "",
+      "queries": [
+        "milky way"
+      ],
+      "source_fps": "24000/1001",
+      "allowed": [
+        [
+          0.3,
+          20.878332999999998
+        ]
+      ]
+    },
+    {
+      "key": "px_38929837",
+      "query": "telescope",
+      "title": "Stargazing Under the Milky Way Night Sky",
+      "description": "Astrophotography of stars and Milky Way with telescope in a forest setting.",
+      "page": "https://www.pexels.com/video/stargazing-under-the-milky-way-night-sky-38929837/",
+      "url": "https://videos.pexels.com/video-files/38929837/16557604_1624_1080_30fps.mp4",
+      "preview_url": "https://videos.pexels.com/video-files/38929837/16557602_812_540_30fps.mp4",
+      "thumbnail": "https://images.pexels.com/videos/38929837/pexels-photo-38929837.jpeg?auto=compress&cs=tinysrgb&w=750",
+      "duration": 20.9,
+      "width": 1624,
+      "height": 1080,
+      "credit": "Batuhan Özmen",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "kind": "stock",
+      "media": "video",
+      "path": "assets/px_38929837.mp4",
+      "screen_credit": "",
+      "queries": [
+        "telescope"
+      ],
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          1,
+          15
+        ]
+      ]
+    },
+    {
+      "key": "px_2954003",
+      "query": "telescope",
+      "title": "A Radio Telescope In A Research Center Astronomy",
+      "description": "A massive radio telescope in an outdoor setting under a clear blue sky.",
+      "page": "https://www.pexels.com/video/a-radio-telescope-in-a-research-center-astronomy-2954003/",
+      "url": "https://videos.pexels.com/video-files/2954003/2954003-hd_1920_1080_30fps.mp4",
+      "preview_url": "https://videos.pexels.com/video-files/2954003/2954003-sd_640_360_30fps.mp4",
+      "thumbnail": "https://images.pexels.com/videos/2954003/free-video-2954003.jpg?auto=compress&cs=tinysrgb&w=750",
+      "duration": 17.578333,
+      "width": 1920,
+      "height": 1080,
+      "credit": "Matthias Groeneveld",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "kind": "stock",
+      "media": "video",
+      "path": "assets/px_2954003.mp4",
+      "screen_credit": "",
+      "queries": [
+        "telescope",
+        "radio telescope"
+      ],
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          0.3,
+          16.978333
+        ]
+      ]
+    },
+    {
+      "key": "extra13326_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/Black_Hole_Accretion_Disk_Sim_1080.mp4",
+      "page": "https://svs.gsfc.nasa.gov/13326/",
+      "title": "NASA SVS | Black Hole Accretion Disk Visualization — Black_Hole_Accretion_Disk_Sim_1080.mp4",
+      "credit": "NASA's Goddard Space Flight Center. However, indivdidual items should be credited as indicated above.",
+      "screen_credit": "NASA/GSFC",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/extra13326_0.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1080,
+      "height": 1080,
+      "duration": 40.073375,
+      "source_fps": "30000/1001",
+      "allowed": [
+        [
+          0.3,
+          39.473375
+        ]
+      ]
+    },
+    {
+      "key": "extra13326_1",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_360_Center_16x9_1080.mp4",
+      "page": "https://svs.gsfc.nasa.gov/13326/",
+      "title": "NASA SVS | Black Hole Accretion Disk Visualization — BH_AccretionDisk_Sim_360_Center_16x9_1080.mp4",
+      "credit": "NASA's Goddard Space Flight Center. However, indivdidual items should be credited as indicated above.",
+      "screen_credit": "NASA/GSFC",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/extra13326_1.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1920,
+      "height": 1080,
+      "duration": 15.215208,
+      "source_fps": "30000/1001",
+      "allowed": [
+        [
+          0.3,
+          14.615208
+        ]
+      ]
+    },
+    {
+      "key": "extra10128_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010100/a010128/BigBang_HD_LARGE_QT_Video_1.mp4",
+      "page": "https://svs.gsfc.nasa.gov/10128/",
+      "title": "NASA SVS | The Big Bang — BigBang_HD_LARGE_QT_Video_1.mp4",
+      "credit": "NASA",
+      "screen_credit": "NASA",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/extra10128_0.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1280,
+      "height": 720,
+      "duration": 14.033333,
+      "source_fps": "60/1",
+      "allowed": [
+        [
+          0.3,
+          12
+        ]
+      ]
+    },
+    {
+      "key": "extra10123_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010100/a010123/WMAPportrait_HD_LARGE_QT_Video_1.mp4",
+      "page": "https://svs.gsfc.nasa.gov/10123/",
+      "title": "NASA SVS | WMAP's Portrait of the Early Universe — WMAPportrait_HD_LARGE_QT_Video_1.mp4",
+      "credit": "NASA",
+      "screen_credit": "NASA",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/extra10123_0.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1280,
+      "height": 720,
+      "duration": 22.766667,
+      "source_fps": "60/1",
+      "allowed": [
+        [
+          0.3,
+          18
+        ]
+      ]
+    },
+    {
+      "key": "extra10123_1",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010100/a010123/WMAPEvolve.mp4",
+      "page": "https://svs.gsfc.nasa.gov/10123/",
+      "title": "NASA SVS | WMAP's Portrait of the Early Universe — WMAPEvolve.mp4",
+      "credit": "NASA",
+      "screen_credit": "NASA",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/extra10123_1.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1280,
+      "height": 720,
+      "duration": 27.766667,
+      "source_fps": "60/1",
+      "allowed": [
+        [
+          4,
+          21
+        ]
+      ]
+    },
+    {
+      "key": "extra10569_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010500/a010569/a010569_Beauty1_720p.mp4",
+      "page": "https://svs.gsfc.nasa.gov/10569/",
+      "title": "NASA SVS | Webb Telescope Spacecraft Animations — a010569_Beauty1_720p.mp4",
+      "credit": "NASA's Goddard Space Flight Center Conceptual Image Lab",
+      "screen_credit": "NASA's Goddard Space Flight Center Conceptual Image Lab",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/extra10569_0.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 640,
+      "height": 360,
+      "duration": 24.766667,
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          0.3,
+          24.166667
+        ]
+      ]
+    },
+    {
+      "key": "extra10569_1",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010500/a010569/a010569_sensor-CU_720p.mp4",
+      "page": "https://svs.gsfc.nasa.gov/10569/",
+      "title": "NASA SVS | Webb Telescope Spacecraft Animations — a010569_sensor-CU_720p.mp4",
+      "credit": "NASA's Goddard Space Flight Center Conceptual Image Lab",
+      "screen_credit": "NASA's Goddard Space Flight Center Conceptual Image Lab",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/extra10569_1.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 640,
+      "height": 360,
+      "duration": 10.0,
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          0.3,
+          9.4
+        ]
+      ]
+    },
+    {
+      "key": "extra10337_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010300/a010337/beauty_1.mp4",
+      "page": "https://svs.gsfc.nasa.gov/10337/",
+      "title": "NASA SVS | JWST Deployment and Beauty Animations — beauty_1.mp4",
+      "credit": "NASA Goddard Space Flight Center and Northrup Grumman",
+      "screen_credit": "NASA Goddard Space Flight Center and Northrup Grumman",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/extra10337_0.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1280,
+      "height": 720,
+      "duration": 45.0,
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          0.3,
+          44.4
+        ]
+      ]
+    },
+    {
+      "key": "extra10118_0",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a010100/a010118/CosmicWeb4_HD_LARGE_QT_Video_1.mp4",
+      "page": "https://svs.gsfc.nasa.gov/10118/",
+      "title": "NASA SVS | Journey Through the Cosmic Web: Cosmic Cruising 2 — CosmicWeb4_HD_LARGE_QT_Video_1.mp4",
+      "credit": "NASA/NCSA University of Illinois Visualization by Frank Summers, Space Telescope Science Institute, Simulation by Martin White and Lars Hernquist, Harvard University",
+      "screen_credit": "NASA/GSFC",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/extra10118_0.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1280,
+      "height": 720,
+      "duration": 44.433333,
+      "source_fps": "60/1",
+      "allowed": [
+        [
+          0.4,
+          29
+        ]
+      ]
+    },
+    {
+      "key": "solarloop_hd",
+      "path": "assets/solarloop_hd.mp4",
+      "url": "https://images-assets.nasa.gov/video/GSFC_20150630_SDO_m11908_ArchingEruption/GSFC_20150630_SDO_m11908_ArchingEruption~large.mp4",
+      "page": "https://images.nasa.gov/details/GSFC_20150630_SDO_m11908_ArchingEruption",
+      "credit": "NASA / Solar Dynamics Observatory",
+      "width": 1920,
+      "height": 1080,
+      "duration": 93.366667,
+      "screen_credit": "NASA / Solar Dynamics Observatory",
+      "media": "video",
+      "kind": "archive",
+      "title": "Solar Dynamics Observatory: solar structure and arching eruption",
+      "allowed": [
+        [
+          10,
+          83
+        ]
+      ],
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_fps": "30/1"
+    },
+    {
+      "key": "px_15750634",
+      "query": "telescope",
+      "title": "Half Moon 4x speed",
+      "description": "Capture of a crescent moon against a dark night sky.",
+      "page": "https://www.pexels.com/video/half-moon-4x-speed-15750634/",
+      "url": "https://videos.pexels.com/video-files/15750634/15750634-hd_1920_1080_30fps.mp4",
+      "preview_url": "https://videos.pexels.com/video-files/15750634/15750634-sd_640_360_30fps.mp4",
+      "thumbnail": "https://images.pexels.com/videos/15750634/half-moon-4x-speed-15750634.jpeg?auto=compress&cs=tinysrgb&w=750",
+      "duration": 16.873333,
+      "width": 1920,
+      "height": 1080,
+      "credit": "Jozef Papp",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "kind": "stock",
+      "media": "video",
+      "path": "assets/px_15750634.mp4",
+      "screen_credit": "",
+      "queries": [
+        "telescope"
+      ],
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          0.3,
+          16.273332999999997
+        ]
+      ]
+    },
+    {
+      "key": "webb_mirrors",
+      "url": "https://images-assets.nasa.gov/video/Webb%20Mirrors%20Glamour%20Trailer-h264/Webb%20Mirrors%20Glamour%20Trailer-h264~large.mp4",
+      "page": "https://images.nasa.gov/details/Webb%20Mirrors%20Glamour%20Trailer-h264",
+      "title": "Real Webb mirror assembly and cleanroom archive",
+      "credit": "NASA/GSFC",
+      "screen_credit": "NASA/GSFC",
+      "kind": "archive",
+      "media": "video",
+      "path": "assets/webb_mirrors.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1920,
+      "height": 1080,
+      "duration": 78.677,
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          15,
+          28
+        ],
+        [
+          34,
+          42
+        ],
+        [
+          45,
+          58
+        ],
+        [
+          61,
+          77
+        ]
+      ]
+    },
+    {
+      "key": "binary_bh",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013831/BlackHoleBInary_MainSequence_2k.mp4",
+      "page": "https://svs.gsfc.nasa.gov/13831/",
+      "title": "Relativistic binary black hole visualization",
+      "credit": "NASA/GSFC; Jeremy Schnittman; Brian P. Powell",
+      "screen_credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "media": "video",
+      "kind": "science3d",
+      "path": "assets/binary_bh.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 2048,
+      "height": 2048,
+      "duration": 53.7,
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          0.3,
+          53.1
+        ]
+      ],
+      "contain": true
+    },
+    {
+      "key": "planck_cmb",
+      "url": "https://svs.gsfc.nasa.gov/vis/a030000/a030100/a030133/planck_cmb.jpg",
+      "page": "https://svs.gsfc.nasa.gov/30133/",
+      "title": "Planck cosmic microwave background observation",
+      "credit": "ESA and the Planck Collaboration",
+      "screen_credit": "ESA and the Planck Collaboration",
+      "media": "image",
+      "kind": "observation",
+      "path": "assets/planck_cmb.jpg",
+      "width": 4096,
+      "height": 2304,
+      "duration": 60,
+      "license": "ESA image usage guidelines",
+      "license_url": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions",
+      "allowed": [
+        [
+          0,
+          60
+        ]
+      ],
+      "crop": "4096:2020:0:0"
+    },
+    {
+      "key": "globular",
+      "url": "https://cdn.esahubble.org/archives/images/large/heic0708a.jpg",
+      "page": "https://esahubble.org/images/heic0708a/",
+      "title": "NGC 2808 old globular star cluster",
+      "credit": "ESA/NASA · G. Piotto · A. Sarajedini · D. de Martin",
+      "screen_credit": "ESA/NASA · G. Piotto · A. Sarajedini · D. de Martin",
+      "media": "image",
+      "kind": "observation",
+      "path": "assets/globular.jpg",
+      "width": 3856,
+      "height": 3864,
+      "duration": 60,
+      "license": "CC BY 4.0",
+      "license_url": "https://esahubble.org/copyright/",
+      "allowed": [
+        [
+          0,
+          60
+        ]
+      ]
+    },
+    {
+      "key": "weic2522a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/weic2522a.mp4",
+      "page": "https://esawebb.org/videos/weic2522a/",
+      "title": "Pan video: Galaxy cluster MACS J1149.5+2223 | ESA/Webb",
+      "credit": "ESA/Webb, NASA & CSA, G. Rihtaršič (University of Ljubljana, FMF), R. Tripodi (University of Ljubljana, FMF), N. Bartmann (ESA/Webb)",
+      "screen_credit": "ESA/Webb, NASA & CSA, G. Rihtaršič (University of Ljubljana, FMF), R. Tripodi (University of Ljubljana, F…",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/weic2522a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "potm2505a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/potm2505a.mp4",
+      "page": "https://esawebb.org/videos/potm2505a/",
+      "title": "Pan video: galaxy cluster Abell S1063 | ESA/Webb",
+      "credit": "ESA/Webb, NASA & CSA, H. Atek, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb) Acknowledgement: R. Endsley",
+      "screen_credit": "ESA/Webb, NASA & CSA, H. Atek, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb) Acknowledgement: R. Endsley",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/potm2505a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "weic2429a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/weic2429a.mp4",
+      "page": "https://esawebb.org/videos/weic2429a/",
+      "title": "Pan of galaxy cluster MACS J1423 (NIRCam image) | ESA/Webb",
+      "credit": "NASA, ESA, CSA, STScI, C. Willott (NRC-Canada), L. Mowla (Wellesley College), K. Iyer (Columbia), N. Bartmann (ESA/Webb)",
+      "screen_credit": "NASA, ESA, CSA, STScI, C. Willott (NRC-Canada), L. Mowla (Wellesley College), K. Iyer (Columbia), N. Bart…",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/weic2429a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "potm2509a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/potm2509a.mp4",
+      "page": "https://esawebb.org/videos/potm2509a/",
+      "title": "Gravitational lenses in the COSMOS galaxy field | ESA/Webb",
+      "credit": "ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, N. Bartmann (ESA/Webb)",
+      "screen_credit": "ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, N. Bartmann (ESA/Webb)",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/potm2509a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 55.2,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          54.6
+        ]
+      ]
+    },
+    {
+      "key": "potm2507a",
+      "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/potm2507a.mp4",
+      "page": "https://esawebb.org/videos/potm2507a/",
+      "title": "Pan video: | ESA/Webb",
+      "credit": "ESA/Webb, NASA & CSA, G. Östlin, P. G. Perez-Gonzalez, J. Melinder, the JADES Collaboration, the MIDIS collaboration, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb)",
+      "screen_credit": "ESA/Webb, NASA & CSA, G. Östlin, P. G. Perez-Gonzalez, J. Melinder, the JADES Collaboration, the MIDIS co…",
+      "license": "CC BY 4.0; original audio excluded",
+      "license_url": "https://esawebb.org/copyright/",
+      "kind": "observation",
+      "media": "video",
+      "path": "assets/potm2507a.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.0,
+      "source_fps": "25/1",
+      "allowed": [
+        [
+          0.3,
+          29.4
+        ]
+      ]
+    },
+    {
+      "key": "px_12282674",
+      "query": "city night",
+      "title": "Night in City",
+      "description": "Stunning aerial time-lapse of illuminated cityscape at night.",
+      "page": "https://www.pexels.com/video/night-in-city-12282674/",
+      "url": "https://videos.pexels.com/video-files/12282674/12282674-hd_1920_1080_24fps.mp4",
+      "preview_url": "https://videos.pexels.com/video-files/12282674/12282674-sd_640_360_24fps.mp4",
+      "thumbnail": "https://images.pexels.com/videos/12282674/pexels-photo-12282674.jpeg?auto=compress&cs=tinysrgb&w=750",
+      "duration": 10.005,
+      "width": 1920,
+      "height": 1080,
+      "credit": "Vladyslav Huivyk",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "kind": "stock",
+      "media": "video",
+      "path": "assets/px_12282674.mp4",
+      "screen_credit": "",
+      "queries": [
+        "city night"
+      ],
+      "source_fps": "24/1",
+      "allowed": [
+        [
+          0.3,
+          9.405000000000001
+        ]
+      ]
+    },
+    {
+      "key": "bh_flyby",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_FlyBy_Zoom2_1920x1080_30.mp4",
+      "page": "https://svs.gsfc.nasa.gov/14576/",
+      "title": "NASA relativistic black-hole camera flight: bh_flyby",
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "screen_credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/bh_flyby.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1920,
+      "height": 1080,
+      "duration": 33.033333,
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          0.3,
+          32.433333
+        ]
+      ]
+    },
+    {
+      "key": "bh_plunge",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_Plunge_Zoom2b_1080.mp4",
+      "page": "https://svs.gsfc.nasa.gov/14576/",
+      "title": "NASA relativistic black-hole camera flight: bh_plunge",
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "screen_credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "kind": "science3d",
+      "media": "video",
+      "path": "assets/bh_plunge.mp4",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 3840,
+      "height": 2160,
+      "duration": 40.466667,
+      "source_fps": "30/1",
+      "allowed": [
+        [
+          0.3,
+          39.866667
+        ]
+      ]
+    },
+    {
+      "key": "cgi_nuclei",
+      "path": "assets/cgi_nuclei.mp4",
+      "title": "Original spatial illustration: nuclei",
+      "url": "",
+      "page": "Original KOSMION spatial illustration",
+      "credit": "KOSMION",
+      "screen_credit": "",
+      "kind": "original3d",
+      "media": "video",
+      "scene": "nuclei",
+      "width": 1920,
+      "height": 1080,
+      "duration": 20,
+      "license": "Original KOSMION production",
+      "license_url": "",
+      "allowed": [
+        [
+          0.3,
+          19.4
+        ]
+      ]
+    },
+    {
+      "key": "cgi_helium",
+      "path": "assets/cgi_helium.mp4",
+      "title": "Original spatial illustration: helium",
+      "url": "",
+      "page": "Original KOSMION spatial illustration",
+      "credit": "KOSMION",
+      "screen_credit": "",
+      "kind": "original3d",
+      "media": "video",
+      "scene": "helium",
+      "width": 1920,
+      "height": 1080,
+      "duration": 20,
+      "license": "Original KOSMION production",
+      "license_url": "",
+      "allowed": [
+        [
+          0.3,
+          19.4
+        ]
+      ]
+    },
+    {
+      "key": "cgi_lithium",
+      "path": "assets/cgi_lithium.mp4",
+      "title": "Original spatial illustration: lithium",
+      "url": "",
+      "page": "Original KOSMION spatial illustration",
+      "credit": "KOSMION",
+      "screen_credit": "",
+      "kind": "original3d",
+      "media": "video",
+      "scene": "lithium",
+      "width": 1920,
+      "height": 1080,
+      "duration": 20,
+      "license": "Original KOSMION production",
+      "license_url": "",
+      "allowed": [
+        [
+          0.3,
+          19.4
+        ]
+      ]
+    },
+    {
+      "key": "cgi_redshift",
+      "path": "assets/cgi_redshift.mp4",
+      "title": "Original spatial illustration: redshift",
+      "url": "",
+      "page": "Original KOSMION spatial illustration",
+      "credit": "KOSMION",
+      "screen_credit": "",
+      "kind": "original3d",
+      "media": "video",
+      "scene": "redshift",
+      "width": 1920,
+      "height": 1080,
+      "duration": 20,
+      "license": "Original KOSMION production",
+      "license_url": "",
+      "allowed": [
+        [
+          0.3,
+          19.4
+        ]
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start_frame": 0,
+      "frames": 190,
+      "asset": "weic2603a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0.65,
+      "fade_out": 0,
+      "credit": "NASA, ESA, CSA, STScI, R. Naidu (MIT), J. DePasquale (STScI), N. Bartmann (ESA/Hubble)",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "ee8ae9782654465732"
+    },
+    {
+      "id": 1,
+      "start_frame": 190,
+      "frames": 238,
+      "asset": "svs10661_0",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "7635a5c596ffac5eb1"
+    },
+    {
+      "id": 2,
+      "start_frame": 428,
+      "frames": 120,
+      "asset": "weic2209b",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA, ESA, CSA, and STScI",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "81d7a91916a3aa622a"
+    },
+    {
+      "id": 3,
+      "start_frame": 548,
+      "frames": 120,
+      "asset": "CEERS1",
+      "in": 10.5,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "STScI · F. Summers · G. Bacon · CEERS-Team",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "19a9a2977d4056871c"
+    },
+    {
+      "id": 4,
+      "start_frame": 668,
+      "frames": 117,
+      "asset": "heic2010b",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, M. Kornmesser.",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "d303f44588289ac304"
+    },
+    {
+      "id": 5,
+      "start_frame": 785,
+      "frames": 93,
+      "asset": "weic2418a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, L. Bradley (STScI), A. Adamo (Stockholm University) and the Cosmic Spring collabora…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "84077dc3f7b2875d8c"
+    },
+    {
+      "id": 6,
+      "start_frame": 878,
+      "frames": 100,
+      "asset": "heic1902a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, NASA, M. Kornmesser",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "580d7ef0eb8f9e97c2"
+    },
+    {
+      "id": 7,
+      "start_frame": 978,
+      "frames": 97,
+      "asset": "extra13326_0",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "55e368bdc2891e5ba3"
+    },
+    {
+      "id": 8,
+      "start_frame": 1075,
+      "frames": 150,
+      "asset": "weic2413a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA, CSA, J. Dunlop, D. Magee, P. G. Pérez-González, H. Übler, R. Maiolino, et. al, N. Bartman…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "5fb834d1a039e2bad0"
+    },
+    {
+      "id": 9,
+      "start_frame": 1225,
+      "frames": 150,
+      "asset": "webb_mirrors",
+      "in": 15,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "cfe70acff54874fd70"
+    },
+    {
+      "id": 10,
+      "start_frame": 1375,
+      "frames": 150,
+      "asset": "CEERS1",
+      "in": 15.82,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "STScI · F. Summers · G. Bacon · CEERS-Team",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "51c69552c3626039c9"
+    },
+    {
+      "id": 11,
+      "start_frame": 1525,
+      "frames": 225,
+      "asset": "svs10663_0",
+      "in": 3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "a633013c8a940cf13b"
+    },
+    {
+      "id": 12,
+      "start_frame": 1750,
+      "frames": 225,
+      "asset": "svs10661_1",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "d27230f27613814b83"
+    },
+    {
+      "id": 13,
+      "start_frame": 1975,
+      "frames": 247,
+      "asset": "svs10663_0",
+      "in": 12.52,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "4add17ec4818a65cbd"
+    },
+    {
+      "id": 14,
+      "start_frame": 2222,
+      "frames": 105,
+      "asset": "px_9121273",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "4e6793d541f8bb0053"
+    },
+    {
+      "id": 15,
+      "start_frame": 2327,
+      "frames": 103,
+      "asset": "px_38929837",
+      "in": 1,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "e870bf5fb5747fc9d7"
+    },
+    {
+      "id": 16,
+      "start_frame": 2430,
+      "frames": 120,
+      "asset": "px_15750634",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "ed7cee50723b503b04"
+    },
+    {
+      "id": 17,
+      "start_frame": 2550,
+      "frames": 90,
+      "asset": "solarloop_hd",
+      "in": 10,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA / Solar Dynamics Observatory",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "bd391d5eb7e20407d9"
+    },
+    {
+      "id": 18,
+      "start_frame": 2640,
+      "frames": 185,
+      "asset": "px_10719866",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "14132535d143ac4d89"
+    },
+    {
+      "id": 19,
+      "start_frame": 2825,
+      "frames": 403,
+      "asset": "px_5763515",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "cb73419bb072b277e7"
+    },
+    {
+      "id": 20,
+      "start_frame": 3228,
+      "frames": 274,
+      "asset": "heic1001b",
+      "in": 12,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA ,  ESA , G. Illingworth (UCO/Lick Observatory and University of California, Santa Cruz) and the HUDF…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "6825eb60fac519e655"
+    },
+    {
+      "id": 21,
+      "start_frame": 3502,
+      "frames": 243,
+      "asset": "potm2403a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA, CSA, A. Hirschauer, M. Meixner et al., N. Bartmann",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "0f9ddae674fcadeb80"
+    },
+    {
+      "id": 22,
+      "start_frame": 3745,
+      "frames": 233,
+      "asset": "heic1620b",
+      "in": 3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, M. Kornmesser",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "6b75d1c122adf72fec"
+    },
+    {
+      "id": 23,
+      "start_frame": 3978,
+      "frames": 322,
+      "asset": "cgi_redshift",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "fb41d50b750647cfb5"
+    },
+    {
+      "id": 24,
+      "start_frame": 4300,
+      "frames": 230,
+      "asset": "extra10337_0",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA Goddard Space Flight Center and Northrup Grumman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "15b0b7acb21e0dd8fd"
+    },
+    {
+      "id": 25,
+      "start_frame": 4530,
+      "frames": 338,
+      "asset": "webb_mirrors",
+      "in": 62.0,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC",
+      "labels": [
+        {
+          "global_start": 181.5,
+          "global_end": 186.6,
+          "title": "James-Webb-Weltraumteleskop"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 1,
+      "render_key": "b0edff2620e8020490"
+    },
+    {
+      "id": 26,
+      "start_frame": 4868,
+      "frames": 320,
+      "asset": "svs14393_3",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "2a7bd4aba527327ed2"
+    },
+    {
+      "id": 27,
+      "start_frame": 5188,
+      "frames": 182,
+      "asset": "potm2503a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, G. Mahler, N. Bartmann (ESA/Webb) Acknowledgement: M. A. McDonald",
+      "labels": [
+        {
+          "global_start": 212,
+          "global_end": 218,
+          "title": "Gravitationslinsen"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "4be0ca140ef89c747c"
+    },
+    {
+      "id": 28,
+      "start_frame": 5370,
+      "frames": 182,
+      "asset": "weic2327a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA, ESA, CSA, STScI, J. Diego (Instituto de Física de Cantabria, Spain), J. D’Silva (U. Western Austral…",
+      "labels": [
+        {
+          "global_start": 212,
+          "global_end": 218,
+          "title": "Gravitationslinsen"
+        }
+      ],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "1ce15009726901cb26"
+    },
+    {
+      "id": 29,
+      "start_frame": 5552,
+      "frames": 248,
+      "asset": "weic2418a",
+      "in": 4.54,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, L. Bradley (STScI), A. Adamo (Stockholm University) and the Cosmic Spring collabora…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "a8e7bc1ecef7b9fdcf"
+    },
+    {
+      "id": 30,
+      "start_frame": 5800,
+      "frames": 198,
+      "asset": "extra10128_0",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "34c060a04c669e140c"
+    },
+    {
+      "id": 31,
+      "start_frame": 5998,
+      "frames": 197,
+      "asset": "svs10663_1",
+      "in": 3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "3fe9a9221364a27a11"
+    },
+    {
+      "id": 32,
+      "start_frame": 6195,
+      "frames": 305,
+      "asset": "cgi_nuclei",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [
+        {
+          "global_start": 248.3,
+          "global_end": 259.7,
+          "title": "Wasserstoff",
+          "x": 280,
+          "y": 785,
+          "size": 37
+        },
+        {
+          "global_start": 248.3,
+          "global_end": 259.7,
+          "title": "Helium",
+          "x": 870,
+          "y": 785,
+          "size": 37
+        },
+        {
+          "global_start": 248.3,
+          "global_end": 259.7,
+          "title": "Lithium",
+          "x": 1450,
+          "y": 785,
+          "size": 37
+        }
+      ],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "a7deb490c309cb5c34"
+    },
+    {
+      "id": 33,
+      "start_frame": 6500,
+      "frames": 205,
+      "asset": "cgi_helium",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "0d6a961bfe57b666af"
+    },
+    {
+      "id": 34,
+      "start_frame": 6705,
+      "frames": 195,
+      "asset": "extra10123_1",
+      "in": 4,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA",
+      "labels": [
+        {
+          "global_start": 275.5,
+          "global_end": 282,
+          "title": "380.000 Jahre nach dem Urknall"
+        }
+      ],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "1726c466bb91e71513"
+    },
+    {
+      "id": 35,
+      "start_frame": 6900,
+      "frames": 195,
+      "asset": "extra10123_0",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA",
+      "labels": [
+        {
+          "global_start": 275.5,
+          "global_end": 282,
+          "title": "380.000 Jahre nach dem Urknall"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "51e8ed223f7e7514f8"
+    },
+    {
+      "id": 36,
+      "start_frame": 7095,
+      "frames": 770,
+      "asset": "planck_cmb",
+      "in": 0,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA and the Planck Collaboration",
+      "labels": [
+        {
+          "global_start": 291,
+          "global_end": 298,
+          "title": "Kosmische Hintergrundstrahlung"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "08f12eb406d6b3f851"
+    },
+    {
+      "id": 37,
+      "start_frame": 7865,
+      "frames": 225,
+      "asset": "heic0701f",
+      "in": 5,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen)",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "94448f5d20d74cf350"
+    },
+    {
+      "id": 38,
+      "start_frame": 8090,
+      "frames": 228,
+      "asset": "svs10661_1",
+      "in": 9.82,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [
+        {
+          "global_start": 325.5,
+          "global_end": 331,
+          "title": "Dunkle Materie"
+        }
+      ],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "d792e6ee6bb20cf9ac"
+    },
+    {
+      "id": 39,
+      "start_frame": 8318,
+      "frames": 160,
+      "asset": "svs10661_2",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "521f9d7f867751b4d5"
+    },
+    {
+      "id": 40,
+      "start_frame": 8478,
+      "frames": 157,
+      "asset": "weic2402a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "S. Martin-Alvarez",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "08e76d8725040e1259"
+    },
+    {
+      "id": 41,
+      "start_frame": 8635,
+      "frames": 230,
+      "asset": "extra10118_0",
+      "in": 0.4,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "2dcd9d868ef494cbff"
+    },
+    {
+      "id": 42,
+      "start_frame": 8865,
+      "frames": 175,
+      "asset": "svs10661_1",
+      "in": 19.46,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "d2dc93499535370cf7"
+    },
+    {
+      "id": 43,
+      "start_frame": 9040,
+      "frames": 175,
+      "asset": "potm2403a",
+      "in": 11.06,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA, CSA, A. Hirschauer, M. Meixner et al., N. Bartmann",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 2,
+      "render_key": "0ad993733fa4998553"
+    },
+    {
+      "id": 44,
+      "start_frame": 9215,
+      "frames": 175,
+      "asset": "svs10661_1",
+      "in": 26.98,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 3,
+      "render_key": "9b9d72eac3114f2844"
+    },
+    {
+      "id": 45,
+      "start_frame": 9390,
+      "frames": 245,
+      "asset": "svs14393_15",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "6fb7ceb204acfaf1f9"
+    },
+    {
+      "id": 46,
+      "start_frame": 9635,
+      "frames": 393,
+      "asset": "weic2209b",
+      "in": 5.62,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA, ESA, CSA, and STScI",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "6b3f1a445576d61e17"
+    },
+    {
+      "id": 47,
+      "start_frame": 10028,
+      "frames": 202,
+      "asset": "weic2402a",
+      "in": 7.1,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "S. Martin-Alvarez",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "f4c075b4203a7eaac5"
+    },
+    {
+      "id": 48,
+      "start_frame": 10230,
+      "frames": 202,
+      "asset": "svs10661_2",
+      "in": 7.22,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 1,
+      "render_key": "252d8efd873cb0ecac"
+    },
+    {
+      "id": 49,
+      "start_frame": 10432,
+      "frames": 203,
+      "asset": "weic2402a",
+      "in": 15.7,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "S. Martin-Alvarez",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "cf83b6c272c6a23561"
+    },
+    {
+      "id": 50,
+      "start_frame": 10635,
+      "frames": 217,
+      "asset": "heic2204c",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA , ESA , G. Illingworth (University of California, Santa Cruz), P. Oesch (University of California, S…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "f862c860ba909ba37f"
+    },
+    {
+      "id": 51,
+      "start_frame": 10852,
+      "frames": 218,
+      "asset": "svs14393_17",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [
+        {
+          "global_start": 436,
+          "global_end": 441.5,
+          "title": "Helligkeit ist nicht gleich Masse"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "668523a4fb6e6ee1a0"
+    },
+    {
+      "id": 52,
+      "start_frame": 11070,
+      "frames": 256,
+      "asset": "px_33637800",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "eae4e965715274912d"
+    },
+    {
+      "id": 53,
+      "start_frame": 11326,
+      "frames": 206,
+      "asset": "px_12282674",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "8e1075975c9c8fc9b7"
+    },
+    {
+      "id": 54,
+      "start_frame": 11532,
+      "frames": 198,
+      "asset": "svs10661_2",
+      "in": 15.82,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 2,
+      "render_key": "5fd4198791fb9a7b6b"
+    },
+    {
+      "id": 55,
+      "start_frame": 11730,
+      "frames": 198,
+      "asset": "potm2403a",
+      "in": 18.58,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA, CSA, A. Hirschauer, M. Meixner et al., N. Bartmann",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 3,
+      "render_key": "63968c71e74edc7451"
+    },
+    {
+      "id": 56,
+      "start_frame": 11928,
+      "frames": 217,
+      "asset": "svs10663_0",
+      "in": 22.92,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "635e5a2ba7f033682c"
+    },
+    {
+      "id": 57,
+      "start_frame": 12145,
+      "frames": 150,
+      "asset": "extra13326_0",
+      "in": 4.7,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 1,
+      "render_key": "fa0d745551c34a325a"
+    },
+    {
+      "id": 58,
+      "start_frame": 12295,
+      "frames": 168,
+      "asset": "svs14393_2",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "45b5c89bbb9cd9df05"
+    },
+    {
+      "id": 59,
+      "start_frame": 12463,
+      "frames": 168,
+      "asset": "svs14393_5",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "473b821a0c2bc298b1"
+    },
+    {
+      "id": 60,
+      "start_frame": 12631,
+      "frames": 164,
+      "asset": "eso1738c",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESO/MUSE HUDF collaboration",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "33798298bd13600365"
+    },
+    {
+      "id": 61,
+      "start_frame": 12795,
+      "frames": 228,
+      "asset": "weic2413a",
+      "in": 6.82,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA, CSA, J. Dunlop, D. Magee, P. G. Pérez-González, H. Übler, R. Maiolino, et. al, N. Bartman…",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "36c982e3157b643704"
+    },
+    {
+      "id": 62,
+      "start_frame": 13023,
+      "frames": 225,
+      "asset": "heic2204c",
+      "in": 9.5,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA , ESA , G. Illingworth (University of California, Santa Cruz), P. Oesch (University of California, S…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "744aeb6527ecf4d40f"
+    },
+    {
+      "id": 63,
+      "start_frame": 13248,
+      "frames": 233,
+      "asset": "potm2507b",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA, ESA, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Lei…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "b66a1a1f342ae724a1"
+    },
+    {
+      "id": 64,
+      "start_frame": 13481,
+      "frames": 231,
+      "asset": "extra10569_0",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center Conceptual Image Lab",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "9735e4b227f9ba6642"
+    },
+    {
+      "id": 65,
+      "start_frame": 13712,
+      "frames": 178,
+      "asset": "heic1620c",
+      "in": 1,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, M. Kornmesser",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "a0d9bb0f9f43a799e1"
+    },
+    {
+      "id": 66,
+      "start_frame": 13890,
+      "frames": 182,
+      "asset": "extra10569_1",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center Conceptual Image Lab",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "5e4efdd5a7798f19b5"
+    },
+    {
+      "id": 67,
+      "start_frame": 14072,
+      "frames": 183,
+      "asset": "eso1738c",
+      "in": 7.38,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESO/MUSE HUDF collaboration",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "9f4c7725703811c875"
+    },
+    {
+      "id": 68,
+      "start_frame": 14255,
+      "frames": 320,
+      "asset": "svs14393_18",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "155029071917378e92"
+    },
+    {
+      "id": 69,
+      "start_frame": 14575,
+      "frames": 160,
+      "asset": "weic2327a",
+      "in": 8.1,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA, ESA, CSA, STScI, J. Diego (Instituto de Física de Cantabria, Spain), J. D’Silva (U. Western Austral…",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "ae6a7948cab6a62786"
+    },
+    {
+      "id": 70,
+      "start_frame": 14735,
+      "frames": 246,
+      "asset": "weic2402a",
+      "in": 24.34,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "S. Martin-Alvarez",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 3,
+      "render_key": "d3ee978cd847024e9a"
+    },
+    {
+      "id": 71,
+      "start_frame": 14981,
+      "frames": 159,
+      "asset": "svs10663_0",
+      "in": 32.12,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 3,
+      "render_key": "29a5c66a576f8db910"
+    },
+    {
+      "id": 72,
+      "start_frame": 15140,
+      "frames": 88,
+      "asset": "weic2402a",
+      "in": 34.7,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "S. Martin-Alvarez",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 4,
+      "render_key": "d9dba2abc6b77e7834"
+    },
+    {
+      "id": 73,
+      "start_frame": 15228,
+      "frames": 362,
+      "asset": "heic1412c",
+      "in": 3.2,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA & ESA",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "89f8fba51381258768"
+    },
+    {
+      "id": 74,
+      "start_frame": 15590,
+      "frames": 229,
+      "asset": "heic1620b",
+      "in": 12.84,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, M. Kornmesser",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "5b71899f07fdd090c9"
+    },
+    {
+      "id": 75,
+      "start_frame": 15819,
+      "frames": 229,
+      "asset": "heic1620c",
+      "in": 8.64,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, M. Kornmesser",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "e89f39762e12015cbf"
+    },
+    {
+      "id": 76,
+      "start_frame": 16048,
+      "frames": 277,
+      "asset": "weic2413a",
+      "in": 16.46,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA, CSA, J. Dunlop, D. Magee, P. G. Pérez-González, H. Übler, R. Maiolino, et. al, N. Bartman…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 2,
+      "render_key": "d2aa70627d2be7d091"
+    },
+    {
+      "id": 77,
+      "start_frame": 16325,
+      "frames": 253,
+      "asset": "heic2204b",
+      "in": 3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, NASA, Digitized Sky Survey 2, G. Brammer, S. Fujimoto, G. Illingworth, P. Oesch, R. Bouwens, …",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "3649aa9a9c832e25af"
+    },
+    {
+      "id": 78,
+      "start_frame": 16578,
+      "frames": 422,
+      "asset": "bh_plunge",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "735c46dcf25b143f68"
+    },
+    {
+      "id": 79,
+      "start_frame": 17000,
+      "frames": 179,
+      "asset": "extra13326_1",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "5fa38baf778d81c9af"
+    },
+    {
+      "id": 80,
+      "start_frame": 17179,
+      "frames": 179,
+      "asset": "svs11206_0",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center. However, individual images should be credited as indicated above.",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "f032df9a56e3ee9e54"
+    },
+    {
+      "id": 81,
+      "start_frame": 17358,
+      "frames": 384,
+      "asset": "heic2204b",
+      "in": 13.64,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, NASA, Digitized Sky Survey 2, G. Brammer, S. Fujimoto, G. Illingworth, P. Oesch, R. Bouwens, …",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "2d6e34d7dac3c85d44"
+    },
+    {
+      "id": 82,
+      "start_frame": 17742,
+      "frames": 134,
+      "asset": "svs14620_0",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/JPL-Caltech/R. Hurt (IPAC)",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "d44ebfb50770aa2102"
+    },
+    {
+      "id": 83,
+      "start_frame": 17876,
+      "frames": 134,
+      "asset": "binary_bh",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "c6d7c8a14983d549e2"
+    },
+    {
+      "id": 84,
+      "start_frame": 18010,
+      "frames": 225,
+      "asset": "svs11206_2",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center. However, individual images should be credited as indicated above.",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "81ce0af998e0a2a4d8"
+    },
+    {
+      "id": 85,
+      "start_frame": 18235,
+      "frames": 225,
+      "asset": "svs11206_0",
+      "in": 7.98,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center. However, individual images should be credited as indicated above.",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "4092483a2d98f55a7f"
+    },
+    {
+      "id": 86,
+      "start_frame": 18460,
+      "frames": 490,
+      "asset": "bh_flyby",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "labels": [
+        {
+          "global_start": 738.5,
+          "global_end": 745,
+          "title": "Eddington-Grenze"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "f4383f6f9b757eebf9"
+    },
+    {
+      "id": 87,
+      "start_frame": 18950,
+      "frames": 260,
+      "asset": "heic1902a",
+      "in": 4.82,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, NASA, M. Kornmesser",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "99d240c92a0f1a278d"
+    },
+    {
+      "id": 88,
+      "start_frame": 19210,
+      "frames": 260,
+      "asset": "bh_plunge",
+      "in": 18.22,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 2,
+      "render_key": "7e39df5a38e9e2d29c"
+    },
+    {
+      "id": 89,
+      "start_frame": 19470,
+      "frames": 384,
+      "asset": "svs10663_1",
+      "in": 11.4,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [
+        {
+          "global_start": 791,
+          "global_end": 797,
+          "title": "Direkter Kollaps: eine Hypothese"
+        }
+      ],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "f1b8edc770980a7da6"
+    },
+    {
+      "id": 90,
+      "start_frame": 19854,
+      "frames": 188,
+      "asset": "svs10661_2",
+      "in": 24.26,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC; NCSA; B. O’Shea; M. Norman",
+      "labels": [
+        {
+          "global_start": 791,
+          "global_end": 797,
+          "title": "Direkter Kollaps: eine Hypothese"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 3,
+      "render_key": "05e85f0772904451cc"
+    },
+    {
+      "id": 91,
+      "start_frame": 20042,
+      "frames": 205,
+      "asset": "binary_bh",
+      "in": 6.18,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 0,
+      "photo_variant": 1,
+      "render_key": "7a4e9415ad6e78be77"
+    },
+    {
+      "id": 92,
+      "start_frame": 20247,
+      "frames": 205,
+      "asset": "bh_flyby",
+      "in": 20.94,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "ccc671d10bb3d38175"
+    },
+    {
+      "id": 93,
+      "start_frame": 20452,
+      "frames": 450,
+      "asset": "heic2204b",
+      "in": 30.04,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, NASA, Digitized Sky Survey 2, G. Brammer, S. Fujimoto, G. Illingworth, P. Oesch, R. Bouwens, …",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 3,
+      "render_key": "2c5630873b634935c5"
+    },
+    {
+      "id": 94,
+      "start_frame": 20902,
+      "frames": 231,
+      "asset": "svs14393_19",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "c9724f9e604ec37a28"
+    },
+    {
+      "id": 95,
+      "start_frame": 21133,
+      "frames": 232,
+      "asset": "bh_plunge",
+      "in": 29.14,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 3,
+      "render_key": "174e8b952829f7d87b"
+    },
+    {
+      "id": 96,
+      "start_frame": 21365,
+      "frames": 255,
+      "asset": "svs14393_22",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "d8df441bdff57cb26a"
+    },
+    {
+      "id": 97,
+      "start_frame": 21620,
+      "frames": 181,
+      "asset": "potm2509a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, N. Bartmann (ESA/Webb)",
+      "labels": [
+        {
+          "global_start": 871.5,
+          "global_end": 877,
+          "title": "13,8 Milliarden Jahre"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "8274b1d218d10d43fe"
+    },
+    {
+      "id": 98,
+      "start_frame": 21801,
+      "frames": 181,
+      "asset": "extra10123_0",
+      "in": 8.62,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA",
+      "labels": [
+        {
+          "global_start": 871.5,
+          "global_end": 877,
+          "title": "13,8 Milliarden Jahre"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 1,
+      "render_key": "43a435e99521808ec5"
+    },
+    {
+      "id": 99,
+      "start_frame": 21982,
+      "frames": 180,
+      "asset": "potm2509a",
+      "in": 8.06,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, N. Bartmann (ESA/Webb)",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "435b3503cba1725a73"
+    },
+    {
+      "id": 100,
+      "start_frame": 22162,
+      "frames": 245,
+      "asset": "extra10118_0",
+      "in": 10.12,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "511f56d1c0f2c6358b"
+    },
+    {
+      "id": 101,
+      "start_frame": 22407,
+      "frames": 245,
+      "asset": "heic1620c",
+      "in": 18.32,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Hubble, M. Kornmesser",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 2,
+      "render_key": "4ca46a43ddb3e57b7f"
+    },
+    {
+      "id": 102,
+      "start_frame": 22652,
+      "frames": 458,
+      "asset": "heic1001b",
+      "in": 23.48,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA ,  ESA , G. Illingworth (UCO/Lick Observatory and University of California, Santa Cruz) and the HUDF…",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "9f545fc0ec07d6d64d"
+    },
+    {
+      "id": 103,
+      "start_frame": 23110,
+      "frames": 482,
+      "asset": "planck_cmb",
+      "in": 0,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA and the Planck Collaboration",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 3,
+      "render_key": "25bb815c2f57ce08b2"
+    },
+    {
+      "id": 104,
+      "start_frame": 23592,
+      "frames": 272,
+      "asset": "svs14393_0",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "b7c475811f58a7f813"
+    },
+    {
+      "id": 105,
+      "start_frame": 23864,
+      "frames": 274,
+      "asset": "alma-array-uhd1",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "I. Nakamura/ESO",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "d16fa0d08670814847"
+    },
+    {
+      "id": 106,
+      "start_frame": 24138,
+      "frames": 342,
+      "asset": "px_2954003",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "a0e62196333ed33b22"
+    },
+    {
+      "id": 107,
+      "start_frame": 24480,
+      "frames": 415,
+      "asset": "svs14393_11",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [
+        {
+          "global_start": 982.5,
+          "global_end": 988.5,
+          "title": "Hubble-Spannung"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "f01595e0f27f339ac9"
+    },
+    {
+      "id": 108,
+      "start_frame": 24895,
+      "frames": 193,
+      "asset": "svs14393_20",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "c26aebb80ffb947d9b"
+    },
+    {
+      "id": 109,
+      "start_frame": 25088,
+      "frames": 387,
+      "asset": "extra10337_0",
+      "in": 10.02,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA Goddard Space Flight Center and Northrup Grumman",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "befa870296bc810d14"
+    },
+    {
+      "id": 110,
+      "start_frame": 25475,
+      "frames": 203,
+      "asset": "weic2522a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, G. Rihtaršič (University of Ljubljana, FMF), R. Tripodi (University of Ljubljana, F…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "3067098a82d4901700"
+    },
+    {
+      "id": 111,
+      "start_frame": 25678,
+      "frames": 203,
+      "asset": "potm2505a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, H. Atek, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb) Acknowledgement: R. Endsley",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "135fdcc3bbca8511a4"
+    },
+    {
+      "id": 112,
+      "start_frame": 25881,
+      "frames": 204,
+      "asset": "weic2522a",
+      "in": 8.94,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, G. Rihtaršič (University of Ljubljana, FMF), R. Tripodi (University of Ljubljana, F…",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "73f3e907ce3a13c2a6"
+    },
+    {
+      "id": 113,
+      "start_frame": 26085,
+      "frames": 255,
+      "asset": "cgi_lithium",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [
+        {
+          "global_start": 1049.8,
+          "global_end": 1053.6,
+          "title": "Lithium"
+        }
+      ],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "db9eb96406d9e0d075"
+    },
+    {
+      "id": 114,
+      "start_frame": 26340,
+      "frames": 146,
+      "asset": "cgi_nuclei",
+      "in": 13.02,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [
+        {
+          "global_start": 1054.1,
+          "global_end": 1059.14,
+          "title": "Wasserstoff",
+          "x": 280,
+          "y": 785,
+          "size": 37
+        },
+        {
+          "global_start": 1054.1,
+          "global_end": 1059.14,
+          "title": "Helium",
+          "x": 870,
+          "y": 785,
+          "size": 37
+        },
+        {
+          "global_start": 1054.1,
+          "global_end": 1059.14,
+          "title": "Lithium",
+          "x": 1450,
+          "y": 785,
+          "size": 37
+        }
+      ],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 1,
+      "render_key": "341114afea22e27562"
+    },
+    {
+      "id": 115,
+      "start_frame": 26486,
+      "frames": 204,
+      "asset": "extra10123_1",
+      "in": 12.32,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "92d5e269df25eb3b11"
+    },
+    {
+      "id": 116,
+      "start_frame": 26690,
+      "frames": 225,
+      "asset": "cgi_helium",
+      "in": 9.02,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 1,
+      "render_key": "19e1236b37639c21de"
+    },
+    {
+      "id": 117,
+      "start_frame": 26915,
+      "frames": 477,
+      "asset": "globular",
+      "in": 0,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/NASA · G. Piotto · A. Sarajedini · D. de Martin",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "4665bd68b1145ea4b2"
+    },
+    {
+      "id": 118,
+      "start_frame": 27392,
+      "frames": 435,
+      "asset": "solarloop_hd",
+      "in": 14.12,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA / Solar Dynamics Observatory",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 1,
+      "render_key": "605e42590af9bfe8a3"
+    },
+    {
+      "id": 119,
+      "start_frame": 27827,
+      "frames": 303,
+      "asset": "solarloop_hd",
+      "in": 32.56,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA / Solar Dynamics Observatory",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 3,
+      "render_key": "008c0ed51b05e98658"
+    },
+    {
+      "id": 120,
+      "start_frame": 28130,
+      "frames": 382,
+      "asset": "svs14393_12",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 0,
+      "render_key": "d039ff8733317c14cb"
+    },
+    {
+      "id": 121,
+      "start_frame": 28512,
+      "frames": 398,
+      "asset": "weic2429a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA, ESA, CSA, STScI, C. Willott (NRC-Canada), L. Mowla (Wellesley College), K. Iyer (Columbia), N. Bart…",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "7a458f64ad25b936ef"
+    },
+    {
+      "id": 122,
+      "start_frame": 28910,
+      "frames": 250,
+      "asset": "potm2505a",
+      "in": 8.94,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, H. Atek, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb) Acknowledgement: R. Endsley",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 1,
+      "render_key": "23fee5b4851ba1df5a"
+    },
+    {
+      "id": 123,
+      "start_frame": 29160,
+      "frames": 140,
+      "asset": "binary_bh",
+      "in": 14.9,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "65c3dfc58f666eea57"
+    },
+    {
+      "id": 124,
+      "start_frame": 29300,
+      "frames": 215,
+      "asset": "globular",
+      "in": 0,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/NASA · G. Piotto · A. Sarajedini · D. de Martin",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "5272b08cd469c49627"
+    },
+    {
+      "id": 125,
+      "start_frame": 29515,
+      "frames": 260,
+      "asset": "svs14393_13",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "bb26243bbbef7c25a0"
+    },
+    {
+      "id": 126,
+      "start_frame": 29775,
+      "frames": 130,
+      "asset": "svs14393_13",
+      "in": 11.74,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "2fd35e68104c27afac"
+    },
+    {
+      "id": 127,
+      "start_frame": 29905,
+      "frames": 156,
+      "asset": "weic2522a",
+      "in": 17.62,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, G. Rihtaršič (University of Ljubljana, FMF), R. Tripodi (University of Ljubljana, F…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 2,
+      "render_key": "bbffad5216f74912d2"
+    },
+    {
+      "id": 128,
+      "start_frame": 30061,
+      "frames": 157,
+      "asset": "potm2505a",
+      "in": 19.46,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, H. Atek, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb) Acknowledgement: R. Endsley",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "057da1b668b18b8b30"
+    },
+    {
+      "id": 129,
+      "start_frame": 30218,
+      "frames": 287,
+      "asset": "binary_bh",
+      "in": 21.02,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 3,
+      "render_key": "b308bf3544ef43d2ea"
+    },
+    {
+      "id": 130,
+      "start_frame": 30505,
+      "frames": 148,
+      "asset": "svs14393_24",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA's Goddard Space Flight Center",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "3a1be8207890076040"
+    },
+    {
+      "id": 131,
+      "start_frame": 30653,
+      "frames": 147,
+      "asset": "alma-array-uhd1",
+      "in": 11.78,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "I. Nakamura/ESO",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 1,
+      "render_key": "2d49628f5d8bc5d0c6"
+    },
+    {
+      "id": 132,
+      "start_frame": 30800,
+      "frames": 598,
+      "asset": "potm2507a",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, G. Östlin, P. G. Perez-Gonzalez, J. Melinder, the JADES Collaboration, the MIDIS co…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "606d1319127a5c3809"
+    },
+    {
+      "id": 133,
+      "start_frame": 31398,
+      "frames": 258,
+      "asset": "globular",
+      "in": 0,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/NASA · G. Piotto · A. Sarajedini · D. de Martin",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 3,
+      "render_key": "d290429814382d1d4c"
+    },
+    {
+      "id": 134,
+      "start_frame": 31656,
+      "frames": 129,
+      "asset": "planck_cmb",
+      "in": 0,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA and the Planck Collaboration",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 5,
+      "render_key": "6451cce56e82e5dc80"
+    },
+    {
+      "id": 135,
+      "start_frame": 31785,
+      "frames": 169,
+      "asset": "potm2509a",
+      "in": 15.78,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, N. Bartmann (ESA/Webb)",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "60e117b27cd222bc4b"
+    },
+    {
+      "id": 136,
+      "start_frame": 31954,
+      "frames": 169,
+      "asset": "weic2429a",
+      "in": 17.26,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA, ESA, CSA, STScI, C. Willott (NRC-Canada), L. Mowla (Wellesley College), K. Iyer (Columbia), N. Bart…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 2,
+      "render_key": "c41c9cd610463ca22a"
+    },
+    {
+      "id": 137,
+      "start_frame": 32123,
+      "frames": 319,
+      "asset": "weic2603a",
+      "in": 8.94,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "NASA, ESA, CSA, STScI, R. Naidu (MIT), J. DePasquale (STScI), N. Bartmann (ESA/Hubble)",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "10a7466d479c9248ea"
+    },
+    {
+      "id": 138,
+      "start_frame": 32442,
+      "frames": 318,
+      "asset": "potm2509a",
+      "in": 23.06,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, N. Bartmann (ESA/Webb)",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 3,
+      "render_key": "4e7a6359614cf425f7"
+    },
+    {
+      "id": 139,
+      "start_frame": 32760,
+      "frames": 368,
+      "asset": "px_13423306",
+      "in": 0.3,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 0,
+      "render_key": "c571db772e814f02e2"
+    },
+    {
+      "id": 140,
+      "start_frame": 33128,
+      "frames": 107,
+      "asset": "px_13423306",
+      "in": 16.06,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 12,
+      "photo_variant": 2,
+      "render_key": "3b44562da1e34876c0"
+    },
+    {
+      "id": 141,
+      "start_frame": 33235,
+      "frames": 77,
+      "asset": "potm2507a",
+      "in": 25.26,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 0,
+      "credit": "ESA/Webb, NASA & CSA, G. Östlin, P. G. Perez-Gonzalez, J. Melinder, the JADES Collaboration, the MIDIS co…",
+      "labels": [],
+      "dissolve": 12,
+      "handle": 0,
+      "photo_variant": 2,
+      "render_key": "6a151abc03d0b2e6d9"
+    },
+    {
+      "id": 142,
+      "start_frame": 33312,
+      "frames": 200,
+      "asset": "px_10719866",
+      "in": 8.22,
+      "rate": 1,
+      "fade_in": 0,
+      "fade_out": 1.15,
+      "credit": "",
+      "labels": [],
+      "dissolve": 0,
+      "handle": 0,
+      "photo_variant": 1,
+      "render_key": "03fed6e2482cd99be1"
+    }
+  ],
+  "parts": [
+    {
+      "index": 0,
+      "first": 0,
+      "last": 34,
+      "frames": 6705
+    },
+    {
+      "index": 1,
+      "first": 34,
+      "last": 64,
+      "frames": 6776
+    },
+    {
+      "index": 2,
+      "first": 64,
+      "last": 92,
+      "frames": 6766
+    },
+    {
+      "index": 3,
+      "first": 92,
+      "last": 117,
+      "frames": 6668
+    },
+    {
+      "index": 4,
+      "first": 117,
+      "last": 143,
+      "frames": 6597
+    }
+  ]
+}
