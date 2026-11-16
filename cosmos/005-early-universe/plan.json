@@ -1739,10 +1739,12 @@
       "source_fps": "30/1",
       "allowed": [
         [
-          33.3,
+          53.94,
           65.7
         ]
-      ]
+      ],
+      "projection": "equirect",
+      "yaw": 180
     },
     {
       "key": "bh_plunge",
@@ -1765,7 +1767,9 @@
           0.3,
           58
         ]
-      ]
+      ],
+      "projection": "equirect",
+      "yaw": 0
     },
     {
       "key": "cgi_nuclei",
@@ -3196,7 +3200,7 @@
       "dissolve": 12,
       "handle": 0,
       "photo_variant": 0,
-      "render_key": "2810083f20aea1b181"
+      "render_key": "4c84b03969d84adb54"
     },
     {
       "id": 79,
@@ -3314,12 +3318,12 @@
       "id": 86,
       "start_frame": 18460,
       "frames": 490,
-      "asset": "bh_flyby",
-      "in": 33.3,
+      "asset": "extra13326_0",
+      "in": 11.5,
       "rate": 1,
       "fade_in": 0,
       "fade_out": 0,
-      "credit": "NASA/GSFC · J. Schnittman · B. Powell",
+      "credit": "NASA/GSFC",
       "labels": [
         {
           "global_start": 738.5,
@@ -3330,7 +3334,7 @@
       "dissolve": 12,
       "handle": 12,
       "photo_variant": 0,
-      "render_key": "9946216181d817d9be"
+      "render_key": "b5031fa29274b71e08"
     },
     {
       "id": 87,
@@ -3362,7 +3366,7 @@
       "dissolve": 12,
       "handle": 0,
       "photo_variant": 2,
-      "render_key": "d00bf3ae2f8d600cb3"
+      "render_key": "6059f8e84698dda34c"
     },
     {
       "id": 89,
@@ -3438,7 +3442,7 @@
       "dissolve": 0,
       "handle": 12,
       "photo_variant": 2,
-      "render_key": "060e735968740acbcd"
+      "render_key": "11207f43d396f28b6e"
     },
     {
       "id": 93,
@@ -3486,7 +3490,7 @@
       "dissolve": 12,
       "handle": 0,
       "photo_variant": 3,
-      "render_key": "c35b856deaa7aaddf8"
+      "render_key": "5cdc33f92da2323864"
     },
     {
       "id": 96,
