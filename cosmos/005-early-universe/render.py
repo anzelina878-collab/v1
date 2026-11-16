@@ -28,10 +28,15 @@ def prepare(plan,shots):
   a=assets[k];dest=R/a['path']
   if dest.exists() and dest.stat().st_size>1000:return
   if a['kind']=='original3d':
-   location=plan['scene_sources'][a['scene']];found=None
+   found=None
    for attempt in range(420):
     
-    try:data=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/actions/runs/{location["run"]}/artifacts']));found=next((x for x in data['artifacts'] if x['name']==location['name']),None)
+    try:
+     runs=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/actions/workflows/render-early-universe-3d.yml/runs?branch=cosmos-005-early-universe&per_page=5']))['workflow_runs']
+     for run in runs:
+      if run['conclusion']!='success':continue
+      data=json.loads(subprocess.check_output(['gh','api',f"repos/{repo}/actions/runs/{run['id']}/artifacts"]));found=next((x for x in data['artifacts'] if x['name'].endswith('-'+a['scene']) and not x['expired']),None)
+      if found:break
     except subprocess.CalledProcessError:
      time.sleep(min(20,2+attempt));continue
     if found:break
