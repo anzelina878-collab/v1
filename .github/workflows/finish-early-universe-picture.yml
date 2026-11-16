@@ -18,11 +18,12 @@ jobs:
         part: [2, 3]
     steps:
       - uses: actions/checkout@v4
-      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg curl ca-certificates
       - name: Render and verify silent documentary picture
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
+          SSL_CERT_FILE: /etc/ssl/certs/ca-certificates.crt
           PICTURE_PART: ${{ matrix.part }}
         run: |
           cd cosmos/005-early-universe
