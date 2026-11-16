@@ -791,21 +791,21 @@ Selected source ranges: 0.300–9.020 s
 NASA relativistic black-hole camera flight: bh_flyby
 
 Source: https://svs.gsfc.nasa.gov/14576/
-Media: https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_FlyBy_Zoom2_1920x1080_30.mp4
+Media: https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_FlyBy_Rectilinear_2160x1080_30.mp4
 Credit: NASA/GSFC · J. Schnittman · B. Powell
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
-Native dimensions: 1920 × 1080
+Native dimensions: 2160 × 1080
 Kind: science3d
-Selected source ranges: 0.300–20.380 s; 20.940–29.620 s
+Selected source ranges: 33.300–53.380 s; 53.940–62.620 s
 
 ## bh_plunge
 NASA relativistic black-hole camera flight: bh_plunge
 
 Source: https://svs.gsfc.nasa.gov/14576/
-Media: https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_Plunge_Zoom2b_1080.mp4
+Media: https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_Plunge_Rectilinear_2160x1080_30.mp4
 Credit: NASA/GSFC · J. Schnittman · B. Powell
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
-Native dimensions: 3840 × 2160
+Native dimensions: 2160 × 1080
 Kind: science3d
 Selected source ranges: 0.300–17.180 s; 18.220–28.620 s; 29.140–38.420 s
 
