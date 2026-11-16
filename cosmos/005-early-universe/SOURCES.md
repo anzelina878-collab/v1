@@ -565,7 +565,7 @@ Credit: NASA's Goddard Space Flight Center. However, indivdidual items should be
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1080 × 1080
 Kind: science3d
-Selected source ranges: 0.300–4.660 s; 4.700–10.700 s
+Selected source ranges: 0.300–4.660 s; 4.700–10.700 s; 11.500–31.580 s
 
 ## extra13326_1
 NASA SVS | Black Hole Accretion Disk Visualization — BH_AccretionDisk_Sim_360_Center_16x9_1080.mp4
@@ -796,7 +796,7 @@ Credit: NASA/GSFC · J. Schnittman · B. Powell
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 2160 × 1080
 Kind: science3d
-Selected source ranges: 33.300–53.380 s; 53.940–62.620 s
+Selected source ranges: 53.940–62.620 s
 
 ## bh_plunge
 NASA relativistic black-hole camera flight: bh_plunge
