@@ -26,7 +26,7 @@ Credit: S. Martin-Alvarez
 License / usage: CC BY 4.0; original audio excluded — https://esawebb.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: science3d
-Selected source ranges: 0.300–7.060 s; 7.100–15.180 s; 15.700–24.300 s; 24.340–34.180 s; 34.700–38.700 s
+Selected source ranges: 0.300–6.580 s; 7.100–15.660 s; 15.700–24.300 s; 24.340–34.660 s; 34.700–38.700 s
 
 ## weic2418a
 Pan of Cosmic Gems (galaxy cluster SPT-CL J0615−5746) | ESA/Webb
@@ -37,7 +37,7 @@ Credit: ESA/Webb, NASA & CSA, L. Bradley (STScI), A. Adamo (Stockholm University
 License / usage: CC BY 4.0; original audio excluded — https://esawebb.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–4.500 s; 4.540–14.460 s
+Selected source ranges: 0.300–4.500 s; 4.540–14.940 s
 
 ## weic2413a
 Pan of ZS7 environment | ESA/Webb
@@ -48,7 +48,7 @@ Credit: ESA/Webb, NASA, CSA, J. Dunlop, D. Magee, P. G. Pérez-González, H. Üb
 License / usage: CC BY 4.0; original audio excluded — https://esawebb.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–6.780 s; 6.820–16.420 s; 16.460–28.020 s
+Selected source ranges: 0.300–6.780 s; 6.820–16.420 s; 16.460–27.540 s
 
 ## weic2209b
 Pan of Webb’s First Deep Field (NIRCam Image) | ESA/Webb
@@ -103,7 +103,7 @@ Credit: ESA/Webb, NASA, CSA, A. Hirschauer, M. Meixner et al., N. Bartmann
 License / usage: CC BY 4.0; original audio excluded — https://esawebb.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–10.500 s; 11.060–18.540 s; 18.580–26.980 s
+Selected source ranges: 0.300–10.500 s; 11.060–18.060 s; 18.580–26.980 s
 
 ## potm2503a
 Pan Video: Einstein ring in galaxy cluster SMACSJ0028.2-7537 | ESA/Webb
@@ -114,7 +114,7 @@ Credit: ESA/Webb, NASA & CSA, G. Mahler, N. Bartmann (ESA/Webb) Acknowledgement:
 License / usage: CC BY 4.0; original audio excluded — https://esawebb.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–8.060 s
+Selected source ranges: 0.300–7.580 s
 
 ## heic1902a
 Artist’s impression of distant quasar | ESA/Hubble
@@ -125,7 +125,7 @@ Credit: ESA/Hubble, NASA, M. Kornmesser
 License / usage: CC BY 4.0; original audio excluded — https://esahubble.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: science3d
-Selected source ranges: 0.300–4.300 s; 4.820–15.220 s
+Selected source ranges: 0.300–4.300 s; 4.820–15.700 s
 
 ## heic2010b
 Hubble Probes the Early Universe (artist’s impression) | ESA/Hubble
@@ -158,7 +158,7 @@ Credit: ESA/Hubble, M. Kornmesser
 License / usage: CC BY 4.0; original audio excluded — https://esahubble.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 1.000–8.120 s; 8.640–17.800 s; 18.320–28.600 s
+Selected source ranges: 1.000–8.600 s; 8.640–18.280 s; 18.320–28.120 s
 
 ## heic1412c
 Pan of GOODS field containing distant dwarf galaxies forming stars at an incredible rate | ESA/Hubble
@@ -169,7 +169,7 @@ Credit: NASA & ESA
 License / usage: CC BY 4.0; original audio excluded — https://esahubble.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 1.000–15.960 s
+Selected source ranges: 3.200–17.680 s
 
 ## heic2204b
 Zoom Into GNz7q | ESA/Hubble
@@ -191,7 +191,7 @@ Credit: NASA , ESA , G. Illingworth (University of California, Santa Cruz), P. O
 License / usage: CC BY 4.0; original audio excluded — https://esahubble.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–8.980 s; 9.500–18.500 s
+Selected source ranges: 0.300–9.460 s; 9.500–18.980 s
 
 ## heic0701f
 3D rotating dark matter (artist's impression) | ESA/Hubble
@@ -202,7 +202,7 @@ Credit: ESA / Hubble (M. Kornmesser & L. L. Christensen)
 License / usage: CC BY 4.0; original audio excluded — https://esahubble.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: science3d
-Selected source ranges: 5.000–14.480 s
+Selected source ranges: 5.000–14.000 s
 
 ## heic1001b
 Zooming and panning on distant galaxies in the deepest view of the Universe | ESA/Hubble
@@ -213,7 +213,7 @@ Credit: NASA ,  ESA , G. Illingworth (UCO/Lick Observatory and University of Ca
 License / usage: CC BY 4.0; original audio excluded — https://esahubble.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–11.260 s; 11.780–30.100 s; 31.140–43.860 s
+Selected source ranges: 12.000–22.960 s; 23.480–42.280 s
 
 ## alma-array-uhd1
 ALMA antennas | ESO
@@ -224,7 +224,7 @@ Credit: I. Nakamura/ESO
 License / usage: CC BY 4.0; original audio excluded — https://www.eso.org/public/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–11.740 s; 11.780–17.660 s
+Selected source ranges: 0.300–11.260 s; 11.780–18.140 s
 
 ## eso1738c
 Panning across the MUSE view of the Hubble Ultra Deep Field | ESO
@@ -235,7 +235,7 @@ Credit: ESO/MUSE HUDF collaboration
 License / usage: CC BY 4.0; original audio excluded — https://www.eso.org/public/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–7.340 s; 7.380–22.460 s
+Selected source ranges: 0.300–6.860 s; 7.380–15.180 s
 
 ## svs14393_0
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC1.webm
@@ -246,7 +246,7 @@ Credit: NASA's Goddard Space Flight Center
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 3840 × 2160
 Kind: archive
-Selected source ranges: 0.300–11.180 s
+Selected source ranges: 0.300–11.660 s
 
 ## svs14393_2
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC3.webm
@@ -268,7 +268,7 @@ Credit: NASA's Goddard Space Flight Center
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 3840 × 2160
 Kind: archive
-Selected source ranges: 0.300–13.100 s
+Selected source ranges: 0.300–13.580 s
 
 ## svs14393_5
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC6.webm
@@ -279,7 +279,7 @@ Credit: NASA's Goddard Space Flight Center
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 3840 × 2160
 Kind: archive
-Selected source ranges: 0.300–7.020 s
+Selected source ranges: 0.300–7.500 s
 
 ## svs14393_11
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_13.webm
@@ -301,7 +301,7 @@ Credit: NASA's Goddard Space Flight Center
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 3840 × 2160
 Kind: archive
-Selected source ranges: 0.300–16.060 s
+Selected source ranges: 0.300–15.580 s
 
 ## svs14393_13
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_15.webm
@@ -312,7 +312,7 @@ Credit: NASA's Goddard Space Flight Center
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 3840 × 2160
 Kind: archive
-Selected source ranges: 0.300–5.980 s
+Selected source ranges: 0.300–11.180 s; 11.740–17.420 s
 
 ## svs14393_15
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_17.webm
@@ -323,7 +323,7 @@ Credit: NASA's Goddard Space Flight Center
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 3840 × 2160
 Kind: archive
-Selected source ranges: 0.300–10.100 s
+Selected source ranges: 0.300–10.580 s
 
 ## svs14393_17
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_19.webm
@@ -334,7 +334,7 @@ Credit: NASA's Goddard Space Flight Center
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 3840 × 2160
 Kind: archive
-Selected source ranges: 0.300–9.500 s
+Selected source ranges: 0.300–9.020 s
 
 ## svs14393_18
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_20.webm
@@ -345,7 +345,7 @@ Credit: NASA's Goddard Space Flight Center
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 3840 × 2160
 Kind: archive
-Selected source ranges: 0.300–13.580 s
+Selected source ranges: 0.300–13.100 s
 
 ## svs14393_19
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_21.webm
@@ -356,7 +356,7 @@ Credit: NASA's Goddard Space Flight Center
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 3840 × 2160
 Kind: archive
-Selected source ranges: 0.300–9.540 s
+Selected source ranges: 0.300–10.020 s
 
 ## svs14393_20
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_22.webm
@@ -367,18 +367,7 @@ Credit: NASA's Goddard Space Flight Center
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 3840 × 2160
 Kind: archive
-Selected source ranges: 0.300–8.020 s
-
-## svs14393_21
-NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_23.webm
-
-Source: https://svs.gsfc.nasa.gov/14393/
-Media: https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014393/STOCC_23.webm
-Credit: NASA's Goddard Space Flight Center
-License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
-Native dimensions: 3840 × 2160
-Kind: archive
-Selected source ranges: 0.300–5.980 s; 6.020–11.220 s
+Selected source ranges: 0.300–8.500 s
 
 ## svs14393_22
 NASA SVS | Webb Telescope Upres B-roll Clips — STOCC_24.webm
@@ -411,18 +400,7 @@ Credit: NASA's Goddard Space Flight Center. However, individual images should be
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1920 × 1080
 Kind: science3d
-Selected source ranges: 0.300–7.460 s; 7.980–16.980 s; 17.500–28.380 s
-
-## svs11206_1
-NASA SVS | NASA-led Study Explains How Black Holes Shine in Hard X-rays — Black_Hole_Sim_Coro_MPEG4_1920x1080_29.97.mp4
-
-Source: https://svs.gsfc.nasa.gov/11206/
-Media: https://svs.gsfc.nasa.gov/vis/a010000/a011200/a011206/Black_Hole_Sim_Coro_MPEG4_1920x1080_29.97.mp4
-Credit: NASA's Goddard Space Flight Center. However, individual images should be credited as indicated above.
-License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
-Native dimensions: 1920 × 1080
-Kind: science3d
-Selected source ranges: 0.300–16.700 s; 17.740–27.500 s
+Selected source ranges: 0.300–7.940 s; 7.980–17.460 s
 
 ## svs11206_2
 NASA SVS | NASA-led Study Explains How Black Holes Shine in Hard X-rays — Black_Hole_Sim_Both_MPEG4_1920x1080_29.97.mp4
@@ -433,7 +411,7 @@ Credit: NASA's Goddard Space Flight Center. However, individual images should be
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1920 × 1080
 Kind: science3d
-Selected source ranges: 0.300–9.780 s; 9.820–29.900 s
+Selected source ranges: 0.300–9.780 s
 
 ## svs10661_0
 NASA SVS | JWST Science Simulations: Galaxy Formation — Galaxy_Evolution_wideshot-ProRes720p.webmhd.webm
@@ -455,7 +433,7 @@ Credit: NASA/Goddard Space Flight Center and the Advanced Visualization Laborato
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1280 × 720
 Kind: science3d
-Selected source ranges: 0.300–9.300 s; 9.820–19.420 s; 19.460–26.460 s; 26.980–34.460 s
+Selected source ranges: 0.300–9.300 s; 9.820–19.420 s; 19.460–26.940 s; 26.980–34.460 s
 
 ## svs10661_2
 NASA SVS | JWST Science Simulations: Galaxy Formation — Galaxy_Evolution-tracking_shot2-ProRes720p.webmhd.webm
@@ -466,7 +444,7 @@ Credit: NASA/Goddard Space Flight Center and the Advanced Visualization Laborato
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1280 × 720
 Kind: science3d
-Selected source ranges: 0.300–6.700 s; 7.220–15.780 s; 15.820–24.220 s; 24.260–32.260 s
+Selected source ranges: 0.300–7.180 s; 7.220–15.300 s; 15.820–23.740 s; 24.260–31.780 s
 
 ## svs10663_0
 NASA SVS | Webb Science Simulations: Re-Ionization Era — Re-Ionization-Galaxy_Evolution-tracking_shot-ProRes.webmhd.webm
@@ -477,7 +455,7 @@ Credit: NASA/Goddard Space Flight Center and the Advanced Visualization Laborato
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1280 × 720
 Kind: science3d
-Selected source ranges: 3.000–12.480 s; 12.520–22.880 s; 22.920–31.600 s; 32.120–38.960 s
+Selected source ranges: 3.000–12.480 s; 12.520–22.880 s; 22.920–32.080 s; 32.120–38.480 s
 
 ## svs10663_1
 NASA SVS | Webb Science Simulations: Re-Ionization Era — Re-Ionization-Galaxy_Evolution_wideshot-ProRes.webmhd.webm
@@ -488,7 +466,7 @@ Credit: NASA/Goddard Space Flight Center and the Advanced Visualization Laborato
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1280 × 720
 Kind: science3d
-Selected source ranges: 3.000–11.360 s; 11.400–26.760 s
+Selected source ranges: 3.000–11.360 s; 11.400–27.240 s
 
 ## svs14620_0
 NASA SVS | Isolated Black Hole Visualization — 1-Orbiting_a_bare_black_hole-HD.mp4
@@ -499,7 +477,7 @@ Credit: NASA/JPL-Caltech/R. Hurt (IPAC)
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1920 × 1080
 Kind: science3d
-Selected source ranges: 0.300–8.740 s
+Selected source ranges: 0.300–6.140 s
 
 ## px_9121273
 A Person Using a Telescope 
@@ -554,7 +532,7 @@ Credit: Dmitry Varennikov
 License / usage: Pexels License — https://www.pexels.com/license/
 Native dimensions: 1920 × 1080
 Kind: stock
-Selected source ranges: 0.300–19.300 s
+Selected source ranges: 0.300–15.500 s; 16.060–20.820 s
 
 ## px_38929837
 Stargazing Under the Milky Way Night Sky
@@ -576,7 +554,7 @@ Credit: Matthias Groeneveld
 License / usage: Pexels License — https://www.pexels.com/license/
 Native dimensions: 1920 × 1080
 Kind: stock
-Selected source ranges: 0.300–13.980 s
+Selected source ranges: 0.300–14.460 s
 
 ## extra13326_0
 NASA SVS | Black Hole Accretion Disk Visualization — Black_Hole_Accretion_Disk_Sim_1080.mp4
@@ -587,7 +565,7 @@ Credit: NASA's Goddard Space Flight Center. However, indivdidual items should be
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1080 × 1080
 Kind: science3d
-Selected source ranges: 0.300–4.660 s; 4.700–11.180 s; 11.220–20.140 s
+Selected source ranges: 0.300–4.660 s; 4.700–10.700 s
 
 ## extra13326_1
 NASA SVS | Black Hole Accretion Disk Visualization — BH_AccretionDisk_Sim_360_Center_16x9_1080.mp4
@@ -609,7 +587,7 @@ Credit: NASA
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1280 × 720
 Kind: science3d
-Selected source ranges: 0.300–8.700 s
+Selected source ranges: 0.300–8.220 s
 
 ## extra10123_0
 NASA SVS | WMAP's Portrait of the Early Universe — WMAPportrait_HD_LARGE_QT_Video_1.mp4
@@ -620,7 +598,7 @@ Credit: NASA
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1280 × 720
 Kind: science3d
-Selected source ranges: 0.300–8.100 s; 8.620–16.340 s
+Selected source ranges: 0.300–8.580 s; 8.620–15.860 s
 
 ## extra10123_1
 NASA SVS | WMAP's Portrait of the Early Universe — WMAPEvolve.mp4
@@ -653,7 +631,7 @@ Credit: NASA's Goddard Space Flight Center Conceptual Image Lab
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 640 × 360
 Kind: science3d
-Selected source ranges: 0.300–7.900 s
+Selected source ranges: 0.300–7.580 s
 
 ## extra10337_0
 NASA SVS | JWST Deployment and Beauty Animations — beauty_1.mp4
@@ -675,7 +653,7 @@ Credit: NASA/NCSA University of Illinois Visualization by Frank Summers, Space T
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1280 × 720
 Kind: science3d
-Selected source ranges: 0.400–10.080 s; 10.120–19.920 s
+Selected source ranges: 0.400–10.080 s; 10.120–20.400 s
 
 ## solarloop_hd
 Solar Dynamics Observatory: solar structure and arching eruption
@@ -686,7 +664,7 @@ Credit: NASA / Solar Dynamics Observatory
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1920 × 1080
 Kind: archive
-Selected source ranges: 5.000–9.080 s; 9.120–39.120 s
+Selected source ranges: 10.000–14.080 s; 14.120–31.520 s; 32.560–45.160 s
 
 ## px_15750634
 Half Moon 4x speed
@@ -708,7 +686,7 @@ Credit: NASA/GSFC
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1920 × 1080
 Kind: archive
-Selected source ranges: 13.000–19.000 s; 19.520–25.920 s
+Selected source ranges: 15.000–21.000 s; 62.000–75.520 s
 
 ## binary_bh
 Relativistic binary black hole visualization
@@ -719,7 +697,7 @@ Credit: NASA/GSFC; Jeremy Schnittman; Brian P. Powell
 License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 2048 × 2048
 Kind: science3d
-Selected source ranges: 0.300–11.500 s; 12.060–18.140 s; 18.180–30.140 s
+Selected source ranges: 0.300–5.660 s; 6.180–14.380 s; 14.900–20.980 s; 21.020–32.500 s
 
 ## planck_cmb
 Planck cosmic microwave background observation
@@ -752,7 +730,7 @@ Credit: ESA/Webb, NASA & CSA, G. Rihtaršič (University of Ljubljana, FMF), R. 
 License / usage: CC BY 4.0; original audio excluded — https://esawebb.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–8.420 s; 8.940–17.580 s; 17.620–24.340 s
+Selected source ranges: 0.300–8.900 s; 8.940–17.580 s; 17.620–23.860 s
 
 ## potm2505a
 Pan video: galaxy cluster Abell S1063 | ESA/Webb
@@ -763,7 +741,7 @@ Credit: ESA/Webb, NASA & CSA, H. Atek, M. Zamani (ESA/Webb), N. Bartmann (ESA/We
 License / usage: CC BY 4.0; original audio excluded — https://esawebb.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–8.900 s; 8.940–19.420 s; 19.460–26.220 s
+Selected source ranges: 0.300–8.420 s; 8.940–18.940 s; 19.460–26.220 s
 
 ## weic2429a
 Pan of galaxy cluster MACS J1423 (NIRCam image) | ESA/Webb
@@ -774,7 +752,7 @@ Credit: NASA, ESA, CSA, STScI, C. Willott (NRC-Canada), L. Mowla (Wellesley Coll
 License / usage: CC BY 4.0; original audio excluded — https://esawebb.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–16.220 s; 17.260–24.500 s
+Selected source ranges: 0.300–16.700 s; 17.260–24.020 s
 
 ## potm2509a
 Gravitational lenses in the COSMOS galaxy field | ESA/Webb
@@ -785,7 +763,7 @@ Credit: ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, N. Bartmann
 License / usage: CC BY 4.0; original audio excluded — https://esawebb.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–7.540 s; 8.060–15.740 s; 15.780–22.540 s
+Selected source ranges: 0.300–8.020 s; 8.060–15.740 s; 15.780–23.020 s; 23.060–36.260 s
 
 ## potm2507a
 Pan video: | ESA/Webb
@@ -796,7 +774,7 @@ Credit: ESA/Webb, NASA & CSA, G. Östlin, P. G. Perez-Gonzalez, J. Melinder, the
 License / usage: CC BY 4.0; original audio excluded — https://esawebb.org/copyright/
 Native dimensions: 1920 × 1080
 Kind: observation
-Selected source ranges: 0.300–24.700 s; 25.260–28.820 s
+Selected source ranges: 0.300–24.700 s; 25.260–28.340 s
 
 ## px_12282674
 Night in City
@@ -807,7 +785,29 @@ Credit: Vladyslav Huivyk
 License / usage: Pexels License — https://www.pexels.com/license/
 Native dimensions: 1920 × 1080
 Kind: stock
-Selected source ranges: 0.300–8.540 s
+Selected source ranges: 0.300–9.020 s
+
+## bh_flyby
+NASA relativistic black-hole camera flight: bh_flyby
+
+Source: https://svs.gsfc.nasa.gov/14576/
+Media: https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_FlyBy_Zoom2_1920x1080_30.mp4
+Credit: NASA/GSFC · J. Schnittman · B. Powell
+License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
+Native dimensions: 1920 × 1080
+Kind: science3d
+Selected source ranges: 0.300–20.380 s; 20.940–29.620 s
+
+## bh_plunge
+NASA relativistic black-hole camera flight: bh_plunge
+
+Source: https://svs.gsfc.nasa.gov/14576/
+Media: https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_Plunge_Zoom2b_1080.mp4
+Credit: NASA/GSFC · J. Schnittman · B. Powell
+License / usage: NASA media usage guidelines — https://www.nasa.gov/nasa-brand-center/images-and-media/
+Native dimensions: 3840 × 2160
+Kind: science3d
+Selected source ranges: 0.300–17.180 s; 18.220–28.620 s; 29.140–38.420 s
 
 ## cgi_nuclei
 Original spatial illustration: nuclei
@@ -818,7 +818,7 @@ Credit: KOSMION
 License / usage: Original KOSMION production — 
 Native dimensions: 1920 × 1080
 Kind: original3d
-Selected source ranges: 0.300–12.500 s; 13.020–19.340 s
+Selected source ranges: 0.300–12.980 s; 13.020–18.860 s
 
 ## cgi_helium
 Original spatial illustration: helium
@@ -840,7 +840,7 @@ Credit: KOSMION
 License / usage: Original KOSMION production — 
 Native dimensions: 1920 × 1080
 Kind: original3d
-Selected source ranges: 0.300–10.500 s
+Selected source ranges: 0.300–10.980 s
 
 ## cgi_redshift
 Original spatial illustration: redshift
