@@ -1862,6 +1862,29 @@
           19.4
         ]
       ]
+    },
+    {
+      "key": "supporting_bh_orbit",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014619/2-Orbiting_a_black_hole-HD.mp4",
+      "page": "https://svs.gsfc.nasa.gov/14619/",
+      "title": "Orbiting a black hole, spatial scientific visualization",
+      "credit": "NASA/JPL-Caltech/R. Hurt (IPAC)",
+      "screen_credit": "NASA/JPL-Caltech · R. Hurt (IPAC)",
+      "path": "assets/supporting_bh_orbit.mp4",
+      "duration": 15.015,
+      "width": 1920,
+      "height": 1080,
+      "source_fps": "30000/1001",
+      "media": "video",
+      "kind": "science3d",
+      "allowed": [
+        [
+          0.2,
+          14.95
+        ]
+      ],
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
     }
   ],
   "shots": [
@@ -3318,12 +3341,12 @@
       "id": 86,
       "start_frame": 18460,
       "frames": 490,
-      "asset": "extra13326_0",
-      "in": 11.5,
-      "rate": 1,
+      "asset": "supporting_bh_orbit",
+      "in": 0.3,
+      "rate": 0.72,
       "fade_in": 0,
       "fade_out": 0,
-      "credit": "NASA/GSFC",
+      "credit": "NASA/JPL-Caltech · R. Hurt (IPAC)",
       "labels": [
         {
           "global_start": 738.5,
@@ -3334,7 +3357,7 @@
       "dissolve": 12,
       "handle": 12,
       "photo_variant": 0,
-      "render_key": "b5031fa29274b71e08"
+      "render_key": "206625126573dd7bfc"
     },
     {
       "id": 87,
