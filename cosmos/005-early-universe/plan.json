@@ -1723,7 +1723,7 @@
     },
     {
       "key": "bh_flyby",
-      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_FlyBy_Zoom2_1920x1080_30.mp4",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_FlyBy_Rectilinear_2160x1080_30.mp4",
       "page": "https://svs.gsfc.nasa.gov/14576/",
       "title": "NASA relativistic black-hole camera flight: bh_flyby",
       "credit": "NASA/GSFC · J. Schnittman · B. Powell",
@@ -1733,20 +1733,20 @@
       "path": "assets/bh_flyby.mp4",
       "license": "NASA media usage guidelines",
       "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "width": 1920,
+      "width": 2160,
       "height": 1080,
-      "duration": 33.033333,
+      "duration": 66.3,
       "source_fps": "30/1",
       "allowed": [
         [
-          0.3,
-          32.433333
+          33.3,
+          65.7
         ]
       ]
     },
     {
       "key": "bh_plunge",
-      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_Plunge_Zoom2b_1080.mp4",
+      "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_Plunge_Rectilinear_2160x1080_30.mp4",
       "page": "https://svs.gsfc.nasa.gov/14576/",
       "title": "NASA relativistic black-hole camera flight: bh_plunge",
       "credit": "NASA/GSFC · J. Schnittman · B. Powell",
@@ -1756,14 +1756,14 @@
       "path": "assets/bh_plunge.mp4",
       "license": "NASA media usage guidelines",
       "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "width": 3840,
-      "height": 2160,
-      "duration": 40.466667,
+      "width": 2160,
+      "height": 1080,
+      "duration": 58.633333,
       "source_fps": "30/1",
       "allowed": [
         [
           0.3,
-          39.866667
+          58
         ]
       ]
     },
@@ -3196,7 +3196,7 @@
       "dissolve": 12,
       "handle": 0,
       "photo_variant": 0,
-      "render_key": "735c46dcf25b143f68"
+      "render_key": "2810083f20aea1b181"
     },
     {
       "id": 79,
@@ -3315,7 +3315,7 @@
       "start_frame": 18460,
       "frames": 490,
       "asset": "bh_flyby",
-      "in": 0.3,
+      "in": 33.3,
       "rate": 1,
       "fade_in": 0,
       "fade_out": 0,
@@ -3330,7 +3330,7 @@
       "dissolve": 12,
       "handle": 12,
       "photo_variant": 0,
-      "render_key": "f4383f6f9b757eebf9"
+      "render_key": "9946216181d817d9be"
     },
     {
       "id": 87,
@@ -3362,7 +3362,7 @@
       "dissolve": 12,
       "handle": 0,
       "photo_variant": 2,
-      "render_key": "7e39df5a38e9e2d29c"
+      "render_key": "d00bf3ae2f8d600cb3"
     },
     {
       "id": 89,
@@ -3429,7 +3429,7 @@
       "start_frame": 20247,
       "frames": 205,
       "asset": "bh_flyby",
-      "in": 20.94,
+      "in": 53.94,
       "rate": 1,
       "fade_in": 0,
       "fade_out": 0,
@@ -3438,7 +3438,7 @@
       "dissolve": 0,
       "handle": 12,
       "photo_variant": 2,
-      "render_key": "ccc671d10bb3d38175"
+      "render_key": "060e735968740acbcd"
     },
     {
       "id": 93,
@@ -3486,7 +3486,7 @@
       "dissolve": 12,
       "handle": 0,
       "photo_variant": 3,
-      "render_key": "174e8b952829f7d87b"
+      "render_key": "c35b856deaa7aaddf8"
     },
     {
       "id": 96,
