@@ -1,0 +1,48 @@
+name: Publish one complete KOSMION Early Universe documentary
+on:
+  push:
+    branches: [cosmos-005-early-universe]
+    paths: [.github/workflows/publish-early-universe.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Retrieve the verified complete final movie
+        env:
+          COMPLETED_MOVIE: '{"url":"https://filebin.net/63e02d4b77f5d8e5c3b23eb4a4a84230/Fruehes_Universum_KOSMION_1080p.mp4","filename":"Fruehes_Universum_KOSMION_1080p.mp4","bytes":877532009,"sha256":"11f11af0d7330f8de9af0836c81f9485de9ab67da0e95a2f67ff50efe02cbe3a","duration":1340.48}'
+        run: |
+          python3 - <<'PYCODE'
+          import urllib.request,http.cookiejar,pathlib,hashlib,os,json
+          cfg=json.loads(os.environ['COMPLETED_MOVIE']);dest=pathlib.Path(cfg['filename']);jar=http.cookiejar.CookieJar();op=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar));h=hashlib.sha256();count=0
+          for attempt in range(3):
+              with op.open(urllib.request.Request(cfg['url'],headers={'Range':'bytes=0-31'}),timeout=90) as response:
+                  header=response.read(32)
+              if header[4:8]==b'ftyp':break
+          assert header[4:8]==b'ftyp'
+          with op.open(cfg['url'],timeout=600) as response,open(dest,'wb') as output:
+              while data:=response.read(1024*1024):output.write(data);h.update(data);count+=len(data)
+          assert count==cfg['bytes']==dest.stat().st_size;assert h.hexdigest()==cfg['sha256']
+          print('One complete final MP4 verified:',count,h.hexdigest())
+          PYCODE
+      - name: Publish one finished MP4
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          cat > release-notes.md <<'NOTES'
+          Mit dem frühen Universum stimmt etwas nicht
+
+          Vollständige deutsche Dokumentation: 22:20, 1920 × 1080, 25 Bilder pro Sekunde, H.264 und AAC.
+
+          Ein vollständiger MP4-Film mit der gelieferten Erzählstimme, wissenschaftlichen dreidimensionalen Visualisierungen, ausgewählten echten Archivaufnahmen und Beobachtungen sowie sparsamer deutscher Typografie. Kleine Bildnachweise stehen direkt in den ausgewählten Archivaufnahmen.
+
+          Quellen, Urheber und Lizenzen: [SOURCES.md](https://github.com/anzelina878-collab/v1/blob/cosmos-005-early-universe/cosmos/005-early-universe/SOURCES.md).
+          Qualitätsprüfung: [QUALITY_REPORT.md](https://github.com/anzelina878-collab/v1/blob/cosmos-005-early-universe/cosmos/005-early-universe/QUALITY_REPORT.md).
+          NOTES
+          gh release create cosmos-005-early-universe --target "${{ github.sha }}" --title "KOSMION · Frühes Universum · Vollständiger Film · 1080p" --notes-file release-notes.md
+          gh release upload cosmos-005-early-universe Fruehes_Universum_KOSMION_1080p.mp4 --clobber
