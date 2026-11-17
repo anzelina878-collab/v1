@@ -1,0 +1,16 @@
+[
+  {
+    "file": "final_video_hi_v1.mp4",
+    "sha256": "9a6b3142c14b7834e22faafd7f6ff23c03231aef646bb01023e08f56a4129013",
+    "bytes": 160417588,
+    "delivery": "Git LFS",
+    "download_url": "https://media.githubusercontent.com/media/anzelina878-collab/v1/main/video-studio/episodes/005-israel-iran-hi/output/final_video_hi_v1.mp4?download=1"
+  },
+  {
+    "file": "project_source_hi_v1.zip",
+    "sha256": "ada214a5811829bf12da2b98a69357a1f89e9958a65400b6f432d1b62a284a7a",
+    "bytes": 400667223,
+    "delivery": "Git LFS",
+    "download_url": "https://media.githubusercontent.com/media/anzelina878-collab/v1/main/video-studio/episodes/005-israel-iran-hi/output/project_source_hi_v1.zip?download=1"
+  }
+]
