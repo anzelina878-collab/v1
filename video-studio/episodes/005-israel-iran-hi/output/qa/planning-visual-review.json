@@ -1,0 +1,19 @@
+{
+  "status": "reviewed",
+  "method": "All 185 planned scenes inspected in eight contact sheets, plus a 90-second encoded pilot contact sheet and detailed model/map/source checks. Hindi speech anchors reviewed against the supplied voice. This is sampled visual review, separate from continuous full-length playback.",
+  "scene_count": 185,
+  "contact_sheets": 8,
+  "continuous_human_watch_and_listen": false,
+  "ukrainian_original_preserved": true,
+  "source_selection": "Preserved approved Ukrainian episode assets and documentary family/archival qualifiers; no new inventory or readiness figures.",
+  "issues_corrected": [
+    "Removed accidental sub-second photo flashes after language retiming",
+    "Replaced exhausted archive ending with a relevant deliberate Iron Dome photo",
+    "Rebuilt animated terrain map banks with Hindi labels",
+    "Replaced obsolete Cyrillic brand footage with ARSENAL 360 / शस्त्र 360",
+    "Re-timed 11 chapter title cards to the actual Hindi recording"
+  ],
+  "constraints": [
+    "Raw ASR remains an editing aid and includes recognition errors; on-screen labels are manually localized."
+  ]
+}

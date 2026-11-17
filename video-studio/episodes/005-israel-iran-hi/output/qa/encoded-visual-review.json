@@ -1,0 +1,10 @@
+{
+  "status": "reviewed",
+  "scene_count": 185,
+  "encoded_contact_sheets": 8,
+  "all_encoded_scene_samples_inspected": true,
+  "chapter_onset_controls": "passed for all 11 cards",
+  "native_geometry_controls": "passed for every encoded native 3D scene",
+  "findings": "Hindi labels, country flags, technical model family qualifiers, archival dates, animated terrain maps and closing question retained. No Cyrillic added to captions or branding. Original source-language text/logos in documentary footage remain as source material.",
+  "continuous_full_length_watch_and_listen": false
+}

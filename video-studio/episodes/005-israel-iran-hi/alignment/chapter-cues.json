@@ -1,0 +1,79 @@
+[
+  {
+    "chapter": 1,
+    "title": "वायु सेना",
+    "spoken_start": 91.96,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  },
+  {
+    "chapter": 2,
+    "title": "टैंक",
+    "spoken_start": 232.06,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  },
+  {
+    "chapter": 3,
+    "title": "मिसाइलें",
+    "spoken_start": 352.26,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  },
+  {
+    "chapter": 4,
+    "title": "पैदल सेना",
+    "spoken_start": 483.64,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  },
+  {
+    "chapter": 5,
+    "title": "तोपखाना",
+    "spoken_start": 611.21,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  },
+  {
+    "chapter": 6,
+    "title": "ड्रोन",
+    "spoken_start": 710.19,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  },
+  {
+    "chapter": 7,
+    "title": "वायु रक्षा",
+    "spoken_start": 832.15,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  },
+  {
+    "chapter": 8,
+    "title": "हेलीकॉप्टर",
+    "spoken_start": 975.65,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  },
+  {
+    "chapter": 9,
+    "title": "नौसेना",
+    "spoken_start": 1048.16,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  },
+  {
+    "chapter": 10,
+    "title": "निष्कर्ष",
+    "spoken_start": 1140.98,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  },
+  {
+    "chapter": 11,
+    "title": "आपकी राय",
+    "spoken_start": 1276.04,
+    "status": "reviewed-against-supplied-Hindi-narration",
+    "cue_method": "Category name where spoken; first actual phrase of block where printed heading is not narrated"
+  }
+]

@@ -1,0 +1,292 @@
+{
+  "status": "passed",
+  "method": "Three encoded poses per 3D scene compared to exact 720-frame / 24-second native bank at normal speed. Footer excluded. Actual licensed geometry, no optical-flow interpolation.",
+  "scenes": [
+    {
+      "scene": "hi005-018",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.1472530864197531
+        },
+        {
+          "local_time": 1.8666666666666667,
+          "bank_time": 1.8666666666666667,
+          "model_area_mae": 0.19320987654320987
+        },
+        {
+          "local_time": 3.1733333333333333,
+          "bank_time": 3.1733333333333333,
+          "model_area_mae": 0.19007716049382717
+        }
+      ]
+    },
+    {
+      "scene": "hi005-020",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.10947530864197531
+        },
+        {
+          "local_time": 1.6833333333333371,
+          "bank_time": 1.6833333333333371,
+          "model_area_mae": 0.15868055555555555
+        },
+        {
+          "local_time": 2.861666666666673,
+          "bank_time": 2.861666666666673,
+          "model_area_mae": 0.16233024691358025
+        }
+      ]
+    },
+    {
+      "scene": "hi005-023",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.165,
+          "bank_time": 0.165,
+          "model_area_mae": 0.12508487654320988
+        },
+        {
+          "local_time": 0.55,
+          "bank_time": 0.55,
+          "model_area_mae": 0.1419675925925926
+        },
+        {
+          "local_time": 0.935,
+          "bank_time": 0.935,
+          "model_area_mae": 0.1545756172839506
+        }
+      ]
+    },
+    {
+      "scene": "hi005-031",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.16999999999999998,
+          "bank_time": 0.16999999999999998,
+          "model_area_mae": 0.10507716049382716
+        },
+        {
+          "local_time": 0.5666666666666667,
+          "bank_time": 0.5666666666666667,
+          "model_area_mae": 0.125054012345679
+        },
+        {
+          "local_time": 0.9633333333333333,
+          "bank_time": 0.9633333333333333,
+          "model_area_mae": 0.14058641975308642
+        }
+      ]
+    },
+    {
+      "scene": "hi005-035",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.1472530864197531
+        },
+        {
+          "local_time": 4.033333333333333,
+          "bank_time": 4.033333333333333,
+          "model_area_mae": 0.21427469135802468
+        },
+        {
+          "local_time": 6.8566666666666665,
+          "bank_time": 6.8566666666666665,
+          "model_area_mae": 0.18199074074074073
+        }
+      ]
+    },
+    {
+      "scene": "hi005-066",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.10947530864197531
+        },
+        {
+          "local_time": 4.366666666666666,
+          "bank_time": 4.366666666666666,
+          "model_area_mae": 0.15752314814814813
+        },
+        {
+          "local_time": 7.423333333333332,
+          "bank_time": 7.423333333333332,
+          "model_area_mae": 0.13203703703703704
+        }
+      ]
+    },
+    {
+      "scene": "hi005-075",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.11223765432098766
+        },
+        {
+          "local_time": 2.6333333333333333,
+          "bank_time": 2.6333333333333333,
+          "model_area_mae": 0.0732716049382716
+        },
+        {
+          "local_time": 4.476666666666667,
+          "bank_time": 4.476666666666667,
+          "model_area_mae": 0.08790123456790123
+        }
+      ]
+    },
+    {
+      "scene": "hi005-138",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.12314043209876543
+        },
+        {
+          "local_time": 3.433333333333333,
+          "bank_time": 3.433333333333333,
+          "model_area_mae": 0.16923611111111111
+        },
+        {
+          "local_time": 5.836666666666666,
+          "bank_time": 5.836666666666666,
+          "model_area_mae": 0.12216820987654321
+        }
+      ]
+    },
+    {
+      "scene": "hi005-140",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.12314043209876543
+        },
+        {
+          "local_time": 2.9,
+          "bank_time": 2.9,
+          "model_area_mae": 0.1741358024691358
+        },
+        {
+          "local_time": 4.93,
+          "bank_time": 4.93,
+          "model_area_mae": 0.1376003086419753
+        }
+      ]
+    },
+    {
+      "scene": "hi005-141",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.18699845679012345
+        },
+        {
+          "local_time": 5.083333333333333,
+          "bank_time": 5.083333333333333,
+          "model_area_mae": 0.24567901234567902
+        },
+        {
+          "local_time": 8.641666666666666,
+          "bank_time": 8.641666666666666,
+          "model_area_mae": 0.15905864197530864
+        }
+      ]
+    },
+    {
+      "scene": "hi005-145",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.12314043209876543
+        },
+        {
+          "local_time": 1.7333333333333334,
+          "bank_time": 1.7333333333333334,
+          "model_area_mae": 0.1503780864197531
+        },
+        {
+          "local_time": 2.9466666666666668,
+          "bank_time": 2.9466666666666668,
+          "model_area_mae": 0.17198302469135804
+        }
+      ]
+    },
+    {
+      "scene": "hi005-164",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.10947530864197531
+        },
+        {
+          "local_time": 5.083333333333333,
+          "bank_time": 5.083333333333333,
+          "model_area_mae": 0.15441358024691357
+        },
+        {
+          "local_time": 8.641666666666666,
+          "bank_time": 8.641666666666666,
+          "model_area_mae": 0.10896604938271605
+        }
+      ]
+    },
+    {
+      "scene": "hi005-175",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.10947530864197531
+        },
+        {
+          "local_time": 5.516666666666667,
+          "bank_time": 5.516666666666667,
+          "model_area_mae": 0.14414351851851853
+        },
+        {
+          "local_time": 9.378333333333334,
+          "bank_time": 9.378333333333334,
+          "model_area_mae": 0.10228395061728394
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "samples": 590,
+  "fonts": [
+    {
+      "font": "ArsenalHindi-Regular.ttf",
+      "visible_characters_checked": 96,
+      "missing": []
+    },
+    {
+      "font": "ArsenalHindi-Bold.ttf",
+      "visible_characters_checked": 96,
+      "missing": []
+    }
+  ]
+}

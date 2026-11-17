@@ -1,0 +1,22 @@
+{
+  "state": "technically_verified",
+  "edition": "Hindi",
+  "source_episode": "005-israel-iran",
+  "original_preserved": true,
+  "audio_rewritten": false,
+  "audio_speed_changed": false,
+  "on_screen_language": "hi",
+  "branding": "ARSENAL 360 / शस्त्र 360",
+  "delivery": "authorized GitHub repository",
+  "continuous_human_watch": "not performed",
+  "profile_override": "User-approved light military comparison studio; preserve the Ukrainian visual edit, actual photos, archives and native geometry. Generic dark-crime ratios and photo motion do not apply to this explicitly approved format.",
+  "ai_generated_video_seconds": 0,
+  "ai_generated_photo_seconds": 0,
+  "editorial_review": "all planned and encoded scene samples reviewed; continuous full-length watch/listen not performed",
+  "duration_seconds": 1312.0,
+  "frames": 39360,
+  "scenes": 185,
+  "audio_waveform_correlation": 0.9999091910786235,
+  "movie_sha256": "9a6b3142c14b7834e22faafd7f6ff23c03231aef646bb01023e08f56a4129013",
+  "movie_bytes": 160417588
+}

@@ -1,0 +1,10 @@
+{
+  "audio/voiceover.mp3": {
+    "bytes": 15743712,
+    "sha256": "0273fd0f3037ca011885a71a23645063b71321ea5ac487e408264de05a2b8032"
+  },
+  "inputs/script.uk.txt": {
+    "bytes": 34795,
+    "sha256": "63da61325f8782aa3d8980efa2dbad07b516185d61a5bc691377d9ab6dedeada"
+  }
+}

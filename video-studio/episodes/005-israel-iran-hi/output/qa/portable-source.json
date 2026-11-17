@@ -1,0 +1,107 @@
+{
+  "status": "passed",
+  "fresh_copy": true,
+  "actual_media_and_fonts": true,
+  "external_network_used": false,
+  "source_audio_hash_verified": true,
+  "variants": [
+    {
+      "kind": "archive",
+      "asset": "conflict2024",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "compare",
+      "asset": "original",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "graphic",
+      "asset": "original",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "ident",
+      "asset": null,
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "map",
+      "asset": "map-region",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "outro",
+      "asset": "original",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "photo",
+      "asset": "f35i",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "question",
+      "asset": "original",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "section",
+      "asset": null,
+      "country": null,
+      "frames": 18
+    },
+    {
+      "kind": "turntable",
+      "asset": "model-f14",
+      "country": "IR",
+      "frames": 18
+    },
+    {
+      "kind": "archive",
+      "asset": "m109-action",
+      "country": "US",
+      "frames": 18
+    },
+    {
+      "kind": "map",
+      "asset": "map-navy",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "turntable",
+      "asset": "model-apache",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "turntable",
+      "asset": "model-blackhawk",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "turntable",
+      "asset": "model-f16",
+      "country": "IL",
+      "frames": 18
+    },
+    {
+      "kind": "turntable",
+      "asset": "model-m4",
+      "country": "IL",
+      "frames": 18
+    }
+  ],
+  "ordinary_render_requires_gpu": false,
+  "ordinary_render_requires_speech_recognition": false
+}

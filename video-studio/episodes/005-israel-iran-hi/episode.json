@@ -1,0 +1,3461 @@
+{
+  "schema": "arsenal.hindi-episode005.v1",
+  "title": "इज़राइल बनाम ईरान 2026: किसकी सैन्य ताकत ज़्यादा है?",
+  "language": "hi",
+  "brand": "ARSENAL 360 / शस्त्र 360",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 1312.0,
+  "audio": "audio/voiceover.mp3",
+  "scenes": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "duration": 4.7,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "मध्य पूर्व",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi005-000",
+      "original_scene_ids": [
+        "shot-001"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 4.7,
+      "end": 8.0,
+      "duration": 3.3,
+      "kind": "archive",
+      "asset_id": "conflict2024",
+      "title": "इज़राइल · अप्रैल 2024",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 6,
+      "source_in": 0.0,
+      "id": "hi005-001",
+      "original_scene_ids": [
+        "shot-002"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 8.0,
+      "end": 12.233333333333333,
+      "duration": 4.233333333333333,
+      "kind": "archive",
+      "asset_id": "f35i-action",
+      "title": "F-35I ADIR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "source_in": 0.0,
+      "id": "hi005-002",
+      "original_scene_ids": [
+        "shot-003"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 12.233333333333333,
+      "end": 14.1,
+      "duration": 1.8666666666666667,
+      "kind": "photo",
+      "asset_id": "f35i",
+      "title": "F-35I ADIR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-003",
+      "original_scene_ids": [
+        "shot-004"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 14.1,
+      "end": 15.366666666666667,
+      "duration": 1.2666666666666666,
+      "kind": "archive",
+      "asset_id": "iron-intercepts",
+      "title": "IRON DOME · 2023",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "source_in": 0.0,
+      "id": "hi005-004",
+      "original_scene_ids": [
+        "shot-005"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 15.366666666666667,
+      "end": 19.233333333333334,
+      "duration": 3.8666666666666667,
+      "kind": "archive",
+      "asset_id": "iran-ballistic",
+      "title": "ईरान · परीक्षण प्रक्षेपण",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "source_in": 0.0,
+      "id": "hi005-005",
+      "original_scene_ids": [
+        "shot-006"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 19.233333333333334,
+      "end": 20.9,
+      "duration": 1.6666666666666667,
+      "kind": "photo",
+      "asset_id": "shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "id": "hi005-006",
+      "original_scene_ids": [
+        "shot-007"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 20.9,
+      "end": 23.8,
+      "duration": 2.9,
+      "kind": "photo",
+      "asset_id": "karrar",
+      "title": "KARRAR",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "id": "hi005-007",
+      "original_scene_ids": [
+        "shot-008"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 23.8,
+      "end": 27.9,
+      "duration": 4.1,
+      "kind": "photo",
+      "asset_id": "f35i",
+      "title": "F-35I ADIR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "id": "hi005-008",
+      "original_scene_ids": [
+        "shot-009"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 27.9,
+      "end": 30.766666666666666,
+      "duration": 2.866666666666667,
+      "kind": "photo",
+      "asset_id": "merkava",
+      "title": "MERKAVA MK.4",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "id": "hi005-009",
+      "original_scene_ids": [
+        "shot-010",
+        "shot-011"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 30.766666666666666,
+      "end": 33.2,
+      "duration": 2.433333333333333,
+      "kind": "photo",
+      "asset_id": "fateh",
+      "title": "FATEH-110",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "id": "hi005-010",
+      "original_scene_ids": [
+        "shot-012"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 33.2,
+      "end": 34.6,
+      "duration": 1.4,
+      "kind": "photo",
+      "asset_id": "shahab",
+      "title": "SHAHAB",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "id": "hi005-011",
+      "original_scene_ids": [
+        "shot-013"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 34.6,
+      "end": 36.53333333333333,
+      "duration": 1.9333333333333333,
+      "kind": "photo",
+      "asset_id": "shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "id": "hi005-012",
+      "original_scene_ids": [
+        "shot-014"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 36.53333333333333,
+      "end": 37.93333333333333,
+      "duration": 1.4,
+      "kind": "photo",
+      "asset_id": "fajr5",
+      "title": "FAJR-5",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 5,
+      "id": "hi005-013",
+      "original_scene_ids": [
+        "shot-015"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 37.93333333333333,
+      "end": 46.36666666666667,
+      "duration": 8.433333333333337,
+      "kind": "archive",
+      "asset_id": "conflict2024b",
+      "title": "इज़राइल · अक्टूबर 2024",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 8,
+      "source_in": 0.0,
+      "id": "hi005-014",
+      "original_scene_ids": [
+        "shot-016",
+        "shot-017"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 46.36666666666667,
+      "end": 48.8,
+      "duration": 2.433333333333333,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "मध्य पूर्व",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 6.0,
+      "id": "hi005-015",
+      "original_scene_ids": [
+        "shot-018"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 48.8,
+      "end": 55.0,
+      "duration": 6.2,
+      "kind": "archive",
+      "asset_id": "iron-system",
+      "title": "IRON DOME · प्रणाली के अभिलेखीय दृश्य",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 6,
+      "source_in": 20.0,
+      "id": "hi005-016",
+      "original_scene_ids": [
+        "shot-019"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 55.0,
+      "end": 65.73333333333333,
+      "duration": 10.733333333333333,
+      "kind": "photo",
+      "asset_id": "f35i",
+      "title": "F-35I ADIR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-017",
+      "original_scene_ids": [
+        "shot-020"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 65.73333333333333,
+      "end": 69.46666666666667,
+      "duration": 3.7333333333333334,
+      "kind": "turntable",
+      "asset_id": "model-f14",
+      "title": "F-14 · विमान परिवार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-018",
+      "original_scene_ids": [
+        "shot-021"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 69.46666666666667,
+      "end": 77.56666666666666,
+      "duration": 8.099999999999994,
+      "kind": "archive",
+      "asset_id": "iron-intercepts2",
+      "title": "IRON DOME · अवरोधन, 2023",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 8,
+      "source_in": 0.0,
+      "id": "hi005-019",
+      "original_scene_ids": [
+        "shot-022",
+        "shot-023"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 77.56666666666666,
+      "end": 80.93333333333334,
+      "duration": 3.3666666666666742,
+      "kind": "turntable",
+      "asset_id": "model-f16",
+      "title": "वायु सेना · F-16",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-020",
+      "original_scene_ids": [
+        "shot-024",
+        "shot-025",
+        "shot-026"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 80.93333333333334,
+      "end": 82.46666666666667,
+      "duration": 1.5333333333333314,
+      "kind": "photo",
+      "asset_id": "atmos",
+      "title": "ATMOS 2000",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-021",
+      "original_scene_ids": [
+        "shot-027",
+        "shot-028"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 82.46666666666667,
+      "end": 84.2,
+      "duration": 1.7333333333333343,
+      "kind": "photo",
+      "asset_id": "shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-022",
+      "original_scene_ids": [
+        "shot-029",
+        "shot-030"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 84.2,
+      "end": 85.3,
+      "duration": 1.1,
+      "kind": "turntable",
+      "asset_id": "model-apache",
+      "title": "AH-64 · परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-023",
+      "original_scene_ids": [
+        "shot-031"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 85.3,
+      "end": 86.8,
+      "duration": 1.5,
+      "kind": "photo",
+      "asset_id": "saar6",
+      "title": "SA’AR 6",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-024",
+      "original_scene_ids": [
+        "shot-032"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 86.8,
+      "end": 91.26666666666667,
+      "duration": 4.466666666666667,
+      "kind": "ident",
+      "title": "ARSENAL 360",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-025",
+      "subtitle": "शस्त्र 360",
+      "original_scene_ids": [
+        "shot-033"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "वायु सेना",
+      "subtitle": "",
+      "start": 91.26666666666667,
+      "end": 94.76666666666667,
+      "duration": 3.5,
+      "chapter": 1,
+      "spoken_start": 91.96666666666667,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-026",
+      "settle_after": 1.2
+    },
+    {
+      "start": 94.76666666666667,
+      "end": 100.56666666666666,
+      "duration": 5.799999999999997,
+      "kind": "photo",
+      "asset_id": "f35i",
+      "title": "F-35I ADIR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-027",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-034",
+        "shot-035"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 100.56666666666666,
+      "end": 111.93333333333334,
+      "duration": 11.366666666666667,
+      "kind": "archive",
+      "asset_id": "f35i-action",
+      "title": "F-35I ADIR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 9.5,
+      "id": "hi005-028",
+      "original_scene_ids": [
+        "shot-036"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 111.93333333333334,
+      "end": 140.06666666666666,
+      "duration": 28.133333333333333,
+      "kind": "archive",
+      "asset_id": "f35i-arrival",
+      "title": "F-35I ADIR · अभिलेखीय दृश्य, 2016",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 30,
+      "source_in": 40.0,
+      "id": "hi005-029",
+      "original_scene_ids": [
+        "shot-037"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 140.06666666666666,
+      "end": 142.66666666666666,
+      "duration": 2.6,
+      "kind": "photo",
+      "asset_id": "f15i",
+      "title": "F-15 · विमान परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-030",
+      "original_scene_ids": [
+        "shot-038"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 142.66666666666666,
+      "end": 143.8,
+      "duration": 1.1333333333333333,
+      "kind": "turntable",
+      "asset_id": "model-f16",
+      "title": "F-16 · विमान परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-031",
+      "original_scene_ids": [
+        "shot-039"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 143.8,
+      "end": 151.03333333333333,
+      "duration": 7.233333333333333,
+      "kind": "photo",
+      "asset_id": "f15i",
+      "title": "F-15 · विमान परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-032",
+      "original_scene_ids": [
+        "shot-040"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 151.03333333333333,
+      "end": 158.1,
+      "duration": 7.066666666666666,
+      "kind": "archive",
+      "asset_id": "idf-ready",
+      "title": "F-16 · इज़राइल में तैयारी, 2024",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 10.0,
+      "id": "hi005-033",
+      "original_scene_ids": [
+        "shot-041"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 158.1,
+      "end": 163.0,
+      "duration": 4.9,
+      "kind": "archive",
+      "asset_id": "f16i-action",
+      "title": "पायलट प्रशिक्षण · इज़राइल, 2013",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 45.0,
+      "id": "hi005-034",
+      "original_scene_ids": [
+        "shot-042"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 163.0,
+      "end": 171.06666666666666,
+      "duration": 8.066666666666666,
+      "kind": "turntable",
+      "asset_id": "model-f14",
+      "title": "F-14 · विमान परिवार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-035",
+      "original_scene_ids": [
+        "shot-043"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 171.06666666666666,
+      "end": 184.03333333333333,
+      "duration": 12.966666666666667,
+      "kind": "photo",
+      "asset_id": "f14",
+      "title": "F-14 TOMCAT · ईरान",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-036",
+      "original_scene_ids": [
+        "shot-044"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 184.03333333333333,
+      "end": 188.16666666666666,
+      "duration": 4.133333333333334,
+      "kind": "photo",
+      "asset_id": "model-mig29",
+      "title": "MiG-29 · विमान परिवार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-037",
+      "original_scene_ids": [
+        "shot-045"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 188.16666666666666,
+      "end": 189.4,
+      "duration": 1.2333333333333334,
+      "kind": "photo",
+      "asset_id": "f4",
+      "title": "F-4 PHANTOM · ईरान",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-038",
+      "original_scene_ids": [
+        "shot-046"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 189.4,
+      "end": 191.0,
+      "duration": 1.6,
+      "kind": "photo",
+      "asset_id": "su24",
+      "title": "Su-24 · विमान का प्रकार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-039",
+      "original_scene_ids": [
+        "shot-047"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 191.0,
+      "end": 202.63333333333333,
+      "duration": 11.633333333333333,
+      "kind": "photo",
+      "asset_id": "f4",
+      "title": "F-4 PHANTOM · ईरान",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-040",
+      "original_scene_ids": [
+        "shot-048"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 202.63333333333333,
+      "end": 215.43333333333334,
+      "duration": 12.8,
+      "kind": "photo",
+      "asset_id": "su24",
+      "title": "Su-24 · विमान का प्रकार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "तस्वीर में Su-24 परिवार का विमान",
+      "id": "hi005-041",
+      "original_scene_ids": [
+        "shot-049"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 215.43333333333334,
+      "end": 227.06666666666666,
+      "duration": 11.633333333333333,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "वायु सेना",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "f35i",
+          "F-35I ADIR",
+          "IL"
+        ],
+        [
+          "f14",
+          "F-14 TOMCAT",
+          "IR"
+        ]
+      ],
+      "id": "hi005-042",
+      "original_scene_ids": [
+        "shot-050"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 227.06666666666666,
+      "end": 231.36666666666667,
+      "duration": 4.3,
+      "kind": "archive",
+      "asset_id": "f35i-arrival",
+      "title": "F-35I ADIR · अभिलेखीय दृश्य, 2016",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 10,
+      "source_in": 66.36666666666667,
+      "id": "hi005-043",
+      "original_scene_ids": [
+        "shot-051"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "टैंक",
+      "subtitle": "",
+      "start": 231.36666666666667,
+      "end": 234.86666666666667,
+      "duration": 3.5,
+      "chapter": 2,
+      "spoken_start": 232.06666666666666,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-044",
+      "settle_after": 1.2
+    },
+    {
+      "start": 234.86666666666667,
+      "end": 236.16666666666666,
+      "duration": 1.3,
+      "kind": "photo",
+      "asset_id": "trophy",
+      "title": "TROPHY",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-045",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-052"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 236.16666666666666,
+      "end": 260.7,
+      "duration": 24.533333333333335,
+      "kind": "archive",
+      "asset_id": "merkava-action",
+      "title": "MERKAVA MK.4M · अभिलेखीय दृश्य, 2021",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 30,
+      "source_in": 0.0,
+      "id": "hi005-046",
+      "original_scene_ids": [
+        "shot-053"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 260.7,
+      "end": 270.0,
+      "duration": 9.3,
+      "kind": "photo",
+      "asset_id": "trophy",
+      "title": "TROPHY",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-047",
+      "original_scene_ids": [
+        "shot-054"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 270.0,
+      "end": 274.53333333333336,
+      "duration": 4.533333333333333,
+      "kind": "photo",
+      "asset_id": "merkava",
+      "title": "MERKAVA MK.4",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-048",
+      "original_scene_ids": [
+        "shot-055"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 274.53333333333336,
+      "end": 285.0,
+      "duration": 10.466666666666667,
+      "kind": "photo",
+      "asset_id": "namer",
+      "title": "NAMER",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-049",
+      "original_scene_ids": [
+        "shot-056"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 285.0,
+      "end": 302.9,
+      "duration": 17.9,
+      "kind": "photo",
+      "asset_id": "karrar",
+      "title": "KARRAR",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-050",
+      "original_scene_ids": [
+        "shot-057"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 302.9,
+      "end": 306.93333333333334,
+      "duration": 4.033333333333333,
+      "kind": "photo",
+      "asset_id": "t72",
+      "title": "T-72 · टैंक परिवार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-051",
+      "original_scene_ids": [
+        "shot-058"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 306.93333333333334,
+      "end": 312.1666666666667,
+      "duration": 5.233333333333333,
+      "kind": "photo",
+      "asset_id": "zulfiqar",
+      "title": "ZULFIQAR",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-052",
+      "original_scene_ids": [
+        "shot-059"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 312.1666666666667,
+      "end": 325.6,
+      "duration": 13.433333333333334,
+      "kind": "photo",
+      "asset_id": "karrar",
+      "title": "KARRAR",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-053",
+      "original_scene_ids": [
+        "shot-060"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 325.6,
+      "end": 335.1666666666667,
+      "duration": 9.566666666666666,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "बख़्तरबंद वाहन",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "merkava",
+          "MERKAVA MK.4",
+          "IL"
+        ],
+        [
+          "karrar",
+          "KARRAR",
+          "IR"
+        ]
+      ],
+      "id": "hi005-054",
+      "original_scene_ids": [
+        "shot-061"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 335.1666666666667,
+      "end": 346.26666666666665,
+      "duration": 11.1,
+      "kind": "photo",
+      "asset_id": "t72",
+      "title": "T-72 · टैंक का प्रकार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "तस्वीर में T-72 परिवार का टैंक",
+      "id": "hi005-055",
+      "original_scene_ids": [
+        "shot-062"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 346.26666666666665,
+      "end": 351.56666666666666,
+      "duration": 5.3,
+      "kind": "archive",
+      "asset_id": "merkava-action",
+      "title": "संचार और समन्वय · अभ्यास, 2021",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 24.76666666666665,
+      "id": "hi005-056",
+      "original_scene_ids": [
+        "shot-063"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "मिसाइलें",
+      "subtitle": "",
+      "start": 351.56666666666666,
+      "end": 355.06666666666666,
+      "duration": 3.5,
+      "chapter": 3,
+      "spoken_start": 352.26666666666665,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-057",
+      "settle_after": 1.2
+    },
+    {
+      "start": 355.06666666666666,
+      "end": 361.7,
+      "duration": 6.633333333333326,
+      "kind": "photo",
+      "asset_id": "fateh",
+      "title": "FATEH",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-058",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-064",
+        "shot-065"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 361.7,
+      "end": 368.2,
+      "duration": 6.5,
+      "kind": "archive",
+      "asset_id": "iran-ballistic",
+      "title": "ईरान · परीक्षण प्रक्षेपण, 2020",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 4.100000000000023,
+      "id": "hi005-059",
+      "original_scene_ids": [
+        "shot-066"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 368.2,
+      "end": 376.6333333333333,
+      "duration": 8.433333333333334,
+      "kind": "photo",
+      "asset_id": "fateh",
+      "title": "FATEH-110",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-060",
+      "original_scene_ids": [
+        "shot-067"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 376.6333333333333,
+      "end": 386.6666666666667,
+      "duration": 10.033333333333333,
+      "kind": "photo",
+      "asset_id": "shahab",
+      "title": "SHAHAB",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-061",
+      "original_scene_ids": [
+        "shot-068"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 386.6666666666667,
+      "end": 393.8,
+      "duration": 7.133333333333334,
+      "kind": "photo",
+      "asset_id": "sejjil",
+      "title": "SEJJIL",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-062",
+      "original_scene_ids": [
+        "shot-069"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 393.8,
+      "end": 412.6333333333333,
+      "duration": 18.833333333333332,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "KHORRAMSHAHR / FATTAH",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "घोषित क्षमताएँ",
+        "स्वतंत्र पुष्टि आवश्यक"
+      ],
+      "id": "hi005-063",
+      "original_scene_ids": [
+        "shot-070"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 412.6333333333333,
+      "end": 427.6,
+      "duration": 14.966666666666667,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "JERICHO",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "सार्वजनिक जानकारी सीमित है"
+      ],
+      "id": "hi005-064",
+      "original_scene_ids": [
+        "shot-071"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 427.6,
+      "end": 438.8,
+      "duration": 11.2,
+      "kind": "archive",
+      "asset_id": "f35i-action",
+      "title": "F-35I ADIR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 21.666666666666686,
+      "id": "hi005-065",
+      "original_scene_ids": [
+        "shot-072"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 438.8,
+      "end": 447.53333333333336,
+      "duration": 8.733333333333333,
+      "kind": "turntable",
+      "asset_id": "model-f16",
+      "title": "F-16 · विमान परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-066",
+      "original_scene_ids": [
+        "shot-073"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 447.53333333333336,
+      "end": 455.2,
+      "duration": 7.666666666666667,
+      "kind": "archive",
+      "asset_id": "iran-ballistic",
+      "title": "ईरान · अभ्यास में प्रक्षेपण",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 10.766666666666708,
+      "id": "hi005-067",
+      "original_scene_ids": [
+        "shot-074"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 455.2,
+      "end": 461.8666666666667,
+      "duration": 6.666666666666667,
+      "kind": "archive",
+      "asset_id": "conflict2024",
+      "title": "इज़राइल · अप्रैल 2024",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 3.6666666666666856,
+      "id": "hi005-068",
+      "original_scene_ids": [
+        "shot-075"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 461.8666666666667,
+      "end": 463.7,
+      "duration": 1.8333333333333333,
+      "kind": "photo",
+      "asset_id": "irondome",
+      "title": "IRON DOME",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-069",
+      "original_scene_ids": [
+        "shot-076"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 463.7,
+      "end": 477.56666666666666,
+      "duration": 13.866666666666667,
+      "kind": "photo",
+      "asset_id": "fateh",
+      "title": "FATEH-110",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-070",
+      "original_scene_ids": [
+        "shot-077"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 477.56666666666666,
+      "end": 482.93333333333334,
+      "duration": 5.366666666666666,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "दो सैन्य रणनीतियाँ",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "f35i",
+          "विमान प्लेटफ़ॉर्म",
+          "IL"
+        ],
+        [
+          "sejjil",
+          "बैलिस्टिक मिसाइलें",
+          "IR"
+        ]
+      ],
+      "id": "hi005-071",
+      "original_scene_ids": [
+        "shot-078"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "पैदल सेना",
+      "subtitle": "",
+      "start": 482.93333333333334,
+      "end": 486.43333333333334,
+      "duration": 3.5,
+      "chapter": 4,
+      "spoken_start": 483.6333333333333,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-072",
+      "settle_after": 1.2
+    },
+    {
+      "start": 486.43333333333334,
+      "end": 511.5,
+      "duration": 25.066666666666663,
+      "kind": "photo",
+      "asset_id": "tavor",
+      "title": "TAVOR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-073",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-079",
+        "shot-080",
+        "shot-081"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 511.5,
+      "end": 521.4333333333333,
+      "duration": 9.933333333333334,
+      "kind": "photo",
+      "asset_id": "x95",
+      "title": "X95",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-074",
+      "original_scene_ids": [
+        "shot-082"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 521.4333333333333,
+      "end": 526.7,
+      "duration": 5.266666666666667,
+      "kind": "turntable",
+      "asset_id": "model-m4",
+      "title": "M4A1 · राइफल परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-075",
+      "original_scene_ids": [
+        "shot-083"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 526.7,
+      "end": 535.1333333333333,
+      "duration": 8.433333333333334,
+      "kind": "photo",
+      "asset_id": "negev",
+      "title": "NEGEV",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-076",
+      "original_scene_ids": [
+        "shot-084"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 535.1333333333333,
+      "end": 540.4333333333333,
+      "duration": 5.3,
+      "kind": "photo",
+      "asset_id": "spike",
+      "title": "SPIKE",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-077",
+      "original_scene_ids": [
+        "shot-085"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 540.4333333333333,
+      "end": 551.1333333333333,
+      "duration": 10.7,
+      "kind": "photo",
+      "asset_id": "g3",
+      "title": "G3 · राइफल परिवार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-078",
+      "original_scene_ids": [
+        "shot-086"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 551.1333333333333,
+      "end": 557.3333333333334,
+      "duration": 6.2,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "MASAF",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "ईरानी कार्यक्रम"
+      ],
+      "id": "hi005-079",
+      "original_scene_ids": [
+        "shot-087"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 557.3333333333334,
+      "end": 563.4333333333333,
+      "duration": 6.1,
+      "kind": "photo",
+      "asset_id": "pkm",
+      "title": "PK · मशीन गन परिवार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-080",
+      "original_scene_ids": [
+        "shot-088"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 563.4333333333333,
+      "end": 572.3333333333334,
+      "duration": 8.9,
+      "kind": "photo",
+      "asset_id": "toophan",
+      "title": "TOOPHAN",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-081",
+      "original_scene_ids": [
+        "shot-089"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 572.3333333333334,
+      "end": 590.4666666666667,
+      "duration": 18.133333333333333,
+      "kind": "archive",
+      "asset_id": "idf-infantry",
+      "title": "संयुक्त पैदल सेना प्रशिक्षण · 2019",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 18,
+      "source_in": 19.0,
+      "id": "hi005-082",
+      "original_scene_ids": [
+        "shot-090"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 590.4666666666667,
+      "end": 596.7666666666667,
+      "duration": 6.3,
+      "kind": "photo",
+      "asset_id": "g3",
+      "title": "G3 · राइफल परिवार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-083",
+      "original_scene_ids": [
+        "shot-091"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 596.7666666666667,
+      "end": 603.5,
+      "duration": 6.733333333333333,
+      "kind": "photo",
+      "asset_id": "x95",
+      "title": "X95",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-084",
+      "original_scene_ids": [
+        "shot-092"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 603.5,
+      "end": 610.5,
+      "duration": 7.0,
+      "kind": "archive",
+      "asset_id": "idf-field",
+      "title": "पैदल सेना प्रशिक्षण",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 12.0,
+      "id": "hi005-085",
+      "original_scene_ids": [
+        "shot-093"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "तोपखाना",
+      "subtitle": "",
+      "start": 610.5,
+      "end": 614.5,
+      "duration": 4.0,
+      "chapter": 5,
+      "spoken_start": 611.2,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-086",
+      "settle_after": 1.2
+    },
+    {
+      "start": 614.5,
+      "end": 627.1333333333333,
+      "duration": 12.633333333333333,
+      "kind": "archive",
+      "asset_id": "m109-action",
+      "title": "M109A7 · अमेरिकी प्लेटफ़ॉर्म",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 18,
+      "source_in": 0.0,
+      "id": "hi005-087",
+      "original_scene_ids": [
+        "shot-095"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 627.1333333333333,
+      "end": 645.7666666666667,
+      "duration": 18.633333333333333,
+      "kind": "photo",
+      "asset_id": "atmos",
+      "title": "ATMOS 2000 · ATROM प्लेटफ़ॉर्म",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-088",
+      "original_scene_ids": [
+        "shot-096"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 645.7666666666667,
+      "end": 652.7666666666667,
+      "duration": 7.0,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "SIGMA",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "तोपखाने का आधुनिकीकरण"
+      ],
+      "id": "hi005-089",
+      "original_scene_ids": [
+        "shot-097"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 652.7666666666667,
+      "end": 661.7333333333333,
+      "duration": 8.966666666666667,
+      "kind": "photo",
+      "asset_id": "raad2",
+      "title": "RAAD-2",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-090",
+      "original_scene_ids": [
+        "shot-098"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 661.7333333333333,
+      "end": 667.4666666666667,
+      "duration": 5.733333333333333,
+      "kind": "photo",
+      "asset_id": "raad2",
+      "title": "RAAD2",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-091",
+      "original_scene_ids": [
+        "shot-099"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 667.4666666666667,
+      "end": 677.0,
+      "duration": 9.533333333333333,
+      "kind": "photo",
+      "asset_id": "fajr5",
+      "title": "FAJR-5",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-092",
+      "original_scene_ids": [
+        "shot-100"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 677.0,
+      "end": 686.2333333333333,
+      "duration": 9.233333333333333,
+      "kind": "photo",
+      "asset_id": "zelzal",
+      "title": "ZELZAL-2",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-093",
+      "original_scene_ids": [
+        "shot-101"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 686.2333333333333,
+      "end": 693.4666666666667,
+      "duration": 7.233333333333333,
+      "kind": "photo",
+      "asset_id": "atmos",
+      "title": "ATMOS 2000 · ATROM प्लेटफ़ॉर्म",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-094",
+      "original_scene_ids": [
+        "shot-102"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 693.4666666666667,
+      "end": 703.3333333333334,
+      "duration": 9.866666666666667,
+      "kind": "photo",
+      "asset_id": "raad2",
+      "title": "RAAD-2",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-095",
+      "original_scene_ids": [
+        "shot-103"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 703.3333333333334,
+      "end": 709.5,
+      "duration": 6.166666666666667,
+      "kind": "archive",
+      "asset_id": "m109-action",
+      "title": "M109A7 · अमेरिकी अभ्यास",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 13.266666666666652,
+      "id": "hi005-096",
+      "original_scene_ids": [
+        "shot-104"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "ड्रोन",
+      "subtitle": "",
+      "start": 709.5,
+      "end": 713.0,
+      "duration": 3.5,
+      "chapter": 6,
+      "spoken_start": 710.2,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-097",
+      "settle_after": 1.2
+    },
+    {
+      "start": 713.0,
+      "end": 717.1,
+      "duration": 4.100000000000023,
+      "kind": "photo",
+      "asset_id": "hermes900",
+      "title": "HERMES 900",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-098",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-105",
+        "shot-106"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 717.1,
+      "end": 722.8666666666667,
+      "duration": 5.766666666666667,
+      "kind": "archive",
+      "asset_id": "idf-drone",
+      "title": "ड्रोन · उड़ान के अभिलेखीय दृश्य",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 5.7999999999999545,
+      "id": "hi005-099",
+      "original_scene_ids": [
+        "shot-107"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 722.8666666666667,
+      "end": 727.0666666666667,
+      "duration": 4.2,
+      "kind": "photo",
+      "asset_id": "hermes450",
+      "title": "HERMES 450",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-100",
+      "original_scene_ids": [
+        "shot-108"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 727.0666666666667,
+      "end": 736.2333333333333,
+      "duration": 9.166666666666666,
+      "kind": "photo",
+      "asset_id": "hermes900",
+      "title": "HERMES 900",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-101",
+      "original_scene_ids": [
+        "shot-109"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 736.2333333333333,
+      "end": 744.1,
+      "duration": 7.866666666666666,
+      "kind": "photo",
+      "asset_id": "heron",
+      "title": "HERON",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-102",
+      "original_scene_ids": [
+        "shot-110"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 744.1,
+      "end": 752.1666666666666,
+      "duration": 8.066666666666666,
+      "kind": "photo",
+      "asset_id": "hermes450",
+      "title": "HERMES 450",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-103",
+      "original_scene_ids": [
+        "shot-111"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 752.1666666666666,
+      "end": 757.8666666666667,
+      "duration": 5.7,
+      "kind": "photo",
+      "asset_id": "shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-104",
+      "original_scene_ids": [
+        "insert-022445"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 757.8666666666667,
+      "end": 767.6666666666666,
+      "duration": 9.8,
+      "kind": "archive",
+      "asset_id": "ua-shahed",
+      "title": "SHAHED श्रेणी का ड्रोन · यूक्रेन में अवरोधन, 2026",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "flag_role": "compared weapon origin; not interceptor operator",
+      "source_in": 0.0,
+      "id": "hi005-105",
+      "original_scene_ids": [
+        "insert-022632"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 767.6666666666666,
+      "end": 779.9333333333333,
+      "duration": 12.266666666666667,
+      "kind": "photo",
+      "asset_id": "shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-106",
+      "original_scene_ids": [
+        "insert-022888"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 779.9333333333333,
+      "end": 783.3,
+      "duration": 3.3666666666666667,
+      "kind": "photo",
+      "asset_id": "mohajer6",
+      "title": "MOHAJER-6",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-107",
+      "original_scene_ids": [
+        "shot-113"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 783.3,
+      "end": 790.1,
+      "duration": 6.8,
+      "kind": "photo",
+      "asset_id": "shahed129",
+      "title": "SHAHED-129",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-108",
+      "original_scene_ids": [
+        "shot-114"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 790.1,
+      "end": 795.0,
+      "duration": 4.9,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "ड्रोन की अलग श्रेणियाँ",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "hermes900",
+          "HERMES 900",
+          "IL"
+        ],
+        [
+          "shahed136",
+          "SHAHED-136",
+          "IR"
+        ]
+      ],
+      "id": "hi005-109",
+      "original_scene_ids": [
+        "shot-115"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 795.0,
+      "end": 802.9666666666667,
+      "duration": 7.966666666666667,
+      "kind": "photo",
+      "asset_id": "hermes900",
+      "title": "HERMES 900",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-110",
+      "original_scene_ids": [
+        "shot-116"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 802.9666666666667,
+      "end": 808.4,
+      "duration": 5.433333333333334,
+      "kind": "photo",
+      "asset_id": "shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-111",
+      "original_scene_ids": [
+        "shot-117"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 808.4,
+      "end": 814.1333333333333,
+      "duration": 5.733333333333333,
+      "kind": "photo",
+      "asset_id": "hermes900",
+      "title": "HERMES 900",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-112",
+      "original_scene_ids": [
+        "shot-118"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 814.1333333333333,
+      "end": 819.5333333333333,
+      "duration": 5.4,
+      "kind": "archive",
+      "asset_id": "idf-drone",
+      "title": "इज़राइली ड्रोन · अभिलेखीय दृश्य, 2022",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 10.066666666666606,
+      "id": "hi005-113",
+      "original_scene_ids": [
+        "shot-119"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 819.5333333333333,
+      "end": 826.8333333333334,
+      "duration": 7.3,
+      "kind": "photo",
+      "asset_id": "shahed129",
+      "title": "SHAHED-129",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-114",
+      "original_scene_ids": [
+        "shot-120"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 826.8333333333334,
+      "end": 831.4333333333333,
+      "duration": 4.6,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "मानवरहित प्रणालियाँ",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "hermes450",
+          "दोबारा इस्तेमाल होने वाले ड्रोन",
+          "IL"
+        ],
+        [
+          "shahed136",
+          "एक बार इस्तेमाल होने वाला हमलावर ड्रोन",
+          "IR"
+        ]
+      ],
+      "id": "hi005-115",
+      "original_scene_ids": [
+        "shot-121"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "वायु रक्षा",
+      "subtitle": "",
+      "start": 831.4333333333333,
+      "end": 834.9333333333333,
+      "duration": 3.5,
+      "chapter": 7,
+      "spoken_start": 832.1333333333333,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-116",
+      "settle_after": 1.2
+    },
+    {
+      "start": 834.9333333333333,
+      "end": 841.9666666666667,
+      "duration": 7.033333333333417,
+      "kind": "photo",
+      "asset_id": "irondome",
+      "title": "IRON DOME",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-117",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-122",
+        "shot-123"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 841.9666666666667,
+      "end": 849.0,
+      "duration": 7.033333333333333,
+      "kind": "archive",
+      "asset_id": "iron-system",
+      "title": "IRON DOME · प्रणाली के अभिलेखीय दृश्य",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 42.0,
+      "id": "hi005-118",
+      "original_scene_ids": [
+        "shot-124"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 849.0,
+      "end": 861.3666666666667,
+      "duration": 12.366666666666667,
+      "kind": "archive",
+      "asset_id": "iron-intercepts",
+      "title": "IRON DOME · अवरोधन, 2023",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 1.5,
+      "id": "hi005-119",
+      "original_scene_ids": [
+        "shot-125"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 861.3666666666667,
+      "end": 863.0333333333333,
+      "duration": 1.6666666666666667,
+      "kind": "photo",
+      "asset_id": "irondome",
+      "title": "IRON DOME",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-120",
+      "original_scene_ids": [
+        "shot-126"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 863.0333333333333,
+      "end": 872.4,
+      "duration": 9.366666666666667,
+      "kind": "archive",
+      "asset_id": "david-test",
+      "title": "DAVID’S SLING · परीक्षण, 2017",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 72.0,
+      "id": "hi005-121",
+      "original_scene_ids": [
+        "shot-127"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 872.4,
+      "end": 882.6666666666666,
+      "duration": 10.266666666666667,
+      "kind": "archive",
+      "asset_id": "arrow-test",
+      "title": "ARROW 2 · परीक्षण, 2020",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 41.0,
+      "id": "hi005-122",
+      "original_scene_ids": [
+        "shot-128"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 882.6666666666666,
+      "end": 888.6333333333333,
+      "duration": 5.966666666666667,
+      "kind": "photo",
+      "asset_id": "arrow",
+      "title": "ARROW 3",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-123",
+      "original_scene_ids": [
+        "shot-129"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 888.6333333333333,
+      "end": 893.0666666666667,
+      "duration": 4.433333333333334,
+      "kind": "archive",
+      "asset_id": "idf-ops",
+      "title": "वायु रक्षा · नियंत्रण, 2024",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi005-124",
+      "original_scene_ids": [
+        "shot-130"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 893.0666666666667,
+      "end": 899.1333333333333,
+      "duration": 6.066666666666666,
+      "kind": "photo",
+      "asset_id": "ironbeam",
+      "title": "IRON BEAM",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-125",
+      "original_scene_ids": [
+        "shot-131"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 899.1333333333333,
+      "end": 905.9333333333333,
+      "duration": 6.8,
+      "kind": "archive",
+      "asset_id": "conflict2024b",
+      "title": "इज़राइल · अक्टूबर 2024",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 8.0,
+      "id": "hi005-126",
+      "original_scene_ids": [
+        "shot-132"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 905.9333333333333,
+      "end": 908.4333333333333,
+      "duration": 2.5,
+      "kind": "photo",
+      "asset_id": "irondome",
+      "title": "IRON DOME",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-127",
+      "original_scene_ids": [
+        "shot-132"
+      ],
+      "camera_motion": false,
+      "role": "source-exhausted-matching-cutaway"
+    },
+    {
+      "start": 908.4333333333333,
+      "end": 909.8,
+      "duration": 1.3666666666666667,
+      "kind": "photo",
+      "asset_id": "arrow",
+      "title": "ARROW 3",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-128",
+      "original_scene_ids": [
+        "shot-133"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 909.8,
+      "end": 923.9,
+      "duration": 14.1,
+      "kind": "photo",
+      "asset_id": "bavar",
+      "title": "BAVAR-373",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-129",
+      "original_scene_ids": [
+        "shot-134"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 923.9,
+      "end": 927.4666666666667,
+      "duration": 3.566666666666667,
+      "kind": "photo",
+      "asset_id": "khordad15",
+      "title": "KHORDAD-15 · विवरण",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-130",
+      "original_scene_ids": [
+        "shot-135"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 927.4666666666667,
+      "end": 935.0,
+      "duration": 7.533333333333333,
+      "kind": "photo",
+      "asset_id": "khordad3",
+      "title": "3RD KHORDAD",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-131",
+      "original_scene_ids": [
+        "shot-136"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 935.0,
+      "end": 936.5,
+      "duration": 1.5,
+      "kind": "photo",
+      "asset_id": "s300",
+      "title": "S-300 · प्रणाली परिवार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-132",
+      "original_scene_ids": [
+        "shot-137"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 936.5,
+      "end": 946.8,
+      "duration": 10.3,
+      "kind": "archive",
+      "asset_id": "david-test2",
+      "title": "DAVID’S SLING · परीक्षण, 2015",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 58.0,
+      "id": "hi005-133",
+      "original_scene_ids": [
+        "shot-138"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 946.8,
+      "end": 963.2666666666667,
+      "duration": 16.466666666666665,
+      "kind": "archive",
+      "asset_id": "iran-sam",
+      "title": "ईरान · वायु रक्षा परीक्षण के अभिलेखीय दृश्य",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "archive_cap": 18,
+      "source_in": 5.0,
+      "id": "hi005-134",
+      "original_scene_ids": [
+        "shot-139"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 963.2666666666667,
+      "end": 968.6666666666666,
+      "duration": 5.4,
+      "kind": "archive",
+      "asset_id": "arrow-test",
+      "title": "ARROW · अभिलेखीय परीक्षण",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 51.26666666666665,
+      "id": "hi005-135",
+      "original_scene_ids": [
+        "shot-140"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 968.6666666666666,
+      "end": 974.9666666666667,
+      "duration": 6.3,
+      "kind": "archive",
+      "asset_id": "idf-intercept",
+      "title": "नियंत्रण केंद्र · अप्रैल 2024",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi005-136",
+      "original_scene_ids": [
+        "shot-141"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "हेलीकॉप्टर",
+      "subtitle": "",
+      "start": 974.9666666666667,
+      "end": 979.1333333333333,
+      "duration": 4.166666666666629,
+      "chapter": 8,
+      "spoken_start": 975.6666666666666,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-137",
+      "settle_after": 1.2
+    },
+    {
+      "start": 979.1333333333333,
+      "end": 986.0,
+      "duration": 6.866666666666666,
+      "kind": "turntable",
+      "asset_id": "model-apache",
+      "title": "AH-64 · हेलीकॉप्टर परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-138",
+      "original_scene_ids": [
+        "shot-143"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 986.0,
+      "end": 994.0666666666667,
+      "duration": 8.066666666666666,
+      "kind": "archive",
+      "asset_id": "apache-demo",
+      "title": "AH-64 · अमेरिकी प्लेटफ़ॉर्म",
+      "country": "US",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi005-139",
+      "original_scene_ids": [
+        "shot-144"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 994.0666666666667,
+      "end": 999.8666666666667,
+      "duration": 5.8,
+      "kind": "turntable",
+      "asset_id": "model-apache",
+      "title": "AH-64 · हेलीकॉप्टर परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-140",
+      "original_scene_ids": [
+        "shot-145"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 999.8666666666667,
+      "end": 1010.0333333333333,
+      "duration": 10.166666666666666,
+      "kind": "turntable",
+      "asset_id": "model-blackhawk",
+      "title": "BLACK HAWK · हेलीकॉप्टर परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-141",
+      "original_scene_ids": [
+        "shot-146"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1010.0333333333333,
+      "end": 1022.9,
+      "duration": 12.866666666666667,
+      "kind": "photo",
+      "asset_id": "cobra",
+      "title": "AH-1J COBRA · ईरान",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-142",
+      "original_scene_ids": [
+        "shot-147"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1022.9,
+      "end": 1031.4,
+      "duration": 8.5,
+      "kind": "photo",
+      "asset_id": "toufan",
+      "title": "TOUFAN",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-143",
+      "original_scene_ids": [
+        "shot-148"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1031.4,
+      "end": 1044.0,
+      "duration": 12.6,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "हमलावर हेलीकॉप्टर",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "model-apache",
+          "AH-64 · परिवार",
+          "IL"
+        ],
+        [
+          "cobra",
+          "AH-1J COBRA",
+          "IR"
+        ]
+      ],
+      "id": "hi005-144",
+      "original_scene_ids": [
+        "shot-149"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1044.0,
+      "end": 1047.4666666666667,
+      "duration": 3.466666666666667,
+      "kind": "turntable",
+      "asset_id": "model-apache",
+      "title": "AH-64 · हेलीकॉप्टर परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-145",
+      "original_scene_ids": [
+        "shot-150"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "नौसेना",
+      "subtitle": "",
+      "start": 1047.4666666666667,
+      "end": 1051.4,
+      "duration": 3.933333333333394,
+      "chapter": 9,
+      "spoken_start": 1048.1666666666667,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-146",
+      "settle_after": 1.2
+    },
+    {
+      "start": 1051.4,
+      "end": 1057.5666666666666,
+      "duration": 6.166666666666667,
+      "kind": "archive",
+      "asset_id": "israel-navy-action",
+      "title": "इज़राइली नौसेना · अभिलेखीय दृश्य, 2021",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi005-147",
+      "original_scene_ids": [
+        "shot-152"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1057.5666666666666,
+      "end": 1075.0333333333333,
+      "duration": 17.466666666666697,
+      "kind": "photo",
+      "asset_id": "saar6",
+      "title": "SA’AR 6",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-148",
+      "original_scene_ids": [
+        "shot-153",
+        "shot-154"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1075.0333333333333,
+      "end": 1084.7333333333333,
+      "duration": 9.7,
+      "kind": "photo",
+      "asset_id": "dolphin",
+      "title": "DOLPHIN",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-149",
+      "original_scene_ids": [
+        "shot-155"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1084.7333333333333,
+      "end": 1096.3333333333333,
+      "duration": 11.6,
+      "kind": "map",
+      "asset_id": "map-navy",
+      "title": "मध्य पूर्व",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi005-150",
+      "original_scene_ids": [
+        "shot-156"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1096.3333333333333,
+      "end": 1103.2333333333333,
+      "duration": 6.9,
+      "kind": "photo",
+      "asset_id": "alvand",
+      "title": "ALVAND · परिवार",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-151",
+      "original_scene_ids": [
+        "shot-157"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1103.2333333333333,
+      "end": 1104.4,
+      "duration": 1.1666666666666667,
+      "kind": "photo",
+      "asset_id": "jamaran",
+      "title": "JAMARAN",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-152",
+      "original_scene_ids": [
+        "shot-158"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1104.4,
+      "end": 1108.4666666666667,
+      "duration": 4.066666666666606,
+      "kind": "archive",
+      "asset_id": "iran-sub",
+      "title": "GHADIR · नौसेना के अभिलेखीय दृश्य",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 8.0,
+      "id": "hi005-153",
+      "original_scene_ids": [
+        "shot-159",
+        "shot-160"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1108.4666666666667,
+      "end": 1117.6333333333334,
+      "duration": 9.166666666666666,
+      "kind": "archive",
+      "asset_id": "iran-boats-action",
+      "title": "ईरानी तेज़ नौकाएँ · फ़ारस की खाड़ी, 2020",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi005-154",
+      "original_scene_ids": [
+        "shot-161"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1117.6333333333334,
+      "end": 1123.1666666666667,
+      "duration": 5.533333333333333,
+      "kind": "photo",
+      "asset_id": "saar6",
+      "title": "SA’AR 6",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-155",
+      "original_scene_ids": [
+        "shot-162"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1123.1666666666667,
+      "end": 1131.9666666666667,
+      "duration": 8.8,
+      "kind": "archive",
+      "asset_id": "iran-ghader",
+      "title": "GHADER · तटीय मिसाइल प्रक्षेपण",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 7.0,
+      "id": "hi005-156",
+      "original_scene_ids": [
+        "shot-163"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1131.9666666666667,
+      "end": 1136.1666666666667,
+      "duration": 4.2,
+      "kind": "compare",
+      "asset_id": "original",
+      "title": "नौसैनिक बल",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "saar6",
+          "नौसैनिक प्रणालियाँ",
+          "IL"
+        ],
+        [
+          "jamaran",
+          "ईरानी नौसेना",
+          "IR"
+        ]
+      ],
+      "id": "hi005-157",
+      "original_scene_ids": [
+        "shot-164"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1136.1666666666667,
+      "end": 1140.2666666666667,
+      "duration": 4.1,
+      "kind": "map",
+      "asset_id": "map-navy",
+      "title": "मध्य पूर्व",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi005-158",
+      "original_scene_ids": [
+        "shot-165"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "निष्कर्ष",
+      "subtitle": "",
+      "start": 1140.2666666666667,
+      "end": 1143.7666666666667,
+      "duration": 3.5,
+      "chapter": 10,
+      "spoken_start": 1140.9666666666667,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-159",
+      "settle_after": 1.2
+    },
+    {
+      "start": 1143.7666666666667,
+      "end": 1149.1666666666667,
+      "duration": 5.400000000000091,
+      "kind": "photo",
+      "asset_id": "f35i",
+      "title": "F-35I ADIR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-160",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-166",
+        "shot-167"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1149.1666666666667,
+      "end": 1153.0,
+      "duration": 3.8333333333333335,
+      "kind": "archive",
+      "asset_id": "f35i-action",
+      "title": "F-35I ADIR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 32.433333333333394,
+      "id": "hi005-161",
+      "original_scene_ids": [
+        "shot-168"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1153.0,
+      "end": 1157.5333333333333,
+      "duration": 4.533333333333303,
+      "kind": "photo",
+      "asset_id": "f35i",
+      "title": "F-35I ADIR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-162",
+      "original_scene_ids": [
+        "shot-169",
+        "shot-170"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1157.5333333333333,
+      "end": 1158.5,
+      "duration": 0.9666666666666667,
+      "kind": "photo",
+      "asset_id": "f15i",
+      "title": "F-15 · परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-163",
+      "original_scene_ids": [
+        "shot-171"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1158.5,
+      "end": 1168.6666666666667,
+      "duration": 10.166666666666666,
+      "kind": "turntable",
+      "asset_id": "model-f16",
+      "title": "F-16 · परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-164",
+      "original_scene_ids": [
+        "shot-172"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1168.6666666666667,
+      "end": 1177.1333333333334,
+      "duration": 8.466666666666667,
+      "kind": "photo",
+      "asset_id": "merkava",
+      "title": "MERKAVA MK.4",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-165",
+      "original_scene_ids": [
+        "shot-173"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1177.1333333333334,
+      "end": 1182.3666666666666,
+      "duration": 5.233333333333333,
+      "kind": "photo",
+      "asset_id": "tavor",
+      "title": "TAVOR",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-166",
+      "original_scene_ids": [
+        "shot-174"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1182.3666666666666,
+      "end": 1184.0666666666666,
+      "duration": 1.7000000000000455,
+      "kind": "photo",
+      "asset_id": "negev",
+      "title": "NEGEV",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-167",
+      "original_scene_ids": [
+        "shot-175",
+        "shot-176"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1184.0666666666666,
+      "end": 1191.8666666666666,
+      "duration": 7.7999999999999545,
+      "kind": "archive",
+      "asset_id": "iron-intercepts2",
+      "title": "IRON DOME · अवरोधन, 2023",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 8.0,
+      "id": "hi005-168",
+      "original_scene_ids": [
+        "shot-177",
+        "shot-178"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1191.8666666666666,
+      "end": 1201.7666666666667,
+      "duration": 9.9,
+      "kind": "archive",
+      "asset_id": "iran-ballistic",
+      "title": "ईरान · मिसाइल परीक्षण",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 17.066666666666606,
+      "id": "hi005-169",
+      "original_scene_ids": [
+        "shot-179"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1201.7666666666667,
+      "end": 1203.6666666666667,
+      "duration": 1.900000000000091,
+      "kind": "photo",
+      "asset_id": "fateh",
+      "title": "FATEH-110",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-170",
+      "original_scene_ids": [
+        "shot-180",
+        "shot-181"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1203.6666666666667,
+      "end": 1204.6333333333334,
+      "duration": 0.9666666666666667,
+      "kind": "photo",
+      "asset_id": "sejjil",
+      "title": "SEJJIL",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-171",
+      "original_scene_ids": [
+        "shot-182"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1204.6333333333334,
+      "end": 1210.9666666666667,
+      "duration": 6.333333333333333,
+      "kind": "photo",
+      "asset_id": "shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-172",
+      "original_scene_ids": [
+        "shot-183"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1210.9666666666667,
+      "end": 1221.3333333333333,
+      "duration": 10.366666666666667,
+      "kind": "photo",
+      "asset_id": "irondome",
+      "title": "IRON DOME",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-173",
+      "original_scene_ids": [
+        "shot-184"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1221.3333333333333,
+      "end": 1227.3666666666666,
+      "duration": 6.033333333333333,
+      "kind": "map",
+      "asset_id": "map-navy",
+      "title": "मध्य पूर्व",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi005-174",
+      "original_scene_ids": [
+        "shot-185"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1227.3666666666666,
+      "end": 1238.4,
+      "duration": 11.033333333333333,
+      "kind": "turntable",
+      "asset_id": "model-f16",
+      "title": "F-16 · विमान परिवार",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D दृश्य",
+      "source_in": 0,
+      "id": "hi005-175",
+      "original_scene_ids": [
+        "shot-186"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1238.4,
+      "end": 1245.9,
+      "duration": 7.5,
+      "kind": "photo",
+      "asset_id": "shahed136",
+      "title": "SHAHED-136",
+      "country": "IR",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-176",
+      "original_scene_ids": [
+        "shot-187"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1245.9,
+      "end": 1258.1666666666667,
+      "duration": 12.266666666666667,
+      "kind": "archive",
+      "asset_id": "idf-field",
+      "title": "पैदल सेना प्रशिक्षण · अभिलेखीय दृश्य",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 20.73333333333335,
+      "id": "hi005-177",
+      "original_scene_ids": [
+        "shot-188"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1258.1666666666667,
+      "end": 1269.1666666666667,
+      "duration": 11.0,
+      "kind": "photo",
+      "asset_id": "arrow",
+      "title": "ARROW 3",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi005-178",
+      "original_scene_ids": [
+        "shot-189"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1269.1666666666667,
+      "end": 1275.3333333333333,
+      "duration": 6.166666666666667,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "मध्य पूर्व",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi005-179",
+      "original_scene_ids": [
+        "shot-190"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "आपकी राय",
+      "subtitle": "",
+      "start": 1275.3333333333333,
+      "end": 1278.8333333333333,
+      "duration": 3.5,
+      "chapter": 11,
+      "spoken_start": 1276.0333333333333,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi005-180",
+      "settle_after": 1.2
+    },
+    {
+      "start": 1278.8333333333333,
+      "end": 1287.9,
+      "duration": 9.066666666666666,
+      "kind": "question",
+      "asset_id": "original",
+      "title": "आधुनिक सेना के लिए सबसे महत्वपूर्ण क्या है?",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "लड़ाकू विमान",
+        "वायु रक्षा",
+        "मिसाइलें और ड्रोन"
+      ],
+      "id": "hi005-181",
+      "original_scene_ids": [
+        "shot-191"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1287.9,
+      "end": 1293.0,
+      "duration": 5.1,
+      "kind": "question",
+      "asset_id": "original",
+      "title": "आपको सबसे ज़्यादा किसने चौंकाया?",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "वायु सेना",
+        "वायु रक्षा",
+        "मिसाइलें और ड्रोन"
+      ],
+      "id": "hi005-182",
+      "original_scene_ids": [
+        "shot-192"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1293.0,
+      "end": 1299.2333333333333,
+      "duration": 6.233333333333333,
+      "kind": "outro",
+      "asset_id": "original",
+      "title": "आपकी राय?",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "subtitle": "कमेंट में लिखिए\nअगली तुलना किन देशों की हो?",
+      "id": "hi005-183",
+      "original_scene_ids": [
+        "shot-193"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1299.2333333333333,
+      "end": 1312.0,
+      "duration": 12.766666666666652,
+      "kind": "ident",
+      "asset_id": "original",
+      "title": "ARSENAL 360",
+      "country": "IL",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "subtitle": "शस्त्र 360",
+      "id": "hi005-184",
+      "original_scene_ids": [
+        "shot-194"
+      ],
+      "camera_motion": false
+    }
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "spoken_start": 0,
+      "title": "परिचय",
+      "display_start": 0
+    },
+    {
+      "start": 91.96666666666667,
+      "spoken_start": 91.96666666666667,
+      "display_start": 91.26666666666667,
+      "fully_visible_at": 91.91666666666667,
+      "display_end": 94.76666666666667,
+      "title": "वायु सेना"
+    },
+    {
+      "start": 232.06666666666666,
+      "spoken_start": 232.06666666666666,
+      "display_start": 231.36666666666667,
+      "fully_visible_at": 232.01666666666668,
+      "display_end": 234.86666666666667,
+      "title": "टैंक"
+    },
+    {
+      "start": 352.26666666666665,
+      "spoken_start": 352.26666666666665,
+      "display_start": 351.56666666666666,
+      "fully_visible_at": 352.21666666666664,
+      "display_end": 355.06666666666666,
+      "title": "मिसाइलें"
+    },
+    {
+      "start": 483.6333333333333,
+      "spoken_start": 483.6333333333333,
+      "display_start": 482.93333333333334,
+      "fully_visible_at": 483.5833333333333,
+      "display_end": 486.43333333333334,
+      "title": "पैदल सेना"
+    },
+    {
+      "start": 611.2,
+      "spoken_start": 611.2,
+      "display_start": 610.5,
+      "fully_visible_at": 611.15,
+      "display_end": 614.0,
+      "title": "तोपखाना"
+    },
+    {
+      "start": 710.2,
+      "spoken_start": 710.2,
+      "display_start": 709.5,
+      "fully_visible_at": 710.15,
+      "display_end": 713.0,
+      "title": "ड्रोन"
+    },
+    {
+      "start": 832.1333333333333,
+      "spoken_start": 832.1333333333333,
+      "display_start": 831.4333333333333,
+      "fully_visible_at": 832.0833333333333,
+      "display_end": 834.9333333333333,
+      "title": "वायु रक्षा"
+    },
+    {
+      "start": 975.6666666666666,
+      "spoken_start": 975.6666666666666,
+      "display_start": 974.9666666666667,
+      "fully_visible_at": 975.6166666666667,
+      "display_end": 978.4666666666667,
+      "title": "हेलीकॉप्टर"
+    },
+    {
+      "start": 1048.1666666666667,
+      "spoken_start": 1048.1666666666667,
+      "display_start": 1047.4666666666667,
+      "fully_visible_at": 1048.1166666666668,
+      "display_end": 1050.9666666666667,
+      "title": "नौसेना"
+    },
+    {
+      "start": 1140.9666666666667,
+      "spoken_start": 1140.9666666666667,
+      "display_start": 1140.2666666666667,
+      "fully_visible_at": 1140.9166666666667,
+      "display_end": 1143.7666666666667,
+      "title": "निष्कर्ष"
+    },
+    {
+      "start": 1276.0333333333333,
+      "spoken_start": 1276.0333333333333,
+      "display_start": 1275.3333333333333,
+      "fully_visible_at": 1275.9833333333333,
+      "display_end": 1278.8333333333333,
+      "title": "आपकी राय"
+    }
+  ],
+  "motion_policy": {
+    "archive": "Normal speed with matching cutaway if source exhausted; no loops or frozen tails",
+    "native_3d": "720 native frames, smooth 24-second full revolution, fixed camera",
+    "cards": "One entrance and hold",
+    "photos": "locked",
+    "maps": "True 3D elevation mesh with animated camera and Hindi labels"
+  }
+}
