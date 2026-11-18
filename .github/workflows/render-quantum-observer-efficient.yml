@@ -1,0 +1,65 @@
+name: Render optimized KOSMION quantum spatial scenes
+on:
+  push:
+    branches: [cosmos-006-quantum-observer]
+    paths: [.github/workflows/render-quantum-observer-efficient.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: write
+concurrency:
+  group: kosmion-quantum-efficient-scenes
+  cancel-in-progress: true
+jobs:
+  retire-superseded-processing:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Retire only superseded processing for this episode
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          CURRENT_RUN: ${{ github.run_id }}
+        run: |
+          python3 - <<'PYCODE'
+          import subprocess,json,os
+          repo=os.environ['GH_REPO'];names={'Render KOSMION quantum documentary spatial scenes','Render refined cosmic and horizon spatial scenes','Render additional quantum documentary spatial mechanisms'}
+          data=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/actions/runs?branch=cosmos-006-quantum-observer&per_page=50']))
+          for run in data['workflow_runs']:
+              if run['name'] in names and run['status']!='completed' and str(run['id'])!=os.environ['CURRENT_RUN']:
+                  subprocess.run(['gh','api','--method','POST',f"repos/{repo}/actions/runs/{run['id']}/cancel"],check=False,stdout=subprocess.DEVNULL)
+          PYCODE
+  scene:
+    needs: retire-superseded-processing
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      max-parallel: 8
+      matrix:
+        scene: ['lab_wide', 'lab_close', 'slits_wide', 'slits_close', 'detector_wide', 'detector_close', 'decoherence_wide', 'decoherence_close', 'field_wide', 'field_close', 'thermal_wide', 'thermal_close', 'horizon_wide', 'horizon_close', 'branches_wide', 'branches_close', 'signal_wide', 'signal_close', 'cosmos_wide', 'cosmos_close', 'acceleration_wide', 'acceleration_close', 'records_wide', 'records_close', 'curvature_wide', 'curvature_close', 'chamber_wide', 'chamber_close', 'scale_wide', 'scale_close']
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install render tools
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq blender ffmpeg xvfb libgl1-mesa-dri
+      - name: Render original Full HD spatial illustration
+        env:
+          LIBGL_ALWAYS_SOFTWARE: '1'
+          XDG_CACHE_HOME: /tmp/kosmion-cache
+          KOSMION_EFFICIENT_RENDER: '1'
+        run: |
+          cd cosmos/006-quantum-observer
+          if [[ '${{ matrix.scene }}' == scale_* ]]; then curl --fail --location --retry 3 -o earth_daymap.jpg https://www.solarsystemscope.com/textures/download/2k_earth_daymap.jpg; fi
+          xvfb-run -a blender -b -t 2 --python-exit-code 1 -P make3d.py -- ${{ matrix.scene }} > scene-render.log 2>&1
+          test -f 3d/${{ matrix.scene }}/frame-0241.jpg
+          ffmpeg -y -v warning -framerate 6 -i 3d/${{ matrix.scene }}/frame-%04d.jpg -vf framerate=fps=25 -t 40 -an -c:v libx264 -preset veryfast -crf 18 -threads 2 -filter_threads 2 -pix_fmt yuv420p ${{ matrix.scene }}.mp4
+          ffmpeg -v error -i ${{ matrix.scene }}.mp4 -f null -
+          ffmpeg -y -v error -ss 13 -i ${{ matrix.scene }}.mp4 -frames:v 1 pilot.jpg
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: quantum-efficient-scene-${{ matrix.scene }}
+          path: |
+            cosmos/006-quantum-observer/${{ matrix.scene }}.mp4
+            cosmos/006-quantum-observer/pilot.jpg
+            cosmos/006-quantum-observer/scene-render.log
+          retention-days: 7
