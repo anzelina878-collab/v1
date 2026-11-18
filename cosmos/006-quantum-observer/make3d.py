@@ -186,6 +186,12 @@ for ob in s.objects:
   for fc in ob.animation_data.action.fcurves:
    for key in fc.keyframe_points:key.interpolation='LINEAR' if fc.data_path!='hide_render' else 'CONSTANT'
 if family in ['records','curvature','chamber','scale']:s.eevee.taa_render_samples=16
+if __import__('os').environ.get('KOSMION_EFFICIENT_RENDER'):
+ s.eevee.taa_render_samples=8;s.render.fps=6;s.frame_end=241
+ for ob in s.objects:
+  if ob.animation_data and ob.animation_data.action:
+   for fc in ob.animation_data.action.fcurves:
+    for key in fc.keyframe_points:key.co.x=1+(key.co.x-1)/2
 out=R/'3d'/mode;out.mkdir(parents=True,exist_ok=True);s.render.filepath=str(out/'frame-')
-if pilot:s.render.engine='CYCLES';s.cycles.samples=12;s.cycles.use_denoising=False;s.cycles.device='CPU';s.frame_set(170);s.render.filepath=str(R/(mode+'-pilot.jpg'));bpy.ops.render.render(write_still=True)
+if pilot:s.render.engine=('BLENDER_EEVEE_NEXT' if __import__('os').environ.get('KOSMION_EEVEE_PILOT') else 'CYCLES');s.cycles.samples=12;s.cycles.use_denoising=False;s.cycles.device='CPU';s.frame_set(170);s.render.filepath=str(R/(mode+'-pilot.jpg'));bpy.ops.render.render(write_still=True)
 else:bpy.ops.render.render(animation=True)
