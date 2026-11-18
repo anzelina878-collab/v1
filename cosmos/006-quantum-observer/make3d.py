@@ -90,6 +90,7 @@ elif family in ['decoherence','field','thermal']:
    y=random.uniform(-4,4);z=random.uniform(-.5,3.4);o=ball('Thermal photon',(3.7,y,z),.035,gold);animate(o,'location',(3.7,y,z),(-4,y*.7,z*.8))
  target=Vector((.5,0,.7));start,end=((8,-12,8),(3,-11,7)) if view=='wide' else ((4,-6,3.5),(-3,-6,3))
 elif family=='horizon':
+ black.node_tree.nodes.clear();e=black.node_tree.nodes.new('ShaderNodeEmission');e.inputs['Color'].default_value=(0,0,0,1);out=black.node_tree.nodes.new('ShaderNodeOutputMaterial');black.node_tree.links.new(e.outputs[0],out.inputs[0])
  ball('Black hole causal boundary',(3,0,0),2.5,black)
  for j in range(12):
   t=math.tau*j/12;pts=[]
@@ -119,9 +120,19 @@ elif family in ['cosmos','acceleration']:
  for j in range(180):
   theta=random.uniform(0,math.tau);v=random.uniform(-1,1);rr=random.uniform(2,10);xyz=Vector((rr*math.sqrt(1-v*v)*math.cos(theta),rr*math.sqrt(1-v*v)*math.sin(theta),rr*v));o=ball('Distant luminous galaxy',xyz,random.uniform(.025,.065),white if j%3 else gold);animate(o,'location',xyz,xyz*1.12)
  if family=='cosmos':
-  for z in [-4,-2,0,2,4]:
-   rr=math.sqrt(36-z*z);curve('Causal horizon cross-section',[(rr*math.cos(t),rr*math.sin(t),z) for t in [j*math.tau/128 for j in range(129)]],blue,.008)
-  ball('Observer location',(0,0,0),.1,white)
+  # Spatially resolved galaxies, rather than a flat field of diagram dots.
+  for j in range(16):
+   parent=bpy.data.objects.new('Expanding galaxy',None);bpy.context.collection.objects.link(parent);parent.location=(random.uniform(-6,6),random.uniform(-5,5),random.uniform(-4,4));parent.rotation_euler=(random.uniform(-1,1),random.uniform(-.8,.8),random.uniform(0,math.tau));scale=random.uniform(.35,.9);parent.scale=(scale,scale,scale)
+   o=ball('Warm central bulge',(0,0,0),.25,gold);o.scale=(1,1,.6);o.parent=parent
+   for arm in range(3):
+    pts=[]
+    for k in range(65):
+     rad=.12+k*.018;theta=k*.09+arm*math.tau/3;pts.append((rad*math.cos(theta),rad*math.sin(theta),0))
+    o=curve('Luminous spiral arm',pts,blue if j%3 else white,.018);o.parent=parent
+   animate(parent,'location',parent.location.copy(),parent.location*1.16)
+  # A single soft boundary indicates the observer-dependent reach, not a solid wall.
+  for y in [0]:curve('Causal reach',[(6*math.cos(t),y,6*math.sin(t)) for t in [j*math.tau/160 for j in range(161)]],blue,.009)
+  ball('Observer location',(0,0,0),.07,white)
  else:
   box('Accelerating laboratory',(0,0,0),(1.6,3,.8),silver);ball('Laboratory window',(0,-1.3,.1),.25,blue)
   for x in [-8,-5,-2]:curve('Causal light trajectory',[(x+.025*j*j,-5+j*.13,-2+j*.055) for j in range(65)],gold,.018)
