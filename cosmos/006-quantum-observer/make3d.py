@@ -137,6 +137,47 @@ elif family in ['cosmos','acceleration']:
   box('Accelerating laboratory',(0,0,0),(1.6,3,.8),silver);ball('Laboratory window',(0,-1.3,.1),.25,blue)
   for x in [-8,-5,-2]:curve('Causal light trajectory',[(x+.025*j*j,-5+j*.13,-2+j*.055) for j in range(65)],gold,.018)
  target=Vector((0,0,0));start,end=((10,-18,11),(6,-16,8)) if view=='wide' else ((4,-10,5),(-2,-9,4))
+elif family=='records':
+ box('Scattering surface',(0,0,-.5),(4,4,.4),ceramic)
+ ball('Object position',(0,0,.25),.5,ceramic)
+ for j in range(14):
+  theta=j*math.tau/14;pos=Vector((5*math.cos(theta),5*math.sin(theta),1+1.5*(j%3)));box('Environmental record',pos,(.6,.6,.8),dark)
+  pts=[(0,0,.3),tuple(pos)];curve('Scattered light path',pts,blue,.009)
+  o=ball('Information-carrying photon',(0,0,.3),.06,gold);animate(o,'location',(0,0,.3),tuple(pos))
+ target=Vector((0,0,.6));start,end=((9,-12,10),(6,-11,8)) if view=='wide' else ((4,-7,4),(-2,-7,3))
+elif family=='curvature':
+ for offset,material in [(-2,blue),(2,gold)]:
+  for axis in [0,1]:
+   for j in range(-8,9):
+    pts=[]
+    for k in range(100):
+     v=-7+k*14/99;x,y=(v,j*.7) if axis==0 else (j*.7,v);dist=(x-offset)**2+y*y;z=-2.2/math.sqrt(dist+1.2);pts.append((x,y,z))
+    curve('Alternative gravitational geometry',pts,material,.009)
+  ball('Alternative mass location',(offset,0,-.1),.5,ghost if offset<0 else ceramic)
+ target=Vector((0,0,-.5));start,end=((10,-14,12),(6,-13,10)) if view=='wide' else ((4,-9,5),(-3,-9,4))
+elif family=='chamber':
+ box('Optical platform',(0,0,-.4),(14,10,.7),dark)
+ for y in [-1.8,1.8]:
+  torus('Large vacuum flange',(0,y,2),2,.23,silver,(math.pi/2,0,0))
+  for j in range(16):
+   t=j*math.tau/16;box('Hexagonal fastener',(2*math.cos(t),y-.2,2+2*math.sin(t)),(.13,.2,.13),dark,.025)
+ for x in [-1.8,1.8]:box('Stainless chamber wall',(x,0,2),(.25,3.5,2.7),silver)
+ box('Chamber upper shield',(0,0,3.75),(3.6,3.5,.25),silver)
+ ball('Isolated microscopic system',(0,0,1.9),.12,white)
+ for x in [-4,4]:
+  box('Optical isolation mount',(x,0,.7),(1,2,1.3),dark);torus('Optical coupling',(x,0,1.7),.4,.12,silver,(0,math.pi/2,0));curve('Controlled beam',[(x,0,1.7),(0,0,1.9)],blue,.014)
+ target=Vector((0,0,1.8));start,end=((9,-13,7),(5,-11,5)) if view=='wide' else ((2,-7,3.4),(-3,-6,3))
+elif family=='scale':
+ # Explicitly illustrative Sun-mass black-hole thought experiment, never actual distances or actual timing.
+ ball('Hypothetical black hole',(-3,0,0),.8,black)
+ for angle in [0,.7,1.4]:torus('Curved light ring',(-3,0,0),.95,.014,blue,(angle,math.pi/2,0))
+ earth=ball('Distant laboratory world',(4,0,0),1.2,ceramic)
+ texture=R/'earth_daymap.jpg'
+ if texture.exists():
+  material=mat('Earth surface',(.5,.5,.5),.03,.65);image=material.node_tree.nodes.new('ShaderNodeTexImage');image.image=bpy.data.images.load(str(texture));material.node_tree.links.new(image.outputs['Color'],material.node_tree.nodes.get('Principled BSDF').inputs['Base Color']);earth.data.materials.clear();earth.data.materials.append(material)
+ animate(earth,'rotation_euler',(0,0,0),(0,0,.55))
+ curve('Separation in the thought experiment',[(-2,0,0),(2.7,0,0)],blue,.008)
+ target=Vector((.4,0,0));start,end=((3,-15,6),(-2,-14,4)) if view=='wide' else ((5,-8,3),(2,-9,2))
 else:raise RuntimeError(mode)
 bpy.ops.object.camera_add();cam=bpy.context.object;s.camera=cam;cam.data.lens=48
 for frame,pos in [(1,start),(481,end)]:cam.location=pos;cam.rotation_euler=(target-cam.location).to_track_quat('-Z','Y').to_euler();cam.keyframe_insert('location',frame=frame);cam.keyframe_insert('rotation_euler',frame=frame)
@@ -144,6 +185,7 @@ for ob in s.objects:
  if ob.animation_data and ob.animation_data.action:
   for fc in ob.animation_data.action.fcurves:
    for key in fc.keyframe_points:key.interpolation='LINEAR' if fc.data_path!='hide_render' else 'CONSTANT'
+if family in ['records','curvature','chamber','scale']:s.eevee.taa_render_samples=16
 out=R/'3d'/mode;out.mkdir(parents=True,exist_ok=True);s.render.filepath=str(out/'frame-')
 if pilot:s.render.engine='CYCLES';s.cycles.samples=12;s.cycles.use_denoising=False;s.cycles.device='CPU';s.frame_set(170);s.render.filepath=str(R/(mode+'-pilot.jpg'));bpy.ops.render.render(write_still=True)
 else:bpy.ops.render.render(animation=True)
