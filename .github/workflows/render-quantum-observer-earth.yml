@@ -1,0 +1,53 @@
+name: Repair KOSMION Earth texture spatial views
+on:
+  push:
+    branches: [cosmos-006-quantum-observer]
+    paths: [.github/workflows/render-quantum-observer-earth.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: write
+jobs:
+  scene:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix:
+        scene: [scale_wide, scale_close]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install rendering tools from bounded Ubuntu sources
+        run: |
+          cat > /tmp/kosmion-render.list <<'SOURCES'
+          deb https://archive.ubuntu.com/ubuntu noble main universe restricted multiverse
+          deb https://archive.ubuntu.com/ubuntu noble-updates main universe restricted multiverse
+          deb https://security.ubuntu.com/ubuntu noble-security main universe restricted multiverse
+          SOURCES
+          sudo timeout 180 apt-get -o Dir::Etc::sourcelist=/tmp/kosmion-render.list -o Dir::Etc::sourceparts=- -o Acquire::Retries=1 -o Acquire::http::Timeout=20 -o Acquire::https::Timeout=20 update -qq
+          sudo timeout 300 apt-get -o Dir::Etc::sourcelist=/tmp/kosmion-render.list -o Dir::Etc::sourceparts=- -o Acquire::Retries=1 -o Acquire::http::Timeout=20 -o Acquire::https::Timeout=20 install -y -qq --no-install-recommends blender ffmpeg xvfb libgl1-mesa-dri
+      - name: Render original Full HD spatial illustration
+        env:
+          LIBGL_ALWAYS_SOFTWARE: '1'
+          XDG_CACHE_HOME: /tmp/kosmion-cache
+          KOSMION_EFFICIENT_RENDER: '1'
+        run: |
+          cd cosmos/006-quantum-observer
+          curl --fail --location --retry 3 --connect-timeout 20 --max-time 120 -o earth_download.jpg https://raw.githubusercontent.com/NASAWorldWind/WorldWindJava/master/src/images/BMNG_world.topo.bathy.200405.3.2048x1024.jpg
+          echo '7405c39a220bc37519474eba54625a0d1a02b6ad954895147c103a1bc8dd61fb  earth_download.jpg' | sha256sum -c -
+          ffmpeg -y -v error -i earth_download.jpg -frames:v 1 -pix_fmt rgb24 earth_daymap.png
+          xvfb-run -a blender -b -t 2 --python-exit-code 1 -P make3d.py -- ${{ matrix.scene }} > scene-render.log 2>&1
+          test -f 3d/${{ matrix.scene }}/frame-0241.jpg
+          ffmpeg -y -v warning -framerate 6 -i 3d/${{ matrix.scene }}/frame-%04d.jpg -vf framerate=fps=25 -t 40 -an -c:v libx264 -preset veryfast -crf 18 -threads 2 -filter_threads 2 -pix_fmt yuv420p ${{ matrix.scene }}.mp4
+          ffmpeg -v error -i ${{ matrix.scene }}.mp4 -f null -
+          ffmpeg -y -v error -ss 13 -i ${{ matrix.scene }}.mp4 -frames:v 1 pilot.jpg
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: quantum-earth-fix-scene-${{ matrix.scene }}
+          path: |
+            cosmos/006-quantum-observer/${{ matrix.scene }}.mp4
+            cosmos/006-quantum-observer/pilot.jpg
+            cosmos/006-quantum-observer/scene-render.log
+          retention-days: 7
