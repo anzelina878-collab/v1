@@ -1,0 +1,36 @@
+name: Retire superseded KOSMION quantum processing safely
+on:
+  push:
+    branches: [cosmos-006-quantum-observer]
+    paths: [.github/workflows/retire-quantum-observer-superseded.yml]
+  workflow_dispatch:
+permissions:
+  actions: write
+  contents: read
+jobs:
+  retire:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - name: Preserve completed and assigned scenes, then stop redundant processing
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          python3 - <<'PYCODE'
+          import subprocess,json,os,re,time
+          repo=os.environ['GH_REPO'];expected={f'{a}_{b}' for a in ['lab','slits','detector','decoherence','field','thermal','horizon','branches','signal','cosmos','acceleration','records','curvature','chamber','scale'] for b in ['wide','close']}
+          def get(path):return json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/'+path]))
+          reliable=get('actions/workflows/render-quantum-observer-reliable.yml/runs?branch=cosmos-006-quantum-observer&per_page=5')['workflow_runs'][0]
+          jobs=get(f"actions/runs/{reliable['id']}/jobs?per_page=100")['jobs'];assigned={m[1] for j in jobs if (m:=re.fullmatch(r'scene \((.+)\)',j['name']))}
+          assert assigned and assigned<=expected
+          required=expected-assigned;old=get('actions/workflows/render-quantum-observer-efficient.yml/runs?branch=cosmos-006-quantum-observer&per_page=5')['workflow_runs'][0]
+          for attempt in range(120):
+              arts=get(f"actions/runs/{old['id']}/artifacts?per_page=100")['artifacts'];ready={a['name'].removeprefix('quantum-efficient-scene-') for a in arts if a['size_in_bytes']>1000000}
+              if required<=ready:
+                  status=get(f"actions/runs/{old['id']}")['status']
+                  if status!='completed':subprocess.run(['gh','api','--method','POST',f"repos/{repo}/actions/runs/{old['id']}/cancel"],check=True,stdout=subprocess.DEVNULL)
+                  print('Required scene outputs retained. Superseded processing retired.');break
+              print('Waiting for already-running scene outputs before retirement:',len(required-ready),flush=True);time.sleep(15)
+          else:raise RuntimeError('Required outputs not yet retained; redundant processing left running')
+          PYCODE
