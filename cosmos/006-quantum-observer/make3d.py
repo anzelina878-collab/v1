@@ -172,12 +172,12 @@ elif family=='scale':
  ball('Hypothetical black hole',(-3,0,0),.8,black)
  for angle in [0,.7,1.4]:torus('Curved light ring',(-3,0,0),.95,.014,blue,(angle,math.pi/2,0))
  earth=ball('Distant laboratory world',(4,0,0),1.2,ceramic)
- texture=R/'earth_daymap.jpg'
+ texture=(R/'earth_daymap.png') if (R/'earth_daymap.png').exists() else R/'earth_daymap.jpg'
  if texture.exists():
-  material=mat('Earth surface',(.5,.5,.5),.03,.65);image=material.node_tree.nodes.new('ShaderNodeTexImage');image.image=bpy.data.images.load(str(texture));material.node_tree.links.new(image.outputs['Color'],material.node_tree.nodes.get('Principled BSDF').inputs['Base Color']);earth.data.materials.clear();earth.data.materials.append(material)
+  material=mat('Earth surface',(.5,.5,.5),.03,.65);image=material.node_tree.nodes.new('ShaderNodeTexImage');image.image=bpy.data.images.load(str(texture));image.image.reload();assert image.image.size[0]>=1024,'Invalid Earth texture';image.image.pack();material.node_tree.links.new(image.outputs['Color'],material.node_tree.nodes.get('Principled BSDF').inputs['Base Color']);earth.data.materials.clear();earth.data.materials.append(material)
  animate(earth,'rotation_euler',(0,0,0),(0,0,.55))
  curve('Separation in the thought experiment',[(-2,0,0),(2.7,0,0)],blue,.008)
- target=Vector((.4,0,0));start,end=((3,-15,6),(-2,-14,4)) if view=='wide' else ((5,-8,3),(2,-9,2))
+ target=Vector((.4,0,0));start,end=((3,-15,6),(-2,-14,4)) if view=='wide' else ((2,-12,4),(-1,-11,3))
 else:raise RuntimeError(mode)
 bpy.ops.object.camera_add();cam=bpy.context.object;s.camera=cam;cam.data.lens=48
 for frame,pos in [(1,start),(481,end)]:cam.location=pos;cam.rotation_euler=(target-cam.location).to_track_quat('-Z','Y').to_euler();cam.keyframe_insert('location',frame=frame);cam.keyframe_insert('rotation_euler',frame=frame)
