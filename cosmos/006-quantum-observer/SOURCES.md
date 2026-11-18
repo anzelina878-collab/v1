@@ -11,7 +11,7 @@ The supplied narration, script and speech alignment remain private. The finished
 - Quantum field illustrations do not represent literal electron orbits or directly observed individual gravitons. Cold Atom Lab and optical-communications laboratory archive illustrates real apparatus and research practice, not a performed black-hole experiment.
 - Water and orchestra stock appear only with the narrated analogies.
 - The scale scenes illustrate the expressly hypothetical Sun-mass black-hole experiment, not actual Solar System geometry.
-- Earth surface texture: Solar System Scope, Earth day map, CC BY 4.0. Source: https://www.solarsystemscope.com/textures/ ; texture: https://www.solarsystemscope.com/textures/download/2k_earth_daymap.jpg . Used in original scale scenes.
+- Earth surface texture: NASA Blue Marble, distributed in NASA WorldWind. Source: https://github.com/NASAWorldWind/WorldWindJava/blob/master/src/images/BMNG_world.topo.bathy.200405.3.2048x1024.jpg . Download validated as JPEG and SHA256-verified before conversion to PNG and packing into the original scale scenes.
 
 ## Research underlying the narration
 
@@ -312,7 +312,7 @@ Credit: NASA/JPL-Caltech
 License / usage: NASA media usage guidelines; original audio excluded — https://www.nasa.gov/nasa-brand-center/images-and-media/
 Native dimensions: 1280 × 720
 Kind: archive
-Selected source ranges: 68.000–78.320 s; 32.000–39.640 s
+Selected source ranges: 71.500–80.994 s; 32.000–39.640 s
 
 ## cal_4
 Mixed Reality Meets Quantum Science on the International Space Station
