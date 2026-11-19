@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "method": "Every byte fetched through HTTP 206 ranges, exact Content-Range/length, ordered SHA-256 compared to frozen local file",
+  "commit": "ba9bbd678165c5a2cc14455b6c33872e008f15ca",
+  "files": [
+    {
+      "name": "final_video_v1.mp4",
+      "repo_path": "video-studio/episodes/009-fbi-full-gear/output/final_video_v1.mp4",
+      "bytes": 184693173,
+      "sha256": "ca303798686be4bbd7900d772f31ee0b01a4450c3d068e8f933244ad96847d25",
+      "url": "https://media.githubusercontent.com/media/anzelina878-collab/v1/ba9bbd678165c5a2cc14455b6c33872e008f15ca/video-studio/episodes/009-fbi-full-gear/output/final_video_v1.mp4?download=1",
+      "public_download_bytes": 184693173,
+      "public_sha256": "ca303798686be4bbd7900d772f31ee0b01a4450c3d068e8f933244ad96847d25",
+      "status": "passed"
+    },
+    {
+      "name": "project_source_v1.zip",
+      "repo_path": "video-studio/episodes/009-fbi-full-gear/output/project_source_v1.zip",
+      "bytes": 374746324,
+      "sha256": "1177f6f73a2173bbd5640ed471befc85033b3a3640e8cd0f4cc644ef24f5144b",
+      "url": "https://media.githubusercontent.com/media/anzelina878-collab/v1/ba9bbd678165c5a2cc14455b6c33872e008f15ca/video-studio/episodes/009-fbi-full-gear/output/project_source_v1.zip?download=1",
+      "public_download_bytes": 374746324,
+      "public_sha256": "1177f6f73a2173bbd5640ed471befc85033b3a3640e8cd0f4cc644ef24f5144b",
+      "status": "passed"
+    }
+  ]
+}
