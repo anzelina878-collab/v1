@@ -1,0 +1,142 @@
+{
+  "assets/video/ar15-360.mp4": {
+    "bytes": 2292469,
+    "sha256": "9b76bc8a4bfe47de2e59140b7e827d78cfcc002799b8f80308cb32e6cd9d97ee"
+  },
+  "assets/video/bombsuit2025.mp4": {
+    "bytes": 35335117,
+    "sha256": "1ad6aa1d9c7e78f21d06bb8e5e16d03fc13ae95bef09a10cf817e74ced25f5fb"
+  },
+  "assets/video/bombtraining2025.mp4": {
+    "bytes": 33520449,
+    "sha256": "1d2a8748f909ce513ea9923234079bc4741604325dba9ff5a26ac0e62fa02a39"
+  },
+  "assets/video/classroom.mp4": {
+    "bytes": 13796548,
+    "sha256": "3e423189682d8c02315862f7eaba444e1d1d8fcf192db5ef9d91af8ee4821a92"
+  },
+  "assets/video/digital-360.mp4": {
+    "bytes": 724877,
+    "sha256": "268d114baff4af10050b720a4e10c7a750e04d449583cbb2c8749cd1e13414ed"
+  },
+  "assets/photos/dna-lab-1.jpg": {
+    "bytes": 116374,
+    "sha256": "e0ca788ac0ad646f6ac37275b6bf8a98a8c6f86b4d23d3fd47a62773955946f0"
+  },
+  "assets/photos/dna-lab-2.jpg": {
+    "bytes": 333768,
+    "sha256": "23319eb2b0cd006a59577f76edc35171c2f757082e8bbb3349a67cc3555edc8f"
+  },
+  "assets/photos/dna-lab-3.jpg": {
+    "bytes": 164465,
+    "sha256": "4b814d9ad314dadffe2d695c4a8ef781c4fc4dd2f74e80f46a4fc613f66cb313"
+  },
+  "assets/video/ert2021.mp4": {
+    "bytes": 20778574,
+    "sha256": "400e318e8c9c02b8c08a36702f219e8590e0d4f8c56f612571c11274a746f360"
+  },
+  "assets/video/fbi-expo.mp4": {
+    "bytes": 6740201,
+    "sha256": "56243bec39b6ae84217ed75ec8fc0105e6635ef27c7b9bc2c8171a871fa264ff"
+  },
+  "assets/photos/fbi-glock-exhibit.png": {
+    "bytes": 469773,
+    "sha256": "b708903938f77f3b2865e5d52eaab2796fe43b0d4ac774fe5a7130985c1adb75"
+  },
+  "assets/video/field-training.mp4": {
+    "bytes": 29627545,
+    "sha256": "11d9a6e7743f72be1e87f94a9fc0e5a16bc1f8fe5cdb81bad979551bdad215fb"
+  },
+  "assets/video/firearms-exhibit.mp4": {
+    "bytes": 5735489,
+    "sha256": "293c70c5c5548b59c848cebdafd24e43878c0015290c6cf840729250441e1b18"
+  },
+  "assets/video/hds2018.mp4": {
+    "bytes": 22726700,
+    "sha256": "5b640dee401a198797494a5c9205c69907c646806423f3d9367ac4c7fedd8dcb"
+  },
+  "assets/photos/hogans-alley-corner.jpg": {
+    "bytes": 9985564,
+    "sha256": "47fb00dcf84dc2d3159408e6856a2eed708350f6133905c2346c0a9661556332"
+  },
+  "assets/photos/hrt-mobility-team-diver.jpg": {
+    "bytes": 9365771,
+    "sha256": "59788ad403dd61da0bf5a2248882ab76cda7faf86a8f5a0962a0b885b9578720"
+  },
+  "assets/photos/hrt-operator.jpg": {
+    "bytes": 82613,
+    "sha256": "804820b3f3358badcb45d18456dce76b8e71f0261f01ef683f2ef54c4e3c3cf9"
+  },
+  "assets/photos/hrt-team.jpg": {
+    "bytes": 137497,
+    "sha256": "b3ec0291ec133318d25175b8d8a6d56e335f26d06ad93652919b4239f1fec609"
+  },
+  "assets/photos/hrt-training-fast-rope-080519.jpg": {
+    "bytes": 3735911,
+    "sha256": "b5263c9443fc764e5cf7b58500157ebea8ebb9b1a730d83c82f8c2558aff5ce2"
+  },
+  "assets/video/hrt-water.mp4": {
+    "bytes": 58834183,
+    "sha256": "a601e7c0d8f7ecb82723c296f393a149c820cd34f95eaf9c06e4046354b548a9"
+  },
+  "assets/video/hrt2013.mp4": {
+    "bytes": 31676923,
+    "sha256": "7673bca0eb4a383a5702a97e85275d9031a2fd9acf9d10e2706001359e55c0e8"
+  },
+  "assets/video/lab-scenes.mp4": {
+    "bytes": 32407908,
+    "sha256": "bdf8d4e4204ec12bb681eae8e82b6c36306bdccf0c1efac13b621cdd0831e3ee"
+  },
+  "assets/video/operator-360.mp4": {
+    "bytes": 2336340,
+    "sha256": "3505352134aab667ab960e58efcb10079d322c55f921283fc42a06d424ebf6ff"
+  },
+  "assets/video/range-training.mp4": {
+    "bytes": 15063532,
+    "sha256": "4220d90aa41c661be815f40c214aecb5ee5b673984952d7bfc91417058077cb4"
+  },
+  "assets/photos/stolen-wfo-gun-lock-box-jpg.jpg": {
+    "bytes": 6944,
+    "sha256": "277d92463914d97469cba55444942247cff8e05b99d3fdc5be846383f3d62f5d"
+  },
+  "assets/photos/stolen-wfo-holster-for-glock-22-handgun-jpg.jpg": {
+    "bytes": 30754,
+    "sha256": "ef2b0ed24fb835b649934b984f609f7d761b13bd57e66eda955f01c11b4d12b8"
+  },
+  "assets/photos/stolen-wfo-motorola-radio-apx-7000-jpg.jpg": {
+    "bytes": 4027,
+    "sha256": "49b13b20a96abfd60c72ea9432cded35a992e5061294b0861f1513ab65de072a"
+  },
+  "assets/photos/stolen-wfo-rock-river-arms-rifle-jpg.jpg": {
+    "bytes": 6523,
+    "sha256": "0afb21ca9bef65c8e525b3f46c247a2ddad59fe66760fab24241d8b951dc9b6f"
+  },
+  "assets/photos/swat-operator-female-png.jpg": {
+    "bytes": 1008024,
+    "sha256": "ad4cb2e3896bf17a11c62ec175f2a4a8453f830b7dfe7d8fce456e643620ad58"
+  },
+  "assets/photos/swat-operator-hands-doors-blur-jpg.jpg": {
+    "bytes": 1779579,
+    "sha256": "35c3a7b2128fb5d45ce1d6ae2ce9fa86d883e68d77d0e530bb9cbbda9d6cef61"
+  },
+  "assets/photos/swat-operator-truck-blur-jpg.jpg": {
+    "bytes": 176707,
+    "sha256": "84f4834df685f0e870194e053b2954d77dfbf91f3816847b1dd6aee9747e5e22"
+  },
+  "assets/photos/swat-pr-training-2021-jpg.jpg": {
+    "bytes": 27762,
+    "sha256": "aa3bc28f3833409987c4d02465696ebf4e15a2ccf0a1e755d6711e38c450e937"
+  },
+  "assets/photos/swat-weapon-la-png.jpg": {
+    "bytes": 1206824,
+    "sha256": "1b41505fb098d9cdf2225c6d6d5629988326803ca1d4bf9d5fd7a2b21527b3a9"
+  },
+  "assets/photos/wall-of-honor.jpg": {
+    "bytes": 436652,
+    "sha256": "fca5ad2019bbc48fc021e7d8df1e6d0b3ee10ef66583ea6b6945425086429dd8"
+  },
+  "assets/photos/zodiac-surf-jump.jpg": {
+    "bytes": 10313673,
+    "sha256": "6aa48926de4ef5d00a33cae362cb8fd57faeb9309cf6c91440a82cd2ad66a320"
+  }
+}

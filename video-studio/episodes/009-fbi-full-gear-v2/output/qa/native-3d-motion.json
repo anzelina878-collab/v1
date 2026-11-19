@@ -1,0 +1,138 @@
+{
+  "status": "passed",
+  "method": "Three encoded poses per 3D scene compared to exact 720-frame / 24-second native bank at normal speed. Footer excluded. Actual geometry; no optical flow or AI-generated views.",
+  "scenes": [
+    {
+      "scene": "uk009-007",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 3.4,
+          "model_area_mae": 0.042214506172839505
+        },
+        {
+          "local_time": 2.033333333333333,
+          "bank_time": 5.033333333333333,
+          "model_area_mae": 0.09604938271604939
+        },
+        {
+          "local_time": 3.4566666666666666,
+          "bank_time": 6.456666666666667,
+          "model_area_mae": 0.12418981481481481
+        }
+      ]
+    },
+    {
+      "scene": "uk009-039",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.11486111111111111
+        },
+        {
+          "local_time": 4.716666666666667,
+          "bank_time": 4.716666666666667,
+          "model_area_mae": 0.08041666666666666
+        },
+        {
+          "local_time": 8.018333333333333,
+          "bank_time": 8.018333333333333,
+          "model_area_mae": 0.17851851851851852
+        }
+      ]
+    },
+    {
+      "scene": "uk009-044",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 12.4,
+          "model_area_mae": 0.11000771604938271
+        },
+        {
+          "local_time": 4.5,
+          "bank_time": 16.5,
+          "model_area_mae": 0.08540123456790123
+        },
+        {
+          "local_time": 7.6499999999999995,
+          "bank_time": 19.65,
+          "model_area_mae": 0.16174382716049382
+        }
+      ]
+    },
+    {
+      "scene": "uk009-055",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 5.4,
+          "model_area_mae": 0.09982253086419753
+        },
+        {
+          "local_time": 6.7,
+          "bank_time": 11.7,
+          "model_area_mae": 0.11961419753086419
+        },
+        {
+          "local_time": 11.39,
+          "bank_time": 16.39,
+          "model_area_mae": 0.11299382716049383
+        }
+      ]
+    },
+    {
+      "scene": "uk009-097",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 0.4,
+          "model_area_mae": 0.09375771604938271
+        },
+        {
+          "local_time": 5.183333333333334,
+          "bank_time": 5.183333333333334,
+          "model_area_mae": 0.07655092592592593
+        },
+        {
+          "local_time": 8.811666666666667,
+          "bank_time": 8.811666666666667,
+          "model_area_mae": 0.04251543209876543
+        }
+      ]
+    },
+    {
+      "scene": "uk009-100",
+      "native_frames": 720,
+      "revolution_seconds": 24,
+      "samples": [
+        {
+          "local_time": 0.4,
+          "bank_time": 12.4,
+          "model_area_mae": 0.08681327160493828
+        },
+        {
+          "local_time": 5.65,
+          "bank_time": 17.65,
+          "model_area_mae": 0.06175925925925926
+        },
+        {
+          "local_time": 9.605,
+          "bank_time": 21.605,
+          "model_area_mae": 0.05992283950617284
+        }
+      ]
+    }
+  ]
+}

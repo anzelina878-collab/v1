@@ -1,0 +1,13 @@
+{
+  "state": "technically_verified",
+  "revision": 2,
+  "language": "uk",
+  "audio_unchanged": true,
+  "duration": 1039.2333333333333,
+  "frames": 31177,
+  "video_sha256": "1b791bea356b6c7d8f9064206bb72f820c28da1ab924734e2a141d460a7b6a65",
+  "video_bytes": 184998219,
+  "role_correction": "Generic operator appears once, SWAT only; real official unit-specific imagery for HRT and ordinary agents.",
+  "continuous_human_watch_and_listen": false,
+  "portable_project_verified": true
+}

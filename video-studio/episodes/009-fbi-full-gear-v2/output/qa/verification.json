@@ -1,0 +1,1039 @@
+{
+  "status": "passed",
+  "duration": 1039.2333333333333,
+  "frames": 31177,
+  "scene_count": 119,
+  "chapter_cards": 14,
+  "chapter_titles_fully_visible_by_audio_cue": true,
+  "original_voice_hash": "passed",
+  "moving_archive_seconds": 353.033,
+  "native_3d_seconds": 57.567,
+  "archive_frozen_tail_seconds": 0,
+  "native_rotation_seconds_per_revolution": 24,
+  "ai_video_seconds": 0,
+  "ai_photo_seconds": 0,
+  "continuous_human_watch_and_listen": "not performed; sampled source/encoded visual inspection, audio correlation and full technical decode are separate checks",
+  "full_video_and_audio_decode": "passed",
+  "audio_waveform_correlation_zero_lag": 0.9998802104143234,
+  "sha256": "1b791bea356b6c7d8f9064206bb72f820c28da1ab924734e2a141d460a7b6a65",
+  "bytes": 184998219,
+  "video_stream": {
+    "index": 0,
+    "codec_name": "h264",
+    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+    "profile": "High",
+    "codec_type": "video",
+    "codec_tag_string": "avc1",
+    "codec_tag": "0x31637661",
+    "width": 1920,
+    "height": 1080,
+    "coded_width": 1920,
+    "coded_height": 1080,
+    "closed_captions": 0,
+    "film_grain": 0,
+    "has_b_frames": 2,
+    "sample_aspect_ratio": "1:1",
+    "display_aspect_ratio": "16:9",
+    "pix_fmt": "yuv420p",
+    "level": 40,
+    "chroma_location": "left",
+    "field_order": "progressive",
+    "refs": 1,
+    "is_avc": "true",
+    "nal_length_size": "4",
+    "id": "0x1",
+    "r_frame_rate": "30/1",
+    "avg_frame_rate": "30/1",
+    "time_base": "1/15360",
+    "start_pts": 0,
+    "start_time": "0.000000",
+    "duration_ts": 15962624,
+    "duration": "1039.233333",
+    "bit_rate": "1223773",
+    "bits_per_raw_sample": "8",
+    "nb_frames": "31177",
+    "extradata_size": 47,
+    "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+    },
+    "tags": {
+      "language": "und",
+      "handler_name": "VideoHandler",
+      "vendor_id": "[0][0][0][0]",
+      "encoder": "Lavc61.19.101 libx264"
+    }
+  },
+  "audio_stream": {
+    "index": 1,
+    "codec_name": "aac",
+    "codec_long_name": "AAC (Advanced Audio Coding)",
+    "profile": "LC",
+    "codec_type": "audio",
+    "codec_tag_string": "mp4a",
+    "codec_tag": "0x6134706d",
+    "sample_fmt": "fltp",
+    "sample_rate": "48000",
+    "channels": 2,
+    "channel_layout": "stereo",
+    "bits_per_sample": 0,
+    "initial_padding": 0,
+    "id": "0x2",
+    "r_frame_rate": "0/0",
+    "avg_frame_rate": "0/0",
+    "time_base": "1/48000",
+    "start_pts": 0,
+    "start_time": "0.000000",
+    "duration_ts": 49883184,
+    "duration": "1039.233000",
+    "bit_rate": "191522",
+    "nb_frames": "48716",
+    "extradata_size": 5,
+    "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+    },
+    "tags": {
+      "language": "und",
+      "handler_name": "SoundHandler",
+      "vendor_id": "[0][0][0][0]"
+    }
+  },
+  "locked_photos_and_settled_cards": [
+    {
+      "scene": "uk009-003",
+      "settled_frame_mae": 0.001846064814814815
+    },
+    {
+      "scene": "uk009-004",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-013",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-014",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-016",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-018",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-019",
+      "settled_frame_mae": 0.0007638888888888889
+    },
+    {
+      "scene": "uk009-022",
+      "settled_frame_mae": 0.0008159722222222223
+    },
+    {
+      "scene": "uk009-023",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-024",
+      "settled_frame_mae": 0.003119212962962963
+    },
+    {
+      "scene": "uk009-025",
+      "settled_frame_mae": 0.08405092592592593
+    },
+    {
+      "scene": "uk009-026",
+      "settled_frame_mae": 0.23641782407407408
+    },
+    {
+      "scene": "uk009-028",
+      "settled_frame_mae": 0.1191087962962963
+    },
+    {
+      "scene": "uk009-029",
+      "settled_frame_mae": 0.2325347222222222
+    },
+    {
+      "scene": "uk009-030",
+      "settled_frame_mae": 0.2040509259259259
+    },
+    {
+      "scene": "uk009-031",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-032",
+      "settled_frame_mae": 0.0008159722222222223
+    },
+    {
+      "scene": "uk009-033",
+      "settled_frame_mae": 0.21680555555555556
+    },
+    {
+      "scene": "uk009-034",
+      "settled_frame_mae": 0.10087384259259259
+    },
+    {
+      "scene": "uk009-036",
+      "settled_frame_mae": 0.07594328703703704
+    },
+    {
+      "scene": "uk009-037",
+      "settled_frame_mae": 0.12151041666666666
+    },
+    {
+      "scene": "uk009-038",
+      "settled_frame_mae": 0.00109375
+    },
+    {
+      "scene": "uk009-040",
+      "settled_frame_mae": 0.10419560185185185
+    },
+    {
+      "scene": "uk009-042",
+      "settled_frame_mae": 0.0078125
+    },
+    {
+      "scene": "uk009-043",
+      "settled_frame_mae": 0.09768518518518518
+    },
+    {
+      "scene": "uk009-045",
+      "settled_frame_mae": 0.11791087962962964
+    },
+    {
+      "scene": "uk009-046",
+      "settled_frame_mae": 0.0001388888888888889
+    },
+    {
+      "scene": "uk009-047",
+      "settled_frame_mae": 0.4332465277777778
+    },
+    {
+      "scene": "uk009-048",
+      "settled_frame_mae": 0.09593171296296296
+    },
+    {
+      "scene": "uk009-049",
+      "settled_frame_mae": 0.3299768518518518
+    },
+    {
+      "scene": "uk009-050",
+      "settled_frame_mae": 0.4030150462962963
+    },
+    {
+      "scene": "uk009-051",
+      "settled_frame_mae": 0.11138888888888888
+    },
+    {
+      "scene": "uk009-053",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-054",
+      "settled_frame_mae": 0.3495196759259259
+    },
+    {
+      "scene": "uk009-056",
+      "settled_frame_mae": 0.13225694444444444
+    },
+    {
+      "scene": "uk009-058",
+      "settled_frame_mae": 0.3620775462962963
+    },
+    {
+      "scene": "uk009-059",
+      "settled_frame_mae": 0.4233159722222222
+    },
+    {
+      "scene": "uk009-060",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-061",
+      "settled_frame_mae": 0.10881944444444444
+    },
+    {
+      "scene": "uk009-063",
+      "settled_frame_mae": 0.2989988425925926
+    },
+    {
+      "scene": "uk009-064",
+      "settled_frame_mae": 0.20015046296296296
+    },
+    {
+      "scene": "uk009-066",
+      "settled_frame_mae": 0.11092592592592593
+    },
+    {
+      "scene": "uk009-067",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-069",
+      "settled_frame_mae": 0.39792824074074074
+    },
+    {
+      "scene": "uk009-071",
+      "settled_frame_mae": 0.28411458333333334
+    },
+    {
+      "scene": "uk009-072",
+      "settled_frame_mae": 0.3145775462962963
+    },
+    {
+      "scene": "uk009-073",
+      "settled_frame_mae": 0.12152777777777778
+    },
+    {
+      "scene": "uk009-074",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-079",
+      "settled_frame_mae": 0.09236689814814815
+    },
+    {
+      "scene": "uk009-082",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-084",
+      "settled_frame_mae": 0.12068287037037037
+    },
+    {
+      "scene": "uk009-086",
+      "settled_frame_mae": 0.12418981481481481
+    },
+    {
+      "scene": "uk009-089",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-090",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-091",
+      "settled_frame_mae": 0.29377893518518516
+    },
+    {
+      "scene": "uk009-093",
+      "settled_frame_mae": 0.34561921296296294
+    },
+    {
+      "scene": "uk009-095",
+      "settled_frame_mae": 0.21688657407407408
+    },
+    {
+      "scene": "uk009-096",
+      "settled_frame_mae": 0.00011574074074074075
+    },
+    {
+      "scene": "uk009-098",
+      "settled_frame_mae": 0.12086226851851851
+    },
+    {
+      "scene": "uk009-099",
+      "settled_frame_mae": 0.10017939814814815
+    },
+    {
+      "scene": "uk009-101",
+      "settled_frame_mae": 0.08548032407407408
+    },
+    {
+      "scene": "uk009-102",
+      "settled_frame_mae": 0.12402777777777778
+    },
+    {
+      "scene": "uk009-103",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-104",
+      "settled_frame_mae": 0.09925347222222222
+    },
+    {
+      "scene": "uk009-106",
+      "settled_frame_mae": 0.30484953703703704
+    },
+    {
+      "scene": "uk009-107",
+      "settled_frame_mae": 0.07966435185185185
+    },
+    {
+      "scene": "uk009-110",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-112",
+      "settled_frame_mae": 0.3988657407407407
+    },
+    {
+      "scene": "uk009-115",
+      "settled_frame_mae": 0.13978587962962963
+    },
+    {
+      "scene": "uk009-116",
+      "settled_frame_mae": 0.0
+    },
+    {
+      "scene": "uk009-117",
+      "settled_frame_mae": 0.08907986111111112
+    },
+    {
+      "scene": "uk009-118",
+      "settled_frame_mae": 0.0
+    }
+  ],
+  "moving_shot_end_checks": [
+    {
+      "scene": "uk009-000",
+      "last_frame_differences": [
+        4.501986882716049,
+        114.01141975308641,
+        11.662962962962963,
+        6.3938850308641975,
+        11.215123456790124,
+        14.349305555555556,
+        10.579398148148147
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-001",
+      "last_frame_differences": [
+        18.003568672839506,
+        8.61880787037037,
+        44.43701774691358,
+        10.908506944444444,
+        12.204205246913581,
+        11.950289351851852,
+        9.428645833333333
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-002",
+      "last_frame_differences": [
+        14.753626543209876,
+        70.05638503086419,
+        3.377199074074074,
+        1.2022183641975308,
+        1.9007137345679013,
+        3.590528549382716,
+        4.587364969135803
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-005",
+      "last_frame_differences": [
+        3.3230324074074074,
+        85.71367669753086,
+        38.90090663580247,
+        35.55864197530864,
+        52.812287808641976,
+        48.356809413580244,
+        55.43925540123457
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-006",
+      "last_frame_differences": [
+        5.220023148148148,
+        5.445524691358025,
+        4.184259259259259,
+        4.511535493827161,
+        4.561631944444445,
+        59.995621141975306,
+        2.5384645061728395
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-007",
+      "last_frame_differences": [
+        5.742862654320987,
+        5.693325617283951,
+        5.696122685185185,
+        5.647627314814815,
+        5.627121913580247,
+        5.522106481481481,
+        5.453337191358025
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-008",
+      "last_frame_differences": [
+        34.5748649691358,
+        36.43076774691358,
+        27.889621913580246,
+        25.636670524691358,
+        13.952199074074073,
+        21.445736882716048,
+        28.524498456790123
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-009",
+      "last_frame_differences": [
+        30.50125385802469,
+        31.39639274691358,
+        32.62719907407408,
+        31.955073302469135,
+        33.0758487654321,
+        28.024652777777778,
+        26.03497299382716
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-010",
+      "last_frame_differences": [
+        2.264621913580247,
+        4.523842592592593,
+        10.208854166666667,
+        7.616222993827161,
+        8.421875,
+        5.985648148148148,
+        7.387152777777778
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-011",
+      "last_frame_differences": [
+        27.595582561728396,
+        30.87806712962963,
+        36.92349537037037,
+        39.02276234567901,
+        40.90559413580247,
+        59.160300925925924,
+        18.413136574074073
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-012",
+      "last_frame_differences": [
+        5.043634259259259,
+        7.475829475308642,
+        14.032407407407407,
+        17.194888117283952,
+        15.471199845679012,
+        16.328993055555557,
+        10.857581018518518
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-015",
+      "last_frame_differences": [
+        8.720775462962964,
+        8.053009259259259,
+        6.665104166666667,
+        4.851523919753086,
+        5.3177662037037035,
+        58.5054012345679,
+        11.934510030864198
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-017",
+      "last_frame_differences": [
+        14.389679783950617,
+        14.358140432098766,
+        8.152854938271606,
+        9.921412037037037,
+        18.210956790123458,
+        16.252141203703705,
+        12.386323302469135
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-020",
+      "last_frame_differences": [
+        34.75619212962963,
+        31.609182098765434,
+        25.53233024691358,
+        32.73605324074074,
+        25.21400462962963,
+        29.26508487654321,
+        25.41172839506173
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-021",
+      "last_frame_differences": [
+        6.7573688271604935,
+        4.087403549382716,
+        4.238310185185185,
+        113.97085262345679,
+        10.039525462962963,
+        6.468711419753086,
+        12.683140432098766
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-027",
+      "last_frame_differences": [
+        6.041994598765432,
+        5.319174382716049,
+        10.657291666666667,
+        9.113599537037038,
+        11.231404320987654,
+        6.226890432098766,
+        91.02158564814815
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-035",
+      "last_frame_differences": [
+        3.224633487654321,
+        2.437037037037037,
+        7.410821759259259,
+        6.31190200617284,
+        6.898514660493827,
+        8.94633487654321,
+        15.88587962962963
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-039",
+      "last_frame_differences": [
+        4.689216820987654,
+        4.505613425925926,
+        4.320138888888889,
+        4.128858024691358,
+        3.817824074074074,
+        3.6329475308641976,
+        3.4204475308641977
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-041",
+      "last_frame_differences": [
+        1.1607060185185185,
+        0.9442515432098766,
+        3.905420524691358,
+        3.6728009259259258,
+        1.7563657407407407,
+        1.59164737654321,
+        1.231905864197531
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-044",
+      "last_frame_differences": [
+        4.608217592592593,
+        4.4419560185185185,
+        4.26033950617284,
+        4.015817901234568,
+        3.871701388888889,
+        3.623707561728395,
+        3.355304783950617
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-052",
+      "last_frame_differences": [
+        29.615277777777777,
+        32.08009259259259,
+        90.97650462962963,
+        23.484278549382715,
+        19.001601080246914,
+        24.01329089506173,
+        25.67565586419753
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-055",
+      "last_frame_differences": [
+        0.7339313271604938,
+        0.7425347222222223,
+        0.7214699074074075,
+        0.7157793209876543,
+        0.6758680555555555,
+        0.6817901234567901,
+        0.6408564814814814
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-057",
+      "last_frame_differences": [
+        6.824112654320988,
+        6.305787037037037,
+        4.652546296296296,
+        5.776427469135802,
+        7.580034722222222,
+        5.895794753086419,
+        5.754475308641975
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-062",
+      "last_frame_differences": [
+        23.229648919753085,
+        21.078163580246912,
+        19.373765432098764,
+        19.300096450617286,
+        19.207021604938273,
+        17.403587962962963,
+        17.645138888888887
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-065",
+      "last_frame_differences": [
+        47.19164737654321,
+        38.29091435185185,
+        33.53323688271605,
+        30.93983410493827,
+        38.40661651234568,
+        44.73474151234568,
+        45.740895061728395
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-068",
+      "last_frame_differences": [
+        4.94639274691358,
+        2.4256558641975308,
+        3.399189814814815,
+        1.0051697530864196,
+        3.3520833333333333,
+        4.824922839506173,
+        2.9690200617283953
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-070",
+      "last_frame_differences": [
+        46.77260802469136,
+        47.20289351851852,
+        50.44855324074074,
+        48.904783950617286,
+        47.22451774691358,
+        46.38798225308642,
+        47.17548225308642
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-075",
+      "last_frame_differences": [
+        4.73479938271605,
+        4.445235339506173,
+        3.930671296296296,
+        3.5068865740740742,
+        3.4455439814814817,
+        3.293036265432099,
+        3.1846836419753086
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-076",
+      "last_frame_differences": [
+        4.355960648148148,
+        2.383275462962963,
+        2.2718364197530865,
+        3.8216628086419755,
+        3.5024691358024693,
+        1.8206211419753087,
+        2.366454475308642
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-077",
+      "last_frame_differences": [
+        10.348996913580248,
+        13.085551697530864,
+        13.250135030864197,
+        14.336670524691359,
+        15.344483024691359,
+        16.799363425925925,
+        15.378414351851852
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-078",
+      "last_frame_differences": [
+        18.233603395061728,
+        17.93773148148148,
+        20.54976851851852,
+        26.557658179012346,
+        23.858661265432097,
+        23.922299382716048,
+        26.684085648148148
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-080",
+      "last_frame_differences": [
+        3.178240740740741,
+        3.2310185185185185,
+        3.477025462962963,
+        2.5534336419753085,
+        1.9660108024691358,
+        3.6585262345679013,
+        8.10835262345679
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-081",
+      "last_frame_differences": [
+        4.216782407407408,
+        4.691936728395062,
+        3.4444444444444446,
+        2.7433256172839506,
+        59.415297067901236,
+        16.201543209876544,
+        20.840065586419755
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-083",
+      "last_frame_differences": [
+        2.156269290123457,
+        1.679513888888889,
+        2.1602816358024692,
+        2.127488425925926,
+        2.9130015432098766,
+        2.2153163580246913,
+        2.7357445987654323
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-085",
+      "last_frame_differences": [
+        2.3903935185185183,
+        2.4246720679012346,
+        3.023649691358025,
+        2.7584876543209877,
+        4.841975308641976,
+        48.60806327160494,
+        9.860011574074074
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-087",
+      "last_frame_differences": [
+        10.076041666666667,
+        9.012808641975308,
+        6.568827160493827,
+        5.822743055555556,
+        7.671547067901234,
+        10.11502700617284,
+        9.577295524691358
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-088",
+      "last_frame_differences": [
+        24.615605709876544,
+        22.684645061728396,
+        19.503954475308642,
+        14.3421875,
+        10.981925154320988,
+        7.197337962962963,
+        7.029610339506172
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-092",
+      "last_frame_differences": [
+        1.4009645061728395,
+        2.1764274691358025,
+        0.8705054012345679,
+        1.5570794753086419,
+        1.1360339506172838,
+        0.9280478395061729,
+        1.0860146604938272
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-094",
+      "last_frame_differences": [
+        16.341493055555556,
+        13.456018518518519,
+        9.52403549382716,
+        11.464101080246914,
+        14.055999228395061,
+        67.9234375,
+        17.98485725308642
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-097",
+      "last_frame_differences": [
+        1.414429012345679,
+        1.5646219135802468,
+        1.6038773148148149,
+        1.5022376543209877,
+        1.3745370370370371,
+        1.390354938271605,
+        1.4481867283950618
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-100",
+      "last_frame_differences": [
+        1.7449074074074074,
+        1.6374421296296295,
+        1.6221064814814814,
+        1.6512152777777778,
+        1.5265817901234568,
+        1.5386381172839507,
+        1.5465277777777777
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-105",
+      "last_frame_differences": [
+        22.520331790123457,
+        19.39820601851852,
+        15.359837962962963,
+        10.730671296296297,
+        7.569174382716049,
+        4.108584104938272,
+        4.764332561728395
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-108",
+      "last_frame_differences": [
+        1.7375,
+        1.5706211419753087,
+        1.3032793209876543,
+        4.12397762345679,
+        4.629301697530864,
+        3.726350308641975,
+        2.981867283950617
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-109",
+      "last_frame_differences": [
+        9.955536265432098,
+        9.59074074074074,
+        10.138310185185185,
+        10.39056712962963,
+        134.11315586419752,
+        7.743711419753087,
+        5.446739969135803
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-111",
+      "last_frame_differences": [
+        13.161554783950617,
+        16.840239197530863,
+        18.485725308641975,
+        13.059066358024692,
+        14.881500771604939,
+        10.353954475308642,
+        8.791300154320988
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-113",
+      "last_frame_differences": [
+        3.6757716049382716,
+        2.969965277777778,
+        2.320428240740741,
+        2.0149305555555554,
+        1.7944251543209877,
+        62.25331790123457,
+        2.802179783950617
+      ],
+      "frozen_tail": false
+    },
+    {
+      "scene": "uk009-114",
+      "last_frame_differences": [
+        2.74639274691358,
+        3.323283179012346,
+        2.8791859567901232,
+        2.2923418209876543,
+        4.020736882716049,
+        4.118518518518519,
+        2.2318479938271607
+      ],
+      "frozen_tail": false
+    }
+  ]
+}

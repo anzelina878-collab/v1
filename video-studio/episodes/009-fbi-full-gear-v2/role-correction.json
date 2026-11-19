@@ -1,0 +1,42 @@
+{
+  "revision": 2,
+  "prior_revision": "009-fbi-full-gear",
+  "generic_operator_occurrences": 1,
+  "generic_operator_allowed_only_in": "SWAT",
+  "HRT_sources": [
+    {
+      "id": "hrt-operator",
+      "photo": "assets/photos/hrt-operator.jpg",
+      "source_url": "https://www.fbi.gov/image-repository/hostage-rescue-team-training-120412.jpg/view",
+      "original_url": "https://www.fbi.gov/image-repository/hostage-rescue-team-training-120412.jpg/@@images/image/large",
+      "credit": "FBI · HRT · Public domain",
+      "license": "17 USC 105 · official FBI photograph",
+      "description": "Officially identified Hostage Rescue Team operator/training; real photograph, not generic SWAT model"
+    },
+    {
+      "id": "hrt-team",
+      "photo": "assets/photos/hrt-team.jpg",
+      "source_url": "https://www.fbi.gov/image-repository/hrt-training.jpeg/view",
+      "original_url": "https://www.fbi.gov/image-repository/hrt-training.jpeg/@@images/image/large",
+      "credit": "FBI · HRT · Public domain",
+      "license": "17 USC 105 · official FBI photograph",
+      "description": "Officially identified Hostage Rescue Team operator/training; real photograph, not generic SWAT model"
+    }
+  ],
+  "changed_scene_ids": [
+    "uk009-000",
+    "uk009-003",
+    "uk009-011",
+    "uk009-021",
+    "uk009-030",
+    "uk009-034",
+    "uk009-036",
+    "uk009-047",
+    "uk009-050",
+    "uk009-055",
+    "uk009-063",
+    "uk009-109",
+    "uk009-112",
+    "uk009-116"
+  ]
+}

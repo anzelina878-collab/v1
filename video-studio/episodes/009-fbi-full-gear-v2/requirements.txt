@@ -1,0 +1,4 @@
+Pillow>=10.0
+numpy>=1.24
+# FFmpeg and ffprobe must be on PATH. Pillow must support RAQM.
+# Optional bank regeneration: Blender 4.x and numba.

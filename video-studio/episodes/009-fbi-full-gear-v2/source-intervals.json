@@ -1,0 +1,1073 @@
+[
+  {
+    "scene": "uk009-000",
+    "start": 0.0,
+    "end": 3.066666666666667,
+    "asset_id": "classroom",
+    "source_in": 129,
+    "role": "agent",
+    "caption": "СПЕЦІАЛЬНИЙ АГЕНТ ФБР · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-001",
+    "start": 3.066666666666667,
+    "end": 9.733333333333333,
+    "asset_id": "field-training",
+    "source_in": 4.2,
+    "role": null,
+    "caption": "АГЕНТИ ФБР · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-002",
+    "start": 9.733333333333333,
+    "end": 16.433333333333334,
+    "asset_id": "ert2021",
+    "source_in": 29,
+    "role": null,
+    "caption": "КРИМІНАЛІСТИ · ERT"
+  },
+  {
+    "scene": "uk009-003",
+    "start": 16.433333333333334,
+    "end": 22.3,
+    "asset_id": "hrt-team",
+    "source_in": 0,
+    "role": "HRT",
+    "caption": "ОПЕРАТОРИ HRT · ТАКТИЧНЕ СПОРЯДЖЕННЯ"
+  },
+  {
+    "scene": "uk009-004",
+    "start": 22.3,
+    "end": 27.6,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "FBI"
+  },
+  {
+    "scene": "uk009-005",
+    "start": 27.6,
+    "end": 33.733333333333334,
+    "asset_id": "field-training",
+    "source_in": 42,
+    "role": null,
+    "caption": "РОБОТА КОМАНДИ · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-006",
+    "start": 33.733333333333334,
+    "end": 38.4,
+    "asset_id": "firearms-exhibit",
+    "source_in": 49,
+    "role": null,
+    "caption": "СЛУЖБОВИЙ ПІСТОЛЕТ · ЕКСПОЗИЦІЯ ФБР"
+  },
+  {
+    "scene": "uk009-007",
+    "start": 38.4,
+    "end": 42.46666666666667,
+    "asset_id": "ar15-360",
+    "source_in": 3,
+    "role": null,
+    "caption": "ПЛАТФОРМА AR-15"
+  },
+  {
+    "scene": "uk009-008",
+    "start": 42.46666666666667,
+    "end": 48.36666666666667,
+    "asset_id": "hrt2013",
+    "source_in": 52,
+    "role": null,
+    "caption": "HRT · ТРЕНУВАННЯ"
+  },
+  {
+    "scene": "uk009-009",
+    "start": 48.36666666666667,
+    "end": 52.1,
+    "asset_id": "bombtraining2025",
+    "source_in": 1,
+    "role": null,
+    "caption": "ВИБУХОТЕХНІЧНИЙ РОБОТ"
+  },
+  {
+    "scene": "uk009-010",
+    "start": 52.1,
+    "end": 55.3,
+    "asset_id": "hrt-water",
+    "source_in": 11.5,
+    "role": null,
+    "caption": "СПІЛЬНІ НАВЧАННЯ HRT"
+  },
+  {
+    "scene": "uk009-011",
+    "start": 55.3,
+    "end": 60.266666666666666,
+    "asset_id": "bombtraining2025",
+    "source_in": 68.5,
+    "role": "bomb-technician",
+    "caption": "ВИБУХОТЕХНІК · ЗАХИСНИЙ КОСТЮМ"
+  },
+  {
+    "scene": "uk009-012",
+    "start": 60.266666666666666,
+    "end": 64.46666666666667,
+    "asset_id": "ert2021",
+    "source_in": 91.5,
+    "role": null,
+    "caption": "ФІКСАЦІЯ ДОКАЗІВ · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-013",
+    "start": 64.46666666666667,
+    "end": 68.13333333333334,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": ""
+  },
+  {
+    "scene": "uk009-014",
+    "start": 68.13333333333334,
+    "end": 71.73333333333333,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "СПОРЯДЖЕННЯ АГЕНТА"
+  },
+  {
+    "scene": "uk009-015",
+    "start": 71.73333333333333,
+    "end": 76.0,
+    "asset_id": "classroom",
+    "source_in": 2,
+    "role": null,
+    "caption": "АГЕНТИ ТА АНАЛІТИКИ · КВАНТІКО"
+  },
+  {
+    "scene": "uk009-016",
+    "start": 76.0,
+    "end": 82.3,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "РІЗНІ ЗАВДАННЯ — РІЗНЕ СПОРЯДЖЕННЯ"
+  },
+  {
+    "scene": "uk009-017",
+    "start": 82.3,
+    "end": 90.0,
+    "asset_id": "field-training",
+    "source_in": 110,
+    "role": null,
+    "caption": "БАЗОВА ПІДГОТОВКА АГЕНТІВ"
+  },
+  {
+    "scene": "uk009-018",
+    "start": 90.0,
+    "end": 97.1,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "БАЗОВИЙ КОМПЛЕКТ"
+  },
+  {
+    "scene": "uk009-019",
+    "start": 97.1,
+    "end": 104.5,
+    "asset_id": "stolen-wfo-motorola-radio-apx-7000-jpg",
+    "source_in": 0,
+    "role": null,
+    "caption": "MOTOROLA APX-7000"
+  },
+  {
+    "scene": "uk009-020",
+    "start": 104.5,
+    "end": 113.4,
+    "asset_id": "field-training",
+    "source_in": 134,
+    "role": null,
+    "caption": "ЗВИЧАЙНИЙ ОДЯГ · НАВЧАЛЬНА ОПЕРАЦІЯ"
+  },
+  {
+    "scene": "uk009-021",
+    "start": 113.4,
+    "end": 122.1,
+    "asset_id": "classroom",
+    "source_in": 123,
+    "role": "agent",
+    "caption": "БАЗОВЕ СПОРЯДЖЕННЯ АГЕНТА · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-022",
+    "start": 122.1,
+    "end": 129.56666666666666,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "КОМПЛЕКТ ВИЗНАЧАЄ ЗАВДАННЯ"
+  },
+  {
+    "scene": "uk009-023",
+    "start": 129.56666666666666,
+    "end": 133.16666666666666,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ПІСТОЛЕТИ ФБР"
+  },
+  {
+    "scene": "uk009-024",
+    "start": 133.16666666666666,
+    "end": 139.7,
+    "asset_id": "fbi-glock-exhibit",
+    "source_in": 0,
+    "role": null,
+    "caption": "СЛУЖБОВИЙ ПІСТОЛЕТ · ЕКСПОЗИЦІЯ ФБР"
+  },
+  {
+    "scene": "uk009-025",
+    "start": 139.7,
+    "end": 151.13333333333333,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "GLOCK 19M / GLOCK 17M"
+  },
+  {
+    "scene": "uk009-026",
+    "start": 151.13333333333333,
+    "end": 159.96666666666667,
+    "asset_id": "fbi-glock-exhibit",
+    "source_in": 0,
+    "role": null,
+    "caption": "GLOCK · ЕКСПОЗИЦІЯ ФБР"
+  },
+  {
+    "scene": "uk009-027",
+    "start": 159.96666666666667,
+    "end": 171.2,
+    "asset_id": "range-training",
+    "source_in": 29,
+    "role": null,
+    "caption": "ВОГНЕВА ПІДГОТОВКА АГЕНТІВ"
+  },
+  {
+    "scene": "uk009-028",
+    "start": 171.2,
+    "end": 182.36666666666667,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "СЛУЖБОВИЙ ПІСТОЛЕТ"
+  },
+  {
+    "scene": "uk009-029",
+    "start": 182.36666666666667,
+    "end": 191.8,
+    "asset_id": "fbi-glock-exhibit",
+    "source_in": 0,
+    "role": null,
+    "caption": "КОЛІМАТОР І ЛІХТАР"
+  },
+  {
+    "scene": "uk009-030",
+    "start": 191.8,
+    "end": 201.0,
+    "asset_id": "stolen-wfo-holster-for-glock-22-handgun-jpg",
+    "source_in": 0,
+    "role": "agent",
+    "caption": "КОБУРА СЛУЖБОВОГО ПІСТОЛЕТА"
+  },
+  {
+    "scene": "uk009-031",
+    "start": 201.0,
+    "end": 204.6,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ПЕРЕСТРІЛКА В МАЯМІ"
+  },
+  {
+    "scene": "uk009-032",
+    "start": 204.6,
+    "end": 212.06666666666666,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "11 КВІТНЯ 1986"
+  },
+  {
+    "scene": "uk009-033",
+    "start": 212.06666666666666,
+    "end": 223.06666666666666,
+    "asset_id": "wall-of-honor",
+    "source_in": 0,
+    "role": null,
+    "caption": "БЕН ГРОГАН І ДЖЕРРІ ДАВ"
+  },
+  {
+    "scene": "uk009-034",
+    "start": 223.06666666666666,
+    "end": 233.7,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ПІСЛЯ МАЯМІ"
+  },
+  {
+    "scene": "uk009-035",
+    "start": 233.7,
+    "end": 245.03333333333333,
+    "asset_id": "range-training",
+    "source_in": 3,
+    "role": null,
+    "caption": "ВОГНЕВА ПІДГОТОВКА · КВАНТІКО"
+  },
+  {
+    "scene": "uk009-036",
+    "start": 245.03333333333333,
+    "end": 254.9,
+    "asset_id": "stolen-wfo-motorola-radio-apx-7000-jpg",
+    "source_in": 0,
+    "role": "agent",
+    "caption": "РАДІОЗВ’ЯЗОК АГЕНТА"
+  },
+  {
+    "scene": "uk009-037",
+    "start": 254.9,
+    "end": 263.76666666666665,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "БЕЗПЕКА — ЦЕ СИСТЕМА"
+  },
+  {
+    "scene": "uk009-038",
+    "start": 263.76666666666665,
+    "end": 267.3666666666667,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ДОВГОСТВОЛЬНА ЗБРОЯ"
+  },
+  {
+    "scene": "uk009-039",
+    "start": 267.3666666666667,
+    "end": 276.8,
+    "asset_id": "ar15-360",
+    "source_in": 0,
+    "role": null,
+    "caption": "КАРАБІН ПЛАТФОРМИ AR-15"
+  },
+  {
+    "scene": "uk009-040",
+    "start": 276.8,
+    "end": 288.6,
+    "asset_id": "stolen-wfo-rock-river-arms-rifle-jpg",
+    "source_in": 0,
+    "role": null,
+    "caption": "ROCK RIVER ARMS LAR-15"
+  },
+  {
+    "scene": "uk009-041",
+    "start": 288.6,
+    "end": 300.8666666666667,
+    "asset_id": "range-training",
+    "source_in": 88,
+    "role": null,
+    "caption": "КАРАБІНИ · НАВЧАЛЬНІ СТРІЛЬБИ"
+  },
+  {
+    "scene": "uk009-042",
+    "start": 300.8666666666667,
+    "end": 306.46666666666664,
+    "asset_id": "stolen-wfo-gun-lock-box-jpg",
+    "source_in": 0,
+    "role": null,
+    "caption": "АВТОМОБІЛЬНИЙ СЕЙФ"
+  },
+  {
+    "scene": "uk009-043",
+    "start": 306.46666666666664,
+    "end": 316.0,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "HECKLER & KOCH MP5"
+  },
+  {
+    "scene": "uk009-044",
+    "start": 316.0,
+    "end": 325.0,
+    "asset_id": "ar15-360",
+    "source_in": 12,
+    "role": null,
+    "caption": "ПЛАТФОРМА AR-15 · 3D-ІЛЮСТРАЦІЯ"
+  },
+  {
+    "scene": "uk009-045",
+    "start": 325.0,
+    "end": 335.46666666666664,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ЗБРОЯ ЗАЛЕЖИТЬ ВІД ОПЕРАЦІЇ"
+  },
+  {
+    "scene": "uk009-046",
+    "start": 335.46666666666664,
+    "end": 339.06666666666666,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "БРОНЕЗАХИСТ"
+  },
+  {
+    "scene": "uk009-047",
+    "start": 339.06666666666666,
+    "end": 349.2,
+    "asset_id": "swat-weapon-la-png",
+    "source_in": 0,
+    "role": "SWAT",
+    "caption": "ЗОВНІШНІЙ БРОНЕЗАХИСТ · SWAT ФБР"
+  },
+  {
+    "scene": "uk009-048",
+    "start": 349.2,
+    "end": 360.7,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "РІЗНІ ЗАГРОЗИ — РІЗНИЙ ЗАХИСТ"
+  },
+  {
+    "scene": "uk009-049",
+    "start": 360.7,
+    "end": 369.9,
+    "asset_id": "swat-operator-female-png",
+    "source_in": 0,
+    "role": null,
+    "caption": "СПОРЯДЖЕННЯ SWAT ФБР"
+  },
+  {
+    "scene": "uk009-050",
+    "start": 369.9,
+    "end": 381.8,
+    "asset_id": "hrt-team",
+    "source_in": 0,
+    "role": "HRT",
+    "caption": "ШОЛОМИ Й ЗВ’ЯЗОК · ОПЕРАТОРИ HRT"
+  },
+  {
+    "scene": "uk009-051",
+    "start": 381.8,
+    "end": 391.1,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ЗАХИСТ МАЄ ОБМЕЖЕННЯ"
+  },
+  {
+    "scene": "uk009-052",
+    "start": 391.1,
+    "end": 401.56666666666666,
+    "asset_id": "field-training",
+    "source_in": 50,
+    "role": null,
+    "caption": "ПЕРЕСУВАННЯ В ЗАХИСТІ · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-053",
+    "start": 401.56666666666666,
+    "end": 405.1666666666667,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "SWAT ФБР"
+  },
+  {
+    "scene": "uk009-054",
+    "start": 405.1666666666667,
+    "end": 415.9,
+    "asset_id": "swat-pr-training-2021-jpg",
+    "source_in": 0,
+    "role": null,
+    "caption": "SWAT ФБР · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-055",
+    "start": 415.9,
+    "end": 429.3,
+    "asset_id": "operator-360",
+    "source_in": 5,
+    "role": "SWAT",
+    "caption": "SWAT · УМОВНА 3D-ІЛЮСТРАЦІЯ"
+  },
+  {
+    "scene": "uk009-056",
+    "start": 429.3,
+    "end": 441.8,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "СПЕЦІАЛЬНЕ СПОРЯДЖЕННЯ"
+  },
+  {
+    "scene": "uk009-057",
+    "start": 441.8,
+    "end": 449.1,
+    "asset_id": "fbi-expo",
+    "source_in": 0.1,
+    "role": null,
+    "caption": "НІЧНЕ СПОРЯДЖЕННЯ ФБР · ДЕМОНСТРАЦІЯ"
+  },
+  {
+    "scene": "uk009-058",
+    "start": 449.1,
+    "end": 463.1,
+    "asset_id": "swat-operator-hands-doors-blur-jpg",
+    "source_in": 0,
+    "role": null,
+    "caption": "SWAT · КОМАНДНА РОБОТА"
+  },
+  {
+    "scene": "uk009-059",
+    "start": 463.1,
+    "end": 473.96666666666664,
+    "asset_id": "swat-weapon-la-png",
+    "source_in": 0,
+    "role": null,
+    "caption": "SWAT ФБР · СПОРЯДЖЕННЯ ГРУПИ"
+  },
+  {
+    "scene": "uk009-060",
+    "start": 473.96666666666664,
+    "end": 477.56666666666666,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "СПЕЦПІДРОЗДІЛ HRT"
+  },
+  {
+    "scene": "uk009-061",
+    "start": 477.56666666666666,
+    "end": 491.5,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "HRT · СТВОРЕНО 1983 РОКУ"
+  },
+  {
+    "scene": "uk009-062",
+    "start": 491.5,
+    "end": 501.8666666666667,
+    "asset_id": "hrt-water",
+    "source_in": 36,
+    "role": null,
+    "caption": "HRT · ВОДНО-РЯТУВАЛЬНА ПІДГОТОВКА"
+  },
+  {
+    "scene": "uk009-063",
+    "start": 501.8666666666667,
+    "end": 515.5,
+    "asset_id": "hrt-operator",
+    "source_in": 0,
+    "role": "HRT",
+    "caption": "ОПЕРАТОР HRT · ТАКТИЧНИЙ ПЛАНШЕТ"
+  },
+  {
+    "scene": "uk009-064",
+    "start": 515.5,
+    "end": 526.0,
+    "asset_id": "hrt-training-fast-rope-080519",
+    "source_in": 0,
+    "role": null,
+    "caption": "HRT · ВИСАДКА З ГЕЛІКОПТЕРА"
+  },
+  {
+    "scene": "uk009-065",
+    "start": 526.0,
+    "end": 538.5,
+    "asset_id": "hrt-water",
+    "source_in": 54,
+    "role": null,
+    "caption": "HRT · ВОДНО-РЯТУВАЛЬНІ НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-066",
+    "start": 538.5,
+    "end": 547.7333333333333,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "МОБІЛЬНІСТЬ HRT"
+  },
+  {
+    "scene": "uk009-067",
+    "start": 547.7333333333333,
+    "end": 551.3333333333334,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ТРАНСПОРТ ФБР"
+  },
+  {
+    "scene": "uk009-068",
+    "start": 551.3333333333334,
+    "end": 563.0,
+    "asset_id": "field-training",
+    "source_in": 137,
+    "role": null,
+    "caption": "СЛУЖБОВІ АВТОМОБІЛІ · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-069",
+    "start": 563.0,
+    "end": 576.9,
+    "asset_id": "swat-operator-truck-blur-jpg",
+    "source_in": 0,
+    "role": null,
+    "caption": "БРОНЬОВАНИЙ ТРАНСПОРТ SWAT"
+  },
+  {
+    "scene": "uk009-070",
+    "start": 576.9,
+    "end": 588.4,
+    "asset_id": "hrt-water",
+    "source_in": 7.5,
+    "role": null,
+    "caption": "HRT · ГЕЛІКОПТЕР І КАТЕР"
+  },
+  {
+    "scene": "uk009-071",
+    "start": 588.4,
+    "end": 599.6,
+    "asset_id": "zodiac-surf-jump",
+    "source_in": 0,
+    "role": null,
+    "caption": "HRT · ШВИДКІСНІ ЧОВНИ"
+  },
+  {
+    "scene": "uk009-072",
+    "start": 599.6,
+    "end": 608.4,
+    "asset_id": "hrt-mobility-team-diver",
+    "source_in": 0,
+    "role": null,
+    "caption": "HRT · ВОДОЛАЗНА ПІДГОТОВКА"
+  },
+  {
+    "scene": "uk009-073",
+    "start": 608.4,
+    "end": 619.3333333333334,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ТРАНСПОРТ ПІД ЗАВДАННЯ"
+  },
+  {
+    "scene": "uk009-074",
+    "start": 619.3333333333334,
+    "end": 622.9333333333333,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ВИБУХОТЕХНІКИ"
+  },
+  {
+    "scene": "uk009-075",
+    "start": 622.9333333333333,
+    "end": 633.9666666666667,
+    "asset_id": "bombtraining2025",
+    "source_in": 30,
+    "role": null,
+    "caption": "РОБОТ · КАМЕРА І МАНІПУЛЯТОР"
+  },
+  {
+    "scene": "uk009-076",
+    "start": 633.9666666666667,
+    "end": 641.5,
+    "asset_id": "hds2018",
+    "source_in": 33,
+    "role": null,
+    "caption": "ДИСТАНЦІЙНИЙ ОГЛЯД · HDS"
+  },
+  {
+    "scene": "uk009-077",
+    "start": 641.5,
+    "end": 649.9,
+    "asset_id": "bombtraining2025",
+    "source_in": 44,
+    "role": null,
+    "caption": "РЕНТГЕНІВСЬКИЙ КОНТРОЛЬ · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-078",
+    "start": 649.9,
+    "end": 656.5,
+    "asset_id": "bombsuit2025",
+    "source_in": 18,
+    "role": null,
+    "caption": "ЗАХИСНИЙ КОСТЮМ ВИБУХОТЕХНІКА"
+  },
+  {
+    "scene": "uk009-079",
+    "start": 656.5,
+    "end": 669.6,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "HAZARDOUS DEVICES SCHOOL"
+  },
+  {
+    "scene": "uk009-080",
+    "start": 669.6,
+    "end": 678.9,
+    "asset_id": "hds2018",
+    "source_in": 50,
+    "role": null,
+    "caption": "HDS · ТРЕНУВАННЯ ВИБУХОТЕХНІКІВ"
+  },
+  {
+    "scene": "uk009-081",
+    "start": 678.9,
+    "end": 686.4333333333333,
+    "asset_id": "hds2018",
+    "source_in": 96,
+    "role": null,
+    "caption": "ПРАКТИЧНА ПІДГОТОВКА ВИБУХОТЕХНІКІВ"
+  },
+  {
+    "scene": "uk009-082",
+    "start": 686.4333333333333,
+    "end": 690.0333333333333,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "КРИМІНАЛІСТИ"
+  },
+  {
+    "scene": "uk009-083",
+    "start": 690.0333333333333,
+    "end": 704.8666666666667,
+    "asset_id": "ert2021",
+    "source_in": 36,
+    "role": null,
+    "caption": "ERT · ФІКСАЦІЯ МІСЦЯ ПОДІЇ"
+  },
+  {
+    "scene": "uk009-084",
+    "start": 704.8666666666667,
+    "end": 715.4333333333333,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "КОМПЛЕКТ КРИМІНАЛІСТА"
+  },
+  {
+    "scene": "uk009-085",
+    "start": 715.4333333333333,
+    "end": 728.0333333333333,
+    "asset_id": "ert2021",
+    "source_in": 88,
+    "role": null,
+    "caption": "МАРКУВАННЯ ТА ПАКУВАННЯ · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-086",
+    "start": 728.0333333333333,
+    "end": 739.0,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ЛАНЦЮГ ЗБЕРЕЖЕННЯ ДОКАЗІВ"
+  },
+  {
+    "scene": "uk009-087",
+    "start": 739.0,
+    "end": 747.7,
+    "asset_id": "ert2021",
+    "source_in": 125,
+    "role": null,
+    "caption": "КРИМІНАЛІСТИ · НАВЧАЛЬНИЙ МАЙДАНЧИК"
+  },
+  {
+    "scene": "uk009-088",
+    "start": 747.7,
+    "end": 754.6,
+    "asset_id": "ert2021",
+    "source_in": 140,
+    "role": null,
+    "caption": "МАРКУВАННЯ ДОКАЗІВ · НАВЧАННЯ"
+  },
+  {
+    "scene": "uk009-089",
+    "start": 754.6,
+    "end": 758.2,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ЛАБОРАТОРІЯ ФБР"
+  },
+  {
+    "scene": "uk009-090",
+    "start": 758.2,
+    "end": 765.0,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ЛАБОРАТОРІЯ ФБР"
+  },
+  {
+    "scene": "uk009-091",
+    "start": 765.0,
+    "end": 776.0,
+    "asset_id": "dna-lab-1",
+    "source_in": 0,
+    "role": null,
+    "caption": "ЗРАЗОК ДЛЯ ДНК-АНАЛІЗУ"
+  },
+  {
+    "scene": "uk009-092",
+    "start": 776.0,
+    "end": 786.4,
+    "asset_id": "lab-scenes",
+    "source_in": 13,
+    "role": null,
+    "caption": "ЛАБОРАТОРІЯ · 3D-РЕКОНСТРУКЦІЯ МІСЦЬ ПОДІЙ"
+  },
+  {
+    "scene": "uk009-093",
+    "start": 786.4,
+    "end": 796.3,
+    "asset_id": "dna-lab-2",
+    "source_in": 0,
+    "role": null,
+    "caption": "ЛАБОРАТОРНЕ ОБЛАДНАННЯ ФБР"
+  },
+  {
+    "scene": "uk009-094",
+    "start": 796.3,
+    "end": 805.8,
+    "asset_id": "lab-scenes",
+    "source_in": 87,
+    "role": null,
+    "caption": "ЛАБОРАТОРІЯ · ПРОСТОРОВЕ МОДЕЛЮВАННЯ"
+  },
+  {
+    "scene": "uk009-095",
+    "start": 805.8,
+    "end": 814.5333333333333,
+    "asset_id": "dna-lab-3",
+    "source_in": 0,
+    "role": null,
+    "caption": "ДОСЛІДЖЕННЯ ЗРАЗКІВ"
+  },
+  {
+    "scene": "uk009-096",
+    "start": 814.5333333333333,
+    "end": 818.1333333333333,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ЦИФРОВІ ДОКАЗИ"
+  },
+  {
+    "scene": "uk009-097",
+    "start": 818.1333333333333,
+    "end": 828.5,
+    "asset_id": "digital-360",
+    "source_in": 0,
+    "role": null,
+    "caption": "НОСІЇ ЦИФРОВИХ ДОКАЗІВ"
+  },
+  {
+    "scene": "uk009-098",
+    "start": 828.5,
+    "end": 838.5,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ЗБЕРЕГТИ ОРИГІНАЛ"
+  },
+  {
+    "scene": "uk009-099",
+    "start": 838.5,
+    "end": 849.5,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "БЛОКУВАЛЬНИК ЗАПИСУ"
+  },
+  {
+    "scene": "uk009-100",
+    "start": 849.5,
+    "end": 860.8,
+    "asset_id": "digital-360",
+    "source_in": 12,
+    "role": null,
+    "caption": "ДАНІ · ШИФРУВАННЯ · ТЕХНІЧНІ МЕЖІ"
+  },
+  {
+    "scene": "uk009-101",
+    "start": 860.8,
+    "end": 873.7,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "CODIS"
+  },
+  {
+    "scene": "uk009-102",
+    "start": 873.7,
+    "end": 888.6,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ЗБІГ — ПРИВІД ДЛЯ ПЕРЕВІРКИ"
+  },
+  {
+    "scene": "uk009-103",
+    "start": 888.6,
+    "end": 892.2,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ПІДГОТОВКА В КВАНТІКО"
+  },
+  {
+    "scene": "uk009-104",
+    "start": 892.2,
+    "end": 905.1,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "БАЗОВА ПІДГОТОВКА"
+  },
+  {
+    "scene": "uk009-105",
+    "start": 905.1,
+    "end": 919.4333333333333,
+    "asset_id": "classroom",
+    "source_in": 116.5,
+    "role": null,
+    "caption": "НАВЧАННЯ АГЕНТІВ І АНАЛІТИКІВ"
+  },
+  {
+    "scene": "uk009-106",
+    "start": 919.4333333333333,
+    "end": 929.6666666666666,
+    "asset_id": "hogans-alley-corner",
+    "source_in": 0,
+    "role": null,
+    "caption": "HOGAN’S ALLEY"
+  },
+  {
+    "scene": "uk009-107",
+    "start": 929.6666666666666,
+    "end": 938.7,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "HOGAN’S ALLEY"
+  },
+  {
+    "scene": "uk009-108",
+    "start": 938.7,
+    "end": 948.4,
+    "asset_id": "field-training",
+    "source_in": 24,
+    "role": null,
+    "caption": "HOGAN’S ALLEY · НАВЧАЛЬНА ОПЕРАЦІЯ"
+  },
+  {
+    "scene": "uk009-109",
+    "start": 948.4,
+    "end": 957.2,
+    "asset_id": "classroom",
+    "source_in": 1,
+    "role": "agent",
+    "caption": "ПІДГОТОВКА СПЕЦІАЛЬНИХ АГЕНТІВ"
+  },
+  {
+    "scene": "uk009-110",
+    "start": 957.2,
+    "end": 960.8,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "АРСЕНАЛ ФБР"
+  },
+  {
+    "scene": "uk009-111",
+    "start": 960.8,
+    "end": 969.4,
+    "asset_id": "range-training",
+    "source_in": 100,
+    "role": null,
+    "caption": "ЗБРОЯ ТА ПІДГОТОВКА"
+  },
+  {
+    "scene": "uk009-112",
+    "start": 969.4,
+    "end": 980.0,
+    "asset_id": "hrt-team",
+    "source_in": 0,
+    "role": "HRT",
+    "caption": "КОМАНДА HRT · СПОРЯДЖЕННЯ"
+  },
+  {
+    "scene": "uk009-113",
+    "start": 980.0,
+    "end": 989.5,
+    "asset_id": "bombtraining2025",
+    "source_in": 54,
+    "role": null,
+    "caption": "ТЕХНІКА ДЛЯ ЗБЕРЕЖЕННЯ ЖИТТЯ"
+  },
+  {
+    "scene": "uk009-114",
+    "start": 989.5,
+    "end": 1000.8333333333334,
+    "asset_id": "ert2021",
+    "source_in": 51,
+    "role": null,
+    "caption": "ДОКАЗИ ТА КРИМІНАЛІСТИКА"
+  },
+  {
+    "scene": "uk009-115",
+    "start": 1000.8333333333334,
+    "end": 1019.6,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ЩО ВАС ЗДИВУВАЛО НАЙБІЛЬШЕ?"
+  },
+  {
+    "scene": "uk009-116",
+    "start": 1019.6,
+    "end": 1024.0666666666666,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ПРО ЩО РОЗПОВІСТИ ДАЛІ?"
+  },
+  {
+    "scene": "uk009-117",
+    "start": 1024.0666666666666,
+    "end": 1033.3666666666666,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": "ПІДПИШІТЬСЯ НА КАНАЛ"
+  },
+  {
+    "scene": "uk009-118",
+    "start": 1033.3666666666666,
+    "end": 1039.2333333333333,
+    "asset_id": null,
+    "source_in": null,
+    "role": null,
+    "caption": ""
+  }
+]

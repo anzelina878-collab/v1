@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "method": "Extract actual ZIP into an independent directory, verify all selected media SHA-256, render seven different scene kinds using only extracted media, fonts and code",
+  "selected_asset_hashes_checked": 35,
+  "raw_mixamo_geometry_included": false,
+  "source_render_sha256": "9600514d19ae773eebe3af61960b3a5836ea9c069ee57b3d9c2d3055ca4cb037",
+  "samples": [
+    {
+      "kind": "turntable",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "archive",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "photo",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "graphic",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "section",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "ident",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "question",
+      "frames": 33,
+      "status": "passed"
+    }
+  ]
+}

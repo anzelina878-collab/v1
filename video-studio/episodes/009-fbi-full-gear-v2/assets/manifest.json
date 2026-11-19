@@ -1,0 +1,393 @@
+[
+  {
+    "id": "ar15-360",
+    "video": "assets/video/ar15-360.mp4",
+    "duration": 24.0,
+    "source_url": "https://opengameart.org/content/m4a1-assault-rifle",
+    "credit": "3D: nisu · CC0 · ілюстрація платформи AR-15",
+    "license": "CC0",
+    "motion_kind": "true_3d",
+    "native_frames": 720
+  },
+  {
+    "id": "bombsuit2025",
+    "video": "assets/video/bombsuit2025.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/hds-davidson-bombsuit-072325.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/hds-davidson-bombsuit-072325.mp4/@@download/file/hds-davidson-bombsuit-072325.mp4",
+    "duration": 65.566667,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; FBI-produced video; inspect for separately credited third-party segments",
+    "source_in_original": 0,
+    "usage_basis": "17 USC 105, FBI-produced official publication; retain source credit",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "bombtraining2025",
+    "video": "assets/video/bombtraining2025.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/hds-bomb-tech-training-072325a.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/hds-bomb-tech-training-072325a.mp4/@@download/file/hds-bomb-tech-training-072325a.mp4",
+    "duration": 83.966667,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; FBI-produced video; inspect for separately credited third-party segments",
+    "source_in_original": 0,
+    "usage_basis": "17 USC 105, FBI-produced official publication; retain source credit",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "classroom",
+    "video": "assets/video/classroom.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/becoming-an-agent-series-inside-the-classroom.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/becoming-an-agent-series-inside-the-classroom.mp4/@@download/file/becoming-an-agent-series-inside-the-classroom.mp4",
+    "duration": 136.2,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "digital-360",
+    "video": "assets/video/digital-360.mp4",
+    "duration": 24.0,
+    "source_url": "original:tools/build_digital_props.py",
+    "credit": "АРСЕНАЛ 360° · оригінальна 3D-ілюстрація",
+    "license": "Original project geometry; reusable",
+    "motion_kind": "true_3d",
+    "native_frames": 720
+  },
+  {
+    "id": "dna-lab-1",
+    "photo": "assets/photos/dna-lab-1.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/fbi-laboratory-eliminates-dna-processing-backlog",
+    "original_url": "https://www.fbi.gov/image-repository/fbi-laboratory-eliminates-dna-processing-backlog-1-093026.jpg/@@images/image/high",
+    "credit": "FBI · лабораторія, 2026 · Public domain",
+    "license": "17 USC 105 · first-party FBI laboratory photograph"
+  },
+  {
+    "id": "dna-lab-2",
+    "photo": "assets/photos/dna-lab-2.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/fbi-laboratory-eliminates-dna-processing-backlog",
+    "original_url": "https://www.fbi.gov/image-repository/fbi-laboratory-eliminates-dna-processing-backlog-2-093026.jpg/@@images/image/high",
+    "credit": "FBI · лабораторія, 2026 · Public domain",
+    "license": "17 USC 105 · first-party FBI laboratory photograph"
+  },
+  {
+    "id": "dna-lab-3",
+    "photo": "assets/photos/dna-lab-3.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/fbi-laboratory-eliminates-dna-processing-backlog",
+    "original_url": "https://www.fbi.gov/image-repository/fbi-laboratory-eliminates-dna-processing-backlog-3-093026.jpg/@@images/image/high",
+    "credit": "FBI · лабораторія, 2026 · Public domain",
+    "license": "17 USC 105 · first-party FBI laboratory photograph"
+  },
+  {
+    "id": "ert2021",
+    "video": "assets/video/ert2021.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/ert-training-final-072021.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/ert-training-final-072021.mp4/@@download/file/ert-training-final-072021.mp4",
+    "duration": 150.0,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; FBI-produced video; inspect for separately credited third-party segments",
+    "source_in_original": 0,
+    "usage_basis": "17 USC 105, FBI-produced official publication; retain source credit",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "fbi-expo",
+    "video": "assets/video/fbi-expo.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/fbi-expo-wfo.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/fbi-expo-wfo.mp4/@@download/file/FBI%20Expo%20WFO.mp4",
+    "duration": 22.4,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "fbi-glock-exhibit",
+    "photo": "assets/photos/fbi-glock-exhibit.png",
+    "source_url": "https://www.fbi.gov/video-repository/fbi-experience-brief-firearms-john-fox-081525.mp4/view",
+    "credit": "FBI · кадр експозиції, 2025 · Public domain",
+    "license": "17 USC 105",
+    "original_video_time": 50
+  },
+  {
+    "id": "field-training",
+    "video": "assets/video/field-training.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/becoming-an-agent-series-preparing-for-the-field.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/becoming-an-agent-series-preparing-for-the-field.mp4/@@download/file/becoming-an-agent-series-preparing-for-the-field.mp4",
+    "duration": 150.0,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "firearms-exhibit",
+    "video": "assets/video/firearms-exhibit.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/fbi-experience-brief-firearms-john-fox-081525.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/fbi-experience-brief-firearms-john-fox-081525.mp4/@@download/file/The%20FBI%20Experience%20Brief_%20Firearms%20(1).mp4",
+    "credit": "FBI · Public domain",
+    "license": "17 USC 105 · FBI production",
+    "duration": 80.233333
+  },
+  {
+    "id": "hds2018",
+    "video": "assets/video/hds2018.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/hds-training-010918.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/hds-training-010918.mp4/@@download/file/HDS-training-010918.mp4",
+    "duration": 136.633333,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; FBI-produced video; inspect for separately credited third-party segments",
+    "source_in_original": 0,
+    "usage_basis": "17 USC 105, FBI-produced official publication; retain source credit",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "hogans-alley-corner",
+    "photo": "assets/photos/hogans-alley-corner.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-corner.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ],
+    "license": "17 USC 105 · first-party FBI photograph"
+  },
+  {
+    "id": "hrt-mobility-team-diver",
+    "photo": "assets/photos/hrt-mobility-team-diver.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+    "original_url": "https://www.fbi.gov/image-repository/hrt-mobility-team-diver.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ],
+    "license": "17 USC 105 · first-party FBI photograph"
+  },
+  {
+    "id": "hrt-operator",
+    "photo": "assets/photos/hrt-operator.jpg",
+    "source_url": "https://www.fbi.gov/image-repository/hostage-rescue-team-training-120412.jpg/view",
+    "original_url": "https://www.fbi.gov/image-repository/hostage-rescue-team-training-120412.jpg/@@images/image/large",
+    "credit": "FBI · HRT · Public domain",
+    "license": "17 USC 105 · official FBI photograph",
+    "description": "Officially identified Hostage Rescue Team operator/training; real photograph, not generic SWAT model"
+  },
+  {
+    "id": "hrt-team",
+    "photo": "assets/photos/hrt-team.jpg",
+    "source_url": "https://www.fbi.gov/image-repository/hrt-training.jpeg/view",
+    "original_url": "https://www.fbi.gov/image-repository/hrt-training.jpeg/@@images/image/large",
+    "credit": "FBI · HRT · Public domain",
+    "license": "17 USC 105 · official FBI photograph",
+    "description": "Officially identified Hostage Rescue Team operator/training; real photograph, not generic SWAT model"
+  },
+  {
+    "id": "hrt-training-fast-rope-080519",
+    "photo": "assets/photos/hrt-training-fast-rope-080519.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+    "original_url": "https://www.fbi.gov/image-repository/hrt-training-fast-rope-080519.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ],
+    "license": "17 USC 105 · first-party FBI photograph"
+  },
+  {
+    "id": "hrt-water",
+    "video": "assets/video/hrt-water.mp4",
+    "source_url": "https://www.dvidshub.net/video/859915/fbi-hostage-rescue-team-training",
+    "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109257060/DOD_109257060.mp4",
+    "duration": 102.3,
+    "credit": "U.S. Air Force / Frank Rohrig · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "hrt2013",
+    "video": "assets/video/hrt2013.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/newss-hostage-rescue-team-marks-30-years/view",
+    "original_url": "https://www.fbi.gov/video-repository/newss-hostage-rescue-team-marks-30-years/@@download/file/newss-hostage-rescue-team-marks-30-years.mp4",
+    "duration": 150.0,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; FBI-produced video; inspect for separately credited third-party segments",
+    "source_in_original": 0,
+    "usage_basis": "17 USC 105, FBI-produced official publication; retain source credit",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "lab-scenes",
+    "video": "assets/video/lab-scenes.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/opu-lab-093025.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/opu-lab-093025.mp4/@@download/file/opu-lab-093025.mp4",
+    "duration": 150.0,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "operator-360",
+    "video": "assets/video/operator-360.mp4",
+    "duration": 24.0,
+    "source_url": "https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html",
+    "credit": "3D: Adobe Mixamo · типове спорядження",
+    "license": "Royalty-free rendered film. Raw model and derived geometry NOT redistributed.",
+    "motion_kind": "true_3d",
+    "native_frames": 720
+  },
+  {
+    "id": "range-training",
+    "video": "assets/video/range-training.mp4",
+    "duration": 119.133333,
+    "source_url": "https://www.fbi.gov/video-repository/becoming-an-agent-series-firearms-training.mp4/view",
+    "credit": "FBI · Public domain",
+    "license": "17 USC 105 · first-party FBI production"
+  },
+  {
+    "id": "stolen-wfo-gun-lock-box-jpg",
+    "photo": "assets/photos/stolen-wfo-gun-lock-box-jpg.jpg",
+    "source_url": "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases/fbi-offers-up-to-10000-reward-to-recover-stolen-weapons/layout_view",
+    "original_url": "https://www.fbi.gov/image-repository/stolen-wfo-gun-lock-box.jpg/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of items stolen from an FBI agent's car in Washington, D.C. on July 10, 2016. Among the stolen items was a TruckVault gun lock box.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "stolen-wfo-holster-for-glock-22-handgun-jpg",
+    "photo": "assets/photos/stolen-wfo-holster-for-glock-22-handgun-jpg.jpg",
+    "source_url": "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases/fbi-offers-up-to-10000-reward-to-recover-stolen-weapons/layout_view",
+    "original_url": "https://www.fbi.gov/image-repository/stolen-wfo-holster-for-glock-22-handgun.jpg/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of items stolen from an FBI agent's car in Washington, D.C. on July 10, 2016. Among the stolen items was a holster for a Glock-22 handgun.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "stolen-wfo-motorola-radio-apx-7000-jpg",
+    "photo": "assets/photos/stolen-wfo-motorola-radio-apx-7000-jpg.jpg",
+    "source_url": "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases/fbi-offers-up-to-10000-reward-to-recover-stolen-weapons/layout_view",
+    "original_url": "https://www.fbi.gov/image-repository/stolen-wfo-motorola-radio-apx-7000.jpg/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of items stolen from an FBI agent's car in Washington, D.C. on July 10, 2016. Among the stolen items was a Motorola radio APX-7000, Serial Number 655CLT044.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "stolen-wfo-rock-river-arms-rifle-jpg",
+    "photo": "assets/photos/stolen-wfo-rock-river-arms-rifle-jpg.jpg",
+    "source_url": "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases/fbi-offers-up-to-10000-reward-to-recover-stolen-weapons/layout_view",
+    "original_url": "https://www.fbi.gov/image-repository/stolen-wfo-rock-river-arms-rifle.jpg/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of items stolen from an FBI agent's car in Washington, D.C. on July 10, 2016. Among the stolen items was a Rock River Arms Rifle, LAR-15, Serial Number CM156996.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-operator-female-png",
+    "photo": "assets/photos/swat-operator-female-png.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-operator-female.png/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "FBI personnel and SWAT operators in Pre-Dawn Preparations",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-operator-hands-doors-blur-jpg",
+    "photo": "assets/photos/swat-operator-hands-doors-blur-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-operator-hands-doors-blur.jpg/@@images/image",
+    "credit": "FBI · Public domain",
+    "description": "FBI SWAT Operator",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-operator-truck-blur-jpg",
+    "photo": "assets/photos/swat-operator-truck-blur-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-operator-truck-blur.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "SWAT Operator in Personnel Carrier",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-pr-training-2021-jpg",
+    "photo": "assets/photos/swat-pr-training-2021-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-pr-training-2021.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "FBI SWAT training in Puerto Rico",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-weapon-la-png",
+    "photo": "assets/photos/swat-weapon-la-png.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-weapon-la.png/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "SWAT Operator With Weapon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "wall-of-honor",
+    "photo": "assets/photos/wall-of-honor.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/fatal-firefight-in-miami",
+    "original_url": "https://www.fbi.gov/image-repository/wall-of-honor/grogan-dove.png/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "Miami FBI Special Agents Benjamin Grogan, left, and Jerry Dove were killed in a firefight on April 11, 1986 just outside the city of Miami.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "zodiac-surf-jump",
+    "photo": "assets/photos/zodiac-surf-jump.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+    "original_url": "https://www.fbi.gov/image-repository/zodiac-surf-jump.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ],
+    "license": "17 USC 105 · first-party FBI photograph"
+  }
+]
