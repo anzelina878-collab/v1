@@ -1,0 +1,21 @@
+{
+  "language": "hi",
+  "duration": 1391.5,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "files": [
+    {
+      "name": "final_video_hi_v1.mp4",
+      "repo_path": "video-studio/episodes/006-india-pakistan-hi/output/final_video_hi_v1.mp4",
+      "bytes": 197529783,
+      "sha256": "01c5f28a48007c1c4a052afa1b692fa9652506c46cb1ce159153cc1cc9f84c65"
+    },
+    {
+      "name": "project_source_hi_v1.zip",
+      "repo_path": "video-studio/episodes/006-india-pakistan-hi/output/project_source_hi_v1.zip",
+      "bytes": 576536032,
+      "sha256": "3bb3225045f02b383f7dbb2ef185c5d1776d081dbd6e9295876f6421a338d912"
+    }
+  ]
+}
