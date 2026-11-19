@@ -1,0 +1,396 @@
+[
+  {
+    "id": "hds2018",
+    "video": "assets/video/hds2018.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/hds-training-010918.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/hds-training-010918.mp4/@@download/file/HDS-training-010918.mp4",
+    "duration": 136.633333,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; FBI-produced video; inspect for separately credited third-party segments",
+    "source_in_original": 0,
+    "usage_basis": "17 USC 105, FBI-produced official publication; retain source credit",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "ert2021",
+    "video": "assets/video/ert2021.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/ert-training-final-072021.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/ert-training-final-072021.mp4/@@download/file/ert-training-final-072021.mp4",
+    "duration": 150.0,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; FBI-produced video; inspect for separately credited third-party segments",
+    "source_in_original": 0,
+    "usage_basis": "17 USC 105, FBI-produced official publication; retain source credit",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "bombsuit2025",
+    "video": "assets/video/bombsuit2025.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/hds-davidson-bombsuit-072325.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/hds-davidson-bombsuit-072325.mp4/@@download/file/hds-davidson-bombsuit-072325.mp4",
+    "duration": 65.566667,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; FBI-produced video; inspect for separately credited third-party segments",
+    "source_in_original": 0,
+    "usage_basis": "17 USC 105, FBI-produced official publication; retain source credit",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "bombtraining2025",
+    "video": "assets/video/bombtraining2025.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/hds-bomb-tech-training-072325a.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/hds-bomb-tech-training-072325a.mp4/@@download/file/hds-bomb-tech-training-072325a.mp4",
+    "duration": 83.966667,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; FBI-produced video; inspect for separately credited third-party segments",
+    "source_in_original": 0,
+    "usage_basis": "17 USC 105, FBI-produced official publication; retain source credit",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "hrt2013",
+    "video": "assets/video/hrt2013.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/newss-hostage-rescue-team-marks-30-years/view",
+    "original_url": "https://www.fbi.gov/video-repository/newss-hostage-rescue-team-marks-30-years/@@download/file/newss-hostage-rescue-team-marks-30-years.mp4",
+    "duration": 150.0,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; FBI-produced video; inspect for separately credited third-party segments",
+    "source_in_original": 0,
+    "usage_basis": "17 USC 105, FBI-produced official publication; retain source credit",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "stolen-wfo-rock-river-arms-rifle-jpg",
+    "photo": "assets/photos/stolen-wfo-rock-river-arms-rifle-jpg.jpg",
+    "source_url": "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases/fbi-offers-up-to-10000-reward-to-recover-stolen-weapons/layout_view",
+    "original_url": "https://www.fbi.gov/image-repository/stolen-wfo-rock-river-arms-rifle.jpg/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of items stolen from an FBI agent's car in Washington, D.C. on July 10, 2016. Among the stolen items was a Rock River Arms Rifle, LAR-15, Serial Number CM156996.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "stolen-wfo-glock-22-handgun-jpg",
+    "photo": "assets/photos/stolen-wfo-glock-22-handgun-jpg.jpg",
+    "source_url": "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases/fbi-offers-up-to-10000-reward-to-recover-stolen-weapons/layout_view",
+    "original_url": "https://www.fbi.gov/image-repository/stolen-wfo-glock-22-handgun.jpg/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of items stolen from an FBI agent's car in Washington, D.C. on July 10, 2016. Among the stolen items was a Glock-22 handgun .40 caliber, Serial Number RYE448.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "stolen-wfo-motorola-radio-apx-7000-jpg",
+    "photo": "assets/photos/stolen-wfo-motorola-radio-apx-7000-jpg.jpg",
+    "source_url": "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases/fbi-offers-up-to-10000-reward-to-recover-stolen-weapons/layout_view",
+    "original_url": "https://www.fbi.gov/image-repository/stolen-wfo-motorola-radio-apx-7000.jpg/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of items stolen from an FBI agent's car in Washington, D.C. on July 10, 2016. Among the stolen items was a Motorola radio APX-7000, Serial Number 655CLT044.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "stolen-wfo-holster-for-glock-22-handgun-jpg",
+    "photo": "assets/photos/stolen-wfo-holster-for-glock-22-handgun-jpg.jpg",
+    "source_url": "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases/fbi-offers-up-to-10000-reward-to-recover-stolen-weapons/layout_view",
+    "original_url": "https://www.fbi.gov/image-repository/stolen-wfo-holster-for-glock-22-handgun.jpg/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of items stolen from an FBI agent's car in Washington, D.C. on July 10, 2016. Among the stolen items was a holster for a Glock-22 handgun.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "stolen-wfo-gun-lock-box-jpg",
+    "photo": "assets/photos/stolen-wfo-gun-lock-box-jpg.jpg",
+    "source_url": "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases/fbi-offers-up-to-10000-reward-to-recover-stolen-weapons/layout_view",
+    "original_url": "https://www.fbi.gov/image-repository/stolen-wfo-gun-lock-box.jpg/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of items stolen from an FBI agent's car in Washington, D.C. on July 10, 2016. Among the stolen items was a TruckVault gun lock box.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "wall-of-honor",
+    "photo": "assets/photos/wall-of-honor.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/fatal-firefight-in-miami",
+    "original_url": "https://www.fbi.gov/image-repository/wall-of-honor/grogan-dove.png/@@images/image/large",
+    "credit": "FBI · Public domain",
+    "description": "Miami FBI Special Agents Benjamin Grogan, left, and Jerry Dove were killed in a firefight on April 11, 1986 just outside the city of Miami.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-operator-hands-doors-blur-jpg",
+    "photo": "assets/photos/swat-operator-hands-doors-blur-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-operator-hands-doors-blur.jpg/@@images/image",
+    "credit": "FBI · Public domain",
+    "description": "FBI SWAT Operator",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-quantico-shoothouse-1991-jpg",
+    "photo": "assets/photos/swat-quantico-shoothouse-1991-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-quantico-shoothouse-1991.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "FBI SWAT in Shoothouse in Quantico in 1991.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-waco-van-1993-jpg",
+    "photo": "assets/photos/swat-waco-van-1993-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-waco-van-1993.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "FBI SWAT in van in 1993",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-helicopter-rope-1974-jpg",
+    "photo": "assets/photos/swat-helicopter-rope-1974-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-helicopter-rope-1974.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "FBI SWAT rappelling from helicopter in 1974",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "bailey-jpg",
+    "photo": "assets/photos/bailey-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/bailey.jpg/@@images/25ef7144-0dd5-4987-a088-c8dfea755246.jpeg",
+    "credit": "FBI · Public domain",
+    "description": "Tase Bailey With Play Icon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "parkerson-jpg",
+    "photo": "assets/photos/parkerson-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/parkerson.jpg/@@images/169fd4ea-bdf6-449d-9297-5bc55166e859.jpeg",
+    "credit": "FBI · Public domain",
+    "description": "Kenneth Parkerson With Play Icon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "tidwell-jpg",
+    "photo": "assets/photos/tidwell-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/tidwell.jpg/@@images/855760e3-fc31-4584-8df6-5b47dee8f35d.jpeg",
+    "credit": "FBI · Public domain",
+    "description": "Steve Tidwell With Play Icon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "horn-jpg",
+    "photo": "assets/photos/horn-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/horn.jpg/@@images/ce702ebb-8939-43d2-947b-46321a4f0072.jpeg",
+    "credit": "FBI · Public domain",
+    "description": "Jim Horn With Play Icon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "foster-jpg",
+    "photo": "assets/photos/foster-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/foster.jpg/@@images/5fd398a8-8550-4f46-92ab-99074d2ad38e.jpeg",
+    "credit": "FBI · Public domain",
+    "description": "Bob Foster With Play Icon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "huggins-jpg",
+    "photo": "assets/photos/huggins-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/huggins.jpg/@@images/9e1111f2-1c45-4157-802a-3c17d921457a.jpeg",
+    "credit": "FBI · Public domain",
+    "description": "Jim Huggins With Play Icon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "tom-jpg",
+    "photo": "assets/photos/tom-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/tom.jpg/@@images/85ab6d33-edaf-473f-b27c-f5660d9763c3.jpeg",
+    "credit": "FBI · Public domain",
+    "description": "Tom Linn-Lim With Play Icon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "kirchner-jpg",
+    "photo": "assets/photos/kirchner-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/kirchner.jpg/@@images/64f8880e-23e3-4e64-b6fb-f05be1db66f1.jpeg",
+    "credit": "FBI · Public domain",
+    "description": "Dave Kirchner With Play Icon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "jerome-jpg",
+    "photo": "assets/photos/jerome-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/jerome.jpg/@@images/bf57c1f2-196f-440b-be0a-2dc02b892754.jpeg",
+    "credit": "FBI · Public domain",
+    "description": "Brian Jerome With Play Icon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "spider-one-1973-jpg",
+    "photo": "assets/photos/spider-one-1973-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/spider-one-1973.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "SWAT operators (highlighted from left) Roger DePue, Ken Parkerson, Jim Horn, Tase Bailey, Jim Huggins, and D. Michael Griffith in 1973. The six members attended a Society of Former Special Agents of the FBI event last summer in Lexington, Kentucky.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "spider-one-2023-jpg",
+    "photo": "assets/photos/spider-one-2023-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/spider-one-2023.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "SWAT operators Tase Bailey, Roger DePue, Jim Huggins, Jim Horn, and Ken Parkerson during a Society of Former Agents of the FBI gathering in 2023 in Lexington, Kentucky. The first SWAT teams called themselves Spider One.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-haertel-2023-jpg",
+    "photo": "assets/photos/swat-haertel-2023-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-haertel-2023.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "CIRG Assistant Director Paul Haertel speaks on a panel in September 2023 in Lexington, Kentucky, about the 50th anniversary of SWAT.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-maritime-portland-2006-jpg",
+    "photo": "assets/photos/swat-maritime-portland-2006-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-maritime-portland-2006.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "FBI SWAT maritime exercise.",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-pr-training-2021-jpg",
+    "photo": "assets/photos/swat-pr-training-2021-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-pr-training-2021.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "FBI SWAT training in Puerto Rico",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-operator-female-png",
+    "photo": "assets/photos/swat-operator-female-png.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-operator-female.png/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "FBI personnel and SWAT operators in Pre-Dawn Preparations",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-weapon-la-png",
+    "photo": "assets/photos/swat-weapon-la-png.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-weapon-la.png/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "SWAT Operator With Weapon",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "swat-operator-truck-blur-jpg",
+    "photo": "assets/photos/swat-operator-truck-blur-jpg.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/swat-at-50-fbi-tactical-teams-evolve-to-meet-threats",
+    "original_url": "https://www.fbi.gov/image-repository/swat-operator-truck-blur.jpg/@@images/image/high",
+    "credit": "FBI · Public domain",
+    "description": "SWAT Operator in Personnel Carrier",
+    "license": "US federal government work; verify image-specific attribution",
+    "kind": [
+      "real_photo"
+    ]
+  }
+]

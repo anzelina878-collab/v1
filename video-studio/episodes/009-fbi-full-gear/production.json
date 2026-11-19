@@ -1,0 +1,21 @@
+{
+  "state": "technically_verified",
+  "language": "uk",
+  "channel": "АРСЕНАЛ 360°",
+  "scope": "Visual production of FBI gear film using supplied Ukrainian narration; previous films preserved.",
+  "audio_supplied": true,
+  "audio_seconds": 1039.224,
+  "audio_unchanged": true,
+  "video_rendered": true,
+  "style": "Approved light studio; official FBI archives, real photos, slow actual 3D; short chapter cards reveal once and hold.",
+  "scene_count": 119,
+  "ai_video_seconds": 0,
+  "ai_photo_seconds": 0,
+  "continuous_human_watch_and_listen": false,
+  "video_duration": 1039.2333333333333,
+  "frames": 31177,
+  "video_sha256": "ca303798686be4bbd7900d772f31ee0b01a4450c3d068e8f933244ad96847d25",
+  "video_bytes": 184693173,
+  "portable_project_verified": true,
+  "editorial_review": "All 119 scenes sampled through decoded contact sheets; relevant narration/source intervals reviewed; not a continuous human watch/listen"
+}

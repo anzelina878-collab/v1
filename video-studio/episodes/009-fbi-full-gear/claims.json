@@ -1,0 +1,108 @@
+{
+  "checked_on": "2026-11-19",
+  "claims": [
+    {
+      "id": "field-offices",
+      "text": "У поточному переліку ФБР — 55 регіональних управлінь.",
+      "source_url": "https://www.fbi.gov/contact-us/field-offices",
+      "status": "current_verified"
+    },
+    {
+      "id": "training",
+      "text": "Актуальний опис BFTC: приблизно 18 тижнів; FBIJobs вказує 850 годин.",
+      "source_url": "https://www.fbijobs.gov/special-agents/",
+      "status": "current_verified"
+    },
+    {
+      "id": "glocks",
+      "text": "Документ RFP-DSU0001921, 2021, сторінка 6: службові 9mm боєприпаси для Glock 19M/17M. Це датоване підтвердження, а не повний штатний перелік на 2026 рік.",
+      "source_url": "https://imlive.s3.amazonaws.com/Federal%20Government/ID268006743693655605948290978552729038925/9mm%20RFP%20-%20FINAL%2004212021.pdf",
+      "status": "primary_document_mirror_verified"
+    },
+    {
+      "id": "miami",
+      "text": "11 квітня 1986 року загинули два агенти. ФБР пов’язує подальші зміни озброєння, бронезахисту та підготовки з цією подією.",
+      "source_url": "https://www.fbi.gov/news/stories/fatal-firefight-in-miami",
+      "status": "historical_verified"
+    },
+    {
+      "id": "lar15-radio",
+      "text": "Публікація ФБР 2016 року документує LAR-15, Glock 22, радіостанцію Motorola APX-7000 та автомобільний сейф. Не видавати цей комплект за універсальний сучасний стандарт.",
+      "source_url": "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases/fbi-offers-up-to-10000-reward-to-recover-stolen-weapons/layout_view",
+      "status": "historical_verified"
+    },
+    {
+      "id": "mp5",
+      "text": "У повідомленні ФБР 2017 року прямо згадано H&K MP5 калібру 10 мм.",
+      "source_url": "https://www.fbi.gov/contact-us/field-offices/sanfrancisco/news/press-releases/fbi-seeks-public-assistance-in-recovery-of-stolen-firearm",
+      "status": "historical_verified"
+    },
+    {
+      "id": "armor",
+      "text": "Захист броні залежить від випробуваної моделі та загрози; м’яка броня не є універсальним захистом від гвинтівкових куль.",
+      "source_url": "https://nij.ojp.gov/library/publications/ballistic-resistance-body-armor-nij-standard-010107",
+      "status": "verified"
+    },
+    {
+      "id": "swat",
+      "text": "Офіційний розділ Tactics описує SWAT, пістолети, гвинтівки та рушниці.",
+      "source_url": "https://www.fbi.gov/investigate/how-we-investigate/tactics",
+      "status": "verified"
+    },
+    {
+      "id": "hrt",
+      "text": "HRT створено у 1983 році; постійний спеціалізований підрозділ для надзвичайних загроз і звільнення заручників.",
+      "source_url": "https://www.fbi.gov/news/stories/the-hostage-rescue-team-30-years-of-service-2",
+      "status": "historical_verified"
+    },
+    {
+      "id": "mobility",
+      "text": "Офіційні матеріали HRT документують човни, позашляхову техніку та взаємодію з вертольотами.",
+      "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+      "status": "verified"
+    },
+    {
+      "id": "eod",
+      "text": "Hazardous Devices School засновано у 1971 році; школа у Huntsville навчає спеціалістів, використовує роботи й рентгенівське обладнання.",
+      "source_url": "https://www.fbi.gov/news/stories/hazardous-devices-school",
+      "status": "verified"
+    },
+    {
+      "id": "ert",
+      "text": "Evidence Response Teams навчаються документувати місця подій, збирати та пакувати докази.",
+      "source_url": "https://www.fbi.gov/news/stories/evidence-response-team-basic-course-100521",
+      "status": "verified"
+    },
+    {
+      "id": "lab",
+      "text": "Лабораторію ФБР засновано у 1932 році; спеціалізовані експертизи ДНК, відбитків та матеріалів.",
+      "source_url": "https://www.fbi.gov/how-we-investigate/laboratory-division",
+      "status": "verified"
+    },
+    {
+      "id": "digital",
+      "text": "NIST описує блокатори запису та перевірку інструментів копіювання; жодної гарантії зламу будь-якого телефона.",
+      "source_url": "https://www.nist.gov/news-events/news/2017/12/new-nist-forensic-tests-help-ensure-high-quality-copies-digital-evidence",
+      "status": "verified"
+    },
+    {
+      "id": "codis",
+      "text": "CODIS порівнює профілі та формує слідчі зачіпки; збіг не дорівнює встановленню вини.",
+      "source_url": "https://le.fbi.gov/science-and-lab/biometrics-and-fingerprints/codis-2",
+      "status": "verified"
+    },
+    {
+      "id": "hogans",
+      "text": "Hogan’s Alley — навчальне містечко, офіційно засноване у 1987 році.",
+      "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+      "status": "historical_verified"
+    }
+  ],
+  "excluded": [
+    "Universal kit weights 2/12/25/40 kg",
+    "Current headcount and agent counts without dated confirmation",
+    "Claim that every agent has the same weapons or optics",
+    "Unverified current HRT model inventory",
+    "Competitor wording and bank-opening structure"
+  ]
+}

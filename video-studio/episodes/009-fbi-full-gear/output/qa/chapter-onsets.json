@@ -1,0 +1,90 @@
+{
+  "status": "passed",
+  "method": "At each hand-reviewed audio cue, compare decoded final title region to its fully revealed intended plate.",
+  "chapters": [
+    {
+      "title": "СПОРЯДЖЕННЯ АГЕНТА",
+      "spoken_start": 68.94,
+      "card_start": 68.13333333333334,
+      "fully_visible_title_area_mae": 1.3613086419753087
+    },
+    {
+      "title": "ПІСТОЛЕТИ ФБР",
+      "spoken_start": 130.38,
+      "card_start": 129.56666666666666,
+      "fully_visible_title_area_mae": 1.3534814814814815
+    },
+    {
+      "title": "ПЕРЕСТРІЛКА В МАЯМІ",
+      "spoken_start": 201.8,
+      "card_start": 201.0,
+      "fully_visible_title_area_mae": 1.3109382716049383
+    },
+    {
+      "title": "ДОВГОСТВОЛЬНА ЗБРОЯ",
+      "spoken_start": 264.58,
+      "card_start": 263.76666666666665,
+      "fully_visible_title_area_mae": 1.3520493827160494
+    },
+    {
+      "title": "БРОНЕЗАХИСТ",
+      "spoken_start": 336.26,
+      "card_start": 335.46666666666664,
+      "fully_visible_title_area_mae": 1.330395061728395
+    },
+    {
+      "title": "SWAT ФБР",
+      "spoken_start": 402.36,
+      "card_start": 401.56666666666666,
+      "fully_visible_title_area_mae": 1.3261234567901234
+    },
+    {
+      "title": "СПЕЦПІДРОЗДІЛ HRT",
+      "spoken_start": 474.78,
+      "card_start": 473.96666666666664,
+      "fully_visible_title_area_mae": 1.3355555555555556
+    },
+    {
+      "title": "ТРАНСПОРТ ФБР",
+      "spoken_start": 548.54,
+      "card_start": 547.7333333333333,
+      "fully_visible_title_area_mae": 1.3271604938271604
+    },
+    {
+      "title": "ВИБУХОТЕХНІКИ",
+      "spoken_start": 620.14,
+      "card_start": 619.3333333333334,
+      "fully_visible_title_area_mae": 1.3307160493827161
+    },
+    {
+      "title": "КРИМІНАЛІСТИ",
+      "spoken_start": 687.22,
+      "card_start": 686.4333333333333,
+      "fully_visible_title_area_mae": 1.3340493827160493
+    },
+    {
+      "title": "ЛАБОРАТОРІЯ ФБР",
+      "spoken_start": 755.39,
+      "card_start": 754.6,
+      "fully_visible_title_area_mae": 1.3396296296296297
+    },
+    {
+      "title": "ЦИФРОВІ ДОКАЗИ",
+      "spoken_start": 815.33,
+      "card_start": 814.5333333333333,
+      "fully_visible_title_area_mae": 1.3378765432098765
+    },
+    {
+      "title": "ПІДГОТОВКА В КВАНТІКО",
+      "spoken_start": 889.39,
+      "card_start": 888.6,
+      "fully_visible_title_area_mae": 1.3922962962962964
+    },
+    {
+      "title": "АРСЕНАЛ ФБР",
+      "spoken_start": 958.01,
+      "card_start": 957.2,
+      "fully_visible_title_area_mae": 1.315925925925926
+    }
+  ]
+}

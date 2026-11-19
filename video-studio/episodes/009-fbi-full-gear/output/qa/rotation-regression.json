@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "scene": "uk009-021",
+  "source_in": 17,
+  "original_failure_mae": 4.3640586419753085,
+  "method": "Four actual encoded poses spanning the 24-second cycle boundary",
+  "samples": [
+    {
+      "local_time": 6.7,
+      "bank_time": 23.7,
+      "mae": 0.12531635802469135
+    },
+    {
+      "local_time": 7.1,
+      "bank_time": 0.10000000000000142,
+      "mae": 0.13354166666666667
+    },
+    {
+      "local_time": 7.395,
+      "bank_time": 0.3949999999999996,
+      "mae": 0.13660493827160494
+    },
+    {
+      "local_time": 8.4,
+      "bank_time": 1.3999999999999986,
+      "mae": 0.10228395061728394
+    }
+  ]
+}

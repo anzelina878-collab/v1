@@ -1,0 +1,1660 @@
+[
+  {
+    "scene": "uk009-000",
+    "narration_interval": [
+      0.0,
+      3.066666666666667
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "ФБР · ТРИ РІЗНІ РОЛІ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-001",
+    "narration_interval": [
+      3.066666666666667,
+      9.733333333333333
+    ],
+    "asset": "field-training",
+    "source_interval": [
+      4.2,
+      10.866666666666667
+    ],
+    "visual_role": "АГЕНТИ ФБР · НАВЧАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-002",
+    "narration_interval": [
+      9.733333333333333,
+      16.433333333333334
+    ],
+    "asset": "ert2021",
+    "source_interval": [
+      29,
+      35.7
+    ],
+    "visual_role": "КРИМІНАЛІСТИ · ERT",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-003",
+    "narration_interval": [
+      16.433333333333334,
+      22.3
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "СПОРЯДЖЕННЯ СПЕЦПІДРОЗДІЛУ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-004",
+    "narration_interval": [
+      22.3,
+      27.6
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "FBI",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-005",
+    "narration_interval": [
+      27.6,
+      33.733333333333334
+    ],
+    "asset": "field-training",
+    "source_interval": [
+      42,
+      48.13333333333333
+    ],
+    "visual_role": "РОБОТА КОМАНДИ · НАВЧАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-006",
+    "narration_interval": [
+      33.733333333333334,
+      38.4
+    ],
+    "asset": "firearms-exhibit",
+    "source_interval": [
+      49,
+      53.666666666666664
+    ],
+    "visual_role": "СЛУЖБОВИЙ ПІСТОЛЕТ · ЕКСПОЗИЦІЯ ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-007",
+    "narration_interval": [
+      38.4,
+      42.46666666666667
+    ],
+    "asset": "ar15-360",
+    "source_interval": null,
+    "visual_role": "ПЛАТФОРМА AR-15",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-008",
+    "narration_interval": [
+      42.46666666666667,
+      48.36666666666667
+    ],
+    "asset": "hrt2013",
+    "source_interval": [
+      52,
+      57.9
+    ],
+    "visual_role": "HRT · ТРЕНУВАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-009",
+    "narration_interval": [
+      48.36666666666667,
+      52.1
+    ],
+    "asset": "bombtraining2025",
+    "source_interval": [
+      1,
+      4.733333333333333
+    ],
+    "visual_role": "ВИБУХОТЕХНІЧНИЙ РОБОТ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-010",
+    "narration_interval": [
+      52.1,
+      55.3
+    ],
+    "asset": "hrt-water",
+    "source_interval": [
+      11.5,
+      14.7
+    ],
+    "visual_role": "СПІЛЬНІ НАВЧАННЯ HRT",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-011",
+    "narration_interval": [
+      55.3,
+      60.266666666666666
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "ВІД АГЕНТА ДО СПЕЦПІДРОЗДІЛУ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-012",
+    "narration_interval": [
+      60.266666666666666,
+      64.46666666666667
+    ],
+    "asset": "ert2021",
+    "source_interval": [
+      91.5,
+      95.7
+    ],
+    "visual_role": "ФІКСАЦІЯ ДОКАЗІВ · НАВЧАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-013",
+    "narration_interval": [
+      64.46666666666667,
+      68.13333333333334
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "ident"
+  },
+  {
+    "scene": "uk009-014",
+    "narration_interval": [
+      68.13333333333334,
+      71.73333333333333
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "СПОРЯДЖЕННЯ АГЕНТА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-015",
+    "narration_interval": [
+      71.73333333333333,
+      76.0
+    ],
+    "asset": "classroom",
+    "source_interval": [
+      2,
+      6.266666666666667
+    ],
+    "visual_role": "АГЕНТИ ТА АНАЛІТИКИ · КВАНТІКО",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-016",
+    "narration_interval": [
+      76.0,
+      82.3
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "РІЗНІ ЗАВДАННЯ — РІЗНЕ СПОРЯДЖЕННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-017",
+    "narration_interval": [
+      82.3,
+      90.0
+    ],
+    "asset": "field-training",
+    "source_interval": [
+      110,
+      117.7
+    ],
+    "visual_role": "БАЗОВА ПІДГОТОВКА АГЕНТІВ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-018",
+    "narration_interval": [
+      90.0,
+      97.1
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "БАЗОВИЙ КОМПЛЕКТ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-019",
+    "narration_interval": [
+      97.1,
+      104.5
+    ],
+    "asset": "stolen-wfo-motorola-radio-apx-7000-jpg",
+    "source_interval": null,
+    "visual_role": "MOTOROLA APX-7000",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-020",
+    "narration_interval": [
+      104.5,
+      113.4
+    ],
+    "asset": "field-training",
+    "source_interval": [
+      134,
+      142.9
+    ],
+    "visual_role": "ЗВИЧАЙНИЙ ОДЯГ · НАВЧАЛЬНА ОПЕРАЦІЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-021",
+    "narration_interval": [
+      113.4,
+      122.1
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "ЗАХИСТ ДЛЯ КОНКРЕТНОГО ЗАВДАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-022",
+    "narration_interval": [
+      122.1,
+      129.56666666666666
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "КОМПЛЕКТ ВИЗНАЧАЄ ЗАВДАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-023",
+    "narration_interval": [
+      129.56666666666666,
+      133.16666666666666
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ПІСТОЛЕТИ ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-024",
+    "narration_interval": [
+      133.16666666666666,
+      139.7
+    ],
+    "asset": "fbi-glock-exhibit",
+    "source_interval": null,
+    "visual_role": "СЛУЖБОВИЙ ПІСТОЛЕТ · ЕКСПОЗИЦІЯ ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-025",
+    "narration_interval": [
+      139.7,
+      151.13333333333333
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "GLOCK 19M / GLOCK 17M",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-026",
+    "narration_interval": [
+      151.13333333333333,
+      159.96666666666667
+    ],
+    "asset": "fbi-glock-exhibit",
+    "source_interval": null,
+    "visual_role": "GLOCK · ЕКСПОЗИЦІЯ ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-027",
+    "narration_interval": [
+      159.96666666666667,
+      171.2
+    ],
+    "asset": "range-training",
+    "source_interval": [
+      29,
+      40.233333333333334
+    ],
+    "visual_role": "ВОГНЕВА ПІДГОТОВКА АГЕНТІВ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-028",
+    "narration_interval": [
+      171.2,
+      182.36666666666667
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "СЛУЖБОВИЙ ПІСТОЛЕТ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-029",
+    "narration_interval": [
+      182.36666666666667,
+      191.8
+    ],
+    "asset": "fbi-glock-exhibit",
+    "source_interval": null,
+    "visual_role": "КОЛІМАТОР І ЛІХТАР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-030",
+    "narration_interval": [
+      191.8,
+      201.0
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "ІНДИВІДУАЛЬНИЙ КОМПЛЕКТ СПОРЯДЖЕННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-031",
+    "narration_interval": [
+      201.0,
+      204.6
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ПЕРЕСТРІЛКА В МАЯМІ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-032",
+    "narration_interval": [
+      204.6,
+      212.06666666666666
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "11 КВІТНЯ 1986",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-033",
+    "narration_interval": [
+      212.06666666666666,
+      223.06666666666666
+    ],
+    "asset": "wall-of-honor",
+    "source_interval": null,
+    "visual_role": "БЕН ГРОГАН І ДЖЕРРІ ДАВ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-034",
+    "narration_interval": [
+      223.06666666666666,
+      233.7
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "ОЗБРОЄННЯ · ЗАХИСТ · ПІДГОТОВКА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-035",
+    "narration_interval": [
+      233.7,
+      245.03333333333333
+    ],
+    "asset": "range-training",
+    "source_interval": [
+      3,
+      14.333333333333334
+    ],
+    "visual_role": "ВОГНЕВА ПІДГОТОВКА · КВАНТІКО",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-036",
+    "narration_interval": [
+      245.03333333333333,
+      254.9
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "СПОРЯДЖЕННЯ ПРАЦЮЄ ЯК СИСТЕМА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-037",
+    "narration_interval": [
+      254.9,
+      263.76666666666665
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "БЕЗПЕКА — ЦЕ СИСТЕМА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-038",
+    "narration_interval": [
+      263.76666666666665,
+      267.3666666666667
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ДОВГОСТВОЛЬНА ЗБРОЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-039",
+    "narration_interval": [
+      267.3666666666667,
+      276.8
+    ],
+    "asset": "ar15-360",
+    "source_interval": null,
+    "visual_role": "КАРАБІН ПЛАТФОРМИ AR-15",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-040",
+    "narration_interval": [
+      276.8,
+      288.6
+    ],
+    "asset": "stolen-wfo-rock-river-arms-rifle-jpg",
+    "source_interval": null,
+    "visual_role": "ROCK RIVER ARMS LAR-15",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-041",
+    "narration_interval": [
+      288.6,
+      300.8666666666667
+    ],
+    "asset": "range-training",
+    "source_interval": [
+      88,
+      100.26666666666667
+    ],
+    "visual_role": "КАРАБІНИ · НАВЧАЛЬНІ СТРІЛЬБИ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-042",
+    "narration_interval": [
+      300.8666666666667,
+      306.46666666666664
+    ],
+    "asset": "stolen-wfo-gun-lock-box-jpg",
+    "source_interval": null,
+    "visual_role": "АВТОМОБІЛЬНИЙ СЕЙФ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-043",
+    "narration_interval": [
+      306.46666666666664,
+      316.0
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "HECKLER & KOCH MP5",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-044",
+    "narration_interval": [
+      316.0,
+      325.0
+    ],
+    "asset": "ar15-360",
+    "source_interval": null,
+    "visual_role": "ПЛАТФОРМА AR-15 · 3D-ІЛЮСТРАЦІЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-045",
+    "narration_interval": [
+      325.0,
+      335.46666666666664
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ЗБРОЯ ЗАЛЕЖИТЬ ВІД ОПЕРАЦІЇ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-046",
+    "narration_interval": [
+      335.46666666666664,
+      339.06666666666666
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "БРОНЕЗАХИСТ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-047",
+    "narration_interval": [
+      339.06666666666666,
+      349.2
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "БРОНЕЖИЛЕТ І РОЗВАНТАЖЕННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-048",
+    "narration_interval": [
+      349.2,
+      360.7
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "РІЗНІ ЗАГРОЗИ — РІЗНИЙ ЗАХИСТ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-049",
+    "narration_interval": [
+      360.7,
+      369.9
+    ],
+    "asset": "swat-operator-female-png",
+    "source_interval": null,
+    "visual_role": "СПОРЯДЖЕННЯ SWAT ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-050",
+    "narration_interval": [
+      369.9,
+      381.8
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "ШОЛОМ · ЗАХИСТ · ЗВ’ЯЗОК",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-051",
+    "narration_interval": [
+      381.8,
+      391.1
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ЗАХИСТ МАЄ ОБМЕЖЕННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-052",
+    "narration_interval": [
+      391.1,
+      401.56666666666666
+    ],
+    "asset": "field-training",
+    "source_interval": [
+      50,
+      60.46666666666667
+    ],
+    "visual_role": "ПЕРЕСУВАННЯ В ЗАХИСТІ · НАВЧАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-053",
+    "narration_interval": [
+      401.56666666666666,
+      405.1666666666667
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "SWAT ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-054",
+    "narration_interval": [
+      405.1666666666667,
+      415.9
+    ],
+    "asset": "swat-pr-training-2021-jpg",
+    "source_interval": null,
+    "visual_role": "SWAT ФБР · НАВЧАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-055",
+    "narration_interval": [
+      415.9,
+      429.3
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "ТАКТИЧНИЙ КОМПЛЕКТ SWAT",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-056",
+    "narration_interval": [
+      429.3,
+      441.8
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "СПЕЦІАЛЬНЕ СПОРЯДЖЕННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-057",
+    "narration_interval": [
+      441.8,
+      449.1
+    ],
+    "asset": "fbi-expo",
+    "source_interval": [
+      0.1,
+      7.3999999999999995
+    ],
+    "visual_role": "НІЧНЕ СПОРЯДЖЕННЯ ФБР · ДЕМОНСТРАЦІЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-058",
+    "narration_interval": [
+      449.1,
+      463.1
+    ],
+    "asset": "swat-operator-hands-doors-blur-jpg",
+    "source_interval": null,
+    "visual_role": "SWAT · КОМАНДНА РОБОТА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-059",
+    "narration_interval": [
+      463.1,
+      473.96666666666664
+    ],
+    "asset": "swat-weapon-la-png",
+    "source_interval": null,
+    "visual_role": "SWAT ФБР · СПОРЯДЖЕННЯ ГРУПИ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-060",
+    "narration_interval": [
+      473.96666666666664,
+      477.56666666666666
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "СПЕЦПІДРОЗДІЛ HRT",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-061",
+    "narration_interval": [
+      477.56666666666666,
+      491.5
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "HRT · СТВОРЕНО 1983 РОКУ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-062",
+    "narration_interval": [
+      491.5,
+      501.8666666666667
+    ],
+    "asset": "hrt-water",
+    "source_interval": [
+      36,
+      46.36666666666667
+    ],
+    "visual_role": "HRT · ВОДНО-РЯТУВАЛЬНА ПІДГОТОВКА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-063",
+    "narration_interval": [
+      501.8666666666667,
+      515.5
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "HRT · ІЛЮСТРАЦІЯ СПОРЯДЖЕННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-064",
+    "narration_interval": [
+      515.5,
+      526.0
+    ],
+    "asset": "hrt-training-fast-rope-080519",
+    "source_interval": null,
+    "visual_role": "HRT · ВИСАДКА З ГЕЛІКОПТЕРА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-065",
+    "narration_interval": [
+      526.0,
+      538.5
+    ],
+    "asset": "hrt-water",
+    "source_interval": [
+      54,
+      66.5
+    ],
+    "visual_role": "HRT · ВОДНО-РЯТУВАЛЬНІ НАВЧАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-066",
+    "narration_interval": [
+      538.5,
+      547.7333333333333
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "МОБІЛЬНІСТЬ HRT",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-067",
+    "narration_interval": [
+      547.7333333333333,
+      551.3333333333334
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ТРАНСПОРТ ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-068",
+    "narration_interval": [
+      551.3333333333334,
+      563.0
+    ],
+    "asset": "field-training",
+    "source_interval": [
+      137,
+      148.66666666666666
+    ],
+    "visual_role": "СЛУЖБОВІ АВТОМОБІЛІ · НАВЧАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-069",
+    "narration_interval": [
+      563.0,
+      576.9
+    ],
+    "asset": "swat-operator-truck-blur-jpg",
+    "source_interval": null,
+    "visual_role": "БРОНЬОВАНИЙ ТРАНСПОРТ SWAT",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-070",
+    "narration_interval": [
+      576.9,
+      588.4
+    ],
+    "asset": "hrt-water",
+    "source_interval": [
+      7.5,
+      19.0
+    ],
+    "visual_role": "HRT · ГЕЛІКОПТЕР І КАТЕР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-071",
+    "narration_interval": [
+      588.4,
+      599.6
+    ],
+    "asset": "zodiac-surf-jump",
+    "source_interval": null,
+    "visual_role": "HRT · ШВИДКІСНІ ЧОВНИ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-072",
+    "narration_interval": [
+      599.6,
+      608.4
+    ],
+    "asset": "hrt-mobility-team-diver",
+    "source_interval": null,
+    "visual_role": "HRT · ВОДОЛАЗНА ПІДГОТОВКА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-073",
+    "narration_interval": [
+      608.4,
+      619.3333333333334
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ТРАНСПОРТ ПІД ЗАВДАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-074",
+    "narration_interval": [
+      619.3333333333334,
+      622.9333333333333
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ВИБУХОТЕХНІКИ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-075",
+    "narration_interval": [
+      622.9333333333333,
+      633.9666666666667
+    ],
+    "asset": "bombtraining2025",
+    "source_interval": [
+      30,
+      41.03333333333333
+    ],
+    "visual_role": "РОБОТ · КАМЕРА І МАНІПУЛЯТОР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-076",
+    "narration_interval": [
+      633.9666666666667,
+      641.5
+    ],
+    "asset": "hds2018",
+    "source_interval": [
+      33,
+      40.53333333333333
+    ],
+    "visual_role": "ДИСТАНЦІЙНИЙ ОГЛЯД · HDS",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-077",
+    "narration_interval": [
+      641.5,
+      649.9
+    ],
+    "asset": "bombtraining2025",
+    "source_interval": [
+      44,
+      52.4
+    ],
+    "visual_role": "РЕНТГЕНІВСЬКИЙ КОНТРОЛЬ · НАВЧАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-078",
+    "narration_interval": [
+      649.9,
+      656.5
+    ],
+    "asset": "bombsuit2025",
+    "source_interval": [
+      18,
+      24.6
+    ],
+    "visual_role": "ЗАХИСНИЙ КОСТЮМ ВИБУХОТЕХНІКА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-079",
+    "narration_interval": [
+      656.5,
+      669.6
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "HAZARDOUS DEVICES SCHOOL",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-080",
+    "narration_interval": [
+      669.6,
+      678.9
+    ],
+    "asset": "hds2018",
+    "source_interval": [
+      50,
+      59.3
+    ],
+    "visual_role": "HDS · ТРЕНУВАННЯ ВИБУХОТЕХНІКІВ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-081",
+    "narration_interval": [
+      678.9,
+      686.4333333333333
+    ],
+    "asset": "hds2018",
+    "source_interval": [
+      96,
+      103.53333333333333
+    ],
+    "visual_role": "ПРАКТИЧНА ПІДГОТОВКА ВИБУХОТЕХНІКІВ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-082",
+    "narration_interval": [
+      686.4333333333333,
+      690.0333333333333
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "КРИМІНАЛІСТИ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-083",
+    "narration_interval": [
+      690.0333333333333,
+      704.8666666666667
+    ],
+    "asset": "ert2021",
+    "source_interval": [
+      36,
+      50.833333333333336
+    ],
+    "visual_role": "ERT · ФІКСАЦІЯ МІСЦЯ ПОДІЇ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-084",
+    "narration_interval": [
+      704.8666666666667,
+      715.4333333333333
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "КОМПЛЕКТ КРИМІНАЛІСТА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-085",
+    "narration_interval": [
+      715.4333333333333,
+      728.0333333333333
+    ],
+    "asset": "ert2021",
+    "source_interval": [
+      88,
+      100.6
+    ],
+    "visual_role": "МАРКУВАННЯ ТА ПАКУВАННЯ · НАВЧАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-086",
+    "narration_interval": [
+      728.0333333333333,
+      739.0
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ЛАНЦЮГ ЗБЕРЕЖЕННЯ ДОКАЗІВ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-087",
+    "narration_interval": [
+      739.0,
+      747.7
+    ],
+    "asset": "ert2021",
+    "source_interval": [
+      125,
+      133.7
+    ],
+    "visual_role": "КРИМІНАЛІСТИ · НАВЧАЛЬНИЙ МАЙДАНЧИК",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-088",
+    "narration_interval": [
+      747.7,
+      754.6
+    ],
+    "asset": "ert2021",
+    "source_interval": [
+      140,
+      146.9
+    ],
+    "visual_role": "МАРКУВАННЯ ДОКАЗІВ · НАВЧАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-089",
+    "narration_interval": [
+      754.6,
+      758.2
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ЛАБОРАТОРІЯ ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-090",
+    "narration_interval": [
+      758.2,
+      765.0
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ЛАБОРАТОРІЯ ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-091",
+    "narration_interval": [
+      765.0,
+      776.0
+    ],
+    "asset": "dna-lab-1",
+    "source_interval": null,
+    "visual_role": "ЗРАЗОК ДЛЯ ДНК-АНАЛІЗУ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-092",
+    "narration_interval": [
+      776.0,
+      786.4
+    ],
+    "asset": "lab-scenes",
+    "source_interval": [
+      13,
+      23.4
+    ],
+    "visual_role": "ЛАБОРАТОРІЯ · 3D-РЕКОНСТРУКЦІЯ МІСЦЬ ПОДІЙ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-093",
+    "narration_interval": [
+      786.4,
+      796.3
+    ],
+    "asset": "dna-lab-2",
+    "source_interval": null,
+    "visual_role": "ЛАБОРАТОРНЕ ОБЛАДНАННЯ ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-094",
+    "narration_interval": [
+      796.3,
+      805.8
+    ],
+    "asset": "lab-scenes",
+    "source_interval": [
+      87,
+      96.5
+    ],
+    "visual_role": "ЛАБОРАТОРІЯ · ПРОСТОРОВЕ МОДЕЛЮВАННЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-095",
+    "narration_interval": [
+      805.8,
+      814.5333333333333
+    ],
+    "asset": "dna-lab-3",
+    "source_interval": null,
+    "visual_role": "ДОСЛІДЖЕННЯ ЗРАЗКІВ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-096",
+    "narration_interval": [
+      814.5333333333333,
+      818.1333333333333
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ЦИФРОВІ ДОКАЗИ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-097",
+    "narration_interval": [
+      818.1333333333333,
+      828.5
+    ],
+    "asset": "digital-360",
+    "source_interval": null,
+    "visual_role": "НОСІЇ ЦИФРОВИХ ДОКАЗІВ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-098",
+    "narration_interval": [
+      828.5,
+      838.5
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ЗБЕРЕГТИ ОРИГІНАЛ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-099",
+    "narration_interval": [
+      838.5,
+      849.5
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "БЛОКУВАЛЬНИК ЗАПИСУ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-100",
+    "narration_interval": [
+      849.5,
+      860.8
+    ],
+    "asset": "digital-360",
+    "source_interval": null,
+    "visual_role": "ДАНІ · ШИФРУВАННЯ · ТЕХНІЧНІ МЕЖІ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-101",
+    "narration_interval": [
+      860.8,
+      873.7
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "CODIS",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-102",
+    "narration_interval": [
+      873.7,
+      888.6
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ЗБІГ — ПРИВІД ДЛЯ ПЕРЕВІРКИ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-103",
+    "narration_interval": [
+      888.6,
+      892.2
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ПІДГОТОВКА В КВАНТІКО",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-104",
+    "narration_interval": [
+      892.2,
+      905.1
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "БАЗОВА ПІДГОТОВКА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-105",
+    "narration_interval": [
+      905.1,
+      919.4333333333333
+    ],
+    "asset": "classroom",
+    "source_interval": [
+      116.5,
+      130.83333333333334
+    ],
+    "visual_role": "НАВЧАННЯ АГЕНТІВ І АНАЛІТИКІВ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-106",
+    "narration_interval": [
+      919.4333333333333,
+      929.6666666666666
+    ],
+    "asset": "hogans-alley-corner",
+    "source_interval": null,
+    "visual_role": "HOGAN’S ALLEY",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "photo"
+  },
+  {
+    "scene": "uk009-107",
+    "narration_interval": [
+      929.6666666666666,
+      938.7
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "HOGAN’S ALLEY",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "graphic"
+  },
+  {
+    "scene": "uk009-108",
+    "narration_interval": [
+      938.7,
+      948.4
+    ],
+    "asset": "field-training",
+    "source_interval": [
+      24,
+      33.7
+    ],
+    "visual_role": "HOGAN’S ALLEY · НАВЧАЛЬНА ОПЕРАЦІЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-109",
+    "narration_interval": [
+      948.4,
+      957.2
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "ГОЛОВНИЙ ІНСТРУМЕНТ — ПІДГОТОВЛЕНА ЛЮДИНА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-110",
+    "narration_interval": [
+      957.2,
+      960.8
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "АРСЕНАЛ ФБР",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-111",
+    "narration_interval": [
+      960.8,
+      969.4
+    ],
+    "asset": "range-training",
+    "source_interval": [
+      100,
+      108.6
+    ],
+    "visual_role": "ЗБРОЯ ТА ПІДГОТОВКА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-112",
+    "narration_interval": [
+      969.4,
+      980.0
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "ЗАХИСТ · ЗВ’ЯЗОК · КОМАНДА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-113",
+    "narration_interval": [
+      980.0,
+      989.5
+    ],
+    "asset": "bombtraining2025",
+    "source_interval": [
+      54,
+      63.5
+    ],
+    "visual_role": "ТЕХНІКА ДЛЯ ЗБЕРЕЖЕННЯ ЖИТТЯ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-114",
+    "narration_interval": [
+      989.5,
+      1000.8333333333334
+    ],
+    "asset": "ert2021",
+    "source_interval": [
+      51,
+      62.333333333333336
+    ],
+    "visual_role": "ДОКАЗИ ТА КРИМІНАЛІСТИКА",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "archive"
+  },
+  {
+    "scene": "uk009-115",
+    "narration_interval": [
+      1000.8333333333334,
+      1019.6
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ЩО ВАС ЗДИВУВАЛО НАЙБІЛЬШЕ?",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "question"
+  },
+  {
+    "scene": "uk009-116",
+    "narration_interval": [
+      1019.6,
+      1024.0666666666666
+    ],
+    "asset": "operator-360",
+    "source_interval": null,
+    "visual_role": "НАПИШІТЬ СВОЮ ДУМКУ В КОМЕНТАРЯХ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": true,
+    "kind": "turntable"
+  },
+  {
+    "scene": "uk009-117",
+    "narration_interval": [
+      1024.0666666666666,
+      1033.3666666666666
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "ПІДПИШІТЬСЯ НА КАНАЛ",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "section"
+  },
+  {
+    "scene": "uk009-118",
+    "narration_interval": [
+      1033.3666666666666,
+      1039.2333333333333
+    ],
+    "asset": null,
+    "source_interval": null,
+    "visual_role": "",
+    "verification": "Voice-aligned plan, sampled source and encoded final-frame review; complete decode and motion-end checks recorded in output/qa.",
+    "synthetic": false,
+    "kind": "ident"
+  }
+]

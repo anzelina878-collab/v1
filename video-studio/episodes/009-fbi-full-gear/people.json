@@ -1,0 +1,32 @@
+{
+  "people": [
+    {
+      "name": "Benjamin Grogan",
+      "role": "FBI agent killed in Miami on 11 April 1986",
+      "source_url": "https://www.fbi.gov/news/stories/fatal-firefight-in-miami",
+      "asset_id": "wall-of-honor"
+    },
+    {
+      "name": "Jerry Dove",
+      "role": "FBI agent killed in Miami on 11 April 1986",
+      "source_url": "https://www.fbi.gov/news/stories/fatal-firefight-in-miami",
+      "asset_id": "wall-of-honor"
+    }
+  ],
+  "note": "Historical portraits identified in the official FBI caption: Benjamin Grogan (left), Jerry Dove (right). Other archive staff are not assigned invented identities. No invented eyewitness dialogue.",
+  "selected_portraits": [
+    {
+      "name": "Benjamin Grogan",
+      "role": "FBI agent killed in Miami on 11 April 1986",
+      "source_url": "https://www.fbi.gov/news/stories/fatal-firefight-in-miami",
+      "asset_id": "wall-of-honor"
+    },
+    {
+      "name": "Jerry Dove",
+      "role": "FBI agent killed in Miami on 11 April 1986",
+      "source_url": "https://www.fbi.gov/news/stories/fatal-firefight-in-miami",
+      "asset_id": "wall-of-honor"
+    }
+  ],
+  "synthetic_operator": "Generic licensed 3D character; no claim of a real named FBI employee."
+}

@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "scene": "uk009-010",
+  "caption": "СПІЛЬНІ НАВЧАННЯ HRT",
+  "reason": "The joint HRT exercise excerpt shows aviation and partner boats; the broader caption accurately covers both.",
+  "unchanged_scene_hashes": 118,
+  "archive_picture_area_mae": 0.10104166666666667,
+  "full_final_decode": "passed",
+  "audio_zero_lag_correlation": 0.9998802104143234,
+  "sha256": "ca303798686be4bbd7900d772f31ee0b01a4450c3d068e8f933244ad96847d25"
+}

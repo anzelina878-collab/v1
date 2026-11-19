@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ar15-360",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "bombsuit2025",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "bombtraining2025",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "classroom",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "digital-360",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "ert2021",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "field-training",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "firearms-exhibit",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "hds2018",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "hrt-water",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "hrt2013",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "lab-scenes",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "operator-360",
+    "passed": true,
+    "error": ""
+  },
+  {
+    "id": "range-training",
+    "passed": true,
+    "error": ""
+  }
+]

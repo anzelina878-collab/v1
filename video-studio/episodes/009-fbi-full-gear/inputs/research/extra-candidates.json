@@ -1,0 +1,354 @@
+[
+  {
+    "id": "field-training",
+    "video": "assets/video/field-training.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/becoming-an-agent-series-preparing-for-the-field.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/becoming-an-agent-series-preparing-for-the-field.mp4/@@download/file/becoming-an-agent-series-preparing-for-the-field.mp4",
+    "duration": 150.0,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "range-training",
+    "error": "Command '['ffmpeg', '-y', '-v', 'error', '-user_agent', 'Mozilla/5.0', '-threads', '1', '-i', 'https://www.fbi.gov/video-repository/becoming-an-agent-series-firearms-training.mp4/@@download/file/becoming-an-agent-series-firearms-training.mp4', '-t', '150', '-an', '-vf', 'scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,setsar=1', '-r', '30', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '22', '-threads', '1', '-movflags', '+faststart', '/tmp/arsenal-009/assets/video/range-training.mp4']' returned non-zero exit status 183."
+  },
+  {
+    "id": "classroom",
+    "video": "assets/video/classroom.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/becoming-an-agent-series-inside-the-classroom.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/becoming-an-agent-series-inside-the-classroom.mp4/@@download/file/becoming-an-agent-series-inside-the-classroom.mp4",
+    "duration": 136.2,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "lab-chemist",
+    "error": "Command '['ffmpeg', '-y', '-v', 'error', '-user_agent', 'Mozilla/5.0', '-threads', '1', '-i', 'https://www.fbi.gov/video-repository/fbi-careers-chemist.mp4/@@download/file/FBI%20Careers%20Chemist.mp4', '-t', '150', '-an', '-vf', 'scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,setsar=1', '-r', '30', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '22', '-threads', '1', '-movflags', '+faststart', '/tmp/arsenal-009/assets/video/lab-chemist.mp4']' returned non-zero exit status 8."
+  },
+  {
+    "id": "lab-documents",
+    "video": "assets/video/lab-documents.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/fbi-careers-forensic-examiner-cryptanalyst.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/fbi-careers-forensic-examiner-cryptanalyst.mp4/@@download/file/fbi-careers-forensic-examiner-cryptanalyst.mp4",
+    "duration": 80.566667,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "lab-scenes",
+    "video": "assets/video/lab-scenes.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/opu-lab-093025.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/opu-lab-093025.mp4/@@download/file/opu-lab-093025.mp4",
+    "duration": 150.0,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "lab-intern",
+    "video": "assets/video/lab-intern.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/fbi-honors-intern-profile-anne-laboratory-division-081619.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/fbi-honors-intern-profile-anne-laboratory-division-081619.mp4/@@download/file/fbi-honors-intern-profile-anne-laboratory-division-081619.mp4",
+    "duration": 96.366667,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "fbi-expo",
+    "video": "assets/video/fbi-expo.mp4",
+    "source_url": "https://www.fbi.gov/video-repository/fbi-expo-wfo.mp4/view",
+    "original_url": "https://www.fbi.gov/video-repository/fbi-expo-wfo.mp4/@@download/file/FBI%20Expo%20WFO.mp4",
+    "duration": 22.4,
+    "credit": "FBI · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "hrt-water",
+    "video": "assets/video/hrt-water.mp4",
+    "source_url": "https://www.dvidshub.net/video/859915/fbi-hostage-rescue-team-training",
+    "original_url": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109257060/DOD_109257060.mp4",
+    "duration": 102.3,
+    "credit": "U.S. Air Force / Frank Rohrig · Public domain",
+    "license": "US federal government work; use only first-party footage after visual inspection",
+    "kind": [
+      "archive_video"
+    ]
+  },
+  {
+    "id": "hrt-training-fast-rope-080519",
+    "photo": "assets/photos/hrt-training-fast-rope-080519.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+    "original_url": "https://www.fbi.gov/image-repository/hrt-training-fast-rope-080519.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "zodiac-surf-jump",
+    "photo": "assets/photos/zodiac-surf-jump.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+    "original_url": "https://www.fbi.gov/image-repository/zodiac-surf-jump.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "img_8333",
+    "photo": "assets/photos/img_8333.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+    "original_url": "https://www.fbi.gov/image-repository/img_8333.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "190906-sml-hrtvabeachtraining-22",
+    "photo": "assets/photos/190906-sml-hrtvabeachtraining-22.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+    "original_url": "https://www.fbi.gov/image-repository/190906-sml-hrtvabeachtraining-22.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hrt-mobility-team-diver",
+    "photo": "assets/photos/hrt-mobility-team-diver.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+    "original_url": "https://www.fbi.gov/image-repository/hrt-mobility-team-diver.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "dsc_5581_1",
+    "photo": "assets/photos/dsc_5581_1.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+    "original_url": "https://www.fbi.gov/image-repository/dsc_5581_1.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "dsc_1692_1",
+    "photo": "assets/photos/dsc_1692_1.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/getting-them-to-the-fight",
+    "original_url": "https://www.fbi.gov/image-repository/dsc_1692_1.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-corner",
+    "photo": "assets/photos/hogans-alley-corner.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-corner.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-nightclub",
+    "photo": "assets/photos/hogans-alley-nightclub.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-nightclub.png",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-theater",
+    "photo": "assets/photos/hogans-alley-theater.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-theater.png",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-hotel",
+    "photo": "assets/photos/hogans-alley-hotel.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-hotel.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-theater-lobby",
+    "photo": "assets/photos/hogans-alley-theater-lobby.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-theater-lobby.png",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-billiard-hall",
+    "photo": "assets/photos/hogans-alley-billiard-hall.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-billiard-hall.png",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-patches-wall",
+    "photo": "assets/photos/hogans-alley-patches-wall.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-patches-wall.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-theater-training",
+    "photo": "assets/photos/hogans-alley-theater-training.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-theater-training.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-houses-birdseye",
+    "photo": "assets/photos/hogans-alley-houses-birdseye.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-houses-birdseye.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-house-newagent",
+    "photo": "assets/photos/hogans-alley-house-newagent.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-house-newagent.png",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "window-vsd-elevate-092519",
+    "photo": "assets/photos/window-vsd-elevate-092519.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/window-vsd-elevate-092519.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-hallway-training",
+    "photo": "assets/photos/hogans-alley-hallway-training.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-hallway-training.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-bring-buildings",
+    "photo": "assets/photos/hogans-alley-bring-buildings.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-bring-buildings.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "tape-vsd-elevate-092519",
+    "photo": "assets/photos/tape-vsd-elevate-092519.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/tape-vsd-elevate-092519.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-welcome-sign",
+    "photo": "assets/photos/hogans-alley-welcome-sign.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-welcome-sign.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-clipboard",
+    "photo": "assets/photos/hogans-alley-clipboard.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-clipboard.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-operation",
+    "photo": "assets/photos/hogans-alley-operation.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-operation.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-hardware-boxes",
+    "photo": "assets/photos/hogans-alley-hardware-boxes.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-hardware-boxes.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  },
+  {
+    "id": "hogans-alley-window",
+    "photo": "assets/photos/hogans-alley-window.jpg",
+    "source_url": "https://www.fbi.gov/news/stories/interactive/hogans-alley",
+    "original_url": "https://www.fbi.gov/image-repository/hogans-alley-window.jpg",
+    "credit": "FBI · Public domain",
+    "kind": [
+      "real_photo"
+    ]
+  }
+]
