@@ -49,3 +49,6 @@ video-studio/episodes/004-south-north-korea-hi/output/project_source_hi_v1.zip f
 video-studio/episodes/005-israel-iran-hi/output/final_video_hi_v1.mp4 filter=lfs diff=lfs merge=lfs -text
 
 video-studio/episodes/005-israel-iran-hi/output/project_source_hi_v1.zip filter=lfs diff=lfs merge=lfs -text
+
+video-studio/episodes/009-fbi-full-gear/output/final_video_v1.mp4 filter=lfs diff=lfs merge=lfs -text
+video-studio/episodes/009-fbi-full-gear/output/project_source_v1.zip filter=lfs diff=lfs merge=lfs -text

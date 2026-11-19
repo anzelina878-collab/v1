@@ -1,0 +1,26 @@
+{
+  "schema": "arsenal.media-delivery.v1",
+  "episode": "009-fbi-full-gear",
+  "source_commit": "3032366a73aec9a67a44870ba72cb4884c8cd1ac",
+  "duration_seconds": 1039.2333333333333,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "language": "uk",
+  "files": [
+    {
+      "name": "final_video_v1.mp4",
+      "repo_path": "video-studio/episodes/009-fbi-full-gear/output/final_video_v1.mp4",
+      "bytes": 184693173,
+      "sha256": "ca303798686be4bbd7900d772f31ee0b01a4450c3d068e8f933244ad96847d25"
+    },
+    {
+      "name": "project_source_v1.zip",
+      "repo_path": "video-studio/episodes/009-fbi-full-gear/output/project_source_v1.zip",
+      "bytes": 374746324,
+      "sha256": "1177f6f73a2173bbd5640ed471befc85033b3a3640e8cd0f4cc644ef24f5144b"
+    }
+  ],
+  "technical_report": "output/qa/verification.json",
+  "editorial_review": "Sampled decoded frames for all scenes; no continuous human watch/listen."
+}
