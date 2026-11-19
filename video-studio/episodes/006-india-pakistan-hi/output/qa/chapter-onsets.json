@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "method": "At each audio cue, decoded final movie title region compared to fully revealed intended title plate; cues reviewed against word-timed supplied narration. Subject-only titles appear for voiced category names or the first phrase of the corresponding block.",
+  "chapters": [
+    {
+      "title": "वायुसेना",
+      "spoken_start": 100.23333333333333,
+      "card_start": 99.53333333333333,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3180493827160493
+    },
+    {
+      "title": "टैंक और बख़्तरबंद वाहन",
+      "spoken_start": 243.2,
+      "card_start": 242.5,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3063456790123458
+    },
+    {
+      "title": "मिसाइलें",
+      "spoken_start": 368.1333333333333,
+      "card_start": 367.43333333333334,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3276296296296297
+    },
+    {
+      "title": "पैदल सेना के हथियार",
+      "spoken_start": 491.1333333333333,
+      "card_start": 490.43333333333334,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3104444444444445
+    },
+    {
+      "title": "तोपख़ाना",
+      "spoken_start": 613.3333333333334,
+      "card_start": 612.6333333333333,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3167654320987654
+    },
+    {
+      "title": "ड्रोन",
+      "spoken_start": 718.2333333333333,
+      "card_start": 717.5333333333333,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3331851851851853
+    },
+    {
+      "title": "वायु रक्षा",
+      "spoken_start": 825.0666666666667,
+      "card_start": 824.3666666666667,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3253086419753086
+    },
+    {
+      "title": "हेलीकॉप्टर",
+      "spoken_start": 935.7333333333333,
+      "card_start": 935.0333333333333,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3452592592592592
+    },
+    {
+      "title": "नौसेना",
+      "spoken_start": 1021.9666666666667,
+      "card_start": 1021.2666666666667,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3217283950617285
+    },
+    {
+      "title": "परमाणु शस्त्रागार",
+      "spoken_start": 1137.9666666666667,
+      "card_start": 1137.2666666666667,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3309382716049383
+    },
+    {
+      "title": "निष्कर्ष",
+      "spoken_start": 1223.0333333333333,
+      "card_start": 1222.3333333333333,
+      "reveal_lead_seconds": 0.05,
+      "fully_visible_title_area_mae": 1.3219506172839506
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "original_asset": "rafale-action",
+    "matching_asset": "rafale-india",
+    "start": 186.5,
+    "end": 196.56666666666666,
+    "reason": "matching-cutaway-for-reuse-spacing"
+  },
+  {
+    "original_asset": "brahmos-test",
+    "matching_asset": "brahmos",
+    "start": 440.6,
+    "end": 443.1,
+    "reason": "source-exhausted-matching-cutaway"
+  }
+]

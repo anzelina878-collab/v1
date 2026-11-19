@@ -1,0 +1,3 @@
+-r requirements-visual.txt
+numba>=0.59
+faster-whisper>=1.0

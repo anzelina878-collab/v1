@@ -1,0 +1,31 @@
+{
+  "status": "sampled_review_completed",
+  "storyboard_sheets_reviewed": [
+    "00",
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07"
+  ],
+  "pilot_seconds": 90,
+  "pilot_full_decode": true,
+  "pilot_encoded_sample_frames_reviewed": [
+    1,
+    9,
+    16,
+    33,
+    41,
+    48,
+    76,
+    88
+  ],
+  "additional_final_movie_frame_reviewed": 1152,
+  "encoded_contact_sheets_reviewed": [
+    "07"
+  ],
+  "continuous_human_watch_and_listen": false,
+  "limits": "Contact sheets and sampled frames are visual review, not continuous playback of the complete film; ASR is a timing aid and does not verify every word or technical claim."
+}

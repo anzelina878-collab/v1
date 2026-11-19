@@ -1,0 +1,57 @@
+[
+  {
+    "chapter": "aviation",
+    "spoken_start": 100.24,
+    "title": "वायुसेना"
+  },
+  {
+    "chapter": "armor",
+    "spoken_start": 243.2,
+    "title": "टैंक और बख़्तरबंद वाहन"
+  },
+  {
+    "chapter": "missiles",
+    "spoken_start": 368.12,
+    "title": "मिसाइलें"
+  },
+  {
+    "chapter": "infantry",
+    "spoken_start": 491.12,
+    "title": "पैदल सेना के हथियार"
+  },
+  {
+    "chapter": "artillery",
+    "spoken_start": 613.34,
+    "title": "तोपख़ाना"
+  },
+  {
+    "chapter": "drones",
+    "spoken_start": 718.24,
+    "title": "ड्रोन"
+  },
+  {
+    "chapter": "airdef",
+    "spoken_start": 825.08,
+    "title": "वायु रक्षा"
+  },
+  {
+    "chapter": "helicopters",
+    "spoken_start": 935.74,
+    "title": "हेलीकॉप्टर"
+  },
+  {
+    "chapter": "navy",
+    "spoken_start": 1021.96,
+    "title": "नौसेना"
+  },
+  {
+    "chapter": "nuclear",
+    "spoken_start": 1137.96,
+    "title": "परमाणु शस्त्रागार"
+  },
+  {
+    "chapter": "conclusion",
+    "spoken_start": 1223.04,
+    "title": "निष्कर्ष"
+  }
+]

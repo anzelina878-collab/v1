@@ -1,0 +1,3692 @@
+{
+  "schema": "arsenal.hindi-episode006.v1",
+  "title": "भारत बनाम पाकिस्तान 2026: किसका सैन्य शस्त्रागार अधिक शक्तिशाली है?",
+  "language": "hi",
+  "brand": "ARSENAL 360 / शस्त्र 360",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 1391.5,
+  "audio": "audio/voiceover.mp3",
+  "scenes": [
+    {
+      "start": 0.0,
+      "end": 2.8666666666666667,
+      "duration": 2.8666666666666667,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi006-000",
+      "original_scene_ids": [
+        "insert-000000"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 2.8666666666666667,
+      "end": 6.433333333333334,
+      "duration": 3.566666666666667,
+      "kind": "archive",
+      "asset_id": "rafale-tlp",
+      "title": "RAFALE · फ्रांस, अभ्यास 2022",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 73.5,
+      "id": "hi006-001",
+      "original_scene_ids": [
+        "insert-000105"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 6.433333333333334,
+      "end": 8.6,
+      "duration": 2.1666666666666665,
+      "kind": "turntable",
+      "asset_id": "model-rafale",
+      "title": "RAFALE · विमान परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "source_in": 0,
+      "id": "hi006-002",
+      "original_scene_ids": [
+        "insert-000237"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 8.6,
+      "end": 14.766666666666667,
+      "duration": 6.166666666666668,
+      "kind": "archive",
+      "asset_id": "rafale-indian-action",
+      "title": "RAFALE · RED FLAG–ALASKA, 2024",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 11.500000000000002,
+      "id": "hi006-003",
+      "original_scene_ids": [
+        "insert-000316",
+        "insert-000511"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 14.766666666666667,
+      "end": 20.5,
+      "duration": 5.733333333333333,
+      "kind": "photo",
+      "asset_id": "j10",
+      "title": "J-10 · विमान परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-004",
+      "original_scene_ids": [
+        "shot-004"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 20.5,
+      "end": 23.5,
+      "duration": 3.0,
+      "kind": "photo",
+      "asset_id": "pl15",
+      "title": "PL-15 · मिसाइल परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-005",
+      "original_scene_ids": [
+        "shot-005"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 23.5,
+      "end": 28.266666666666666,
+      "duration": 4.766666666666667,
+      "kind": "photo",
+      "asset_id": "rafale-india",
+      "title": "DASSAULT RAFALE",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-006",
+      "original_scene_ids": [
+        "shot-006"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 28.266666666666666,
+      "end": 32.13333333333333,
+      "duration": 3.8666666666666667,
+      "kind": "photo",
+      "asset_id": "j10ce",
+      "title": "J-10CE · प्रदर्शनी, 2024",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-007",
+      "original_scene_ids": [
+        "shot-007"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 32.13333333333333,
+      "end": 39.56666666666667,
+      "duration": 7.433333333333334,
+      "kind": "turntable",
+      "asset_id": "model-rafale",
+      "title": "RAFALE · विमान परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "source_in": 0,
+      "id": "hi006-008",
+      "original_scene_ids": [
+        "shot-008"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 39.56666666666667,
+      "end": 42.43333333333333,
+      "duration": 2.8666666666666667,
+      "kind": "map",
+      "asset_id": "map-north",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi006-009",
+      "original_scene_ids": [
+        "shot-009"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 42.43333333333333,
+      "end": 47.1,
+      "duration": 4.666666666666667,
+      "kind": "compare",
+      "title": "RAFALE और J-10CE",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "rafale-india",
+          "RAFALE",
+          "IN"
+        ],
+        [
+          "j10",
+          "J-10 · परिवार",
+          "PK"
+        ]
+      ],
+      "id": "hi006-010",
+      "original_scene_ids": [
+        "shot-010"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 47.1,
+      "end": 53.93333333333333,
+      "duration": 6.833333333333333,
+      "kind": "graphic",
+      "asset_id": "system",
+      "title": "युद्धक व्यवस्था",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "ख़ुफ़िया जानकारी",
+        "समन्वय",
+        "प्रशिक्षण"
+      ],
+      "id": "hi006-011",
+      "original_scene_ids": [
+        "shot-011"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 53.93333333333333,
+      "end": 56.8,
+      "duration": 2.8666666666666667,
+      "kind": "turntable",
+      "asset_id": "model-mig29",
+      "title": "MiG-29 · विमान परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "source_in": 0,
+      "id": "hi006-012",
+      "original_scene_ids": [
+        "shot-012"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 56.8,
+      "end": 60.6,
+      "duration": 3.8,
+      "kind": "photo",
+      "asset_id": "bhishma",
+      "title": "T-90S BHISHMA",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-013",
+      "original_scene_ids": [
+        "shot-013"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 60.6,
+      "end": 62.333333333333336,
+      "duration": 1.7333333333333334,
+      "kind": "photo",
+      "asset_id": "brahmos",
+      "title": "BRAHMOS",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-014",
+      "original_scene_ids": [
+        "shot-014"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 62.333333333333336,
+      "end": 64.83333333333333,
+      "duration": 2.5,
+      "kind": "photo",
+      "asset_id": "vikrant",
+      "title": "INS VIKRANT",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-015",
+      "original_scene_ids": [
+        "shot-015"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 64.83333333333333,
+      "end": 68.2,
+      "duration": 3.3666666666666667,
+      "kind": "photo",
+      "asset_id": "j10",
+      "title": "J-10 · विमान परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-016",
+      "original_scene_ids": [
+        "shot-016"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 68.2,
+      "end": 70.06666666666666,
+      "duration": 1.8666666666666667,
+      "kind": "photo",
+      "asset_id": "vt4",
+      "title": "VT-4",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-017",
+      "original_scene_ids": [
+        "shot-017"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 70.06666666666666,
+      "end": 71.7,
+      "duration": 1.6333333333333333,
+      "kind": "photo",
+      "asset_id": "shaheen",
+      "title": "SHAHEEN · परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-018",
+      "original_scene_ids": [
+        "shot-018"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 71.7,
+      "end": 74.93333333333334,
+      "duration": 3.2333333333333334,
+      "kind": "photo",
+      "asset_id": "hq9",
+      "title": "HQ-9 · परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-019",
+      "original_scene_ids": [
+        "shot-019"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 74.93333333333334,
+      "end": 79.56666666666666,
+      "duration": 4.633333333333334,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 0.0,
+      "id": "hi006-020",
+      "original_scene_ids": [
+        "shot-020"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 79.56666666666666,
+      "end": 82.9,
+      "duration": 3.3333333333333335,
+      "kind": "compare",
+      "title": "भारत और पाकिस्तान",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "sides": [
+        [
+          "rafale-india",
+          "RAFALE",
+          "IN"
+        ],
+        [
+          "j10",
+          "J-10 · परिवार",
+          "PK"
+        ]
+      ],
+      "id": "hi006-021",
+      "original_scene_ids": [
+        "shot-021"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 82.9,
+      "end": 87.73333333333333,
+      "duration": 4.833333333333333,
+      "kind": "archive",
+      "asset_id": "m777-india",
+      "title": "M777 · अभ्यास, 2026",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 8.0,
+      "id": "hi006-022",
+      "original_scene_ids": [
+        "shot-022"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 87.73333333333333,
+      "end": 94.86666666666666,
+      "duration": 7.133333333333334,
+      "kind": "turntable",
+      "asset_id": "model-apache",
+      "title": "AH-64 APACHE · परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "source_in": 0,
+      "id": "hi006-023",
+      "original_scene_ids": [
+        "shot-023"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 94.86666666666666,
+      "end": 99.53333333333333,
+      "duration": 4.666666666666667,
+      "kind": "ident",
+      "title": "ARSENAL 360",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-024",
+      "subtitle": "शस्त्र 360",
+      "original_scene_ids": [
+        "shot-024"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "वायुसेना",
+      "subtitle": "",
+      "start": 99.53333333333333,
+      "end": 103.03333333333333,
+      "duration": 3.5,
+      "chapter": "aviation",
+      "spoken_start": 100.23333333333333,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-025",
+      "settle_after": 1.2
+    },
+    {
+      "start": 103.03333333333333,
+      "end": 106.03333333333333,
+      "duration": 3.0,
+      "kind": "photo",
+      "asset_id": "rafale-india",
+      "title": "RAFALE · विमान परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-026",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-025",
+        "shot-026"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 106.03333333333333,
+      "end": 119.8,
+      "duration": 13.766666666666667,
+      "kind": "turntable",
+      "asset_id": "model-rafale",
+      "title": "RAFALE · विमान परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "preferred_in": 0,
+      "source_in": 0,
+      "id": "hi006-027",
+      "original_scene_ids": [
+        "shot-027"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 119.8,
+      "end": 127.13333333333334,
+      "duration": 7.333333333333333,
+      "kind": "archive",
+      "asset_id": "rafale-action",
+      "title": "RAFALE · फ्रांस, अभिलेख 2019",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 3.0,
+      "id": "hi006-028",
+      "original_scene_ids": [
+        "insert-003853"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 127.13333333333334,
+      "end": 134.36666666666667,
+      "duration": 7.233333333333333,
+      "kind": "photo",
+      "asset_id": "meteor",
+      "title": "METEOR",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-029",
+      "original_scene_ids": [
+        "shot-030"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 134.36666666666667,
+      "end": 138.7,
+      "duration": 4.333333333333333,
+      "kind": "archive",
+      "asset_id": "rafale-indian-action",
+      "title": "RAFALE · RED FLAG–ALASKA, 2024",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 18.0,
+      "id": "hi006-030",
+      "original_scene_ids": [
+        "shot-031"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 138.7,
+      "end": 147.5,
+      "duration": 8.8,
+      "kind": "photo",
+      "asset_id": "su30",
+      "title": "Su-30MKI",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-031",
+      "original_scene_ids": [
+        "shot-032"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 147.5,
+      "end": 151.13333333333333,
+      "duration": 3.6333333333333333,
+      "kind": "turntable",
+      "asset_id": "model-mirage",
+      "title": "MIRAGE 2000 · परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "source_in": 0,
+      "id": "hi006-032",
+      "original_scene_ids": [
+        "shot-033"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 151.13333333333333,
+      "end": 152.96666666666667,
+      "duration": 1.8333333333333333,
+      "kind": "turntable",
+      "asset_id": "model-mig29",
+      "title": "MiG-29 · परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "source_in": 0,
+      "id": "hi006-033",
+      "original_scene_ids": [
+        "shot-034"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 152.96666666666667,
+      "end": 155.6,
+      "duration": 2.6333333333333333,
+      "kind": "photo",
+      "asset_id": "tejas",
+      "title": "HAL TEJAS",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-034",
+      "original_scene_ids": [
+        "shot-035"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 155.6,
+      "end": 169.6,
+      "duration": 14.0,
+      "kind": "photo",
+      "asset_id": "j10",
+      "title": "J-10 · विमान परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-035",
+      "original_scene_ids": [
+        "shot-036"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 169.6,
+      "end": 177.86666666666667,
+      "duration": 8.266666666666667,
+      "kind": "photo",
+      "asset_id": "pl15",
+      "title": "PL-15 · मिसाइल परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-036",
+      "original_scene_ids": [
+        "shot-037"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 177.86666666666667,
+      "end": 186.5,
+      "duration": 8.633333333333333,
+      "kind": "photo",
+      "asset_id": "jf17",
+      "title": "JF-17 THUNDER",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-037",
+      "original_scene_ids": [
+        "shot-038"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 186.5,
+      "end": 196.56666666666666,
+      "duration": 10.066666666666666,
+      "kind": "photo",
+      "asset_id": "rafale-india",
+      "title": "DASSAULT RAFALE",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-038",
+      "original_scene_ids": [
+        "shot-039"
+      ],
+      "camera_motion": false,
+      "role": "matching-cutaway-for-reuse-spacing"
+    },
+    {
+      "start": 196.56666666666666,
+      "end": 203.0,
+      "duration": 6.433333333333334,
+      "kind": "photo",
+      "asset_id": "rafale",
+      "title": "RAFALE · विमान परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-039",
+      "original_scene_ids": [
+        "shot-040"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 203.0,
+      "end": 212.73333333333332,
+      "duration": 9.733333333333333,
+      "kind": "compare",
+      "title": "RAFALE और J-10CE",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "rafale-india",
+          "RAFALE",
+          "IN"
+        ],
+        [
+          "j10",
+          "J-10 · परिवार",
+          "PK"
+        ]
+      ],
+      "id": "hi006-040",
+      "original_scene_ids": [
+        "shot-041"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 212.73333333333332,
+      "end": 223.83333333333334,
+      "duration": 11.1,
+      "kind": "archive",
+      "asset_id": "rafale-indian-action",
+      "title": "RAFALE · RED FLAG–ALASKA, 2024",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 35,
+      "source_in": 35.0,
+      "id": "hi006-041",
+      "original_scene_ids": [
+        "insert-007058"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 223.83333333333334,
+      "end": 227.4,
+      "duration": 3.566666666666667,
+      "kind": "photo",
+      "asset_id": "rafale-india",
+      "title": "DASSAULT RAFALE",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-042",
+      "original_scene_ids": [
+        "insert-007332"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 227.4,
+      "end": 233.23333333333332,
+      "duration": 5.833333333333333,
+      "kind": "photo",
+      "asset_id": "j10ce",
+      "title": "J-10CE · झुहाई प्रदर्शनी 2024",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-043",
+      "original_scene_ids": [
+        "shot-044"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 233.23333333333332,
+      "end": 242.5,
+      "duration": 9.266666666666667,
+      "kind": "turntable",
+      "asset_id": "model-rafale",
+      "title": "RAFALE · विमान परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "preferred_in": 0,
+      "source_in": 0,
+      "id": "hi006-044",
+      "original_scene_ids": [
+        "shot-045"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "टैंक और बख़्तरबंद वाहन",
+      "subtitle": "",
+      "start": 242.5,
+      "end": 246.0,
+      "duration": 3.5,
+      "chapter": "armor",
+      "spoken_start": 243.2,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-045",
+      "settle_after": 1.2
+    },
+    {
+      "start": 246.0,
+      "end": 270.0,
+      "duration": 24.0,
+      "kind": "photo",
+      "asset_id": "bhishma",
+      "title": "T-90S BHISHMA",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-046",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-046",
+        "shot-047",
+        "shot-048"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 270.0,
+      "end": 275.0,
+      "duration": 5.0,
+      "kind": "photo",
+      "asset_id": "t72",
+      "title": "T-72 · टैंक परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-047",
+      "original_scene_ids": [
+        "shot-049"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 275.0,
+      "end": 287.56666666666666,
+      "duration": 12.566666666666666,
+      "kind": "photo",
+      "asset_id": "arjun",
+      "title": "ARJUN",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-048",
+      "original_scene_ids": [
+        "shot-050"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 287.56666666666666,
+      "end": 301.56666666666666,
+      "duration": 14.0,
+      "kind": "photo",
+      "asset_id": "vt4",
+      "title": "VT-4",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-049",
+      "original_scene_ids": [
+        "shot-051"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 301.56666666666666,
+      "end": 310.9,
+      "duration": 9.333333333333334,
+      "kind": "photo",
+      "asset_id": "alkhalid",
+      "title": "AL-KHALID",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-050",
+      "original_scene_ids": [
+        "shot-052"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 310.9,
+      "end": 325.93333333333334,
+      "duration": 15.033333333333333,
+      "kind": "compare",
+      "title": "T-90S BHISHMA और VT-4",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "bhishma",
+          "T-90S BHISHMA",
+          "IN"
+        ],
+        [
+          "vt4",
+          "VT-4",
+          "PK"
+        ]
+      ],
+      "id": "hi006-051",
+      "original_scene_ids": [
+        "shot-053"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 325.93333333333334,
+      "end": 331.96666666666664,
+      "duration": 6.033333333333333,
+      "kind": "map",
+      "asset_id": "map-north",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-052",
+      "original_scene_ids": [
+        "shot-054"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 331.96666666666664,
+      "end": 339.9,
+      "duration": 7.933333333333334,
+      "kind": "archive",
+      "asset_id": "yudh20",
+      "title": "बख़्तरबंद वाहन · अभ्यास, 2021",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 66,
+      "source_in": 66.0,
+      "id": "hi006-053",
+      "original_scene_ids": [
+        "shot-055"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 339.9,
+      "end": 342.8333333333333,
+      "duration": 2.933333333333333,
+      "kind": "photo",
+      "asset_id": "bhishma",
+      "title": "T-90S BHISHMA",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-054",
+      "original_scene_ids": [
+        "shot-056"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 342.8333333333333,
+      "end": 348.1,
+      "duration": 5.266666666666667,
+      "kind": "photo",
+      "asset_id": "vt4",
+      "title": "VT-4",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-055",
+      "original_scene_ids": [
+        "shot-057"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 348.1,
+      "end": 358.26666666666665,
+      "duration": 10.166666666666666,
+      "kind": "photo",
+      "asset_id": "harop",
+      "title": "IAI HAROP",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-056",
+      "original_scene_ids": [
+        "shot-058"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 358.26666666666665,
+      "end": 367.43333333333334,
+      "duration": 9.166666666666666,
+      "kind": "archive",
+      "asset_id": "optics-training",
+      "title": "ऑप्टिक्स और संचार · अभ्यास, 2026",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 7.0,
+      "id": "hi006-057",
+      "original_scene_ids": [
+        "shot-059"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "मिसाइलें",
+      "subtitle": "",
+      "start": 367.43333333333334,
+      "end": 370.93333333333334,
+      "duration": 3.5,
+      "chapter": "missiles",
+      "spoken_start": 368.1333333333333,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-058",
+      "settle_after": 1.2
+    },
+    {
+      "start": 370.93333333333334,
+      "end": 386.8,
+      "duration": 15.866666666666674,
+      "kind": "photo",
+      "asset_id": "brahmos",
+      "title": "BRAHMOS",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-059",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-060",
+        "shot-061",
+        "shot-062"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 386.8,
+      "end": 395.8666666666667,
+      "duration": 9.066666666666666,
+      "kind": "archive",
+      "asset_id": "brahmos-launch",
+      "title": "BRAHMOS · परीक्षण प्रक्षेपण, 2022",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-060",
+      "original_scene_ids": [
+        "shot-063"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 395.8666666666667,
+      "end": 406.3333333333333,
+      "duration": 10.466666666666667,
+      "kind": "photo",
+      "asset_id": "agni",
+      "title": "AGNI · मिसाइल परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-061",
+      "original_scene_ids": [
+        "shot-064"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 406.3333333333333,
+      "end": 410.8333333333333,
+      "duration": 4.5,
+      "kind": "photo",
+      "asset_id": "prithvi",
+      "title": "PRITHVI-II · परीक्षण",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-062",
+      "original_scene_ids": [
+        "shot-065"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 410.8333333333333,
+      "end": 421.7,
+      "duration": 10.866666666666667,
+      "kind": "photo",
+      "asset_id": "shaheen",
+      "title": "SHAHEEN · मिसाइल परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-063",
+      "original_scene_ids": [
+        "shot-066"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 421.7,
+      "end": 427.4,
+      "duration": 5.7,
+      "kind": "photo",
+      "asset_id": "babur",
+      "title": "BABUR",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-064",
+      "original_scene_ids": [
+        "shot-067"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 427.4,
+      "end": 434.6,
+      "duration": 7.2,
+      "kind": "photo",
+      "asset_id": "fatah",
+      "title": "FATAH · प्रणाली परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-065",
+      "original_scene_ids": [
+        "shot-068"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 434.6,
+      "end": 440.6,
+      "duration": 6.0,
+      "kind": "archive",
+      "asset_id": "brahmos-test",
+      "title": "BRAHMOS · परीक्षण प्रक्षेपण, 2022",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-066",
+      "original_scene_ids": [
+        "shot-069"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 440.6,
+      "end": 443.1,
+      "duration": 2.5,
+      "kind": "photo",
+      "asset_id": "brahmos",
+      "title": "BRAHMOS",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-067",
+      "original_scene_ids": [
+        "shot-069"
+      ],
+      "camera_motion": false,
+      "role": "source-exhausted-matching-cutaway"
+    },
+    {
+      "start": 443.1,
+      "end": 446.06666666666666,
+      "duration": 2.966666666666667,
+      "kind": "photo",
+      "asset_id": "brahmos",
+      "title": "BRAHMOS",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-068",
+      "original_scene_ids": [
+        "shot-070"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 446.06666666666666,
+      "end": 450.46666666666664,
+      "duration": 4.4,
+      "kind": "photo",
+      "asset_id": "fatah",
+      "title": "FATAH · प्रणाली परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-069",
+      "original_scene_ids": [
+        "shot-071"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 450.46666666666664,
+      "end": 461.6333333333333,
+      "duration": 11.166666666666666,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-070",
+      "original_scene_ids": [
+        "shot-072"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 461.6333333333333,
+      "end": 473.1666666666667,
+      "duration": 11.533333333333333,
+      "kind": "photo",
+      "asset_id": "fatah",
+      "title": "FATAH · प्रणाली परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-071",
+      "original_scene_ids": [
+        "shot-073"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 473.1666666666667,
+      "end": 479.23333333333335,
+      "duration": 6.066666666666666,
+      "kind": "photo",
+      "asset_id": "brahmos",
+      "title": "BRAHMOS",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-072",
+      "original_scene_ids": [
+        "shot-074"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 479.23333333333335,
+      "end": 490.43333333333334,
+      "duration": 11.2,
+      "kind": "photo",
+      "asset_id": "shaheen",
+      "title": "SHAHEEN · मिसाइल परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-073",
+      "original_scene_ids": [
+        "shot-075"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "पैदल सेना के हथियार",
+      "subtitle": "",
+      "start": 490.43333333333334,
+      "end": 493.93333333333334,
+      "duration": 3.5,
+      "chapter": "infantry",
+      "spoken_start": 491.1333333333333,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-074",
+      "settle_after": 1.2
+    },
+    {
+      "start": 493.93333333333334,
+      "end": 519.2,
+      "duration": 25.26666666666671,
+      "kind": "photo",
+      "asset_id": "sig716",
+      "title": "SIG716i",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-075",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-076",
+        "shot-077",
+        "shot-078"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 519.2,
+      "end": 527.3333333333334,
+      "duration": 8.133333333333333,
+      "kind": "photo",
+      "asset_id": "ak203",
+      "title": "AK-203",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-076",
+      "original_scene_ids": [
+        "shot-079"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 527.3333333333334,
+      "end": 531.5333333333333,
+      "duration": 4.2,
+      "kind": "photo",
+      "asset_id": "insas",
+      "title": "INSAS",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-077",
+      "original_scene_ids": [
+        "shot-080"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 531.5333333333333,
+      "end": 538.2666666666667,
+      "duration": 6.733333333333333,
+      "kind": "archive",
+      "asset_id": "austrahind",
+      "title": "पैदल सेना प्रशिक्षण · AUSTRAHIND, 2022",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 35,
+      "source_in": 35.0,
+      "id": "hi006-078",
+      "original_scene_ids": [
+        "shot-081"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 538.2666666666667,
+      "end": 551.5666666666667,
+      "duration": 13.3,
+      "kind": "photo",
+      "asset_id": "g3",
+      "title": "G3",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-079",
+      "original_scene_ids": [
+        "shot-082"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 551.5666666666667,
+      "end": 562.6666666666666,
+      "duration": 11.1,
+      "kind": "photo",
+      "asset_id": "type56",
+      "title": "TYPE 56 · असॉल्ट राइफ़ल परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-080",
+      "original_scene_ids": [
+        "shot-083"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 562.6666666666666,
+      "end": 573.9666666666667,
+      "duration": 11.3,
+      "kind": "archive",
+      "asset_id": "optics-training",
+      "title": "ऑप्टिक्स और संचार · अभ्यास, 2026",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 37,
+      "source_in": 37.0,
+      "id": "hi006-081",
+      "original_scene_ids": [
+        "shot-084"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 573.9666666666667,
+      "end": 576.3666666666667,
+      "duration": 2.4,
+      "kind": "archive",
+      "asset_id": "medevac-training",
+      "title": "चिकित्सा प्रशिक्षण · अभ्यास, 2026",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "source_in": 8.0,
+      "id": "hi006-082",
+      "original_scene_ids": [
+        "shot-085"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 576.3666666666667,
+      "end": 588.4,
+      "duration": 12.033333333333333,
+      "kind": "archive",
+      "asset_id": "yudh22",
+      "title": "पर्वतीय प्रशिक्षण · अभ्यास, 2022",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 15,
+      "source_in": 15.0,
+      "id": "hi006-083",
+      "original_scene_ids": [
+        "shot-086"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 588.4,
+      "end": 593.5666666666667,
+      "duration": 5.166666666666667,
+      "kind": "photo",
+      "asset_id": "sig716",
+      "title": "SIG716",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-084",
+      "original_scene_ids": [
+        "shot-087"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 593.5666666666667,
+      "end": 598.4333333333333,
+      "duration": 4.866666666666666,
+      "kind": "archive",
+      "asset_id": "infantry2019",
+      "title": "YUDH ABHYAS · अभ्यास, 2019",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 2,
+      "source_in": 2.0,
+      "id": "hi006-085",
+      "original_scene_ids": [
+        "shot-088"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 598.4333333333333,
+      "end": 603.5666666666667,
+      "duration": 5.133333333333334,
+      "kind": "photo",
+      "asset_id": "g3",
+      "title": "G3",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-086",
+      "original_scene_ids": [
+        "shot-089"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 603.5666666666667,
+      "end": 612.6333333333333,
+      "duration": 9.066666666666666,
+      "kind": "archive",
+      "asset_id": "yudh20",
+      "title": "इकाइयों का समन्वय · अभ्यास, 2021",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 40,
+      "source_in": 40.0,
+      "id": "hi006-087",
+      "original_scene_ids": [
+        "shot-090"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "तोपख़ाना",
+      "subtitle": "",
+      "start": 612.6333333333333,
+      "end": 616.1333333333333,
+      "duration": 3.5,
+      "chapter": "artillery",
+      "spoken_start": 613.3333333333334,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-088",
+      "settle_after": 1.2
+    },
+    {
+      "start": 616.1333333333333,
+      "end": 632.1666666666666,
+      "duration": 16.033333333333303,
+      "kind": "photo",
+      "asset_id": "k9",
+      "title": "K9 VAJRA-T",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-089",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-091",
+        "shot-092"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 632.1666666666666,
+      "end": 645.1666666666666,
+      "duration": 13.0,
+      "kind": "archive",
+      "asset_id": "m777-india",
+      "title": "M777 · अभ्यास, 2026",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 38,
+      "source_in": 38.0,
+      "id": "hi006-090",
+      "original_scene_ids": [
+        "shot-093",
+        "shot-094"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 645.1666666666666,
+      "end": 652.6333333333333,
+      "duration": 7.466666666666667,
+      "kind": "photo",
+      "asset_id": "atags",
+      "title": "ATAGS",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-091",
+      "original_scene_ids": [
+        "shot-095"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 652.6333333333333,
+      "end": 671.2333333333333,
+      "duration": 18.6,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "SH-15 · स्वचालित होवित्ज़र",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "nodes": [
+        "155 मिमी",
+        "पहियों वाला चेसिस",
+        "गतिशीलता"
+      ],
+      "id": "hi006-092",
+      "original_scene_ids": [
+        "shot-096"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 671.2333333333333,
+      "end": 678.3,
+      "duration": 7.066666666666666,
+      "kind": "archive",
+      "asset_id": "m109-action",
+      "title": "M109 · परिवार, अमेरिकी अभ्यास",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 8.0,
+      "id": "hi006-093",
+      "original_scene_ids": [
+        "shot-097"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 678.3,
+      "end": 683.8333333333334,
+      "duration": 5.533333333333333,
+      "kind": "map",
+      "asset_id": "map-north",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-094",
+      "original_scene_ids": [
+        "shot-098"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 683.8333333333334,
+      "end": 694.1,
+      "duration": 10.266666666666667,
+      "kind": "archive",
+      "asset_id": "m777-joint",
+      "title": "M777 · संयुक्त अभ्यास, 2026",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 15.0,
+      "id": "hi006-095",
+      "original_scene_ids": [
+        "shot-099"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 694.1,
+      "end": 700.1333333333333,
+      "duration": 6.033333333333333,
+      "kind": "graphic",
+      "asset_id": "original",
+      "title": "SH-15 · स्वचालित होवित्ज़र",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "nodes": [
+        "155 मिमी",
+        "पहियों वाला चेसिस",
+        "गतिशीलता"
+      ],
+      "id": "hi006-096",
+      "original_scene_ids": [
+        "shot-100"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 700.1333333333333,
+      "end": 713.2666666666667,
+      "duration": 13.133333333333333,
+      "kind": "map",
+      "asset_id": "map-north",
+      "title": "दक्षिण एशिया",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-097",
+      "original_scene_ids": [
+        "shot-101"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 713.2666666666667,
+      "end": 717.5333333333333,
+      "duration": 4.266666666666667,
+      "kind": "photo",
+      "asset_id": "k9",
+      "title": "K9 VAJRA-T",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-098",
+      "original_scene_ids": [
+        "shot-102"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "ड्रोन",
+      "subtitle": "",
+      "start": 717.5333333333333,
+      "end": 721.0333333333333,
+      "duration": 3.5,
+      "chapter": "drones",
+      "spoken_start": 718.2333333333333,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-099",
+      "settle_after": 1.2
+    },
+    {
+      "start": 721.0333333333333,
+      "end": 730.8666666666667,
+      "duration": 9.833333333333371,
+      "kind": "photo",
+      "asset_id": "heron",
+      "title": "HERON",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-100",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-103",
+        "shot-104"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 730.8666666666667,
+      "end": 741.7,
+      "duration": 10.833333333333334,
+      "kind": "photo",
+      "asset_id": "harop",
+      "title": "IAI HAROP",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-101",
+      "original_scene_ids": [
+        "shot-105"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 741.7,
+      "end": 746.2,
+      "duration": 4.5,
+      "kind": "photo",
+      "asset_id": "heron",
+      "title": "HERON · निगरानी ड्रोन",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-102",
+      "original_scene_ids": [
+        "shot-106"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 746.2,
+      "end": 762.5333333333333,
+      "duration": 16.333333333333332,
+      "kind": "photo",
+      "asset_id": "shahpar",
+      "title": "SHAHPAR-II",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-103",
+      "original_scene_ids": [
+        "shot-107"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 762.5333333333333,
+      "end": 774.8333333333334,
+      "duration": 12.3,
+      "kind": "compare",
+      "title": "मानवरहित प्रणालियाँ",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "heron",
+          "HERON",
+          "IN"
+        ],
+        [
+          "shahpar",
+          "SHAHPAR-II",
+          "PK"
+        ]
+      ],
+      "id": "hi006-104",
+      "original_scene_ids": [
+        "shot-108"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 774.8333333333334,
+      "end": 777.3333333333334,
+      "duration": 2.5,
+      "kind": "photo",
+      "asset_id": "akash",
+      "title": "AKASH",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-105",
+      "original_scene_ids": [
+        "shot-109"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 777.3333333333334,
+      "end": 783.3,
+      "duration": 5.966666666666667,
+      "kind": "photo",
+      "asset_id": "hq9",
+      "title": "HQ-9 · प्रणाली परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-106",
+      "original_scene_ids": [
+        "shot-110"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 783.3,
+      "end": 793.9666666666667,
+      "duration": 10.666666666666666,
+      "kind": "photo",
+      "asset_id": "shahpar",
+      "title": "SHAHPAR-II",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-107",
+      "original_scene_ids": [
+        "shot-111"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 793.9666666666667,
+      "end": 806.8666666666667,
+      "duration": 12.9,
+      "kind": "photo",
+      "asset_id": "harop",
+      "title": "IAI HAROP",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-108",
+      "original_scene_ids": [
+        "shot-112"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 806.8666666666667,
+      "end": 813.1666666666666,
+      "duration": 6.3,
+      "kind": "photo",
+      "asset_id": "shahpar",
+      "title": "SHAHPAR-II",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-109",
+      "original_scene_ids": [
+        "shot-113"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 813.1666666666666,
+      "end": 824.3666666666667,
+      "duration": 11.2,
+      "kind": "compare",
+      "title": "मानवरहित प्रणालियाँ",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "heron",
+          "HERON",
+          "IN"
+        ],
+        [
+          "shahpar",
+          "SHAHPAR-II",
+          "PK"
+        ]
+      ],
+      "id": "hi006-110",
+      "original_scene_ids": [
+        "shot-114"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "वायु रक्षा",
+      "subtitle": "",
+      "start": 824.3666666666667,
+      "end": 827.8666666666667,
+      "duration": 3.5,
+      "chapter": "airdef",
+      "spoken_start": 825.0666666666667,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-111",
+      "settle_after": 1.2
+    },
+    {
+      "start": 827.8666666666667,
+      "end": 841.6666666666666,
+      "duration": 13.799999999999955,
+      "kind": "photo",
+      "asset_id": "s400",
+      "title": "S-400 · प्रणाली परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-112",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-115",
+        "shot-116",
+        "shot-117"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 841.6666666666666,
+      "end": 852.0333333333333,
+      "duration": 10.366666666666667,
+      "kind": "photo",
+      "asset_id": "akash",
+      "title": "AKASH",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-113",
+      "original_scene_ids": [
+        "shot-118"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 852.0333333333333,
+      "end": 857.1333333333333,
+      "duration": 5.1,
+      "kind": "compare",
+      "title": "बहुस्तरीय रक्षा",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "s400",
+          "S-400 · परिवार",
+          "IN"
+        ],
+        [
+          "hq9",
+          "HQ-9 · परिवार",
+          "PK"
+        ]
+      ],
+      "id": "hi006-114",
+      "original_scene_ids": [
+        "shot-119"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 857.1333333333333,
+      "end": 869.1666666666666,
+      "duration": 12.033333333333333,
+      "kind": "photo",
+      "asset_id": "hq9",
+      "title": "HQ-9 · प्रणाली परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-115",
+      "original_scene_ids": [
+        "shot-120"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 869.1666666666666,
+      "end": 875.2666666666667,
+      "duration": 6.1,
+      "kind": "photo",
+      "asset_id": "ly80",
+      "title": "HQ-16 · LY-80 परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-116",
+      "original_scene_ids": [
+        "shot-121"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 875.2666666666667,
+      "end": 887.2333333333333,
+      "duration": 11.966666666666667,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-117",
+      "original_scene_ids": [
+        "shot-122"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 887.2333333333333,
+      "end": 893.8666666666667,
+      "duration": 6.633333333333334,
+      "kind": "photo",
+      "asset_id": "s400",
+      "title": "S-400 · प्रणाली परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-118",
+      "original_scene_ids": [
+        "shot-123"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 893.8666666666667,
+      "end": 899.4,
+      "duration": 5.533333333333333,
+      "kind": "photo",
+      "asset_id": "brahmos",
+      "title": "BRAHMOS",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-119",
+      "original_scene_ids": [
+        "shot-124"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 899.4,
+      "end": 906.9,
+      "duration": 7.5,
+      "kind": "compare",
+      "title": "वायु रक्षा की भी सीमाएँ हैं",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "s400",
+          "S-400 · परिवार",
+          "IN"
+        ],
+        [
+          "hq9",
+          "HQ-9 · परिवार",
+          "PK"
+        ]
+      ],
+      "id": "hi006-120",
+      "original_scene_ids": [
+        "shot-125"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 906.9,
+      "end": 917.5333333333333,
+      "duration": 10.633333333333333,
+      "kind": "archive",
+      "asset_id": "integrated",
+      "title": "कमान और समन्वय · अभ्यास, 2026",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 12,
+      "source_in": 12.0,
+      "id": "hi006-121",
+      "original_scene_ids": [
+        "shot-126"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 917.5333333333333,
+      "end": 924.9666666666667,
+      "duration": 7.433333333333394,
+      "kind": "photo",
+      "asset_id": "akash",
+      "title": "AKASH",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-122",
+      "original_scene_ids": [
+        "shot-127",
+        "shot-128"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 924.9666666666667,
+      "end": 929.0666666666667,
+      "duration": 4.1,
+      "kind": "photo",
+      "asset_id": "hq9",
+      "title": "HQ-9 · प्रणाली परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-123",
+      "original_scene_ids": [
+        "shot-129"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 929.0666666666667,
+      "end": 935.0333333333333,
+      "duration": 5.966666666666667,
+      "kind": "photo",
+      "asset_id": "akash",
+      "title": "AKASH",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-124",
+      "original_scene_ids": [
+        "shot-130"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "हेलीकॉप्टर",
+      "subtitle": "",
+      "start": 935.0333333333333,
+      "end": 938.5333333333333,
+      "duration": 3.5,
+      "chapter": "helicopters",
+      "spoken_start": 935.7333333333333,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-125",
+      "settle_after": 1.2
+    },
+    {
+      "start": 938.5333333333333,
+      "end": 939.7333333333333,
+      "duration": 1.2,
+      "kind": "photo",
+      "asset_id": "model-apache",
+      "title": "AH-64 APACHE · परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-126",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-131"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 939.7333333333333,
+      "end": 949.5333333333333,
+      "duration": 9.8,
+      "kind": "turntable",
+      "asset_id": "model-apache",
+      "title": "AH-64 APACHE · परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "preferred_in": 0,
+      "source_in": 0,
+      "id": "hi006-127",
+      "original_scene_ids": [
+        "shot-132"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 949.5333333333333,
+      "end": 954.1666666666666,
+      "duration": 4.633333333333334,
+      "kind": "archive",
+      "asset_id": "apache-indian-action",
+      "title": "AH-64 · भारत, अभ्यास 2026",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 16,
+      "source_in": 16.0,
+      "id": "hi006-128",
+      "original_scene_ids": [
+        "shot-133"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 954.1666666666666,
+      "end": 965.4333333333333,
+      "duration": 11.266666666666667,
+      "kind": "photo",
+      "asset_id": "lch",
+      "title": "HAL PRACHAND",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-129",
+      "original_scene_ids": [
+        "shot-134"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 965.4333333333333,
+      "end": 970.8333333333334,
+      "duration": 5.4,
+      "kind": "archive",
+      "asset_id": "austrahind",
+      "title": "DHRUV · AUSTRAHIND, 2022",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 5.5,
+      "source_in": 5.5,
+      "id": "hi006-130",
+      "original_scene_ids": [
+        "shot-135"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 970.8333333333334,
+      "end": 992.3666666666667,
+      "duration": 21.533333333333303,
+      "kind": "photo",
+      "asset_id": "cobra-pak",
+      "title": "AH-1 COBRA · परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-131",
+      "original_scene_ids": [
+        "shot-136",
+        "shot-137"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 992.3666666666667,
+      "end": 997.1,
+      "duration": 4.733333333333333,
+      "kind": "archive",
+      "asset_id": "apache-demo",
+      "title": "AH-64 · परिवार, अमेरिकी अभ्यास",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 8.0,
+      "id": "hi006-132",
+      "original_scene_ids": [
+        "shot-138"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 997.1,
+      "end": 1001.0333333333333,
+      "duration": 3.933333333333333,
+      "kind": "photo",
+      "asset_id": "cobra-pak",
+      "title": "AH-1 COBRA · परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-133",
+      "original_scene_ids": [
+        "shot-139"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1001.0333333333333,
+      "end": 1014.5333333333333,
+      "duration": 13.5,
+      "kind": "map",
+      "asset_id": "map-north",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-134",
+      "original_scene_ids": [
+        "shot-140"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1014.5333333333333,
+      "end": 1021.2666666666667,
+      "duration": 6.733333333333333,
+      "kind": "turntable",
+      "asset_id": "model-apache",
+      "title": "AH-64 APACHE · परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "preferred_in": 32,
+      "source_in": 0,
+      "id": "hi006-135",
+      "original_scene_ids": [
+        "shot-141"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "नौसेना",
+      "subtitle": "",
+      "start": 1021.2666666666667,
+      "end": 1024.7666666666667,
+      "duration": 3.5,
+      "chapter": "navy",
+      "spoken_start": 1021.9666666666667,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-136",
+      "settle_after": 1.2
+    },
+    {
+      "start": 1024.7666666666667,
+      "end": 1029.2666666666667,
+      "duration": 4.5,
+      "kind": "photo",
+      "asset_id": "vikrant",
+      "title": "INS VIKRANT · नौसेना के अभिलेख",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-137",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-142",
+        "shot-143"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1029.2666666666667,
+      "end": 1041.5333333333333,
+      "duration": 12.266666666666667,
+      "kind": "archive",
+      "asset_id": "vikrant-video",
+      "title": "INS VIKRANT · नौसेना के अभिलेख",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 26.0,
+      "id": "hi006-138",
+      "original_scene_ids": [
+        "shot-144"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1041.5333333333333,
+      "end": 1046.9,
+      "duration": 5.366666666666666,
+      "kind": "photo",
+      "asset_id": "vikramaditya",
+      "title": "INS VIKRAMADITYA",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-139",
+      "original_scene_ids": [
+        "shot-145"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1046.9,
+      "end": 1056.7666666666667,
+      "duration": 9.866666666666667,
+      "kind": "photo",
+      "asset_id": "kolkata",
+      "title": "KOLKATA श्रेणी का विध्वंसक",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-140",
+      "original_scene_ids": [
+        "shot-146"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1056.7666666666667,
+      "end": 1061.3333333333333,
+      "duration": 4.566666666666666,
+      "kind": "photo",
+      "asset_id": "kalvari",
+      "title": "KALVARI श्रेणी की पनडुब्बियाँ",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-141",
+      "original_scene_ids": [
+        "shot-147"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1061.3333333333333,
+      "end": 1066.6333333333334,
+      "duration": 5.3,
+      "kind": "photo",
+      "asset_id": "arihant",
+      "title": "INS ARIHANT",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-142",
+      "original_scene_ids": [
+        "shot-148"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1066.6333333333334,
+      "end": 1086.4333333333334,
+      "duration": 19.8,
+      "kind": "photo",
+      "asset_id": "type054",
+      "title": "TUGHRIL · TYPE 054A/P",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-143",
+      "original_scene_ids": [
+        "shot-149"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1086.4333333333334,
+      "end": 1095.0333333333333,
+      "duration": 8.6,
+      "kind": "photo",
+      "asset_id": "agosta",
+      "title": "AGOSTA · पनडुब्बी परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-144",
+      "original_scene_ids": [
+        "shot-150"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1095.0333333333333,
+      "end": 1101.6666666666667,
+      "duration": 6.633333333333334,
+      "kind": "map",
+      "asset_id": "map-navy",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-145",
+      "original_scene_ids": [
+        "shot-151"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1101.6666666666667,
+      "end": 1110.0,
+      "duration": 8.333333333333334,
+      "kind": "archive",
+      "asset_id": "navy-shakti",
+      "title": "INS SHAKTI · MALABAR, 2020",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 4.0,
+      "id": "hi006-146",
+      "original_scene_ids": [
+        "shot-152"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1110.0,
+      "end": 1117.2333333333333,
+      "duration": 7.233333333333333,
+      "kind": "photo",
+      "asset_id": "type054",
+      "title": "TUGHRIL · TYPE 054A/P",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-147",
+      "original_scene_ids": [
+        "shot-153"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1117.2333333333333,
+      "end": 1123.4333333333334,
+      "duration": 6.2,
+      "kind": "archive",
+      "asset_id": "malabar",
+      "title": "संयुक्त नौसैनिक अभ्यास · MALABAR, 2020",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 30.0,
+      "id": "hi006-148",
+      "original_scene_ids": [
+        "shot-154"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1123.4333333333334,
+      "end": 1126.5666666666666,
+      "duration": 3.1333333333333333,
+      "kind": "photo",
+      "asset_id": "agosta",
+      "title": "AGOSTA · परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-149",
+      "original_scene_ids": [
+        "shot-155"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1126.5666666666666,
+      "end": 1137.2666666666667,
+      "duration": 10.7,
+      "kind": "photo",
+      "asset_id": "kalvari",
+      "title": "KALVARI श्रेणी की पनडुब्बियाँ",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-150",
+      "original_scene_ids": [
+        "shot-156"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "परमाणु शस्त्रागार",
+      "subtitle": "",
+      "start": 1137.2666666666667,
+      "end": 1140.7666666666667,
+      "duration": 3.5,
+      "chapter": "nuclear",
+      "spoken_start": 1137.9666666666667,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-151",
+      "settle_after": 1.2
+    },
+    {
+      "start": 1140.7666666666667,
+      "end": 1142.4,
+      "duration": 1.6333333333333333,
+      "kind": "photo",
+      "asset_id": "agni",
+      "title": "AGNI · मिसाइल परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-152",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-157"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1142.4,
+      "end": 1165.0,
+      "duration": 22.59999999999991,
+      "kind": "graphic",
+      "asset_id": "nuclear",
+      "title": "परमाणु शस्त्रागार · SIPRI का अनुमान",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "nodes": [
+        "भारत · लगभग 190",
+        "पाकिस्तान · लगभग 170",
+        "अनुमान · जनवरी 2026"
+      ],
+      "id": "hi006-153",
+      "original_scene_ids": [
+        "shot-158",
+        "shot-159"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1165.0,
+      "end": 1168.5666666666666,
+      "duration": 3.566666666666667,
+      "kind": "photo",
+      "asset_id": "agni",
+      "title": "AGNI · मिसाइल परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-154",
+      "original_scene_ids": [
+        "shot-160"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1168.5666666666666,
+      "end": 1172.4333333333334,
+      "duration": 3.8666666666666667,
+      "kind": "archive",
+      "asset_id": "k4-launch",
+      "title": "K-4 · परीक्षण प्रक्षेपण, 2014",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 1,
+      "source_in": 1.0,
+      "id": "hi006-155",
+      "original_scene_ids": [
+        "shot-161"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1172.4333333333334,
+      "end": 1184.2,
+      "duration": 11.766666666666667,
+      "kind": "photo",
+      "asset_id": "shaheen",
+      "title": "SHAHEEN · मिसाइल परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-156",
+      "original_scene_ids": [
+        "shot-162"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1184.2,
+      "end": 1201.0,
+      "duration": 16.8,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-157",
+      "original_scene_ids": [
+        "shot-163"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1201.0,
+      "end": 1205.7666666666667,
+      "duration": 4.766666666666667,
+      "kind": "photo",
+      "asset_id": "delhi",
+      "title": "नई दिल्ली",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-158",
+      "original_scene_ids": [
+        "shot-164"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1205.7666666666667,
+      "end": 1214.7,
+      "duration": 8.933333333333334,
+      "kind": "photo",
+      "asset_id": "islamabad",
+      "title": "इस्लामाबाद",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-159",
+      "original_scene_ids": [
+        "shot-165"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1214.7,
+      "end": 1222.3333333333333,
+      "duration": 7.633333333333334,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "दक्षिण एशिया",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-160",
+      "original_scene_ids": [
+        "shot-166"
+      ],
+      "camera_motion": false
+    },
+    {
+      "kind": "section",
+      "title": "निष्कर्ष",
+      "subtitle": "",
+      "start": 1222.3333333333333,
+      "end": 1225.8333333333333,
+      "duration": 3.5,
+      "chapter": "conclusion",
+      "spoken_start": 1223.0333333333333,
+      "original_scene_ids": [],
+      "entrance_once": true,
+      "camera_motion": false,
+      "id": "hi006-161",
+      "settle_after": 1.2
+    },
+    {
+      "start": 1225.8333333333333,
+      "end": 1230.0666666666666,
+      "duration": 4.2333333333333485,
+      "kind": "photo",
+      "asset_id": "rafale-india",
+      "title": "RAFALE · विमान परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-162",
+      "role": "original-section-reserve",
+      "original_scene_ids": [
+        "shot-167",
+        "shot-168"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1230.0666666666666,
+      "end": 1235.8,
+      "duration": 5.733333333333333,
+      "kind": "turntable",
+      "asset_id": "model-rafale",
+      "title": "RAFALE · विमान परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "preferred_in": 0,
+      "source_in": 0,
+      "id": "hi006-163",
+      "original_scene_ids": [
+        "shot-169"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1235.8,
+      "end": 1246.6333333333334,
+      "duration": 10.833333333333334,
+      "kind": "photo",
+      "asset_id": "j10",
+      "title": "J-10 · विमान परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-164",
+      "original_scene_ids": [
+        "shot-170"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1246.6333333333334,
+      "end": 1250.1333333333334,
+      "duration": 3.5,
+      "kind": "photo",
+      "asset_id": "bhishma",
+      "title": "T-90S BHISHMA",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-165",
+      "original_scene_ids": [
+        "shot-171"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1250.1333333333334,
+      "end": 1255.7333333333333,
+      "duration": 5.6,
+      "kind": "photo",
+      "asset_id": "vt4",
+      "title": "VT-4",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-166",
+      "original_scene_ids": [
+        "shot-172"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1255.7333333333333,
+      "end": 1261.2666666666667,
+      "duration": 5.533333333333333,
+      "kind": "compare",
+      "title": "BRAHMOS और SHAHEEN",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "brahmos",
+          "BRAHMOS",
+          "IN"
+        ],
+        [
+          "shaheen",
+          "SHAHEEN · परिवार",
+          "PK"
+        ]
+      ],
+      "id": "hi006-167",
+      "original_scene_ids": [
+        "shot-173"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1261.2666666666667,
+      "end": 1270.7,
+      "duration": 9.433333333333334,
+      "kind": "archive",
+      "asset_id": "m777-india",
+      "title": "M777 · अभ्यास, 2026",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 13.63333333333344,
+      "id": "hi006-168",
+      "original_scene_ids": [
+        "shot-174"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1270.7,
+      "end": 1275.9,
+      "duration": 5.2,
+      "kind": "compare",
+      "title": "HERON और SHAHPAR-II",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "heron",
+          "HERON",
+          "IN"
+        ],
+        [
+          "shahpar",
+          "SHAHPAR-II",
+          "PK"
+        ]
+      ],
+      "id": "hi006-169",
+      "original_scene_ids": [
+        "shot-175"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1275.9,
+      "end": 1283.9666666666667,
+      "duration": 8.066666666666666,
+      "kind": "compare",
+      "title": "S-400 और HQ-9",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "s400",
+          "S-400 · परिवार",
+          "IN"
+        ],
+        [
+          "hq9",
+          "HQ-9 · परिवार",
+          "PK"
+        ]
+      ],
+      "id": "hi006-170",
+      "original_scene_ids": [
+        "shot-176"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1283.9666666666667,
+      "end": 1290.8666666666666,
+      "duration": 6.9,
+      "kind": "archive",
+      "asset_id": "vikrant-video",
+      "title": "INS VIKRANT · नौसेना के अभिलेख",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 59.0,
+      "id": "hi006-171",
+      "original_scene_ids": [
+        "insert-038937"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1290.8666666666666,
+      "end": 1293.3666666666666,
+      "duration": 2.5,
+      "kind": "photo",
+      "asset_id": "vikrant",
+      "title": "VIKRANT",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "id": "hi006-172",
+      "original_scene_ids": [
+        "insert-039117"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1293.3666666666666,
+      "end": 1299.9,
+      "duration": 6.533333333333333,
+      "kind": "photo",
+      "asset_id": "agosta",
+      "title": "AGOSTA · परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-173",
+      "original_scene_ids": [
+        "shot-178"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1299.9,
+      "end": 1309.6333333333334,
+      "duration": 9.733333333333333,
+      "kind": "photo",
+      "asset_id": "shaheen",
+      "title": "SHAHEEN · मिसाइल परिवार",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-174",
+      "original_scene_ids": [
+        "shot-179"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1309.6333333333334,
+      "end": 1323.1333333333334,
+      "duration": 13.5,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-175",
+      "original_scene_ids": [
+        "shot-180"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1323.1333333333334,
+      "end": 1331.8666666666666,
+      "duration": 8.733333333333333,
+      "kind": "photo",
+      "asset_id": "j10ce",
+      "title": "J-10CE · झुहाई प्रदर्शनी 2024",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-176",
+      "original_scene_ids": [
+        "shot-181"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1331.8666666666666,
+      "end": 1335.5666666666666,
+      "duration": 3.7,
+      "kind": "turntable",
+      "asset_id": "model-rafale",
+      "title": "RAFALE · विमान परिवार",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "उपकरण परिवार का 3D चित्रण",
+      "preferred_in": 0,
+      "source_in": 0,
+      "id": "hi006-177",
+      "original_scene_ids": [
+        "shot-182"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1335.5666666666666,
+      "end": 1339.2666666666667,
+      "duration": 3.7,
+      "kind": "photo",
+      "asset_id": "vt4",
+      "title": "VT-4",
+      "country": "PK",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-178",
+      "original_scene_ids": [
+        "shot-183"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1339.2666666666667,
+      "end": 1347.5,
+      "duration": 8.233333333333333,
+      "kind": "archive",
+      "asset_id": "yudh22",
+      "title": "इकाइयों का प्रशिक्षण · अभ्यास, 2022",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 75,
+      "source_in": 75.0,
+      "id": "hi006-179",
+      "original_scene_ids": [
+        "shot-184"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1347.5,
+      "end": 1355.9,
+      "duration": 8.4,
+      "kind": "map",
+      "asset_id": "map-region",
+      "title": "दक्षिण एशिया",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "source_in": 0.0,
+      "id": "hi006-180",
+      "original_scene_ids": [
+        "shot-185"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1355.9,
+      "end": 1360.8,
+      "duration": 4.9,
+      "kind": "question",
+      "asset_id": "original",
+      "title": "आपको सबसे अधिक किस बात ने चौंकाया?",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "nodes": [
+        "वायुसेना",
+        "मिसाइलें",
+        "नौसेना"
+      ],
+      "id": "hi006-181",
+      "original_scene_ids": [
+        "shot-186"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1360.8,
+      "end": 1364.1333333333334,
+      "duration": 3.3333333333333335,
+      "kind": "compare",
+      "title": "RAFALE और J-10CE?",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "rafale-india",
+          "RAFALE",
+          "IN"
+        ],
+        [
+          "j10",
+          "J-10 · परिवार",
+          "PK"
+        ]
+      ],
+      "id": "hi006-182",
+      "original_scene_ids": [
+        "shot-187"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1364.1333333333334,
+      "end": 1366.5333333333333,
+      "duration": 2.4,
+      "kind": "compare",
+      "title": "BRAHMOS और SHAHEEN?",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "brahmos",
+          "BRAHMOS",
+          "IN"
+        ],
+        [
+          "shaheen",
+          "SHAHEEN · परिवार",
+          "PK"
+        ]
+      ],
+      "id": "hi006-183",
+      "original_scene_ids": [
+        "shot-188"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1366.5333333333333,
+      "end": 1370.1333333333334,
+      "duration": 3.6,
+      "kind": "compare",
+      "title": "विमानवाहक पोत या पनडुब्बियाँ?",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "sides": [
+        [
+          "vikrant",
+          "INS VIKRANT",
+          "IN"
+        ],
+        [
+          "agosta",
+          "AGOSTA · परिवार",
+          "PK"
+        ]
+      ],
+      "id": "hi006-184",
+      "original_scene_ids": [
+        "shot-189"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1370.1333333333334,
+      "end": 1378.5,
+      "duration": 8.366666666666667,
+      "kind": "question",
+      "asset_id": "original",
+      "title": "अगली तुलना किन दो देशों की हो?",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "nodes": [
+        "आपकी राय",
+        "आपकी पसंद के देश",
+        "कमेंट"
+      ],
+      "id": "hi006-185",
+      "original_scene_ids": [
+        "shot-190"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1378.5,
+      "end": 1385.4666666666667,
+      "duration": 6.966666666666667,
+      "kind": "outro",
+      "asset_id": "original",
+      "title": "शस्त्र 360 को सब्सक्राइब करें",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "preferred_in": 0,
+      "id": "hi006-186",
+      "original_scene_ids": [
+        "shot-191"
+      ],
+      "camera_motion": false
+    },
+    {
+      "start": 1385.4666666666667,
+      "end": 1391.5,
+      "duration": 6.033333333333303,
+      "kind": "ident",
+      "asset_id": "original",
+      "title": "ARSENAL 360",
+      "country": "IN",
+      "entrance_once": true,
+      "settle_after": 1.2,
+      "note": "",
+      "subtitle": "शस्त्र 360",
+      "id": "hi006-187",
+      "original_scene_ids": [
+        "shot-192"
+      ],
+      "camera_motion": false
+    }
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "spoken_start": 0,
+      "title": "परिचय",
+      "display_start": 0
+    },
+    {
+      "start": 100.23333333333333,
+      "spoken_start": 100.23333333333333,
+      "display_start": 99.53333333333333,
+      "fully_visible_at": 100.18333333333334,
+      "display_end": 103.03333333333333,
+      "title": "वायुसेना"
+    },
+    {
+      "start": 243.2,
+      "spoken_start": 243.2,
+      "display_start": 242.5,
+      "fully_visible_at": 243.15,
+      "display_end": 246.0,
+      "title": "टैंक और बख़्तरबंद वाहन"
+    },
+    {
+      "start": 368.1333333333333,
+      "spoken_start": 368.1333333333333,
+      "display_start": 367.43333333333334,
+      "fully_visible_at": 368.0833333333333,
+      "display_end": 370.93333333333334,
+      "title": "मिसाइलें"
+    },
+    {
+      "start": 491.1333333333333,
+      "spoken_start": 491.1333333333333,
+      "display_start": 490.43333333333334,
+      "fully_visible_at": 491.0833333333333,
+      "display_end": 493.93333333333334,
+      "title": "पैदल सेना के हथियार"
+    },
+    {
+      "start": 613.3333333333334,
+      "spoken_start": 613.3333333333334,
+      "display_start": 612.6333333333333,
+      "fully_visible_at": 613.2833333333333,
+      "display_end": 616.1333333333333,
+      "title": "तोपख़ाना"
+    },
+    {
+      "start": 718.2333333333333,
+      "spoken_start": 718.2333333333333,
+      "display_start": 717.5333333333333,
+      "fully_visible_at": 718.1833333333333,
+      "display_end": 721.0333333333333,
+      "title": "ड्रोन"
+    },
+    {
+      "start": 825.0666666666667,
+      "spoken_start": 825.0666666666667,
+      "display_start": 824.3666666666667,
+      "fully_visible_at": 825.0166666666667,
+      "display_end": 827.8666666666667,
+      "title": "वायु रक्षा"
+    },
+    {
+      "start": 935.7333333333333,
+      "spoken_start": 935.7333333333333,
+      "display_start": 935.0333333333333,
+      "fully_visible_at": 935.6833333333333,
+      "display_end": 938.5333333333333,
+      "title": "हेलीकॉप्टर"
+    },
+    {
+      "start": 1021.9666666666667,
+      "spoken_start": 1021.9666666666667,
+      "display_start": 1021.2666666666667,
+      "fully_visible_at": 1021.9166666666666,
+      "display_end": 1024.7666666666667,
+      "title": "नौसेना"
+    },
+    {
+      "start": 1137.9666666666667,
+      "spoken_start": 1137.9666666666667,
+      "display_start": 1137.2666666666667,
+      "fully_visible_at": 1137.9166666666667,
+      "display_end": 1140.7666666666667,
+      "title": "परमाणु शस्त्रागार"
+    },
+    {
+      "start": 1223.0333333333333,
+      "spoken_start": 1223.0333333333333,
+      "display_start": 1222.3333333333333,
+      "fully_visible_at": 1222.9833333333333,
+      "display_end": 1225.8333333333333,
+      "title": "निष्कर्ष"
+    }
+  ],
+  "motion_policy": {
+    "archive": "Normal speed with matching cutaway if source exhausted; no loops or frozen tails",
+    "native_3d": "720 native frames, smooth 24-second full revolution, fixed camera",
+    "cards": "One entrance and hold",
+    "photos": "locked",
+    "maps": "True 3D elevation mesh with animated camera and Hindi labels"
+  }
+}

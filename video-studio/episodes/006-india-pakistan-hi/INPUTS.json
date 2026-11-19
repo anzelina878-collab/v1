@@ -1,0 +1,18 @@
+{
+  "audio/voiceover.mp3": {
+    "bytes": 16697568,
+    "sha256": "9236b5b4790c9fe0fc36a91e35fa6c406575bc25061a7cf2cf9c33e36faf6221"
+  },
+  "inputs/original-episode.json": {
+    "bytes": 162821,
+    "sha256": "78bddee5cea0af77f1188bb11adfed912f8622f409ba1bc9a84d7503d997e85b"
+  },
+  "inputs/original-paragraphs.json": {
+    "bytes": 75919,
+    "sha256": "53c6eacd1a306972ab2ea2ffc90e0adfa2aa1d4c85ebbb53753773589f2933b1"
+  },
+  "inputs/original-manifest.json": {
+    "bytes": 92856,
+    "sha256": "f336923ffdd1e83108591ed886347a15570e8ab81d49ebeaf675ff0d618cf108"
+  }
+}

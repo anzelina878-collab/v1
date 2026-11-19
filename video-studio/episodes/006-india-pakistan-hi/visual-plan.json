@@ -1,0 +1,2808 @@
+[
+  {
+    "scene": "hi006-000",
+    "start": 0.0,
+    "end": 2.8666666666666667,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-region"
+    ],
+    "original_scene_ids": [
+      "insert-000000"
+    ],
+    "asr_timing_aid": " साथ मैं 2025 को दक्षुन एश्या का आस्मान पिछले कई दश्कों के सबसे खतरनाग हवाई तक्रावो में से एक का मैदान बन गया।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-001",
+    "start": 2.8666666666666667,
+    "end": 6.433333333333334,
+    "kind": "archive",
+    "title": "RAFALE · फ्रांस, अभ्यास 2022",
+    "assets": [
+      "rafale-tlp"
+    ],
+    "original_scene_ids": [
+      "insert-000105"
+    ],
+    "asr_timing_aid": " साथ मैं 2025 को दक्षुन एश्या का आस्मान पिछले कई दश्कों के सबसे खतरनाग हवाई तक्रावो में से एक का मैदान बन गया।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-002",
+    "start": 6.433333333333334,
+    "end": 8.6,
+    "kind": "turntable",
+    "title": "RAFALE · विमान परिवार",
+    "assets": [
+      "model-rafale"
+    ],
+    "original_scene_ids": [
+      "insert-000237"
+    ],
+    "asr_timing_aid": " साथ मैं 2025 को दक्षुन एश्या का आस्मान पिछले कई दश्कों के सबसे खतरनाग हवाई तक्रावो में से एक का मैदान बन गया।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-003",
+    "start": 8.6,
+    "end": 14.766666666666667,
+    "kind": "archive",
+    "title": "RAFALE · RED FLAG–ALASKA, 2024",
+    "assets": [
+      "rafale-indian-action"
+    ],
+    "original_scene_ids": [
+      "insert-000316",
+      "insert-000511"
+    ],
+    "asr_timing_aid": " एक तरव फे भारत के राफे लडाकूविमान, जो आदूनिक यूरोप्या मिसाएलों और एक्त्रोनिक प्रनालिों से लैस थे।  दूस्री त्रव थे पाकिस्तान के चीन निर्मित जे दस सी एई जो लंभी दूरी की हवा से हवा में मार करने वाली मिसाईलों का इस्तमाल करते हैं.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-004",
+    "start": 14.766666666666667,
+    "end": 20.5,
+    "kind": "photo",
+    "title": "J-10 · विमान परिवार",
+    "assets": [
+      "j10"
+    ],
+    "original_scene_ids": [
+      "shot-004"
+    ],
+    "asr_timing_aid": " दूस्री त्रव थे पाकिस्तान के चीन निर्मित जे दस सी एई जो लंभी दूरी की हवा से हवा में मार करने वाली मिसाईलों का इस्तमाल करते हैं.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-005",
+    "start": 20.5,
+    "end": 23.5,
+    "kind": "photo",
+    "title": "PL-15 · मिसाइल परिवार",
+    "assets": [
+      "pl15"
+    ],
+    "original_scene_ids": [
+      "shot-005"
+    ],
+    "asr_timing_aid": " दूस्री त्रव थे पाकिस्तान के चीन निर्मित जे दस सी एई जो लंभी दूरी की हवा से हवा में मार करने वाली मिसाईलों का इस्तमाल करते हैं.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-006",
+    "start": 23.5,
+    "end": 28.266666666666666,
+    "kind": "photo",
+    "title": "DASSAULT RAFALE",
+    "assets": [
+      "rafale-india"
+    ],
+    "original_scene_ids": [
+      "shot-006"
+    ],
+    "asr_timing_aid": " तक्राव के शुर्वाती गंटो मेही भारतिये लडाकू विमानो के नुक्सान की ख़बरे आने लगी.  पाकिस्तान ने विरोदी पक्षके कई लडाको विमानो को मार गिराने का दावा किया",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-007",
+    "start": 28.266666666666666,
+    "end": 32.13333333333333,
+    "kind": "photo",
+    "title": "J-10CE · प्रदर्शनी, 2024",
+    "assets": [
+      "j10ce"
+    ],
+    "original_scene_ids": [
+      "shot-007"
+    ],
+    "asr_timing_aid": " पाकिस्तान ने विरोदी पक्षके कई लडाको विमानो को मार गिराने का दावा किया",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-008",
+    "start": 32.13333333333333,
+    "end": 39.56666666666667,
+    "kind": "turntable",
+    "title": "RAFALE · विमान परिवार",
+    "assets": [
+      "model-rafale"
+    ],
+    "original_scene_ids": [
+      "shot-008"
+    ],
+    "asr_timing_aid": " पाकिस्तान ने विरोदी पक्षके कई लडाको विमानो को मार गिराने का दावा किया  बारत ने बाद में अपने विमानो के नुक्सान को स्विकार किया  लेकिन पाकिस्तान की और से बताएगए",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-009",
+    "start": 39.56666666666667,
+    "end": 42.43333333333333,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-north"
+    ],
+    "original_scene_ids": [
+      "shot-009"
+    ],
+    "asr_timing_aid": " अगर इस तक्राउने वास्तों में क्या दिखाया।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-010",
+    "start": 42.43333333333333,
+    "end": 47.1,
+    "kind": "compare",
+    "title": "RAFALE और J-10CE",
+    "assets": [
+      "rafale-india",
+      "j10"
+    ],
+    "original_scene_ids": [
+      "shot-010"
+    ],
+    "asr_timing_aid": " अगर इस तक्राउने वास्तों में क्या दिखाया।  क्ह इس का मतलब है की चीन का J-10 CE फ्रन्स के Rafale से बहतर साभित हुए।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-011",
+    "start": 47.1,
+    "end": 53.93333333333333,
+    "kind": "graphic",
+    "title": "युद्धक व्यवस्था",
+    "assets": [
+      "system"
+    ],
+    "original_scene_ids": [
+      "shot-011"
+    ],
+    "asr_timing_aid": " क्ह इس का मतलब है की चीन का J-10 CE फ्रन्स के Rafale से बहतर साभित हुए।  या नतीजा, रडार, मिसाईलों, खौफिया  जान्कारी और यूद प्रबंदन के कही अधिक जतल विवस्ता पर निरभरता।  लेकिन वायु सेना तो सर्फ शुर्وात है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-012",
+    "start": 53.93333333333333,
+    "end": 56.8,
+    "kind": "turntable",
+    "title": "MiG-29 · विमान परिवार",
+    "assets": [
+      "model-mig29"
+    ],
+    "original_scene_ids": [
+      "shot-012"
+    ],
+    "asr_timing_aid": " लेकिन वायु सेना तो सर्फ शुर्وात है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-013",
+    "start": 56.8,
+    "end": 60.6,
+    "kind": "photo",
+    "title": "T-90S BHISHMA",
+    "assets": [
+      "bhishma"
+    ],
+    "original_scene_ids": [
+      "shot-013"
+    ],
+    "asr_timing_aid": "",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-014",
+    "start": 60.6,
+    "end": 62.333333333333336,
+    "kind": "photo",
+    "title": "BRAHMOS",
+    "assets": [
+      "brahmos"
+    ],
+    "original_scene_ids": [
+      "shot-014"
+    ],
+    "asr_timing_aid": " बहक्पोत। और अपना अंत्रिक्स कारेक्रम है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-015",
+    "start": 62.333333333333336,
+    "end": 64.83333333333333,
+    "kind": "photo",
+    "title": "INS VIKRANT",
+    "assets": [
+      "vikrant"
+    ],
+    "original_scene_ids": [
+      "shot-015"
+    ],
+    "asr_timing_aid": " बहक्पोत। और अपना अंत्रिक्स कारेक्रम है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-016",
+    "start": 64.83333333333333,
+    "end": 68.2,
+    "kind": "photo",
+    "title": "J-10 · विमान परिवार",
+    "assets": [
+      "j10"
+    ],
+    "original_scene_ids": [
+      "shot-016"
+    ],
+    "asr_timing_aid": " बहक्पोत। और अपना अंत्रिक्स कारेक्रम है।  पाकिस्तान आदूनिक-चीनी लडाक।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-017",
+    "start": 68.2,
+    "end": 70.06666666666666,
+    "kind": "photo",
+    "title": "VT-4",
+    "assets": [
+      "vt4"
+    ],
+    "original_scene_ids": [
+      "shot-017"
+    ],
+    "asr_timing_aid": " ने वास्तों में क्या दिखाया?  शाहीन मिसाइलों, वायु रक्षा प्रनालीों, और चीन के साथ व्यापक सैन्ने सहियोग परनर पर करता है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-018",
+    "start": 70.06666666666666,
+    "end": 71.7,
+    "kind": "photo",
+    "title": "SHAHEEN · परिवार",
+    "assets": [
+      "shaheen"
+    ],
+    "original_scene_ids": [
+      "shot-018"
+    ],
+    "asr_timing_aid": " शाहीन मिसाइलों, वायु रक्षा प्रनालीों, और चीन के साथ व्यापक सैन्ने सहियोग परनर पर करता है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-019",
+    "start": 71.7,
+    "end": 74.93333333333334,
+    "kind": "photo",
+    "title": "HQ-9 · परिवार",
+    "assets": [
+      "hq9"
+    ],
+    "original_scene_ids": [
+      "shot-019"
+    ],
+    "asr_timing_aid": " शाहीन मिसाइलों, वायु रक्षा प्रनालीों, और चीन के साथ व्यापक सैन्ने सहियोग परनर पर करता है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-020",
+    "start": 74.93333333333334,
+    "end": 79.56666666666666,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-region"
+    ],
+    "original_scene_ids": [
+      "shot-020"
+    ],
+    "asr_timing_aid": " शाहीन मिसाइलों, वायु रक्षा प्रनालीों, और चीन के साथ व्यापक सैन्ने सहियोग परनर पर करता है।  और सब से खतरनाग बात ये है कि दोनो देशों के पास परमानो हत्यार है।  आज हम यारा श्वेनियों में उंके सैन्ने शास्त्रगार की तुल्ना करेंगे",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-021",
+    "start": 79.56666666666666,
+    "end": 82.9,
+    "kind": "compare",
+    "title": "भारत और पाकिस्तान",
+    "assets": [
+      "rafale-india",
+      "j10"
+    ],
+    "original_scene_ids": [
+      "shot-021"
+    ],
+    "asr_timing_aid": " आज हम यारा श्वेनियों में उंके सैन्ने शास्त्रगार की तुल्ना करेंगे",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-022",
+    "start": 82.9,
+    "end": 87.73333333333333,
+    "kind": "archive",
+    "title": "M777 · अभ्यास, 2026",
+    "assets": [
+      "m777-india"
+    ],
+    "original_scene_ids": [
+      "shot-022"
+    ],
+    "asr_timing_aid": " वास्त्वे क्युद्ध्धक इस्तमाल के हुदाहरनो, तक्नीकी बडफत और सीमाँ को समझेंगे",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-023",
+    "start": 87.73333333333333,
+    "end": 94.86666666666666,
+    "kind": "turntable",
+    "title": "AH-64 APACHE · परिवार",
+    "assets": [
+      "model-apache"
+    ],
+    "original_scene_ids": [
+      "shot-023"
+    ],
+    "asr_timing_aid": " वास्त्वे क्युद्ध्धक इस्तमाल के हुदाहरनो, तक्नीकी बडफत और सीमाँ को समझेंगे  और मुखे सवाल का जवाब खूजने की कोशिष करेंगे  दोहाँचार शब्भीस में किसका सैंने शस्त्रगार अदिक शक्तिषाली है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-024",
+    "start": 94.86666666666666,
+    "end": 99.53333333333333,
+    "kind": "ident",
+    "title": "ARSENAL 360",
+    "assets": [],
+    "original_scene_ids": [
+      "shot-024"
+    ],
+    "asr_timing_aid": " दोहाँचार शब्भीस में किसका सैंने शस्त्रगार अदिक शक्तिषाली है  ये है शास्त्र तीन्सो साथ, सैन्ने तक्निक की दुन्या, चलिये, शूरू करते हैं, वायू सेना.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-025",
+    "start": 99.53333333333333,
+    "end": 103.03333333333333,
+    "kind": "section",
+    "title": "वायुसेना",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " ये है शास्त्र तीन्सो साथ, सैन्ने तक्निक की दुन्या, चलिये, शूरू करते हैं, वायू सेना.  शूर्वात करते हैं सबसे अदिक चर्चा मेरही शूएनी से, लडाकू विमान.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-026",
+    "start": 103.03333333333333,
+    "end": 106.03333333333333,
+    "kind": "photo",
+    "title": "RAFALE · विमान परिवार",
+    "assets": [
+      "rafale-india"
+    ],
+    "original_scene_ids": [
+      "shot-025",
+      "shot-026"
+    ],
+    "asr_timing_aid": " शूर्वात करते हैं सबसे अदिक चर्चा मेरही शूएनी से, लडाकू विमान.  भारत के सब से आदूनिक लगाकु विमानो में से एक है, फ्रान्स का दसाल्ट रफाल.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-027",
+    "start": 106.03333333333333,
+    "end": 119.8,
+    "kind": "turntable",
+    "title": "RAFALE · विमान परिवार",
+    "assets": [
+      "model-rafale"
+    ],
+    "original_scene_ids": [
+      "shot-027"
+    ],
+    "asr_timing_aid": " भारत के सब से आदूनिक लगाकु विमानो में से एक है, फ्रान्स का दसाल्ट रफाल.  ये एक बहुद देशिय विमान है, जो हवाई युध, दूश्मन के विमानो को रोकने,  और जमीनी तिकानो पर",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-028",
+    "start": 119.8,
+    "end": 127.13333333333334,
+    "kind": "archive",
+    "title": "RAFALE · फ्रांस, अभिलेख 2019",
+    "assets": [
+      "rafale-action"
+    ],
+    "original_scene_ids": [
+      "insert-003853"
+    ],
+    "asr_timing_aid": " बारतिया रफेल, आदूनीक रादार, इलेक्त्रोनिक युध्द प्रनालियों से लैस हैं, और लम्भी दॉरी की मिटियर मिसाहिलों का अच्तिमाल कर सकते है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-029",
+    "start": 127.13333333333334,
+    "end": 134.36666666666667,
+    "kind": "photo",
+    "title": "METEOR",
+    "assets": [
+      "meteor"
+    ],
+    "original_scene_ids": [
+      "shot-030"
+    ],
+    "asr_timing_aid": " बारतिया रफेल, आदूनीक रादार, इलेक्त्रोनिक युध्द प्रनालियों से लैस हैं, और लम्भी दॉरी की मिटियर मिसाहिलों का अच्तिमाल कर सकते है।  मितिயर में रैमजेट एंजन लगा है, जो उडान  के बड़े हिस्से में मिसायल की गती और उर्जा बनाय रकने मैं मदध करता है।  लेकिन भारत ये वायु सेना मेर्राफैल ही एक मात्र महत्वपून पलेट्फाम नहीं है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-030",
+    "start": 134.36666666666667,
+    "end": 138.7,
+    "kind": "archive",
+    "title": "RAFALE · RED FLAG–ALASKA, 2024",
+    "assets": [
+      "rafale-indian-action"
+    ],
+    "original_scene_ids": [
+      "shot-031"
+    ],
+    "asr_timing_aid": " लेकिन भारत ये वायु सेना मेर्राफैल ही एक मात्र महत्वपून पलेट्फाम नहीं है  बारद, Su-30MKI का भी च्तमाल कर",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-031",
+    "start": 138.7,
+    "end": 147.5,
+    "kind": "photo",
+    "title": "Su-30MKI",
+    "assets": [
+      "su30"
+    ],
+    "original_scene_ids": [
+      "shot-032"
+    ],
+    "asr_timing_aid": " बारद, Su-30MKI का भी च्तमाल कर",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-032",
+    "start": 147.5,
+    "end": 151.13333333333333,
+    "kind": "turntable",
+    "title": "MIRAGE 2000 · परिवार",
+    "assets": [
+      "model-mirage"
+    ],
+    "original_scene_ids": [
+      "shot-033"
+    ],
+    "asr_timing_aid": " भार्तिय सस्त्रगार में, Mirage 2000, MiG-29, Al-Khalid,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-033",
+    "start": 151.13333333333333,
+    "end": 152.96666666666667,
+    "kind": "turntable",
+    "title": "MiG-29 · परिवार",
+    "assets": [
+      "model-mig29"
+    ],
+    "original_scene_ids": [
+      "shot-034"
+    ],
+    "asr_timing_aid": " भार्तिय सस्त्रगार में, Mirage 2000, MiG-29, Al-Khalid,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-034",
+    "start": 152.96666666666667,
+    "end": 155.6,
+    "kind": "photo",
+    "title": "HAL TEJAS",
+    "assets": [
+      "tejas"
+    ],
+    "original_scene_ids": [
+      "shot-035"
+    ],
+    "asr_timing_aid": " तकनीक।  आप पाकिस्तान के बात करते हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-035",
+    "start": 155.6,
+    "end": 169.6,
+    "kind": "photo",
+    "title": "J-10 · विमान परिवार",
+    "assets": [
+      "j10"
+    ],
+    "original_scene_ids": [
+      "shot-036"
+    ],
+    "asr_timing_aid": " आप पाकिस्तान के बात करते हैं  हवाई युध्द के लिए उसका सब से आदूनिक और व्यापक रूप से चर्चित पलेट्फाम  चीन का जे दस C-E है  ये लगाई कुविमान आदूनिक प्रनालियों से लैस है  और P-L-15E मिसाइलों का अस्तमाल कर सकता है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-036",
+    "start": 169.6,
+    "end": 177.86666666666667,
+    "kind": "photo",
+    "title": "PL-15 · मिसाइल परिवार",
+    "assets": [
+      "pl15"
+    ],
+    "original_scene_ids": [
+      "shot-037"
+    ],
+    "asr_timing_aid": " इसकी एक महत्वपूंक शम्ता है, लंबी दूरी पर हवाई युध्ध करना,  जिस में हवाई चेतावनी और निग्रानी विमानो का सहीवोग लिया जा सकता है.  पाकिस्तान JF-17 तहन्टर का भी अपिस्तिमाल करता है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-037",
+    "start": 177.86666666666667,
+    "end": 186.5,
+    "kind": "photo",
+    "title": "JF-17 THUNDER",
+    "assets": [
+      "jf17"
+    ],
+    "original_scene_ids": [
+      "shot-038"
+    ],
+    "asr_timing_aid": " पाकिस्तान JF-17 तहन्टर का भी अपिस्तिमाल करता है.  चीन के सहयोख से विखसित ये लडाकू विमान पाकिस्तानी वायुसेना का एक महत्वोपून हिस्सा बन चुका है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-038",
+    "start": 186.5,
+    "end": 196.56666666666666,
+    "kind": "photo",
+    "title": "DASSAULT RAFALE",
+    "assets": [
+      "rafale-india"
+    ],
+    "original_scene_ids": [
+      "shot-039"
+    ],
+    "asr_timing_aid": " अब 2025 के मैं महीने पर लड़ते हैं.  चार दिन चले संगर्ष के दोरान दोनो पक्षोंने लडाकू विमानो और लंभी दूरी के हत्यानो का इस्तमाल किया  सुतन्तर शोद करताओं को कई भार्ती विमानो के नुक्सान के प्रमान मिले",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-039",
+    "start": 196.56666666666666,
+    "end": 203.0,
+    "kind": "photo",
+    "title": "RAFALE · विमान परिवार",
+    "assets": [
+      "rafale"
+    ],
+    "original_scene_ids": [
+      "shot-040"
+    ],
+    "asr_timing_aid": " सुतन्तर शोद करताओं को कई भार्ती विमानो के नुक्सान के प्रमान मिले  जिन में कम से कम  एक राफल भीशा मिल था।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-040",
+    "start": 203.0,
+    "end": 212.73333333333332,
+    "kind": "compare",
+    "title": "RAFALE और J-10CE",
+    "assets": [
+      "rafale-india",
+      "j10"
+    ],
+    "original_scene_ids": [
+      "shot-041"
+    ],
+    "asr_timing_aid": " लिकन इस से ये अपने सावित नहीं होता,  की हर हवाय ल़ाई मे जे दस सी ए रफैल से मेर्तर होगाू।  आदूनिक लाडा को विमान अकेले काम  नहीं करता।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-041",
+    "start": 212.73333333333332,
+    "end": 223.83333333333334,
+    "kind": "archive",
+    "title": "RAFALE · RED FLAG–ALASKA, 2024",
+    "assets": [
+      "rafale-indian-action"
+    ],
+    "original_scene_ids": [
+      "insert-007058"
+    ],
+    "asr_timing_aid": " नहीं करता।  उसकी प्रभाव शीलता, हुफ्या जानकारी, हवाई चेतावनी और निग्रानी विमानो,  इलेक्त्रानिक युध प्रनालियों, पालेटों के प्रषिक्षन,  और अपनाए गई रन्नीती पर निरभड करती है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-042",
+    "start": 223.83333333333334,
+    "end": 227.4,
+    "kind": "photo",
+    "title": "DASSAULT RAFALE",
+    "assets": [
+      "rafale-india"
+    ],
+    "original_scene_ids": [
+      "insert-007332"
+    ],
+    "asr_timing_aid": " और अपनाए गई रन्नीती पर निरभड करती है।  बारत्त के पास लडाकु विमानो का बड़ा और अदिक विविद भेडा है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-043",
+    "start": 227.4,
+    "end": 233.23333333333332,
+    "kind": "photo",
+    "title": "J-10CE · झुहाई प्रदर्शनी 2024",
+    "assets": [
+      "j10ce"
+    ],
+    "original_scene_ids": [
+      "shot-044"
+    ],
+    "asr_timing_aid": " वही पाकिस्तान ने दिखाया कि वह आदूनिक चीनी प्रनालियों का प्रभावी इस्तिमाल कर सक्ता है  इस तक्राव का मुक्ध्ह सब अक सरल है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-044",
+    "start": 233.23333333333332,
+    "end": 242.5,
+    "kind": "turntable",
+    "title": "RAFALE · विमान परिवार",
+    "assets": [
+      "model-rafale"
+    ],
+    "original_scene_ids": [
+      "shot-045"
+    ],
+    "asr_timing_aid": " इस तक्राव का मुक्ध्ह सब अक सरल है  आदूनिक हवायुद्ध में जीद हमेशा सब से प्रसिद नाम वाले विमान की नहीं होती  निरनायक भूमिका पूरी युद्धक विवस्था की होती है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-045",
+    "start": 242.5,
+    "end": 246.0,
+    "kind": "section",
+    "title": "टैंक और बख़्तरबंद वाहन",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " निरनायक भूमिका पूरी युद्धक विवस्था की होती है  तैंक और बक्तर बंदवाहन  अब आस्मान से जमीन पर आते हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-046",
+    "start": 246.0,
+    "end": 270.0,
+    "kind": "photo",
+    "title": "T-90S BHISHMA",
+    "assets": [
+      "bhishma"
+    ],
+    "original_scene_ids": [
+      "shot-046",
+      "shot-047",
+      "shot-048"
+    ],
+    "asr_timing_aid": " अब आस्मान से जमीन पर आते हैं  अर शुर्वात करते हैं मुक्छे यूद्धक तांको से  बार्तिये सेना के प्रमुख तांको में से एक है  ती नब्बै एस भीश्मा  ये रूसी ती नब्बै का बार्तिये संस करन है  जिसके उपादन और आदूनी की करन में  बार्तिय उद्योग ने भी बहाग लिया है  इस में एक स्वब चीस मिलिमीटर की तोप  अगनी निंट्रन प्रनालिया  और विस्फोटक प्रतिक्रियाशील कवछ लगा है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-047",
+    "start": 270.0,
+    "end": 275.0,
+    "kind": "photo",
+    "title": "T-72 · टैंक परिवार",
+    "assets": [
+      "t72"
+    ],
+    "original_scene_ids": [
+      "shot-049"
+    ],
+    "asr_timing_aid": " बारत बडी संख्या में उन्नत्ती बहद्तर तंको का भी अपिस्तिमाल करता है  अग अलक पर्योजना है अर्जून, ये भारत में विखसित मुख्य यूद्ध्धांक है, जिस में एक स्वब फीस मिली मीटर की राइफल्ट तोप लगी है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-048",
+    "start": 275.0,
+    "end": 287.56666666666666,
+    "kind": "photo",
+    "title": "ARJUN",
+    "assets": [
+      "arjun"
+    ],
+    "original_scene_ids": [
+      "shot-050"
+    ],
+    "asr_timing_aid": " अग अलक पर्योजना है अर्जून, ये भारत में विखसित मुख्य यूद्ध्धांक है, जिस में एक स्वब फीस मिली मीटर की राइफल्ट तोप लगी है.  अर्जून के पास शक्तिषाली हत्यार और सुरक्षा है, लेकिन इसका वजन भी काफी अदिक है.  अप पाकिस्तान की और देकते हैं, उसके आदूनिक तंको में चीन निर्मित वी टी चार शामिल है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-049",
+    "start": 287.56666666666666,
+    "end": 301.56666666666666,
+    "kind": "photo",
+    "title": "VT-4",
+    "assets": [
+      "vt4"
+    ],
+    "original_scene_ids": [
+      "shot-051"
+    ],
+    "asr_timing_aid": " अप पाकिस्तान की और देकते हैं, उसके आदूनिक तंको में चीन निर्मित वी टी चार शामिल है.  इस में एक सो पच्छीस मिलिमीटर की समुत बोर तोप आदूनिक निशाना लगाने वाली प्रनालिया और सुरक्षा  उपकरन लगे हैं।  पाकिस्तान, Al-Khalid का भी अपने नहीं जाएं॥",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-050",
+    "start": 301.56666666666666,
+    "end": 310.9,
+    "kind": "photo",
+    "title": "AL-KHALID",
+    "assets": [
+      "alkhalid"
+    ],
+    "original_scene_ids": [
+      "shot-052"
+    ],
+    "asr_timing_aid": " पाकिस्तान, Al-Khalid का भी अपने नहीं जाएं॥  जिसे चीन के सह्योख से विक्सित किया गया है।  इसके अलावा पिछली पीडियों के उन्नत तंक बी उसकी सेना में बने हूए है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-051",
+    "start": 310.9,
+    "end": 325.93333333333334,
+    "kind": "compare",
+    "title": "T-90S BHISHMA और VT-4",
+    "assets": [
+      "bhishma",
+      "vt4"
+    ],
+    "original_scene_ids": [
+      "shot-053"
+    ],
+    "asr_timing_aid": " देशों का द्रिष्तिकों मिलता जुलत्या धेता है  वे एक सो पच्छीस मेलिमीटर की तोपों  और मिश्रत कववत सुरक्षा वाले तांकूं के अईस्तमाल करते है  लेकिन सर्फ तकनी की कि वियषेष்ताहें  युद्ध  का नतीजा तैनही करती।  कशमिर के पहाडी रोको में बूभाग, सडकें",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-052",
+    "start": 325.93333333333334,
+    "end": 331.96666666666664,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-north"
+    ],
+    "original_scene_ids": [
+      "shot-054"
+    ],
+    "asr_timing_aid": " कशमिर के पहाडी रोको में बूभाग, सडकें  और आपूरतिकी क्षमता महतुپून हो जाती है।  मैधानिक शेट्रो",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-053",
+    "start": 331.96666666666664,
+    "end": 339.9,
+    "kind": "archive",
+    "title": "बख़्तरबंद वाहन · अभ्यास, 2021",
+    "assets": [
+      "yudh20"
+    ],
+    "original_scene_ids": [
+      "shot-055"
+    ],
+    "asr_timing_aid": " मैधानिक शेट्रो  में बख्तर्बन्द सैन एकाईों की गतिषील ता और तोब खाने के सात उनका ताल मेल अदिक महतोपून हो सकता है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-054",
+    "start": 339.9,
+    "end": 342.8333333333333,
+    "kind": "photo",
+    "title": "T-90S BHISHMA",
+    "assets": [
+      "bhishma"
+    ],
+    "original_scene_ids": [
+      "shot-056"
+    ],
+    "asr_timing_aid": " बारत के पास टांकों का कही बड़ा बेडा है.  पाकिस्तान आदूनिकी करन और चीनी निर्माताव के साथ सहियोग बड़ाने पर जोर देता है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-055",
+    "start": 342.8333333333333,
+    "end": 348.1,
+    "kind": "photo",
+    "title": "VT-4",
+    "assets": [
+      "vt4"
+    ],
+    "original_scene_ids": [
+      "shot-057"
+    ],
+    "asr_timing_aid": " पाकिस्तान आदूनिकी करन और चीनी निर्माताव के साथ सहियोग बड़ाने पर जोर देता है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-056",
+    "start": 348.1,
+    "end": 358.26666666666665,
+    "kind": "photo",
+    "title": "IAI HAROP",
+    "assets": [
+      "harop"
+    ],
+    "original_scene_ids": [
+      "shot-058"
+    ],
+    "asr_timing_aid": " हला की आदूनिक योद्ध ही साभित कर चुका है, की अच्छी सुरक्षावाला तांग भी ड्रोन, सतीक निशाना लगाने वाले गोला बारुद  अर तांक रोदी प्रनालियों के सामने असुरक्षित हो सकता है  इसलिया वास्तवेग बधध सर्फ कववच से तैनही होती",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-057",
+    "start": 358.26666666666665,
+    "end": 367.43333333333334,
+    "kind": "archive",
+    "title": "ऑप्टिक्स और संचार · अभ्यास, 2026",
+    "assets": [
+      "optics-training"
+    ],
+    "original_scene_ids": [
+      "shot-059"
+    ],
+    "asr_timing_aid": " इसलिया वास्तवेग बधध सर्फ कववच से तैनही होती  ये निग्रानी चालक्दल के प्रषिक्षन, मरम्मत और नये खत्रों से सुरक्षापर भी निरभर करती है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-058",
+    "start": 367.43333333333334,
+    "end": 370.93333333333334,
+    "kind": "section",
+    "title": "मिसाइलें",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " ये निग्रानी चालक्दल के प्रषिक्षन, मरम्मत और नये खत्रों से सुरक्षापर भी निरभर करती है  मिसाईल हत्यार  अगली श्रेनी है, मिसाल हत्यार",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-059",
+    "start": 370.93333333333334,
+    "end": 386.8,
+    "kind": "photo",
+    "title": "BRAHMOS",
+    "assets": [
+      "brahmos"
+    ],
+    "original_scene_ids": [
+      "shot-060",
+      "shot-061",
+      "shot-062"
+    ],
+    "asr_timing_aid": " अगली श्रेनी है, मिसाल हत्यार  और इसी कषेट्र में बारत तथा पाकिस्तान का टक्राव  विषेश रूप से खतरनाख हो जाता है  बारत की सबसे प्रसिध्ध मिसालो में से एक है ब्रहम्मोस  ये बारत  और रूस के सह्योंक से विखसित एक सुपर सूनिक क्रूज मीसाल है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-060",
+    "start": 386.8,
+    "end": 395.8666666666667,
+    "kind": "archive",
+    "title": "BRAHMOS · परीक्षण प्रक्षेपण, 2022",
+    "assets": [
+      "brahmos-launch"
+    ],
+    "original_scene_ids": [
+      "shot-063"
+    ],
+    "asr_timing_aid": " इसे उप्युक्त जमीनी,  नोसेनिक और हवाई प्लाट्ट्फाम से इस्तमाल किया जा सकता है  इसकी तेस्गती इसे रोकना कठेन बनाती है, हाला की नामुमकिन नहीं  बहारत अगनी बालिस्टिक मिसाल परिवार का भी विकास कर रहा है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-061",
+    "start": 395.8666666666667,
+    "end": 406.3333333333333,
+    "kind": "photo",
+    "title": "AGNI · मिसाइल परिवार",
+    "assets": [
+      "agni"
+    ],
+    "original_scene_ids": [
+      "shot-064"
+    ],
+    "asr_timing_aid": " बहारत अगनी बालिस्टिक मिसाल परिवार का भी विकास कर रहा है  इन प्रनालियों की मारग दूरी अलग-गलग है, और ये रननीतिक प्रतिरोद में महत्वपून भूमिकाने बाती है।  प्रत्वी और भारत की अननी मिसाइल पर योजनाो का भी अलग से उलेइख करना चाहिये।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-062",
+    "start": 406.3333333333333,
+    "end": 410.8333333333333,
+    "kind": "photo",
+    "title": "PRITHVI-II · परीक्षण",
+    "assets": [
+      "prithvi"
+    ],
+    "original_scene_ids": [
+      "shot-065"
+    ],
+    "asr_timing_aid": " प्रत्वी और भारत की अननी मिसाइल पर योजनाो का भी अलग से उलेइख करना चाहिये।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-063",
+    "start": 410.8333333333333,
+    "end": 421.7,
+    "kind": "photo",
+    "title": "SHAHEEN · मिसाइल परिवार",
+    "assets": [
+      "shaheen"
+    ],
+    "original_scene_ids": [
+      "shot-066"
+    ],
+    "asr_timing_aid": " प्रत्वी और भारत की अननी मिसाइल पर योजनाो का भी अलग से उलेइख करना चाहिये।  अब पाकिस्तान की बात करते है।  उसके महत्वपुन मिसाईल पर्वारो में से एक है शाहीन.  ये बेलिस्टिक मिसाईल है, पाकिस्तान की रन्नीतिक प्रतिरोध क्शम्ता का हिस्समानी जाती है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-064",
+    "start": 421.7,
+    "end": 427.4,
+    "kind": "photo",
+    "title": "BABUR",
+    "assets": [
+      "babur"
+    ],
+    "original_scene_ids": [
+      "shot-067"
+    ],
+    "asr_timing_aid": " तुस्री प्रनाली है भाबर.  ये जमीनी लक्षो पर हम्ला करने के लिए विक्सित एक क्रूुज मिसाएल है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-065",
+    "start": 427.4,
+    "end": 434.6,
+    "kind": "photo",
+    "title": "FATAH · प्रणाली परिवार",
+    "assets": [
+      "fatah"
+    ],
+    "original_scene_ids": [
+      "shot-068"
+    ],
+    "asr_timing_aid": " पाकिस्तान पताह परिवार कभी विकास कर रहा है  जिस में पारमपर एक हम्लों के लिए निर्देशित रोकेट प्रनालिया शामिल है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-066",
+    "start": 434.6,
+    "end": 440.6,
+    "kind": "archive",
+    "title": "BRAHMOS · परीक्षण प्रक्षेपण, 2022",
+    "assets": [
+      "brahmos-test"
+    ],
+    "original_scene_ids": [
+      "shot-069"
+    ],
+    "asr_timing_aid": " जिस में पारमपर एक हम्लों के लिए निर्देशित रोकेट प्रनालिया शामिल है  अब एक वास्टवे कुदाहरन देकते है  2025 के माई संगर्ष के दोरान भारतने लंबी दूरी के सटीक हत्यारों का इस्तमाल किया जिन में ब्रमोज भी शामिल थी.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-067",
+    "start": 440.6,
+    "end": 443.1,
+    "kind": "photo",
+    "title": "BRAHMOS",
+    "assets": [
+      "brahmos"
+    ],
+    "original_scene_ids": [
+      "shot-069"
+    ],
+    "asr_timing_aid": " 2025 के माई संगर्ष के दोरान भारतने लंबी दूरी के सटीक हत्यारों का इस्तमाल किया जिन में ब्रमोज भी शामिल थी.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-068",
+    "start": 443.1,
+    "end": 446.06666666666666,
+    "kind": "photo",
+    "title": "BRAHMOS",
+    "assets": [
+      "brahmos"
+    ],
+    "original_scene_ids": [
+      "shot-070"
+    ],
+    "asr_timing_aid": " 2025 के माई संगर्ष के दोरान भारतने लंबी दूरी के सटीक हत्यारों का इस्तमाल किया जिन में ब्रमोज भी शामिल थी.  सुतन्तर आखलनों के अनुसार पाकिस्तान ने पता परिवार की प्रनालियों का इस्तमाल किया.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-069",
+    "start": 446.06666666666666,
+    "end": 450.46666666666664,
+    "kind": "photo",
+    "title": "FATAH · प्रणाली परिवार",
+    "assets": [
+      "fatah"
+    ],
+    "original_scene_ids": [
+      "shot-071"
+    ],
+    "asr_timing_aid": " सुतन्तर आखलनों के अनुसार पाकिस्तान ने पता परिवार की प्रनालियों का इस्तमाल किया.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-070",
+    "start": 450.46666666666664,
+    "end": 461.6333333333333,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-region"
+    ],
+    "original_scene_ids": [
+      "shot-072"
+    ],
+    "asr_timing_aid": " सुतन्तर आखलनों के अनुसार पाकिस्तान ने पता परिवार की प्रनालियों का इस्तमाल किया.  ये दोनो देशों के तक्राव के विकास में एक महत्वपून चरन था  दोनो ने दिखाया किवे केवल मानव संचालित लडागो विमानो पर निरभर हुए बिना दूर से हमले कर सकते हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-071",
+    "start": 461.6333333333333,
+    "end": 473.1666666666667,
+    "kind": "photo",
+    "title": "FATAH · प्रणाली परिवार",
+    "assets": [
+      "fatah"
+    ],
+    "original_scene_ids": [
+      "shot-073"
+    ],
+    "asr_timing_aid": " दोनो ने दिखाया किवे केवल मानव संचालित लडागो विमानो पर निरभर हुए बिना दूर से हमले कर सकते हैं  लेकिन अलग गलग हमलों के नतीजों को लेकर कैई विरोदा भासी दावे बने रहे  इसलिये किसी सेन ने अद्डे के नष्थ हूँने  या किसी मिसाएल को रोकने की हर खबर को प्रमानित तत्ठे नहीं मानना जाहिए  भारत के पास सुपर्सोनिक क्रूज और बलिस्टिक मिसाएल प्रनालियों की व्यापक श्रिंख्ला है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-072",
+    "start": 473.1666666666667,
+    "end": 479.23333333333335,
+    "kind": "photo",
+    "title": "BRAHMOS",
+    "assets": [
+      "brahmos"
+    ],
+    "original_scene_ids": [
+      "shot-074"
+    ],
+    "asr_timing_aid": " भारत के पास सुपर्सोनिक क्रूज और बलिस्टिक मिसाएल प्रनालियों की व्यापक श्रिंख्ला है.  पाकिस्तान के पास भी महत्वपुन मिसाएल क्षम्ता है, जिसका मुख के उदेशे क्षेत्रिय प्रतिरोध है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-073",
+    "start": 479.23333333333335,
+    "end": 490.43333333333334,
+    "kind": "photo",
+    "title": "SHAHEEN · मिसाइल परिवार",
+    "assets": [
+      "shaheen"
+    ],
+    "original_scene_ids": [
+      "shot-075"
+    ],
+    "asr_timing_aid": " पाकिस्तान के पास भी महत्वपुन मिसाएल क्षम्ता है, जिसका मुख के उदेशे क्षेत्रिय प्रतिरोध है.  लेकिन दोनो देशों के ये शस्ट्रगार किसी सीमित संगर्ष को भी तेजी से बड़ाने का खत्रा पैदा करते हैं.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-074",
+    "start": 490.43333333333334,
+    "end": 493.93333333333334,
+    "kind": "section",
+    "title": "पैदल सेना के हथियार",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " लेकिन दोनो देशों के ये शस्ट्रगार किसी सीमित संगर्ष को भी तेजी से बड़ाने का खत्रा पैदा करते हैं.  पैदल सेना के हत्यार  अब उन हत्यारों की बात करते हैं, जो सीधे सैनिक के हाथो में होते हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-075",
+    "start": 493.93333333333334,
+    "end": 519.2,
+    "kind": "photo",
+    "title": "SIG716i",
+    "assets": [
+      "sig716"
+    ],
+    "original_scene_ids": [
+      "shot-076",
+      "shot-077",
+      "shot-078"
+    ],
+    "asr_timing_aid": " अब उन हत्यारों की बात करते हैं, जो सीधे सैनिक के हाथो में होते हैं  पैदल सेना के हत्यार  बारतिया सेना कई पीडियों की चोटे हत्यारों की प्रनालियों का इस्तमाल करती है  उसकी प्रसिद आदूनिक राइफलो में से एक है, SIG-716  ये साथ और बासत गुना एक्यावन मिलिमीटर का कार्तुस इस्तमाल करती है  और अदिक दूरी पर पैदल सेना की क्षम्ता बड़ाने के लिए अपनाए गये है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-076",
+    "start": 519.2,
+    "end": 527.3333333333334,
+    "kind": "photo",
+    "title": "AK-203",
+    "assets": [
+      "ak203"
+    ],
+    "original_scene_ids": [
+      "shot-079"
+    ],
+    "asr_timing_aid": " बहारत एक 203 असाल ट्रीफलों को भी शामिल कर रहा है,  जिनके उपादन का स्थानिय करन बहारतियक शेटर में किया जारहा है.  सेना में i-N-S-A-S सहित दूसरी प्रनालियों का इस्तमाल भी जारी है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-077",
+    "start": 527.3333333333334,
+    "end": 531.5333333333333,
+    "kind": "photo",
+    "title": "INSAS",
+    "assets": [
+      "insas"
+    ],
+    "original_scene_ids": [
+      "shot-080"
+    ],
+    "asr_timing_aid": " सेना में i-N-S-A-S सहित दूसरी प्रनालियों का इस्तमाल भी जारी है  पेदल सेना की सहायता के लिये मशीन गन, ग्रनेड लांचर, मोटर अर तांक रोदी प्रनालिया इस्तमाल की जाती है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-078",
+    "start": 531.5333333333333,
+    "end": 538.2666666666667,
+    "kind": "archive",
+    "title": "पैदल सेना प्रशिक्षण · AUSTRAHIND, 2022",
+    "assets": [
+      "austrahind"
+    ],
+    "original_scene_ids": [
+      "shot-081"
+    ],
+    "asr_timing_aid": " पेदल सेना की सहायता के लिये मशीन गन, ग्रनेड लांचर, मोटर अर तांक रोदी प्रनालिया इस्तमाल की जाती है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-079",
+    "start": 538.2666666666667,
+    "end": 551.5666666666667,
+    "kind": "photo",
+    "title": "G3",
+    "assets": [
+      "g3"
+    ],
+    "original_scene_ids": [
+      "shot-082"
+    ],
+    "asr_timing_aid": " पेदल सेना की सहायता के लिये मशीन गन, ग्रनेड लांचर, मोटर अर तांक रोदी प्रनालिया इस्तमाल की जाती है  अग पाकिस्तान की बात करते हैं  पाकिस्तानी सेना की पारमपर एक राइफलो मेसे एक है, जी तीन.  ये सात और बासत कुना एक्यावन मिली मीटर कालिबर वाला  एक समय की कसोटी पर परखागया प्लेट्फाम है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-080",
+    "start": 551.5666666666667,
+    "end": 562.6666666666666,
+    "kind": "photo",
+    "title": "TYPE 56 · असॉल्ट राइफ़ल परिवार",
+    "assets": [
+      "type56"
+    ],
+    "original_scene_ids": [
+      "shot-083"
+    ],
+    "asr_timing_aid": " इस के लावा ताइप छफपन परिवार की असाल ट्राइफलें  अर अन्ने चोटे हत्यार भी इस्तिमाल किया जाते हैं  पाकिस्तानी इकायों के पास मशीन गन, सनाईपर प्रनाल्या  और तांक रोदी हत्यार भी हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-081",
+    "start": 562.6666666666666,
+    "end": 573.9666666666667,
+    "kind": "archive",
+    "title": "ऑप्टिक्स और संचार · अभ्यास, 2026",
+    "assets": [
+      "optics-training"
+    ],
+    "original_scene_ids": [
+      "shot-084"
+    ],
+    "asr_timing_aid": " और तांक रोदी हत्यार भी हैं  लेकिन सर्फ राइफलों के आदार पर  पैडल सेना की तुल्ना करना गलती होगी  आदूनिक सैनिक शम्ता, कववच सुरक्षा, अप्टिक्स, राथ में देखने अप्करनो, संचार और चिकिच्सा सहायता पर निरभर करती है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-082",
+    "start": 573.9666666666667,
+    "end": 576.3666666666667,
+    "kind": "archive",
+    "title": "चिकित्सा प्रशिक्षण · अभ्यास, 2026",
+    "assets": [
+      "medevac-training"
+    ],
+    "original_scene_ids": [
+      "shot-085"
+    ],
+    "asr_timing_aid": " आदूनिक सैनिक शम्ता, कववच सुरक्षा, अप्टिक्स, राथ में देखने अप्करनो, संचार और चिकिच्सा सहायता पर निरभर करती है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-083",
+    "start": 576.3666666666667,
+    "end": 588.4,
+    "kind": "archive",
+    "title": "पर्वतीय प्रशिक्षण · अभ्यास, 2022",
+    "assets": [
+      "yudh22"
+    ],
+    "original_scene_ids": [
+      "shot-086"
+    ],
+    "asr_timing_aid": " कदिन परिस्तितियो में काम करने का प्रषिक्षन विषेश रुप से महत्व पून है.  बारत और पाकिस्तान के लिए इस सवाल का खास महत्व है  उनके तक्राव का एक हिस्सा उंचे पहाडी लाको में होता है  जहां तहन्ध, उंचाई और कत्हिन भूभाग",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-084",
+    "start": 588.4,
+    "end": 593.5666666666667,
+    "kind": "photo",
+    "title": "SIG716",
+    "assets": [
+      "sig716"
+    ],
+    "original_scene_ids": [
+      "shot-087"
+    ],
+    "asr_timing_aid": " जहां तहन्ध, उंचाई और कत्हिन भूभाग  सेन ने एकाईों की प्रभाव शील्ता को प्रभावित करते है  बारत के पास बड़ी खल सेना और हत्यार ख़ीदने की अदिक व्यापक शमता है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-085",
+    "start": 593.5666666666667,
+    "end": 598.4333333333333,
+    "kind": "archive",
+    "title": "YUDH ABHYAS · अभ्यास, 2019",
+    "assets": [
+      "infantry2019"
+    ],
+    "original_scene_ids": [
+      "shot-088"
+    ],
+    "asr_timing_aid": " बारत के पास बड़ी खल सेना और हत्यार ख़ीदने की अदिक व्यापक शमता है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-086",
+    "start": 598.4333333333333,
+    "end": 603.5666666666667,
+    "kind": "photo",
+    "title": "G3",
+    "assets": [
+      "g3"
+    ],
+    "original_scene_ids": [
+      "shot-089"
+    ],
+    "asr_timing_aid": " बारत के पास बड़ी खल सेना और हत्यार ख़ीदने की अदिक व्यापक शमता है  पाकिस्तान क्षेत्रिय तक्राव की तयारी पर महत्वपुन सन्सादन केंदिरत करता है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-087",
+    "start": 603.5666666666667,
+    "end": 612.6333333333333,
+    "kind": "archive",
+    "title": "इकाइयों का समन्वय · अभ्यास, 2021",
+    "assets": [
+      "yudh20"
+    ],
+    "original_scene_ids": [
+      "shot-090"
+    ],
+    "asr_timing_aid": " पाकिस्तान क्षेत्रिय तक्राव की तयारी पर महत्वपुन सन्सादन केंदिरत करता है  लेकिन पेदल सेना की बधदद केवल अस्फल्ट रीफल के कलिबर से तैए नहीं की जासकती  निरनाय भूमिका लोगों, कमान, संचार और आपुर्ती की होती है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-088",
+    "start": 612.6333333333333,
+    "end": 616.1333333333333,
+    "kind": "section",
+    "title": "तोपख़ाना",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " निरनाय भूमिका लोगों, कमान, संचार और आपुर्ती की होती है  तोप खाना  अगली श्रिनी है तोप खाना",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-089",
+    "start": 616.1333333333333,
+    "end": 632.1666666666666,
+    "kind": "photo",
+    "title": "K9 VAJRA-T",
+    "assets": [
+      "k9"
+    ],
+    "original_scene_ids": [
+      "shot-091",
+      "shot-092"
+    ],
+    "asr_timing_aid": " अगली श्रिनी है तोप खाना  बहरत के नोव वज्रा ती स्वचालेत होविज्जर का इस्तिमाल करता है  ये दक्षन कोर्याई के नोव खंदर प्रनाली का स्थानिया करित संसकरन है  इस में एक सो पच्पन मिलिमीटर की तोप लगी है, और इसे गतिषील अगनी सहाइता देने के लिए तट्यार की आगया है.  बारत के पास खीज कर लेजाई जाने वाली म्777 होविद्जर भी है,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-090",
+    "start": 632.1666666666666,
+    "end": 645.1666666666666,
+    "kind": "archive",
+    "title": "M777 · अभ्यास, 2026",
+    "assets": [
+      "m777-india"
+    ],
+    "original_scene_ids": [
+      "shot-093",
+      "shot-094"
+    ],
+    "asr_timing_aid": " बारत के पास खीज कर लेजाई जाने वाली म्777 होविद्जर भी है,  इंका अपेख्षक्रत कम वजन असी परस्तितियो में इने पूँचाना समबह बनाता है,  जहाँ भारी तोपखाने के अस्तमाल में सीमाए होती है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-091",
+    "start": 645.1666666666666,
+    "end": 652.6333333333333,
+    "kind": "photo",
+    "title": "ATAGS",
+    "assets": [
+      "atags"
+    ],
+    "original_scene_ids": [
+      "shot-095"
+    ],
+    "asr_timing_aid": " एक अलक दिशा है भारत का एटी आजी एस कारिक्रम,  जिसका उदेश देशके अपने तोपखाना उद्योक का विकास करना है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-092",
+    "start": 652.6333333333333,
+    "end": 671.2333333333333,
+    "kind": "graphic",
+    "title": "SH-15 · स्वचालित होवित्ज़र",
+    "assets": [
+      "original"
+    ],
+    "original_scene_ids": [
+      "shot-096"
+    ],
+    "asr_timing_aid": " जिसका उदेश देशके अपने तोपखाना उद्योक का विकास करना है  अप पाकिस्तान की बात करते है  उसकी आदूनिक तोपखाना प्रनालियो में चीन निर्मित S-H-15 शामिल है  ये पहीवाले वाहन पर लगी एक सुब पच्पन मिली मीटर की होविज़र है  इसकी महत्टोपून खास्यद है, गतिषील्ता और एक स्थान से दुसरे स्थान तक तेजी से पहुचने की क्षम्ता।  पाकस्तान",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-093",
+    "start": 671.2333333333333,
+    "end": 678.3,
+    "kind": "archive",
+    "title": "M109 · परिवार, अमेरिकी अभ्यास",
+    "assets": [
+      "m109-action"
+    ],
+    "original_scene_ids": [
+      "shot-097"
+    ],
+    "asr_timing_aid": " पाकस्तान  M-1-199 परिवार की स्वाचालित, होविज्जर, और विभिन्न भहु रोकित लाईच प्रनालियों का भी इस्तमाल करता है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-094",
+    "start": 678.3,
+    "end": 683.8333333333334,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-north"
+    ],
+    "original_scene_ids": [
+      "shot-098"
+    ],
+    "asr_timing_aid": " M-1-199 परिवार की स्वाचालित, होविज्जर, और विभिन्न भहु रोकित लाईच प्रनालियों का भी इस्तमाल करता है  पहाडी अलाको में परिवहन की सूविदा और तैनाती की गती विषेश महत्व रकती है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-095",
+    "start": 683.8333333333334,
+    "end": 694.1,
+    "kind": "archive",
+    "title": "M777 · संयुक्त अभ्यास, 2026",
+    "assets": [
+      "m777-joint"
+    ],
+    "original_scene_ids": [
+      "shot-099"
+    ],
+    "asr_timing_aid": " मैदानीक शेट्रो में मारक दूरी, गोला बारूद का बंडार, और गतीषील ता अदिक महत्व पून हो सकते है.  बारत के पास तोपखाना प्लेट्फाम की अदिक व्यापक शंखला है,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-096",
+    "start": 694.1,
+    "end": 700.1333333333333,
+    "kind": "graphic",
+    "title": "SH-15 · स्वचालित होवित्ज़र",
+    "assets": [
+      "original"
+    ],
+    "original_scene_ids": [
+      "shot-100"
+    ],
+    "asr_timing_aid": " पाकिस्तान अपनी कुछ प्रनालियों के नवीनी करन के लिए,  सक्करिय रूप से चीनी तकनीक का अईस्तमाल करता है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-097",
+    "start": 700.1333333333333,
+    "end": 713.2666666666667,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-north"
+    ],
+    "original_scene_ids": [
+      "shot-101"
+    ],
+    "asr_timing_aid": " लेकिन 2025 के माई संगर्ष ने एक और वास्तविक्ता याध दिलाई.  आदूनेक लडाको विमानो और मिसालों की मुजुद्गी के बावजुद,  कश्मीर में निंट्रन रेखा के आसपास,  तोप खाने की गोला बारी जान लेवा बनी हुई है.  इसलिये दोनो देशों की सेंन नी योजनाो में तोप खाना",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-098",
+    "start": 713.2666666666667,
+    "end": 717.5333333333333,
+    "kind": "photo",
+    "title": "K9 VAJRA-T",
+    "assets": [
+      "k9"
+    ],
+    "original_scene_ids": [
+      "shot-102"
+    ],
+    "asr_timing_aid": " इसलिये दोनो देशों की सेंन नी योजनाो में तोप खाना  आज भी महतुपुन भूमिका निबाता है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-099",
+    "start": 717.5333333333333,
+    "end": 721.0333333333333,
+    "kind": "section",
+    "title": "ड्रोन",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " आज भी महतुपुन भूमिका निबाता है  द्रोन  अब मानव्रहित प्रनालियों की वर बदतें",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-100",
+    "start": 721.0333333333333,
+    "end": 730.8666666666667,
+    "kind": "photo",
+    "title": "HERON",
+    "assets": [
+      "heron"
+    ],
+    "original_scene_ids": [
+      "shot-103",
+      "shot-104"
+    ],
+    "asr_timing_aid": " अब मानव्रहित प्रनालियों की वर बदतें  भारत एरों द्रिवार के निग्रानी  डून सतमाल करता है।  इने लंभे समय तक न्गराणी करने  और जानकारी एकथा कर नहीं किलिए बनाया गय।  Harop, Loitering Munition का स्तान अलग है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-101",
+    "start": 730.8666666666667,
+    "end": 741.7,
+    "kind": "photo",
+    "title": "IAI HAROP",
+    "assets": [
+      "harop"
+    ],
+    "original_scene_ids": [
+      "shot-105"
+    ],
+    "asr_timing_aid": " Harop, Loitering Munition का स्तान अलग है  यह आसे हत्यार है, जिनहे नிरदारित लक्षों पर",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-102",
+    "start": 741.7,
+    "end": 746.2,
+    "kind": "photo",
+    "title": "HERON · निगरानी ड्रोन",
+    "assets": [
+      "heron"
+    ],
+    "original_scene_ids": [
+      "shot-106"
+    ],
+    "asr_timing_aid": " आपाकिस्तान की बात करते",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-103",
+    "start": 746.2,
+    "end": 762.5333333333333,
+    "kind": "photo",
+    "title": "SHAHPAR-II",
+    "assets": [
+      "shahpar"
+    ],
+    "original_scene_ids": [
+      "shot-107"
+    ],
+    "asr_timing_aid": " आपाकिस्तान की बात करते  हैं  उसकी प्रसइद प्रनालियो में शाहपर शामिल है  ये पाकिस्तान में विखसिड ड्रों परिवार है  जिसे निग्रानी और कुछ संसकरनो में  हम्लावर  पाकिस्तान गरेलू और वीदेशी मुल की अनने मानव रहित प्रनालियों का भी استमाल करता है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-104",
+    "start": 762.5333333333333,
+    "end": 774.8333333333334,
+    "kind": "compare",
+    "title": "मानवरहित प्रणालियाँ",
+    "assets": [
+      "heron",
+      "shahpar"
+    ],
+    "original_scene_ids": [
+      "shot-108"
+    ],
+    "asr_timing_aid": " पाकिस्तान गरेलू और वीदेशी मुल की अनने मानव रहित प्रनालियों का भी استमाल करता है।  यहां 2025 के मैं महीने को फिर याद करनण महत्वोपून है  संगर्ष  के दोरान दूनो देशो ने हमलो और विरोदी पक्छ की वायु रक्सा की क्शमताओ को पर अखने किलिए डॉन इस्तमाल किये।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-105",
+    "start": 774.8333333333334,
+    "end": 777.3333333333334,
+    "kind": "photo",
+    "title": "AKASH",
+    "assets": [
+      "akash"
+    ],
+    "original_scene_ids": [
+      "shot-109"
+    ],
+    "asr_timing_aid": " भारत नहीं पाकिस्टानी ड्ॉण रोकने जान्कारी दी",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-106",
+    "start": 777.3333333333334,
+    "end": 783.3,
+    "kind": "photo",
+    "title": "HQ-9 · प्रणाली परिवार",
+    "assets": [
+      "hq9"
+    ],
+    "original_scene_ids": [
+      "shot-110"
+    ],
+    "asr_timing_aid": " भारत नहीं पाकिस्टानी ड्ॉण रोकने जान्कारी दी  मही बाक्किष्तानन ले बहार्ती ये  द्रों का सपलता पुर्वक मुखाबला करने के दावे कीए",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-107",
+    "start": 783.3,
+    "end": 793.9666666666667,
+    "kind": "photo",
+    "title": "SHAHPAR-II",
+    "assets": [
+      "shahpar"
+    ],
+    "original_scene_ids": [
+      "shot-111"
+    ],
+    "asr_timing_aid": " सूतन्तर शोद करताउने, ड्रूं केव्यापक इस्तमाल की फुस्टी की  लेकिं गोषत सब ही नतीजोंकि नहीं  ये एक महत्झवपून  अद्रों आप केवल निग्रानी के सहायक",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-108",
+    "start": 793.9666666666667,
+    "end": 806.8666666666667,
+    "kind": "photo",
+    "title": "IAI HAROP",
+    "assets": [
+      "harop"
+    ],
+    "original_scene_ids": [
+      "shot-112"
+    ],
+    "asr_timing_aid": " अद्रों आप केवल निग्रानी के सहायक  सादधन नहीं नहीं है,  वे आदूनिक सैन ने तक्राव का एक पून हिस्सा बन चुके है.  बारत के पास अज्राएली तक्निक के अस्तमाल का अनुबव है,  और वो अपने कारक्रमो का विकास फी कर रहा है.  पाकिस्तान गरेलु पर्योजनाव और विदेशी साजजदारों के सह्योग परनिरभर करता है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-109",
+    "start": 806.8666666666667,
+    "end": 813.1666666666666,
+    "kind": "photo",
+    "title": "SHAHPAR-II",
+    "assets": [
+      "shahpar"
+    ],
+    "original_scene_ids": [
+      "shot-113"
+    ],
+    "asr_timing_aid": " पाकिस्तान गरेलु पर्योजनाव और विदेशी साजजदारों के सह्योग परनिरभर करता है.  लिकन द्रोन की प्रभाव्षील ता केवल उनकी तक्नी की विषिष्ताव से तैनही होती.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-110",
+    "start": 813.1666666666666,
+    "end": 824.3666666666667,
+    "kind": "compare",
+    "title": "मानवरहित प्रणालियाँ",
+    "assets": [
+      "heron",
+      "shahpar"
+    ],
+    "original_scene_ids": [
+      "shot-114"
+    ],
+    "asr_timing_aid": " लिकन द्रोन की प्रभाव्षील ता केवल उनकी तक्नी की विषिष्ताव से तैनही होती.  निंद्रन प्रनालिया संचार की सुरक्षा और एल्क्ट्ड उपकरनों का सामना करने की क्षमता भी महत्वपून है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-111",
+    "start": 824.3666666666667,
+    "end": 827.8666666666667,
+    "kind": "section",
+    "title": "वायु रक्षा",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " निंद्रन प्रनालिया संचार की सुरक्षा और एल्क्ट्ड उपकरनों का सामना करने की क्षमता भी महत्वपून है  वायू रक्षा अब सब से महत्वपून श्रेनियो में से एक की बात करते हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-112",
+    "start": 827.8666666666667,
+    "end": 841.6666666666666,
+    "kind": "photo",
+    "title": "S-400 · प्रणाली परिवार",
+    "assets": [
+      "s400"
+    ],
+    "original_scene_ids": [
+      "shot-115",
+      "shot-116",
+      "shot-117"
+    ],
+    "asr_timing_aid": " वायू रक्षा अब सब से महत्वपून श्रेनियो में से एक की बात करते हैं  वायू रक्षा  बारत एस चार्सो वायू रक्षा मिसाल प्रनाली का अईस्तमाल करता है,  ये लंभी दूरी की प्रनाली है, जिसे विभिन्न प्रकार के हवाय लक्षों का सामना करने किलिए बनाया गया है.  बारतिय सेना के पास स्वदेशी",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-113",
+    "start": 841.6666666666666,
+    "end": 852.0333333333333,
+    "kind": "photo",
+    "title": "AKASH",
+    "assets": [
+      "akash"
+    ],
+    "original_scene_ids": [
+      "shot-118"
+    ],
+    "asr_timing_aid": " बारतिय सेना के पास स्वदेशी  तकनीक शम्तां कि सीमा के वि मानो और अन्ने हवाई खत्रों का मुकापला करने कि लिए भिखसित किया गया है।  रडार औ़ अंने प्रनालियोंके साथ मिलकर यह बहुस्तर्य",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-114",
+    "start": 852.0333333333333,
+    "end": 857.1333333333333,
+    "kind": "compare",
+    "title": "बहुस्तरीय रक्षा",
+    "assets": [
+      "s400",
+      "hq9"
+    ],
+    "original_scene_ids": [
+      "shot-119"
+    ],
+    "asr_timing_aid": " रडार औ़ अंने प्रनालियोंके साथ मिलकर यह बहुस्तर्य  या रक्षा विवस्था बनाती है।  आप पाकिस्नान की बात करते हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-115",
+    "start": 857.1333333333333,
+    "end": 869.1666666666666,
+    "kind": "photo",
+    "title": "HQ-9 · प्रणाली परिवार",
+    "assets": [
+      "hq9"
+    ],
+    "original_scene_ids": [
+      "shot-120"
+    ],
+    "asr_timing_aid": " आप पाकिस्नान की बात करते हैं  उसकी वायु रख्शा की सबसे महत्वोपून प्रनालियो में से एक  है, चीन की HQ-9-P ये हवाई लक्षों का मुखाबला करनेवाली लंभी दूरी की प्रनाली है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-116",
+    "start": 869.1666666666666,
+    "end": 875.2666666666667,
+    "kind": "photo",
+    "title": "HQ-16 · LY-80 परिवार",
+    "assets": [
+      "ly80"
+    ],
+    "original_scene_ids": [
+      "shot-121"
+    ],
+    "asr_timing_aid": " पाकिस्तान ल्वाय अस्सी का भी अस्तिमाल करता है, जो चीन के HQ-16 परिवार से संबंदित है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-117",
+    "start": 875.2666666666667,
+    "end": 887.2333333333333,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-region"
+    ],
+    "original_scene_ids": [
+      "shot-122"
+    ],
+    "asr_timing_aid": " अब मुख्ह सवाल.  वास्तविख संगर्ष में इन प्रनालियों का प्रदर्षन कैसा रहा?  दोहाजार पच्छीस के माई महीने में दोनो पक्षों ने मिसाईलों  और द्रों को सफलता पूर्वक रोकने के दावे किया.  स्वतन्त्र आखलनों के अनुसार भार्ती एभायु रक्षा",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-118",
+    "start": 887.2333333333333,
+    "end": 893.8666666666667,
+    "kind": "photo",
+    "title": "S-400 · प्रणाली परिवार",
+    "assets": [
+      "s400"
+    ],
+    "original_scene_ids": [
+      "shot-123"
+    ],
+    "asr_timing_aid": " स्वतन्त्र आखलनों के अनुसार भार्ती एभायु रक्षा  पाकिस्तान के हमलों के एक बड़े हिस्से का मुखाबला करने में सफल रही  इसी दोरान भारत ने पाकिस्तान के कषेत्र में मुझुद लक्ष्यों पर सतिक हमले भी किये",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-119",
+    "start": 893.8666666666667,
+    "end": 899.4,
+    "kind": "photo",
+    "title": "BRAHMOS",
+    "assets": [
+      "brahmos"
+    ],
+    "original_scene_ids": [
+      "shot-124"
+    ],
+    "asr_timing_aid": " इसी दोरान भारत ने पाकिस्तान के कषेत्र में मुझुद लक्ष्यों पर सतिक हमले भी किये  इस का मतलब है कोई भी पक्ष पूरी तरह अबहेद दिहवाई सुरक्षा कवछ नहीं बना सका",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-120",
+    "start": 899.4,
+    "end": 906.9,
+    "kind": "compare",
+    "title": "वायु रक्षा की भी सीमाएँ हैं",
+    "assets": [
+      "s400",
+      "hq9"
+    ],
+    "original_scene_ids": [
+      "shot-125"
+    ],
+    "asr_timing_aid": " इस का मतलब है कोई भी पक्ष पूरी तरह अबहेद दिहवाई सुरक्षा कवछ नहीं बना सका  यहां एक बाद समजना जरूरी है, वायु रक्षा प्रनाली सर्फ एक",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-121",
+    "start": 906.9,
+    "end": 917.5333333333333,
+    "kind": "archive",
+    "title": "कमान और समन्वय · अभ्यास, 2026",
+    "assets": [
+      "integrated"
+    ],
+    "original_scene_ids": [
+      "shot-126"
+    ],
+    "asr_timing_aid": " यहां एक बाद समजना जरूरी है, वायु रक्षा प्रनाली सर्फ एक  लांचर नहीं होती।  इस में रदार, कमान्ट केंद्र, संछार सादन,  मिسायलों का बंडार और प्रशिक्ष्थ सं्चालन् दल शामिल होटे है।  सब से आदूनिक परनाली की भी अपनी सीमाए हो ती है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-122",
+    "start": 917.5333333333333,
+    "end": 924.9666666666667,
+    "kind": "photo",
+    "title": "AKASH",
+    "assets": [
+      "akash"
+    ],
+    "original_scene_ids": [
+      "shot-127",
+      "shot-128"
+    ],
+    "asr_timing_aid": " सब से आदूनिक परनाली की भी अपनी सीमाए हो ती है  भारत के पास  आयातिद और सुदेशी प्रनालियों का एक शक्ति शाली संयोजन है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-123",
+    "start": 924.9666666666667,
+    "end": 929.0666666666667,
+    "kind": "photo",
+    "title": "HQ-9 · प्रणाली परिवार",
+    "assets": [
+      "hq9"
+    ],
+    "original_scene_ids": [
+      "shot-129"
+    ],
+    "asr_timing_aid": " पकिस्तान ने चीनी तकनीक का स्तमाल कर के, बहुसतरी रक्षावेवस्था बनाई  है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-124",
+    "start": 929.0666666666667,
+    "end": 935.0333333333333,
+    "kind": "photo",
+    "title": "AKASH",
+    "assets": [
+      "akash"
+    ],
+    "original_scene_ids": [
+      "shot-130"
+    ],
+    "asr_timing_aid": " है  लेकिन वास्तवेख प्रभाव्षील्ता इस बात पर निरभर करती है  कि उसके सभी हिस से मिलकर कितनी अच्छी तरह काम करते है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-125",
+    "start": 935.0333333333333,
+    "end": 938.5333333333333,
+    "kind": "section",
+    "title": "हेलीकॉप्टर",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " कि उसके सभी हिस से मिलकर कितनी अच्छी तरह काम करते है  हेलिकोप्तर  अगली श्रेनी है, हेलिकोप्तर",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-126",
+    "start": 938.5333333333333,
+    "end": 939.7333333333333,
+    "kind": "photo",
+    "title": "AH-64 APACHE · परिवार",
+    "assets": [
+      "model-apache"
+    ],
+    "original_scene_ids": [
+      "shot-131"
+    ],
+    "asr_timing_aid": " अगली श्रेनी है, हेलिकोप्तर",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-127",
+    "start": 939.7333333333333,
+    "end": 949.5333333333333,
+    "kind": "turntable",
+    "title": "AH-64 APACHE · परिवार",
+    "assets": [
+      "model-apache"
+    ],
+    "original_scene_ids": [
+      "shot-132"
+    ],
+    "asr_timing_aid": " बारत आमेरीकी एएच छोंसर्ट एई अपाचे का इस्तमाल करता है,  यह आदूनिक हम्लावर हेलिकोप्तर है,  जो उन्नत निग्रानी प्रनालियों और निर्देशित हत्यारो से लैस है,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-128",
+    "start": 949.5333333333333,
+    "end": 954.1666666666666,
+    "kind": "archive",
+    "title": "AH-64 · भारत, अभ्यास 2026",
+    "assets": [
+      "apache-indian-action"
+    ],
+    "original_scene_ids": [
+      "shot-133"
+    ],
+    "asr_timing_aid": " जो उन्नत निग्रानी प्रनालियों और निर्देशित हत्यारो से लैस है,  इनहे खल सेना की सहाइता और जमीनी लक्षों का मुखाबला करने के लिए बनाया गया है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-129",
+    "start": 954.1666666666666,
+    "end": 965.4333333333333,
+    "kind": "photo",
+    "title": "HAL PRACHAND",
+    "assets": [
+      "lch"
+    ],
+    "original_scene_ids": [
+      "shot-134"
+    ],
+    "asr_timing_aid": " इनहे खल सेना की सहाइता और जमीनी लक्षों का मुखाबला करने के लिए बनाया गया है  बारत के पास स्वदेशी हल्के  लडाकू हेलिकोठर प्रचंद भी है।  इनहीं कतन परस्थितियों और विषेश रुब से अदिक उचाए वालेक शेत्रू में  सन्चलन को दियान मेरक कर लिक्सित क्या गया है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-130",
+    "start": 965.4333333333333,
+    "end": 970.8333333333334,
+    "kind": "archive",
+    "title": "DHRUV · AUSTRAHIND, 2022",
+    "assets": [
+      "austrahind"
+    ],
+    "original_scene_ids": [
+      "shot-135"
+    ],
+    "asr_timing_aid": " सन्चलन को दियान मेरक कर लिक्सित क्या गया है  इसके लावा विब्हिन्त प्रकार के बहुद देशिये और परीवहन",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-131",
+    "start": 970.8333333333334,
+    "end": 992.3666666666667,
+    "kind": "photo",
+    "title": "AH-1 COBRA · परिवार",
+    "assets": [
+      "cobra-pak"
+    ],
+    "original_scene_ids": [
+      "shot-136",
+      "shot-137"
+    ],
+    "asr_timing_aid": " आप पाकिस्तान की बात करते हैं।  उसकी हमलावर, हलिकोठर क्षमता अटिहासिक रूप से AHA-Cobra पर आतहारित रही है।  इन मशीनो का उदेश  जमीनी सेना की सहता करना और बख्तर भंद वाहनो का मुकापला कच्टान आपने है।  पाकिस्तान, अپने लिकोप्त्र वेडे को आ धूनिक बनाने के कारेक्रम भी आگे बता रहा है  यह तुलना, केवल संक्या तक्सीमित नहीं है  अपाचे के पास आदूनिक सेंसर और",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-132",
+    "start": 992.3666666666667,
+    "end": 997.1,
+    "kind": "archive",
+    "title": "AH-64 · परिवार, अमेरिकी अभ्यास",
+    "assets": [
+      "apache-demo"
+    ],
+    "original_scene_ids": [
+      "shot-138"
+    ],
+    "asr_timing_aid": " यह तुलना, केवल संक्या तक्सीमित नहीं है  अपाचे के पास आदूनिक सेंसर और  हत्यारों की व्यापक शंख्ला है,  कोब्रा पिछली भीधी का प्लैट्फाम है, जिसे कई भार उन्नत किया गया है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-133",
+    "start": 997.1,
+    "end": 1001.0333333333333,
+    "kind": "photo",
+    "title": "AH-1 COBRA · परिवार",
+    "assets": [
+      "cobra-pak"
+    ],
+    "original_scene_ids": [
+      "shot-139"
+    ],
+    "asr_timing_aid": " कोब्रा पिछली भीधी का प्लैट्फाम है, जिसे कई भार उन्नत किया गया है.  लेएन आदूनिक हलिकोठ्टर भी कंदे से दागी जाने वोगना है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-134",
+    "start": 1001.0333333333333,
+    "end": 1014.5333333333333,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-north"
+    ],
+    "original_scene_ids": [
+      "shot-140"
+    ],
+    "asr_timing_aid": " लेएन आदूनिक हलिकोठ्टर भी कंदे से दागी जाने वोगना है.  विमान रोदी मिसाईलों और अन्ने वायु रक्षा सादनों के सामने असुरक्षत हो सकता है.  उचे पहाडी लाको में हेलिकोप्तरों का इस्तमाल विषेश रूप से कथिन बना रहता है.  इस्लिये बडद परिस्तितियों, चालक्दल के प्रषिक्षन अर अन्या सैन निबलों से मिलने वाली सहाइता पर निरभर करती है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-135",
+    "start": 1014.5333333333333,
+    "end": 1021.2666666666667,
+    "kind": "turntable",
+    "title": "AH-64 APACHE · परिवार",
+    "assets": [
+      "model-apache"
+    ],
+    "original_scene_ids": [
+      "shot-141"
+    ],
+    "asr_timing_aid": " इस्लिये बडद परिस्तितियों, चालक्दल के प्रषिक्षन अर अन्या सैन निबलों से मिलने वाली सहाइता पर निरभर करती है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-136",
+    "start": 1021.2666666666667,
+    "end": 1024.7666666666667,
+    "kind": "section",
+    "title": "नौसेना",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " इस्लिये बडद परिस्तितियों, चालक्दल के प्रषिक्षन अर अन्या सैन निबलों से मिलने वाली सहाइता पर निरभर करती है।  नोसे नां  अप समुद्र की वर बरते हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-137",
+    "start": 1024.7666666666667,
+    "end": 1029.2666666666667,
+    "kind": "photo",
+    "title": "INS VIKRANT · नौसेना के अभिलेख",
+    "assets": [
+      "vikrant"
+    ],
+    "original_scene_ids": [
+      "shot-142",
+      "shot-143"
+    ],
+    "asr_timing_aid": " अप समुद्र की वर बरते हैं  यहा दोनो देशों के बीच कानतर विषेश रूप से सपष्ट हो जाता है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-138",
+    "start": 1029.2666666666667,
+    "end": 1041.5333333333333,
+    "kind": "archive",
+    "title": "INS VIKRANT · नौसेना के अभिलेख",
+    "assets": [
+      "vikrant-video"
+    ],
+    "original_scene_ids": [
+      "shot-144"
+    ],
+    "asr_timing_aid": " यहा दोनो देशों के बीच कानतर विषेश रूप से सपष्ट हो जाता है  भारत के पास विमान वाहक पोथ NNS विक्रान्त है  भारत में बना ये यूध्द पोथ विमान बाहक पोथ से संचालित होने वाले लडाकू विमानो के लिए तयार किया आगया है  NNS विक्र मदित्ते के सात मिलकर ये भारत के विमान वाहक",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-139",
+    "start": 1041.5333333333333,
+    "end": 1046.9,
+    "kind": "photo",
+    "title": "INS VIKRAMADITYA",
+    "assets": [
+      "vikramaditya"
+    ],
+    "original_scene_ids": [
+      "shot-145"
+    ],
+    "asr_timing_aid": " NNS विक्र मदित्ते के सात मिलकर ये भारत के विमान वाहक  शमता का आदार बनाता है, भार्तिये नोसेना कुलकता और वीसाखा पतनम श्रेनी के वद्वं सक यूधपोतों काभी इस्तमाल करती है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-140",
+    "start": 1046.9,
+    "end": 1056.7666666666667,
+    "kind": "photo",
+    "title": "KOLKATA श्रेणी का विध्वंसक",
+    "assets": [
+      "kolkata"
+    ],
+    "original_scene_ids": [
+      "shot-146"
+    ],
+    "asr_timing_aid": " शमता का आदार बनाता है, भार्तिये नोसेना कुलकता और वीसाखा पतनम श्रेनी के वद्वं सक यूधपोतों काभी इस्तमाल करती है.  ये आ दूनिक रडार, प्रनालियों अर मिसाल हत्यारों से लैस हैं।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-141",
+    "start": 1056.7666666666667,
+    "end": 1061.3333333333333,
+    "kind": "photo",
+    "title": "KALVARI श्रेणी की पनडुब्बियाँ",
+    "assets": [
+      "kalvari"
+    ],
+    "original_scene_ids": [
+      "shot-147"
+    ],
+    "asr_timing_aid": " भारत के पास आपने कारिक्रम की अंतरगत विकसित रननीतिक परमानु संचलत पंडुबया भी है अप पकिस्तान कीबात करते",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-142",
+    "start": 1061.3333333333333,
+    "end": 1066.6333333333334,
+    "kind": "photo",
+    "title": "INS ARIHANT",
+    "assets": [
+      "arihant"
+    ],
+    "original_scene_ids": [
+      "shot-148"
+    ],
+    "asr_timing_aid": " भारत के पास आपने कारिक्रम की अंतरगत विकसित रननीतिक परमानु संचलत पंडुबया भी है अप पकिस्तान कीबात करते",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-143",
+    "start": 1066.6333333333334,
+    "end": 1086.4333333333334,
+    "kind": "photo",
+    "title": "TUGHRIL · TYPE 054A/P",
+    "assets": [
+      "type054"
+    ],
+    "original_scene_ids": [
+      "shot-149"
+    ],
+    "asr_timing_aid": " भारत के पास आपने कारिक्रम की अंतरगत विकसित रननीतिक परमानु संचलत पंडुबया भी है अप पकिस्तान कीबात करते  हैं। उसकी नोसेना का अकार चोटा है।  लेकिन उسके फास आधूनिक ताइप शुन्य पच चार A-P-Frigate है  में तुगरिल श्रेनी के नाम से जाना जाता है  ये यूध्पोत चीन में बनाईगाई है  और मिसाईल हत्यारों तथा वायु रक्षा प्रनालियों से लैस है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-144",
+    "start": 1086.4333333333334,
+    "end": 1095.0333333333333,
+    "kind": "photo",
+    "title": "AGOSTA · पनडुब्बी परिवार",
+    "assets": [
+      "agosta"
+    ],
+    "original_scene_ids": [
+      "shot-150"
+    ],
+    "asr_timing_aid": " पाकिस्तान अगोस्ता परिवार की पन्धुभ्वियों का भी अभी च्तिमाल करता है  आदूनिकी करन की एक महतोपून दिशा चीन से मिलने लागी नाई पन्डुभ्या है  यहा भूगोल को भी द्यान में दियान रहा चाहिये",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-145",
+    "start": 1095.0333333333333,
+    "end": 1101.6666666666667,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-navy"
+    ],
+    "original_scene_ids": [
+      "shot-151"
+    ],
+    "asr_timing_aid": " यहा भूगोल को भी द्यान में दियान रहा चाहिये  बारत की तट्रेख हा लंभी है और हिंद महा सागर में उसके महतोपून हित है।  उसकी नोसेना केवल अपने बंदर गाहों की रक्षा के लिए नहीं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-146",
+    "start": 1101.6666666666667,
+    "end": 1110.0,
+    "kind": "archive",
+    "title": "INS SHAKTI · MALABAR, 2020",
+    "assets": [
+      "navy-shakti"
+    ],
+    "original_scene_ids": [
+      "shot-152"
+    ],
+    "asr_timing_aid": " उसकी नोसेना केवल अपने बंदर गाहों की रक्षा के लिए नहीं  बलकी बड़े समुदरी कषेत्रो में आभ्यान चलाने के लिए भी तगार की रग्षा",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-147",
+    "start": 1110.0,
+    "end": 1117.2333333333333,
+    "kind": "photo",
+    "title": "TUGHRIL · TYPE 054A/P",
+    "assets": [
+      "type054"
+    ],
+    "original_scene_ids": [
+      "shot-153"
+    ],
+    "asr_timing_aid": " पाकिस्तान के मुख्य नोसेने कार्य, तट्ट की सुरक्षा, समुद्री मार्गों की रक्षा  और भारत्ये बलों को रोकने पर केंद्रित हैं.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-148",
+    "start": 1117.2333333333333,
+    "end": 1123.4333333333334,
+    "kind": "archive",
+    "title": "संयुक्त नौसैनिक अभ्यास · MALABAR, 2020",
+    "assets": [
+      "malabar"
+    ],
+    "original_scene_ids": [
+      "shot-154"
+    ],
+    "asr_timing_aid": " बारत के पास विमान बाहक और सतहे पर चलने युध्पोतों की  कही अदिक व्यापक शम्ता है.  पाकिस्तान फ्रिगेट पन्दुब्यों और तटी रक्षापर जोर देता है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-149",
+    "start": 1123.4333333333334,
+    "end": 1126.5666666666666,
+    "kind": "photo",
+    "title": "AGOSTA · परिवार",
+    "assets": [
+      "agosta"
+    ],
+    "original_scene_ids": [
+      "shot-155"
+    ],
+    "asr_timing_aid": " पाकिस्तान फ्रिगेट पन्दुब्यों और तटी रक्षापर जोर देता है.  लेकिन विरोदी पक्ष्छ की संख्या अदिक होने पर भी पन्दोभ्या बड़े युध्पोतों किलिए गंभीर खत्रा पैदा कर सकती हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-150",
+    "start": 1126.5666666666666,
+    "end": 1137.2666666666667,
+    "kind": "photo",
+    "title": "KALVARI श्रेणी की पनडुब्बियाँ",
+    "assets": [
+      "kalvari"
+    ],
+    "original_scene_ids": [
+      "shot-156"
+    ],
+    "asr_timing_aid": " लेकिन विरोदी पक्ष्छ की संख्या अदिक होने पर भी पन्दोभ्या बड़े युध्पोतों किलिए गंभीर खत्रा पैदा कर सकती हैं  इसलिये समुद्दरी बहधत कमतलब खत्रों का पूरी तरह समाप्त हो जाना नहीं है परमानु शस्त्रागार",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-151",
+    "start": 1137.2666666666667,
+    "end": 1140.7666666666667,
+    "kind": "section",
+    "title": "परमाणु शस्त्रागार",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " इसलिये समुद्दरी बहधत कमतलब खत्रों का पूरी तरह समाप्त हो जाना नहीं है परमानु शस्त्रागार  और अब सब से खतरनाख्शेनी परमानु हत्यार",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-152",
+    "start": 1140.7666666666667,
+    "end": 1142.4,
+    "kind": "photo",
+    "title": "AGNI · मिसाइल परिवार",
+    "assets": [
+      "agni"
+    ],
+    "original_scene_ids": [
+      "shot-157"
+    ],
+    "asr_timing_aid": " और अब सब से खतरनाख्शेनी परमानु हत्यार",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-153",
+    "start": 1142.4,
+    "end": 1165.0,
+    "kind": "graphic",
+    "title": "परमाणु शस्त्रागार · SIPRI का अनुमान",
+    "assets": [
+      "nuclear"
+    ],
+    "original_scene_ids": [
+      "shot-158",
+      "shot-159"
+    ],
+    "asr_timing_aid": " और अब सब से खतरनाख्शेनी परमानु हत्यार  बहरत और पाकिस्तान उन देशो में शामिल हैं जिनके पास परमानु शस्त्रागार है  स्टोक होम अंतराश्व्ये शान्तियानु संदान  भारत पाकिस्तान  नबभे पर्मानु हत्यार थे  पाकिस्तान के पास लग्बभग एक सो सथटर  लेकिन ये शोद करताओं के अनुमान है, नकी सतीक अदिकारि काग्रे  भारत अगनी भेलिस्टिक मिसाल पर्यवार का विकास कर रहा है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-154",
+    "start": 1165.0,
+    "end": 1168.5666666666666,
+    "kind": "photo",
+    "title": "AGNI · मिसाइल परिवार",
+    "assets": [
+      "agni"
+    ],
+    "original_scene_ids": [
+      "shot-160"
+    ],
+    "asr_timing_aid": " भारत अगनी भेलिस्टिक मिसाल पर्यवार का विकास कर रहा है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-155",
+    "start": 1168.5666666666666,
+    "end": 1172.4333333333334,
+    "kind": "archive",
+    "title": "K-4 · परीक्षण प्रक्षेपण, 2014",
+    "assets": [
+      "k4-launch"
+    ],
+    "original_scene_ids": [
+      "shot-161"
+    ],
+    "asr_timing_aid": " भारत अगनी भेलिस्टिक मिसाल पर्यवार का विकास कर रहा है  वो अपने पर्मानु प्रतिरोद के समुद्री गटक पर भी काम कर रहा है  पाकिस्तान शाहीन पर्यवार की मिसाईलों और रन्नीतिग बलुं से संबंदित अनने प्रक्षेपन सादनों का इस्तिमाल करता है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-156",
+    "start": 1172.4333333333334,
+    "end": 1184.2,
+    "kind": "photo",
+    "title": "SHAHEEN · मिसाइल परिवार",
+    "assets": [
+      "shaheen"
+    ],
+    "original_scene_ids": [
+      "shot-162"
+    ],
+    "asr_timing_aid": " पाकिस्तान शाहीन पर्यवार की मिसाईलों और रन्नीतिग बलुं से संबंदित अनने प्रक्षेपन सादनों का इस्तिमाल करता है  हला की पर्मानु तक्राव का अकलन केवल हत्यारों की संख्या से नहीं किया जा सकता",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-157",
+    "start": 1184.2,
+    "end": 1201.0,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-region"
+    ],
+    "original_scene_ids": [
+      "shot-163"
+    ],
+    "asr_timing_aid": " पर्मानु हत्यारों का सीमित अस्तिमाल भी विनाश्कारी मानविये परनाम पैडा कर सकता है  इसिलिये 2025 के माई संगर्ष ने पूरी दुन्या में इतनी चिंता पैडा की  परमानु हत्यार रखने बाले दो देश मिसाईलों और द्रोन से एक दुस्रे परहम्ले कर रहे देश.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-158",
+    "start": 1201.0,
+    "end": 1205.7666666666667,
+    "kind": "photo",
+    "title": "नई दिल्ली",
+    "assets": [
+      "delhi"
+    ],
+    "original_scene_ids": [
+      "shot-164"
+    ],
+    "asr_timing_aid": " हर अगला कदम संगर्ष के और व्यापक होने का खत्रा पैदा कर रहा था.  हालां की संगर्ष युध्द विराम",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-159",
+    "start": 1205.7666666666667,
+    "end": 1214.7,
+    "kind": "photo",
+    "title": "इस्लामाबाद",
+    "assets": [
+      "islamabad"
+    ],
+    "original_scene_ids": [
+      "shot-165"
+    ],
+    "asr_timing_aid": " हालां की संगर्ष युध्द विराम  के साथ समाप्त हुए, लेकिन उसने दिखाया की आधूनिक पारंपरी कहत्यारों और परमानो प्रतिरोद का मेल कितना खतरनाक हो सकता है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-160",
+    "start": 1214.7,
+    "end": 1222.3333333333333,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-region"
+    ],
+    "original_scene_ids": [
+      "shot-166"
+    ],
+    "asr_timing_aid": " के साथ समाप्त हुए, लेकिन उसने दिखाया की आधूनिक पारंपरी कहत्यारों और परमानो प्रतिरोद का मेल कितना खतरनाक हो सकता है।  इस शेनी में कोई आसान  विजेटा नहीं है।  क्योंकि परमालो योद्ध की संभावना ही  किसी भी बड़े तक्राव को विनाशकारी बना देती है।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-161",
+    "start": 1222.3333333333333,
+    "end": 1225.8333333333333,
+    "kind": "section",
+    "title": "निष्कर्ष",
+    "assets": [],
+    "original_scene_ids": [],
+    "asr_timing_aid": " किसी भी बड़े तक्राव को विनाशकारी बना देती है।  तो हमने भारत और पाकिस्तान के  सैन निशस्तरागार की तुल्ना की",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-162",
+    "start": 1225.8333333333333,
+    "end": 1230.0666666666666,
+    "kind": "photo",
+    "title": "RAFALE · विमान परिवार",
+    "assets": [
+      "rafale-india"
+    ],
+    "original_scene_ids": [
+      "shot-167",
+      "shot-168"
+    ],
+    "asr_timing_aid": " सैन निशस्तरागार की तुल्ना की  अब हम कुछ निषकर्ष  नीकाल सकते हैं।",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-163",
+    "start": 1230.0666666666666,
+    "end": 1235.8,
+    "kind": "turntable",
+    "title": "RAFALE · विमान परिवार",
+    "assets": [
+      "model-rafale"
+    ],
+    "original_scene_ids": [
+      "shot-169"
+    ],
+    "asr_timing_aid": " नीकाल सकते हैं।  वायुसेना के खेत्र में भारत केपास लडाकू विमानो का बड़ा और अदिक वेविध भेडह है।  लेकिन पाकिस्तान ने दिखाया की आदूनिक J-10CE, मिजाएलों अर यूद",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-164",
+    "start": 1235.8,
+    "end": 1246.6333333333334,
+    "kind": "photo",
+    "title": "J-10 · विमान परिवार",
+    "assets": [
+      "j10"
+    ],
+    "original_scene_ids": [
+      "shot-170"
+    ],
+    "asr_timing_aid": " लेकिन पाकिस्तान ने दिखाया की आदूनिक J-10CE, मिजाएलों अर यूद",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-165",
+    "start": 1246.6333333333334,
+    "end": 1250.1333333333334,
+    "kind": "photo",
+    "title": "T-90S BHISHMA",
+    "assets": [
+      "bhishma"
+    ],
+    "original_scene_ids": [
+      "shot-171"
+    ],
+    "asr_timing_aid": " भाक्तर बंद वाहनु के मामले में भी बारत  पैमाना कही बडा है,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-166",
+    "start": 1250.1333333333334,
+    "end": 1255.7333333333333,
+    "kind": "photo",
+    "title": "VT-4",
+    "assets": [
+      "vt4"
+    ],
+    "original_scene_ids": [
+      "shot-172"
+    ],
+    "asr_timing_aid": " वही पाकिस्तान चीनी तक्नीक की मदध से अपने टांक भेडे का आदूनी की करन कर रहा है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-167",
+    "start": 1255.7333333333333,
+    "end": 1261.2666666666667,
+    "kind": "compare",
+    "title": "BRAHMOS और SHAHEEN",
+    "assets": [
+      "brahmos",
+      "shaheen"
+    ],
+    "original_scene_ids": [
+      "shot-173"
+    ],
+    "asr_timing_aid": " मिसाएल हत्यारों के खषेत्र में दोनो देशों के पास खतरनाक सटीक और भेलिस्टिक प्रनालिया है.  तोप्खाने में बारत आदूनिक प्लेट्फाम की व्यापक श्रिंखला का इस्तिमाल करता है,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-168",
+    "start": 1261.2666666666667,
+    "end": 1270.7,
+    "kind": "archive",
+    "title": "M777 · अभ्यास, 2026",
+    "assets": [
+      "m777-india"
+    ],
+    "original_scene_ids": [
+      "shot-174"
+    ],
+    "asr_timing_aid": " तोप्खाने में बारत आदूनिक प्लेट्फाम की व्यापक श्रिंखला का इस्तिमाल करता है,  जब की पाकिस्तान गतिषील स्वचालित प्रनालियों का विकास कर रहा है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-169",
+    "start": 1270.7,
+    "end": 1275.9,
+    "kind": "compare",
+    "title": "HERON और SHAHPAR-II",
+    "assets": [
+      "heron",
+      "shahpar"
+    ],
+    "original_scene_ids": [
+      "shot-175"
+    ],
+    "asr_timing_aid": " द्रोंके क्षेट्र में दोनो देशों ने नहीं तक्निक का इस्तिमाल करने की तत्पर्ता दिखाई है  और वायु रक्षा के मामले में संगर्ष ने सब से महत्भुन बात सामने रख्खी",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-170",
+    "start": 1275.9,
+    "end": 1283.9666666666667,
+    "kind": "compare",
+    "title": "S-400 और HQ-9",
+    "assets": [
+      "s400",
+      "hq9"
+    ],
+    "original_scene_ids": [
+      "shot-176"
+    ],
+    "asr_timing_aid": " और वायु रक्षा के मामले में संगर्ष ने सब से महत्भुन बात सामने रख्खी  कोई भी प्रनाली पुरी तरह अभेद्दिस रक्षा प्रदान नहीं करती",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-171",
+    "start": 1283.9666666666667,
+    "end": 1290.8666666666666,
+    "kind": "archive",
+    "title": "INS VIKRANT · नौसेना के अभिलेख",
+    "assets": [
+      "vikrant-video"
+    ],
+    "original_scene_ids": [
+      "insert-038937"
+    ],
+    "asr_timing_aid": " कोई भी प्रनाली पुरी तरह अभेद्दिस रक्षा प्रदान नहीं करती  समद्र में विमान बाहक पोतों, बड़े सतही यॐद्ध पोतों  और रन्नीतिक पन्दुभियों के कारन, बारत की क्षम्ताय कही अदिक व्यापक हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-172",
+    "start": 1290.8666666666666,
+    "end": 1293.3666666666666,
+    "kind": "photo",
+    "title": "VIKRANT",
+    "assets": [
+      "vikrant"
+    ],
+    "original_scene_ids": [
+      "insert-039117"
+    ],
+    "asr_timing_aid": " और रन्नीतिक पन्दुभियों के कारन, बारत की क्षम्ताय कही अदिक व्यापक हैं",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-173",
+    "start": 1293.3666666666666,
+    "end": 1299.9,
+    "kind": "photo",
+    "title": "AGOSTA · परिवार",
+    "assets": [
+      "agosta"
+    ],
+    "original_scene_ids": [
+      "shot-178"
+    ],
+    "asr_timing_aid": " और रन्नीतिक पन्दुभियों के कारन, बारत की क्षम्ताय कही अदिक व्यापक हैं  लेकिन पाकिस्तान भी मुकाबला करने की क्षम्ता बनाय रकता है  विशेश रूप से आपने पन्दुभी बेडे की मददद से",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-174",
+    "start": 1299.9,
+    "end": 1309.6333333333334,
+    "kind": "photo",
+    "title": "SHAHEEN · मिसाइल परिवार",
+    "assets": [
+      "shaheen"
+    ],
+    "original_scene_ids": [
+      "shot-179"
+    ],
+    "asr_timing_aid": " विशेश रूप से आपने पन्दुभी बेडे की मददद से  और न्द में आते हैं पर मानु हत्यार  यही हत्यार दोनो देशों के बीछ किसी भी सीदे और बड़े संगर्ष को अत्यंत खतरनाग बनाते हैं  अगर पारमपर एक सैंने बलों के कुल पैमाने की तुल्ना करें, तो संक्या, प्लाट्फोम की विविद्था, और नो सैंने क्षम्ताों के मामले में बारत को बडद्ह थासिल है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-175",
+    "start": 1309.6333333333334,
+    "end": 1323.1333333333334,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-region"
+    ],
+    "original_scene_ids": [
+      "shot-180"
+    ],
+    "asr_timing_aid": " अगर पारमपर एक सैंने बलों के कुल पैमाने की तुल्ना करें, तो संक्या, प्लाट्फोम की विविद्था, और नो सैंने क्षम्ताों के मामले में बारत को बडद्ह थासिल है.  लेकिन इसका मतलब वास्त्वे क्योद्ध में जीद की गारन्टी नहीं है.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-176",
+    "start": 1323.1333333333334,
+    "end": 1331.8666666666666,
+    "kind": "photo",
+    "title": "J-10CE · झुहाई प्रदर्शनी 2024",
+    "assets": [
+      "j10ce"
+    ],
+    "original_scene_ids": [
+      "shot-181"
+    ],
+    "asr_timing_aid": " लेकिन इसका मतलब वास्त्वे क्योद्ध में जीद की गारन्टी नहीं है.  पाकिस्तान के पास आदूनिक लडाकू विमान, मिसाईल प्रनालिया, प्रशिक्षिट सैन्ने इकाया और अपनी रन्नीतिक प्रतिरोद क्षम्ता है.  2025 के मैं महीने का मुख्य सबक यही है, सैन्ने उपकरनो की संख्या हर तक्राउ का नतीजा तैनही करती.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-177",
+    "start": 1331.8666666666666,
+    "end": 1335.5666666666666,
+    "kind": "turntable",
+    "title": "RAFALE · विमान परिवार",
+    "assets": [
+      "model-rafale"
+    ],
+    "original_scene_ids": [
+      "shot-182"
+    ],
+    "asr_timing_aid": " 2025 के मैं महीने का मुख्य सबक यही है, सैन्ने उपकरनो की संख्या हर तक्राउ का नतीजा तैनही करती.",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-178",
+    "start": 1335.5666666666666,
+    "end": 1339.2666666666667,
+    "kind": "photo",
+    "title": "VT-4",
+    "assets": [
+      "vt4"
+    ],
+    "original_scene_ids": [
+      "shot-183"
+    ],
+    "asr_timing_aid": " 2025 के मैं महीने का मुख्य सबक यही है, सैन्ने उपकरनो की संख्या हर तक्राउ का नतीजा तैनही करती.  खोफिया जानकारी, समनवे, प्रषिक्षन, तकनीक, और तेजी से बदलती परस्तितियों के अनुसार ड़लने की",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-179",
+    "start": 1339.2666666666667,
+    "end": 1347.5,
+    "kind": "archive",
+    "title": "इकाइयों का प्रशिक्षण · अभ्यास, 2022",
+    "assets": [
+      "yudh22"
+    ],
+    "original_scene_ids": [
+      "shot-184"
+    ],
+    "asr_timing_aid": " खोफिया जानकारी, समनवे, प्रषिक्षन, तकनीक, और तेजी से बदलती परस्तितियों के अनुसार ड़लने की  ॥ ६ २ ४ ३ ५ ० ८ ॵ १ ॸ ॲ ॹ ॰ ॴ ९ ॱ ॡ ौ ॼ ॐ ॢ ॉ क़ ॒ ै ॑ ॔ ॓ ू ु ड़ ॕ ॄ ख़ ी ढ़ ृ",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-180",
+    "start": 1347.5,
+    "end": 1355.9,
+    "kind": "map",
+    "title": "दक्षिण एशिया",
+    "assets": [
+      "map-region"
+    ],
+    "original_scene_ids": [
+      "shot-185"
+    ],
+    "asr_timing_aid": " ॥ ६ २ ४ ३ ५ ० ८ ॵ १ ॸ ॲ ॹ ॰ ॴ ९ ॱ ॡ ौ ॼ ॐ ॢ ॉ क़ ॒ ै ॑ ॔ ॓ ू ु ड़ ॕ ॄ ख़ ी ढ़ ृ",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-181",
+    "start": 1355.9,
+    "end": 1360.8,
+    "kind": "question",
+    "title": "आपको सबसे अधिक किस बात ने चौंकाया?",
+    "assets": [
+      "original"
+    ],
+    "original_scene_ids": [
+      "shot-186"
+    ],
+    "asr_timing_aid": " ॥ ६ २ ४ ३ ५ ० ८ ॵ १ ॸ ॲ ॹ ॰ ॴ ९ ॱ ॡ ौ ॼ ॐ ॢ ॉ क़ ॒ ै ॑ ॔ ॓ ू ु ड़ ॕ ॄ ख़ ी ढ़ ृ  तुल्ला में आपको सबसे अदेक किस बातने चोकाया,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-182",
+    "start": 1360.8,
+    "end": 1364.1333333333334,
+    "kind": "compare",
+    "title": "RAFALE और J-10CE?",
+    "assets": [
+      "rafale-india",
+      "j10"
+    ],
+    "original_scene_ids": [
+      "shot-187"
+    ],
+    "asr_timing_aid": " रफेल और जे दस C E का हवाई तक्राव, ब्रह्मोज और शाहीन की मिसाल क्षमताई,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-183",
+    "start": 1364.1333333333334,
+    "end": 1366.5333333333333,
+    "kind": "compare",
+    "title": "BRAHMOS और SHAHEEN?",
+    "assets": [
+      "brahmos",
+      "shaheen"
+    ],
+    "original_scene_ids": [
+      "shot-188"
+    ],
+    "asr_timing_aid": " रफेल और जे दस C E का हवाई तक्राव, ब्रह्मोज और शाहीन की मिसाल क्षमताई,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-184",
+    "start": 1366.5333333333333,
+    "end": 1370.1333333333334,
+    "kind": "compare",
+    "title": "विमानवाहक पोत या पनडुब्बियाँ?",
+    "assets": [
+      "vikrant",
+      "agosta"
+    ],
+    "original_scene_ids": [
+      "shot-189"
+    ],
+    "asr_timing_aid": " या दोनो देशों की नाउसेनावो के बीच कानतर,",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-185",
+    "start": 1370.1333333333334,
+    "end": 1378.5,
+    "kind": "question",
+    "title": "अगली तुलना किन दो देशों की हो?",
+    "assets": [
+      "original"
+    ],
+    "original_scene_ids": [
+      "shot-190"
+    ],
+    "asr_timing_aid": " कमेंट में बताये की हत्यारों की कोंसी श्रनी आपको सब से दिल्चस प्लगी  और अगले मुखाबले के लिए दो देशों के नाम जरुज सुजहाए  अगर आपको सैन इ तकनीक की विस्त्रद जानकारी वाले विट्यो पसन्द है",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-186",
+    "start": 1378.5,
+    "end": 1385.4666666666667,
+    "kind": "outro",
+    "title": "शस्त्र 360 को सब्सक्राइब करें",
+    "assets": [
+      "original"
+    ],
+    "original_scene_ids": [
+      "shot-191"
+    ],
+    "asr_timing_aid": " अगर आपको सैन इ तकनीक की विस्त्रद जानकारी वाले विट्यो पसन्द है  तो विडियो को लाइक करें और चैनल को स्व्स्क्राइप करें  आपके साथ ता शस्टर तीन सो साथ",
+    "asr_is_not_verified_script": true
+  },
+  {
+    "scene": "hi006-187",
+    "start": 1385.4666666666667,
+    "end": 1391.5,
+    "kind": "ident",
+    "title": "ARSENAL 360",
+    "assets": [
+      "original"
+    ],
+    "original_scene_ids": [
+      "shot-192"
+    ],
+    "asr_timing_aid": " आपके साथ ता शस्टर तीन सो साथ  सैन्ने तकनीक की दूनिया  अगले आपिसोट में फिर मिलेंगें",
+    "asr_is_not_verified_script": true
+  }
+]

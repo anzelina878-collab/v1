@@ -1,0 +1,1 @@
+Noto Sans Devanagari and Noto Sans are distributed under the SIL Open Font License. ArsenalHindi is a merged font built with fontTools.merge, adding Latin technical names to the Devanagari shaping tables. Original copyright and license: Noto-fonts-copyright.txt.

@@ -1,0 +1,58 @@
+{
+  "status": "passed",
+  "method": "All ZIP media hashes verified by streaming; independent sparse extraction of code/fonts/voice and representative media; ten scene kinds rendered using only extracted files. Sparse extraction saves disk and does not skip any ZIP asset integrity check.",
+  "selected_asset_hashes_checked": 150,
+  "source_render_sha256": "ca2867cfd092a3244fd7f28ebf61c9cbaad7afe54685e17e29674b234d522d1b",
+  "samples": [
+    {
+      "kind": "turntable",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "archive",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "photo",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "compare",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "graphic",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "section",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "ident",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "question",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "map",
+      "frames": 33,
+      "status": "passed"
+    },
+    {
+      "kind": "outro",
+      "frames": 33,
+      "status": "passed"
+    }
+  ]
+}
