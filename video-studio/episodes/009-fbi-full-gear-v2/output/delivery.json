@@ -1,0 +1,22 @@
+{
+  "schema": "arsenal.media-delivery.v1",
+  "revision": 2,
+  "role_correction": "Generic operator only once in SWAT. Authentic unit-specific imagery for HRT and ordinary agents.",
+  "source_commit": "7c830473607d28c10f363d8385bbb18dee49f481",
+  "duration_seconds": 1039.2333333333333,
+  "files": [
+    {
+      "name": "final_video_v2.mp4",
+      "repo_path": "video-studio/episodes/009-fbi-full-gear-v2/output/final_video_v2.mp4",
+      "bytes": 184998219,
+      "sha256": "1b791bea356b6c7d8f9064206bb72f820c28da1ab924734e2a141d460a7b6a65"
+    },
+    {
+      "name": "project_source_v2.zip",
+      "repo_path": "video-studio/episodes/009-fbi-full-gear-v2/output/project_source_v2.zip",
+      "bytes": 375040698,
+      "sha256": "919bab2ee7181df89021d5857e96532305a5e19adc37bb785c274d54caf7fa9c"
+    }
+  ],
+  "continuous_human_watch_and_listen": false
+}
