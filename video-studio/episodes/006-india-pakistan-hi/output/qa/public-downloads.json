@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "commit": "51c5889b9c4c8df41f222b3bfdc52b85c71c7718",
+  "method": "Both full public files downloaded through validated byte ranges and ordered SHA-256; actual transferred byte counts verified.",
+  "files": [
+    {
+      "name": "final_video_hi_v1.mp4",
+      "repo_path": "video-studio/episodes/006-india-pakistan-hi/output/final_video_hi_v1.mp4",
+      "bytes": 197529783,
+      "sha256": "01c5f28a48007c1c4a052afa1b692fa9652506c46cb1ce159153cc1cc9f84c65",
+      "url": "https://media.githubusercontent.com/media/anzelina878-collab/v1/51c5889b9c4c8df41f222b3bfdc52b85c71c7718/video-studio/episodes/006-india-pakistan-hi/output/final_video_hi_v1.mp4?download=1",
+      "public_download_bytes": 197529783,
+      "public_sha256": "01c5f28a48007c1c4a052afa1b692fa9652506c46cb1ce159153cc1cc9f84c65",
+      "status": "passed"
+    },
+    {
+      "name": "project_source_hi_v1.zip",
+      "repo_path": "video-studio/episodes/006-india-pakistan-hi/output/project_source_hi_v1.zip",
+      "bytes": 576536032,
+      "sha256": "3bb3225045f02b383f7dbb2ef185c5d1776d081dbd6e9295876f6421a338d912",
+      "url": "https://media.githubusercontent.com/media/anzelina878-collab/v1/51c5889b9c4c8df41f222b3bfdc52b85c71c7718/video-studio/episodes/006-india-pakistan-hi/output/project_source_hi_v1.zip?download=1",
+      "public_download_bytes": 576536032,
+      "public_sha256": "3bb3225045f02b383f7dbb2ef185c5d1776d081dbd6e9295876f6421a338d912",
+      "status": "passed"
+    }
+  ]
+}
